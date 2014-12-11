@@ -19,15 +19,16 @@ namespace MinimalRTDServer
     ]
     public class RtdServer : IRtdServer
     {
-        private readonly Dictionary<int, Countdown> _topics = new Dictionary<int, Countdown>();
+        //private readonly Dictionary<int, Countdown> _topics = new Dictionary<int, Countdown>();
         private Timer _timer;
+        private int _topic_id;
 
         public int ServerStart(IRTDUpdateEvent rtdUpdateEvent)
         {
             _timer = new Timer( delegate { rtdUpdateEvent.UpdateNotify(); }
                               , null
                               , TimeSpan.Zero
-                              , TimeSpan.FromMilliseconds(10.0));
+                              , TimeSpan.FromMilliseconds(1000));
             return 1;
         }
 
@@ -36,16 +37,24 @@ namespace MinimalRTDServer
             var start = Convert.ToInt32(strings.GetValue(0).ToString());
             getNewValues = true;
 
-            _topics[topicId] = new Countdown { CurrentValue = start };
+            _topic_id = topicId;
+            //_topics[topicId] = new Countdown { CurrentValue = start };
 
-            return start;
+            //return start;
+            return GetTime();
         }
 
         public Array RefreshData(ref int topicCount)
         {
-            var data = new object[2, _topics.Count];
-            var index = 0;
+            var data = new object[2, 1];
 
+            data[0, 0] = _topic_id;
+            data[1, 0] = GetTime();
+            topicCount = 1;
+
+            /*
+            var index = 0;
+            
             foreach (var entry in _topics)
             {
                 --entry.Value.CurrentValue;
@@ -55,13 +64,20 @@ namespace MinimalRTDServer
             }
 
             topicCount = _topics.Count;
+            */
 
             return data;
         }
 
+        private string GetTime()
+        {
+            return DateTime.Now.ToString("hh:mm:ss:ff");
+        }
+
         public void DisconnectData(int topicId)
         {
-            _topics.Remove(topicId);
+            _timer.Dispose();
+            //topics.Remove(topicId);
         }
 
         public int Heartbeat() { return 1; }
