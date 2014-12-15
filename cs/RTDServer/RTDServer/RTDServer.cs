@@ -9,7 +9,6 @@ using Microsoft.Office.Interop.Excel;
 
 using Npgsql;
 
-
 namespace RTDServer {
     public class FeedCode
     {
