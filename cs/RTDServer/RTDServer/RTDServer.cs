@@ -133,16 +133,15 @@ namespace RTDServer {
     [ClassInterface(ClassInterfaceType.AutoDispatch)]
     public class UpdateDBServer
     {
-        static ProducerConsumer producer_consumer;
-        ThreadToken             token;
+        ProducerConsumer producer_consumer = ProducerConsumer.Instance;
+        ThreadToken      token;
 
         public String MainThread(ref String feedCode, ref String feedValue)
         {
             try
             {
                 this.token          = new ThreadToken(feedCode, feedValue);
-                producer_consumer   = new ProducerConsumer();
-
+                
                 producer_consumer.Produce(token);
 
                 new Thread(new ThreadStart(ConsumerJob)).Start();
@@ -158,9 +157,8 @@ namespace RTDServer {
         private void ConsumerJob()
         {
             ThreadToken token = (ThreadToken)producer_consumer.Consume();
-            this.WriteOnDB(ref(token.feedCode), ref(token.feedValue));
+            //this.WriteOnDB(ref(token.feedCode), ref(token.feedValue));
         }        
-        
 
         public String WriteOnDB(ref String feedCode, ref String feedValue)
         {
@@ -211,8 +209,24 @@ namespace RTDServer {
 
     class ProducerConsumer
     {
+        private ProducerConsumer()
+        {
+        }
+
         readonly object listLock = new object();
         Queue queue = new Queue();
+
+        private static ProducerConsumer instance;
+
+        public static ProducerConsumer Instance
+        {
+            get{
+                if(instance == null){
+                    instance = new ProducerConsumer();
+                }
+                return instance;
+            }
+        }
 
         public void Produce(object o)
         {
