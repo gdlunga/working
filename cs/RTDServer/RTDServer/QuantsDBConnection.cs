@@ -26,7 +26,7 @@ namespace RTDServer
             conn.Open();
         }
 
-        public void addNotifyConnection()
+        public void     addNotifyConnection()
         {
             String connection1 = "Server=lx000000700501;Port=5432;User Id=quotes_read;Password=quotes_read;Database=quotes;SyncNotification=true";
             notifyConn = new NpgsqlConnection(connection1);
@@ -38,12 +38,12 @@ namespace RTDServer
             }
         }
 
-        private void OnNotification(object sender, NpgsqlNotificationEventArgs e)
+        private void    OnNotification(object sender, NpgsqlNotificationEventArgs e)
         {
             rtdUpdateEvent.UpdateNotify();
         }
 
-        public dynamic getValue(FeedCode code)
+        public dynamic  getValue(FeedCode code)
         {
             string sql = "SELECT value FROM ((" + code.datatable + " LEFT JOIN fields ";
             sql = sql + "ON " + code.datatable + ".field_id = fields.id) ";
@@ -58,7 +58,7 @@ namespace RTDServer
             return val;
         }
 
-        public string getDataTable(string field)
+        public string   getDataTable(string field)
         {
             string sql = "SELECT datatype FROM fields where field = :value1";
             NpgsqlCommand command = new NpgsqlCommand(sql, conn);
@@ -68,11 +68,12 @@ namespace RTDServer
             return val;
         }
 
-        public void Dispose()
+        public void     Dispose()
         {
             if (notifyConn != null)
                 notifyConn.Close();
             conn.Close();
         }
+
     }
 }
