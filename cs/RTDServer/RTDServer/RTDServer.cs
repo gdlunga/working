@@ -10,18 +10,16 @@ using Microsoft.Office.Interop.Excel;
 
 using Npgsql;
 
-namespace RTDServer
-{
+namespace RTDServer {
 
     [Guid("EBD9B4A9-3E17-45F0-A1C9-E134043923D3")]
     [ProgId("RealTimeServer")]
-    public class RTDServer : IRtdServer
+    public class RTDServer : IRtdServer 
     {
         private readonly Dictionary<int, FeedCode> topics = new Dictionary<int, FeedCode>();
         QuantsDBConnection conn;
 
-        public int ServerStart(IRTDUpdateEvent rtdUpdateEvent)
-        {
+        public int ServerStart(IRTDUpdateEvent rtdUpdateEvent) {
             try
             {
                 conn = new QuantsDBConnection(rtdUpdateEvent);
@@ -36,13 +34,11 @@ namespace RTDServer
 
         public dynamic ConnectData(int TopicID, ref Array Strings, ref bool GetNewValues)
         {
-            if (this.conn == null)
-            {
+            if (this.conn == null) {
                 topics[TopicID] = new FeedCode();
                 return "Server Not Connected";
             }
-            else
-            {
+            else {
                 FeedCode code = new FeedCode();
                 code.code = Strings.GetValue(0).ToString();
                 code.field = Strings.GetValue(1).ToString();
@@ -122,7 +118,7 @@ namespace RTDServer
             Microsoft.Win32.Registry.ClassesRoot.DeleteSubKey(@"CLSID\{" + t.GUID.ToString().ToUpper() + @"}\Programmable");
         }
     }
-
+    
     class ThreadToken
     {
         public String feedCode;
@@ -134,31 +130,22 @@ namespace RTDServer
             this.feedValue = feedValue;
         }
     }
-
+    
     [ClassInterface(ClassInterfaceType.AutoDispatch)]
     public class UpdateDBServer
     {
         ProducerConsumer producer_consumer = ProducerConsumer.Instance;
-        ThreadToken token;
-        readonly object listLock = new object();
-
-        public UpdateDBServer()
-        {
-
-        }
+        ThreadToken      token;
 
         public String MainThread(ref String feedCode, ref String feedValue)
         {
             try
             {
-                this.token = new ThreadToken(feedCode, feedValue);
-
+                this.token          = new ThreadToken(feedCode, feedValue);
                 
                 producer_consumer.Produce(token);
 
-                int n = producer_consumer.QueueCount();
-
-                //new Thread(new ThreadStart(ConsumerJob)).Start();
+                new Thread(new ThreadStart(ConsumerJob)).Start();
 
                 return "It worked!";
             }
@@ -170,75 +157,9 @@ namespace RTDServer
 
         private void ConsumerJob()
         {
-            Task task_1 = new Task(()=>{
-                ThreadToken token = (ThreadToken)producer_consumer.Consume();
-                this.WriteOnDB(ref(token.feedCode), ref(token.feedValue));
-            });
-            task_1.Start();
-        }
-
-        public String BulkInsertOnDB(ref String[] feedCode, ref String[] feedValues, int blockSize)
-        {
-
-            StringBuilder bulkInsertCmd = new StringBuilder();
-            StringBuilder updateCommand = new StringBuilder();
-            String tableName = "data_double";
-
-            String thisFeedCode     = String.Empty;
-            String thisFeedValue    = String.Empty;
-
-            String connection = "Server=lx000000700501;Port=5432;User Id=quants;Password=quants;Database=quotes";
-
-            try
-            {
-                using (NpgsqlConnection pgsqlConnection = new NpgsqlConnection(connection))
-                {
-                    // Open the PgSQL Connection.                
-                    pgsqlConnection.Open();
-                    // Define command
-                    NpgsqlCommand pgsqlCommand = new NpgsqlCommand();
-                    pgsqlCommand.Connection = pgsqlConnection;
-
-                    bulkInsertCmd.Length = 0;
-                    int updateCount = 0;
-                    for (int i = 0; i < feedCode.Length; i++)
-                    {
-                        thisFeedCode = feedCode[i];
-                        thisFeedValue = feedValues[i];
-
-                        updateCommand.Length = 0;
-                        updateCommand.Append("UPDATE ");
-                        updateCommand.Append(tableName);
-                        updateCommand.Append(" SET VALUE = ");
-                        updateCommand.Append(thisFeedValue);
-                        updateCommand.Append(" WHERE field_id = (SELECT id FROM fields WHERE field = 'VALUE') ");
-                        updateCommand.Append(" AND feedcode_id = (SELECT id FROM feedcodes WHERE label = '");
-                        updateCommand.Append(thisFeedCode);
-                        updateCommand.Append("')");
-
-                        string cmd = updateCommand.ToString();
-                        if(updateCount <= blockSize)
-                        {
-                            bulkInsertCmd.Append(cmd);
-                            bulkInsertCmd.Append(";");
-                            updateCount++;
-                        }
-                        else{
-                            pgsqlCommand.CommandText = bulkInsertCmd.ToString();
-                            pgsqlCommand.ExecuteNonQuery();
-                            pgsqlCommand.Dispose();
-                            updateCount = 0;
-                        }
-                    }
-                }
-            }
-            catch (NpgsqlException ex)
-            {
-                throw ex;
-            }
-
-            return "It worked!";        
-        }
+            ThreadToken token = (ThreadToken)producer_consumer.Consume();
+            this.WriteOnDB(ref(token.feedCode), ref(token.feedValue));
+        }        
 
         public String WriteOnDB(ref String feedCode, ref String feedValue)
         {
@@ -273,15 +194,15 @@ namespace RTDServer
                     pgsqlCommand.ExecuteNonQuery();
                     pgsqlCommand.Dispose();
                 }
-                hresult = "Data saved on DB!";
+                hresult = "It worked!";
             }
             catch (NpgsqlException ex)
             {
-                hresult = "Error writing data on DB!";
+                hresult = "It does not worked! ";
             }
             catch
             {
-                hresult = "Error writing data on DB!";
+                hresult = "It does not worked!";
             }
             return hresult;
         }
@@ -300,10 +221,8 @@ namespace RTDServer
 
         public static ProducerConsumer Instance
         {
-            get
-            {
-                if (instance == null)
-                {
+            get{
+                if(instance == null){
                     instance = new ProducerConsumer();
                 }
                 return instance;
@@ -328,14 +247,6 @@ namespace RTDServer
                     Monitor.Wait(listLock);
                 }
                 return queue.Dequeue();
-            }
-        }
-
-        public int QueueCount()
-        {
-            lock (listLock) 
-            {
-                return queue.Count;        
             }
         }
     }
