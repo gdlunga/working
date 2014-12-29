@@ -35,6 +35,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <RegisterForComInterop>true</RegisterForComInterop>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
@@ -54,10 +55,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FeedCode.cs" />
+    <Compile Include="code\FeedCode.cs" />
+    <Compile Include="code\ProducerConsumer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuantsDBConnection.cs" />
-    <Compile Include="RTDServer.cs" />
+    <Compile Include="code\QuantsDBConnection.cs" />
+    <Compile Include="code\RTDServer.cs" />
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="Microsoft.Office.Core">
