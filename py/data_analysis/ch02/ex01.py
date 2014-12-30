@@ -8,7 +8,7 @@ def get_counts(sequence):
         counts[x]  +=1
     return counts
 
-path = "D:\Documenti_T004314\Transito\pydata-book-master\ch02\usagov_bitly_data2012-03-16-1331923249.txt"
+path = "Z:\pydata-book-master\ch02\usagov_bitly_data2012-03-16-1331923249.txt"
 records = [json.loads(line) for line in open(path)]
 
 # extract time zones
