@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Ch04_JExcalibur"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Ch04_JScheduler"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

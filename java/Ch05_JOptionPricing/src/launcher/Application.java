@@ -1,7 +1,8 @@
-package wileybook.polyhedron.ch05;
+package launcher;
 import finobject.*;
 import pricing_algorithm.*;
 import java.util.*;
+
 
 public class Application 
 {
@@ -193,6 +194,6 @@ public class Application
 		
 		
 		
-        System.out.println("\n Elaboration stop");
+        System.out.println("\n END - Elaboration stop");
 	}
 }
