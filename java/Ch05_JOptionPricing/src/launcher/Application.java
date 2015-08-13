@@ -3,7 +3,6 @@ import finobject.*;
 import pricing_algorithm.*;
 import java.util.*;
 
-
 public class Application 
 {
 	/**
