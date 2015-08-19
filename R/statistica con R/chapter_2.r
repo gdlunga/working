@@ -1,5 +1,11 @@
 library("stats", lib.loc="D:/R/R-3.2.2/library")
 
+if(Sys.info()[1] == 'Windows'){
+  working_dir <- "D:\\git\\working\\R\\statistica con R\\"
+}else{
+  working_dir <- "/Users/giovanni/git_repository/working/R/statistica con R/"
+}
+
 # functions -----------------------------------------------------------------------------------------------
 
 hist.pf <- function(x, br){
@@ -71,13 +77,12 @@ w <- c(72.5,54.28,50.02,88.88,62.3,45.21,57.5,78.4,75.13,58,53.7,91.29,74.7,41.2
 dati<-data.frame(X=x,Y=y,Z=z,W=w)
 attach(dati)
 rm(x, y, z, w)
-save(file="D:\\git\\working\\R\\statistica con R\\dati1.rda", dati)
-#save(file="/Users/giovanni/git_repository/working/R/statistica con R/dati1.rda", dati)
+
+save(file=paste(working_dir,"dati1.rda"), dati)
 
 # 2.3 Distribuzioni di frequenza --------------------------------------------------------------------------
 
-#load('/Users/giovanni/git_repository/working/R/statistica con R/dati1.rda')
-load('D:/git/working/R/statistica con R/dati1.rda')
+load(paste(working_dir,"dati1.rda"))
 attach(dati)
 
 table(X)
@@ -130,6 +135,7 @@ hist.pf(W)
 hist.pf(W, classi)
 
 # 2.7 La forma delle distribuzioni -----------------------------------------------------------------------
+
 x<-c(0.75, 2.27, 5.19, 4.8, 1.6, 3.5, 11.19, 3.42, 4.38, 6.64, 5.41, 3.12, 9.45, 4.38, 4.77, 4.98, 3.74, 2.81, 2.04, 8.34) 
 y<-c(13.79, 12.11, 8.85, 14.01, 9.71, 11.08, 12.34, 12.16, 7.52, 14.02, 9.75, 14.15, 12.84, 14.73, 12.88, 10.40, 12.78, 13.19, 9.59, 12.16) 
 boxplot(x,y,names=c("x","y"))
@@ -139,6 +145,7 @@ kurt(x)
 kurt(y)
 
 # 2.8 La concentrazione ----------------------------------------------------------------------------------
+
 x <- c(1,1,1,4,4,5,7,10)
 sum(x)
 y <- c(1,1,1,1,1,4,4,4,5,9,100,100,200)
@@ -149,4 +156,21 @@ gini(x,col="blue")
 gini(y,add=TRUE,col="red") 
 
 #2.10 Dall'istogramma alla stima della densita' ----------------------------------------------------------
+
+load(paste(working_dir,"dati1.rda"))
+attach(dati)
+hist.pf(W,br=c(40,50,58,70,95))
+lines(density(W), lty=3)
+density(W)
+
+# figura 2.26 pag. 75
+dev.new()
+plot(density(W), main="stima della densita'",xlab="W",ylim=c(0,0.03))
+lines(density(W,bw=3),lty=3)
+legend(80,0.025,c("bw = ottimale", "bw = 3"),lty=c(1,3))
+
+# figura 2.27 pag. 75
+plot(density(W), main="stima della densita'",xlab="W",ylim=c(0,0.03))
+lines(density(W,bw=20),lty=3)
+legend(80,0.025,c("bw = ottimale", "bw = 20"),lty=c(1,3))
 
