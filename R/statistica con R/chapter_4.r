@@ -109,6 +109,12 @@ x <- y[z]
 plot(density(x), main="")
 curve(20*x*(1-x)^3,0,1,add=TRUE,lty=2,lwd=2)
 
+dev.new()
+x <- rnorm(5000)
+plot(density(x))
+plot(density(x), main="Dati simulati e vero modello")
+curve(dnorm(x), add=TRUE, lty=2)
+
 # 4.4 - Processi stocastici -------------------------------------------------------------------------------------------------------------------------
 
 # traiettoria binomiale 
@@ -218,8 +224,60 @@ text(5,L2-4,"L2")
 legend(600,-15,c("libera","riflessa"),lty=c(3,1))
 
 
+# Markov chain
 
+Markov <- function(x0, n, x, P){ 
+  mk <- numeric(n+1) 
+  mk[1] <- x0 
+  h <- which(x==x0) 
+  k <- length(x) 
+  F <- matrix(0,k,k) 
+  for(i in 1:k) 
+    F[i,] <- cumsum(P[i,]) # matrice frequenze cumulate 
+  for(i in 1:n){ 
+    u <- runif(1)             # genera il numero casuale 
+    h <- min(which(F[h,]>u))  # trova it valore h 
+    mk[i+1] <- x[h] 
+  }
+  return(list(X=mk,t=0:n)) 
+} 
 
+Markov2 <- function(x0, n, x, P){ 
+  mk <- numeric(n+l) 
+  mk[1] <- x0 
+  stato <- which(x==x0) 
+  for(i in 1:n){ 
+    mk[i+1] <- sample(x,1,P[stato,], replace-TRUE) 
+    stato <- which(x==mk[i+1]) 
+  }
+  return(list(X=mk,t=0:n)) 
+}
+ 
+P  <- matrix(c(.5,.5,.25,.25,0,.25,.25,.5,.5),3,3)
+x <- c("P","S","N")
+P
+Markov("S",15,x,P) -> traj
+traj
+plot(traj$t, factor(traj$X),type="s",axes=FALSE,xlab="t",ylab="Che tempo che fa")
+axis(1)
+axis(2,c(1,2,3),levels(factor(traj$X)))
+box()
 
+# Processi autoregressivi
 
+# Processi di Poisson
+
+lambda <- 1.1 
+T <- 20 
+E <- 0 
+t <- 0 
+while(t<T){ 
+  t <- t - 1/lambda * log(runif(1))
+  if( runif(1) < sin(t)/lambda )
+    E <- c(E, t)
+}  
+length(E)
+E 
+plot(E,0:(length(E)-1),type="s",ylim=c(-4,length(E))) 
+curve(-3+sin(x),0,20,add=TRUE,lty=2,lwd=2) 
 
