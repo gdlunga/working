@@ -38,6 +38,7 @@ require(rms)
 
 wb    <- loadWorkbook("D:/tmp/credit_data.xlsx")
 myDf  <- readWorksheet(wb, sheet = "Sheet1", header = TRUE)
+myDf  <- read.csv("/Users/giovanni/git_repository/working/R/credit risk modelling/default_data.csv") 
 attach(myDf)
 
 # Model 1
