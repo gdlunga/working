@@ -25,4 +25,6 @@ for (sign in c(-1, 1)) {
 }
 legend("topright", "1.96 * sqrt(t)",
        bty="n", lwd=1.5, lty=2, col="darkred")
-savePlot("D:/git/working/R/credit risk modelling/data/random_walks.png")
+
+#savePlot("D:/git/working/R/credit risk modelling/data/random_walks.png")
+
