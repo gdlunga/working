@@ -3,9 +3,11 @@
 # View(dati)
 
 # IMPORTARE DATI DA PDL
-setwd("/mnt/R/labdata/Audit/RAF/R/src_bin")
-library(CogUtils)
-Initialize()
+#setwd("/mnt/R/labdata/Audit/RAF/R/src_bin")
+#library(CogUtils)
+#Initialize()
+
+g_INPUT_DIR="/Users/giovanni/Google Drive/Programming/R/RAF/input"
 file_ind=paste("dati.csv",sep="") 
 dati=read.csv2(file=paste(g_INPUT_DIR,file_ind,sep="/"),1)
 
@@ -160,6 +162,6 @@ rownames(test_ks) = c("N_D","N_pvalue","logN_D","logN_pvalue","T_D","T_pvalue","
                       ,"Exp_D","Exp_pvalue")
 test_ks
  
-write.xlsx(stime,"../output/Stime.xlsx",sheetName="stime",row.names=T)
-write.xlsx(akaike,"../output/Criteri_inf.xlsx",sheetName="AIC",row.names=T)
-write.xlsx(test_ks,"../output/Test_KS.xlsx",sheetName="KS",row.names=T)
+#write.xlsx(stime,"../output/Stime.xlsx",sheetName="stime",row.names=T)
+#write.xlsx(akaike,"../output/Criteri_inf.xlsx",sheetName="AIC",row.names=T)
+#write.xlsx(test_ks,"../output/Test_KS.xlsx",sheetName="KS",row.names=T)
