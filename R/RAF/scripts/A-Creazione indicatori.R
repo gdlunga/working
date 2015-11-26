@@ -1,26 +1,29 @@
 # IMPORTARE DATI DA PDL
-setwd("/mnt/R/labdata/Audit/RAF/R/src_bin")
-library(CogUtils)
-Initialize()
-credito=paste("Input_IND_CRED.csv",sep="") 
-cred=read.csv2(file=paste(g_INPUT_DIR,credito,sep="/"),1)
-finanza=paste("Input_IND_FIN.csv",sep="") 
-fin=read.csv2(file=paste(g_INPUT_DIR,finanza,sep="/"),1)
-operativo=paste("Input_IND_OPERATIVO.csv",sep="") 
-oper=read.csv2(file=paste(g_INPUT_DIR,operativo,sep="/"),1)
-tasso=paste("Input_IND_TASSO.csv",sep="") 
-tas=read.csv2(file=paste(g_INPUT_DIR,tasso,sep="/"),1)
+#setwd("/mnt/R/labdata/Audit/RAF/R/src_bin")
+#library(CogUtils)
+#Initialize()
+
+g_INPUT_DIR = "C:/Users/User/Google Drive/Lavoro/RAF/input"
+
+credito   = paste("Input_IND_CRED.csv",sep="") 
+cred      = read.csv2(file=paste(g_INPUT_DIR,credito,sep="/"),1)
+finanza   = paste("Input_IND_FIN.csv",sep="") 
+fin       = read.csv2(file=paste(g_INPUT_DIR,finanza,sep="/"),1)
+operativo = paste("Input_IND_OPERATIVO.csv",sep="") 
+oper      = read.csv2(file=paste(g_INPUT_DIR,operativo,sep="/"),1)
+tasso     = paste("Input_IND_TASSO.csv",sep="") 
+tas       = read.csv2(file=paste(g_INPUT_DIR,tasso,sep="/"),1)
 
 
 # PREDISPOSIZIONE DATA FRAME
-rownames(cred)=cred$Anno
-cred=cred[2:37]
-rownames(fin)=fin$Anno
-fin=fin[2:19]
-rownames(oper)=oper$Anno
-oper=oper[2:26]
-rownames(tas)=tas$Anno
-tas=tas[2:32]
+rownames(cred) = cred$Anno
+cred           = cred[2:ncol(cred)]
+rownames(fin)  = fin$Anno
+fin            = fin[2:ncol(fin)]
+rownames(oper) = oper$Anno
+oper           = oper[2:ncol(oper)]
+rownames(tas)  = tas$Anno
+tas            = tas[2:ncol(tas)]
 
 
 # ***********  CALCOLO INDICATORE RISCHIO CREDITO  **************
@@ -31,7 +34,7 @@ tas=tas[2:32]
 # ONERI e ESPOSIZIONI
 
 # CALCOLO QUOTA SU MARGINE GESTIONE FINANZIARIA
-cred$MGF = abs(cred$MGF_RB)+abs(cred$MGF_CB)+abs(cred$MGF_PF)+abs(cred$MGF_CC)
+cred$MGF      = abs(cred$MGF_RB) + abs(cred$MGF_CB) + abs(cred$MGF_PF) + abs(cred$MGF_CC)
 cred$MGF_RB_q = abs(cred$MGF_RB) / cred$MGF
 cred$MGF_CB_q = abs(cred$MGF_CB) / cred$MGF
 cred$MGF_PF_q = abs(cred$MGF_PF) / cred$MGF
@@ -227,5 +230,7 @@ dati$RBT = tas[,52]
 dati$CBT = tas[,53]
 dati$PFT = tas[,54]
 dati$CCT = tas[,55]
+dati     = 100*dati
+dati     = dati[rev(rownames(dati)),]
 
-write.xlsx(dati, "../output/output.xlsx"  , sheetName="Sheet1")
+write.xlsx(dati, "C:/Users/User/Google Drive/Lavoro/RAF/output/output.xlsx"  , sheetName="Sheet1")
