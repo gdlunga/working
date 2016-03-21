@@ -1,3 +1,5 @@
+library("RQuantLib", lib.loc="~/R/win-library/3.2")
+
 params <- list(effectiveDate=as.Date("2004-11-30"), 
                maturityDate=as.Date("2008-11-30"), 
                period='Semiannual', 
