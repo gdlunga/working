@@ -1,17 +1,13 @@
-# IMPORTARE DATI DA MAC
-#dati<= read.csv("~/Desktop/dati.csv", sep=";", dec=",")
-#View(dati)
 
-# IMPORTARE DATI DA PDL
-setwd("/mnt/R/labdata/Audit/RAF/R/src_bin")
-library(CogUtils)
-Initialize()
-file_ind=paste("dati.csv",sep="") 
-dati=read.csv2(file=paste(g_INPUT_DIR,file_ind,sep="/"),1)
+g_INPUT_DIR = "C:/Users/User/Google Drive/Lavoro/RAF/input"
+
+file_ind    = paste("dati.csv",sep="") 
+dati        = read.csv2(file=paste(g_INPUT_DIR,file_ind,sep="/"),1)
 
 # PREDISPOSIZIONE DATA FRAME
-rownames(dati)=dati$Anno
-dati=dati[2:14]
+rownames(dati) = dati$Anno
+dati           = dati[2:ncol(dati)]
+
 #dati=dati[1,] # da utilizzare soltanto per il calcolo del rendimento attuale
 
 # PESI 2014
