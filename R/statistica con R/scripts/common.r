@@ -2,8 +2,8 @@
 #
 # function			: working.dir 
 # description		: restituisce il path in cui si trova il folder di lavoro degli script R
-# last version	:
-# note				  :
+# last version	    :
+# note				:
 #
 working.dir <- function(){
   require(stringr)
