@@ -27,13 +27,15 @@ tsQuotes <- list(d1w = 0.0382,
 times <- seq(0,10,.1)
 setEvaluationDate(params$tradeDate)
 discountCurve <- DiscountCurve(params, tsQuotes, times)
+
 # price a zero coupon bond
 bondparams <- list(faceAmount=100, issueDate=as.Date("2004-11-30"),
                    maturityDate=as.Date("2008-11-30"), redemption=100 )
 dateparams <-list(settlementDays=1,
                   calendar="UnitedStates/GovernmentBond",
                   businessDayConvention=4)
-ZeroCouponBond(bondparams, discountCurve, dateparams)
+zcb<-ZeroCouponBond(bondparams, discountCurve, dateparams)
+
 # price a fixed rate coupon bond
 bond <- list(settlementDays=1, issueDate=as.Date("2004-11-30"),
              faceAmount=100, accrualDayCounter='Thirty360',
@@ -50,12 +52,14 @@ calc=list(dayCounter='Actual360', compounding='Compounded',
           freq='Annual', durationType='Modified')
 rates <- c(0.02875)
 FixedRateBond(bond, rates, schedule, calc, discountCurve=discountCurve)
+
 # price a fixed rate coupon bond from yield
 yield <- 0.050517
 FixedRateBond(bond, rates, schedule, calc, yield=yield)
 # calculate the same bond from the clean price
 price <- 92.167
 FixedRateBond(bond, rates, schedule, calc, price=price)
+
 # price a floating rate bond
 bondparams <- list(faceAmount=100, issueDate=as.Date("2004-11-30"),
                    maturityDate=as.Date("2008-11-30"), redemption=100,effectiveDate=as.Date("2004-12-01"))
