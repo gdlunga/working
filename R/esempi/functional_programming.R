@@ -12,9 +12,10 @@ boot.lm <- function(formula,data){
 iris.boot <- boot.lm(Sepal.Length ~ Petal.Length, iris)  
 
 ptm<-proc.time()
-bstrap <- sapply(X=1:10000, FUN=function(x) iris.boot()$coef)
+bstrap <- multicore::mclapply(X=1:10000, FUN=function(x) iris.boot()$coef)
+#bstrap <- lapply(X=1:10000, FUN=function(x) iris.boot()$coef)
 proc.time()- ptm
 
 
-Point(x,y) %as% list(x=x,y=y)
-Polar(r,theta) %as% list(r=r,theta=theta)
+#Point(x,y) %as% list(x=x,y=y)
+#Polar(r,theta) %as% list(r=r,theta=theta)
