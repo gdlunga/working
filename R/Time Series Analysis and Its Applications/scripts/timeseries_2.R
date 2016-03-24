@@ -1,26 +1,28 @@
 npoints<-550
 size<-30
-# white noise ----------------------------------------------------------
+
 w = rnorm(npoints,0,1)
 plot.ts(w)
-# moving average of white noise ----------------------------------------
+
 v=filter(w,sides=1,filter=rep(1/size,size))
 lines(v,col='yellow')
-# autoregressive model ------------------------------------------------- 
+
 x=filter(w,filter=c(1,-.9),method='recursive')[-(1:50)]
 plot.ts(x)
-# random walk with drift -----------------------------------------------
-drift = .2
+
+
 set.seed(154)
 w=rnorm(200,0,1)
 x=cumsum(w)
-wd=w+drift
+wd=w+.2
 xd=cumsum(wd)
 plot.ts(xd,ylim=c(-5,55),main="random walk",ylab='')
 lines(x,col=4)
 abline(h=0,col=4,lty=2)
-abline(a=0,b=drift,lty=2)
-# periodic component ----------------------------------------------------
+abline(a=0,b=.2,lty=2)
+
+# periodic component 
+
 cs=2*cos(2*pi*1:550/50+.6*pi)
 plot.ts(cs)
 plot.ts(cs+w)
