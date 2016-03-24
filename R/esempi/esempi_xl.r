@@ -1,22 +1,12 @@
 #install.packages("stringr", dependencies=TRUE)
-#
-#-----------------------------------------------------------------------------------------------------------
-#
-# individuazione path
-require(stringr)
-if(Sys.info()[1] == 'Windows'){
-  if(Sys.info()[4] == 'CL100400200004')
-    working_dir <- str_trim('D:/git/working/R/esempi')
-  else
-    working_dir <- str_trim('C:/git/working/R/credit risk modelling')
-}else{
-  working_dir <- str_trim('/Users/giovanni/git_repository/working/R/credit risk modelling')
-}
-#
-#-----------------------------------------------------------------------------------------------------------
-#
-require(binhf)
+#install.packages("binhf", dependencies=TRUE)
 
+require(stringr)
+require(binhf)
+#
+#-----------------------------------------------------------------------------------------------------------
+#
+working_dir = getwd()
 # import del file contenente i dati relativi all'indice S&P MIB
 file_name = paste(working_dir, 'ts_sp_mib.csv', sep="/")
 ts <- read.csv(file_name)
@@ -32,7 +22,7 @@ yield[1] <- 0
 m <- mean(yield)
 s <- sqrt(var(yield))
 
-dev.new()
+#dev.new()
 x <- seq(-.03,.03,.001)
 hist(yield,x ,ylim=c(0,80))
 lines(density(yield), main="stima della densita'",col='red')
@@ -66,5 +56,5 @@ paths <- wiener(500, t )$y
 S0    <- Price[1]
 S1    <- S0*exp(drift + sigma * paths)
 
-plot(t,S1,type="n")
-lines(t,S1)
+#plot(t,S1,type="n")
+#lines(t,S1)
