@@ -20,10 +20,51 @@ plot.ts(xd,ylim=c(-5,55),main="random walk",ylab='')
 lines(x,col=4)
 abline(h=0,col=4,lty=2)
 abline(a=0,b=drift,lty=2)
+
 # periodic component ----------------------------------------------------
-cs=2*cos(2*pi*1:550/50+.6*pi)
-plot.ts(cs)
-plot.ts(cs+w)
-plot.ts(cs+3*w)
-v=filter(cs+3*w,sides=1,filter=rep(1/size,size))
+cs     = 2*cos(2*pi*1:550/50+.6*pi)
+wd     = 3*w
+x      = seq(1:550)
+xx     = .01*x
+
+signal = cs + wd + xx
+
+plot.ts(signal)
+v=filter(signal,sides=1,filter=rep(1/size,size))
 lines(v,col='red')
+lines(xx, col = 'blue')
+
+
+reg=lm(signal~x)
+abline(reg,col="yellow")
+
+y = residuals(reg)
+plot.ts(y)
+acf(y,lag=200,lwd=1)
+
+
+set.seed(90210)
+x=rnorm(100)
+y=lag(x,5)+rnorm(100)
+ccf(x,y,ylab='CCovF',type='covariance')
+
+
+#set.seed(101010)
+x1=2*rbinom(11,1,.5)-1
+x2=2*rbinom(10001,1,.5)-1
+y1 = 5 +filter(x1, sides=1, filter=c(1,-.7))[-1]
+y2 = 5 +filter(x2, sides=1, filter=c(1,-.7))[-1]
+#plot.ts(y1, type='s')
+#plot.ts(y2, type='s')
+acf(y1, lag.max=4, plot=FALSE)
+acf(y2, lag.max=4, plot=FALSE)
+
+dev.new()
+persp(1:64, 1:36, soiltemp, phi=30, theta=30,scale=FALSE,expand=4,ticktype='detailed',xlab='rows',ylab='average temperature')
+
+
+s=seq(50,100)
+s
+y = c(rep(0,50), s-50)
+y
+plot.ts(y)
