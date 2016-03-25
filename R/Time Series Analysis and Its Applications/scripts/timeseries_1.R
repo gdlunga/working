@@ -1,5 +1,10 @@
 require(astsa)
 
+Dirname <- "/working/R/esempi"
+Dirs <- list.dirs(path=file.path("~"),recursive=T)
+dir_wd <- names(unlist(sapply(Dirs,grep,pattern=Dirname))[1])
+setwd(dir_wd)
+
 # import del file contenente i dati relativi all'indice S&P MIB
 file_name = paste(getwd(),'ts_sp_mib.csv',sep='/')
 
@@ -13,3 +18,8 @@ mydata = ts(mydata, end   = ts$Date[1])
 
 
 plot(mydata)
+acf(mydata,lag.max=100)
+
+speech
+plot(speech)
+acf(speech, 250)
