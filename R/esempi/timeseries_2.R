@@ -22,9 +22,9 @@ abline(h=0,col=4,lty=2)
 abline(a=0,b=drift,lty=2)
 
 # periodic component ----------------------------------------------------
-cs     = 2*cos(2*pi*1:550/50+.6*pi)
+cs     = 2*cos(2*pi*1:500/50+.6*pi)
 wd     = 3*w
-x      = seq(1:550)
+x      = seq(1:500)
 xx     = .01*x
 
 signal = cs + wd + xx
@@ -42,6 +42,16 @@ y = residuals(reg)
 plot.ts(y)
 acf(y,lag=200,lwd=1)
 
+I<-abs(fft(y)^2)/500
+P=(4/500)*I[1:250]
+f=0:249/500
+plot(f,P,type='l')
+
+
+
+
+
+plot.ts(f)
 
 set.seed(90210)
 x=rnorm(100)
