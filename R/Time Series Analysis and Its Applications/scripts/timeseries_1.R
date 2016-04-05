@@ -18,8 +18,3 @@ mydata = ts(mydata, end   = ts$Date[1])
 
 
 plot(mydata)
-acf(mydata,lag.max=100)
-
-speech
-plot(speech)
-acf(speech, 250)
