@@ -1,18 +1,32 @@
+Dirname <- "/working/R"
+Dirs <- list.dirs(path=file.path("~"),recursive=T)
+dir_wd <- names(unlist(sapply(Dirs,grep,pattern=Dirname))[1])
+dir_wd
+dir_wd <- paste(dir_wd,'books/Introduction to R for Quantitative Finance/9781783280933_code/0933OS_Code/0933OS_Code/Chapter 1',sep='/')
+dir_wd
+setwd(dir_wd)
+
 ## p 8
-install.packages("zoo")
+#install.packages("zoo")
+#install.packages("urca")
+#install.packages("FinTS")
+#install.packages("forecast")
+#install.packages("rugarch")
+
 library("zoo")
+library("urca")
+library("FinTS")
+library("rugarch")
+library("forecast")
 
 aapl<-read.zoo("aapl.csv", sep=",", header = TRUE, format = "%Y-%m-%d")
 
-plot(aapl, main = "APPLE Closing Prices on NASDAQ", ylab = "Price (USD)", xlab = "Date")
-
+plot(aapl, main = "APPLE Closing Prices on NASDAQ", ylab = "Price (USD)", xlab = "Date", lty=1, typ='l')
 head(aapl)
-
 tail(aapl)
 
 ## p 9
 aapl[which.max(aapl)]
-
 ret_simple <- diff(aapl) / lag(aapl, k = -1) * 100
 ret_cont <- diff(log(aapl)) * 100
 summary(coredata(ret_simple))
@@ -27,9 +41,6 @@ aapl_2013[which.max(aapl_2013)]
 quantile(ret_simple, probs = 0.01)
 
 ## p 11
-install.packages("forecast")
-library("forecast")
-
 hp <- read.zoo("UKHP.csv", sep = ",", header = TRUE, format = "%Y-%m", FUN = as.yearmon)
 
 frequency(hp)
@@ -55,10 +66,6 @@ predict(mod, n.ahead=3)
 plot(forecast(mod))
 
 ## p 15
-library("zoo")
-install.packages("urca")
-library("urca")
-
 prices <- read.zoo("JetFuelHedging.csv", sep = ",", FUN = as.yearmon, format = "%Y-%m", header = TRUE)
 
 simple_mod <- lm(diff(prices$JetFuel) ~ diff(prices$HeatingOil)+0)
@@ -88,23 +95,14 @@ mod_ecm <- lm(djf ~ dho + error_lag)
 summary(mod_ecm)
 
 ## p 19
-library("zoo")
-intc <- read.zoo("intc.csv", header = TRUE, sep = ",", format = "%Y-%m", FUN = as.yearmon
-
+intc <- read.zoo("intc.csv", header = TRUE, sep = ",", format = "%Y-%m", FUN = as.yearmon)
 plot(intc, main = "Monthly returns of Intel Corporation", xlab = "Date", ylab = "Return in percent")
 
 ## p 20
 Box.test(coredata(intc^2), type = "Ljung-Box", lag = 12)
-
-install.packages("FinTS")
-library("FinTS")
 ArchTest(coredata(intc))
 
 ## p 21
-install.packages("rugarch")
-
-library("rugarch")
-
 intc_garch11_spec <- ugarchspec(variance.model = list(garchOrder = c(1, 1)), mean.model = list(armaOrder = c(0, 0)))
 
 intc_garch11_fit <- ugarchfit(spec = intc_garch11_spec, data = intc)
