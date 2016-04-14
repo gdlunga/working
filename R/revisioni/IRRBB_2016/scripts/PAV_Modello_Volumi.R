@@ -1,16 +1,16 @@
-Initialize()
+#Initialize()
 library(quadprog)
 library(zoo)
 library(lmtest)
 library(tseries)
 library(stats)
-library(bstats)
-library(package="mFilter",lib.loc=g_RLIB_DIR) #pacchetto installato successivamente
+#library(bstats)
+library(package="mFilter") #,lib.loc=g_RLIB_DIR) #pacchetto installato successivamente
 
 #********************************************************************
 # *************************** Carico Dati ***************************
 #********************************************************************
-TS_PAV_Mod_Vol<- read.csv(".../Modello_Volumi_Raccolta_Vista.csv",header = TRUE, sep = ";")
+TS_PAV_Mod_Vol<- read.csv("Modello_Volumi_Raccolta_Vista.csv",header = TRUE, sep = ";")
 attach(TS_PAV_Mod_Vol)
 summary(TS_PAV_Mod_Vol)
 # INSERIRE HP DEL CLUSTER RACCOLTA
@@ -87,4 +87,5 @@ qc<-vect_actual_core[1:h-1]-mpa[1:h-1]
 
 #********************************************************************
 mymatrix<-cbind(vect_actual_core,mpa,mpa_orig,correzione,vect_vol,vect_hp)
-write.table(mymatrix,".../Output_Modello_Volumi_RACC_DR.csv",append=FALSE,sep=",",row.names=FALSE)
+write.table(mymatrix,"Output_Modello_Volumi_RACC_DR.csv",append=FALSE,sep=",",row.names=FALSE)
+

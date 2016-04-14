@@ -1,12 +1,12 @@
-Initialize()
+#Initialize()
 library(quadprog)
 library(zoo)
 library(lmtest)
 library(tseries)
 library(stats)
-library(bstats)
+#library(bstats)
 library(urca)
-library(package="mFilter",lib.loc=g_RLIB_DIR) #pacchetto installato successivamente
+library(package="mFilter") #,lib.loc=g_RLIB_DIR) #pacchetto installato successivamente
 library(vars)
 library(FactoMineR)
 library(lubridate)
@@ -15,14 +15,14 @@ library(lubridate)
 # *********** ORDINE DI INTEGRAZIONE ***********
 # ********************************* ******************
 # ********************************* ******************
-TS_Conitegrazione<- read.csv(".../ECM_RACCOLTA_INPUT.csv",header = TRUE, sep = ";")
+TS_Conitegrazione<- read.csv("ECM_RACCOLTA_INPUT.csv",header = TRUE, sep = ";")
 attach(TS_Conitegrazione)
 euribor1m.ts<-ts(TS_Conitegrazione[,9],start=c(2008,2),end=c(2015,7),frequency = 12)
 cds.ts<-ts(TS_Conitegrazione[,10],start=c(2008,2),end=c(2015,7),frequency = 12)
 
 # ***************** Euribor 1M (avg monthly)  ******************
-euribor1m.ts.adf.test<-ur.df(euribor1m.ts,type="drift",selectlags="AIC")
-euribor1m.ts.adf.test.d<-ur.df(diff(euribor1m.ts,1),type="drift",selectlags="AIC")
+euribor1m.ts.adf.test   <- ur.df(euribor1m.ts,type="drift",selectlags="AIC")
+euribor1m.ts.adf.test.d <- ur.df(diff(euribor1m.ts,1),type="drift",selectlags="AIC")
 summary(euribor1m.ts.adf.test)
 summary(euribor1m.ts.adf.test.d)
 
