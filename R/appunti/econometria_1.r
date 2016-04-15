@@ -50,13 +50,16 @@ cor(norm_euribor1m, norm_bank_rate)
 ccf(norm_euribor1m, norm_bank_rate,lag.max=5, plot=FALSE)
 
 npoints = 500
+size    = 25
 
 w=rnorm(npoints)
-v=filter(w,sides=2,filter=rep(1/3,3))
+v=filter(w,sides=2,filter=rep(1/size,size))
 
-par(mfrow=c(2,1))
+par(mfrow=c(3,1))
 plot.ts(w, main='white noise')
 plot.ts(v, main='moving average')
+plot.ts(w, main='white noise')
+lines(v, col='red', lwd=2)
 
 shift<-function(x,shift_by){
   stopifnot(is.numeric(shift_by))
@@ -121,6 +124,26 @@ ccf(v,v, lag.max=10)
 w=rnorm(550,0,1)
 x= filter(w, filter=c(1,-.9),method="recursive")[-(1:50)]
 plot.ts(x, main="autoregression")
+
+require('stats')
+#w     = rnorm(1000)
+alpha = .9
+
+#y = filter(w, filter=c(alpha),method="recursive")
+y  = arima.sim(model=list(ar=alpha), n=10000)
+
+cat('y variance (measured)  = ',  var(y), "\n")
+cat('y variance (predicted) = ', var(w)/(1-alpha*alpha),"\n")
+
+plot.ts(y, main="autoregression")
+
+rho=acf(y, plot=FALSE, lag.max=30)
+xx = seq(0,30)
+yy = alpha**xx
+plot(rho$lag, rho$acf)
+lines(xx,yy,col='red')
+
+
 
 npoints = 250
 drift   = .25
