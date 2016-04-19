@@ -126,14 +126,16 @@ x= filter(w, filter=c(1,-.9),method="recursive")[-(1:50)]
 plot.ts(x, main="autoregression")
 
 require('stats')
-#w     = rnorm(1000)
-alpha = .9
 
-#y = filter(w, filter=c(alpha),method="recursive")
-y  = arima.sim(model=list(ar=alpha), n=10000)
+npoints = 1000
+alpha   = .9
+
+w=rnorm(npoints)
+y = filter(w, filter=c(alpha),method="recursive")
+#y  = arima.sim(model=list(ar=alpha), n=npoints)
 
 cat('y variance (measured)  = ',  var(y), "\n")
-cat('y variance (predicted) = ', var(w)/(1-alpha*alpha),"\n")
+cat('y variance (predicted) = ', 1/(1-alpha*alpha),"\n")
 
 plot.ts(y, main="autoregression")
 
@@ -144,6 +146,10 @@ plot(rho$lag, rho$acf)
 lines(xx,yy,col='red')
 
 
+
+w=rnorm(1000)
+x= filter(w, filter=c(1.5,-0.7),method="recursive") 
+plot.ts(x, main="autoregression")
 
 npoints = 250
 drift   = .25
@@ -175,5 +181,3 @@ reg=lm(signal~x)
 abline(reg,col="yellow")
 
 lines(cs + xx,col='green',lwd=2)
-
-
