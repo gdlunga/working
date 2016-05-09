@@ -176,4 +176,14 @@ abline(reg,col="yellow")
 
 lines(cs + xx,col='green',lwd=2)
 
+set.seed(101010)
+x1=2*rbinom(11,1,.5)-1
+x2=2*rbinom(10001,1,.5)-1
+y1 = 5 + filter(x1, sides=1, filter=c(1,-.7))[-1]
+y2 = 5 + filter(x2, sides=1, filter=c(1,-.7))[-1]
+#plot.ts(y1, type='s')
+#plot.ts(y2, type='s')
+acf(y1, lag.max=4,plot=FALSE)
+acf(y2, lag.max=4,plot=FALSE)
+
 
