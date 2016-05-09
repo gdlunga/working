@@ -1,4 +1,3 @@
-
 Dirname <- "/working/R"
 Dirs <- list.dirs(path=file.path("~"),recursive=T)
 dir_wd <- names(unlist(sapply(Dirs,grep,pattern=Dirname))[1])
