@@ -106,3 +106,5 @@ y2=S0*exp(drift-p*sigma*sqrt(t))
 lines(y1, lwd=2,col='green')
 lines(y2, lwd=2,col='green')
 
+
+
