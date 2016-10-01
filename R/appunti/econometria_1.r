@@ -117,7 +117,7 @@ v  = v[1:n-1]
 
 cat('covariance of v(t,t+3) = ',  cov(v,vv), "\n")
 
-#v = v[3: length(v)-1]
+v = v[3: length(v)-1]
 acf(v, lag.max=10, plot=FALSE)
 ccf(v,v, lag.max=10)
 
@@ -127,8 +127,13 @@ plot.ts(x, main="autoregression")
 
 require('stats')
 
+<<<<<<< Updated upstream
 npoints = 1000
 alpha   = .9
+=======
+npoints = 10000
+alpha   = .75
+>>>>>>> Stashed changes
 
 w=rnorm(npoints)
 y = filter(w, filter=c(alpha),method="recursive")
