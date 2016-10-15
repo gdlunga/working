@@ -46,4 +46,44 @@ contour(x1, x2, z2, add=TRUE, col=lb)
 points(2.3, -1.9, pch=19, col=lb)
 text(2.2, -1.9,labels = "y", adj = 1, col=lb)
 
+A <- matrix(c(1.2, 0,
+              0, -0.2), ncol=2)
+Q <- 0.3 * Sigma
+K <- A %*% Sigma %*% t(G) %*% solve(G%*% Sigma %*% t(G) + R)
+xhatnew <- A %*% xhat + K %*% (y - G %*% xhat)
+Sigmanew <- A %*% Sigma %*% t(A) - K %*% G %*% Sigma %*% t(A) + Q
+z4 <- outer(x1,x2, f, mean=c(xhatnew), varcov=Sigmanew)
+image(x1, x2, z4, col=mycols,
+      xlab=expression('x'[1]), ylab=expression('x'[2]),
+      main="Predictive density")
+contour(x1, x2, z4, add=TRUE)
+points(xhatnew[1], xhatnew[2], pch=19)
+text(xhatnew[1]-0.1, xhatnew[2],
+     labels = expression(hat(x)[new]), adj = 1)
+contour(x1, x2, z3, add=TRUE, col=lb)
+points(xhatf[1], xhatf[2], pch=19, col=lb)
+text(xhatf[1]-0.1, xhatf[2], col=lb, 
+     labels = expression(hat(x)[f]), adj = 1)
+contour(x1, x2, z, add=TRUE, col=lb)
+points(0.2, -0.2, pch=19, col=lb)
+text(0.1, -0.2, labels = expression(hat(x)), adj = 1, col=lb)
+contour(x1, x2, z2, add=TRUE, col=lb)
+points(2.3, -1.9, pch=19, col=lb)
+text(2.2, -1.9,labels = "y", adj = 1, col=lb)
 
+library(lattice)
+grid <- expand.grid(x=x1,y=x2)
+grid$Prior <- as.vector(z)
+grid$Likelihood <- as.vector(z2)
+grid$Posterior <- as.vector(z3)
+grid$Predictive <- as.vector(z4)
+contourplot(Prior + Likelihood + Posterior + Predictive ~ x*y, 
+            data=grid, col.regions=mycols, region=TRUE,
+            as.table=TRUE, 
+            xlab=expression(x[1]),
+            ylab=expression(x[2]),
+            main="Kalman Filter",
+            panel=function(x,y,...){
+              panel.grid(h=-1, v=-1)
+              panel.contourplot(x,y,...)
+            })
