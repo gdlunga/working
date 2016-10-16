@@ -11,13 +11,20 @@ p0 <- 0.1*k
 r <- 0.2
 deltaT <- 0.1
 
+
+nObs = 250
+time <- c(1:nObs)*deltaT
+curve(logistG(r, p0, k, x),  from=0, to=max(time), col=2, lwd=1)
+
 # Let's create some sample data:
 set.seed(12345)
 
+pop <- c(p0, logistG(r, p0, k, (1:(nObs-1))*deltaT))
+
 obsVariance <- 25
-nObs = 250
 nu <- rnorm(nObs, mean=0, sd=sqrt(obsVariance)) 
-pop <- c(p0, logistG(r, p0, k, (1:(nObs-1))*deltaT)) + nu
+
+pop<-pop + nu
 
 Estimate <- data.frame(Rate=rep(NA, nObs),
                        Population=rep(NA,nObs))
@@ -58,8 +65,8 @@ for(i in 1:nObs){
 # Plot output
 op <- par(mfrow=c(2,1))
 time <- c(1:nObs)*deltaT
-plot(y=pop, x=time, t='l', main="Population growth", 
-     xlab="Time", ylab="Population")
+  plot(y=pop, x=time, t='l', main="Population growth", 
+       xlab="Time", ylab="Population")
 curve(logistG(r, p0, k, x),  from=0, to=max(time), col=2, add=TRUE, lwd=1)
 lines(y=Estimate$Population, x=time, col="orange", lwd=2)
 legend("bottomright", 
