@@ -11,9 +11,18 @@ ts <- read.csv(file_name, sep=';')
 
 
 
-structTInvariant <- StructTS(ts$pf.ts, type ="level", init=NULL, fixed=NULL,optim.control = NULL)
+#structTInvariant <- StructTS(ts$pf.ts, type ="level", init=NULL, fixed=NULL,optim.control = NULL)
 
 plot.ts(ts$pf.ts)
+
+
+require(dlm)
+
+s <- dlmSmooth(ts$pf.ts, dlmModPoly(1, dV = 15100, dW = 1470))
+lines(dropFirst(s$s), col = "red")
+
+
+
 #lines(tsSmooth(structTInvariant), lty = 2, col = 4)   # fixed-interval smoothing
 #lines(fitted(structTInvariant), lty = 2)
 

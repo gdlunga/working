@@ -4,6 +4,7 @@ library(timeSeries)
 library(zoo)
 library(quantmod)
 
+require(stats)
 
 getDailyPrices = function( tickerSym, startDate, endDate )
 {
