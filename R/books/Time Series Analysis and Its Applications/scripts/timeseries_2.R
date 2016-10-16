@@ -18,6 +18,7 @@ lines(v,col='yellow')
 # autoregressive model ------------------------------------------------- 
 x=filter(w,filter=c(1,-.9),method='recursive')[-(1:50)]
 plot.ts(x)
+
 # random walk with drift -----------------------------------------------
 drift = .2
 set.seed(154)
