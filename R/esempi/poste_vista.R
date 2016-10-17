@@ -57,3 +57,4 @@ lines(tsSmooth(structTInvariant), lty = 2, col = 4)   # fixed-interval smoothing
 lines(x,col=4)
 abline(h=0,col=4,lty=2)
 abline(a=0,b=drift,lty=2)
+
