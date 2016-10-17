@@ -52,7 +52,9 @@ xd=cumsum(wd)
 structTInvariant <- StructTS(xd, type ="level", init=NULL, fixed=NULL,optim.control = NULL)
 
 plot.ts(xd,ylim=c(-5,55),main="random walk",ylab='')
-lines(tsSmooth(structTInvariant), lty = 2, col = 4)   # fixed-interval smoothing
+#lines(tsSmooth(structTInvariant), lty = 2, col = 4)   # fixed-interval smoothing
+s <- dlmSmooth(xd, dlmModPoly(1, dV = 15100, dW = 1470))
+lines(dropFirst(s$s), col = "red")
 
 lines(x,col=4)
 abline(h=0,col=4,lty=2)
