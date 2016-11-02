@@ -28,3 +28,16 @@ y1 <- ts(1:10)
 y1.lead <- lag(y1, k=2)
 # create lag variable
 y1.lag <- lag(y1, k=-2)
+
+
+# Example 1.24 ---------------------------------------------------------------------------------------------------------------------------------------
+
+set.seed(101010)
+n = 10
+m = 100
+x1 = 2*rbinom(n+1,1,.5) - 1
+x2 = 2*rbinom(m+1,1,.5) - 1
+y1 = 5 + filter(x1,sides=1,filter=c(1,-.7))[-1]
+y2 = 5 + filter(x2,sides=1,filter=c(1,-.7))[-1]
+plot.ts(y1,type='s')
+plot.ts(y2,type='s')

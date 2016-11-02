@@ -90,6 +90,6 @@ y
 plot.ts(y)
 
 w = rnorm(100)
-st = c(rep(0,100), 10*exp(-(1:100)/20)*cos(2*pi:100/4))
+st = c(rep(0,100), 10*exp(-(1:100)/20)*cos(2*pi*1:100/4))
 plot.ts(st+.2*w)
 
