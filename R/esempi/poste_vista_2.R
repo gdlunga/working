@@ -1,6 +1,7 @@
 library(mFilter)
 
 file_path = '/Users/giovanni/git_repository/working/R/appunti'
+file_path = 'C:/Users/T004314/Documents/GitHub/working/R/esempi'
 file_name = 'SerieVolumi.csv'
 
 file_name = paste(file_path,file_name,sep='/')
@@ -33,7 +34,8 @@ plot.ts(ts)
 lines(HodrickPrescott_1$trend, col='red')
 lines(HodrickPrescott_2$trend, col='blue')
 
+
 require(dlm)
 
-s <- dlmSmooth(ts, dlmModPoly(1, dV = 20000, dW = 100))
+s <- dlmSmooth(ts, dlmModPoly(1, dV = 30000, dW = 100))
 lines(dropFirst(s$s), col = "green")

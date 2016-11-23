@@ -1,10 +1,11 @@
 library(KFAS)
 library(tseries)
 library(timeSeries)
-library(zoo)
-library(quantmod)
+#library(zoo)
+#library(quantmod)
 
-file_path = '/Users/giovanni/git_repository/working/R/esempi'
+#file_path = '/Users/giovanni/git_repository/working/R/esempi'
+file_path = 'C:/Users/T004314/Documents/GitHub/working/R/esempi'
 file_name = paste(file_path, 'poste_vista_1.csv', sep="/")
 
 ts <- read.csv(file_name, sep=';')
