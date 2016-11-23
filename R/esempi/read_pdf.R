@@ -18,6 +18,7 @@ opinions.tdm <- TermDocumentMatrix(opinions, control = list(removePunctuation = 
                                                             stemming = TRUE,
                                                             removeNumbers = TRUE,
                                                             bounds = list(global = c(3, Inf)))) 
+ 
 
 inspect(opinions.tdm[1:10,]) 
 findFreqTerms(opinions.tdm, lowfreq = 100, highfreq = Inf)
