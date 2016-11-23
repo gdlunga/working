@@ -6,6 +6,7 @@
 # (c) Dr. Yves J. Hilpisch
 # Script for illustration purposes only.
 #
+from math import *
 from numpy import *
 from scipy import stats
 #
