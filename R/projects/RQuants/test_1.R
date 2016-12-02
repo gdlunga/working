@@ -1,5 +1,5 @@
-library("RQuantLib", lib.loc="/Library/Frameworks/R.framework/Versions/3.2/Resources/library")
-
+#library("RQuantLib", lib.loc="/Library/Frameworks/R.framework/Versions/3.2/Resources/library")
+library(RQuantLib)
 params <- list(effectiveDate=as.Date("2004-11-30"), 
                maturityDate=as.Date("2008-11-30"), 
                period='Semiannual', 

@@ -1,4 +1,5 @@
-library("RQuantLib", lib.loc="~/R/win-library/3.2")
+#library("RQuantLib", lib.loc="~/R/win-library/3.2")
+library(RQuantLib)
 
 # This data is taken from sample code shipped with QuantLib 0.3.10.
 params <- list(tradeDate=as.Date('2002-2-15'),
