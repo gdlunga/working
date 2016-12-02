@@ -45,7 +45,7 @@ library(SnowballC)
 # windows
 file_path      = 'C:/Users/T004314/Documents/Data'
 # mac os
-file_path      = '/Users/giovanni/git_repository/working/R/esempi/corpus/pdf'
+# file_path      = '/Users/giovanni/git_repository/working/R/esempi/corpus/pdf'
 
 setwd(file_path)
 
