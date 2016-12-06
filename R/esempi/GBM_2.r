@@ -1,4 +1,5 @@
 require(sde)
+
 ## Parameters for Merton model
 V0 <- 1; muV <- 0.03; sigmaV <- 0.25
 r <- 0.02; B <- 0.85; T <- 1
