@@ -15,8 +15,21 @@ docs <- Corpus(DirSource(cname))
 
 summary(docs)  
 
+write(docs[[1]]$content, file='prova.txt')
+
+text1 <- docs[[1]]$content
+text2 <- docs[[2]]$content
+text3 <- docs[[3]]$content
+
+
 #inspect(docs[1])
 
+# removing numbers
+docs <- tm_map(docs, removeNumbers)   
+# converting to lowercase
+docs <- tm_map(docs, tolower)   
+# removing stop words
+docs <- tm_map(docs, removeWords, stopwords("it"))   
 docs <- tm_map(docs, removePunctuation)   
 
 for(j in seq(docs))   
@@ -26,12 +39,6 @@ for(j in seq(docs))
   docs[[j]] <- gsub("\\|", " ", docs[[j]])   
 }   
 
-# removing numbers
-docs <- tm_map(docs, removeNumbers)   
-# converting to lowercase
-docs <- tm_map(docs, tolower)   
-# removing stop words
-docs <- tm_map(docs, removeWords, stopwords("italian"))   
 # removing particular words
 # docs <- tm_map(docs, removeWords, c("department", "email"))   
 # combing words that should stay together
@@ -50,10 +57,8 @@ docs <- tm_map(docs, PlainTextDocument)
 dtm <- DocumentTermMatrix(docs)   
 dtm 
 
-freq <- colSums(as.matrix(dtm))   
-length(freq)   
 
-ord <- order(freq)  
+
 
 # If you prefer to export the matrix to Excel:   
 
@@ -61,12 +66,33 @@ m <- as.matrix(dtm)
 dim(m)   
 write.csv(m, file="dtm.csv")   
 
+
+tdm  <- TermDocumentMatrix(docs)
+t <- as.matrix(tdm)
+write.csv(t, file="tdm.csv")   
+
+
 #  Start by removing sparse terms:   
 dtms <- removeSparseTerms(dtm, 0.1) # This makes a matrix that is 10% empty space, maximum.   
 inspect(dtms)  
 
+tdms <- removeSparseTerms(tdm, 0.1) # This makes a matrix that is 10% empty space, maximum.   
+inspect(tdms)  
+
+t <- as.matrix(tdms)
+write.csv(t, file="tdm.csv")   
+
+
+freq <- colSums(as.matrix(dtm))   
+length(freq)   
+ord <- order(freq, decreasing=TRUE)  
 freq[head(ord)] 
 freq[tail(ord)] 
+
+findFreqTerms(dtm,lowfreq = 80)
+
+findAssocs(dtm,'operazione',.99)
+
 
 freq <- colSums(as.matrix(dtms))   
 freq   
@@ -75,18 +101,24 @@ wf <- data.frame(word=names(freq), freq=freq)
 head(wf)  
 
 library(ggplot2)   
-p <- ggplot(subset(wf, freq>50), aes(word, freq))    
+p <- ggplot(subset(wf, freq>80), aes(word, freq))    
 p <- p + geom_bar(stat="identity")   
 p <- p + theme(axis.text.x=element_text(angle=45, hjust=1))   
 p   
 
+dev.new()
+plot(dtm,corThreshold = .9)
 
-findAssocs(dtm, c("alessandro" , "profumo"), corlimit=0.98)
+terms=names(findAssocs(dtm, 'unanimità', corlimit=0.99)[['unanimità']])
 
+plot(dtm,terms=names(findAssocs(dtm, 'unanimità', corlimit=0.99)[['unanimità']]),corThreshold = .99)
+
+dev.new()
+plot(dtm, terms=c('unanimità','votare','cfo','collegio','finanziamenti','dringoli'), corThreshold = .9)
 
 library(wordcloud) 
 
-dev.new()
+#dev.new()
 set.seed(142)   
 wordcloud(names(freq), freq, min.freq=25)   
 
@@ -94,7 +126,7 @@ wordcloud(names(freq), freq, min.freq=25)
 set.seed(142)   
 wordcloud(names(freq), freq, min.freq=20, scale=c(5, .1), colors=brewer.pal(6, "Dark2"))   
 
-dtmss <- removeSparseTerms(dtm, 0.15) # This makes a matrix that is only 15% empty space, maximum.   
+dtmss <- removeSparseTerms(dtm, 0.01) # This makes a matrix that is only 15% empty space, maximum.   
 inspect(dtmss)   
 
 
