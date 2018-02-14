@@ -4,7 +4,7 @@
 
 # On a PC, save the folder to your C: drive and use the following code chunk:
 
-cname <- file.path("C:/Users/T004314/Documents/GitHub", "working/R/appunti/text_mining/corpus/txt")   
+cname <- file.path("/Users/giovanni/Documents", "Corpus/txt")   
 cname   
 dir(cname)  
 
@@ -145,3 +145,5 @@ library(fpc)
 d <- dist(t(dtmss), method="euclidian")   
 kfit <- kmeans(d, 2)   
 clusplot(as.matrix(d), kfit$cluster, color=T, shade=T, labels=2, lines=0)   
+
+
