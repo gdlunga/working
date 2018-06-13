@@ -1,5 +1,5 @@
-#Needed <- c("tm", "SnowballCC", "RColorBrewer", "ggplot2", "wordcloud", "biclust", "cluster", "igraph", "fpc")   
-#install.packages(Needed, dependencies=TRUE)   
+Needed <- c("tm", "SnowballCC", "RColorBrewer", "ggplot2", "wordcloud", "biclust", "cluster", "igraph", "fpc")   
+install.packages(Needed, dependencies=TRUE)   
 #install.packages("Rcampdf", repos = "http://datacube.wu.ac.at/", type = "source")    
 
 # On a PC, save the folder to your C: drive and use the following code chunk:
@@ -109,12 +109,12 @@ p
 dev.new()
 plot(dtm,corThreshold = .9)
 
-terms=names(findAssocs(dtm, 'unanimità', corlimit=0.99)[['unanimità']])
+terms=names(findAssocs(dtm, 'unanimit?', corlimit=0.99)[['unanimit?']])
 
-plot(dtm,terms=names(findAssocs(dtm, 'unanimità', corlimit=0.99)[['unanimità']]),corThreshold = .99)
+plot(dtm,terms=names(findAssocs(dtm, 'unanimit?', corlimit=0.99)[['unanimit?']]),corThreshold = .99)
 
 dev.new()
-plot(dtm, terms=c('unanimità','votare','cfo','collegio','finanziamenti','dringoli'), corThreshold = .9)
+plot(dtm, terms=c('unanimit?','votare','cfo','collegio','finanziamenti','dringoli'), corThreshold = .9)
 
 library(wordcloud) 
 
