@@ -47,3 +47,44 @@ for text in synopses_imdb:
     synopses_clean_imdb.append(text)
 
 synopses_imdb = synopses_clean_imdb
+
+synopses = []
+
+for i in range(len(synopses_wiki)):
+    item = synopses_wiki[i] + synopses_imdb[i]
+    synopses.append(item)
+    
+ # generates index for each item in the corpora (in this case it's just rank) and I'll use this for scoring later
+ranks = []
+
+for i in range(0,len(titles)):
+    ranks.append(i)   
+    
+# load nltk's English stopwords as variable called 'stopwords'
+stopwords = nltk.corpus.stopwords.words('english')
+print stopwords[:10]    
+
+# load nltk's SnowballStemmer as variabled 'stemmer'
+from nltk.stem.snowball import SnowballStemmer
+stemmer = SnowballStemmer("english")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
