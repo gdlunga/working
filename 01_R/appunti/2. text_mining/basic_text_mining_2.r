@@ -5,6 +5,8 @@ if(!require(pdftools)){
   library(pdftools)
 } 
 
+# Creazione corpus txt
+
 file_path_orig = 'C:\\Users\\T004314\\Documents\\GitHub\\working\\01_R\\appunti\\2. text_mining\\pdf'
 file_path_dest = 'C:\\Users\\T004314\\Documents\\GitHub\\working\\01_R\\appunti\\2. text_mining\\txt'
 
@@ -19,7 +21,6 @@ for(thisfile in myfiles){
   txt_file_name = file.path(file_path_dest, txt_file_name)
   txt <- pdf_text(file.path(file_path_orig,thisfile))  
 
-  
   fileConn = file(txt_file_name)
   write(txt, fileConn)
   close(fileConn)
