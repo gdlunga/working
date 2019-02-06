@@ -1,0 +1,708 @@
+DATA:                         06/07/2017                      DATA SCADENZA:             Fino a revoca
+CODICE TESTO:                 D 01020 003 NMIG                CODICE RISORSA             AAA002ELA
+OGGETTO:
+                              Direttiva di Gruppo in materia                                           di
+                              Gestione del rischio di Credito
+MACROPROCESSO:                RISK MANAGEMENT
+PROCESSO:                     Gestione del rischio di credito
+SEGMENTO DI MERCATO:          Non applicabile
+(prevalentemente interessato)
+RUOLI:                        Capogruppo - Responsabile di struttura; Capogruppo - Addetto
+(prevalentemente interessati)
+SERIE/SETTORE/SERVIZIO:       23         /    2           /   1
+TESTI ANNULLATI:
+PRESA VISIONE:                1            senza formalità
+STRUTTURA EMANANTE:           (2121)       AMM. DELEG.
+ASSISTENZA DI TIPO            n.a.
+TECNICO/OPERATIVO:
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                      Codice: D 01020 003                                 Pubblicato il: 06/07/2017                                  Pag. 1 di 15
+                                                                 INDICE
+1 - QUADRO DI SINTESI ............................................................................................................................................... 2
+   1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI .............................................. 2
+   1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE .................. 2
+   1.3 - DESTINATARI E MODALITÀ DI RECEPIMENTO ......................................................... 2
+   1.4 - DECORRENZA ..................................................................................................... 3
+   1.5 - ELENCO FUNZIONI E RUOLI INTERESSATI ............................................................. 3
+2 - ASPETTI GENERALI ................................................................................................................................................ 4
+   2.1 - DEFINIZIONE DEL RISCHIO DI CREDITO ............................................................... 4
+   2.2 - DEFINIZIONE DEL FRAMEWORK DI RISCHIO DI CREDITO ........................................ 5
+   2.3 - IDENTIFICAZIONE DEL PERIMETRO ....................................................................... 5
+   2.4 - FONTI DI RISCHIO .............................................................................................. 6
+   2.5 - VALUTAZIONE E MISURAZIONE DEL RISCHIO ........................................................ 6
+   2.5.1 - Aspetti generali ................................................................................................ 6
+   2.5.2 - Probabilità di Default e attribuzione del rating ...................................................... 7
+   2.5.3 - Loss Given Default (LGD) .................................................................................. 8
+   2.5.4 - Exposure At Default (EAD) ................................................................................ 9
+   2.5.5 - Capitale Interno ............................................................................................... 9
+   2.5.6 - Iter di autorizzazione e approvazione interna dei modelli ..................................... 10
+   2.6 - GESTIONE DEL RISCHIO .................................................................................... 11
+   2.7 - MITIGAZIONE DEL RISCHIO ............................................................................... 11
+   2.8 - DEFINIZIONE E PRODUZIONE DEL REPORTING..................................................... 11
+3 - ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO ........................................................................ 11
+   3.1 - GENERALITA’ .................................................................................................... 11
+   3.2 - RESPONSABILITA' DEGLI ORGANI DI VERTICE DELLA CAPOGRUPPO E DELLE SOCIETA’
+   DEL GRUPPO ............................................................................................................ 12
+   3.2.1 - Organo con Funzione di Supervisione Strategica ................................................ 12
+   3.2.2 - Organo con Funzione di Gestione ..................................................................... 12
+   3.2.3 - Organo con Funzione di Controllo ..................................................................... 13
+   3.3 - RESPONSABILITA’ DELLE FUNZIONI AZIENDALI DELLA CAPOGRUPPO E DELLE
+   SOCIETA’ DEL GRUPPO .............................................................................................. 13
+   3.3.1 - Funzione Controllo del Rischio .......................................................................... 13
+   3.3.2 - Funzione Rischio di Credito .............................................................................. 13
+   3.3.3 - Funzione Rating ............................................................................................. 13
+   3.3.4 - Funzione Convalida Interna ............................................................................. 13
+   3.3.5 - Funzione Revisione Interna.............................................................................. 14
+   3.3.6 - Funzione Sistemi Informativi ........................................................................... 14
+   3.3.7 - Funzione Segnalazioni di Vigilanza .................................................................... 14
+   3.3.8 - Funzione di Business ...................................................................................... 14
+   3.3.9 - Funzioni di Controllo del Rischio Locali .............................................................. 14
+4 - ELENCO TESTI NORMATIVI DI RIFERIMENTO ........................................................................................... 15
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                      Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 2 di 15
+1 - QUADRO DI SINTESI
+1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI
+La Direttiva definisce il modello organizzativo adottato dal Gruppo (principi e responsabilità)
+del processo di “Gestione del Rischio di Credito”.
+La definizione e lo svolgimento del processo di Gestione del Rischio di Credito è accentrato
+sulla Capogruppo, in coerenza con la policy in materia di Risk Management (cfr. 1030D01114),
+e prevede di:
+    - definire il perimetro del portafoglio e l’impianto complessivo per la gestione del rischio
+        di credito (framework rischio di credito);
+    - definire le fonti di rischio in termini d’individuazione dei principali fattori di rischio
+        rilevanti che espongono il Gruppo a dinamiche avverse di rischio credito;
+    - valutare e misurare il rischio attraverso la definizione e l’aggiornamento dei modelli per
+        la misurazione del rischio e la conseguente valutazione del rischio in ottica attuale,
+        prospettica e in condizioni di stress;
+    - gestire il rischio in termini di definizione e aggiornamento della Credit Risk Tolerance e
+        degli eventuali sconfinamenti rispetto al connesso sistema dei limiti;
+    - mitigare il rischio in termini di adeguatezza dell’impianto normativo e metodologico
+        costantemente aggiornato;
+    - definire e produrre un sistema efficiente di comunicazione delle informazioni rilevanti
+        (reporting) tra tutte le funzioni coinvolte nel processo e tra queste e gli organi aziendali.
+Le Società del Gruppo, rientranti nel perimetro di applicazione, sono responsabili del corretto
+rispetto delle regole e del sistema dei limiti definiti dalla Capogruppo.
+La presente Direttiva s’inserisce nel più ampio quadro normativo disciplinante la gestione dei
+rischi secondo i principi contenuti nella Policy in materia di Risk Management
+(cfr.1030D01114) ed in coerenza con quanto previsto dalla “Direttiva di Gruppo in materia di
+Processo interno di Valutazione dell’Adeguatezza Patrimoniale” (cfr. 1030D01308) che delinea
+il quadro di riferimento per la valutazione dell’adeguatezza patrimoniale sia in condizioni di
+normale svolgimento del business, sia in condizioni di stress, e con la “Direttiva di Gruppo in
+materia di Convalida interna dei sistemi di misurazione dei rischi” (cfr. 1030D02208).
+1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE
+Il documento è stato rivisto nella struttura dei capitoli e aggiornato sia in termini di contenuti
+sia in termini di modello di responsabilità. L’aggiornamento dei contenuti persegue l’obiettivo di
+raggiungere un adeguamento al contesto di evoluzione della normativa esterna di riferimento,
+mentre la revisione del modello di responsabilità è stata effettuata per adeguarsi alle
+evoluzioni degli assetti organizzativi e gestionali nel frattempo intercorse.
+È opportuna, pertanto, la rilettura integrale della presente versione del testo.
+1.3 - DESTINATARI E MODALITÀ DI RECEPIMENTO
+La Direttiva è rivolta alla Banca MPS e alle Società del Gruppo che possono originare rischio di
+credito, che in dettaglio sono:
+    - MPS Capital Services Banca per le Imprese;
+    - MPS Leasing e Factoring;
+    - Widiba;
+    - Monte Paschi Banque;
+    - Banca Monte Paschi Belgio;
+
+                    Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                    Codice: D 01020 003               Pubblicato il: 06/07/2017            Pag. 3 di 15
+     -  Consorzio Operativo Gruppo MPS in qualità di Società del Gruppo con compiti di
+        gestione dei sistemi informativi.
+Le Società del Gruppo recepiscono la Direttiva, con delibera dei propri organi apicali,
+adeguando responsabilità, processi e regole interne, in coerenza con le proprie caratteristiche
+e dimensioni.
+Il recepimento deve essere notificato alle seguenti Strutture e Funzioni della Capogruppo:
+     - struttura cui fa capo il riporto societario della singola Società;
+     - Funzione Rischio di Credito;
+     - Area Organizzazione e Demand.
+1.4 - DECORRENZA
+Data di pubblicazione.
+1.5 - ELENCO FUNZIONI E RUOLI INTERESSATI
+Quadro di raccordo tra Funzioni/Ruoli e Strutture/Organi citati nella Direttiva:
+Nome convenzionale funzione              Struttura organizzativa
+Business                                 BMPS:
+                                         Direzione Chief Lending Officer
+                                         Direzione Chief Lending Officer –Direzione Crediti non
+                                         Performing
+                                         Direzione Chief Lending Officer –Direzione Crediti Performing
+                                         Direzione Chief Commercial Officer
+                                         Direzione Chief Commercial Officer – Direzione Retail
+                                         Direzione Chief Commercial Officer – Direzione Wealth
+                                         Management
+                                         Direzione Chief Commercial Officer- Direzione Corporate
+Controllo del Rischio                    BMPS:
+                                         Direzione Chief Risk Officer
+Controllo del Rischio Locale             Società estere e Filiali estere BMPS:
+                                         Funzione di controllo dei Rischi locale che riporta
+                                         gerarchicamente alla Funzione di Controllo dei Rischi di
+                                         Capogruppo (cfr. 1030D00793)
+Convalida Interna                        BMPS:
+                                         Direzione Chief Risk Officer - Area Validazione, Monitoraggio e
+                                         Informativa Istituzionale - Servizio Validazione Sistemi di
+                                         Rischio
+Rating                                   BMPS:
+                                         Direzione Chief Risk Officer - Area Risk Management – Servizio
+                                         Rating
+Rischio di Credito                       BMPS:
+                                         Direzione Chief Risk Officer - Area Risk Management - Servizio
+                                         Rischi di Credito
+Revisione Interna                        BMPS:
+                                         Direzione Chief Audit Executive - Area Revisione Specialistica -
+                                         Servizio Risk Audit
+Segnalazioni di Vigilanza                BMPS:
+                                         Direzione Chief Financial Officer – Area Amministrazione e
+                                         Bilancio – Servizio Normativa Regolamentare e Reporting
+Sistemi Informativi                      Consorzio operativo Gruppo MPS:
+                                         Servizio Rischi e Segnalazioni
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                       Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 4 di 15
+2 - ASPETTI GENERALI
+2.1 - DEFINIZIONE DEL RISCHIO DI CREDITO
+Per rischio di credito s’intende la probabilità che una variazione attesa o inattesa del merito
+creditizio di una controparte (dipendente anche dalla qualità delle garanzie che assistono il
+credito) generi una corrispondente variazione del valore della posizione creditoria.
+Il rischio di credito non rappresenta quindi solo la possibilità d’insolvenza di una controparte
+(credit default risk), tenendo in considerazione che anche il semplice deterioramento del merito
+creditizio rappresenta una manifestazione di rischio.
+Tutte le tipologie di rischio, a prescindere dagli aspetti definitori, possono alterare l’equilibrio
+economico-finanziario dell’istituzione creditizia, mediante:
+     - una riduzione degli utili attesi;
+     - una minore valutazione degli asset in portafoglio.
+Per entrambi i fenomeni, l’effetto finale è la riduzione del valore dell’azienda e l’abbandono del
+principio della sua massimizzazione.
+Gli utili attesi possono cambiare nel tempo quale diretta conseguenza della volatilità dei fattori
+di rischio.
+Il rischio appare propriamente definibile come probabilità di realizzare perdite inattese e si
+misura come varianza della perdita attesa, quest’ultima definita come ammontare di perdita
+anticipata su di un certo periodo temporale.
+Ne deriva che il rischio di credito è quantitativamente stimato mediante le seguenti misure:
+     -   Perdita attesa (expected loss): rappresenta la perdita che una banca si attende
+         mediamente di conseguire a fronte di un credito o di un portafoglio crediti (il valore
+         medio della distribuzione delle perdite). In quanto “attesa” tale perdita trova
+         “copertura” sistematica mediante gli accantonamenti periodici nel conto economico (cd.
+         rettifiche di valore).
+     -   Perdita inattesa (unexpected loss): la perdita inattesa rappresenta il grado di
+         variabilità della perdita intorno al proprio valore atteso, equivale pertanto alla possibilità
+         che la perdita effettiva risulti, ex post, superiore alla perdita attesa stimata ex ante.
+         Come tale non può dunque essere “coperta” mediante accantonamenti di bilancio ma
+         deve essere fronteggiata mediante il capitale della Banca. A differenza della perdita
+         attesa, la perdita inattesa è funzione anche della componente diversificazione del
+         portafoglio impieghi ovvero ad esempio della capacità di impiegare in settori, zone
+         geografiche, tipologia di clientela differenti così da ridurre il rischio di un
+         contemporaneo default che coinvolga una parte significativa del portafoglio.
+La protezione a fronte di tale perdita inattesa, non anticipabile con certezza ma stimabile con
+un certo livello di affidabilità, è costituita dal capitale impegnato a fronte dei rischi sostenuti.
+La perdita attesa riveste comunque un’importanza fondamentale dal momento che la sua
+quantificazione è condizione necessaria per la definizione di una corretta politica di
+accantonamenti e di un corretto pricing sia in fase di prima erogazione sia di rinnovo di un fido,
+oltre ad essere il punto di partenza per la stima della perdita inattesa.
+La predisposizione di un adeguato sistema di gestione del rischio di credito, noto come
+Framework del Rischio di credito, assume pertanto un ruolo fondamentale per il mantenimento
+della stabilità del Gruppo.
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                      Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 5 di 15
+2.2 - DEFINIZIONE DEL FRAMEWORK DI RISCHIO DI CREDITO
+Il Framework di Rischio di Credito rappresenta l’impianto complessivo per la gestione del
+rischio di credito sottostante il portafoglio creditizio.
+Il Framework è inserito nel più ampio quadro normativo della valutazione dell’adeguatezza
+patrimoniale (cfr. 1030D01308) contribuendo alla:
+     -   definizione su un orizzonte temporale pluriennale dell’evoluzione del portafoglio
+         attraverso la declinazione di precisi obiettivi a livello di:
+     -   Portafoglio performing, definendo ad esempio la qualità delle nuove erogazioni e il
+         contenimento dei flussi di default anche attraverso la riqualifica del portafoglio;
+     -   Portafoglio non-performing, stabilendo obiettivi in termini sia di cura sia di
+         decadimento del portafoglio classificato in Past due e Unlikley to Pay (Utop), nonché
+         definendo possibili azioni di recupero (rivenienti sia dalla gestione ordinaria del credito
+         sia dalla sua cessione) riguardanti principalmente il portafoglio classificato in Utop e/o
+         Sofferenza;
+     -   quantificazione sulla base dell’evoluzione del portafoglio sopra declinata del costo del
+         credito ad essa associata;
+     -   quantificazione della perdita attesa e inattesa a fronte di tale evoluzione del
+         portafoglio;
+     -   stima degli stessi aggregati a fronte di scenari di stress utili alla definizioni degli
+         adeguati livelli di tolerance che l’Organo con Funzione di Gestione decide di assumere.
+2.3 - IDENTIFICAZIONE DEL PERIMETRO
+La definizione del perimetro oggetto del Processo di Gestione del Rischio di Credito include tutti
+gli impieghi del Gruppo MPS che possono generare rischio di credito ai fini della quantificazione
+del requisito di capitale. In particolare:
+     - si includono i portafogli per i quali il Gruppo MPS ha ottenuto l’autorizzazione all’utilizzo
+        dei sistemi interni di rating avanzati (AIRB - Advanced Internal Rating Based) per la
+        determinazione dei requisiti patrimoniali a fronte del rischio di credito (provvedimento
+        Banca d’Italia n. 647555 giugno 2008) ossia: “Esposizioni creditizie al Dettaglio” ed
+        “Esposizioni verso imprese” della Capogruppo Bancaria, di MPS Capital Services, MPS
+        Leasing & Factoring, e le operazioni di Specialized Lending superiori a 5 milioni di Euro
+        per le quali si utilizza la metodologia Airb-Slotting Criteria;
+     - si includono i restanti portafogli e le restanti entità del Gruppo per i quali si utilizza la
+        metodologia standard per il calcolo del requisito di capitale a fronte del rischio di
+        credito.
+Nell’ambito dell’ottenimento dell’autorizzazione all’utilizzo dei sistemi interni di rating, la Banca
+ha predisposto un piano di estensione progressiva del perimetro soggetto a misurazione AIRB
+(piano di Roll Out) sottoponendolo nel corso degli anni all’approvazione dell’autorità
+competente. La Banca monitora periodicamente il rispetto dell’attuazione e la validità del piano
+di Roll Out; in particolare:
+     - verifica il rispetto delle soglie di copertura dei sistemi interni di rating, previste dalla
+        Circolare 285 e dalle più recenti linee guida, rispetto al perimetro di applicazione;
+     - controlla l’evoluzione dei portafogli ricompresi nel metodo AIRB rispetto al piano di Roll
+        Out comunicato all’Autorità di Vigilanza.
+Nell’ambito dell’identificazione del perimetro di Gestione del Rischio di Credito, la Banca
+monitora eventuali modifiche del business e/o cambiamenti ed evoluzioni del contesto
+normativo e regolamentare che possono tradursi nella necessità di dover apportare modifiche
+ai sistemi interni di rating per i quali la Banca ha già ottenuto autorizzazione. Tali modifiche
+sono trattate nel paragrafo sull’iter di approvazione e autorizzazione interna dei modelli.
+
+                           Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                           Codice: D 01020 003                   Pubblicato il: 06/07/2017            Pag. 6 di 15
+Infine, nell’ambito del monitoraggio del perimetro soggetto a misurazione AIRB, è necessario
+verificare l’adeguatezza e il rispetto dei vincoli normativi per quanto concerne i portafogli in
+uso permanente parziale (PPU).
+2.4 - FONTI DI RISCHIO
+L’identificazione delle fonti di rischio di credito è svolta con l’obiettivo di individuare i principali
+fattori di rischio che espongono il Gruppo MPS a dinamiche avverse di rischio di credito. Le
+principali fonti di rischio di credito sono:
+     - Rischio di default: rischio che la controparte non adempia le sue obbligazioni; tale
+          inadempienza può essere fatta coincidere con uno stato oggettivo del debitore (es. past
+          due) o con una valutazione soggettiva della Banca (come la classificazione del cliente in
+          “utop o sofferenza”);
+     - Rischio di migrazione: rischio di deterioramento della qualità creditizia di una
+          controparte, corrispondente ad una diminuzione del rating assegnato; si tratta di un
+          rischio di downgrading diverso dal rischio di default;
+     - Rischio di recupero: ossia incertezza relativa all’ammontare effettivo che verrà
+          recuperato dalla banca al termine delle procedure di contenzioso nei confronti dei
+          debitori inadempienti;
+     - Rischio di esposizione: ossia incertezza relativa alla dimensione dell’esposizione di
+          una controparte nel periodo che precede il default; si tratta di un rischio tipico derivante
+          dalla discrezionalità di utilizzo delle linee di credito relative ad alcuni prodotti (ad
+          esempio scoperti di conto).
+2.5 - VALUTAZIONE E MISURAZIONE DEL RISCHIO
+2.5.1 - Aspetti generali
+Le fonti di rischio individuate nel paragrafo precedente rappresentano il punto di partenza per
+la definizione di appropriati modelli di valutazione e misurazione del rischio in grado di
+catturare le diverse specificità.
+Per la porzione del portafoglio soggetta a valutazione del rischio di credito attraverso la
+metodologia “Standard”, il gruppo MPS si attiene alle indicazioni normative vigenti (cosiddetto
+framework Basilea 3 recepito in Europa con la direttiva UE 2013/36 cd. “CRD IV” e il
+regolamento UE 575/2013 cd. “CRR” che si è ampliato nel corso del tempo di numerose misure
+di esecuzione, contenute in norme tecniche di regolamentazione o di attuazione, Regulatory
+Technical Standard – RTS e Implementing Technical Standard – ITS, adottate dalla
+Commissione Europea su proposta delle Autorità europee di vigilanza).
+Per la porzione del portafoglio soggetta a valutazione del rischio di credito attraverso l’utilizzo
+dei modelli interni (Approccio AIRB – Advanced Internal Ratings based) il Gruppo MPS ha
+implementato uno specifico sistema di valutazione, il cosiddetto ‘sistema di rating’, basato
+comunque sulle indicazioni contenute nei documenti normativi sopra citati e successivi
+aggiornamenti.
+Per “sistema di rating” si intende l’insieme strutturato e documentato delle metodologie, dei
+processi organizzativi e di controllo, delle modalità di organizzazione delle basi dati, che
+permette la raccolta delle informazioni rilevanti e la loro elaborazione per la formulazione di
+valutazioni sintetiche: a) del merito di credito di un soggetto affidato e b) della rischiosità delle
+singole operazioni creditizie”1.
+1
+  Banca d’Italia (luglio 2006). ‘Recepimento della nuova regolamentazione prudenziale internazionale metodo dei
+rating interni per il calcolo del requisito patrimoniale a fronte del rischio di credito- Documento per la consultazione’.
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                       Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 7 di 15
+L’approccio di misurazione avanzato AIRB quale sistema interno di valutazione della rischiosità
+di controparte è essenzialmente in funzione di tre parametri:
+    - PD – Probability of default (probabilità di default): la probabilità che il debitore
+        vada a default nell’arco di un determinato orizzonte temporale (tipicamente un anno);
+        l’insolvenza rappresenta una variabile dicotomica (default o non default), ma la
+        probabilità di assistere ad un default entro un certo orizzonte temporale è una
+        grandezza continua, compresa tra 0% e 100%
+    - LGD – Loss Given Default (perdita in caso di insolvenza): è l’incertezza relativa al
+        rapporto, espresso in termini percentuali, tra la perdita in caso di default e l’importo
+        dell’esposizione al momento del default; questo è pari al complemento ad 1 del
+        recovery rate.
+    - EAD – Exposure at default (esposizione a rischio): corrisponde all’incertezza
+        relativa all’effettivo ammontare del prestito al momento del default; rappresenta
+        l’ammontare del credito vantato al momento del default, ossia il valore delle attività di
+        rischio per cassa e fuori bilancio.
+2.5.2 - Probabilità di Default e attribuzione del rating
+COMPONENTE STATISTICA
+La componente statistica relativa alla quantificazione del rischio di default si basa sul sistema
+di rating interno e, in particolare, sulla quantificazione di uno score statistico che viene poi
+trasformato in una probabilità di default (PD).
+Di seguito le principali caratteristiche del sistema avanzato interno di rating:
+    - per tutti i portafogli regolamentari soggetti a validazione, il rating è calcolato sulla
+        singola controparte; esso è in linea con la prassi gestionale che prevede la valutazione
+        del rischio di credito, sia in fase di erogazione sia in fase di monitoraggio, sia a livello di
+        singolo prenditore;
+    - i rating sono basati su una logica di gruppo; ad ogni singola controparte viene attribuito
+        un rating unico a livello di Gruppo bancario fondato sul set informativo relativo a tutte
+        le Banche affidanti del perimetro AIRB;
+    - la segmentazione del modello di rating è definita in modo tale da rendere i cluster
+        risultanti allineati con gli obiettivi di business e le logiche del processo del credito.
+Il parametro di PD quantifica la probabilità che il debitore sia inadempiente nel far fronte ai
+suoi impegni entro un anno.
+Per misurare la PD delle controparti sono stati individuati, tra i fattori di rischio fondamentali, il
+comportamento          della    controparte       (andamentale          tiraggio),       la     sua   struttura
+reddituale/patrimoniale (bilancio), la tipologia di prodotto, la sostenibilità del prestito e altre
+informazioni volte all’identificazione delle caratteristiche rilevanti della controparte. Per questo
+motivo, è stato sviluppato un modulo ad hoc per ognuno di questi fattori, integrato in un unico
+score (con pesi diversi secondo la tipologia di controparte), trasformato in Rating e collocato
+nella Master Scale univoca a livello di Gruppo che permette a tutte le strutture coinvolte nella
+gestione del credito un confronto immediato della rischiosità associata a controparti o a
+portafogli diversi.
+I modelli PD, in funzione delle finalità sottostanti il loro utilizzo e del perimetro di applicazione,
+sono sviluppati sia in un’ottica “Point In Time-oriented” (PIT) sia in un’ottica “Through The
+Cycle-oriented” (TTC).
+In generale, i modelli PIT definiscono una probabilità di default sensibile alle variazioni
+macroeconomiche di breve periodo, con livelli di PD che aumentano durante le fasi recessive
+del ciclo e livelli di PD che si riducono durante le fasi espansive. I modelli PIT rifletteranno
+soprattutto le caratteristiche correnti della controparte, in riferimento alle condizioni correnti
+del ciclo. Tali modelli sono utilizzati ai fini gestionali, ed in particolare ai fini di implementazione
+delle politiche contabili.
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                       Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 8 di 15
+Al contrario, le valutazioni TTC sono più stabili nel tempo e non comportano una “reazione
+istantanea” nel rating a fronte delle variazioni del ciclo economico. Proprio per le loro
+caratteristiche di stabilità sono utilizzati dal gruppo MPS per il calcolo del requisito
+patrimoniale, in conformità con la normativa regolamentare che chiede stabilità nelle stime e
+negli RWA insieme con una prospettiva di lungo periodo nella quantificazione dei parametri di
+rischio.
+COMPONENTE QUALITATIVA E DI PROCESSO
+Il Gruppo MPS diversifica la determinazione del rating finale per tipologia di controparte,
+tenendo conto delle proprie specificità operative e assetti organizzativi, nonché dei segmenti di
+portafoglio interessati dai sistemi di rating (dal Large Corporate al Retail), a cui corrispondono
+differenti metodologie di analisi, procedure e ruoli professionali coinvolti nel seguimento e
+valutazione della rischiosità connessa.
+Il processo del credito prevede un livello di approfondimento proporzionale al rischio associato
+alla controparte.:
+Per le controparti identificate come piccole aziende e sui consumatori, è prevista una struttura
+semplificata, dato che per questi portafogli la maggior disponibilità campionaria e la minor
+complessità del business rendono sostanzialmente adeguato il livello di rischio individuato
+attraverso le sole analisi quantitative ed il rating è determinato sulla base della sola
+componente statistica.
+La valutazione del merito creditizio delle aziende medio-grandi (soglie dimensionali definite
+nella normativa interna di riferimento (cfr. 1030D00767), presenta una struttura più
+complessa e articolata per le controparti in considerazione del fatto che tale tipologia di
+controparti presenta rischi di esposizione e concentrazione maggiori. Su di esse, spesso
+caratterizzate da un basso numero di default, l’analisi statistica potrebbe inoltre non cogliere
+esaustivamente il rischio, da qui la necessità di approfondirne il merito creditizio con analisi
+mirate effettuate da analisti specializzati.
+L’approfondimento deve prevedere un’analisi economico finanziaria completa e l’integrazione
+delle fonti informative già utilizzate dai modelli statistici (bilanci ufficiali, dati andamentali, dati
+di sistema) con informazioni quantitative non ufficiali (dati intermedi, business plan),
+informazioni qualitative sulle strategie aziendali e sul mercato di riferimento, informazioni sui
+legami giuridico-economici fra l’azienda e il gruppo a cui appartiene.
+Il ricorso all’integrazione del giudizio automatico, proveniente dai modelli statistici di
+determinazione delle PD, con componenti qualitative difficilmente standardizzabili consente di
+conseguire il requisito della completezza informativa per giungere alla più corretta valutazione
+del merito creditizio della controparte con informazioni di non agevole standardizzazione o
+comunque non considerate dal modello.
+2.5.3 - Loss Given Default (LGD)
+La LGD rappresenta la perdita che la banca potrebbe subire su una determinata esposizione in
+caso di default, in seguito all’impossibilità di recuperare, in via giudiziale o stragiudiziale, parte
+o l’intero ammontare dell’esposizione, aumentata degli interessi e dei costi sostenuti per il
+recupero. La perdita è una perdita economica e non meramente contabile.
+Il Gruppo MPS ha sviluppato i modelli di LGD con l’obiettivo di affinare la stima del parametro
+di rischio ai fini del calcolo del requisito regolamentare. Il Gruppo MPS ha comunque previsto la
+possibilità di applicare dei correttivi in considerazione delle ulteriori finalità sottostanti e in
+particolare il loro possibile utilizzo in ambito gestionale e ai fini di definizione delle politiche
+contabili, nonché in funzione del perimetro di applicazione. La correzione è effettuata per tener
+conto di fattori attuali che possono influenzare condizioni rilevate in passato non più applicabili.
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                      Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 9 di 15
+Anche se potrebbe essere presente un mercato secondario per le esposizioni in default che
+permetterebbe di stimare implicitamente la possibile perdita in caso di default, il Gruppo MPS
+ha deciso di determinare la LGD sulla base dei processi di recupero terminati, misurando gli
+effettivi recuperi conseguiti nel periodo successivo al default.
+In particolare, la stima della LGD viene eseguita utilizzando un approccio di tipo work-out che
+si basa sulle evidenze storiche di insiemi di operazioni in default che presentano caratteristiche
+analoghe, ovvero sulle perdite medie osservate di lungo periodo per le diverse tipologie di
+operazioni. L’approccio adottato permette di valorizzare i livelli di efficienza dei processi di
+recupero e di gestione delle posizioni classificate a default adottati dal Gruppo.
+Nella determinazione del livello di LGD è stata adottata una definizione di LGD economica,
+prevedendo la quantificazione dell’effetto di attualizzazione in una logica di sconto dei flussi di
+cassa. Infine, la LGD determinata tiene inoltre in considerazione gli effetti che lo stato del ciclo
+economico può determinare sul livello di perdita che il Gruppo potrebbe subire su una
+determinata esposizione in caso di default; in particolare, la LGD stimata include una
+componente prudenziale che incrementa il valore allineandolo ad uno scenario di fase
+recessiva.
+2.5.4 - Exposure At Default (EAD)
+L’Exposure at Default (EAD) rappresenta l’ammontare di esposizione al momento del default
+della controparte.
+Il Gruppo MPS ha deciso di stimare i coefficienti di conversione creditizia per determinare la
+variazione del livello di esposizione al momento del default, in particolare ha deciso di utilizzare
+un approccio di tipo work-out, basandosi sulle evidenze storiche d’insiemi di operazioni che
+presentano caratteristiche analoghe.
+Per stimare il rapporto tra la parte non utilizzata della linea di credito che si stima possa essere
+utilizzata in caso di default e la parte non utilizzata al momento dell’osservazione, viene
+analizzato un dataset di posizioni che storicamente sono state classificate in default. Sulla base
+dell’analisi del portafoglio identificato, sono stati selezionati gli elementi che influenzano i
+fattori di conversione creditizia (CCF), quali ad esempio la tipologia del debitore, il rating, i
+livelli di esposizione e la tipologia di finanziamento, capitale interno.
+Si precisa che al momento la Banca ha avviato il processo di validazione della stima del
+parametro attraverso il modello interno, pertanto, fino al momento della sua approvazione da
+parte delle competenti autorità di vigilanza, adotterà come previsto dalle normative esterne i
+parametri della segnalazione standard.
+La quantificazione dei parametri di rischio come la PD, la LGD e l’EAD è funzionale alla
+determinazione delle misure chiave necessarie a quantificare i requisiti di capitale.
+2.5.5 - Capitale Interno
+Sulla base delle stime dei modelli possono essere determinati gli “RWA”, la perdita attesa,
+l’ammontare di rettifiche e conseguentemente lo shortfall.
+Il monitoraggio nel continuo effettuato su questi parametri è pertanto estremamente rilevante
+se si considera l’impatto sul capitale della banca.
+Per la definizione del capitale interno regolamentare, sulle entità legali e relativamente a quelle
+tipologie di esposizione per le quali il Gruppo MPS è stato autorizzato all’utilizzo del Sistema
+AIRB, si utilizzano le metriche di rischio del sistema avanzato di rating stimate internamente
+dal Gruppo MPS. Per le rimanenti classi/esposizioni si utilizza l’approccio standard.
+Il Gruppo MPS ha deciso di adottare la metodologia di Primo Pilastro per quantificare il capitale
+interno da detenere a fronte del rischio di Credito.
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                      Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 10 di 15
+La quantificazione del capitale interno viene effettuata dal Gruppo sia in ottica puntuale che in
+ottica forward looking:
+    - per la quantificazione puntuale sono analizzate e tenute in considerazione la
+        composizione corrente del portafoglio della Gruppo; la valorizzazione del requisito di
+        capitale interno avviene in funzione dei parametri di rischio PD, LGD ed EAD
+        internamente stimati, dell’attuale composizione di portafoglio e della sua qualità;
+    - per quanto concerne invece le stime forward looking sono poste in essere analisi e
+        valutazioni utilizzando un orizzonte temporale di almeno 3 anni. Sono inoltre prese in
+        considerazione possibili evoluzioni della composizione e dei livelli del portafoglio crediti,
+        nonché variazioni della qualità creditizia e variazioni del costo del credito con
+        conseguente impatto sul livello del costo del capitale. In particolare, le ipotesi di
+        variazione della composizione e della qualità creditizia del portafoglio sono finalizzate a
+        intercettare e cogliere il rischio di migrazione cui il Gruppo è soggetto, analizzando
+        l’evoluzione delle misure sulla base della dinamica attesa del portafoglio in diversi
+        scenari forward looking. Nel dettaglio, le stime forward looking sono sviluppate sia in
+        uno scenario baseline che in scenari stressati. Al fine di quantificare l’impatto di diversi
+        scenari sui parametri di rischio di credito, il Gruppo MPS ha sviluppato alcune
+        metodologie che determinano l’evoluzione dei parametri di rischio in funzione
+        dell’andamento e delle proiezioni di alcuni indicatori macroeconomici. Nel dettaglio sono
+        sviluppati, e utilizzati, dei modelli satellite per stimare il rischio in uno scenario futuro.
+        I modelli satellite utilizzati assumono che l’andamento dei parametri di rischio siano
+        correlati con l’evoluzione delle variabili macroeconomiche e che esista un effetto
+        correlazione tra differenti aree geografiche e settori industriali.
+2.5.6 - Iter di autorizzazione e approvazione interna dei modelli
+Per quanto concerne l’attività di stima, la procedura di stima dei modelli interni finalizzati alla
+misurazione del rischio viene effettuata secondo un protocollo interno di sviluppo, assicurando
+inoltre che l’attività di stima sia trasparente e replicabile per le Funzioni di Convalida Interna,
+di Revisione Interna e per l’Organo di Vigilanza. Per ciascun modello sviluppato viene
+predisposta la documentazione considerata rilevante. La documentazione dei modelli avviene
+sempre in conformità alle indicazioni ed ai requisiti normativi, qualora disponibili, e in
+conformità a quelle che sono le normative interne (cfr. 1030D02148).
+Lo sviluppo di un modello di rating, è soggetto, oltre che ad un processo di sviluppo e
+documentazione predefiniti, anche ad un iter interno di autorizzazione e approvazione da parte
+di diverse funzioni ed organi di controllo.
+Allo stesso iter di approvazione interna sono soggetti anche i model changes, ovvero modifiche
+dei metodi di calcolo e misurazione basati sui sistemi di rating internamente sviluppati per la
+misurazione del rischio di credito.
+In linea con quanto previsto dalla normativa interna in materia di Convalida interna dei sistemi
+di misurazione dei rischi” (cfr. 1030D02208), i modelli regolamentari sviluppati così come i
+model changes per i modelli esistenti sono sottoposti alla valutazione del Comitato Operativo
+Basilea il quale, tra l’altro, definisce anche l’eventuale processo di autorizzazione da avviare nei
+confronti dell’Autorità di Vigilanza.
+Per la manutenzione dei modelli sviluppati internamente, sono periodicamente eseguite attività
+di analisi, di monitoraggio e/o di backtesting dei modelli interni atti a verificare la stabilità delle
+performance nel tempo (cfr.1030D01849), ed eventualmente a valutarne l’intervento in
+modifica a fronte di deviazioni ritenute significative.
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                       Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 11 di 15
+2.6 - GESTIONE DEL RISCHIO
+La gestione del rischio di credito viene effettuata in coerenza con i processi:
+     - ICAAP (cfr. 1030D01308) che rappresenta il processo di valutazione e gestione
+         dell’adeguatezza patrimoniale attraverso il quale sono identificati gli indicatori rilevanti
+         e il loro capitale interno;
+     - Risk Appetite Framework - RAF (cfr. 1030D01930) che definisce la Risk Tolerance sugli
+         indicatori di adeguatezza patrimoniali e su alcuni indicatori di asset quality. La Credit
+         Risk Tolerance estende le soglie di tolleranza del RAF a tutti gli altri indicatori di rischio
+         definendo un sistema completo di limiti noto come Risk Limits. Il sistema di limiti e di
+         soglie di attenzione così definito rappresenta il principale strumento a disposizione per
+         la gestione del rischio di credito del Gruppo.
+L’analisi e il monitoraggio nel continuo dell’andamento delle metriche inerenti il rischio di
+credito consente di verificare il costante rispetto del sistema dei limiti e quindi di segnalare
+tempestivamente eventuali sconfinamenti agli organi aziendali competenti.
+Relativamente al verificarsi di possibili sconfinamenti dei limiti assegnati vengono definite le
+politiche e le modalità di gestione degli stessi, monitorando nel tempo l’attuazione delle
+manovre correttive individuate.
+Il sistema di limiti definiti rappresenta un vincolo definito a priori che impatta sulla definizione,
+implementazione ed eventuale modifica della strategia di business della banca, anche a livello
+di gestione portafoglio sia performing che non performing.
+2.7 - MITIGAZIONE DEL RISCHIO
+La mitigazione del rischio avviene attraverso la definizione di un adeguato framework
+normativo e metodologico soggetto costantemente ad aggiornamento, che attribuisce in modo
+chiaro i ruoli e le responsabilità delle diverse funzioni aziendali e illustra gli approcci di
+valutazione e misurazione del rischio di credito.
+Fra questi riveste un ruolo principale il modello di CRM (Credit Risk Mitigation) del Gruppo che
+si basa sui principi obiettivi e tecniche riconosciute per il calcolo del requisito patrimoniale (cfr.
+1030D01534).
+2.8 - DEFINIZIONE E PRODUZIONE DEL REPORTING
+Il Gruppo si dota di un sistema efficiente di comunicazione delle informazioni rilevanti
+(Reporting) tra tutte le funzioni coinvolte nel processo di Gestione del Rischio di Credito e tra
+queste e gli organi aziendali al fine di individuare in maniera chiara responsabilità, tempistiche,
+modalità e contenuti delle comunicazioni, onde diffondere tempestivamente ed efficacemente
+all’interno del Gruppo la piena consapevolezza circa la corretta attuazione della gestione del
+rischio di credito.
+3 - ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO
+3.1 - GENERALITA’
+La Gestione del Rischio di Credito, così come previsto nella normativa interna di riferimento
+(cfr. 1030D01114) è accentrato presso la Capogruppo che definisce criteri, responsabilità,
+processi, limiti e strumenti per la gestione del rischio stesso.
+Le Società del Gruppo, rientranti nel perimetro di applicazione, sono responsabili del rispetto
+delle regole e dei limiti definiti dalla Capogruppo.
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                      Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 12 di 15
+Le Società Estere, rientranti nel perimetro di applicazione, presentano Funzioni di Controllo
+del Rischio Locali che, con il supporto della Capogruppo, assicurano l’armonizzazione fra le
+regole del Gruppo e le disposizioni delle locali Autorità di Vigilanza sulla specifica materia.
+3.2 - RESPONSABILITA' DEGLI ORGANI DI VERTICE DELLA CAPOGRUPPO E DELLE
+        SOCIETA’ DEL GRUPPO
+3.2.1 - Organo con Funzione di Supervisione Strategica
+Il Consiglio di Amministrazione della Capogruppo, nell'ambito del proprio ruolo di
+supervisione strategica:
+-    approva le linee guida ed il quadro organizzativo in materia di gestione del rischio di
+     credito (Framework credit risk tolerance);
+-    approva definitivamente le proposte di model change di tipo sostanziale preventivamente
+     validate dal Comitato Gestione Rischi, Comitato Operativo Basilea e sottoposte al parere
+     del Comitato Rischi;
+-    valida le istanze di autorizzazione preventiva per i nuovi modelli regolamentari e per i
+     model change di tipo sostanziale da inviare all’Autorità di Vigilanza.
+Il Comitato Rischi della Capogruppo svolge funzioni di supporto al Consiglio di
+Amministrazione della Capogruppo nella definizione e approvazione degli indirizzi in materia di
+gestione del rischio di Credito.
+Gli Organi di Supervisione Strategica delle Società rientranti nel perimetro di applicazione:
+    - recepiscono il quadro organizzativo e le linee guida in materia di gestione del rischio di
+        credito definite dalla Capogruppo;
+    - recepiscono i limiti operativi definiti dalla Capogruppo nell’ambito della credit risk
+        tolerance coerentemente con il Risk Appetite Framework, mediante apposita delibera;
+    - approvano e vigilano sulla realizzazione degli interventi di mitigazione di competenza,
+        definiti dalla Capogruppo a presidio del rischio di credito del Gruppo.
+3.2.2 - Organo con Funzione di Gestione
+L’Amministratore Delegato della Capogruppo:
+    - garantisce la corretta realizzazione del quadro organizzativo in materia di gestione del
+        rischio di credito definito dal Consiglio di Amministrazione;
+    - valida preventivamente il Framework della credit risk tolerance da sottoporre
+        all’approvazione del CdA;
+    - approva il sistema risk limits da assegnare alle Società del Gruppo ed alle Business
+        Unit;
+    - autorizza eventuali sconfinamenti del sistema dei limiti e l’attuazione delle manovre
+        correttive per la gestione degli stessi, nell’ambito delle autonomie assegnategli dal
+        Consiglio di Amministrazione.
+Il Comitato Gestione Rischi con funzione di supporto all’Organo con Funzione di Gestione
+della Capogruppo:
+-    approva le metodologie di misurazione del rischio di credito ed il sistema dei controlli a
+     presidio;
+-    esamina e ratifica le proposte di model change preventivamente deliberate dal Comitato
+     Operativo Basilea da sottoporre al Comitato Rischi per la successiva definitiva
+     approvazione da parte del CdA della Capogruppo;
+-    approva i risultati degli stress test in presenza di particolari eventi o situazioni di
+     vulnerabilità;
+-    valuta la proposta di credit risk tolerance ed il complessivo rispetto del sistema dei limiti
+     definiti nell’ambito del collegato sistema dei limiti;
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                      Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 13 di 15
+-    monitora gli eventuali sconfinamenti del sistema dei limiti e l’attuazione delle azioni
+     correttive per la gestione degli stessi.
+Il Comitato operativo di Basilea esamina le proposte di model change preventivamente
+analizzate dalle Funzioni Rischio di Credito e Convalida Interna.
+3.2.3 - Organo con Funzione di Controllo
+Il Collegio Sindacale della Capogruppo ed i Collegi Sindacali delle Società del Gruppo,
+avvalendosi delle funzioni di Revisione Interna del Gruppo, vigilano sull’adeguatezza e sulla
+rispondenza del sistema di gestione e controllo dei rischi ai requisiti stabiliti dalla normativa.
+3.3 - RESPONSABILITA’ DELLE FUNZIONI AZIENDALI DELLA CAPOGRUPPO E DELLE
+        SOCIETA’ DEL GRUPPO
+3.3.1 - Funzione Controllo del Rischio
+La Funzione Controllo del Rischio definisce la credit risk tolerance e il conseguente sistema
+dei limiti in coerenza col RAF da sottoporre all’approvazione dell’Amministratore Delegato;
+3.3.2 - Funzione Rischio di Credito
+La Funzione Rischio di Credito:
+    - identifica e definisce le fonti di Rischio di Credito
+    - sviluppa e manutiene i modelli dei sistemi interni di rating avanzati;
+    - effettua periodicamente il monitoraggio dei modelli;
+    - esegue il piano di estensione dei modelli avanzati secondo il piano di Roll Out
+        autorizzato dagli Organi di Vigilanza
+    - verifica la validità dei modelli avanzati rispetto al periodico aggiornamento delle
+        indicazioni normative;
+    - valuta gli impatti e la materialità del model change;
+    - definisce i modelli macroeconomici per l’analisi di scenario e di stress;
+    - verifica il rispetto dei risk limits e l’applicazione di eventuali azioni correttive poste in
+        essere dalla Funzione di Business a fronte di sconfinamenti o di altre situazioni di
+        vulnerabilità rilevate in sede di monitoraggio dei limiti informando la Funzione Controllo
+        Rischi dell’esito dei controlli eseguiti.
+3.3.3 - Funzione Rating
+La Funzione Rating:
+    - sviluppa e manutiene la componente qualitativa e di processo del rating;
+    - definisce le regole di validità del rating.
+3.3.4 - Funzione Convalida Interna
+La Funzione Convalida Interna
+    - verifica periodicamente l’accuratezza delle stime, il design dei processi e dei controlli ed
+        esprime un giudizio in merito al regolare funzionamento, alla capacità predittiva e alla
+        performance del sistema di misurazione del rischio di credito;
+    - esprime un parere sulle proposte di model change anche al fine di supportare il
+        Comitato Operativo Basilea nella valutazione dell’eventuale processo di autorizzazione
+        regolamentare;
+    - è coinvolta nella valutazione degli impatti e della materialità del model change.
+
+                    Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                    Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 14 di 15
+3.3.5 - Funzione Revisione Interna
+La Funzione Revisione Interna:
+    - vigila sulla funzionalità del complessivo sistema dei controlli in coerenza con la policy in
+       materia di Sistema dei Controlli Interni (cfr. 1030D00793) e con il piano di audit;
+    - esprime un parere su eventuali proposte di model change di tipo sostanziale da
+       sottoporre successivamente agli organi con Funzione di Gestione della Capogruppo per
+       la successiva approvazione da parte del C.d.A. della Capogruppo.
+3.3.6 - Funzione Sistemi Informativi
+La Funzione Sistemi Informativi:
+    - assicura il corretto funzionamento degli applicativi utilizzati dalla Funzione Rischio di
+       Credito e dalla Funzione di Controllo del Rischio in merito all’estrazione e alla
+       lavorazione dei dati;
+    - assicura il corretto funzionamento degli applicativi utilizzati per la determinazione e
+       segnalazione dei requisiti regolamentari;
+    - presidia il sistema IT di riferimento per lo sviluppo, monitoraggio e applicazione dei
+       sistemi avanzati di rating;
+    - esegue gli interventi IT necessari per recepire gli aggiornamenti dei modelli di
+       misurazione del rischio di credito e delle relative metriche atte al monitoraggio.
+3.3.7 - Funzione Segnalazioni di Vigilanza
+La Funzione Segnalazioni di Vigilanza:
+    - determina e segnala i requisiti regolamentari a fronte dei rischi di credito e controparte
+       (cfr. 1030D02070);
+    - presidia la corretta applicazione dei modelli e dei parametri di misurazione del rischio
+       nell’ambito degli applicativi utilizzati per la determinazione e segnalazione dei requisiti
+       regolamentari;
+    - è informata in merito agli aggiornamenti dei modelli e delle metodologie utilizzate per la
+       determinazione dei requisiti regolamentari.
+3.3.8 - Funzione di Business
+La Funzione di Business identifica le eventuali azioni correttive e ne presidia l’attuazione a
+fronte di sconfinamento dei limiti o di altre situazioni di vulnerabilità rilevate in sede di
+monitoraggio dei rischi.
+3.3.9 - Funzioni di Controllo del Rischio Locali
+Le Funzioni di Controllo del Rischio Locali per quanto di rispettiva competenza:
+    - recepiscono gli indirizzi definiti dalla Capogruppo adeguandole a quanto richiesto dalle
+       Autorità di Vigilanza locali;
+    - adempiono alle richieste delle Autorità di Vigilanza locali in tema di monitoraggio del
+       rischio di credito e comunicano alla Capogruppo eventuali eccezioni, scostamenti ed
+       aggiornamenti rispetto agli indirizzi di Capogruppo;
+    - forniscono alla Funzione Rischio di Credito i dati necessari per la produzione e l’analisi
+       delle metriche a livello di Gruppo anche ai fini di segnalazioni di vigilanza;
+    - informano tempestivamente la Funzione Rischio di Credito su eventuali variazioni o
+       fenomeni riscontrati che rappresentano un elemento di rischio relativo al portafoglio
+       creditizio della banca.
+Oltre a quanto sopra esposto, le Funzioni di Controllo del Rischio Locali delle Società Estere del
+Gruppo forniscono alla Funzione Rischio di Credito i dati necessari per la produzione e l’analisi
+delle metriche a livello di Gruppo anche ai fini di segnalazioni di vigilanza.
+
+                Oggetto: Direttiva di Gruppo in materia di Gestione del rischio di Credito
+                Codice: D 01020 003              Pubblicato il: 06/07/2017             Pag. 15 di 15
+4 - ELENCO TESTI NORMATIVI DI RIFERIMENTO
+1030D00793 - Policy di Gruppo in materia di Sistema dei Controlli Interni
+1030D01114 - Policy in materia di Risk Management (Governo dei Rischi)
+1030D01308 - Direttiva di Gruppo in materia di valutazione dell’adeguatezza patrimoniale
+             (ICAAP – Interna Capital Adequacy Assesment Process)
+1030D01534 - Direttiva di Gruppo in materia di Credit Risk Mitigation
+1030D01849 - Valutazione connessioni e qualità delle controparti (Rating e Gruppi)
+1030D01930 - Direttiva di Gruppo in materia di Governo del Risk Appetite Framework
+1030D02070 - Presidio delle Segnalazioni di Vigilanza Individuali e Consolidate
+1030D02148 - Policy di Gruppo in materia di Data Governance
+

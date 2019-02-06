@@ -1,0 +1,626 @@
+DATA:                         01/09/2015                      DATA SCADENZA:                   Fino a revoca
+CODICE TESTO:                 D 01836 002 NMOG                CODICE RISORSA                   AAA006FHA
+OGGETTO:
+                              Definizione e sviluppo degli strumenti
+                              destinati al Portafoglio della Proprietà
+MACROPROCESSO:                FINANZA
+PROCESSO:                     Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+SEGMENTO DI MERCATO:          Non applicabile
+(prevalentemente interessato)
+RUOLI:                        Capogruppo - Responsabile di struttura; Capogruppo - Addetto
+(prevalentemente interessati)
+SERIE/SETTORE/SERVIZIO:       23          /   3          /    1
+TESTI ANNULLATI:
+PRESA VISIONE:                1             senza formalità
+STRUTTURA EMANANTE:           (5966)        AR RISK MAN.
+ASSISTENZA DI TIPO            cfr. 1030C02280
+TECNICO/OPERATIVO:
+
+                  Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                  Codice: D 01836 002                     Pubblicato il: 01/09/2015                 Pag. 1 di 13
+                                                   INDICE
+1 - QUADRO DI SINTESI ................................................................................................ 2
+  1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI .............................................. 2
+  1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE .................. 2
+  1.3 - DESTINATARI ..................................................................................................... 3
+  1.4 - RIFERIMENTI PER ASSISTENZA ............................................................................ 3
+2 - ASPETTI DI CONTESTO ............................................................................................. 3
+3 - ARTICOLAZIONE E RESPONSABILITA’ ......................................................................... 4
+  3.1 - ELENCO FUNZIONI E RUOLI INTERESSATI ............................................................. 4
+  3.2 - RAPPRESENTAZIONE GRAFICA ............................................................................. 5
+4 - DEFINIZIONE/AGGIORNAMENTO DEL GRADO DI NOVITÀ DEGLI STRUMENTI ................... 6
+  4.1 - NORME GENERALI ............................................................................................... 6
+  4.2 - SEQUENZA DEGLI ADEMPIMENTI .......................................................................... 6
+5 - STUDIO DI FATTIBILITÀ DEGLI STRUMENTI................................................................. 7
+  5.1 - NORME GENERALI ............................................................................................... 7
+  5.2 - RISCHI E CONTROLLI .......................................................................................... 7
+  5.3 - SEQUENZA DEGLI ADEMPIMENTI .......................................................................... 8
+6 - APPROVAZIONE DEI NUOVI STRUMENTI DELLA PROPRIETÀ ......................................... 10
+  6.1 - NORME GENERALI ............................................................................................. 10
+  6.2 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 10
+7 - IMPLEMENTAZIONE DEGLI STRUMENTI ..................................................................... 12
+  7.1 - NORME GENERALI ............................................................................................. 12
+  7.2 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 12
+8 - ELENCO TESTI NORMATIVI DI RIFERIMENTO ............................................................. 13
+
+                     Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                     Codice: D 01836 002              Pubblicato il: 01/09/2015              Pag. 2 di 13
+1 - QUADRO DI SINTESI
+1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI
+Il documento norma in dettaglio le attività di Presidio su operatività finanziaria.
+L’ingresso in “nuovi mercati/settori operativi” o la presenza di nuovi “asset” negoziati su
+mercati maturi e per i quali il Gruppo BMPS non dispone ancora di adeguate tecniche di pricing
+e di misurazione del rischio, richiedono l’attivazione di uno specifico processo di definizione dei
+nuovi strumenti destinati al Portafoglio di Proprietà.
+Tale obiettivo è perseguito tramite la definizione del grado di novità dei nuovi strumenti
+destinati al Portafoglio di Proprietà (che può essere alto o basso) e tramite l'analisi di fattibilità
+degli stessi, momento questo in cui si definiscono le modalità di modellizzazione e di
+aggiornamento negli applicativi di market risk management e di front office.
+Realizzato lo studio di fattibilità il nuovo strumento destinato al Portafoglio di Proprietà viene
+sottoposto ad approvazione e a successiva implementazione delle soluzioni approvate per lo
+svolgimento della nuova operatività.
+1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE
+Il testo è stato aggiornato in concomitanza alla pubblicazione del documento 1030D02023
+“Policy in materia di valorizzazione degli strumenti finanziari (Fair Value e Prudent Value).
+Le principali modifiche apportate riguardano:
+ <U+F0A7> adeguamento delle funzioni e ruoli citati nel testo al vigente assetto organizzativo (cfr.
+     paragrafo 3.1);
+ <U+F0A7> aggiornamento del processo “Definizione/aggiornamento del grado di novità degli
+     strumenti” con la possibilità di far pervenire eventuali osservazioni da parte del Business
+     indicando gli eventuali elementi che si ritiene non siano stati pienamente valutati nella
+     definizione del grado di novità degli strumenti da parte della funzione competente e la
+     modifica di responsabilità/informativa (cfr. paragrafo. 4.2);
+ <U+F0A7> aggiornamento del processo “Studio di fattibilità degli strumenti” con:
+     - l’ associazione dei rischi e controlli (cfr. paragrafo. 5.2);
+     - l’inserimento di un maggior dettaglio nella descrizione della sequenza degli
+          adempimenti richiesti e la descrizione del percorso in caso di richiesta di negoziazione
+          di un nuovo strumento finanziario con grado di novità classificato “basso”
+          preliminarmente     all'approvazione       dello     stesso,      nonché         la     modifica    di
+          responsabilità/informativa (cfr. paragrafo. 5.3);
+ <U+F0A7> aggiornamento del processo “Approvazione dei nuovi strumenti della proprietà” con una
+     maggior articolazione della sequenza degli adempimenti durante la fase di approvazione
+     del nuovo strumento, esplicitando le differenti tipologie di casistiche che si possono
+     manifestare (cfr. paragrafo 6.2);
+ <U+F0A7> aggiornamento della reportistica periodica contenente i risultati del Prodotto relativa al
+     processo “Implementazione degli strumenti” (cfr. paragrafo 7.2).
+Le modifiche apportate sono evidenziate a sfondo giallo.
+
+                      Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                      Codice: D 01836 002              Pubblicato il: 01/09/2015              Pag. 3 di 13
+1.3 - DESTINATARI
+Il documento è destinato a Banca Monte dei Paschi di Siena, MPS Capital Services Banca per le
+Imprese, MPS Leasing e Factoring, Monte Paschi Banque, Monte Paschi Belgio e al Consorzio
+Operativo Gruppo MPS.
+Queste ultime devono emanare analoga normativa nel rispetto delle regole e dei processi di
+seguito descritti, adeguando regole, responsabilità e processi interni, in coerenza con le proprie
+caratteristiche e dimensioni.
+1.4 - RIFERIMENTI PER ASSISTENZA
+<U+F0A7> Servizio Rischio di Liquidità e Finanziari: G1030SRMCONTRFIN@mps.local.
+2 - ASPETTI DI CONTESTO
+Obiettivo del processo è quello di definire le modalità di sviluppo degli strumenti destinati al
+Portafoglio di Proprietà, il relativo aggiornamento degli applicativi di front office (e di
+evoluzione delle alimentazioni) e le modalità di gestione dei rischi di mercato ad essi connessi,
+sia nel caso in cui si valuti conveniente sfruttare o modificare il profilo di rischio/rendimento di
+determinate posizioni in essere nel proprio portafoglio mediante l’adozione di nuovi strumenti,
+sia, per motivi esterni, nel caso in cui gli operatori dei mercati finanziari sviluppino una nuova
+tipologia di strumento finanziario.
+L'avvio dell’operatività in un nuovo strumento finanziario destinato al Portafoglio di Proprietà
+produce una serie d'impatti lungo tutta la filiera produttiva e sui profili di rischio richiedendo di
+porre in essere ex ante, rispetto alla finalizzazione della prima operazione, un processo di
+approvazione che implica una serie di verifiche quali:
+<U+F0A7>    la comprensione dello strumento e del profilo di rischio generato;
+<U+F0A7>    l'identificazione delle modalità di gestione (aspetti organizzativi, amministrativi, contabili e
+     di back office);
+<U+F0A7>    condivisione e approvazione delle modalità di gestione;
+<U+F0A7>    predisposizione dell’infrastruttura IT e dei processi collegati;
+<U+F0A7>    definizione delle modalità di “primo trattamento”.
+
+                    Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                    Codice: D 01836 002              Pubblicato il: 01/09/2015              Pag. 4 di 13
+3 - ARTICOLAZIONE E RESPONSABILITA’
+3.1 - ELENCO FUNZIONI E RUOLI INTERESSATI
+Quadro di raccordo tra “Nome convenzionale Funzione” e Struttura vigente
+ Nome Convenzionale Funzione        Struttura Organizzativa
+                                   BMPS:
+                                      Area Finanza, Tesoreria e Capital Management - Servizio
+                                      Governo Strategico del Rischio
+                                      Area Estero - Servizio Commerciale Estero e Rete Estera
+ Business
+                                   MPSCS:
+                                      Direzione Global Markets
+                                   Banca Montepaschi Belgio
+                                   Montepaschi Banque
+ Consiglio di Amministrazione      BMPS:
+ Capogruppo                           Consiglio di Amministrazione
+                                   BMPS:
+ Bilancio
+                                      Area Amministrazione e Bilancio - Servizio Bilancio e Contabilità
+ Controllo del Rischio di          BMPS:
+ Mercato                              Area Risk Management - Servizio Rischi di Liquidità e Finanziari
+                                   BMPS:
+ Demand Management                    Area Business Transformation, Demand & Cost Management -
+                                      Servizio Demand Management
+                                   BMPS:
+ Fiscale
+                                      Area Amministrazione e Bilancio - Servizio Fiscale
+                                   Consorzio:
+ IT
+                                      Area Applicazioni Governo - Servizio Rischi e Segnalazioni
+                                   BMPS:
+ Legale                               Area Legale e Societario - Servizio Societario, M&A e Mercati
+                                      Finanziari
+                                   BMPS:
+ Organizzazione
+                                      Area Organizzazione
+                                   BMPS:
+ Segnalazioni di Vigilanza            Area Amministrazione e Bilancio - Servizio Normativa
+                                      Regolamentare e Reporting
+                                   BMPS:
+ Comitato Gestione Rischi
+                                      Comitato Gestione Rischi
+                                   BMPS:
+ Compliance
+                                      Area Compliance - Servizio Compliance
+                                   BMPS:
+ Revisione Interna
+                                      Direzione Revisione Interna - Servizio Risk Audit
+
+                    Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                    Codice: D 01836 002              Pubblicato il: 01/09/2015              Pag. 5 di 13
+Quadro di raccordo tra “Nome convenzionale Ruolo” e Ruolo vigente
+ Nome Convenzionale Ruolo           Ruolo
+ Responsabile Controllo dei        BMPS:
+ Rischi                               Responsabile Direzione Rischi
+ Responsabile Gestione dei         BMPS:
+ Rischi                               Responsabile Area Risk Management
+                                   BMPS:
+ Chief Financial Officer
+                                      Responsabile Direzione CFO
+3.2 - RAPPRESENTAZIONE GRAFICA
+Tutti i processi aziendali sono inseriti nella Tassonomia di Gruppo, che prevede cinque livelli
+gerarchici: ambito, macroprocesso, processo (P), fase (F), attività (AT) (cfr. 1030D01823
+“Policy in materia di Normativa Interna e Processi”).
+L’argomento trattato è inserito nella Tassonomia di Gruppo nei processi di Business /
+Finanza / Definizione e sviluppo degli strumenti destinati al Portafoglio della
+Proprietà.
+Gli adempimenti relativi alle fasi/ attività sopra indicate sono descritti in dettaglio nei capitoli
+successivi.
+
+                       Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                       Codice: D 01836 002               Pubblicato il: 01/09/2015              Pag. 6 di 13
+4    -     DEFINIZIONE/AGGIORNAMENTO                        DEL     GRADO           DI     NOVITÀ            DEGLI
+          STRUMENTI
+4.1 - NORME GENERALI
+L’esigenza di operare con un nuovo strumento ha origine sia per motivi interni, ossia nel caso
+in cui la Funzione di Business valuti conveniente sfruttare o modificare il profilo di
+rischio/rendimento di determinate posizioni in essere nel proprio portafoglio mediante
+l’adozione di nuovi strumenti, sia per motivi esterni, ossia nel caso in cui gli operatori dei
+mercati finanziari sviluppino una nuova tipologia di strumento finanziario.
+Il grado di novità del nuovo strumento può essere alto o basso ed è valutato sulla base delle
+seguenti regole:
+<U+F0A7> il grado di novità dello strumento è alto quando:
+    - lo strumento non è gestibile dai sistemi e non è stato mai utilizzato prima (a meno che
+       non si tratti di una variante del risultato finanziario di uno strumento esistente che
+       rappresenta la prima regola del grado di novità basso);
+    - lo strumento comporta l'ingresso in nuovi mercati (non assimilabili a mercati in cui il
+       Front Office ha già operato).
+<U+F0A7> il grado di novità dello strumento è basso in tutti gli altri casi; a titolo esemplificativo
+       quando:
+    - lo strumento implica una variante del risultato finanziario di uno strumento presente nel
+       Portafoglio;
+    - il modulo di gestione dello strumento è disponibile nei sistemi ma non è mai stato
+       verificato il corretto funzionamento dello stesso e la corretta gestione dello strumento
+       finanziario;
+    - lo strumento implica un risultato finanziario approssimabile con una combinazione di
+       strumenti esistenti;
+    - i parametri di mercato non sono disciplinati all’interno delle policies ma non è previsto
+       l’ingresso in un nuovo mercato.
+4.2 - SEQUENZA DEGLI ADEMPIMENTI
+La rappresentazione grafica del flusso rappresentato in tabella è disponibile al seguente link:
+“Definizione/aggiornamento del grado di novità degli strumenti”.
+ ID      Adempimenti      Descrizione                                              Attori              Supporti
+  1    Comunicare        Comunicare alla Funzione competente l'esigenza           Business            Documenti di
+       l'esigenza di                                                                                  output
+                         di operare con un nuovo strumento da destinare           Funzioni
+       operare con un                                                                                 Dettagli del
+                         al Portafoglio di Proprietà fornendo tutti i             coinvolte:
+       nuovo                                                                                          nuovo strumento
+                         dettagli necessari all’analisi del grado di novità e        Controllo del    da introdurre nel
+       strumento
+                         allo studio di fattibilità                                  Rischio di       Portafoglio di
+                                                                                     Mercato          Proprietà
+                                                                                                      Posta elettronica
+  2    Analizzare e      Analizzare le caratteristiche finanziarie del            Controllo del       Documenti di
+       definire le                                                                Rischio di          input
+                         nuovo strumento (booking nel sistema di front
+       caratteristiche                                                            Mercato             Dettagli del
+                         office, pricing, parametri di mercato e                                      nuovo strumento
+       del nuovo
+                         funzionali, regole per la determinazione del P&L                             da introdurre nel
+       strumento
+       destinato al      gestionale) valutandone il grado di novità (alto                             Portafoglio di
+                         o basso).                                                                    Proprietà
+       Portafoglio di
+       Proprietà
+
+                       Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                       Codice: D 01836 002                Pubblicato il: 01/09/2015             Pag. 7 di 13
+ ID     Adempimenti        Descrizione                                             Attori              Supporti
+                                                                                                      Documenti di
+  3    Comunicare il      Comunicare alla Funzione competente il grado            Controllo del
+                                                                                                      output
+       grado di novità    di novità definito affinché possa esprimere             Rischio di
+                                                                                                      Posta elettronica
+       del nuovo          eventuali osservazioni.                                 Mercato
+       strumento                                                                  Funzioni            Analisi del grado
+                                                                                                      di novità del
+                                                                                  coinvolte:
+                          In caso di:                                                                 nuovo strumento
+                                                                                     Business
+                             Business non concorda con il grado di novità
+                             definito , proseguire con l'Adempimento 4
+                             Il Business concorda con il grado di novità
+                             definito, proseguire con l'Adempimento 6
+  4    Esprimere          Esprimere, entro 2 giorni dal ricevimento della         Business            Documenti di
+       osservazioni in                                                                                input
+                          comunicazione del grado di novità dello                 Funzioni
+       merito ai                                                                                      Analisi del grado
+                          strumento, eventuali osservazioni in merito             coinvolte:
+       risultati                                                                                      di novità del
+                          all’analisi svolta dalla Funzione competente               Controllo del    nuovo strumento
+       dell’analisi
+                          indicando gli eventuali elementi che si ritiene            Rischio di
+                                                                                                      Documenti di
+                          non siano stati pienamente valutati.                       Mercato
+                                                                                                      output
+                                                                                                      Posta elettronica
+                                                                                                      Osservazioni in
+                                                                                                      merito al grado di
+                                                                                                      novità
+  5    Analizzare le      Analizzare le eventuali osservazioni pervenute al       Controllo del       Documenti di
+       osservazioni                                                               Rischio di          input
+                          grado di novità definito.
+       ricevute                                                                   Mercato             Osservazioni in
+                                                                                                      merito al grado di
+                                                                                  Funzioni            novità
+                          Analizzate le osservazioni pervenute sul grado          informate:
+                          di novità del nuovo strumento, proseguire con              Business
+                          l'Adempimento 6
+  6    Validare il        Validare il grado di novità del nuovo strumento         Controllo del
+       grado di novità    (alto o basso) e simulare gli assorbimenti              Rischio di
+       del nuovo          economici e regolamentari prospettici.                  Mercato
+       strumento                                                                  Funzioni
+                                                                                  informate:
+                          Proseguire con il processo "Studio di fattibilità
+                                                                                     Business
+                          degli strumenti"
+                                                                                     Compliance
+5 - STUDIO DI FATTIBILITÀ DEGLI STRUMENTI
+5.1 - NORME GENERALI
+Dopo aver definito il grado di novità, alto o basso, del nuovo strumento destinato al Portafoglio
+di Proprietà viene avviata l'analisi della fattibilità in cui vengono definite le modalità di
+modellizzazione e di aggiornamento delle soluzioni IT.
+5.2 - RISCHI E CONTROLLI
+ Rischi                                                    Controlli contestuali agli adempimenti
+Rischio operativo: Inadeguata definizione della             Controllo manuale: Verificare negoziabilità dello
+struttura delle deleghe e dei relativi limiti operativi     strumento ante approvazione della funzione
+                                                            competente definendone eventuali limiti
+
+                      Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                      Codice: D 01836 002                  Pubblicato il: 01/09/2015           Pag. 8 di 13
+5.3 - SEQUENZA DEGLI ADEMPIMENTI
+La rappresentazione grafica del flusso rappresentato in tabella è disponibile al seguente link:
+“Studio di fattibilità degli strumenti”.
+ ID    Adempimenti        Descrizione                                             Attori                 Supporti
+  1   Avviare lo         Avviare lo studio di fattibilità del nuovo              Controllo del          Documenti di
+      studio di                                                                  Rischio di             input
+                         strumento destinato al Portafoglio di Proprietà
+      fattibilità del                                                            Mercato                Definizione/
+                         con il supporto delle altre funzioni coinvolte per                             aggiornament
+      nuovo                                                                      Funzioni
+                         quanto di loro competenza, individuando anche                                  o del grado di
+      strumento                                                                   coinvolte:
+      destinato al       il livello di gerarchia del Fair Value da assegnare                            novità degli
+                         allo strumento, l'eventuale modello di                     Business            strumenti
+      Portafoglio di
+      Proprietà          valutazione da utilizzare, le modalità di                  Organizzazione      Approvazione
+                                                                                    Fiscale             dei nuovi
+                         classificazione e contabilizzazione, ecc…
+                                                                                                        strumenti
+                                                                                    Bilancio            della proprietà
+                                                                                    Legale
+                                                                                                        Documenti di
+                                                                                    Controllo del       output
+                                                                                    Rischio di          Studio di
+                                                                                    Mercato             fattibilità
+                                                                                    Segnalazioni di     realizzato
+                                                                                    Vigilanza
+                                                                                    Demand
+                                                                                    Management
+                                                                                    IT
+                                                                                    Compliance
+                                                                                    Revisione
+                                                                                    Interna
+  2   Formalizzare lo    Formalizzare lo studio di fattibilità condotto in       Controllo del          Documenti di
+      studio di                                                                  Rischio di             input
+                         un documento che espliciti, tra le altre cose:
+      fattibilità del                                                            Mercato                Documenti e
+                         - i rischi inerenti al nuovo prodotto                                          analisi a
+      nuovo                                                                      Funzioni
+                         - le variazioni al profilo di rischio, al risk                                 supporto delle
+      strumento                                                                  informate:
+      destinato al       appetite e alla tollerance relativi al rischio                                 studio di
+                         operativo                                                  Business            fattibilità del
+      Portafoglio di                                                                                    nuovo
+      Proprietà          - i necessari meccanismi di controllo, le                  Compliance
+                                                                                                        strumento
+                         procedure di risk management e strategie di                Responsabile
+                                                                                                        Documenti di
+                         mitigazione del rischio, i limiti                          Gestione dei
+                                                                                                        output
+                         - il rischio residuo                                       Rischi
+                                                                                                        Studio di
+                         - l'allineamento con il risk appetite e i                  Responsabile        fattibilità
+                                                                                    Controllo dei
+                         conseguenti cambiamenti alle soglie e ai limiti                                Posta
+                                                                                    Rischi
+                         operativi                                                                      elettronica
+                         - le procedure e le metriche di valutazione,
+                         monitoraggio e gestione dei rischi relativi al
+                         nuovo prodotto
+                         In caso di:
+                             Nessuna necessità di avviare operatività ante
+                             approvazione della funzione competente,
+                             proseguire con il processo "Approvazione dei
+                             nuovi strumenti della Proprietà"
+                             Necessità di avviare operatività su strumenti
+                             con grado di novità classificato ‘’Basso’’ ante
+                             approvazione della funzione competente ,
+                             proseguire con l'Adempimento 3
+
+                    Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                    Codice: D 01836 002               Pubblicato il: 01/09/2015              Pag. 9 di 13
+ID  Adempimenti        Descrizione                                              Attori                 Supporti
+ 3 Effettuare         Effettuare la richiesta di negoziare il nuovo            Business               Documenti di
+   richiesta di                                                                                       input
+                      strumento finanziario con grado di novità                Funzioni
+   negoziare lo                                                                                       Studio di
+                      classificato ‘’Basso’’ preliminarmente                   coinvolte:
+   strumento                                                                                          fattibilità
+                      all'approvazione dello stesso da parte della                Controllo del
+   finanziario con                                                                                    Documenti di
+                      funzione competente esplicitando la presenza di             Rischio di
+   grado di novità                                                                                    output
+                      requisiti di urgenza che richiedono un avvio                Mercato
+   classificato                                                                                       Posta
+   ‘’Basso’’ ante     tempestivo (time to market) dell'operatività e i                                elettronica
+   approvazione       dettagli della specifica operazione da porre in
+   della funzione     essere.
+   competente
+ 4 Verificare         Verificare attraverso opportune analisi, in caso         Controllo del          Documenti di
+   negoziabilità                                                               Rischio di             input
+                      di esito positivo dello studio di fattibilità
+   dello strumento                                                             Mercato                Posta
+                      condotto, la possibilità di negoziare lo                                        elettronica
+   ante
+                      strumento/porre in essere l’operazione,
+   approvazione
+   della funzione     prevedendo specifici vincoli e/o limitazioni alla
+   competente         negoziazione in attesa della formale
+   definendone        approvazione del nuovo strumento finanziario
+   eventuali limiti   da parte delle Funzioni competenti.
+   (Controllo
+   manuale)
+ 5 Comunicare la      Comunicare alla funzione competente la                   Controllo del          Documenti di
+   negoziabilità o                                                             Rischio di             output
+                      possibilità di negoziare il nuovo strumento
+   meno del nuovo                                                              Mercato                Parere sulla
+                      finanziario con le limitazioni individuate nelle                                negoziabilità
+   strumento                                                                   Funzioni
+                      more di una successiva approvazione da parte                                    dello
+   finanziari                                                                  informate:
+                      delle competenti Funzioni.                                                      strumento
+                                                                                  Responsabile        finanziario
+                                                                                  Gestione dei
+                      Comunicata negoziabilità dello strumento                    Rischi
+                      finanziario con grado di novità classificato                Business
+                      “Basso” ante approvazione dello stesso da parte             Compliance
+                      delle funzioni competenti, proseguire con il                Responsabile
+                      processo "Approvazione dei nuovi strumenti                  Controllo dei
+                      della Proprietà"                                            Rischi
+
+                        Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                        Codice: D 01836 002               Pubblicato il: 01/09/2015              Pag. 10 di 13
+6 - APPROVAZIONE DEI NUOVI STRUMENTI DELLA PROPRIETÀ
+6.1 - NORME GENERALI
+Il processo descrive le modalità di approvazione del nuovo strumento destinato al Portafoglio
+della Proprietà, successivamente allo sviluppo del relativo studio di fattibilità. La delibera di
+avvio dell'operatività del nuovo strumento è richiesta anche per poter realizzare
+l'implementazione delle soluzioni informative valutate necessarie per supportare la nuova
+operatività e garantire un adeguato sistema di risk management e di gestione dei limiti
+operativi.
+6.2 - SEQUENZA DEGLI ADEMPIMENTI
+La rappresentazione grafica del flusso rappresentato in tabella è disponibile al seguente link:
+“Approvazione dei nuovi strumenti della proprietà”.
+ ID    Adempimenti         Descrizione                                              Attori              Supporti
+   1  Predisporre la      Sottoporre la richiesta di approvazione                  Controllo del       Documenti di
+      richiesta di                                                                 Rischio di          input
+                          dell’ingresso in nuovi mercati e/o della
+      approvazione                                                                 Mercato             Richiesta di
+                          negoziazione di nuovo strumento da parte della                               approvazione del
+      da sottoporre                                                                Funzioni
+                          proprietà alla Funzione competente (grado di                                 nuovo strumento
+      alla Funzione                                                                autorizzanti:
+      competente          novità alto al CdA, grado di novità basso al                                 Documenti di
+                          Comitato Gestione Rischi), esplicitando il proprio          Comitato
+                                                                                                       output
+                          parere favorevole o sfavorevole.                            Gestione         Delibera del
+                                                                                      Rischi           Consiglio di
+                                                                                      Consiglio di     Amministrazione
+                          In caso di:                                                 Amministraz      Capogruppo
+                             Strumento approvato e non avviato in                     ione
+                                                                                                       Delibera del
+                             anticipo , proseguire con l'Adempimento 2                Capogruppo       Gestione
+                             Strumento con grado di novità classificato                                Comitato Rischi
+                             ‘’Basso’’ approvato ed avviato in anticipo,           Funzioni
+                             proseguire con l'Adempimento 3                        coinvolte:
+                                                                                      Responsabil
+                             Strumento con grado di novità classificato
+                                                                                      e Gestione
+                             ‘’Basso’’ non approvato ed avviato in anticipo
+                                                                                      dei Rischi
+                             , proseguire con l'Adempimento 4
+                                                                                      Responsabil
+                             Strumento non approvato e non avviato in                 e Controllo
+                             anticipo , proseguire con l'Adempimento 6                dei Rischi
+                             Strumento non approvato per supplemento di
+                             analisi e/o richiesta modifiche, proseguire con
+                             il processo "Studio di fattibilità degli
+                             strumenti"
+   2  Comunicare          Comunicare alle Funzioni competenti                      Controllo del       Documenti di
+      l‘avvenuta                                                                   Rischio di          output
+                          l'approvazione dello strumento al fine di avviare
+      approvazione                                                                 Mercato             Posta elettronica
+                          l'operatività nelle modalità definite ed effettuare
+      del prodotto e                                                               Funzioni
+                          le necessarie implementazioni nei sistemi
+      la possibilità di                                                            informate:
+      avviare
+                                                                                      IT
+      l’operatività          Strumento approvato, proseguire con il                   Business
+                             processo "Implementazione degli strumenti"
+                                                                                      Compliance
+
+                    Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                    Codice: D 01836 002               Pubblicato il: 01/09/2015              Pag. 11 di 13
+ID  Adempimenti        Descrizione                                              Attori              Supporti
+ 3 Comunicare         Comunicare alle Funzioni competenti                      Controllo del       Documenti di
+   l'approvazione                                                              Rischio di          output
+                      l'approvazione del nuovo strumento finanziario
+   del nuovo                                                                   Mercato             Posta elettronica
+                      con grado di novità “Basso”, per il quale era
+   strumento                                                                   Funzioni
+                      stato fornito un preliminare parere favorevole
+   finanziario con                                                             informate:
+   grado di novità    sulla negoziabilità dello stesso a meno delle
+                      limitazioni individuate, al fine di eliminare i             Business
+   “Basso” al fine
+   di eliminare le    vincoli/limitazioni previsti per lo stesso ed               IT
+   limitazioni        effettuare le necessarie implementazioni nei                Compliance
+   previste           sistemi.
+                         Strumento approvato, proseguire con il
+                         processo "Implementazione degli strumenti"
+ 4 Comunicare la      Comunicare la mancata approvazione del nuovo             Controllo del       Documenti di
+   mancata                                                                     Rischio di          output
+                      strumento finanziario con grado di novità
+   approvazione                                                                Mercato             Posta elettronica
+                      “Basso”, per il quale era stato fornito un
+   del nuovo                                                                   Funzioni
+                      preliminare parere favorevole sulla negoziabilità
+   strumento                                                                   informate:
+   finanziario con    dello stesso, formulando al contempo una
+                      proposta di delibera al Comitato competente                 Business
+   grado di novità
+   “Basso”            circa la gestione delle posizioni in essere.                Compliance
+   formulando al                                                                  Comitato
+   contempo una                                                                   Gestione
+                         Comunicata la mancata approvazione del                   Rischi
+   proposta al
+   Comitato
+                         nuovo strumento finanziario con grado di
+   competente            novità “Basso” ed avviato in anticipo,
+   circa la              proseguire con l'Adempimento 5
+   gestione delle
+   posizioni in
+   essere
+ 5 Deliberare in      Deliberare in merito alle linee guida da fornire         Comitato            Documenti di
+   merito alle                                                                 Gestione            output
+                      alle funzioni compenti circa l’operatività da
+   linee guida da                                                              Rischi              Linee guida del
+                      adottare su strumenti finanziari non approvati                               Comitato
+   fornire alle                                                                Funzioni
+                      avviati in anticipo (es. smontare le posizioni                               Gestione Rischi in
+   funzioni                                                                    informate:
+   compenti circa     negoziate nei limiti della sostenibilità                                     merito a
+                      dell'operazione in termini di perdite di                    Controllo del    operatività su
+   l’operatività da                                                                                strumenti
+                      portafoglio) inibendo al contempo per il futuro la          Rischio di
+   adottare su                                                                                     finanziari non
+                                                                                  Mercato
+   strumenti          negoziazione dello strumento.                                                approvati avviati
+   finanziari non                                                                 Business         in anticipo
+   approvati                                                                      Compliance
+   avviati in            Deliberate linee guida in merito a operatività
+   anticipo              su strumenti finanziari non approvati ed
+                         avviati in anticipo, il processo termina
+ 6 Comunicare la      Comunicare alla Funzione competente la                   Controllo del       Documenti di
+   mancata                                                                     Rischio di          output
+                      mancata approvazione del nuovo strumento
+   approvazione                                                                Mercato             Posta elettronica
+                      finanziario al fine di inibire per il futuro la
+   del nuovo                                                                   Funzioni
+                      negoziazione dello strumento
+   strumento                                                                   informate:
+                                                                                  Business
+                      Strumento NON approvato, il processo termina
+                                                                                  Compliance
+
+                     Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                     Codice: D 01836 002               Pubblicato il: 01/09/2015              Pag. 12 di 13
+7 - IMPLEMENTAZIONE DEGLI STRUMENTI
+7.1 - NORME GENERALI
+Sono descritte le modalità di coinvolgimento delle Funzioni aziendali coinvolte
+nell'implementazione delle soluzioni approvate per lo svolgimento dell'operatività secondo le
+linee guida e tempi stabiliti.
+7.2 - SEQUENZA DEGLI ADEMPIMENTI
+La rappresentazione grafica del flusso rappresentato in tabella è disponibile al seguente link:
+“Implementazione degli strumenti”.
+ ID     Adempimenti     Descrizione                                              Attori              Supporti
+  1    Realizzare le   Realizzare le attività di implementazione del            Business            Documenti di
+       attività        nuovo strumento destinato al Portafoglio della                               input
+                                                                                Controllo del       Delibera del
+       implementative  Proprietà, con il coinvolgimento delle Funzioni          Rischio di          Consiglio di
+       del nuovo       competenti, secondo le linee guida definite con          Mercato             Amministrazione
+       strumento       l’obiettivo di avviare l'operatività nei tempi           Funzioni            Capogruppo
+                       previsti.                                                coinvolte:
+                                                                                                    Delibera del
+                                                                                   Legale           Comitato
+                                                                                   Fiscale          Gestione Rischi
+                                                                                   IT
+                                                                                   Bilancio
+                                                                                   Organizzazio
+                                                                                   ne
+                                                                                   Segnalazioni
+                                                                                   di Vigilanza
+                                                                                   Demand
+                                                                                   Managemen
+                                                                                   t
+  2    Predisporre i   Predisporre, con periodicità mensile, la                 Controllo del
+       report sul      reportistica periodica con un ragionevole livello        Rischio di
+       nuovo prodotto  di uniformità in termini di dettagli forniti a livello   Mercato
+                       di singolo prodotto nei confronti delle Funzioni         Funzioni
+                       informate contenente i risultati del Prodotto.           informate:
+                                                                                   Revisione
+                                                                                   Interna
+                       Periodicità: mensile                                        Responsabil
+                                                                                   e Controllo
+                          Reportistica sul nuovo prodotto inviata, il              dei Rischi
+                          processo termina                                         Comitato
+                                                                                   Gestione
+                                                                                   Rischi
+
+                    Oggetto: Definizione e sviluppo degli strumenti destinati al Portafoglio della Proprietà
+                    Codice: D 01836 002              Pubblicato il: 01/09/2015              Pag. 13 di 13
+8 - ELENCO TESTI NORMATIVI DI RIFERIMENTO
+<U+F0A7> 1030D00793 - Policy di Gruppo in materia di Sistema dei Controlli Interni;
+<U+F0A7> 1030D01114 - Direttiva di Gruppo in materia di Governo dei Rischi;
+<U+F0A7> 1030D01482 - Direttiva di Gruppo in materia di Processo di Determinazione del Patrimonio
+  di Vigilanza, dei Requisiti Patrimoniali e di Segnalazione Prudenziale;
+<U+F0A7> 1030D01498 - Direttiva di Gruppo in materia di Finanza Proprietaria;
+<U+F0A7> 1030D01642 - Requirement, Demand e Service Management
+<U+F0A7> 1030D01958 - Policy metodologica in materia di valorizzazione degli strumenti finanziari
+  (Fair Value e Prudent Value);
+<U+F0A7> 1030D02023 – Policy in materia di valorizzazione degli strumenti finanziari (Fair Value e
+  Prudent Value).
+<U+F0A7> 1030D02024 - Gestione della valorizzazione degli strumenti finanziari.
+

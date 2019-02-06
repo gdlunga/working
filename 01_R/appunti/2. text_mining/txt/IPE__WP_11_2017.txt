@@ -1,0 +1,884 @@
+L’ILAAP e il Liquidity Adequacy Assessment
+nel framework dello SREP BCE
+Ivan Andrea Di Martino, Antonella Falcone, Maurizio Loffredo, Luca
+Masiello, Maria Villani
+                                              IPE Working Paper
+                                                                     N. 11
+                                                       Settembre 20, 2017
+                                                     ISSN ISSN 2284-1229
+                        Online at www.ipeistituto.it
+
+L’ILAAP e il Liquidity Adequacy Assessment nel
+framework dello SREP BCE1
+Ivan Andrea Di Martino, Prometeia, Bologna
+Antonella Falcone, EY, Milano
+Maurizio Loffredo, Mediobanca, Milano
+Luca Masiello, Intesa SanPaolo, Torino
+Maria Villani, Deloitte, Milano
+Abstract
+Lo scopo del presente lavoro è quello di analizzare da un punto di vista critico il profilo di
+liquidità della banca oggetto del caso, simulando una valutazione del framework ILAAP della
+stessa, da parte della Vigilanza sulla base dell’approccio ufficialmente definito nell’ambito del
+Supervisory Review and Evaluation Process (SREP). Più in dettaglio, è stata valutata la
+posizione di rischio di liquidit{ e funding oltreché l’adeguatezza dei processi di liquidity risk
+management predisposti, definendo lo score ai fini SREP ed elaborando un giudizio
+complessivo sui rischi di liquidità e funding e sulla liquidity adequacy.
+Abstract
+This paper has the aim to analyse from a critical point of view a bank’s liquidity profile,
+simulating an evaluation of its ILAAP framework made by the Supervisor and based on the
+official SREP approach. The evaluation has been focused on the liquidity and funding risk
+position, putting attention on the overall adequacy of the liquidity risk management
+framework, defining a final SREP score and carrying out an overall assessment about liquidity
+risk, funding risk and liquidity adequacy.
+1 Il presente lavoro è frutto di un Project Work, svolto nell’ambito dei Master in “Bilancio: Revisione Contabile e
+Controllo di Gestione” e in “Finanza Avanzata e Risk Management” dell’IPE Business School, presso Prometeia.
+                                                           2
+
+1. Introduzione
+La crisi finanziaria globale esplosa a fine 2007, palesatasi poi come una delle più gravi della
+storia, ha evidenziato negli anni tutte le criticità di un sistema rivelatosi limitato e inadeguato
+a fronteggiare il sempre più mutevole contesto finanziario mondiale.
+È sorta perciò, con riferimento ai framework di vigilanza fino ad allora utilizzati, la necessità di
+aggiornare le metodologie vigenti, pressoché sempregeneriche e soprattutto non coordinate
+tra i vari Stati, che quasi mai tenevano conto di variabili oggi considerate imprescindibili.
+A tal fine, il primo passo è stato mosso dal Comitato di Basilea, che nel 2008ha emanato quello
+che è considerato il testo cardine della regolamentazione internazionale in termini di
+liquidità: i Sound Principles on Liquidity Risk Management. La Commissione Europea si è
+adoperata poi per trasporre queste direttive nell’Unione, al fine di far convergere i singoli
+sistemi nazionali verso un sistema condiviso ed armonizzato a livello comunitario, capace di
+arginare l’eventuale insorgenza di crisi finanziarie facendo leva proprio sulla coordinazione
+da parte di tutti gli Stati aderenti.
+Questo percorso è stato reso possibile perché sin dalla fine degli anni ’80 con Basilea 1, erano
+già stati mossi i primi passi verso una regolamentazione integrata. Negli anni
+immediatamente successivi, l’emanazione del TUB (1993) contribuì a recepire in Italia il
+complesso normativo riguardante il nuovo sistema di vigilanza europeo, che superava
+l’impostazione strutturale previgente a favore di un paradigma di natura più prudenziale.2
+In particolare, l’art. 5 ha rimodulato le finalità della vigilanza ponendo come obiettivo il
+raggiungimento di stabilità, efficienza e competitività del sistema finanziario stesso tramite la
+sana e prudente gestione3 dei soggetti vigilati.
+Nel 1994, gli accordi originari di Basilea furono implementati, disciplinando oltre al solo
+rischio di credito anche il rischio di mercato. Erano però ancora molte le falle nel sistema che
+2  Il sistema era orientato a valorizzare l’autonomia imprenditoriale delle banche. Si pose inoltre maggiore
+attenzione alla gestione complessiva dell’impresa e all’adeguatezza dei sistemi adottati per assicurare l’adeguato
+presidio dei rischi assunti.
+3  Una gestione è sana quando riesce a perseguire il profitto sulla base di criteri di efficienza e correttezza dei
+comportamenti. Una gestione è prudente quando è in grado di gestire e controllare in maniera adeguata i rischi
+assunti.
+                                                         3
+
+andava sviluppandosi, in quanto Basilea 1 non teneva conto dell’overview della totalità dei
+rischi assunti da una data istituzione finanziaria e presentava una struttura statica e non in
+grado di essere resiliente. Sono stati perciò ratificati nel 2004 i nuovi accordi di Basilea 2,
+entrati poi in vigore nel 2007 e più volte rivisti, con l’obiettivo di assicurare la stabilit{
+patrimoniale delle banche per tutelare non solo i depositi, ma più in generale la sicurezza e
+l’efficienza del sistema bancario.
+La riforma si basava su tre pilastri:
+     <U+F0B7>   Requisiti patrimoniali minimi, per fronteggiare i rischi tipici dell’attivit{ bancaria
+         (credito e controparte, mercato, operativo)
+     <U+F0B7>   Controllo prudenziale da parte delle autorità di vigilanza
+     <U+F0B7>   Market discipline, riguardante gli obblighi di informativa al pubblico in tema di
+         adeguatezza patrimoniale, esposizione ai rischi e caratteristiche generali dei relativi
+         sistemi di gestione e controllo
+Nell’ambito del meccanismo di controllo prudenziale, fu impostato dunque un processo
+articolato in due fasi tra loro integrate: nella prima, è necessario che le banche effettuino una
+valutazione del capitale interno necessario a fronteggiare l’esposizione ai rischi assunti, siano
+essi attuali o prospettici, determinandolo tramite l’ICAAP.4 Le autorità di vigilanza, dal canto
+loro, devono poi verificare l’affidabilit{ e la coerenza dei risultati prodotti dagli istituti
+finanziari nell’ambito della documentazione ICAAP che le banche sono tenute a produrre ed
+inviare, formulando un giudizio complessivo ed adottando, se necessario, le misure correttive
+previste dal frame work SREP.5
+4 Internal Capital Adequacy Assessment Process. Un processo atto a determinare il livello di capitale adeguato a
+fronteggiare tutti i rischi, anche diversi da quelli presidiati dai requisiti patrimoniali di 1° pilastro, nell’ambito di
+una valutazione dell’esposizione, attuale e prospettica, che tenga conto delle strategie, dell’evoluzione del
+contesto di riferimento, nonché di eventuali situazioni congiunturali avverse (stress test).
+5  Supervisory Review and Evaluation Process. Si tratta di un insieme di procedure attraverso le quali l’AdV
+analizza i profili di rischio della banca singolarmente e in un’ottica aggregata, anche in condizioni di stress,
+valutando il sistema di governo aziendale, la funzionalità degli organi, la struttura organizzativa e il sistema dei
+controlli interni e verificando infine che gli intermediari si dotino di presidi di natura patrimoniale ed
+organizzativa appropriati rispetto ai rischi assunti, assicurando il complessivo equilibrio gestionale.
+                                                            4
+
+Un ulteriore aspetto portato alla luce dalla crisi del 2007-2008, fu l’evidenza che i processi di
+controllo del rischio di liquidità erano assai carenti6 e che le dotazioni patrimoniali detenute
+dagli istituti fossero qualitativamente e quantitativamente insufficienti.
+In risposta a questo quadro critico, con gli accordi di Basilea sono state rivisitate le norme di
+vigilanza prudenziale in termini di:
+     <U+F0B7>   Miglioramento della qualità del patrimonio di vigilanza7;
+     <U+F0B7>   Aumento del livello del capitale tramite l’introduzione di buffer di capitale8;
+     <U+F0B7>   Aumento dei requisiti di capitale per cartolarizzazioni complesse e rischio di
+         controparte;
+     <U+F0B7>   Introduzione di livelli minimi di liquidità;
+     <U+F0B7>   Introduzione di regole comuni per la gestione di eventuali future crisi.
+Intanto, nel settembre 2012, la Commissione Europea ufficializzava la proposta per conferire
+alla BCE i poteri di supervisore unico delle banche dell’Eurozona. Un anno dopo, il 15 ottobre
+2013, la stessa Banca Centrale Europea si è vista attribuire i compiti specifici legati al proprio
+ruolo di vigilanza prudenziale degli enti creditizi per intensificare l’integrazione della
+vigilanza bancaria al fine di rafforzare l’Unione, ripristinare la stabilit{ finanziaria e gettare le
+basi per la ripresa economica.
+La prima metà del 2014 fu propedeutica all’entrata in vigore, nel novembre dello stesso anno,
+del Single Supervisory Mechanism (SSM). L’SSM, pietra miliare del progetto di Banking Union,
+coinvolge la BCE e le Banche Centrali nazionali, ripartendo le competenze di vigilanza
+6 Ci si rese conto che, a dispetto di quanto ritenuto fino a quel momento, la mancata gestione del rischio di
+liquidità era strettamente connessa con la probabilità di default di un istituzione bancario. Questo a causa di due
+fenomeni conosciuti come effetto panico ed effetto domino.
+7  Furono introdotti diversi livelli di accantonamento in relazione alla diversa capacità di assorbimento delle
+perdite:
+     <U+F0B7> Tier 1: diviso a sua volta in Common Equity Tier 1 (CET1) e Additional Tier 1 (AT1).
+     <U+F0B7> Tier 2: capitale supplementare al Tier 1, composto da voci tra cui riserve da rivalutazione, riserve
+         undisclosed, strumenti ibridi ed obbligazioni subordinate.
+8 Nell’ambito della direttiva europea del 2013 denominata CRD IV (Capital Requirements Directive IV), furono
+introdotti i seguenti buffer macroprudenziali inclusi nel CET1: Systemic Risk Buffer (SRB), Global Systemically
+Important Institution Buffer (F-SII), Other Systemically Important Institution Buffer (O-SSII), Counter cyclical
+Capital Buffer (CCyB), Capital Conservation Buffer (CCB).
+                                                          5
+
+prudenziale in vigilanza diretta (affidata alla BCE verso le banche significant)9 e vigilanza
+decentrata (affidata alle autorità nazionali per le banche less significant)10. Francoforte ha
+comunque la possibilità, al fine di garantire uniformità di azione, di avocare a sé in qualsiasi
+momento la vigilanza sui LS.
+Dal 1° gennaio 2016, ha trovato applicazione il Single Resolution Mechanism, disciplinato dalla
+direttiva BRRD.11 Si tratta di un meccanismo responsabile della gestione accentrata delle crisi
+bancarie nell’Eurozona, dettata dall’esigenza di disciplinare in maniera più integrata la
+gestione delle crisi evitando un aumento sproporzionato dei rischi di contagio, oltre alla
+necessità di favorire la ripresa del mercato, tutelandone tutte le parti.
+La Banking Union, nella sua concezione teorica, prevedrebbe per il proprio completamento un
+terzo step inerente l’armonizzazione dei sistemi di garanzia dei depositi, attualmente in
+divenire poiché presentano ancora un carattere nazionale e sono solo parzialmente coordinati
+fra loro.
+9  Banche direttamente soggette alla supervisione della BCE nell’ambito dell’SSM. Tali istituti sono stati
+identificati in base ai seguenti criteri: dimensione, importanza per l’economia dell’Unione Europea o per uno
+Stato Membro, volume di attività cross-border, richiesta o meno di aiuti all’ESM. In particolare, una banca è
+considerata significant se almeno una delle seguenti condizioni è soddisfatta:
+    – Il valore dell’attivo supera i € 30 miliardi;
+    – Il valore dell’attivo è superiore a € 5 miliardi e contestualmente è superiore al 20% del prodotto interno
+         lordo dello stato membro di appartenenza;
+    – Il valore dell’attivo supera i € 5 miliardi ed il rapporto tra le attività cross-border e il totale dell’attivo è
+         superiore al 20%;
+    – La banca ha ricevuto assistenza diretta dall’ESM;
+    – La banca è tra le tre più significative banche del paese di appartenenza.
+10 Banche non rientranti nella categoria significant.
+11 Bank Recovery and Resolution Directive. La direttiva si articola in 3 fasi: prevention, in cui l’autorit{ di vigilanza
+può adoperare una serie di strumenti per prevenire e gestire con tempestività eventuali situazioni di difficoltà;
+early intervention, in cui l’AdV agisce adottando misure tempestive; resolution, in cui si attua un processo gestito
+da autorit{ indipendenti dall’istituzione in questione. In alternativa alla risoluzione, in Italia è possibile
+procedere con la liquidazione. Una delle possibili soluzioni adottabili è il noto bail-in.
+                                                         6
+
+2. Linee guida su procedure e metodologie comuni SREP
+Le procedure e le metodologie SREP sono l’emblema del processo di armonizzazione avviato
+dall’EBA12 e perseguito attraverso l’emanazione di linee direttrici. Queste ultime, impiegate
+dalle autorità competenti, non devono compromettere il quadro generale SREP armonizzato,
+dal momento in cui dovrebbero soddisfare i requisiti di elevata qualità di vigilanza.
+Il quadro comune dello SREP è costruito intorno alle seguenti componenti:
+     1. Classificazione dell'istituzione e revisione periodica di questa categorizzazione;
+     2. Monitoraggio degli indicatori chiave;
+     3. Analisi del modello di business;
+     4. Valutazione della governance interna e dei controlli istituzionali;
+     5. Valutazione dei rischi per il capitale;
+     6. Valutazione dei rischi per la liquidità e il finanziamento;
+     7. Valutazione dell'adeguatezza dei fondi propri dell'istituzione;
+     8. Valutazione dell'adeguatezza delle risorse di liquidità dell'istituzione;
+     9. Valutazione complessiva dello SREP;
+     10. Misure di vigilanza e di intervento tempestivo (se necessario).
+Le istituzioni finanziarie vengono divise in quattro categorie in base alla loro dimensione,
+struttura e organizzazione interna, nonché in base alla loro natura e alla complessità delle
+loro attività. La classificazione dovrebbe, pertanto, rispecchiare anche il livello di rischio
+sistemico assunto da parte di ciascuna istituzione. L'applicazione proporzionale di questi
+orientamenti, la frequenza, l'intensità e la granularità delle valutazioni SREP e il livello di
+impegno dovrebbero dipendere dalla categoria dell'istituzione. Lo SREP è sostenuto inoltre
+dal monitoraggio regolare dei principali indicatori finanziari e non finanziari.
+L'organismo di gestione dell'istituzione è responsabile dell'organizzazione e dell'esecuzione
+del proprio business, della valutazione della redditività dell'attuale modello di business
+dell'istituzione, e della sostenibilità dei suoi piani strategici. Questa analisi dovrebbe anche
+12European    Banking Authority. Organismo comunitario attivo dal 2011 con il compito di vigilare sul mercato
+bancario europeo. Ha sede a Londra e si prefigge come obiettivo primario il perseguimento della stabilità e
+dell’efficacia dell’intero sistema finanziario a breve, medio e lungo termine.
+                                                           7
+
+contribuire a rivelare le principali vulnerabilità che l'istituzione deve fronteggiare. Le autorità
+competenti dovrebbero valutare il rischio per la redditività di un'istituzione derivante dal suo
+modello di business e dalle strategie adottate.
+L'obiettivo della valutazione della governance interna e dei controlli istituzionali dovrebbe
+essere quello di:
+     <U+F0B7>   Garantire che la governance interna e la funzione di audit siano adeguati al profilo di
+         rischio, al modello di business, alla dimensione e alla complessit{ dell’istituzione
+     <U+F0B7>   Valutare il grado di adesione dell'istituzione ai requisiti e agli standard di buona
+         governance interna e dei controlli sui rischi.
+Le autorità competenti sono tenute ad esaminare l'adeguatezza patrimoniale (ICAAP) e dei
+processi di valutazione dell'adeguatezza della liquidità (ILAAP), oltre alla capacità
+dell'istituzione di attuare strategie di gestione del rischio coerenti con il proprio risk appetite,
+con i piani di capitale e di liquidità. Tale valutazione dovrebbe includere la valutazione
+dell'istituzione circa l'adeguatezza del capitale interno, nonché la decisione in merito
+all’affidabilit{ delle stime interne per determinare il capitale e l'adeguatezza della liquidità. Le
+autorità competenti dovrebbero poi valutare il rischio per la redditività di un'istituzione
+derivante dalle carenze individuate in materia di governance e di controllo.
+L’istituzione, in base al rischio assunto, è tenuta ad accantonare dei fondi propri, la cui
+adeguatezza è oggetto di valutazione. Le linee guida stabiliscono requisiti minimi di
+composizione per i fondi relativi a taluni tipi di rischio, ma l’AdV può applicare, se lo ritiene
+opportuno, requisiti più rigorosi.
+Per fornire una sana copertura dei rischi, occorre esaminare continuamente l’adeguatezza dei
+fondi propri e della liquidità dell'istituzione, valutando continuamente secondo il criterio di
+proporzionalità i rischi a cui l'istituzione è o potrebbe essere esposta.
+La Vigilanza dovrebbe valutare la posizione complessiva dell'istituto riassumendo tale
+valutazione nel “riepilogo della valutazione generale dello SREP”. Tale sintesi dovrebbe
+riflettere eventuali osservazioni di vigilanza effettuate nel corso dei 12 mesi precedenti e tutti
+gli altri sviluppi che hanno spinto l'autorità competente a modificare la propria visione dei
+rischi e della redditivit{ dell'istituzione. L'esito della c.d.“valutazione complessiva dello SREP”
+                                                   8
+
+dovrebbe essere la base di partenza per adottare tutte le misure di vigilanza eventualmente
+necessarie.
+Nella valutazione degli elementi SREP le autorità competenti hanno a disposizione un range
+che va da 1 (nessun rischio) a 4 (alto rischio), che riflette la "visione di vigilanza" del rischio in
+base ai criteri definiti dall’EBA nelle c.d. SREP Guidelines13. Ciascuna valutazione va
+argomentata con considerazioni che motivino l’attribuzione del punteggio.
+2.1 Scoring nello SREP
+Le autorità dovrebbero garantire che il punteggio della valutazione complessiva dello SREP
+realizzi i seguenti obiettivi:
+     <U+F0B7>   Fornire un'indicazione della redditività globale dell'istituzione;
+     <U+F0B7>   Indicare la probabilità che le misure di intervento precoce debbano essere prese;
+     <U+F0B7>   Determinare se l'istituzione sia o meno a rischio di insolvenza.
+A seconda della categoria di appartenenza dell’istituzione monitorata, è stata definita una
+diversa tempistica di attuazione dei controlli in termini di frequenza ed intensità. Le attività
+da eseguire sono:
+     <U+F0B7>   Il monitoraggio degli indicatori chiave, effettuato per tutti con cadenza trimestrale;
+     <U+F0B7>   La necessità di informare14 tutte le istituzioni sui risultati della valutazione generale
+         (categorie 1 e 4) o complessiva (categorie 2 e 3) dello SREP fornendo 3 dichiarazioni
+         su: quantità e composizione dei fondi propri detenuti; liquidità detenuta e eventuali
+         requisiti specifici di liquidità fissati dall'autorità competente; altre misure di vigilanza,
+         comprese eventuali misure di early intervention che l’AdV intende adottare;
+13 Linee guida che specificano le metodologie e le procedure da adottare ai fini SREP.
+14 Con diversa cadenza minima: almeno annuale per le istituzioni di categoria 1, almeno biennale per quelle di
+categoria 2, almeno triennale per quelle di categoria 3 o 4.
+                                                          9
+
+     <U+F0B7>   L’impegno continuo15 e il dialogo con l'organismo di gestione dell'istituzione e con
+         l’Alta Direzione per valutare ogni elemento SREP (categorie 1 e 2) od ogni rischio (cat.
+         3). Per la categoria 4, la valutazione è generale;
+     <U+F0B7>   Per le categorie 1 e 2, l’aggiornamento almeno annuale della valutazione complessiva
+         (cat.1) o di quella generale (cat.2) dello SREP e dei singoli componenti dello SREP
+         (cadenza almeno biennale per la cat. 2).
+     <U+F0B7>   Per le categorie 3 e 4, la produzione almeno una volta di un esame sintetico(cat. 3) o di
+         una sintesi documentata (cat. 4) della “valutazione generale SREP” e l’aggiornamento
+         almeno ogni 3 anni o prima16 delle valutazioni dei singoli componenti SREP.
+Se la Vigilanza ritenesse che più istituzioni hanno profili di rischio simili, potrebbe effettuare
+una singola valutazione SREP valida per tutte. Per istituzioni con un basso SREP globale, a
+prescindere dalla categoria di appartenenza l’AdV può richiedere risorse di vigilanza più
+ingenti e controlli più intensi per un dato periodo di tempo.
+2.2 SREP Liquidity Assessment, ILAAP e LAS
+Nel 2007, durante la prima fase della crisi, molti istituti di credito riscontrarono difficoltà
+significative dovute ad un’inadeguata gestione del rischio di liquidit{, nonostante avessero un
+adeguato livello di capitale. Prima della crisi, si era avuta un’eccessiva crescita degli impieghi a
+medio/lungo termine c.d. “illiquidi” non commisurata da adeguato funding a medio/lungo
+termine. Gli istituti finanziari subirono così la loro eccessiva dipendenza dalla raccolta
+wholesale a breve termine, che durante la crisi ebbe un forte decremento, evidenziando gravi
+problemi di liquidit{. La situazione fu aggravata dall’inadeguatezza quali-quantitativa delle
+attività detenute come riserva di liquidità, combinata con strumenti di controllo inefficaci di
+tale rischio. Questa serie di motivazioni fece sì che la lente del regolatore si poggiasse sulla
+questione.
+Nel 2008 il comitato di Basilea ha emanato le linee guida per la gestione e la supervisione del
+rischio di liquidità (Principles for Sound Liquidity Risk Management and Supervision), per poi
+15 Con cadenza almeno triennale per le istituzioni di categoria 4.
+16 In base a nuove informazioni materiali emergenti sul rischio.
+                                                        10
+
+ridisegnare nel 2010 il quadro regolamentare internazionale per il liquidity risk nell’ambito di
+Basilea 3, introducendo il Liquidity Coverage Ratio, il Net Stable Funding Ratio e iMonitoring
+Tools.
+Ad aprile 2013 il Parlamento Europeo ha approvato il CRR/CRD IV introducendo un indice di
+liquidità di breve termine (Liquidity Coverage Ratio, per certi versi simile a quello previsto con
+Basilea 3), rinviando per i dettagli all’atto delegato della Commissione Europea; un indicatore
+semplificato di medio termine (Stable Funding, non un vero e proprio indicatore così come
+invece previsto da Basilea 3); Monitoring Tools.
+Il 10 ottobre 2014 la Commissione Europea ha emanato la proposta di atto delegato, con il
+quale si prevedeva l’entrata in vigore del ratio LCR per ottobre 2015, con obbligo minimo del
+60% e progressivo raggiungimento del 100% previsto per il 2019, specificando dettagli
+esplicitati solo in maniera generica nel CRR (avvicinandosi a quello che è il ratio in Basilea 3).
+Poco dopo, l’EBA rilasciò le linee guida dello SREP, all’interno delle quali trova posto lo SREP
+Liquidity Assessment, mentre risale al novembre 2016 l’emanazione di Guidelines sulle
+informazioni da produrre ai fini ILAAP.
+2.2.1 SREP Liquidity Assessment
+Attraverso lo SREP, le autorità competenti determinano se le risorse di liquidità e la struttura
+di funding sono sufficienti a coprire adeguatamente il rischio di liquidità. Il processo di
+valutazione di liquidità SREP segue le seguenti fasi:
+      1. Valutazione complessiva della liquidità: Esame dell’ILAAP e verifica che i calcoli
+          siano credibili17 e comprensibili18; identificazione dei rischi non coperti dai requisiti
+          minimi di liquidità e di altri rischi non adeguatamente coperti a causa di sovrastima
+          degli afflussi futuri o sottostima dei deflussi futuri;
+      2. Determinazione delle necessità per specifiche misure di liquidità: Decisione da
+          parte della Vigilanza riguardo la necessità di specifici requisiti di liquidità per le
+17 I calcoli/metodologie si definiscono credibili se coprono adeguatamente i rischi che cercano di affrontare.
+18  I calcoli/metodologie si definiscono comprensibili se esiste una chiara ripartizione e una sintesi delle
+componenti sottostanti ai calcoli stessi.
+                                                         11
+
+        istituzioni basati sulla propria valutazione e sul susseguente confronto con le stesse,
+        tenendo conto di business model e strategia dell’istituzione; informazioni sull’ente
+        ricavate dall’ILAAP; accertamento dei rischi di liquidit{ e funding; rischio di liquidit{
+        sistemico potenziale.
+    3. Quantificazione dei potenziali requisiti specifici di liquidità: Applicazione di
+        parametri di riferimento per la liquidità di vigilanza caratterizzati da prudenza,
+        coerenza e trasparenza e capaci di fornire risultati comparabili con istituzioni che
+        hanno modelli di business analoghi;
+    4. Articolazione di specifici requisiti di liquidità: Richiesta di un LCR superiore al
+        minimo regolamentare, di dimensioni tali che le carenze individuate siano
+        sufficientemente mitigate. In alternativa, richiesta di un periodo minimo di
+        sopravvivenza tale che i problemi individuati siano opportunamente superati, oppure
+        di un ammontare minimo totale di attività liquide. Le autorità possono, in attesa
+        dell’implementazione dell’NSFR, utilizzare questo ratio per impostare specifici
+        requisiti quantitativi di liquidità per lo stable funding.19
+    5. Determinazione del liquidity score
+2.2.2 ILAAP e LAS
+In linea con la CRD IV e con le linee guida dell'EBA sullo SREP, il processo di valutazione
+dell'adeguatezza della liquidit{ c.d. “ILAAP” svolge un ruolo chiave nell’SSM. Esso si perfeziona
+in numerose valutazioni attinenti alla governance interna, al rischio liquidità e di
+finanziamento e nel processo di determinazione di tali rischi.
+L'ILAAP è il compimento di un processo che fa propri i SoundPrinciples del 2008, evolvendo
+fino a richiederealla banca stessa di evidenziare i suoi processi di gestione della liquidità e i
+propri calcoli sull’adeguatezza delle risorse.
+19 Una volta appurati, nel caso in cui questi requisiti non siano soddisfatti, l’AdV deve assicurarsi che tale
+problematica sia immediatamente notificata all’istituzione. Questa, di contro, deve redigere un piano per il
+tempestivo ripristino dei requisiti. Se il piano è considerato fattibile, le autorità dovranno monitorare
+costantemente la posizione di liquidit{ dell’istituzione, chiedendole di aumentare la frequenza delle segnalazioni.
+                                                          12
+
+Formalmente, si tratta del processo che una banca deve assicurare per identificare tutti i
+rischi di liquidità e i finanziamenti pertinenti, misurarli, monitorarli e, se necessario,
+intervenire tempestivamente per evitare la carenza di liquidità. Questa può essere
+considerata adeguata se e solo se l'istituzione ha un robusto processo di ILAAP ed un solido
+quadro di stress test. Tale processo ha l’obiettivo di formulare una valutazione
+sull'adeguatezza della liquidità denominata Liquidity Adequacy Statement (LAS).
+Nel LAS, l'organismo di gestione esprime la propria opinione sull'adeguatezza della liquidità e
+spiega i suoi principali argomenti di sostegno, supportati da informazioni che ritiene rilevanti,
+inclusi i risultati dell'ILAAP. Il LAS dovrebbe dimostrare che l'organismo di gestione ha una
+buona comprensione dell'adeguatezza della liquidità dell'istituzione, dei suoi principali driver
+e delle vulnerabilità, dei parametri e dei processi che sottendono tale processo e la coerenza
+dell'ILAAP con la sua strategia.
+L’ILAAP deve essere commisurato al modello di business della banca, alla sua dimensione, alla
+complessità, alla rischiosità, alle aspettative del mercato in considerazione del principio della
+proporzionalit{ tra struttura del processo e dimensione dell’istituzione. Inoltre, l’istituzione
+deve procedere all’autovalutazione almeno una volta all’anno.
+Elementi chiave dell’ILAAP includono:
+    <U+F0B7>   La struttura di governance;
+    <U+F0B7>   Requisiti di documentazione;
+    <U+F0B7>   La metodologia utilizzata per valutare l'adeguatezza della liquidità (inclusa una
+        definizione ben articolata dell'adeguatezza della liquidità);
+    <U+F0B7>   L'ambito di copertura dei rischi e del perimetro acquisito;
+    <U+F0B7>   L'orizzonte temporale;
+    <U+F0B7>   Le principali ipotesi di misura del rischio e la definizione di parametri per gli indicatori
+        di rischio.
+Il processo di autovalutazione della liquidità può essere suddiviso in 2 parti:
+    <U+F0B7>   Valutazione corrente del rischio di liquidità in una prospettiva di breve termine, di
+        solito riferita a un anno;
+    <U+F0B7>   Prospettiva a medio termine complementare su un orizzonte di almeno tre anni.
+                                                 13
+
+Le valutazioni a breve e medio termine dovrebbero costituire un continuum, vale a dire che la
+valutazione a medio termine, spesso definita "pianificazione finanziaria", dovrebbe basarsi
+sulla valutazione a breve, che integra e si estende attraverso proiezioni che spostano la
+prospettiva a breve nel futuro.
+Oltre a queste due diverse prospettive di tempo, l'istituzione deve valutare altre due
+dimensioni:
+     <U+F0B7>   I diversi requisiti di liquidità regolamentari e vigilanza;
+     <U+F0B7>   La prospettiva interna ed economica.
+In generale, quindi, ci sono quattro prospettive distinte che l'ILAAP di ogni istituzione deve
+affrontare.
+Le istituzioni dovrebbero attuare un processo per identificare regolarmente i rischi e i risk
+driver a cui sono o potrebbero essere esposti, individuando un set di rischi. Tuttavia,
+l’esperienza dimostra che alcuni rischi non vengono presi in considerazione in modo adeguato
+da alcuni istituti. Tali fonti di rischio possono derivare da maggiori deflussi, entrate ridotte o
+una ridotta fruibilità delle attività liquide. Si dovrebbero considerare sia gli elementi a
+bilancio che quelli fuori bilancio, includendo:
+     <U+F0B7>   L’impatto potenziale delle margin call a causa di movimenti di mercato;
+     <U+F0B7>   Una riduzione del merito creditizio;20
+     <U+F0B7>   Il rischio potenziale derivante da operazioni che prevedono l’utilizzo di collateral swap
+         per aumentare lo stock di attività liquide;
+     <U+F0B7>   Valutazione degli ostacoli al trasferimento della liquidità tra soggetti giuridici, paesi e
+         valute, quantificando l’impatto di tali ostacoli sulla disponibilit{ di liquidit{ in tutto il
+         contesto geografico dove l’istituzione è presente.21
+Lo stress test deve essere utilizzato per quantificare sia la tempistica che le quantità di
+potenziale utilizzo futuro di tali font, e i rischi di liquidit{ non riflessi nell’LCR Act dovrebbero
+essere inclusi nei buffer di liquidità. Ciò vale per i rischi di liquidità a 30 giorni fino a un anno.
+Per questi ultimi, i rischi andrebbero quantificati utilizzando metriche come il periodo di
+sopravvivenza, per il quale dovrebbe essere determinato un risk appetite interno.
+20 Incluso il rimborso volontario del debito proprio per garantire l'accesso al mercato in futuro.
+21 Solo nel caso di attivit{ con l’estero.
+                                                        14
+
+Una visione interna esplicita dovrebbe essere costituita sulla composizione desiderata del
+buffer di attività liquide utilizzate per coprire i rischi di liquidità. In particolare, le istituzioni
+dovrebbero differenziare tra attività fortemente liquide in tempi di stress e attività che
+possono essere utilizzate solo per ottenere liquidità dalle banche centrali. Vanno fissati limiti
+interni per entrambe le componenti, con un chiaro legame tra la dimensione degli asset liquidi
+e i rischi di liquidità che potrebbero materializzarsi nei vari orizzonti temporali, coprendo un
+arco temporale di almeno un anno.
+Le istituzioni dovrebbero inoltre quantificare il profilo di mismatching delle scadenze a lungo
+termine, determinare un appetito di rischio e associare i limiti di gap o di bilancio basati sul
+loro modello di business e sulla complessità delle loro attività fondamentali.
+Nel definire i propri scenari interni, le istituzioni dovrebbero utilizzare una serie di
+informazioni su eventi storici e ipotetici di stress. Le responsabilità delle istituzioni stesse
+consistono nel definire i propri scenari in modo da affrontare meglio la propria situazione
+individuale e nel tradurre tali scenari in rispettive metriche di rischio.
+Questi scenari, che devono essere riesaminati in modo approfondito almeno una volta
+all'anno, comprendono sia ipotesi istituzionali specifiche che di mercato. In dettaglio,
+dovrebbero almeno comprendere sia la prospettiva goingconcern22 sia gli scenari in cui è
+inevitabile un’improvvisa interruzione del modello di business.23
+2.3 LCR
+Il ratio LCR prevede al numeratore gli HQLA,24 mentre al denominatore i “total net cash
+outflows over the next 30 calendar days” che è dato dal totale dei deflussi di liquidit{ più gli
+afflussi di liquidità in 30 giorni:
+22 Normale corso degli affari o   possibilità limitata di afflussi dal credit book; dipendenza, ai fini della generazione
+di liquidità, dagli asset liquidabili sul mercato; rimborso del debito proprio per garantirsi il futuro accesso al
+mercato.
+23 Blocco della generazione di asset, utilizzo di qualsiasi garanzia per ottenere liquidità, mancato utilizzo di
+opzioni call su strumenti di debito propri o sull’equity.
+24 High Quality Liquidity Assets.
+                                                            15
+
+                                                                 <U+0001D43B><U+0001D444><U+0001D43F><U+0001D434>
+<U+0001D43F><U+0001D456><U+0001D45E><U+0001D462><U+0001D456><U+0001D451><U+0001D456><U+0001D461><U+0001D466> <U+0001D436><U+0001D45C><U+0001D463><U+0001D452><U+0001D45F><U+0001D44E><U+0001D454><U+0001D452> <U+0001D445><U+0001D44E><U+0001D461><U+0001D456><U+0001D45C> % =
+                                     <U+0001D447><U+0001D45C><U+0001D461><U+0001D44E><U+0001D459> <U+0001D441><U+0001D452><U+0001D461> <U+0001D436><U+0001D44E><U+0001D460><U+0001D455> <U+0001D442><U+0001D462><U+0001D461><U+0001D453><U+0001D459><U+0001D45C><U+0001D464><U+0001D460> <U+0001D45C><U+0001D463><U+0001D452><U+0001D45F> <U+0001D461><U+0001D455><U+0001D452> <U+0001D45B><U+0001D452><U+0001D465><U+0001D461> 30 <U+0001D450><U+0001D44E><U+0001D459><U+0001D452><U+0001D45B><U+0001D451><U+0001D44E><U+0001D45F> <U+0001D451><U+0001D44E><U+0001D466><U+0001D460>
+Questo indicatore è fondamentale per capire di quanta liquidità e titoli altamente liquidabili
+una banca necessiti per superare uno scenario di stress della durata di 30 giorni (net cash
+outflows).
+Di seguito le voci da considerare nella costruzione dell’indicatore:
+    <U+F0B7>  HQLA - Attività altamente liquidabili, distinte in attività di livello 1, 2a, 2b;
+    <U+F0B7>  Deflussi di liquidità - Sono calcolati moltiplicando i saldi in essere tra le varie
+       tipologie di passività e gli impegni fuori bilancio per i tassi ai quali ci si attende il loro
+       prelievo o utilizzo ai sensi del presente capo;
+    <U+F0B7>  Afflussi di liquidità - Sono valutati nell'arco di un periodo di 30 giorni di calendario.
+       Comprendono solo gli afflussi contrattuali da esposizioni non scadute e per le quali
+       l'ente creditizio non ha ragione di attendersi un default nell'arco di 30 giorni di
+       calendario. L'ente creditizio limita il rilevamento degli afflussi di liquidità al 75% del
+       totale dei deflussi di liquidità, mentre possono essere previsti diversi tassi di afflusso
+       secondo le condizioni previste dall’atto delegato.
+2.4 Informazioni da produrre ai fini ILAAP
+A integrazione delle SREP Guidelines, nel novembre 2016 l’EBA ha pubblicato un documento
+per meglio specificare le informazioni da richiedere da parte delle autorità di vigilanza in
+ambito ICAAP ed ILAAP con riferimento a ciascuna istituzione finanziaria.
+E’ stata effettuata una categorizzazione delle informazioni in due tipologie: le informazioni
+comuni ad entrambi i processi e quelle utili ai soli fini ILAAP (di seguito illustrate) o ICAAP.
+Per ciò che concerne l’area comune alle due procedure, il report distingue espressamente
+informazioni su:
+    <U+F0B7>  Business Model and Strategy: descrizione dei business model attualmente in uso, con
+       identificazione delle principali linee di business, dei mercati, delle aree geografiche,
+                                                16
+
+  delle controllate e dei prodotti. Riguardo la pianificazione a lungo termine, l’autorit{
+  richiede la descrizione delle modifiche previste al business model in uso e alle attività
+  sottostanti per tutte le business lines, tutti i mercati e tutte le controllate, con proiezioni
+  dei principali indicatori finanziari ed illustrazione di come la strategia di business sia
+  legata ai processi ICAAP e ILAAP;
+<U+F0B7> Risk Governance and Management Framework: schematizzazione delle misure di
+  governance generali, definendo ruoli e responsabilit{ all’interno del Risk Management
+  e del controllo, oltre al sistema di reporting e alla frequenza con cui si fa rapporto al
+  Risk Management. Descrizione delle modalità di interazione tra le aree di misurazione
+  e monitoraggio del rischio e quelle di assunzione effettiva dei rischi. Descrizione di
+  processi e misure adottati al fine di assicurare la solidit{ e l’integrazione del framework
+  di gestione dei rischi. Se attinenti, descrizione della divisione degli obiettivi all’interno
+  dell’area, di schemi di protezione istituzionale o di network cooperativi inerenti il Risk
+  Management;
+<U+F0B7> Risk Appetite Framework (RAF): descrizione della concordanza di strategie e business
+  model dell’istituzione finanziaria con il proprio RAF. Descrizione delle misure di
+  processo e governance, con la definizione di ruoli e responsabilit{ all’interno del senior
+  management e del management, in accordo con il RAF. Informazioni riguardo il rischio
+  verso cui l’istituzione finanziaria è o potrebbe essere esposta. Descrizione dei livelli di
+  risk appetite/tolerance, delle soglie e dei limiti fissati per i rischi materiali, oltre agli
+  orizzonti temporali e ai processi adottati per tenere aggiornate sia le soglie che i limiti.
+  Illustrazione dell’integrazione e utilizzo del RAF in ogni area di management, inclusi
+  business strategy, risk strategy, ICAAP, ILAAP;
+<U+F0B7> Stressing Test Framework and Programme: descrizione generale del programma di
+  stress testing (tipologia di stress test, frequenza, metodologie, modelli utilizzati,
+  assunzioni), delle misure di governance relative, del grado di integrazione tra test di
+  solvibilità e di liquidità. Particolare attenzione agli stress test riguardanti ICAAP e
+  ILAAP. Descrizione dei possibili utilizzi dello stress test e sua integrazione nel
+  framework di controllo e gestione del rischio;
+<U+F0B7> Risk Data, Aggregation and IT Systems: descrizione del quadro e dei processi utilizzati
+  per raccogliere, archiviare e aggregare i risk data sui vari livelli dell’istituzione, inclusi i
+                                             17
+
+      flussi di dati provenienti dalle controllate. Descrizione del flusso di dati e della
+      struttura di dati utilizzati per ICAAP e ILAAP, oltre che del sistema di verifica dei dati
+      stessi. Descrizione dei sistemi IT usati per raccogliere, archiviare, aggregare e
+      diffondere i risk data utilizzati per ICAAP e ILAAP;
+Con riferimento alle informazioni specificamente attinenti l’ILAAP, la categorizzazione
+prodotta è risultata la seguente. Vanno fornite informazioni su:
+   <U+F0B7>  Liquidity and Funding Risk Management Framework: indicazione dei fini e delle
+      metodologie di applicazione dell’ILAAP, oltre ai criteri di selezione dei risk drivers e
+      delle assunzioni di base del procedimento. Valutazione dei flussi di liquidità e delle
+      posizioni di finanziamento, oltre a ragionare sulla scelta dei risk driver, dandone
+      un’overview generale quantitativa così come per il funding profile. Dare evidenza,
+      infine, del monitoraggio ai fini di conformità rispetto a determinati requisiti
+      prudenziali determinati dall’art. 105 della direttiva CRD IV;
+   <U+F0B7>  Funding Strategy: descrizione generale del funding plan. Dove attinente, produzione di
+      documentazione sulla presenza nei diversi mercati, sul funding concentration risk, sul
+      funding in valute straniere. Illustrazione del funding plan in uso, con una panoramica
+      quantitativa e una visione prospettica di lungo periodo. Valutazione di funding position
+      e funding risk dopo l’applicazione del funding plan. Informazioni riguardo il back-
+      testing del funding plan;
+   <U+F0B7>  Strategy regarding Liquidity Buffer and Collateral Management: indicazione della
+      metodologia per determinare il livello minimo di liquidity buffer, produzione di
+      documentazione sul collateral management, sul peso degli asset e sul liquidity
+      concentration risk nel liquidity buffer. Quantificazione del livello minimo di asset liquidi
+      considerato adeguato ai requisiti interni e del liquidity buffer corrente. Proiezione dello
+      sviluppo del volume minimo richiesto di asset liquidi e di asset liquidi disponibili su un
+      orizzonte temporale appropriato in due scenari: ordinario e di stress. Panoramica e
+      analisi quantitative sui livelli di peso correnti e previsionali degli asset. Calcolo del
+      tempo necessario a trasformare gli asset liquidi in liquidità prontamente utilizzabili;
+   <U+F0B7>  Cost-Benefit Allocation Mechanism: descrizione del meccanismo di allocazione costi-
+      benefici di liquidit{ e indicazione dell’interrelazione tra questo e tutto l’apparato di risk
+                                                18
+
+        management. Descrizione del meccanismo in uso e panoramica quantitativa della sua
+        attuale calibrazione. Descrizione dell’integrazione del meccanismo in uso con il calcolo
+        della profittabilità dei nuovi asset e generazione di passività, così come con il
+        performance management;
+    <U+F0B7>   Intraday Liquidity Risk Management: descrizione di criteri e mezzi per la
+        determinazione e il monitoraggio dei rischi di liquidità intraday. Overview quantitativa
+        dell’andamento di tali rischi nell’anno precedente. Indicazione del numero totale di
+        pagamenti mancati e panoramica esplicativa di pagamenti e obbligazioni non onorate
+        dall’istituzione;
+    <U+F0B7>   Liquidity Stress Testing: descrizione degli scenari avversi applicati e delle assunzioni
+        considerate nel procedimento, dei criteri di calibrazione degli scenari e della scelta
+        degli orizzonti temporali. Risultanze quantitative degli stress test e analisi delle stesse
+        quantitativamente e qualitativamente rispetto al profilo di funding;
+    <U+F0B7>   Liquidity Contingency Plan (LCP): descrizione delle linee di responsabilità per
+        strutturare, monitorare ed eseguire il LCP. Descrizione delle strategie di
+        reindirizzamento delle perdite di liquidità in situazioni di emergenza. Descrizione degli
+        strumenti per monitorare le condizioni del mercato. Illustrazione dell’LCP corrente.
+        Informazioni circa le possibili azioni di management sulla valutazione della fattibilità e
+        della capacità di generare liquidità sotto diversi scenari di stress;
+    <U+F0B7>   Supporting Documentation: approvazione integrale della struttura ILAAP e dei suoi
+        elementi chiave. Evidenza di aver valutato, discusso e/o deciso nell’ambito delle
+        diverse situazioni da affrontare (limiti, requisiti, ecc.).
+A completamento di tutto ciò, le istituzioni devono produrre delle conclusioni riguardo ICAAP
+e ILAAP in riferimento al loro impatto sul rischio e su tutto il management dell’istituzione
+stessa. Le conclusioni, tra le altre cose, devono prevedere:
+     <U+F0B7>   Una sintesi delle principali considerazioni nell’ambito dei due processi;
+     <U+F0B7>   L’elenco dei cambiamenti fatti o previsti nella gestione del rischio alla luce dei risultati
+         ottenuti;
+                                                 19
+
+     <U+F0B7>   L’elenco dei cambiamenti fatti o previsti concernenti il business model, le strategie o il
+         RAF;
+     <U+F0B7>   La conferma dell’avvenuta approvazione di tutte le informazioni specificate
+         precedentemente da parte dell’area competente in materia;
+     <U+F0B7>   Un report dell’Internal Audit.
+3. Case study
+3.1     Liquidity Adequacy
+Le evidenze qui rappresentate sono frutto dell’ispezione, condotta dal JST, con a tema il
+rischio di liquidità relativo a Banca Arcadia. Questa presenta un profilo di liquidità
+complessivamente adeguato agli impegni attesi derivanti dalla propria operatività, rilevando
+tuttavia i punti di criticità evidenziati di seguito.
+La maturity ladder risulta includere cash flow contrattuali che coprono un orizzonte
+temporale fino a un anno. Tale profilo di liquidità viene analizzato sulla base di una struttura
+delle soglie e dei limiti articolata in 3 livelli: livello obiettivo, livello operativo e livello di
+emergenza. Da una prima analisi, si evince una net liquidity position sufficientemente adeguata
+rispetto a tutti i limiti prefissati (Figura 3.1).
+Per ciò che concerne la Counterbalancing Capacity25(da ora CBC), si denotano incoerenze nella
+metodologia applicata. Infatti, questa non può essere considerata interamente disponibile “a
+vista” come invece rappresentato dalla Banca. Si richiedono pertanto approfondimenti in
+merito alle motivazioni che hanno indotto Arcadia all’adozione di tale metodologia.
+25 Stock di asset che possono essere facilmente convertiti in cash o utilizzati come collaterale in operazioni di
+securedfunding.
+                                                     20
+
+                   20
+                   15
+                   10
+                     5
+                     0
+                       CBC 1D 2D 3D 4D 5D 2W 3W 1M 2M 3M 4M 6M 12M
+                    -5
+                  -10    Profilo di liquidità                     Livello obiettivo
+                         Limite Operativo                         Livello di Emergenza
+                        Figura 3.1 - Net Liquidity Position and Short-term liquidity limits
+Dal punto di vista quantitativo, la CBC risulta sufficiente a fronteggiare situazioni di
+emergenza, registrando una disponibilità intraday corrispondente al 48% del totale e
+pienamente oltre i target del profilo di rischio di liquidità infragiornaliero definito
+dall’istituto. Si richiede un’analisi dettagliata del timing effettivamente stimabile per
+trasformare gli asset inclusi nella CBC in liquidità disponibile, tenendo anche conto dei vincoli
+legali e operativi. La CBC (Figura 3.2) presenta una composizione poco diversificata, essendo
+molto concentrata sul rischio Italia in virtù della detenzione maggioritaria di titoli di Stato
+italiani.
+                                                                   L1B
+                                                                          L1C
+                                                                   4%
+                                                                           6%
+                              L1A
+                             76%                                              L1D
+                                                                              3%
+                                                                            L1E
+                                                                    Cash 6%
+                                                                     5%
+                          Figura 3.2 – Composizione della Counterbalancing Capacity
+                                                       21
+
+Si rileva come la sufficiente adeguatezza della CBC dell’istituto sia garantita dall’applicazione
+di tassi promozionali. Essendo questi ultimi non tollerabili si sollevano dubbi circa la
+sostenibilità del business model. E’ verosimile ritenere che la situazione possa variare in
+maniera importante nel prossimo futuro. A tal proposito si richiede una rielaborazione delle
+CBC che tenga conto di un profilo di liquidità che escluda esplicitamente la liquidità
+straordinaria raccolta grazie alle recenti campagne commerciali. Contestualmente, si
+potrebbero avere ripercussioni sul già debole profilo di redditività generato dal margine di
+interesse, con il serio rischio di dover rifinanziare la raccolta a scadenza a tassi crescenti.
+Dall’analisi effettuata sulla ladder going concern emerge una disponibilità di fondi liquidi per
+oltre 12 mesi. Tale disponibilità, in presenza di stress, decresce pur mantenendosi su livelli
+soddisfacenti poiché al di sopra dell’Operational Limit. Come si evince dal grafico seguente
+(Figura 3.3), in uno scenario stressato la banca registra un servival period pari a 71 giorni,
+inferiore di 19 giorni rispetto al livello obiettivo.
+               20
+               15
+               10
+                 5
+                 0
+                    CBC    1D       2D    3D     4D    5D  2W      3W     1M      2M      3M    4M     6M     12M
+                -5
+              -10     Profilo di liquidità going concern         Profilo di liquidità in condizioni di stress
+                               Figura 3.3 - Net liquidity position going concern e stressed
+Lo stress test gestionale predisposto dalla Banca, che consente la produzione del profilo di
+liquidità stressato, è composto da 10 fattori di rischio (illustrati nel dettaglio nella tabella
+seguente), riconducibili sia a tipologie sistemiche che idiosincratiche, calibrati secondo ottiche
+di tipo storico o discrezionale. Gli impatti simulati vanno a incidere sulla CBC o sul cash flow.
+Esaminando i singoli fattori di rischio, sorgono degli interrogativi in merito all’effettiva bont{
+della struttura di stress predisposta.
+                                                           22
+
+In merito al fattore 2, la calibrazione viene effettuata su dati storici, i quali non considerano
+l’effetto che la procedura di bail-in potrebbe avere sull’esercizio dell’opzione put da parte
+della clientela, dato che solo le obbligazioni garantite non rientrano nella suddetta procedura.
+Il JST, ritenendo a riguardo possibile la permanenza di rischi, suggerisce l’adozione di una
+severity più elevata. In generale, nonostante alcuni fattori di rischio, se analizzati
+singolarmente, esercitino un impatto non particolarmente prudente, con una severity talvolta
+ottimistica, ad un'analisi dell'impatto cumulato dei singoli fattori sull'intero scenario di stress
+la severity complessiva può essere considerata soddisfacente. Questo è quanto emerso da
+un’analisi oggettiva di quanto trasmesso, ma si rileva il mancato uso di misure forward
+looking, in grado di implementare gli scenari di stress prevedendo eventuali situazioni
+critiche.
+Dal punto di vista dei processi da attivare in caso di emergenza, analizzando le azioni
+predisposte dal Liquidity Contingency Plan, si palesa l’improbabilit{ delle stesse in termini di
+incompletezza esplicativa - non è chiaro cosa si intenda quando si accenna ad una campagna
+commerciale per incrementare la raccolta retail - ma soprattutto di incongruenza delle azioni
+previste dal piano con le effettive tempistiche, per definizione molto rapide, che dovrebbero
+essere rispettate per garantire un tempestivo ed efficace intervento. Appare tra l’altro molto
+rischioso il ricorso alle cartolarizzazioni:26 il collocamento di tutte le tranches e la copertura
+dell’ingente costo di adozione di questa strategia richiederebbero dei tempi non in linea con
+l’esigenza della banca.
+Per ciò che concerne il livello di LCR, si evidenzia uno status di liquidità della banca che nel
+breve termine risulta più che soddisfacente, essendo considerevolmente ampio il margine tra
+il livello presentato dall’indice nei periodi considerati e la soglia minima regolamentare del
+100%. Si richiede una riconciliazione tra il liquidity buffer del LCR e la Counterbalancing
+Capacity utilizzata per le analisi gestionali.
+26 Per ulteriori approfondimenti, v. la parte dedicata all’interno del paragrafo sul Funding Plan.
+                                                          23
+
+                                                                                                       STRESS TEST
+#                                                     Fattore di rischio                                                                        Severity                    Impatto Tipo stress Calibrazione
+                                                                                                                                   Lineare: 5% entro 5gg, 10% entro
+1 Run-off depositi a vista e depositi a risparmio                                                                                                                            Cash out       Idiosincratico     Judgmental
+                                                                                                                                   1 M, 20% entro 3M, 30% entro 12M
+                                                                                                                                   Lineare: 5% entro 1M, 10% entro
+2 Riacquisto di obbligazioni retail collocate presso clientela con put option detenuta dal Cliente                                                                           Cash out       Idiosincratico     Historical
+                                                                                                                                                                                                                            Tabella 3.1 – Dettaglio dello Stress Test predisposto da Arcadia
+                                                                                                                                   3M
+3 Riduzione raccolta commerciale a scadenza (mancato rinnovo raccolta in scadenza con clientela)                                   Lineare: -30% nei 12 mesi                  Cash in       Idiosincratico     Judgmental
+                                                                                                                                   Tiraggio lineare del 20% dello stock
+4 Committed credit lines - tiraggio dell'accordato non erogato dei finanziamenti                                                                                             Cash out       Idiosincratico     Judgmental
+                                                                                                                                   fino a 1 mese, 50% entro 12 mesi.
+    Prestito titoli da clientela - riduzione della disponibilità di titoli sia per comportamento clientela sia per intervento del Riduzione 25% prestito titoli a buffer                    Idiosincratico /
+5
+    Regolatore                                                                                                                    immediata
+                                                                                                                                                                               CBC
+                                                                                                                                                                                               sistemico
+                                                                                                                                                                                                               Judgmental                                                                      24
+                                                                                                                                   Riduzione 4% market value titoli
+6 Svalutazione dei titoli retained (impatto sul market value degli auto-covered e auto-cartolarizzazioni)                                                                      CBC          Idiosincratico     Historical
+                                                                                                                                   retained lineare fino a 5gg
+    Downgrade da parte di tutte le agenzie di rating delle proprie emissioni in portafoglio (impatto da variazione di              +10% haircut immediato, perdita
+7                                                                                                                                                                          CBC / cash out   Idiosincratico     Judgmental
+    haircut e da riserve) senza perdita di eligibility                                                                             immediata riserva cash
+                                                                                                                                   + 200bps spread BTP/BUND
+8 Svalutazione dei titoli di stato                                                                                                                                             CBC            Sistemico        Historical
+                                                                                                                                   immediato
+9 Downgrade dei titoli di stato (variazione di haircut)                                                                            + 5% haircut immediato                      CBC            Sistemico        Judgmental
+                                                                                                                                   Default principale controparte
+10 Default controparti sistemi di regolamento                                                                                                                                 Cash in         Sistemico        Judgmental
+                                                                                                                                   interbancaria al giorno precedente
+
+3.2 Funding Risk
+La situazione strutturale di Arcadia presenta delle criticità rilevanti, di seguito analizzate. Le
+maggiori si riscontrano principalmente con riferimento a: Gap ratios, Asset Encumbrance Ratio
+e Funding plan.
+3.2.1 Gap Ratios
+Come si evince dal grafico in Figura 3.4, la banca è ben lontana dai livelli target: soprattutto
+negli anni 3 e 4, si può osservare un’allarmante prossimit{ all’operationallimit. Per ovviare a
+ciò, la Banca ha presentato un funding plan che prevede un miglioramento dei gap ratios: nella
+Figura 3.5, i livelli degli anni 3 e 4 sono decisamente più vicini al target level che non
+all’operational limit, sebbene ancora inferiori. Analiticamente, i livelli dei ratios sono espressi
+nelle rispettive tabelle:
+      Gap Ratios             >1Y                >2Y                 >3Y                >4Y   >5Y
+  Gap Ratio Level          112.65%            100.26%             81.83%             75.32% 74.31%
+      Target Level          105%                98%                  90%                82%  75%
+  Operational Limit          95%                88%                  80%                72%  65%
+                                              Gap Ratios
+                      120%
+                      110%
+                      100%
+                       90%
+                       80%
+                       70%
+                       60%
+                       50%
+                              >1Y           >2Y          >3Y          >4Y         >5Y
+                            Gap Ratio Level         Target level         Operational Limit
+                                 Figura 3.4 - Profilo dei Gap Ratios attuale
+                                                     25
+
+   New Gap Ratios                >1Y                 >2Y                  >3Y                >4Y         >5Y
+Gap Ratio Level                107.0%              102.3%                85.8%              79.3%        73.3%
+                                                Gap Ratios as of Jan-20
+                      120%
+                      110%
+                      100%
+                       90%
+                       80%
+                       70%
+                       60%
+                       50%
+                                   >1Y          >2Y            >3Y          >4Y          >5Y
+                                Gap Ratio Level           Target level         Operational Limit
+                Figura 3.5 - Profilo dei Gap Ratios al 2020 in caso di piena esecuzione del funding plan
+La problematica maggiore riguarda il funding plan proposto, nello specifico la sua fattibilità
+nel riportare il profilo di liquidità strutturale vicino a livelli coerenti con quelli stabiliti dal
+Consiglio di Amministrazione nell’ambito del RAF.
+3.2.2 Funding Plan ed Asset Encumbrance Ratios
+Il funding plan predisposto da Arcadia per i prossimi 3 anni prevede:
+     <U+F0B7>  Aumento della raccolta da clientela retail stabile;
+     <U+F0B7>  Aumento delle cartolarizzazioni di crediti a M/L termine collocate sul mercato;
+     <U+F0B7>  Emissioni sul mercato unsecured a lungo termine;
+     <U+F0B7>  Emissioni di obbligazioni Lower Tier 2 subordinate.
+Nel dettaglio, si valutano così le diverse azioni:
+     <U+F0B7>  Aumento della raccolta da clientela retail stabile: è possibile osservare come la banca
+        abbia dovuto offrire ai propri clienti un tasso d’interesse superiore a quello di mercato
+        per poter finanziare la propria raccolta. Guardando alla profittabilità della banca, si
+        nota come in realtà questa stia attraversando un momento non positivo con un utile
+                                                           26
+
+         netto di €20 mln e un ROTE27 di appena lo 0,8%. E’ rilevabile inoltre come questi
+         risultati abbiano beneficiato del contesto economico, nonché di circostanze favorevoli
+         come le politiche di QE. Considerando che, nonostante tutto, l’istituto non sia riuscito a
+         produrre risultati economici realmente positivi e che il QE potrà terminare nel periodo
+         previsto dal funding plan, ci si chiede come si pensi di finanziare raccolta stabile senza
+         inficiare ulteriormente la profittabilità. Vengono richiesti, a riguardo, ulteriori
+         approfondimenti.
+     <U+F0B7>   Aumento delle cartolarizzazioni di crediti a M/L termine collocate sul mercato: sono
+         presenti diverse criticità. La prima riguarda il mercato che i titoli ABS hanno in questo
+         specifico periodo economico. Arcadia potrebbe trovarsi in una situazione di difficoltà
+         nel collocamento di questi titoli, con il rischio di dover offrire un tasso d’interesse di
+         mercato troppo elevato. Un’altra criticit{ si può trovare osservando l’Asset
+         Encumbrance Ratio (Tabella 3.2). La banca evidenzia un ratio notevolmente più elevato
+         rispetto alla media di sistema.
+                                         Asset Encumbrance Ratio
+                            Total AssetsEncumbered                                 48,315
+                            Total Assets + Total collateral Received              107,150
+                            Asset Encumbrance Ratio                               45.09%
+                            Livello medio di sistema                              26.00%
+                                     Tabella 3.2 – Prospetto Asset Encumbrance Ratio
+     <U+F0B7>   Emissioni sul mercato unsecured a lungo termine:si richiede un chiarimento su più
+         punti:
+             o Dopo l’approvazione della BRRD, il mercato fatica ad assorbire questa tipologia
+                   di titoli, con il risultato di un tasso di interesse in crescita nell’offerta da parte
+                   della banca;
+27 Return On Tangible Equity. Misura la redditività operativa di una banca ed è più rappresentativo del ROE circa
+la reale profittabilità della stessa. È dato dal rapporto tra l’utile netto ed il patrimonio tangibile, quello cioè al
+netto degli attivi intangibili come l’avviamento.
+                                                           27
+
+           o La banca non colloca un’emissione unsecured dal 2011: dopo un’assenza di sei
+               anni da questo mercato, ci si chiede come si pensi di utilizzare addirittura
+               questo strumento per migliorare la propria situazione di funding;
+           o Arcadia prevede di sostituire due emissioni unsecured da €2 mld in scadenza nel
+               2017-2018 con un programma di covered bonds. Ciò dimostra come la banca non
+               abbia accesso al mercato unsecured, inoltre, un’emissione di covered bonds
+               richiederebbe un aumento degli asset encumbered, che come precedentemente
+               osservato portano a un asset encumbrance ratio già di molto superiore alla
+               media di sistema.
+               Per tutte queste ragioni, è forte lo scetticismo sulla buona riuscita di emissioni
+               unsecured.
+    <U+F0B7>  Emissioni di obbligazioni Lower Tier 2 subordinate: serie problematiche, già rilevate al
+       punto precedente, si pongono all’attenzione: a seguito degli scandali bancari
+       recentemente osservati sul mercato italiano, c’è una forte diffidenza nei confronti di
+       questa tipologia di titoli. In sede di emissione, ciò può comportare un tasso di interesse
+       molto elevato a carico della banca, con effetti possibili non solo sulla profittabilità ma
+       anche sull’equilibrio di lungo periodo.
+Per tutte queste ragioni, si ritiene che il funding plan abbia delle severe criticità che si richiede
+di chiarire. Se si dovessero ritenere non sufficienti le spiegazioni fornite, sarà richiesta la
+predisposizione di un nuovo piano in linea con i requisiti di fattibilità, sostenibilità e realismo
+così da poter più chiaramente valutare la posizione strutturale del Gruppo.
+3.2.3 Altre considerazioni
+Si osserva che la banca dipende in maniera eccessiva dal funding derivante dalle politiche
+straordinarie della BCE. L’istituto prevede un incremento dei crediti a clientela lordi del
+12,6%, sostenendolo con il programma TLTRO. Quest’ultimo terminer{ nel 2020-21, motivo
+per il quale i gap ratios presentano il profilo sopra evidenziato. La fine del programma,
+insieme ad altri fattori, ha comportato per la banca la predisposizione di un nuovo funding
+plan triennale precedentemente analizzato. L’eventuale termine del programma TLTRO
+comporter{ un’urgente necessit{ di funding stabile da parte di Arcadia. Si ritiene che il top
+                                                  28
+
+management non abbia avuto una visione lungimirante che avrebbe potuto portare ad una
+situazione meno critica.
+Per quel che riguarda l’indicatore NSFR, attualmente questo è del 101% ed è in linea con la
+media di sistema. Si ritiene, però, che questo risultato sia stato raggiunto con un eccessivo
+sforzo in termini di condizioni riconosciute alla clientela, che ripresentano dubbi sulla
+sostenibilità del modello di business complessivo.
+3.3 Risk Appetite Framework – Liquidity
+La banca dispone di un RAF che prevede la calibrazione di un set di indicatori comprensivo di:
+LCR, Survival period in condizioni di stress, NSFR, Gap ratio 3Y e 5Y. Vista la difficoltà della
+banca nel raccogliere a tassi di mercato, si richiede l’implementazione e l’avvio di un processo
+di monitoraggio di un indicatore di “cost of wholesale funding”.
+Non sono rilevate criticità sulla risk tolerance: questa rispetta una procedura altamente
+standardizzata in caso di superamento delle soglie di tolleranza ed è calibrata su tutti gli
+indicatori utilizzati dalla banca.
+Gli indicatori prima citati non sono calibrati ricorrendo ad analisi di stress o di scenario,
+prassi della banca che non rispetta le best practices internazionali. Si richiede, quindi, di
+motivare questa scelta.
+Tutte le misure del RAF sono calcolate mensilmente a livello di Gruppo e oggetto di reporting
+semestrale al Comitato di Direzione e al Comitato Rischi. In quest’ultimo caso, si rileva una
+forte criticità: il reporting semestrale non permette agli organi competenti di agire con
+tempestività, a maggior ragione in relazione a misure di liquidità e ad altri rischi con elevata
+volatilit{. Si richiede l’implementazione di un processo di reporting con frequenza maggiore e
+che metta gli Organi nelle condizioni di poter decidere tempestivamente. Per una definizione
+del sistema di reporting si faccia riferimento ai principi contenuti nel BCBS 239.
+                                                29
+
+4. Conclusioni
+La banca presenta un profilo di liquidità a breve termine sufficientemente adeguato rispetto ai
+limiti prefissati, soprattutto in virtù di una CBC in linea con le necessit{ dell’istituto. La
+criticità risiede nel fatto che la buona posizione di liquidità è stata ricostituita ricorrendo a
+tassi ampiamente fuori mercato, che in prospettiva potrebbero causare problemi di
+sostenibilit{ invertendo di gran lunga l’effetto benefico di breve periodo. La liquidit{ a breve
+risulta adeguata anche sotto il profilo dell’LCR, ampiamente oltre la soglia minima
+regolamentare. Si suggerisce l’applicazione, allo scenario di stress, di fattori di rischio calibrati
+in ottica forward looking, poiché solo in tal modo potrebbe constatarsi l’effettiva capacit{ della
+banca di fronteggiare situazioni particolarmente avverse.
+In merito al profilo di funding, si ritiene che la banca detenga un parziale squilibrio nel M/L
+termine tenendo conto, anche e soprattutto, delle politiche monetarie straordinarie prossime
+alla scadenza. Alla luce di ciò, il funding plan che Arcadia ha predisposto per fronteggiare
+questo nuovo scenario risulta inadeguato. Si richiede dunque una pronta attivazione
+dell’istituto, mirata a migliorare la situazione presentata in una prospettiva di medio/lungo
+termine. Pertanto, la Vigilanza richiede la modifica del piano presentato entro il termine di tre
+mesi.
+                                                30
+
+Bibliografia
+       Commissione Europea (2015), “Commission Delegated Regulation (EU) 2015/61 of 10
+October 2014 to supplement Regulation (EU) No 575/2013 of the European Parliament and the
+Council with regard to liquidity coverage requirement for Credit Institutions”, Official Journal of
+the European Union.
+       EBA (2014), “Guidelines on common procedures and methodologies for the supervisory
+review and evaluation process (SREP)”.
+       EBA (2016), “Final Report - Guidelines on ICAAP and ILAAP information collected for
+SREP purposes”.
+       Nouy D. (2017), “Multi-year plan on SSM Guides on ICAAP and ILA
+                                               31
+

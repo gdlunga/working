@@ -1,0 +1,374 @@
+   <U+200B>Nuova DoD
+<U+200B>Steering Committe
+   Siena, 24/09/2018
+
+Agenda
+       Struttura progettuale
+       • Premesse e Obiettivi
+       • Piano di Lavoro
+       • Organizzazione e Staffing
+       • Stato Avanzamento Lavori (Moduli A e B)
+       Allegati
+       • Stato Avanzamento Lavori (Moduli C, D, E)
+       • L'identificazione dei default: le nuove regole EBA
+       • Il "two-step approach" proposto da BCE
+                                                            2
+
+Descrizione
+ Anagrafica                                                                                                       Principali interventi previsti
+ •  Nome Progetto: Nuova DoD                                                                                      • Impact Assessment: gap analisys fra attuale definizione di default e
+ •  Direzione: CRO                                                                                                   nuova definizione di default con predisposizione del materiale quali-
+ •  Sponsor: Leonardo Bellucci                                                                                       quantitativo richiesto dalla BCE entro fine 2018, comprensivo
+ •  Responsabile Progetto: Lorenzo Boetti                                                                            dell’isdell’indipendent opinion dell’internal audit function.
+ •  Durata: Data inizio: 19/07/2018 Data fine: 30/06/2021                                                         • Implementazione nei processi gestionali e contabili della Banca della
+ •  Tipologia: Obbligatorio                                                                                          nuova definizione di default a partire dal 1 luglio 2019.
+                                                                                                                  • Creazione delle serie storiche usate ai fini della stima dei modelli di
+ Obiettivi                                                                                                           PD, LGD e EAD con la nuova DoD (orizzonte temporale di 10 anni) e
+                                                                                                                     conseguente ristima di tutti gli attuali modelli validati o in roll out nel
+ • Adeguare i processi gestionali, contabili e regolamentari alla nuova definizione di default
+                                                                                                                     periodo 2019-2021.
+    (DoD), mandatory entro il 31/12/2020, sulla base delle Guidelines on the application of the
+    default definition pubblicate nell’EBA GL/2016/07 del 28/9/2016 e sulla base degli RTS on
+    materiality threshold of credit obligation past due pubblicato nell’EBA RTS2016/06 e nel
+    regolamento EU CDR 2018/171.
+ • Implementare il Two-Step Approach (non mandatory) formalizzato dalla BCE il 26 giugno
+    2018, che prevede un self assessment sulla definizione di default entro fine 2018 con
+    contestuale istanza di material model change (sulla nuova DoD) e l’implementazione della
+    nuova DoD nei sistemi informatici delle banche Airb dal 1° luglio 2019.
+ Budget                                                                                                           Benefici Attesi
+                     2018         2019          2020              2021           2022          Totale
+                                                                                                                  • Compliance regolamentare alle nuove linee guida dell’EBA e ai nuovi
+                                                                                                                     RTS sulle soglie di materialità del default.
+   Capex              60           180           180               xx             xx             420              • Miglioramento della detection e della misurazione del Rischio di
+                                                                                                                     Credito
+   Opex*             450          2070           490               xx             xx            3010
+   Totale            510          2250           670               xx             xx            3430
+                                                    * I costi della consulenza esterna sono stimati rispettivamente pari a €/mln 370, 1.420, 370 rispettivamente nel triennio 2018-2020.         3
+
+Organizzazione e Staffing                                                                       L.Bellucci, A.Rovellini,
+                                                                                                F.Leandri, G.Bergami,           Steering Committee
+                                                                                                V.Calvanico,G.Damiani
+                                                                                                       Sponsor                  Leonardo Bellucci
+                                      Cabina di Regia*
+                         Ruggiero (CLO), Boetti (CRO), Clarelli (CFO),                                Nuova DoD                 Lorenzo Boetti
+                           Baiano (COG), Furlani (CAE), tbd (COO)
+    Moduli
+                   A. Assessment                              B. Assessment
+                                                                                                      C. Processi                                     D. IT                                      E. Modelli
+                    Qualitativo                                Quantitativo
+               •    M.Rizzitiello                         •   G.Petraglia                         •   M.Rizzitiello                           •   A. Castiglione                            •   G. Petraglia
+                    (CLO)                                     (CRO)                                   (CLO)                                       (COG)                                         (CRO)
+ Resp.Modulo
+                                    CRO (Petraglia, Guerriero, Amore, Saputo, Latto, Pezzulla), COG(Crecchi, D’Alessandro, Avila, Barbi, Caldelli, Giuggioli, Rossi G.), COO(Palazzotto),
+ e Core team                                          CCO, CLO(Rizzitiello, Cipparrone, Vannini), CAE(Traso, Della Lunga), CFO (Moricone, Alessi, Zaccarini, Gabbi)
+  Principali
+                                                                CRO (ALRO,SVSR), COG(IT,Demand), COO(A.Organizzazione), CCO, CLO(ACPG), CAE(ARS), CFO
+ Contibutori
+               * E’ una struttura tecnica che dovrà garantire, già nel durante, omogeneità e qualità di intervento, di documentazione e di interlocuzione attraverso la consulenza ed assurance sui
+               diversi interventi, la stesura delle comunicazioni verso Organi e Regulator ed il supporto alle interlocuzioni con il Regulator.
+                                                                                                                                                                                                               4
+
+  Premesse e obiettivi
+                       ¦ Al fine di armonizzare gli approcci di applicazione della definizione di default e di individuazione delle condizioni di inadempienze probabili tra le istituzioni finanziarie e
+                         le diverse giurisdizioni dei paesi dell’Unione, dopo un periodo di consultazione di tre mesi, l’EBA ha emanato le Linee Guida relative all’applicazione dell’Articolo
+                         178(7) della CRR: tali linee guida permettono di standardizzare, ad esempio, i criteri per l’identificazione dello scaduto, le modalità di gestione delle indicazioni di
+                         inadempienze probabili, gli aspetti specifici delle esposizioni Retail, il trattamento dei dati esterni, la definizione dei criteri per il ritorno di una posizione in uno stato di
+                         non default
+Contesto regolamentare ¦ Le Linee Guida EBA si applicheranno a partire dal 1° Gennaio 2021: considerando i potenziali impatti a livello metodologico, gli intermediari finanziari interessati dalla
+                         nuova regolamentazione sono dunque chiamati ad uno sforzo in termini di disegno della soluzione funzionale e tecnologica da articolarsi in maniera più o meno
+                         rilevante a seconda della complessità dell’intermediario e dell’utilizzo dei modelli interni per la stima dei parametri del rischio di credito.
+                       ¦ La Banca Centrale Europea propone un approccio a 2 step (c.d. "Two-step approach") al fine di minimizzare il rischio derivante dall'utilizzo di osservazioni di
+                         default inaccurate e non allineate alla nuova definizione di default durante l'implementazione degli interventi volti a garantire l'allineamento con le EBA
+                         Guidelines
+                       ¦ Implementare il Two-Step Approach (non mandatory) formalizzato dalla BCE il 26 giugno 2018, che prevede un self assessment sulla definizione di default entro
+                         fine 2018 con contestuale istanza di material model change (sulla nuova DoD) e l’implementazione della nuova DoD a partire dal primo luglio 2019
+      Obiettivi
+                       ¦ Adeguare i processi gestionali, contabili e regolamentari alla nuova definizione di default (DoD), mandatory entro il 31.12.2020, sulla base delle Linee Guida
+                         relative all’applicazione dell’Articolo 178(7) della CRR
+                           ¦  Assessment Qualitativo in merito al posizionamento del Gruppo MPS rispetto alle nuove regole EBA e individuazione dei relativi gap da colmare
+ Principali interventi     ¦  Assessment Quantitativo in relazione agli impatti delle nuove regole EBA sulla stima dei modelli IRB
+        2018               ¦  Definizione dell'Action Plan per la risoluzione dei gap in termini di interventi su dati, processi e sistemi
+                           ¦  Predisposizione dell'Application Package per ECB (31.12.2018)
+                                                                                                                                                                                                             5
+
+ Stato Avanzamento Lavori – Modulo A                                                                           Legenda:         Attività avviata    In ritardo         Da avviare    Conclusa
+                                                                                                                                                                                                       Elapsed
+                                                                                                                                                                                                                    Deliverable
+                                                                                                                                                                                                       follow-up
+    Modulo                                Attività               Owner                   Settembre '18                        Ottobre '18                            Novembre '18                            Dicembre '18
+                                                                                 W1       W2       W3       W4       W1       W2          W3      W4         W1        W2         W3      W4       W1         W2      W3        W4
+                                Analisi Nuove Regole EBA        CRO/CLO
+                              Analisi Posizionamento Banca      CRO/CLO
+                                       GAP Analysis             CRO/CLO                                              Gap Analysis
+                          Identificazione Azioni di Remediation CRO/CLO
+A. Assessment
+ Qualitativo                     Definizione dei Requisiti      CRO/CLO                                                                                                 Template ECB Gap Analysis
+                                        Action Plan             CRO/CLO                                                                                                                            Template ECB Action Plan
+                                   Report Internal Audit           IA                                                 Partecipazione GdL                       Validazione Gap Analysis
+                                                                                                                                                                                              Validazione Action Plan
+                                                                                                    24.09.2018
+                       Attività svolte/in corso                                           Punti di attenzione                                                                  Prossimi passi
+   <U+F0A7> Completato primo ciclo di incontri del modulo di                                                                                            <U+F0A7> Consolidamento gap analysis e prima compilazione del
+                                                                  <U+F0A7> Sono necessari ulteriori approfondimenti in merito alle
+     assessment qualitativo, per l’analisi dei requisiti e                                                                                         relativo Template BCE
+                                                                      attuali regole di determinazione e propagazione del
+     l’individuazione dei gap                                                                                                                    <U+F0A7> Identificazione delle azioni di remediation per i singoli gap
+                                                                      default, dell'applicazione dei nuovi criteri di classificazione
+   <U+F0A7> In corso di condivisione con il GdL operativo i primi gap                                                                                     (con impatti IT e di processo) per avvio definizione dei
+                                                                      alle Banche Estere e sull'applicazione delle nuove regole
+     rilevati rispetto ai nuovi requisiti di classificazione a                                                                                     business requirements
+                                                                      al factoring pro-soluto
+     default                                                                                                                                     <U+F0A7> Stimare le modalità e le tempistiche di intervento lato IT
+                                                                                                                                                                                                                                6
+
+  Stato Avanzamento Lavori – Modulo A – Focus "Gap Analysis"
+                            1 Soglia di materialità assoluta e relativa <U+F0A7> La Banca prevede soglie di materialità assolute (1€) e relative (5%) a livello di singola legal entity e non di gruppo bancario,
+                                                                          differenti da quanto previsto nella nuova normativa
+                            2            Giorni di sconfino             <U+F0A7> Il conteggio dei giorni di sconfino è calcolato a livello di singola legal entity (e non di gruppo) e non è subordinato al
+ Criterio dello scaduto                                                   superamento delle soglie assoluta/relativa
+nell'identificazione del
+          default           3 Tempestiva identificazione del default    <U+F0A7> La frequenza di classificazione delle controparti a Past Due (PD) risulta essere mensile e non giornaliera (i.e. uno sconfino sopra
+                                                                          soglia regolarizzato infra-mese non comporta la classificazione a PD)
+         RTS: 1-2; 5
+        DoD: 16 - 34        4     Situazioni tecniche di arretrato      <U+F0A7> Le situazioni tecniche di arretrato vengono gestite tramite un sistema di ticketing IT (aperti manualmente dal gestore), non
+                                                                          sono previsti automatismi di rilevazione/controllo
+                            5        Factor: cessioni pro soluto        <U+F0A7> In caso di cessione di un credito commerciale pro soluto (senza notifica al debitore ceduto) non è previsto da parte della Banca,
+                                                                          un processo volto al blocco dei giorni di sconfino per il mancato "rigiro" delle somme da parte del cedente
+                            6                Trigger NPL                <U+F0A7> Necessità per la Banca di incrementare l'attuale catalogo di trigger NPL sulla base della nuova normativa EBA (e.g. rinuncia alla
+     Identificazione                                                      contabilizzazione degli interessi, etc.)
+       improbabile
+      adempimento           7     Cessioni obbligazioni creditizie      <U+F0A7> La normativa EBA richiede l'inserimento nelle policy interne di nuove definizioni riguardanti le cessioni delle obbligazioni
+                                                                          creditizie e soglie per definire la significatività della perdita economica correlata alla cessione (e.g. classificazione a default se
+        DoD: 35 - 65                                                      soglia > 5% e cessione finalizzata al trasferimento del rischio di credito)
+                            8    Ridotta obbligazione finanziaria       <U+F0A7> L'attuale perimetro dei trigger di individuazione del forborne non performing non prevede la verifica della riduzione di NPV>1%
+ Criteri per il ritorno ad
+    uno stato di non-                                                   <U+F0A7> La normativa introduce un periodo di "osservazione" (sempre in stato di non performing) pari ad almeno 3 mesi per le posizioni
+                            9             Rientri in bonis
+          default                                                         oggetto di rientro in bonis
+        DoD: 71 - 78
+        Uniformità
+       applicazione        10       Uniformità di classificazione       <U+F0A7> La Banca classifica la posizione a default per controparte/debitore a livello di singola legal entity e non di gruppo
+ definizione di default
+        DoD: 79 - 85
+       Applicazione
+definizione default per 11                                              <U+F0A7> La normativa EBA richiede nuove regole di propagazione/contagio dello stato di default (e.g. obbligazione creditizia congiunta,
+                                   Propagazione stato di default
+esposizione al dettaglio                                                  legame coniugale in regime di comunione dei beni, gruppi di rischio – holding vs controllate, etc.).
+       DoD: 86 - 105
+Documentazione policy
+          interne          12       Registro definizioni default        <U+F0A7> Non risulta presente un registro che storicizzi tutte le definizioni di default previste dalla banca
+       DoD: 104 - 114
+                                                                                                                                                                                                                 7
+
+ Stato Avanzamento Lavori – Modulo B                                                                            Legenda:          Attività avviata      In ritardo      Da avviare    Conclusa
+                                                                                                                                                                                                       Elapsed
+                                                                                                                                                                                                                      Deliverable
+                                                                                                                                                                                                       follow-up
+    Modulo                                 Attività                Owner                  Settembre '18                          Ottobre '18                          Novemebre '18                          Dicembre '18
+                                                                                   W1      W2       W3       W4        W1        W2          W3     W4           W1     W2         W3      W4      W1         W2        W3        W4
+                                 Analisi Nuove Regole EBA           CRO
+                           Definizione dell'approccio simulativo    CRO
+                         Definizione dei Requisiti Estrazione Dati  CRO                                       BR Estrazione Dati
+                          Estrazione Dati Storici per Assessment
+                                                                    COG
+B. Assessment                           Quantitativo
+ Quantitativo                 Compilazione Registro Modelli         CRO                                                        Template ECB Registry
+                          Calcolo del Past Due secondo le nuove
+                                                                    CRO
+                                         regole EBA
+                            Stima degli impatti e compilazione                                                                                                                              Template ECB QIA
+                                                                    CRO
+                                          Template                                                                                                                                                             Validazione ECB QIA
+                       Report Internal Validation / Internal Audit IV/IA                                                                           Validazione ECB Registry
+                                                                                                     24.09.2018
+                        Attività svolte/in corso                                           Punti di attenzione                                                                   Prossimi passi
+                                                                    <U+F0A7> La soluzione tecnica individuata (Fidi e Garanzie) potrà
+   <U+F0A7> Completata la definizione dell’approccio simulativo e dei         essere utilizzata come base dell'estrazione dei dati storici
+     requisiti per l’estrazione dei dati                               per la ricalibrazione dei modelli (Modulo D) e per il
+   <U+F0A7> Scelta soluzione per estrazione dati di alimentazione per         processo target di calcolo del past due, al netto di                        <U+F0A7> Verifica della qualità dei dati sulla fonte alimentante (i.e.
+     la simulazione, prevedendo che i dati saranno estratti da         eventuali evidenze che emergeranno dalla gap analysis                           Fidi e Garanzie) individuata
+     Fidi e Garanzie con frequenza mensile (fine mese), su un       <U+F0A7> Trattamento delle forbereance vista la non possibilità di
+     orizzonte temporale che va dal 2014 al 2018                       rideterminare storicamente la variazione del NPV al
+                                                                       momento della misura.
+                                                                                                                                                                                                                                  8
+
+                                                                                                                                                                                                                  Gap coperto da
+  Stato Avanzamento Lavori – Modulo B – Focus "Approccio Simulativo"                                                                                                                                                   Analisi
+                                                                                                                                                                                                                    Quantitativa
+                            1 Soglia di materialità assoluta e relativa <U+F0A7> La Banca prevede soglie di materialità assolute (1€) e relative (5%) a livello di singola legal entity e non di gruppo bancario,                 SI
+                                                                          differenti da quanto previsto nella nuova normativa
+                            2            Giorni di sconfino             <U+F0A7> Il conteggio dei giorni di sconfino è calcolato a livello di singola legal entity (e non di gruppo) e non è subordinato al                       SI
+ Criterio dello scaduto                                                   superamento delle soglie assoluta/relativa
+nell'identificazione del
+          default           3 Tempestiva identificazione del default    <U+F0A7> La frequenza di classificazione delle controparti a Past Due (PD) risulta essere mensile e non giornaliera (i.e. uno sconfino sopra     Dati di fine mese
+                                                                          soglia regolarizzato infra-mese non comporta la classificazione a PD)
+         RTS: 1-2; 5
+        DoD: 16 - 34        4     Situazioni tecniche di arretrato      <U+F0A7> Le situazioni tecniche di arretrato vengono gestite tramite un sistema di ticketing IT (aperti manualmente dal gestore), non
+                                                                                                                                                                                                                         NO
+                                                                          sono previsti automatismi di rilevazione/controllo
+                            5        Factor: cessioni pro soluto        <U+F0A7> In caso di cessione di un credito commerciale pro soluto (senza notifica al debitore ceduto) non è previsto da parte della Banca,
+                                                                          un processo volto al blocco dei giorni di sconfino per il mancato "rigiro" delle somme da parte del cedente                                    NO
+                            6                Trigger NPL                <U+F0A7> Necessità per la Banca di incrementare l'attuale catalogo di trigger NPL sulla base della nuova normativa EBA (e.g. rinuncia alla              NO
+     Identificazione                                                      contabilizzazione degli interessi, etc.)
+       improbabile
+      adempimento           7     Cessioni obbligazioni creditizie      <U+F0A7> La normativa EBA richiede l'inserimento nelle policy interne di nuove definizioni riguardanti le cessioni delle obbligazioni                   n.a.
+                                                                          creditizie e soglie per definire la significatività della perdita economica correlata alla cessione (e.g. classificazione a default se
+        DoD: 35 - 65                                                      soglia > 5% e cessione finalizzata al trasferimento del rischio di credito)
+                            8    Ridotta obbligazione finanziaria       <U+F0A7> L'attuale perimetro dei trigger di individuazione del forborne non performing non prevede la verifica della riduzione di NPV>1%               SI/NO
+ Criteri per il ritorno ad
+                                                                        <U+F0A7> La normativa introduce un periodo di "osservazione" (sempre in stato di non performing) pari ad almeno 3 mesi per le posizioni                   SI
+    uno stato di non-       9             Rientri in bonis
+          default                                                         oggetto di rientro in bonis                                                                                                            solo per PAST DUE
+        DoD: 71 - 78
+        Uniformità
+       applicazione        10       Uniformità di classificazione       <U+F0A7> La Banca classifica la posizione a default per controparte/debitore a livello di singola legal entity e non di gruppo                            SI
+ definizione di default
+        DoD: 79 - 85
+       Applicazione
+definizione default per 11                                              <U+F0A7> La normativa EBA richiede nuove regole di propagazione/contagio dello stato di default (e.g. obbligazione creditizia congiunta,         Contagio solo sui
+                                   Propagazione stato di default                                                                                                                                                    contestatari
+esposizione al dettaglio                                                  legame coniugale in regime di comunione dei beni, gruppi di rischio – holding vs controllate, etc.).
+       DoD: 86 - 105
+Documentazione policy
+          interne          12       Registro definizioni default        <U+F0A7> Non risulta presente un registro che storicizzi tutte le definizioni di default previste dalla banca                                           n.a.
+       DoD: 104 - 114
+                                                                                                                                                                                                                                 9
+
+Agenda
+       Struttura progettuale
+       • Premesse e Obiettivi
+       • Piano di Lavoro
+       • Organizzazione e Staffing
+       • Stato Avanzamento Lavori (Moduli A e B)
+       Allegati
+       • Stato Avanzamento Lavori (Moduli C, D, E)
+       • L'identificazione dei default: le nuove regole EBA
+       • Il "two-step approach" proposto da BCE
+                                                            10
+
+Annex 1: Stato Avanzamento Lavori – Modulo C                                                     Legenda:   Attività avviata      In ritardo    Da avviare    Conclusa
+                                                                                                                                                                             Elapsed
+                                                                                                                                                                                        Deliverable
+                                                                                                                                                                             follow-up
+   Modulo                     Attività              Owner                    Ottobre-Dicembre'18                             Gennaio-Marzo'19                            Aprile- Giugno'19
+                                                                       Ott.            Nov.           Dic.        Gen.              Feb.          Mar.             Apr.           Mag.            Giu.
+             Adeguamento Strumenti e Procedure
+                                                 CRO/CLO/COG
+                           informatiche
+             Adeguamento Modelli Organizzativi e
+                                                   CRO/CLO
+                             Gestionali
+              Adeguamento Processi Operativi del
+                                                   CRO/CLO
+                              Credito
+               Adeguamento Sistemi di Reporting  CRO/CLO/COG
+C. Processi
+            Attività svolte/in corso                                         Punti di attenzione                                                         Prossimi passi
+                                                     Sulla base delle FAQ ECB:
+                                                     <U+F0A7> le nuove regole EBA devono essere adottate dai processi                <U+F0A7> Identificare la deadline per l'implementazione della nuova
+                                                        creditizi una volta ricevuto il riscontro da ECB                         DoD nei processi creditizi
+                                                        sull’Application Package sottoposto entro dicembre 2018               <U+F0A7> Valutare l'eventuale ipotesi di "doppio binario" tra vista
+ -
+                                                        (a partire da fine giugno 2019)                                          regulatory (processi gestionali/creditizi e segnalazione
+                                                     <U+F0A7> le segnalazioni di vigilanza dovrebbero recepire le nuove                 COREP) e vista Bilancio/contabilità o allineamento pieno
+                                                        regole EBA contestualmente al passaggio in produzione a                  del Bilancio a vista COREP
+                                                        fini gestionali/creditizi
+                                                                                                                                                                                                     11
+
+Annex 1: Stato Avanzamento Lavori – Modulo D                                                           Legenda:        Attività avviata      In ritardo  Da avviare    Conclusa
+                                                                                                                                                                                         Elapsed
+                                                                                                                                                                                                     Deliverable
+                                                                                                                                                                                         follow-up
+   Modulo                   Attività                    Owner                   Ottobre-Dicembre'18                                     Gennaio-Marzo'19                              Aprile- Giugno'19
+                                                                          Ott.            Nov.              Dic.             Gen.              Feb.        Mar.             Apr.             Mag.              Giu.
+            Identificazione Perimetro Interventi     CRO/CLO/COG
+                 Disegno Architettura Target           CRO/COG                               Architettura target
+                          IT Checklist                 CRO/COG                              Template ECB IT infrastructure
+              Stima del Budget Complessivo IT            COG                                              Template ECB Action plan
+   D. IT  Estrazione Dati Storici per Ricalibrazione
+                                                         COG                                                                                                             Serie storiche modelli IRB
+                            Modelli
+           Calcolo del Past Due secondo le nuove
+                                                       CRO/COG
+                          regole EBA
+                  Adeguamento Sistemi IT e
+                                                     CRO/CLO/COG
+                   Implementazione Target
+          Attività svolte/in corso                                              Punti di attenzione                                                               Prossimi passi
+                                                         <U+F0A7> Valutare l'opportunità di redigere il disegno funzionale dei
+                                                            sistemi e delle architetture a supporto della default
+ -                                                                                                                                       -
+                                                            detection e della default propagation all'interno del
+                                                            Gruppo
+                                                                                                                                                                                                                  12
+
+Annex 1: Stato Avanzamento Lavori – Modulo E                                                Legenda:       Attività avviata      In ritardo      Da avviare    Conclusa
+                                                                                                                                                                           Elapsed
+                                                                                                                                                                                        Deliverable
+                                                                                                                                                                           follow-up
+   Modulo                    Attività           Owner             Luglio-Settembre '19               Ottobre-Dicembre '19                      Gennaio-Marzo'20                Aprile-Giugno'20
+                                                               Lug.       Ago.         Set.        Ott.       Nov.          Dic.           Gen.      Feb.        Mar.    Apr.        Mag.           Giu.
+               Ricalibrazione Modelli Corporate  CRO
+                  Ricalibrazione Modelli Retail  CRO
+E. Modelli
+           Attività svolte/in corso                                    Punti di attenzione                                                                Prossimi passi
+                                                 <U+F0A7> Sulla base delle FAQ ECB, lo sviluppo/calibrazione dei
+                                                                                                                            <U+F0A7> Identificare la deadline per la presentazione dell'istanza di
+                                                    modelli IRB necessita di almeno 12 mesi di dati storici di
+                                                                                                                                "material model change IRB" a BCE
+                                                    produzione con la nuova DoD a regime
+                                                                                                                                                                                                      13
+
+Annex 2: L'identificazione dei default: le nuove regole EBA
+                                                                                               Nuova Definizione di Default
+                                                      ¦ Assoluta: 100€ per Retail e 500€ per Corporate
+                                Soglie di materialità
+                                                      ¦ Relativa: tra 0% e 2,5% in base alle indicazioni delle singole National Competent Authority (i.e. Banca
+                                                        d'Italia)
+                                Conteggio dei giorni
+                                                      ¦ Il contatore dei giorni di Past Due dovrà essere attivato quando entrambe le soglie, assoluta e relativa,
+                                          di
+                                                        sono state superate simultaneamente per 90 giorni consecutivi
+          L’EBA ha emanato le         Past Due
+          Linee Guida relative
+             all’applicazione
+           dell’Articolo 178(7)                       ¦ I default tecnici dovranno essere limitati a errori relativi a dati e sistemi IT
+                                 Past Due Tecnici/
+              della CRR per       Compensazione       ¦ Non è più consentito compensare gli importi scaduti con i margini non utilizzati su ulteriori linee di credito
+          l'identificazione dei                         del debitore
+                  default
+           (EBA/GL/2016/07)
+                                Unlikely to Pay (UTP) ¦ Si identificano le fattispecie per le potenziali attivazioni di trigger di Unlikely To Pay (e.g. D0=<U+2206>NPV=1%) e
+                                                        in particolare per i casi di cessione del credito e di ristrutturazione onerosa del debito
+                                     Ritorno in       ¦ Il cure period per il ritorno ad uno stato performing non deve essere inferiore ai 3 mesi (1 anno in caso di
+                                        Bonis           ristrutturazione onerosa del credito)
+                                                                                                                                                                       14
+
+ Annex 3: Il "two-step approach" proposto da BCE
+La Banca Centrale Europea propone un approccio a 2 step (c.d. "Two-step approach") al fine di minimizzare il rischio derivante dall'utilizzo di osservazioni di default inaccurate e non allineate alla
+nuova definizione di default durante l'implementazione degli interventi volti a garantire l'allineamento con le EBA Guidelines
+                                                                                   STEP 1                                                              STEP 2
+                                                                                            SUPERVISORY REVIEW
+                                                             SELF ASSESSMENT                                                         IMPLEMENTAZIONE               APPLICATION PER
+                              Macro attività                                               (ipotizzata entro Giugno
+                                                                    (Banca)                                                              NUOVA DoD                  MODEL CHANGE
+                                                                                                     2019)
+                                                                                                                                                                          Implementazione
+                                                                  Focus degli                                                                                                 basata su
+                                                              interventi previsti                                                                                          osservazioni di
+                                                                  per il 2019                                                                                           default in linea con la
+                                                                                                                                                                             nuova DoD
+                             Definizione
+                          Definizione         di
+                                        di default
+                                                                                  ATTUALE DoD                                                           NUOVA DoD
+                          default     utilizzata
+                                 utilizzata
+                           Coinvolgimento del
+                                                                                    OFF-SITE                                                              ON-SITE
+                                Supervisor
+Il processo di implementazione della nuova definizione di default presuppone di avviare, da parte della Banca, un'attività di self assessment al fine di permettere al Supervisor di valutare il grado di
+"readiness" della Banca per la submission dell'application package
+                                                                                                                                                                                                          15
+
+

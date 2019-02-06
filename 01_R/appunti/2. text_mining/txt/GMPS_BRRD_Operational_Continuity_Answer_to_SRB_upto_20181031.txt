@@ -1,0 +1,592 @@
+                       BRRD - Resolution Plan
+                       Operational Continuity
+          Critical Services Identification, Key Staff and
+                      Processes and Financial Effort
+Siena 31st October 2018
+STRICTLY CONFIDENTIAL
+
+TABLE OF CONTENTS
+1.    PURPOSE ............................................................................................................................................................... 3
+2.    BACKGROUND ..................................................................................................................................................... 4
+3.    PHASE 1: CRITICAL SERVICES IDENTIFICATION ..................................................................................... 5
+a. Critical Functions and Service Agreements Recognition & Matching ....................................................................... 5
+b. Critical Services Identification ................................................................................................................................. 6
+4.    PHASE 2: KEY OPERATIONAL STAFF AND PROCESSES IDENTIFICATION ...................................... 8
+a.    Critical Functions and Processes Recognition & Matching .................................................................................. 8
+b.    Key Staff identification ....................................................................................................................................... 8
+5.    PHASE 3: FINANCIAL EFFORT ASSESSMENT ........................................................................................... 11
+6.    PHASE 4: RETENTION POLICY RECOGNITION ........................................................................................ 14
+STRICTLY CONFIDENTIAL                                                                                                                                                         2
+
+1. Purpose
+The purpose of this document is to illustrate the methodological approach adopted by the Monte dei Paschi
+di Siena Group for the identification of the “Critical Services” (Working Priorities A.3 point (i), (ii)) and to
+provide additional details on the Group Working Technical Notes sent to the Regulator on April 2018, as
+required by the SRB in the topic of Operational Continuity (Workshop 3rd july 2018 - Chapter 4.2 of WTN -
+Question (a), (b)).
+STRICTLY CONFIDENTIAL                                                                                          3
+
+2. Background
+On July the 3rd 2018 the SRB organized a Workshop on 2018 Resolution planning cycle requiring additional
+details on the Working Technical Notes sent to the Regulator on April 2018.
+Related to Operational Continuity, the Resolution Autority requests were::
+     a. Do you have an update on the identification of your key operational staff and processes supporting
+         retention of key employees/structures for the continuity of critical services and provide an indicative
+         timeline for the identification?
+     b. Could give a deeper insight on the assessment of financial resources needed to support continuity or
+         mitigate critical service disruption?
+Concerning these questions, the Group carried out an analysis following the phases below:
+     1. Identification of the Critical Services in order to guarantee the operational continuity in case of
+         Resolution;
+     2. Identification of the key operational staff & processes aimed to guarantee the above mentioned
+         operational continuity in case of Resolution;
+     3. Assessment of the financial effort aimed to guarantee the operational continuity of the critical
+         services and key staff in case of Resolution;
+     4. Recognition of the processes in place by the Group, in order to guarantee the retention of the key
+         staff in case of Resolution.
+STRICTLY CONFIDENTIAL                                                                                          4
+
+3. Phase 1: Critical Services Identification
+The approach defined by the Group for the identification of Critical Services is developed in the subsequent
+phases:
+   a. Critical Functions and Service Agreements Recognition & Matching
+   In order to carry out a recognition and matching between Critical Functions and Service Agreements, the
+   Group has defined the following three main steps:
+           1. Firstly are acknowledged the identified Critical Functions for each legal entity and
+               at the level of Banking Group in accordance with Recovery Plan and Critical
+               Funtion Report (sent to the SRB on 30 April 2018).
+               The Critical Function defined by the MPS Group are:
+               - Deposits: all Sub-functions (for Banca Monte dei Paschi only);
+               - Lending: all Sub-functions (for Banca Monte dei Paschi only);
+               - Payment, Cash, Settlement,Clearing, Custody (for Banca Monte dei Paschi
+                    only):
+                            Sub-functions:
+                        o Payment services to non-MFIs;
+                        o Cash services;
+                        o Securities settlement services;
+                        o Custody services.
+               -    Capital Markets (for MPS Capital Services only):
+                        o Secondary markets/trading HFT (only for MPSCS).
+           2. Mapping all the Service Agreements shared and external to the Group.
+           3. The matching between Critical Functions and Service Agreements is conducted
+               according to the following rationales:
+                    a. Matching the shared or external Service Agreements provided by a Legal
+                        Entity that provides a Critical Function;
+                    b. Matching the shared or external Service Agreements received from a
+                        Legal Entity that provides a Critical Function;
+                    c. Matching the shared or external Service Agreements that regulate a
+                        service strictly related to a Critical Function, even if it’s provided by a
+                        Legal Entity that does not provide a Critical Function (e.g. External Service
+                        Agreement between Telecom SPA and COG).
+STRICTLY CONFIDENTIAL                                                                                      5
+
+   b. Critical Services Identification
+   The mentioned criteria could be integrated following a judgment analysis by an expert aimed at
+   considering further aspects such as, for example, the volume of transactions and the level of
+   substitutability.
+   The identification of Critical Services can be summarized in the following diagram:
+   The following table reports for each Critical Service identified (outsourced or not) the contractual source,
+   the service provider, the final customer and the related Critical Function.
+           Critical Service               Provider   Outsourced/Shared       Customer          Critical Function
+ Contratto per la fornitura di servizi IT    COG           Shared             GBMPS                    All
+                                                                                                 Payment, cash,
+                                                                               BMPS           settlement, clearing,
+  Master Service Agreement Fruendo                       Outsourced                                  custody
+                                           Fruendo
+                                                                               BMPS                 Deposits
+                                                                                                 Payment, cash,
+      Master Service Agreement                                                 BMPS           settlement, clearing,
+                                                         Outsourced                                  custody
+              Accenture
+                                          Accenture
+                                                                               BMPS                 Deposits
+STRICTLY CONFIDENTIAL                                                                                               6
+
+             Critical Service              Provider     Outsourced/Shared           Customer             Critical Function
+                                                                                                           Payment, cash,
+     Trasporto e Contazione Valori                          Outsourced                BMPS              settlement, clearing,
+                                           B.T.V. SPA
+                                                                                                               custody
+                                                                                                           Payment, cash,
+                                                                                      BMPS              settlement, clearing,
+    Gestione ATM per il Gruppo MPS                          Outsourced                                         custody
+                                         Bassilichi SPA
+                                                                                      BMPS                     Deposits
+                                                                                                           Payment, cash,
+   Prestazione di servizi di gestione di
+                                            NEXI SPA        Outsourced                BMPS              settlement, clearing,
+           carte di pagamento
+                                                                                                               custody
+  Servizio in outsourcing di Corporate
+                                         Bassilichi SPA     Outsourced                 COG                        All
+       Banking Interbancario (CBI)
+                                                                                                           Payment, cash,
+                                                                                      BMPS              settlement, clearing,
+ Assistenza Internet Banking e Mobile                                                                          custody
+                                                            Outsourced
+                  Banking                Bassilichi SPA                               BMPS                     Deposits
+                                                                                      BMPS                     Lending
+    Servizi di Help Desk Tecnologico     Telecom SPA        Outsourced                 COG                        All
+              Contratto 7X24               DCPS SRL         Outsourced                 COG                        All
+                                                                                                           Payment, cash,
+                                                                                      BMPS              settlement, clearing,
+    Accordo quadro per l'assistenza                                                                            custody
+                                                            Outsourced
+            credito al consumo           B.Services SRL                               BMPS                     Deposits
+                                                                                      BMPS                     Lending
+                                                                                                           Payment, cash,
+  Conservazione digitale immage degli                                                 BMPS              settlement, clearing,
+                                          INTESA SPA        Outsourced                                         custody
+                   assegni
+                                                                                      BMPS                     Deposits
+                                                                                                          Capital Markets -
+    Contratto per l'esternalizzazione
+                                             BMPS              Shared                BMPSCS                   Secondary
+     della forntura di servizi MPSCS
+                                                                                                          markets/trading
+    Contratto per l'esternalizzazione                                                                     Capital Markets -
+    della fornitura di servizi operativi     MPSCS             Shared                 BMPS                    Secondary
+       finanziari e di investimento                                                                       markets/trading
+    Application Service Providing per                                                                     Capital Markets -
+      sistema di internalizzazione          LIST SPA        Outsourced                MPSCS                   Secondary
+              sistemica (DDT)                                                                             markets/trading
+Source: Internal elaboration
+    Furthermore, in addition to the methods for identifying the Critical Services illustrated above, it is necessary to
+    include access to the FMIs within the scope of the operational continuity. The list of Critical FMIs and related fees is
+    provided at Chapter 5.b. Therefore, for further details about the Critical FMIs’s identification methodology
+    developed by the Group, please refer to “GMPS_BRRD_FMI_Methodological_Note_20181031”.
+STRICTLY CONFIDENTIAL                                                                                                         7
+
+4. Phase 2: Key Operational staff and Processes identification
+   The Group has complied with this request in accordance with the following phases:
+       a. Critical Functions and Processes Recognition & Matching
+       The analysis is developed in the following main steps:
+       1.     The Critical Function Recognition follows the same approach described in Par. 1.a.
+       2.     BCM potential critical Processes and Sub-Processes identification and matching with
+              Critical Functions.
+       3.     Non-BCM potential critical Processes identification and matching with Critical Functions.
+       4.     Identification of BCM and Non-BCM Critical Procesess in the perspective of Resolution
+              pourposes.
+       b. Key Staff identification
+       The Group, if available, has identified the key operational staff for each Critical Process/Sub-
+       Process.
+   The following table provides Processes, Sub-processes and the quantification of key staff identified.
+     BCM                                                                                                   Critical
+                                  Processes                           Sub-Processes             Key staff
+   (In/Out)                                                                                               Function
+                                                          Incident Management                     118        All
+                                Erogazione ICT
+                                                          Configuration Management                  4        All
+                                                                                                          Payment,
+                                                          Presidio canale Web e mobile banking      1
+                                                                                                           Lending
+                                                                                                          Payment,
+                      Canali di contatto con la clientela Presidio canali ATM e Self Banking        1
+                                                                                                           Lending
+                                                          Presidio Canali di Internet Corporate
+    BCM In                                                                                          1        All
+                                                          Banking (ICB)
+                                                          IT Service Continuity                    38        All
+                     Business Continuity Management
+                                                          Gestione della Crisi                      2        All
+                                                          Gestione dei processi operativi di
+                            Sicurezza e Ambiente                                                   11        All
+                                                          sicurezza logica
+                                                                                                          Payment,
+                                                          Gestione conto corrente                   2
+                                                                                                           Deposit
+                                Servizi Bancari
+                                                                                                          Payment,
+                                                          Gestione assegni                          1
+                                                                                                           Deposit
+STRICTLY CONFIDENTIAL                                                                                               8
+
+      BCM                                                                                                                            Critical
+                                         Processes                                       Sub-Processes               Key staff
+    (In/Out)                                                                                                                       Function
+                                                                            Gestione ATM                                  4         Payment
+                                                                                                                                    Payment,
+                                                                            Gestione Bonifici Estero                      2
+                                                                                                                                     Deposit
+                                                                            Gestione altri servizi di incasso e                     Payment,
+                                                                            pagamento                                                Deposit
+                                                                                                                                    Payment,
+                                    Incassi e Pagamenti                     Gestione Bonifici
+                                                                                                                                     Deposit
+                                                                                                                                    Payment,
+                                                                            Gestione Incassi Documenti                    1
+                                                                                                                                     Deposit
+                                                                                                                                    Payment,
+                                                                            Gestione pensioni
+                                                                                                                                     Deposit
+                                                                                                                                    Payment,
+                                                                            Incasso tributi (F24)
+                                                                                                                                     Deposit
+                                Logistica e servizi ausiliari               Gestione filiera del contante                 5         Payment
+                                                                                                                                    Lending,
+                                  Rapporto con il cliente                   Presidio rapporto con il cliente             27         Payment,
+                                                                                                                                     Deposit
+                                                                            Funding dei titoli presenti nei
+                                                                                                                          3
+                                                                            portafogli della Proprietà
+                                                                            Gestione delle disponibilità liquide e              Capital Markets
+                    Gestione in accentrato della Liquidità Operativa                                                      7
+                                                                            provvista in euro e in divisa                         - Secondary
+                                          di Gruppo
+                                                                            Rifinanziamento con la BCE                    3     markets/trading
+                                                                            Monitoraggio Maturity Ladder Bankit           2
+                                                                            Gestione amministrativa e contabile
+                                                                                                                         10     Capital Markets
+                                                                            strumenti finanziari
+                                           FInanza                                                                                - Secondary
+                                                                            Gestione Ordini su strumenti finanziari
+                                                                                                                          7     markets/trading
+                                                                            c/Proprietà
+                                                                            Gestione dei flussi di liquidità              6
+                     Gestione integrazione, validazione e controllo         Gestione dei Master Agreement e dei                 Capital Markets
+                      relative ai contratti su Strumenti Finanziari -                                                     3       - Secondary
+                                                                            collaterali ad esso connesso
+                                        Post Trading                        Gestione Adempimenti Portafogli di                  markets/trading
+                                                                                                                         14
+                                                                            Proprietà
+                                                                                                                                Capital Markets
+                         Gestione Ordini su strumenti finanziari
+                                                                            Negoziazione ordini c/Proprietà              31       - Secondary
+                                         c/Proprietà
+                                                                                                                                markets/trading
+                                                                            Gestione operativa e contabile                      Capital Markets
+                       Gestione, trasmissione ed esecuzione degli
+                                                                            dell'internalizzatore sistematico di          3       - Secondary
+                                     ordini alla clientela
+                                                                            Gruppo (DDT)                                        markets/trading
+                               Definizione indirizzi e metodologie in ambito di Connected Borrowers
+                                        Definizione indirizzi e metodologie in materia di credito
+                                Valutazione connessioni e qualità delle controparti (Rating e Gruppi)
+                                                     Cessione Crediti Non Performing                                   Lending
+                                                                                                                     Processes
+                                                   Gestione del credito post-erogazione                             affect more
+    BCM Out                                                                                                                         Lending1
+                                                    Gestione e monitoraggio del credito                               than one
+                                                                                                                       banking
+                                                  Cessione Crediti Non Performing (UTP)                              structures
+                                  Definizione, trasmissione e monitoraggio delle politiche creditizie
+                                Valutazione connessioni e qualità delle controparti (Rating e Gruppi)
+                                       Concessione del credito a Banche e Istituzioni Finanziarie
+1
+  Processes linked to Lending Critical Function only are not regulated by a Service Agreement.
+STRICTLY CONFIDENTIAL                                                                                                                           9
+
+     BCM                                                                                                            Critical
+                                    Processes                                     Sub-Processes          Key staff
+   (In/Out)                                                                                                        Function
+                                     Concessione del credito da parte delle Filiali Estere
+                                             Concessione e revisione del credito
+                            Definizione indirizzi e metodologie in materia di crediti a sofferenza
+                            Definizione indirizzi e metodologie in materia di crediti problematici
+                      Determinazione e monitoraggio del valore degli immobili ai fini della Credit Risk
+                                                          Mitigation
+                                                Gestione Accettazioni bancarie
+                                                  Gestione altri finanziamenti
+                                                       Gestione anticipi
+                                                Gestione Crediti a Contenzioso
+                                                    Gestione Crediti Agrari
+                         Gestione credito su pegno valori materiali (c.d. Monte di credito su pegno)
+                      Gestione delle posizioni classificate a Inadempienza Probabile Rischio Anomalo
+                    Gestione e monitoraggio operativo del credito Filiali Estere (Correspondent Banking)
+                                Gestione finanziamenti a MLT 'SACE - Credit Enhancement'
+                        Gestione finanziamenti con funding Banca e/o di terzi (es: fondi CDP/BEI...)
+                                                 Gestione Garanzie Ipotecarie
+                                          Gestione Garanzie Ipotecarie Immobiliari
+                                              Gestione Garanzie non Ipotecarie
+                                              Gestione garanzie per conto terzi
+                                     Gestione massiva crediti problematici - contenzioso
+                                                        Gestione Mutui
+                                     Gestione operazioni di Ristrutturazione Finanziaria
+                              Gestione passaggi di stato classificativo delle posizioni creditizie
+                                       Gestione prodotti di finanziamento al consumo
+                                          Gestione Recupero Crediti a Contenzioso
+                                         Gestione Sconto Effetti e Crediti sull'estero
+                                     Gestione scoperti/sconfinamenti: Istruttoria Veloce
+                                                      Passaggio a perdite
+                                               Passaggio Crediti a Contenzioso
+                                     Presidio gestione documentale in ambito creditizio
+                     Presidio Performance Recupero e Interfaccia piattaforma recupero esternalizzata
+Source: Internal elaboration
+STRICTLY CONFIDENTIAL                                                                                                        10
+
+5. Phase 3: Financial Effort Assessment
+The Group carried out an assessment on the financial resources needed to support continuity or mitigate
+critical service disruption considering:
+     a) The Fees of the Service Agreements identified as critical;
+     b) The Critical FMIs’ Fees;
+     c) An indicative amount of the Key staff’s salary;
+           a. Critical Service Agreements Fees:
+                                    Critical Service
+                                                                             Fees2                     Critical Function
+                                      Agreement
+                             Contratto per la fornitura di
+                                                                        € 320.000.000                          All
+                                         servizi IT
+                                                                                                  Payment, cash, settlement,
+                             Master Service Agreement
+                                                                         € 55.088.218                   clearing, custody
+                                         Fruendo
+                                                                                                            Deposits
+                                                                                                  Payment, cash, settlement,
+                             Master Service Agreement
+                                                                         € 39.361.923                   clearing, custody
+                                        Accenture
+                                                                                                            Deposits
+                               Trasporto e Contazione                                             Payment, cash, settlement,
+                                                                         € 17.500.000
+                                           Valori                                                       clearing, custody
+                                                                                                  Payment, cash, settlement,
+                             Gestione ATM per il Gruppo
+                                                                         € 13.000.000                   clearing, custody
+                                           MPS
+                                                                                                            Deposits
+                               Prestazione di servizi di
+                                                                                                  Payment, cash, settlement,
+                                   gestione di carte di
+                                                                         € 11.600.000                   clearing, custody
+                                       pagamento
+                              Servizio in outsourcing di
+                                   Corporate Banking                      € 5.400.000
+                                                                                                               All
+                                   Interbancario (CBI)
+                                                                                                  Payment, cash, settlement,
+                             Assistenza Internet Banking                                                clearing, custody
+                                    e Mobile Banking                      € 1.370.000                       Deposits
+                                                                                                             Lending
+                                   Servizi di Help Desk
+                                                                          € 1.140.000                          All
+                                       Tecnologico
+                                     Contratto 7X24                       € 1.050.000                          All
+                                                                                                  Payment, cash, settlement,
+                                  Accordo quadro per                                                    clearing, custody
+                                 l'assistenza credito al                                                    Deposits
+                                        consumo                            € 700.000
+                                                                                                             Lending
+                                                                                                  Payment, cash, settlement,
+                                Conservazione digitale
+                                                                           € 107.000                    clearing, custody
+                                 immage degli assegni
+                                                                                                            Deposits
+                                      Contratto per
+                                                                                                  Capital Markets - Secondary
+                               l'esternalizzazione della                  € 2.900.000
+                                                                                                        markets/trading
+                              forntura di servizi MPSCS
+2
+  The reported financial effort refers to the contract in its entirety, not to each individual process or sub-process.
+STRICTLY CONFIDENTIAL                                                                                                         11
+
+                                    Critical Service
+                                                                            Fees2           Critical Function
+                                      Agreement
+                                      Contratto per
+                                l'esternalizzazione della                               Capital Markets - Secondary
+                                                                          € 800.000
+                             fornitura di servizi operativi                                   markets/trading
+                             finanziari e di investimento
+                                   Application Service
+                                Providing per sistema di                                Capital Markets - Secondary
+                                                                          € 560.000
+                              internalizzazione sistemica                                     markets/trading
+                                          (DDT)
+                                                                        € 470.577.141
+                                                      Total
+                           Source: Internal elaboration
+           b. Critical FMIs’ Fees:
+                FMIs Type/System                            FMIs Designation                                Fees
+                                                                  EBA/STEP2                             € 564.103,65
+                                                                                             Fees are debited directly on cash
+                                                                    BI comp
+                                                                                                           account.
+                   Payment System
+                                                                                             Fees are debited directly on cash
+                                                                   TARGET 2
+                                                                                                           account.
+                                                                  EBA euro 1                            € 210.449,31
+                                                                 Clearstream                           € 1.196.830,35
+                     CSDs and SSS                                Monte Titoli                          € 1.284.063,06
+                                                             Target 2 Securities                        € 194.567,00
+                                                      Cassa Compensazione e Garanzia                   € 1.734.798,96
+                        Central
+                                                              LCH.Clearnet Ltd                         € 1.181.255,01
+                Counterparties (CCPs)
+                                                            Ice Clear Europe Ltd                         € 41.229,91
+                  Trade repositories
+                                                        None Critical FMI for TRs type                        NA
+                         (TRs)
+                                                         MTS Italy (cash & repo) - MR                  € 2.135.151,93
+                                                                                             Fees are included in those paid to
+                                                                  MTA – MR
+                                                                                                       Borsa Italiana.
+                                                                                             Fees are included in those paid to
+                                                            MOT/EuroMOT – MR
+                                                                                                       Borsa Italiana.
+                    Trading venues                             EuroTLX – MTF                            € 373.939,20
+                                                                 Aste ECB (€)                           No fees paid
+                                                              Bloomberg – MTF                          € 199.878,713
+                                                                                             Fees are included in those paid to
+                                                                ETF-Plus – MR
+                                                                                                       Borsa Italiana.
+3
+  The reported fee is paid by MPSCS only. MTF Charges started on January 2018 for BMPS.
+STRICTLY CONFIDENTIAL                                                                                                           12
+
+                 FMIs Type/System                       FMIs Designation                                    Fees
+                                                                                           NA: fees are applied to the prices of
+                                         NYSE Euronext Cash (Paris, Bruxelles, Amsterdam)   the trades, depending on volumes
+                                                                                                     and underlying.
+                                                                                            Fees are included in those paid to
+                                                       SEDEX (Borsa Italiana)
+                                                                                                      Borsa Italiana.
+                                                    Borsa Italiana Equity – MTF                       € 1.006.300,39
+                                                                                            Fees are included in those paid to
+                                                          AIM-MAC – MTF
+                                                                                                      Borsa Italiana.
+                                                                                            Fees are included in those paid to
+                                                             IDEM – MR
+                                                                                                      Borsa Italiana.
+                                                                                            Fees are included in those paid to
+                                                              MIV – MR
+                                                                                                       Borsa Italiana
+                                                           EuroMTS – MTF                                € 50.100,00
+                                                          Tradeweb – MTF                               € 945.718,01
+                                                                                               NA: New trading venue, not
+                                                    BGC Brokers LP - OTF_BGCO
+                                                                                               relevant at december 2017.
+                                                                                               NA: New trading venue, not
+                                                      ICAP WCLK - MTF_IMRD
+                                                                                               relevant at december 2017
+                                                   Merrill Lynch International Ltd                      € 3.230.000
+                    Intermediaries
+                                                     Goldman Sachs Group, Inc.                               NA
+                                                               Citibank                                € 646.757,75
+                         Other
+                                          Systematic Internaliser De@l Done Trading (DDT)                € 6.100,00
+                                                                                     Total           € 15.001.243,24
+               Source: Internal elaboration
+            c. Indicative amount of the Key staff’s salary
+                  Referring to BCM processes, the professional category of the Key Staff belongs to “Middle
+                  Managers” and “Professional Areas”. The average fixed remuneration level of the Group for the
+                  categories above mentioned amounts to € 44.6654.
+4
+  Cfr. “Group Remuneration report 2018” ( https://www.gruppomps.it/static/upload/201/2018-remuneration-report-sito1.pdf ).
+STRICTLY CONFIDENTIAL                                                                                                            13
+
+6. Phase 4: Retention Policy Recognition
+This Chapter provides an overview of the staff remuneration policies defined by the Group during the 2018
+considering a going concern scenario.
+The implementation of staff remuneration policies, approved by the Shareholders’ Meeting, is the
+responsibility of the Parent Company’s Board of Directors, with the option to sub-delegate specific matters
+to the Chief Executive Officer (in accordance with the Articles of Association and the laws and regulations in
+force).
+The decisions of theBoard of Directors and of the Chief Executive Officer in implementing the guidelines
+approved by the Shareholders’ Meeting, always based on the rationale of equity and economic sustainability,
+pursue the following objectives:
+     -    attract and retain highly professional staff;
+     -    motivate and support the professional growth of all employees, with a special focus onpersonnel
+          who hold positions of responsibility, with strategic skills or a high level of potential;
+     -    ensure coherence between the compensation structure and the value of professional competence,
+          differentiating between the nature and strategic “importance” of roles, as well as the priority for
+          high business impact positions;
+     -    differentiate remuneration according to principles of internal consistency, while attempting to
+          preserve the values of corporate cohesion and togetherness, which are also the cornerstone of the
+          sense of belonging that characterises Group employees.
+In their maximum extent, the remuneration structures consist of a fixed component (as structured and
+defined by the EBA Guidelines on sound remuneration policies, the “EBA Guidelines”5) and a variable
+component, which may be linked to performance (of the Group, or the individual reference unit), or to other
+parameters (such as length of service) or it may refer to compensation for the early termination of the
+employment or office. The combination of the fixed and variable components (the “pay mix”) is defined for
+each subcategory, in compliance with the relevant provisions, in order to discourage behaviour oriented
+towards an excessive undertaking of risks. For all employees and the Identified Staff of the Group, the
+maximum impact of the variable component on the fixed component is determined ex-ante.[…]
+Without going into the details of the logic used for the definition of fixed and variable remuneration, below
+are shown the main instruments that are considered relevant also in terms of retention.
+[…]As part of the fixed remuneration component, the Group envisages for its employees, various
+interventions that effectively increase its remunerative offer under a structural profile, raising motivation
+and reinforcing Group identity. More specifically, within the framework of specific joint commissions, new
+welfare solutions are defined, also on an experimental basis and in any case with a view to overall
+sustainability (e.g. MP Solidale, Lavoro Agile) while consolidated support instruments - as defined from time
+5
+  EBA Guidelines of 27/6/2016; see especially paragraph no. 117, which defines under which conditions a remuneration can be considered as fixed.
+STRICTLY CONFIDENTIAL                                                                                                                         14
+
+to time with the trade unions and approved by the Board of Directors - are confirmed, including those
+intended for all employees in general, such as:
+     -   a company contribution to Complementary Pension Fund for all employees, which currently stands
+         at 2.5%, calculated for a transitional period from 1/1/2016 to 31/12/2018, based on solidarity
+         measures, on 77% of the items set forth in the CCNL (National Collective Labour Agreement),
+         excluding the thirteenth month’s pay;
+     -   the Accident Policy and Health Coverage, the latter not only for employees in service, but also for
+         former employees currently in the Solidarity Fund and retired, including their dependants;
+     -   luncheon vouchers, for professional areas, middle management and managers without a
+         “personalised” contract;
+     -   special conditions for banking transactions (savings, loans, other banking services);
+     and others granted on an individual basis, such as:
+     -   the provision of sublet accommodation for personal and family use in the event of transfer upon the
+         company’s decision, or, alternatively, a commuting allowance;
+     -   a company car for private and business use, with expenses charged to the Bank, for Managers with
+         “personalised” contracts, unit managers (benefit granted on a discretionary and revocable basis),
+         highly relevant roles in the organisation or for other positions with high mobility requirements;
+     -   insurance coverage, including permanent disability from illness and death from illness, for
+         managers.[…]
+[…]Within the scope of variable instruments, those with a close link with the Group's and unit’s performance
+are largely prevalent in terms of bonus pool and size of the population concerned (to the extent of their
+possible activation); they provide for:
+     -   objectives that generate a specific link between sustainability, risk and remuneration;
+     -   formalized and transparent activation and delivery conditions;
+     -   ex-ante identification of the bonus pool;
+     -   predefined individual target bonuses (by role or aggregated role).
+Their possible application is decided each year on the basis of various factors (surrounding conditions,
+available resources, etc.) and justified by the Board of Directors in charge of authorising them. The instrument
+adopted by the Bank for employees in the Professional Areas and for middle managers is the Variable
+Performance-related Bonus (the “PVR”), envisaged by art. 52 of the National Collective Labour Agreement
+19/1/2012 (as renewed by the 31/03/2015 Agreement); introduced within the Group through second level
+negotiations at the end of 2015, this instrument pursues greater employee involvement and participation
+targeted to increased operating efficiency and company productivity/competitiveness. In compliance with
+the supervisory provisions, the PVR will have a variable nature and will be strictly correlated to company
+results, in terms of liquidity and capital, productivity, profitability and quality, rigorously in keeping with the
+objectives established in the Business Plan.
+The incentive instrument for managers that the Group has conceived to support the sharing of the system of
+objectives assigned to the Group's operating resources and to focus attention on strategic objectives is the
+MBO (“Management by Objectives”). The tool, to date never implemented, is built based on the
+organizational weight of the roles of responsibility, attributed according to the cited Global Grading System
+method. The criteria for accessing the dedicated bonus pool (“gate”) and the performance indicators to be
+assigned to managers through scorecards (consistent with those assigned to operating personnel in relation
+STRICTLY CONFIDENTIAL                                                                                            15
+
+to the PVR), stem from the risk appetite policies (RAF) and are consistent with the overall company operating
+performance and with the strategic planning objectives. Finally, as is the case for the PVR and in compliance
+with the Supervisory Provisions, the final bonus of each individual is determined based on the achievement
+of the Group’s objectives ("Gate") and reference unit’s objectives and on the individual contribution.[…]
+[…]The range of instruments finally include:
+     -   Contests, levers of limited cost and small individual amounts that are effective in supporting business
+         activities, also from the point of view of customer acquisition/retention given that they incentivise
+         commercial and productivity initiatives in the operating units, in line with customers’ financial
+         requirements;
+     -   limited payments of a one-off amount to individuals deemed particularly deserving, boosting
+         motivation and engagement; the specific payment, of a small amount, is approved by the Board of
+         Directors and made available to the Chief Executive Officer.
+In some cases, Entry Bonuses can be granted upon hiring, which are sometimes paid for retention purposes,
+with partially deferred payment (for greater protection of the company interests).
+Finally, for the management of critical situations, the above components can be increased, for a limited
+number of business figures, by other components related to time with the company or role performance
+(e.g. non-competition agreements and similar instruments).[…]
+The variable management instruments - contests, one-off amounts, entry bonuses to be paid on an
+exceptional basis upon hiring, non-competition agreements for specific business figures following their entry
+into the role, other components related to time with the company (such as retention bonuses or stability
+agreements) and lastly any severance pay to be recognised in the case of early termination of the
+employment relationship - shall be implemented within the scope of the variable remuneration resources
+provided for in the 2018 personnel cost budget.
+The disbursement of such instruments, also to support structural personnel cost savings, takes place on the
+basis of a pre-established and well documented decision-making process and in line with the regulatory
+framework in force and taking into account any instructions that may be received from the competent
+authorities.
+For any further details please refer to the Group’s remuneration policies “Group Remuneration report 2018”
+( https://www.gruppomps.it/static/upload/201/2018-remuneration-report-sito1.pdf ).
+STRICTLY CONFIDENTIAL                                                                                         16
+

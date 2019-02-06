@@ -1,0 +1,160 @@
+Evoluzione Modelli AIRB
+  Evidenze Analisi di Convalida
+                      Direzione Chief Risk Officer
+             Servizio Validazione Sistemi di Rischio
+                                      Agosto, 2018
+
+Executive summary
+La Funzione di Convalida ha predisposto specifiche analisi sui diversi ambiti oggetto di aggiornamento e revisione inerenti i modelli AIRB, le cui evidenze sono confluite in
+specifiche Verifiche di Convalida relative a:
+      o ricalibrazione modelli di PD andamentali e pool
+      o ricalibrazione modelli di PD di erogazione Retail
+      o ristima modelli di LGD.
+Tali verifiche, in caso di autorizzazione da parte del Comitato Gestione Rischi, costituiranno parte integrante della documentazione relativa alla «notifica ex ante» da inviare
+all’Autorità di Vigilanza.
+L’esito delle analisi svolte non ha evidenziato criticità di rilievo; a livello complessivo le stime calcolate sulla base dei nuovi parametri di PD e LGD predisposti dalla
+Struttura di sviluppo risultano sostanzialmente allineate con la rischiosità storicamente osservata, così come riepilogato nelle slide seguenti.
+La scrivente Funzione esprime pertanto nulla osta alla predisposizione della notifica ex-ante all’Autorità di Vigilanza al fine di utilizzare i nuovi parametri nei processi
+del Gruppo.
+Data la stretta correlazione tra i diversi interventi effettuati dalla Struttura di sviluppo, si evidenzia la necessità di implementare in produzione gli stessi in maniera
+contestuale, in particolare con riferimento alla ricalibrazione e all’introduzione delle nuove soglie di PD sui forborne.
+Rileva inoltre che, a seguito degli interventi posti in essere da parte della Struttura di sviluppo, possono ritenersi mitigati i seguenti finding emersi nelle recenti ispezioni
+BCE sui modelli AIRB:
+      o finding #8 (Obligation #5) ispezione IMI-2015-ITMPS-40 (trattamento delle moratorie)
+      o finding #9 (Obligation #6) ispezione IMI-2015-ITMPS-40 (calcolo degli anchor point come media semplice dei TD annuali, già risolto nella calibrazione 2016)
+      o finding #12 (Obligation #9) ispezione IMI-2015-ITMPS-40 (allocazione spese indirette nel calcolo della LGD sofferenza)
+      o finding #7 ispezione TRIM-2017-ITMPS-2939 (definizione di default utilizzata per i modelli di erogazione Retail)
+      o finding #9 ispezione TRIM-2017-ITMPS-2939 (likely range of variability dei tassi di default osservati)
+A seguito dell’aggiornamento delle serie storiche utilizzate per la ricalibrazione dei modelli di PD e per la stima dei modelli di LGD sono, inoltre, stati chiusi i due GAP di
+Convalida (CV_2018_00004 e CV_2018_00003) censiti relativamente a tali aspetti nel primo semestre dell’anno.
+                                                                                                                                                                                2
+
+Focus su Ricalibrazione modelli di PD andamentali e pool (1/2)
+La Funzione di Convalida ha valutato positivamente le novità introdotte rispetto alla calibrazione precedente:
+       o l’aggiornamento delle serie storiche al 31 Dicembre 2017 è coerente con quanto previsto dall’art. 179.1(c) della CRR e risponde anche a quanto richiesto con il
+             GAP di convalida CV_2018_00004;
+       o l’estensione a 10 anni dell’orizzonte temporale considerato assicura l’inclusione nella serie storica utilizzata di un adeguato range di variabilità dei tassi di default
+             osservati (finding #9 TRIM), assicurando al tempo stesso un adeguato mix di anni di espansione e recessione del PIL italiano;
+       o l’introduzione di specifiche soglie di PD da applicare alle controparti in forborne comporta l’eliminazione del trattamento delle moratorie precedentemente in
+             essere che determinava l’esclusione dai database di calibrazione delle controparti per cui il periodo di osservazione era ritenuto non sufficiente per la
+             classificazione in bonis/default (finding #8 IMI).
+I nuovi anchor point risultano mediamente in calo rispetto a quelli attualmente in produzione ma tale riduzione va comunque valutata tenendo in considerazione le nuova
+soglia minima di PD prevista per le controparti in forborne che, in applicazione, comporterà un peggioramento della PD statistica assegnata alle controparti beneficiarie di
+misure di forbearance.
+La Funzione di Convalida ha replicato il calcolo degli AP e delle soglie di PD per i forborne sui diversi modelli e pool analizzati senza riscontrare incoerenze rispetto a
+quanto comunicato dalla Struttura di sviluppo.
+E’ stata inoltre simulata l’applicazione dei nuovi parametri di calibrazione sul portafoglio di backtesting Giugno 2017 – Giugno 2018:
+                                    Calibrazione 2016                  Calibrazione 2018
+       Modelli          TD                                                                PD     PD/TD
+                                AP         PD        PD/TD   AP    PD        PD/TD
+                                                                                       forborne forborne
+ Large Corporate      1,25%     1,48%      1,00%       80,4% 1,52% 1,09%      87,4%       1,09%    87,4% Il rapporto PD/TD risulta superiore all’80% per tutti i modelli tranne che sul
+ Corporate            2,07%     2,81%      1,69%       81,5% 2,51% 1,62%      78,3%       1,62%    78,3% portafoglio Corporate per il quale è lievemente inferiore: trattandosi di un
+ PMI                  1,96%     4,63%      2,06%      105,3% 3,83% 1,79%      91,1%       1,90%    97,0% low default portfolio (9 default osservati) non si ritengono necessari
+ Small PMI            2,74%     5,59%      2,79%      101,8% 4,77% 2,46%      89,7%       2,68%    98,0% interventi immediati tenuto conto anche del trend discendente del TD.
+ Pluriennale          6,09%     9,77%      5,87%       96,4% 8,52% 5,28%      86,8%       5,87%    96,4%
+ Small Business       4,17%     6,71%      4,14%       99,3% 5,95% 3,76%      90,0%       4,21%   101,0%
+                                                                                                         Il rapporto PD/TD dei diversi modelli verrà monitorato semestralmente.
+ DIN                  3,45%     6,14%      3,54%      102,4% 5,61% 3,32%      96,2%       3,71%   107,4%
+ SDP                  3,19%     5,58%      3,40%      106,8% 5,06% 3,21%     100,6%       3,61%   113,3%
+ COI                  0,92%     1,59%      1,41%      153,9% 1,38% 1,04%     113,4%       1,31%   142,5%
+ SPF                  1,18%     1,87%      1,65%      139,3% 1,76% 1,32%     111,4%       1,50%   126,6%
+                                                                                                                                                                                      3
+
+Focus su Ricalibrazione modelli di PD andamentali e pool (2/2)
+La metodologia di calibrazione dei pool segue gli stessi principi illustrati in precedenza con riferimento ai modelli andamentali, recependo le medesime novità, con la
+differenza che, nel caso dei pool, il tasso di default osservato sul periodo di calibrazione (l’anchor point) viene direttamente mappato sulla Master Scale.
+Le analisi di backtesting svolte sui pool evidenziano come il rapporto PD/TD risulti in 4 casi inferiore alla soglia definita dell’80%; rileva a tal proposito che per 2 di tali pool
+è già prevista l’assegnazione del rating E3 (PD= 45%). Dei rimanenti, il primo (rating E2) presenta un rapporto PD/TD prossimo alla soglia mentre il secondo non è
+significativo né per teste né per esposizioni (circa 4 €mln).
+Rileva infine che, come da attese, l’impatto delle soglie PD sui forborne determinano un impatto marginale sulla PD delle controparti valutate con logiche di pool.
+Pool Retail
+                                              Anagrafica Pool                                                                        Backtesting
+        Pool         Accordato     Giorni sconfino          Utilizzo      Teste  Esposizioni (€mln)     PD               TD            PD/TD         PD forborne   PD/TD forborne
+ 1                      >0                 0            0 da >= 24 mesi   68.709             0          0,13%            0,01%        2.233,0%           0,13%        2.233,0%
+ 2A                                                           <500        48.192             4          2,42%            1,74%         139,2%            2,44%         140,3%
+                                        >=30
+ 2B                                                           >500         6.291          140           3,99%            2,86%         139,5%            4,27%         149,4%
+ 2C                                                           <500         6.348             0          9,95%            3,70%         268,8%            9,98%         269,5%
+                         0              30-60
+ 2D                                                           >500           683             4         22,12%           32,80%         67,4%            22,12%         67,4%
+ 2E                                                           <500        42.822             2         31,63%           35,40%         89,4%            31,63%         89,4%
+                                       Oltre 60
+ 2F                                                           >500         2.549           10          45,00%           60,65%         74,2%            45,00%         74,2%
+ Totale Pool 2                                                           106.885          159          15,80%           17,01%          92,9%           15,83%          93,1%
+ 3C                                                         <=102%           634           42          22,12%           22,87%         96,7%            24,90%         108,9%
+                        >0             Oltre 60
+ 3D                                                         >=102%         1.954           44          45,00%           53,43%         84,2%            45,00%         84,2%
+ Totale Pool 3                                                             2.588           86          39,39%           45,94%          85,7%           40,08%          87,2%
+Pool Aziende                                  Anagrafica Pool                                                                        Backtesting
+        Pool         Accordato     Giorni sconfino          Utilizzo      Teste  Esposizioni (€mln)     PD               TD            PD/TD         PD forborne   PD/TD forborne
+ 1                      >0                 0            0 da >= 24 mesi  9.530               0          0,09%            0,01%         857,7%            0,09%         857,7%
+ 2A                                                           <500       7.808               1          3,99%            2,69%         148,4%            3,99%         148,4%
+                                        >=30
+ 2B                                                           >500       2.719             63           6,31%            4,67%         135,1%            6,59%         141,1%
+ 2C                                                           <500       1.166               0         16,03%           10,12%         158,4%           16,12%         159,3%
+                         0              30-60
+ 2D                                                           >500         319               8         31,63%           42,01%         75,3%            32,64%         77,7%
+ 2E                                                           <500       8.857               1         31,63%           36,14%         87,5%            31,74%         87,8%
+                                       Oltre 60
+ 2F                                                           >500       1.422               6         45,00%           61,32%         73,4%            45,00%         73,4%
+ Totale Pool 2                                                          22.291             79          18,90%           20,91%          90,4%           18,99%          90,8%
+                                                                                                                                                                                    4
+
+Focus su Ricalibrazione modelli di PD di erogazione Retail
+Per i modelli in esame la Funzione di Convalida ha rilevato che:
+        o la serie storica utilizzata (Giugno 2013 – Aprile 2017), seppure di ampiezza inferiore rispetto a quella di 10 anni prevista per i modelli andamentali e pool,
+               rappresenta la profondità massima disponibile e garantisce la presenza almeno di un periodo recessivo (2013) ed una adeguata variabilità dei tassi di default
+               osservati (finding #9 TRIM);
+        o I modelli sono stati ricalibrati utilizzando una definizione di default comprensiva di sofferenze, incagli, ristrutturati e past due atecnici a 90 giorni (finding #7 TRIM),
+               allineata a quella in uso per la calibrazione dei modelli andamentali e pool, seppure gli score sottostanti continuino ad includere i soli past due atecnici a 180
+               giorni.
+La Funzione di Convalida ha replicato il processo di creazione della popolazione di calibrazione dei due modelli di erogazione Retail senza riscontrare incoerenze
+sostanziali rispetto a quanto comunicato dalla Struttura di sviluppo: l’AP replicato sul modello Cointestazioni è risultato identico mentre per le Singole Persone Fisiche è
+stata rilevata una divergenza di 2 bps legata al diverso timing di rilevazione degli stati di default.
+La Funzione di Convalida ha simulato l’applicazione dei nuovi parametri di calibrazione sul portafoglio di backtesting Giugno 2017 – Giugno 2018:
+           Variazione rating                  Cointestazioni                  Singole Persone Fisiche
+ Miglioramento di oltre 2 notch           -                  0,0%               -                   0,0%       Nonostante su entrambi i modelli i nuovi anchor point siano più alti dei
+ Miglioramento di 2 notch                 -                  0,0%               -                   0,0%       precedenti, sul modello Cointestazioni i rating post ricalibrazione risultano in
+ Miglioramento di 1 notch              19.704                63,6%              -                   0,0%       miglioramento rispetto a quelli attualmente in produzione.
+ Invariato                             11.277                36,4%             1                    0,0%       Tale evidenza è legata al fatto che i nuovi anchor point comportano, per
+ Peggioramento di 1 notch                 -                  0,0%            31.409                48,9%       definizione, un avvicinamento della PD stimata rispetto al tasso di default
+ Peggioramento di 2 notch                 -                  0,0%            32.823                51,1%       osservato: poiché sulle Cointestazioni, storicamente il TD è risultato più basso
+ Peggioramento di oltre 2 notch           -                  0,0%                                   0,0%       della PD, i nuovi AP hanno comportato una riduzione di queste ultime.
+ Totale                                30.981              100,0%            64.233                100,0%
+Le evidenze di backtesting a 12 mesi dalla delibera delle istruttore considerate tra Giugno 2017 e Giugno 2018 sono riportate nella tabella seguente.
+                                        Modelli in produzione                     Modelli ricalibrati
+               Modelli
+                                   AP         PD        TD       PD/TD    AP        PD         TD       PD/TD  La ricalibrazione determina un sensibile miglioramento delle evidenze relative
+ Cointestazioni                  0,60%      2,76%     1,57%      176,0% 1,50%     2,05%      1,57%      130,7% al modello Singole Persone Fisiche su cui il rapporto PD/TD beneficia di una
+ Singole Persone Fisiche         1,16%      1,59%     2,83%       56,2% 2,82%     3,04%      2,83%      107,4% PD quasi raddoppiata.
+ Totale                                     1,97%     2,42%       81,4%           2,72%      2,42%      112,3% Per entrambi i modelli il rapporto PD/TD si attesta sopra la parità.
+                                                                                                                                                                                                5
+
+Focus su Ristima modelli di LGD
+La Funzione di Convalida ha valutato positivamente le novità introdotte rispetto alla stima precedente:
+       o l’aggiornamento delle serie storiche al 31 Dicembre 2017 è coerente con quanto previsto dall’art. 179.1(c) della CRR e risponde anche a quanto richiesto con il
+           GAP di convalida CV_2018_00003;
+       o l’inclusione nei campioni di stima di tutte le pratiche chiuse tra quelle passate in sofferenza nell’ambito della finestra temporale analizzata (tra il 2002 e il 2017), e
+           non solo quelle chiuse negli ultimi 10 anni, consente di ampliare il numero di osservazioni utilizzate per la stima;
+       o l’evoluzione delle modalità di allocazione delle spese indirette alle diverse pratiche in sofferenza risponde a quanto richiesto dal finding #12 IMI;
+       o l’estensione a 10 anni dell’orizzonte temporale considerato per la stima dei cure rate e per la LGD del bonis consente di mantenere allineate le informazioni
+           utilizzate a tali fini rispetto a quelle utilizzate per la PD;
+       o l’evoluzione della metodologia di calcolo dei cure rate ai fini della stima della LGD del bonis (esclusione degli incagli transitati da past due) evita di andare ad
+           incrementare, in maniera non del tutto realistica, la probabilità del verificarsi di un passaggio a sofferenza (double counting).
+L’utilizzo di serie storiche più recenti ha comportato che, rispetto ai valori stimati nel 2015 e attualmente in produzione:
+       o i nuovi parametri di LGD sofferenza risultano generalmente inferiori al netto di poche eccezioni;
+       o i cure rate di incagli e past due risultano in sensibile peggioramento su Banca MPS (modello Banche Generaliste) e su MPS Leasing & Factoring mentre
+           aumentano su MPS Capital Services;
+       o conseguentemente i parametri di LGD degli stati di default diversi dalla sofferenza e del bonis risultano in peggioramento ad eccezione di MPS Capital
+           Services per la quale si riducono.
+La Funzione di Convalida ha replicato autonomamente il processo di determinazione delle griglie di LGD relative alle Banche generaliste, a MPS Capital Services e al
+Factoring, partendo dalla definizione dei campioni di stima fino ad arrivare al calcolo dei valori delle griglie senza riscontrare incoerenze sostanziali rispetto quanto
+comunicato dalla Struttura di sviluppo.
+Sono state inoltre verificate le performance in sviluppo dei parametri ristimati evidenziando:
+       o una buona capacita dei parametri di LGD sofferenza di discriminare le posizioni con recuperi alti da quelle con recuperi bassi (TC=65,1% per le Banche
+           Generaliste);
+       o la sostanziale prudenza dei parametri stimati per effetto di una LGD assegnata sempre più elevata rispetto a quella osservata.
+                                                                                                                                                                                  6
+
+

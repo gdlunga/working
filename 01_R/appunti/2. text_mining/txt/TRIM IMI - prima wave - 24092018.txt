@@ -1,0 +1,633 @@
+  <U+200B>TRIM IMI
+   <U+200B>Prima wave
+Siena 24/09/2018
+
+Agenda
+       Struttura progettuale
+       • Descrizione
+       • Organizzazione e Staffing
+       • Timeline Progettuale
+       • Deliverables
+       • Update Moduli e Deliverables
+       • Update Piano di Lavoro
+       Allegati
+       • Deviation/Gap and deliverables
+       • Piano Rilasci IT
+                                        2
+
+Descrizione
+ Anagrafica                                                                                        Principali interventi previsti
+ •  Nome Progetto: TRIM-IMI                                                                        • IMI40: individuati da parte della BCE 21 findings, raggruppati in 14
+ •  Direzione: CRO                                                                                    Obligations e 2 Recommendation, nei quali viene richiesto al Gruppo
+ •  Sponsor: Leonardo Bellucci                                                                        di effettuare una serie di interventi correttivi su aspetti di
+ •  Responsabile Progetto: Lorenzo Boetti                                                             regolamento interno, normative, processi, metodologie di stima dei
+ •  Durata: Data inizio: 18/07/2018 Data fine: 30/06/2020                                             parametri di PD e LGD, attività effettuate dalla Internal Validation e
+ •  Tipologia: Obbligatorio                                                                           dalla Audit Function.
+                                                                                                   • TRIM General Topics Review: individuati da parte della BCE nr 7
+ Obiettivi                                                                                            deviations, che prevedono ad esempio la formalizzazione di un Model
+                                                                                                      Risk Management Framework, un reporting periodico al Board
+ • Nel corso dell’Ispezione on site IMI40 del 4Q2015, della TRIM General Topics Review del
+                                                                                                      sull’avanzamento del Piano di roll-out, specifiche attività dell’Internal
+    2H2016 e della TRIMI del 4Q2017 la BCE ha evidenziato nel primo semestre del 2018 una serie
+                                                                                                      Audit da condurre con cadenza triennale.
+    di ambiti di miglioramento sui modelli AIRB utilizzati dal Gruppo MPS sui quali sono richiesti
+                                                                                                   • TRIMI: individuati da parte della BCE 19 findings, ancora in formato
+    una serie di interventi da porre in essere, con diverse dead-line, nei prossimi 18-24 mesi.
+                                                                                                      draft, riguardanti in particolare punti di debolezza dei modelli di PD e
+                                                                                                      LGD, discrepanze rilevate sulla definizione di default, sul framework di
+                                                                                                      Convalida, sul Data Quality, nella definizione dei MoC.
+ Budget                                                                                            Benefici Attesi
+                      2018          2019           2020          2021           2022        Totale
+                                                                                                   • Compliance regolamentare alle nuove linee guida della TRIM e ai
+                                                                                                      nuovi RTS sui modelli AIRB
+   Capex               70             40            40            xx             xx          150   • Miglioramento della detection e della misurazione del Rischio di
+                                                                                                      Credito
+   Opex               306,5          200            200           xx             xx         706,5
+   Totale             376,5          240            240           xx             xx         856,5
+                                                                                                                                                                                3
+
+Organizzazione e Staffing                                                                              L.Bellucci, A.Rovellini,
+                                                                                                       F.Leandri, G.Bergami,                  Steering Committee
+                                                                                                       V.Calvanico,G.Damiani
+                                                                                                              Sponsor                         Leonardo Bellucci
+                                                                                                                                                                                PMO
+                                                                                                             TRIM-IMI                         Lorenzo Boetti              Giovanni Palazzotto
+   Moduli e                                                                                                               C. Validation                                       D. Audit
+                           A. Modelli                                       B. Processi                                                                                                                         E.COG
+                                                                                                                          Framework                                         Framework
+   Responsabili
+                   •       G.Petraglia                              •   C.Bernardoni                                  •       D.Pezzulla                              •    G. Della Lunga                •   A. Avila
+                           (CRO)                                        (CRO)                                                 (CRO)                                        (CAE)                             (COG)
+                   1          3     4     6                             7                                                 2                                                    5
+     Initiatives       9      7   11     12   13   14   21              1      2    4     5   6   10                      3      8    15                                       16   20
+                                                                                                                                             16   19
+                       1     4     6     7    8    9    10   11                                                           3      5                                             3                                2
+                   12        13   14     15   16   17   18   19
+    Principali
+                                                                  CRO (ALRO,SVSR), COG(IT,Demand), COO(A.Organizzazione), CCO, CLO(ACPG), CAE(ARS), CFO
+   Contibutori
+                                                                    Deviation Trim G.T.                  Gap IMI40                         Gap TRIMI           No impatto IT                Impatto IT
+                                                                                                                                                                                                                        4
+
+Timeline Progettuale
+             •  Passaggio in CDA                                                                        02/08/2018
+             •  Kick off di progetto                                                                    07/08/2018
+             • Invio dello stato d’avanzamento sul piano di Remediation del 3Q 2018                     30/09/2018
+             • Conclusione 1° Wave progetto                                                             30/09/2018
+             • Invio dello stato d’avanzamento sul piano di Remediation del 4Q 2018                     31/12/2018
+             • Conclusione 2° Wave progetto                                                             31/12/2018
+             • Invio dello stato d’avanzamento sul piano di Remediation del 1Q 2019                     31/03/2019
+             • Conclusione 3° Wave progetto                                                             31/03/2019
+             • Invio dello stato d’avanzamento sul piano di Remediation del 2Q 2019                     30/06/2019
+             • Conclusione 4° Wave progetto                                                             30/06/2019
+             • Invio dello stato d’avanzamento sul piano di Remediation del 3Q 2019                     30/09/2019
+             • Conclusione 5° Wave progetto                                                             30/09/2019
+             • Invio dello stato d’avanzamento sul piano di Remediation del 4Q 2019                     31/12/2019
+             • Conclusione 6° Wave progetto                                                             31/12/2019
+             • Invio dello stato d’avanzamento sul piano di Remediation del 1Q 2020                     31/03/2020
+             • Conclusione 7° Wave progetto                                                             31/03/2020
+             • Invio dello stato d’avanzamento sul piano di Remediation del 2Q 2020                     30/06/2020
+             • Conclusione 8° Wave progetto                                                             30/06/2020
+                                          Attività completata   Attività in corso   Attività da avviare            5
+
+Deliverables (1/3): TRIM General Topics
+Nel corso del terzo trimestre del 2018 le strutture del CRO hanno finalizzato una serie di attività che hanno permesso di ritenere chiusi non solo i findings della BCE in scadenza a fine
+settembre 2018 (2 su 47) ma anche altri findings relativi ai tre diversi filoni, IMI40, TRIM General Topics e TRIM per un totale di 10 su 47.
+Nel dettaglio:
+• TRIM General Topics:
+      <U+F0FC> all’interno della nuova Direttiva di Gruppo in materia di Gestione del Rischio Modello (oggetto di parere favorevole da parte del CGR del 31/8/2018 e oggetto di proposta per
+         il CDA del 27 settembre 2018), nel paragrafo 2.5 è stato disciplinato la standard documentale dei modelli interni, con specifico focus sui protocolli di sviluppo e monitoraggio,
+         sul contenuto minimo della scheda modello, sul registro, monitoraggio e inventario degli stessi, che permette di ritenere chiusa la deviation nr 1;
+      <U+F0FC> la sopra citata Direttiva di Gruppo in materia di Gestione del Rischio Modello, risponde all’esigenza formalizzata da parte della BCE di avere all’interno del Gruppo MPS un
+         model risk management framework che disciplini nel dettaglio ruoli e responsabilità per la gestione dello stesso. La pubblicazione della Direttiva (post CDA del 27/9/2018),
+         con il suo progressivo roll-out sui diversi rischi della banca, permetterà di ritenere chiusa anche la deviation nr 2.
+   Relativamente alle altre deviations in essere si evidenzia come:
+      <U+F0FC> con l’aggiornamento della Direttiva di Gruppo in materia di Gestione del rischio di Credito e conseguente predisposizione del relativo documento di processo (previsti
+         entrambi entro fine 2018) saranno risolte le deviations nr 3, 4 e 7;
+      <U+F0FC> con i BR 75673 e 76351 verrà risolta la problematica evidenziata dalla deviation 6 sulle controparti unrated or outdated che attualmente comportano il passaggio da AIRB a
+         Standard delle controparti oggetto di tale casistica;
+      <U+F0FC> con lo sviluppo di un documento metodologico all’interno del quale saranno declinate le procedure operative per garantire una completa analisi, su base annuale, degli
+         obiettivi assegnati ed una loro integrale copertura, con attività di revisione, nel corso del ciclo triennale di audit sarà risolta la deviation nr 5.
+                                                                                                                                                                                           6
+
+Deliverables (2/3): IMI40
+• IMI40:
+  <U+F0FC> la struttura di sviluppo dei modelli di rating ha rivisto all’interno delle serie storiche utilizzate per la calibrazione dei modelli di PD il trattamento delle forbereance, al fine di non
+     escludere più dalla popolazione di stima alcuna osservazione e poter calibrare in maniera conservativa un MOC sulle controparti performing oggetto appunto di forborne. La scelta
+     è stata oggetto di nullaosta da parte della Convalida Interna e di approvazione da parte del CGR del 31/8/2018. L’impatto in termini di incremento dei RWA dovuto alla definizione
+     di tale margine di conservativismo risulterà pari a circa +1 €/mld (atteso passaggio in produzione nel 4q del 2018); con tale attività si ritiene chiuso il finding nr 8;
+  <U+F0FC> con l’ultima ricalibrazione dei modelli di rating approvata dal CGR del 31/8/2018, nella quale è stata confermata la scelta metodologica già portata avanti nel 2016 di determinare
+     l’Anchor Point come media semplice dei Tassi di Default osservati negli ultimi anni e non come media ponderata per teste del totale dei default, si ritiene chiuso anche il finding nr
+     9;
+  <U+F0FC> nell’ultima ristima dei modelli di LGD approvata dal CGR del 31/8/2018, è stato applicato un valore di sostituzione per i record con spese indirette non imputate (calcolato come
+     prodotto tra l’esposizione EAS del record e la percentuale di spese media calcolata sulle posizioni con spese indirette valorizzate) che permette di ritenere chiuso anche il finding
+     nr 12;
+  <U+F0FC> come già riportato nella Relazione di Convalida 2017, il fenomeno dei gap aperti da lunga data è stato superato in quanto tutti gli 8 gap di convalida in essere sul Sistema IRB al
+     31/12/2017 sono stati aperti nel corso del 2017, inoltre i gap di convalida rientrano nell’ambito del monitoraggio trimestrale effettuato dal Comitato di Coordinamento delle
+     Funzioni di Controllo i cui esiti sono riportati al Collegio Sindacale e al Comitato Rischi oltre che all’attenzione dell’AD; si ritiene pertanto chiuso il finding nr 3;
+  <U+F0FC> a partire da Giugno 2016 le analisi di backtesting sui modelli LGD svolte semestralmente dalla Funzione di Convalida coprono tutti gli elementi previsti nell’ambito di tali modelli: le
+     già presenti verifiche sulla LGD sofferenza sono state sono state integrate con specifiche analisi sulla variabilità dei danger rate e sulla rappresentatività del flusso di default degli
+     ultimi 12 mesi rispetto alla popolazione di calibrazione della LGD bonis; si ritiene pertanto chiuso anche il finding nr 15.
+  Relativamente agli altri findings in essere (la cui scadenza è prevista nel 2019) si evidenzia come:
+  <U+F0FC> i findings 1, 2 necessitino solo di una formale attività da parte della Dir. CAE per la loro chiusura;
+  <U+F0FC> con l’aggiornamento della Direttiva di Gruppo in materia di Gestione del rischio di Credito e conseguente predisposizione del relativo documento di processo e regole saranno
+     risolti I findings nr 4, 5 e 11;
+  <U+F0FC> con i BR 75673 e 75989 verrà risolta la problematica evidenziata dai finding 7 e 10, su cut off e trattamento dei crediti/rating unrated or outdated;
+  <U+F0FC> saranno avviate nel 4q del 2018 le progettualità volte a risolvere I findings 6 (recepire nella valutazione del rating delle controparti i segnali di early warnings del mocre) e 13, 14 e
+     21 riguardanti la revisione dei modelli di LGD su temi specifici quali Downturn, I.W.O, ELBE e RWA D.A.;
+  <U+F0FC> al fine di risolvere il finding 20 saranno previste nell’Audit plan del 2019 specifiche attività al fine di colmare le lacune emerse durante l’ispezione di fine 2015; nell’ambito del
+     Validation Plan 2019 verrà prevista una specifica attività sul framework di CRM per indirizzare la risoluzione del finding nr 16 mentre sono tuttora in fase di studio le soluzioni
+     organizzative (staffing) funzionali a potenziare ulteriormente l’efficacia della funzione nonché a predisporre dei modelli challenging con cui sfidare i modelli di produzione, in
+     mitigazione del finding nr 19.
+                                                                                                                                                                                                 7
+
+Deliverables (3/3): TRIMI
+• TRIMI:
+     <U+F0FC> nel corso delle attività di ricalibrazione dei modelli di rating approvate dal CGR del 31/8/2018 sono stati ricalibrati anche i modelli di erogazione retail, che pertanto dalla
+        loro messa in produzione prevista sui dati del 31 ottobre 2018, risulteranno calibrati sulla stessa definizione di default utilizzata per gli altri modelli. Si ritiene pertanto
+        chiuso il finding nr 7;
+     <U+F0FC> con la ricalibrazione dei modelli di rating sopra citata è stata condotta un analisi per definire la likely range of variability dei tassi di default, sulla base della quale si è
+        ritenuto necessario estendere la serie storica dagli attuali 7 anni per il corporate e 5 per il retail a 10 anni, al fine di garantire un’ omogeneità di rappresentazione dei cicli
+        recessivi ed espansivi, oltre alla maggior variabilità possibile dei default rate. Si ritiene pertanto chiuso il finding nr 9;
+     <U+F0FC> nel documentare la ristima dei modelli di LGD condotta nel primo semestre del 2018 la struttura di sviluppo ha migliorato la documentazione sul trattamento dei dati, al
+        fine di dettagliare maggiormente il processo seguito nella verifica della qualità degli stessi in termini di accuratezza, appropriatezza e completezza; si ritiene pertanto chiuso
+        il finding nr 17.
+  Relativamente agli altri findings in essere la cui scadenza è principalmente prevista per metà 2020 si evidenzia su quelli in scadenza nel 2019 come:
+     <U+F0FC> con l’aggiornamento della Direttiva di Gruppo in materia di Gestione del rischio di Credito e conseguente predisposizione del relativo documento di processo e regole sarà
+        risolto i finding nr 4 e 11;
+     <U+F0FC> saranno avviate nel 4q del 2018 le progettualità volte a risolvere i findings 12, 18 e 19 riguardanti la revisione dei modelli di LGD su temi specifici quali Qualità dei dati,
+        I.W.O, ELBE e RWA D.A..
+                                                                                                                                                                                            8
+
+Moduli e Deliverables: TRIM General Topics
+                                     # Iniziatives/Deviations                                                     Distance               Planning                     Owner
+   The institution should ensure that principles and guidelines for model documentation are                 Full implementation           Closed to                 Chief Risk Officer
+1  developed and applied in a consistent way within the group. These principles should encompass                                           3q2018
+   guidance for the governance of the model should be defined. In scope areas\should include at
+   least the technical aspects of the model (methodology and assumptions), data (processes),
+   instructions for model users and performance/validation (including the results of implementation
+   testing)
+   The institution should have a model risk management framework in place that comprise, at least,          Full implementation           Closed to                 Chief Risk Officer
+2  the following: (a) a written model risk management policy (b) a register of the institution’s
+                                                                                                                                           3q2018
+   internal models. (c) Guidelines on identifying and mitigating the areas where measurement
+   uncertainty and model deficiencies are known, according to their materiality d) Guidelines and
+   methodologies for the qualitative and /or quantitative assessment and measurement of the
+   institution’s model risk e) Guidelines with the respect of the model life cycle f) Procedures for
+   model risk communication and reporting (internal and external) g) definition of roles and
+   responsibilities within the model risk management framework
+   The institution is expected to have a framework or policy for the governance of its roll-out plan                                       4q 2018
+ 3                                                                                                                                                                  Chief Risk Officer
+   that includes internal bodies, frequency of reporting, criteria used for changes and controls to         Full implementation       (to be confirmed
+   assess compliance with the roll-out plan                                                                                                by ECB)
+   The institution should have policies and procedures in place to ensure compliance with the                                              4q 2018                  Chief Risk Officer
+ 4 requirements for permanent partial use (PPU) as listed in Article 150 of the CRR, to ensure that         Full Implementation       (to be confirmed
+   PPU is applied appropriately                                                                                                            by ECB)
+   The institution should ensure that the Internal Audit function annually renews its opinion on the                                       4q 2018
+ 5 following aspects: the development and performance of the rating systems, the use of the                                           (to be confirmed            Chief Audit Executive
+   models, the process for the materiality classification, the quality of the data used for the                   Evolution
+                                                                                                                                           by ECB)
+   quantification of risk parameters…..
+                                                                                                                                           4q 2018                  Chief Risk Officer
+ 6 The institution should not use the Standardized Approach as a fall-back solution for either                    Evolution           (to be confirmed
+   unrated exposures or outdated ratings within the scope of application of the IRB systems
+                                                                                                                                           by ECB)
+                                                                                                                                           4q 2018                  Chief Risk Officer
+ 7 The institution is expected to include the re-rating process in its relevant policies                          Evolution           (to be confirmed
+                                                                                                                                           by ECB)
+                                                                  Deviation Trim G.T.             Gap IMI40             Gap TRIMI No impatto IT        Impatto IT
+                                                                                                                                                                                        9
+
+Moduli e Deliverables: IMI40 (1/3)
+                                        # Iniziatives/Findings                                                        Distance                Planning                 Owner
+   The Supervised Entities shall ensure the integrity of the rating assignment process with specific              Already Resolved             1q 2019             Chief Risk Officer
+1  reference to the following elements: the role and responsibilities of the parties involved in the
+   rating process shall fully reflect the internal policies and regulations.
+   A clear separation between the credit granting process and rating assignment process shall be                  Already Resolved             1q 2019             Chief Risk Officer
+2  ensured having regard to the membership of the head of “Servizi Specialistici del Credito” in the
+   Credit Committee.
+   The investigation observed that internal findings (called GAPs) have often been kept 'open' for a              Already Resolved            Closed to            Chief Risk Officer
+ 3
+   long time.                                                                                                                                  3q2018
+   The adoption of the “cut-off” stabilisation rule shall be formalised via the internal approval                      Evolution               1q 2019             Chief Risk Officer
+ 4 process in order to restore consistency with the internal governance policy.
+   Specific criteria to be applied by the rating managers in their valuations shall be formalised; in                  Evolution               1q 2019             Chief Risk Officer
+ 5
+   order to ensure the replicability of all steps of the rating assignment process.
+   The Supervised Entities shall revise the rating assignment process and ensure that ratings                   Fully Implementation           2q 2019             Chief Risk Officer
+ 6 promptly incorporate all relevant information stemming from the Early Warning System, signaling
+   potential negative developments of the counterparties
+   The Supervised Entities shall discontinue the current practice of treating exposures, for which                     Evolution               1q 2019             Chief Risk Officer
+ 7 necessary information for the rating calculation are missing or expired, using the standardised
+   approach. A new processes shall be established to ensure that exposures are assigned to an
+   adequate and sufficiently conservative rating grade or pool
+   The Supervised Entities shall strengthen the internal validation analysis supporting the                            Evolution              Closed to            Chief Risk Officer
+   appropriateness of the PD add-on set for taking into account the exclusion of a significant share of                                        3q2018
+ 8 counterparties for whom the forborne observation period was not over yet from the calibration
+   sample. The additional analysis shall be aimed at verifying soundness and robustness of the add-
+   on with specific reference to data representativeness and consistency
+                                                                    Deviation Trim G.T.               Gap IMI40              Gap TRIMI No impatto IT    Impatto IT
+                                                                                                                                                                                      10
+
+Moduli e Deliverables: IMI40 (2/3)
+                                      # Iniziatives/Findings                                                       Distance                Planning                   Owner
+   When determining the anchor point for PD calibrations, the Supervised Entities shall refrain from            Already Resolved           Closed to              Chief Risk Officer
+9  adopting a weighting scheme of the yearly default rates giving higher importance to the oldest                                           3q2018
+   observations.
+   The Supervised Entities shall monitor on a regular basis the reduction in the discriminatory power               Evolution               1q 2019               Chief Risk Officer
+10 of the IRB systems led by the “cut-off” stabilisation rule and foresee the undertaking of appropria-
+   te actions whenever this reduction goes beyond properly defined thresholds set internally.
+11 The Supervised Entities shall define an internal policy setting tolerance thresholds as well as the              Evolution               1q 2019               Chief Risk Officer
+   related actions to be undertaken in case the results of the back-testing show significant differen-
+   ces between the internally estimated parameters and the values actually observed over time.
+   The Supervised Entities shall allocate indirect costs to all files included in the RDS for the LGD               Evolution              Closed to              Chief Risk Officer
+12 estimation.                                                                                                                              3q2018
+   The Supervised Entities shall reconsider the LGD downturn approach in order to ensure that the                   Evolution               2q 2019               Chief Risk Officer
+13
+   LGD estimates are more conservative than the long-run average of realised LGDs.
+   The Supervised Entities shall produce additional analysis in order to verify that the criteria                   Evolution               2q 2019               Chief Risk Officer
+14 currently adopted for the inclusion of the incomplete workouts in the LGD estimates do not lead
+   to underestimation of the risk parameters.
+    The Supervised Entities shall extend back-testing analyses to all modules and components of the             Already resolved           Closed to              Chief Risk Officer
+15 LGD model, including a specific back-testing on the danger rate estimates.                                                               3q2018
+   The Supervised Entities shall ensure that the CRM framework underlying the internal models is                    Evolution               2q 2019               Chief Risk Officer
+   documented and aligned with the applicable regulatory requirements. To this extent, the internal                                                             Chief Audit Executive
+16
+   validation function and the internal audit function of the Supervised Entities are required to
+   perform an in-depth analysis on its CRM framework, also with reference to data quality aspects.
+                                                                   Deviation Trim G.T.                Gap IMI40           Gap TRIMI No impatto IT    Impatto IT
+                                                                                                                                                                                      11
+
+Moduli e Deliverables: IMI40 (3/3)
+                                       # Iniziatives/Findings                                                    Distance               Planning                      Owner
+   The Supervised Entities are recommended to extend the use of internal ratings to the monitoring               Evolution             Not defined              Chief Lending Officer
+17 system of MPS CS and MS L&F
+   The supervised Entities should ensure that probability of default and ratings are appropriately               Evolution             Not defined              Chief Lending Officer
+18 considered in the credit process of the bank. In particular, discretions in the credit granting and                                                        Chief Commercial Officer
+   pricing should be only used in exceptional cases, also by mean of enhancing the relevant It tools
+19 The internal validation framework shall be enhanced by including additional tests based on                    Evolution               2q 2019                  Chief Risk Officer
+   alternative approaches in order to challenge the assumptions or methodologies currently applied.
+   Furthermore, the Supervised Entities shall undertake actions to foster a timely remediation of the
+   identified weaknesses by the internal validation function, including the establishing of a specific
+   quarterly reporting to the Risk Committee of open gaps
+   Audit activities carried out on the PD were not able to detect the shortcoming on the calibration             Evolution               2q 2019               Chief Audit Executive
+20 of the anchor point, as highlighted by the investigation.
+   .
+   The Supervised Entities shall develop and apply for permission to use for regulatory purposes                 Evolution               2q 2019                  Chief Risk Officer
+21
+   specific LGD and ELBE models for defaulted exposures.
+                                                                  Deviation Trim G.T.                  Gap IMI40       Gap TRIMI No impatto IT     Impatto IT
+                                                                                                                                                                                       12
+
+Moduli e Deliverables: TRIMI (1/2)
+                                       # Iniziatives/Findings                                               Distance               Planning                         Owner
+                                                                                                            Evolution               2q 2020                     Chief Risk Officer
+ 1 Methodological weakness on LGD model specification
+                                                                                                                            To be confirmed by ECB
+   Discrepancies in functional specifications for the implementation of the DoD provided by the             Evolution               2q 2020
+2                                                                                                                                                                     COG
+   internal policy                                                                                                          To be confirmed by ECB
+ 3 Data quality framework flaws (data quality dimensions and controls; data qualty roles and                Evolution               2q 2020                     Chief Risk Officer
+   responsabilities)                                                                                                        To be confirmed by ECB            Chief Audit Executive
+   The framework for the periodic review of estimates is not adeguate. A regular cycle for a full           Evolution               1q 2019                     Chief Risk Officer
+ 4 review of the models have not been defined yet                                                                           To be confirmed by ECB
+                                                                                                            Evolution               2q 2020                     Chief Risk Officer
+ 5 Validation framework’s flaws
+                                                                                                                            To be confirmed by ECB
+                                                                                                            Evolution               2q 2020                     Chief Risk Officer
+ 6 Lack of homogeneity across PD model grades
+                                                                                                                            To be confirmed by ECB
+                                                                                                            Evolution              Closed to                    Chief Risk Officer
+ 7 Definition of default is not consistent across all involved models                                                               3q2018
+                                                                                                            Evolution                                           Chief Risk Officer
+                                                                                                                                    2q 2020
+ 8 Outlier’s treatment
+                                                                                                                            To be confirmed by ECB
+                                                                                                            Evolution                                           Chief Risk Officer
+                                                                                                                                   Closed to
+ 9 Likely range of variability of DRs within the historical observation period is not assessed
+                                                                                                                                    3q2018
+                                                                                                            Evolution                                           Chief Risk Officer
+                                                                                                                                    3q 2020
+10 PDs’ final estimates are biased in some grades as effect of the mapping to the master Scale
+                                                                                                                            To be confirmed by ECB
+                                                                   Deviation Trim G.T.            Gap IMI40       Gap TRIMI No impatto IT          Impatto IT
+                                                                                                                                                                                    13
+
+Moduli e Deliverables: TRIMI (2/2)
+                                     # Iniziatives/Findings                                                       Distance                Planning                       Owner
+                                                                                                            Fully implementation            2q 2019                  Chief Risk Officer
+11 No MoC framework is in place.
+                                                                                                                                   To be confirmed by ECB
+                                                                                                                   Evolution                2q 2019
+12 Data quality issues in LGD data set                                                                                                                               Chief Risk Officer
+                                                                                                                                   To be confirmed by ECB
+13 The LGD RDS does not contain relevant information on the values of collaterals associated with                  Evolution                2q 2020
+                                                                                                                                                                     Chief Risk Officer
+   the exposure                                                                                                                    To be confirmed by ECB
+   The discounting methodology for computing the realized LGD is not aligned with envisaged                        Evolution                2q 2020
+14                                                                                                                                                                   Chief Risk Officer
+   supervisory expectations                                                                                                        To be confirmed by ECB
+                                                                                                                   Evolution                2q 2020
+15 Current treatment of multiple defaults is not aligned with the approach covered in the EBA GLs                                                                    Chief Risk Officer
+   on PD/LGD                                                                                                                       To be confirmed by ECB
+16                                                                                                                 Evolution               2q 2020                   Chief Risk Officer
+   Lack of heterogeneity across LGD model grades
+                                                                                                                                   To be confirmed by ECB
+                                                                                                                   Evolution               Closed to                 Chief Risk Officer
+17 Procedures for dealing with erroneous data are not appropriately documented                                                              3q2018
+   The treatment of incomplete workout processes is not aligned with envisaged supervisory                         Evolution                1q 2019                  Chief Risk Officer
+18
+   expectations                                                                                                                    To be confirmed by ECB
+   The expected Loss Best Estimate (ELBE) includes the unexpected loss (UL) component (including                   Evolution                 1q 2019                 Chief Risk Officer
+19
+   downturn add-ons), leading to zero RWA for defaulted exposures.                                                                  To be confirmed by ECB
+                                                                Deviation Trim G.T.               Gap IMI40              Gap TRIMI No impatto IT          Impatto IT
+                                                                                                                                                                                        14
+
+  Piano di lavoro originale
+                          1° Wave    2° Wave         3° Wave               4° Wave            5° Wave            6° Wave        7° Wave    8° Wave
+                          3 Q 2018   4 Q 2018         1 Q 2019             2 Q 2019           3 Q 2019            4 Q 2019      1 Q 2020   2 Q 2020
+                                   1 9     3    4    6           7    11   12        13   14   21                                                   1  6  8  10
+       Modelli
+                                           7    9    17          4    18   19          11   12                                                      13 14 15 16
+                                                                     10
+                                                7              1   2     4   5            6
+       Processi
+                                                2    15               8                   3  16 19                                                     3   5
+Validation Framework
+                                                5                                        16 20                                                         3
+  Audit Framework
+                                                                                                                                                       2
+         COG
+                                                                            Completed             Partially Completed      Deadline
+                     CdA Kick off
+                                             Deviation Trim G.T.               Gap IMI40               Gap TRIMI         No impatto IT   Impatto IT
+                                                                                                                                                                15
+
+  Piano di lavoro aggiornato
+                          1° Wave           2° Wave         3° Wave               4° Wave            5° Wave            6° Wave        7° Wave    8° Wave
+                          3 Q 2018          4 Q 2018         1 Q 2019             2 Q 2019           3 Q 2019            4 Q 2019      1 Q 2020   2 Q 2020
+                                   12   1  9      3    4    6           7    11             13   14   21                                                   1  6  8  10
+       Modelli
+                                    7   9  17                           4    18   19          11   12                                                      13 14 15 16
+                                                                            10
+                                                       7              1   2     4   5            6
+       Processi
+                                  2   15  8   3                                                     16 19                                                     3   5
+Validation Framework
+                                                       5                                        16 20                                                         3
+  Audit Framework
+                                                                                                                                                              2
+         COG
+                                                                                   Completed             Partially Completed      Deadline
+                     CdA Kick off
+                                                    Deviation Trim G.T.               Gap IMI40               Gap TRIMI         No impatto IT   Impatto IT
+                                                                                                                                                                       16
+
+Agenda
+       Struttura progettuale
+       • Descrizione
+       • Organizzazione e Staffing
+       • Timeline Progettuale
+       • Deliverables
+       • Update Moduli e Deliverables
+       • Update Piano di Lavoro
+       Allegati
+       • Deviation/Gap and deliverables
+       • Piano Rilasci IT
+                                        17
+
+Deviation/Gap and Deliverables: TRIM General Topics
+ Modulo   Iniziatives                   Deliverable
+            Principles and guidelines   Y. 1 Definizione di un documento di processo in cui siano riportate le linee guida per la produzione della documentazione sui
+  A     1
+            for model documentation          modelli interni validati
+  ‘C    2   Model Risk Management       Y.2 Formalizzazione di una Direttiva di Model Risk Management che disciplinerà il framework utilizzato dalla Banca per la
+            Framework                        gestione del rischio modello
+  A     3
+            Framework for the
+                                        Y.3 Formalizzazione di un documento di processo che disciplini la governance e il monitoraggio del piano di roll-out
+            governance of its roll-out
+            plan
+            Framework to ensure that
+  A     4   PPU is applied              Y.4 Formalizzazione di un documento di processo che disciplini la governance e il monitoraggio delle esposizioni oggetto di PPU
+            appropriately
+  D     5
+            Internal Audit function
+            annually renews its opinion Y.5 Nuova metodologia (SREP based) definita su un orizzonte temporale di tre anni per una full review dei modelli interni
+            on the main aspects
+  A     6   Not use the Standardized    Y.6 Applicazione di floor o margini di conservativismo nell’attribuzione del rating alle controparti con rating scaduto, rientranti
+            approach as fall-back             da uno stato di default, migrate da un rating statistico ad uno di processo
+            solution
+  B     7   Including the re-rating     Y.7 Formalizzazione all’interno del D00767 delle policies di re-rating
+            process in its relevant
+            policies
+                                        Deviation Trim G.T.            Gap IMI40               Gap TRIMI             No impatto IT         Impatto IT
+                                                                                                                                                                            18
+
+Deviation/Gap and Deliverables: IMI40
+ Modulo   Iniziatives                      Deliverable
+          Integrity of the rating          R. 1 Aggiornare i regolamenti interni sui processi di assegnazione del rating
+  B     1
+          assignment process
+   B    2 Separation between the granting R.2 Chiara divisione dei ruoli e delle responsabilità fra CLO e CRO nei processi di delibera e assegnazione del rating
+          and rating assignment process
+   C    3
+          Findings (called GAPs) have
+  ‘
+                                           R.3 Maggior seguimento e risoluzione delle anomalie da parte delle funzioni di controllo
+          often been kept 'open' for
+          a long time
+          “Cut-off” stabilisation rule
+    B   4 shall be formalised              R.4 Approvazione delle regole di stabilizzazione del rating da parte del CGR
+    B   5
+          Replicability of all steps of
+          the rating assignment            R.5 Pubblicazione di un manuale metodologico che assicuri la replicabilità di un rating di processo
+          process
+    B   6 Ensure that ratings incorporate  R.6 Individuare un set di indicatori dell’Early warning system che al superamento di una data soglia o alla loro attivazione porti
+          all information stemming from         alla review del rating di processo
+          the Early Warning System
+  A     7 New rules for missing or expired R.7 Revisione delle metodologie di attribuzione del rating per controparti con rating scaduto o informazioni mancanti
+          rating
+                                           Deviation Trim G.T.             Gap IMI40             Gap TRIMI            No impatto IT          Impatto IT
+                                                                                                                                                                              19
+
+Deviation/Gap and Deliverables: IMI40
+ Modulo    Iniziatives                    Deliverable
+           Internal validation analysis   R. 8 Revisione del trattamento dei rating su controparti in forborne
+   C    8
+           supporting the appropriateness
+  ‘
+           of the PD add-on
+  A      9 Review methodologies for PD R.9 Determinazioni degli anchor point come medie semplici e non ponderate
+           calibrations
+  B    10
+           Monitor on a regular basis
+                                          R.10 Monitoraggio e revisione periodica dei criteri di stabilizzazione del rating
+           the “cut-off” stabilisation
+           Define an internal policy
+  A     11 setting tolerance              R.11 Formalizzare una policy di ristima/ricalibrazione dei modelli
+           thresholds for PD models
+    A   12
+           Allocate indirect costs to all
+           files included in the RDS for  R.12 Inserire la componente delle spese indirette su tutte le pratiche utilizzate per la stima della LGD
+           the LGD
+    A   13 Reconsider the LGD downturn    R.13 Rivedere la metodologia di stima della LGD Downturn
+           approach
+  A     14 the incomplete workouts in the R.14 Revisione della metodologia di inclusione dell’incomplete work-out nelle stime della LGD
+           LGD estimates do not lead to
+           underestimation of the LGD
+                                          Deviation Trim G.T.          Gap IMI40               Gap TRIMI              No impatto IT           Impatto IT
+                                                                                                                                                         20
+
+Deviation/Gap and Deliverables: IMI40
+ Modulo      Iniziatives                        Deliverable
+             Back-testing on the danger         R. 15 Aggiornare il backtesting sui parametri di LGD
+   C      15
+             rate estimates.
+  ‘
+     ‘C      CRM framework is documented
+          16 and aligned with the applicable    R.16 Revisione da parte della Convalida e dell’Audit del framework di CRM
+     D
+             regulatory requirements
+       ‘
+          17 Extend the use of internal ratings R.17 Utilizzo del rating nei sistemi di monitoraggio delle controllate
+             to the monitoring system of MPS
+             CS and MS L&F
+        ‘
+          18 Discretions in the credit granting R.18 Revisione policy di pricing e delibera
+             and pricing should be only used in
+             exceptional cases, also by mean of
+             enhancing the relevant It tools
+     C    19
+             Internal validation framework
+    ‘
+                                                R.19 Implementazione modelli challenging
+             shall be including additional
+             tests based on alternative
+             approaches
+             Audit carried out on the PD
+       D  20 were not able to detect the        R.20 Rafforzamento audit plan sui modelli Airb
+             shortcoming on the calibration
+       A  21 Specific LGD and ELBE
+             models for defaulted               R.21 Nuova metodologia di stima per RWA D.A. e ELBE
+             exposures.
+                                                Deviation Trim G.T.             Gap IMI40             Gap TRIMI         No impatto IT Impatto IT
+                                                                                                                                                 21
+
+Deviation/Gap and Deliverables: TRIMI
+ Modulo       Iniziatives                         Deliverable
+              Methodological weakness             G. 1 Rivedere alcuni punti metodologici della stima della LGD (cure rate, clustering, ..)
+     A     1
+              on LGD model specification
+              Discrepancies in functional         G. 2 Adeguare documentazione funzionale del COG sulla definizione di default
+       E   2
+              specifications
+   C     D
+              Data quality framework              G. 3 Rivedere ruoli, responsabilità, controlli e dimensione del data quality
+  ‘
+           3
+              flaws
+              The framework for the periodic      G. 4 Rivedere e formalizzare il framework sul ciclo di vita dei modelli
+     A     4
+              review of estimates is not
+              adeguate
+              Validation framework’s              G. 5 Rivedere e migliorare il framework di Convalida
+      C    5
+              flaws
+     ‘
+              Lack of homogeneity across          G. 6 Analizzare e ove necessario migliorare l’omogeneità della rischiosità delle controparti all’interno delle diverse classi della
+     A     6
+              PD model grades                          MS (per differenti risk drivers, i.e. mortgages, possibile low heterogeneity su classi consecutive della master scale)
+     A     7  Definition of default is not consi- G. 7 Ricalibrare i modelli di erogazione retail sulla attuale definizione di default
+              stent across all involved models
+       A   8   Outlier’s treatment                G. 8 Rivedere e migliorare il trattamento degli outlier’s
+               Likely range of variability of     G. 9 Definire e monitorare nel tempo la likely range of variability per i modelli di rating
+       A   9
+               DRs
+               PDs’ final estimates are biased in G. 10 Migliorare la distribuzione della clientela nelle diverse classi della master scale
+       A   10
+               some grades as effect of the
+               mapping to the master Scale
+                                                  Deviation Trim G.T.             Gap IMI40               Gap TRIMI             No impatto IT        Impatto IT
+                                                                                                                                                                                      22
+
+Deviation/Gap and Deliverables: TRIMI
+ Modulo    Iniziatives                      Deliverable
+           No MoC framework is in           G. 11 Definire un framework sui MoC (margin of conservatism dei modelli di pd, lgd e ead)
+  A     11
+           place
+           Data quality issues in LGD       G. 12 Migliorare il data quality sulla LGD
+  A     12
+           data set
+  A
+           The LGD RDS does not             G. 13 Inserire anche il valore del collaterale nella stima della LGD
+        13
+           contain relevant
+           information on the values
+           of collaterals associated
+           with the exposure
+           The discounting methodology for G. 14 Attualizzare i flussi di cassa all’euribor + 5% in loco dei tassi storici attualmente utilizzati
+  A     14
+           computing the LGD is not aligned
+           with supervisory expectations
+           Treatment of multiple            G. 15 Allineare l’attuale trattamento dei default multipli a quello disciplinato nelle linee guida della TRIM
+  A     15
+           defaults
+           Lack of heterogeneity            G. 16 Rivedere e migliorare l’heterogeneity delle diverse classi della griglia della LGD
+  A     16
+           across LGD model grades
+           Erroneous data are not
+  A     17                                  G. 17 Migliorare il data quality sulla LGD
+           appropriately documented
+            Treatment of incomplete
+  A     18                                  G. 18 Rivedere il trattamento dell’incomplete work out nella stima della LGD
+            workout
+            Estimate (ELBE)                 G. 19 Rivedere la stima della LGD in default
+  A     19
+            RWA for defaulted Exposures.
+                                            Deviation Trim G.T.             Gap IMI40               Gap TRIMI              No impatto IT          Impatto IT
+                                                                                                                                                             23
+
+Piano Rilasci IT
+                                                                      Requisiti                                                                                              Note
+                                                                                      Data            Implementazio
+   Nr. BR         Descrizione          Priorità      Stato BR         Business                                                     UAT        Produzione  Criticità (riferimento finding
+                                                                                approvazione BR               ni IT
+                                                                     condivisi                                                                                               BCE)
+                                                                                                                                                                        TRIMI n. 7, 9, 17
+  72100    Ricalibrazione modelli pd               In execution      13/06/2018    22/06/2018            23/07/20181           20/08/2018      07/09/2018
+                                                                                                                                                                         IMI40 n. 9, 12
+                                                                                                               dal
+                                                                                                                              dal 01/10/18
+                                                                                                            03/09/18
+  73387      MOC soglie forborne                     Approvato       16/07/2018    03/09/2018
+                                                                                                                al
+                                                                                                                                     al         29/11/18                   IMI40 n. 8
+                                                                                                                                16/11/18
+                                                                                                            21/10/18
+          Attribuzione rating per casi                                                                                                                                     IMI40 n. 7
+  75673       di bilanci scaduti, ex                Censimento       07/09/2018    28/09/2018             01/10/2018            07/1/2019      28/01/2019                  TRIM GT 6
+             default, rating scaduti
+                   Risoluzione
+          disallineamento temporale                                                                                                                                        IMI40 n. 7
+                                                    Censimento                     Sono in corso le analisi per la valutazione di fattibilità
+  76351       delle informazioni di
+                                                                                    con la Funzione Segnalazioni di Vigilanza del COG
+                                                                                                                                                                           TRIM GT 6
+            esposizione tra rating e
+                  segnalazione
+           MOC forborne processo
+                                                In Pianificazione IT
+  75671    con tracciabilità di rating                               13/08/2018    14/09/2017             17/09/2018           17/12/2018      28/01/2019                  IMI40 n. 8
+              pre moc e post moc
+               Revisione regole di
+                                                                     30/08/2018                                                                                           IMI40 n. 10
+  75989    stabilizzazione del rating               Censimento                     16/11/2018             19/11/2018           25/02/2019      29/03/2019
+                     (cut-off)
+                                                           Priorità
+                                                             Alta
+                                                                                                                                                                                          24
+
+

@@ -1,0 +1,1207 @@
+Revisione Convalida AIRB
+Rapporto n. 36_2018
+Siena,
+          Direzione Chief Audit Executive
+          Area Revisione Specialistica
+          Servizio Financial & Model Risk Audit
+
+La presente revisione, rientrante tra quelle obbligatorie e pianificata nell’ambito dell’Audit Plan 2018, è stata
+indirizzata a valutare la funzionalità del processo di convalida del sistema AIRB, nel rispetto delle condizioni di
+idoneità per l’utilizzo regolamentare delle stime di rischio.
+Nel dettaglio sono stati analizzati:
+•   gli aspetti di governance del processo di convalida;
+•   il Framework di Convalida del 2017 con un focus sulle modifiche apportate rispetto alla versione precedente;
+•   il processo di risoluzione dei gap di convalida;
+•   le attività di backtesting 2017 e 2018 relative ai modelli in produzione;
+•   i controlli svolti sulla ricalibrazione delle PD 2018 oggetto di notifica ex ante all’Autorità di Vigilanza.
+Quest’ultima attività è stata svolta parzialmente dal momento che tale notifica, inviata in data 31/08/2018, è stata
+rifiutata dall’Organo di Vigilanza nel mese di ottobre 2018.
+Per lo svolgimento dell’attività di audit è stata interessata prevalentemente la Funzione di Convalida Interna
+(Servizio Validazione Sistemi di Rischio), responsabile del processo in esame. L'intervento è stato effettuato
+attraverso interviste con i referenti della struttura auditata ed analisi a distanza.
+In ottemperanza alle disposizioni di Vigilanza ed in conformità agli Standard di Audit del Gruppo, i risultati della
+revisione con l’evidenza delle principali criticità rilevate, dei conseguenti ambiti di miglioramento e dei relativi
+interventi correttivi sono stati comunicati alle competenti Funzioni.
+                                                                                                                     2
+
+  Overview
+                                                                                  ANAGRAFICA INTERVENTO
+ Intervento: Revisione Processo Convalida AIRB                                                         Responsabile Audit Team: Boffa Cristina
+ Obbligatorietà: SI
+ Unità auditata: Servizio Validazione Sistemi di Rischio (Moni Stefano)                                Audit Team:
+ Tipologia di intervento: Settoriale                                                                   » Barone Claudio
+ Data open meeting: 05/10/2018                                                                         » Bianconi Serena
+ Data exit meeting: 13/12/2018                                                                         » Spampani Francesco
+                                                                                                       » Valori Luca
+                                                                                     ESITO INTERVENTO
+                           GRADE COMPLESSIVO INTERVENTO                                               FATTORE          DISTRIBUZIONE  DEI GAP PER RILEVANZA
+                                                                                                      CAUSALE          ALTA            MEDIA          BASSA
+         Rating 1              Rating 2               Rating 3                 Rating 4             <U+F080> Risorse            -                -              -
+        (VERDE)               (GIALLO)            (ARANCIONE)                 (ROSSO)
+                                                                                                    <U+F044> Processi           -                -             1
+                                                                                                       Sistemi           -                -              -
+     La scala di valutazione si articola su quattro livelli a criticità crescente: Rating 1
+     (VERDE), Rating 2 (GIALLO), Rating 3 (ARANCIONE), Rating 4 (ROSSO).                               Totale            -                -             1
+              PRECEDENTI   INTERVENTI DI REVISIONE (SE ESISTENTI)                                             ORGANI DESTINATARI DEL PRESENTE AUDIT
+                                PERIODO    DELLA              N.             GRADE
+  AMBITO INTERVENTO                                                                                 LEGAL ENTITY                     ORGANO DESTINATARIO
+                                     VERIFICA           RAPPORTO          INTERVENTO
+                                                                            Rating 1
+Revisione Convalida AIRB 29/09/17 – 20/12/17             193_2017
+                                                                            (Verde)
+                                                                                                                                                            3
+
+Organigramma Strutture Auditate
+                   Chief Risk Officer
+            Leonardo Bellucci
+                                                           Validazione Sistemi di
+                                      Validazione Sistemi
+                                                                   Rischio
+                                           di Rischio
+                                                               Regolamentari
+                                     Stefano Moni         Daniele Salvatore Pezzulla
+Direzione
+  Area
+Servizio
+ Settore
+                                                                                     4
+
+ Executive Summary (1/2)
+             Chiaro assetto organizzativo, adeguato collocamento gerarchico, cultura del rischio diffusa, reporting ben strutturato
+             Le responsabilità del processo sono chiaramente identificate ed assegnate dal Regolamento n. 1. La normativa interna vigente è
+             dettagliata, coerente e adeguata a definire il ruolo della Funzione di Convalida. Inoltre, le verifiche svolte hanno evidenziato che tutti gli
+             adempimenti menzionati in normativa sono presidiati e non si rilevano conflitti nelle responsabilità attribuite.
+             Il collocamento gerarchico della Funzione di Convalida (riporto diretto al CRO) è in linea con quanto contemplato sia negli RTS EBA sia
+GOVERNANCE   dalle Guidelines TRIM 2017. Gli approfondimenti svolti ne hanno constatato l’autonomia e l'indipendenza. Tale valutazione è stata
+             confermata anche nel self-assessment sulla separatezza tra Funzione di Sviluppo dei modelli e Funzione di Convalida richiesto
+             dall’Autorità di Vigilanza.
+             La cultura del rischio è conosciuta e diffusa e si è riscontrata consapevolezza delle normative vigenti e delle prassi operative adottate. La
+             reportistica istituzionale prodotta è adeguatamente strutturata e rispondente alle richieste della normativa interna e regolamentare.
+             Correttezza processo di assegnazione dei giudizi. Lievi carenze nel presidio sulla bontà dei parametri della funzione di
+             calibrazione PD
+             La metodologia con la quale la Funzione auditata effettua le proprie attività per esprimere un parere finale non è variata rispetto al 2016 ed
+             è chiaramente illustrata nel documento metodologico (Framework di Convalida SRI 2017). I questionari di Convalida 2017, invece, sono
+             stati rivisti in modo significativo al fine di recepire le evoluzioni apportate dalla Funzione di Sviluppo al Sistema dei Rating Interni e le nuove
+             indicazioni derivanti dalla normativa regolamentare. Le modifiche sono motivate e consistenti e l’impatto delle stesse sui giudizi, valutato
+             dalla Funzione di Convalida attraverso simulazioni, risulta coerente con l’assessment 2016.
+ ATTIVITÀ DI
+             Si valuta in maniera positiva il livello di rispetto del Validation Plan 2017 evidenziando che il mancato svolgimento di alcune attività di
+ CONVALIDA
+             validazione è stato causato dal rinvio delle attività di ristima dei modelli PD da parte della Funzione di Sviluppo. Le verifiche condotte
+             hanno permesso di apprezzare la conformità delle attività svolte rispetto a quanto prescritto nei documenti di normativa interna, sia in
+             relazione al processo di convalida dei modelli (D01324) sia per quanto attiene il model change (D02221). In merito alle attività svolte che
+             hanno portato a dare il “nulla osta” alle principali implementazioni effettuate dalla Funzione di Sviluppo, prima dell'invio della notifica ex
+             ante all'Autorità di Vigilanza, si ritiene che i controlli predisposti sulla calibrazione PD siano coerenti con quelli previsti all’interno del
+             Framework di Convalida. Si rileva esclusivamente la mancanza di un controllo indipendente sulla significatività dei parametri utilizzati nella
+             funzione di calibrazione. Al riguardo, la Funzione di Convalida ha trasmesso prima della conclusione dell'attività di revisione le analisi
+             richieste in merito a tali controlli.
+                                                                                                                                                               5
+
+  Executive Summary (2/2)
+                Test statistico non conforme per i modelli PD
+                Con riferimento ai modelli PD i controlli esaminati relativi agli ultimi due backtesting si ritengono adeguati a monitorare in maniera sintetica
+                i modelli di rating. Tuttavia, poiché l'assegnazione del giudizio sui requisiti "Prudenza" e "Accuratezza" avviene mediante un test statistico
+                applicato in modo non completamente corretto (non utilizzo della numerosità complessiva del campione), si richiede la modifica della
+                procedura impiegata (cfr. gap 1 – Basso – R.C. 1.31). Inoltre, si auspica un riallineamento delle prassi di determinazione degli intervalli per
+                i controlli sull’"Accuratezza" con il Framework di Convalida, in occasione dell'aggiornamento annuale del documento. In merito ad alcuni
+                errori rilevati nelle modalità operative di esecuzione dei controlli, dovuti all’uso significativo di file excel di elaborazione, ma i cui impatti
+                sull’emissione del giudizio finale non sono rilevanti, la struttura auditata si è impegnata ad effettuare le correzioni richieste in tempo utile
+                per il prossimo esercizio di backtesting.
+                Relativamente ai modelli LGD non si evidenziano criticità avendo verificato che i giudizi non positivi espressi su alcuni requisiti sono
+                coerenti con le motivazioni fornite dalla Funzione di Convalida. In particolare, sulla "Rappresentatività" si condivide che il peggioramento
+                del giudizio sulla "Durata del processo di recupero" è da imputare al significativo aumento dell’incidenza delle pratiche chiuse entro un
+                anno (che genera un allontanamento dalla distribuzione osservata in sviluppo) mentre il peggioramento sulla "Tipologia di garanzia" è
+ BACKTESTING    dovuto all'incidenza delle pratiche unsecured (molto più bassa rispetto allo sviluppo) a causa della sempre più accentuata tendenza a
+                chiudere soltanto le pratiche su cui c’è stato un effettivo recupero. Anche il requisito "Accuratezza" risulta coerentemente influenzato dalle
+                dinamiche relative alle cessioni. Si concorda in merito al giudizio negativo espresso sulla tenuta dei "danger rate", decisamente più elevati
+                rispetto a quelli di sviluppo, riportando le maggiori differenze per le dimensioni relative alle controparti sopra soglia. Sul tema la Funzione di
+                Convalida aveva aperto un gap che è stato chiuso in considerazione della comunicazione ex ante inviata all’Autorità di Vigilanza sulla
+                ristima del modello LGD. Poiché tale notifica è stata rifiutata le criticità evidenziate dovranno essere risolte in occasione della ristima
+                pianificata per il mese di aprile 2019.
+                Infine per quanto riguarda il modello EAD si ritiene che la valutazione degli indicatori calcolati sulla popolazione di sviluppo rispetto a quelli
+                calcolati sulla popolazione di produzione sia coerente con la finalità di verificare il potere discriminante del modello, con diffusi riscontri
+                anche in letteratura. Sulla "Performance" si segnala che, per ognuno degli indicatori osservati, il giudizio viene assegnato utilizzando una
+                metodologia che prevede una componente judgemental. Le possibili debolezze insite in tale metodologia sono state condivise con la
+                Funzione auditata che però non ritiene opportuno modificare l'approccio utilizzando un test statistico di verifica. La motivazione addotta è
+                quella di mantenere una confrontabilità dei risultati nel tempo; la metodologia attualmente adottata è ispirata a quella definita dal Comitato
+                di Basilea per la valutazione dell’Accuracy Ratio.
+                Permanenza criticità nel processo di assegnazione del rating
+                In merito al processo di assegnazione del rating permangono taluni problemi rilevati nella revisione precedente; la risoluzione di tali criticità
+                era prevista per il 2018 con le attività di ristima che tuttavia sono attualmente rimandate. Con specifico riferimento alle controparti forborne
+  FOLLOW UP     gli approfondimenti hanno permesso di accertare che la Funzione di Convalida presidia adeguatamente il processo attraverso il controllo
+(REV. 193/2017) dell’attinenza dell’assegnazione del rating alla normativa interna.
+                Si apprezza la correttezza degli approfondimenti svolti dalla Funzione di Convalida riguardanti le osservazioni rilevate nel 2017. Tale
+                attività ha portato all’apertura di 2 gap e di 5 specifiche richieste di approfondimento al COG; quest’ultime non prevedono il seguimento
+                tramite l’applicativo RIGAM ma vengono comunque periodicamente monitorate.
+                                                                                                                                                                6
+
+     Audit findings
+                                                                      RILEVANZA              FATTORE                                         STRUTTURA SCADENZA     CODICE
+N.       PROCESSO                            GAP                                 RISCHIO                        RACCOMANDAZIONE
+                                                                       (A/M/B)               CAUSALE                                          OWNER (GG/MM/AA)      OB SSM
+   Governo/Risk           Backtesting PD                                                               Adottare una metodologia corretta
+   Management/Convalida Il test statistico utilizzato ai fini                                          utilizzando, nell’esecuzione del test
+                                                                                                                                               Servizio
+   del sistema dei rating dell'assegnazione di un giudizio in merito                                   statistico binomiale, la numerosità
+                                                                                                                                             Validazione
+   interni del modello    ai requisiti "Prudenza" ed "Accuratezza"               Rischio di            complessiva delle controparti.
+1                                                                          B                 Processi                                         Sistemi di 30/04/2019 R.C. 1.31
+   AIRB                   non è applicato correttamente in quanto                 Modello              .
+                                                                                                                                               Rischio
+                          utilizza la numerosità delle controparti in
+                          bonis.
+                                                                      Sistemi   <U+F044>   Processi <U+F080> Risorse
+                                                                                                                                                                            7
+
+Overview obiettivi di controllo SSM
+                                                                                                                                             Numero Obiettivi
+           Pillar                                                                Processo                                                                                            A                B              C               D               NA
+                                                                                                                                                 di controllo
+Internal
+                                 Convalida interna dei sistemi di misurazione dei rischi                                                                5                            4                1               -               -               -
+Governance & SCI
+                                                                                                                                                                                              Percentuale di                                    GAP
+  Codice                                                                                 Obiettivi di controllo                                                                                                            Rating
+                                                                                                                                                                                             completamento                                  Associati
+                  Verificare la presenza una chiara divisione dei poteri e delle responsabilità a tutti i livelli, dalle singole unità organizzative
+                  agli organi aziendali. Accertare inoltre che siano chiaramente definite le linee di riporto e il collocamento gerarchico
+ IG.1.2                                                                                                                                                                                              100%                     A
+                  dell'intera struttura organizzativa, nel rispetto del principio di ‘’segregation of duties’’ e dei vincoli normativi esistenti (es:
+                  collocamento gerarchico delle Funzioni Aziendali di Controllo)
+                  Verificare che le strategie e le politiche adottate siano comunicate a tutto il personale interessato e che la cultura del
+ IG.2.3                                                                                                                                                                                              100%                     A
+                  rischio sia applicata a tutti i livelli dell’ente
+                  Verificare l'esistenza di adeguati e strutturati flussi informativi sia verticali che orizzontali e che gli stessi siano
+ IG.2.11                                                                                                                                                                                             100%                     A
+                  opportunamente codificati.
+                  Verificare che vi sia un'adeguata condivisione delle informazioni strategiche ovvero di quelle legate alla gestione del
+                  rischio all'interno della Banca (ogni dipendente dovrebbe essere consapevole dei rischi che assume con le operazioni
+ IG.2.12                                                                                                                                                                                             100%                     A
+                  che mette in atto e degli obiettivi ad esso assegnati - sia in termini di performance che di gestione del rischio - nonché
+                  del relativo andamento).
+                  Nel caso di adozione di modelli interni per la determinazione del capitale regolamentare per il rischio di credito e di                                                                                                    Gap n. 1
+ RC.1.31                                                                                                                                                                                             100%                     B
+                  Controparte, verificare che i requisiti minimi previsti dalla normativa di riferimento siano rispettati nel continuo.                                                                                                       BASSO
+La scala di rating si articola su quattro livelli a criticità crescente ( «A»; «B», «C», «D»). Lo stato «NA» (Non applicabile) è indicato qualora non è espresso alcun rating sull’Obiettivo di controllo, che seppur selezionato in fase di pianificazione
+dell’intervento non è stato oggetto di specifica verifica in corso di accertamento
+                                                                                                                                                                                                                                                            8
+
+Agenda
+       1 Contesto di riferimento
+       2 Attività svolta
+       3 Audit findings
+         Allegati
+                                 9
+
+  1      Contesto di riferimento
+Con riferimento alla definizione dei requisiti regolamentari, il Gruppo MPS è stato autorizzato nel giugno 2008 all’utilizzo dei sistemi interni di rating avanzati
+(AIRB – Advanced Internal Rating Based) per la determinazione dei requisiti patrimoniali a fronte del rischio di credito. Il perimetro di applicazione del
+metodo AIRB allo stato attuale comprende la Capogruppo Banca MPS, MPS Capital Services Banca per le Imprese e MPS Leasing & Factoring
+relativamente ai portafogli regolamentari “Esposizioni al Dettaglio” ed “Esposizioni verso Imprese”. Per i restanti portafogli e le restanti entità del Gruppo
+(36% degli RWA a Settembre 2018) i requisiti patrimoniali a fronte dei rischi di credito sono calcolati secondo la metodologia standardizzata.
+                                            set-17                       dic-17               mar-18                  giu-18                     set-18
+   RWA - Rischio di Credito
+                                       €/mgl            %            €/mgl         %       €/mgl        %          €/mgl         %           €/mgl          %
+   Metodo Standard                  21 283 422        43%         20 698 503     43%    20 344 688     42%      19 568 982      39%       18 273 725       36%
+   Metodo AIRB                      28 742 724        57%         27 014 214     57%    27 617 825     58%      31 020 519      61%       31 932 100       64%
+   Totale                           50 026 147                    47 712 717            47 962 513              50 589 501                50 205 825
+La definizione di un Framework di Convalida costituisce un requisito essenziale per il riconoscimento regolamentare del sistema AIRB ai fini della
+determinazione del requisito di vigilanza a fronte del Rischio di Credito.
+Nell’ambito del processo di convalida il Framework del Gruppo MPS prevede che vengano verificati i singoli requisiti attinenti il modello AIRB-SRI (Sistema
+di Rating Interno) enunciati all’interno della normativa di vigilanza, con l’obiettivo di assegnare un giudizio di convalida complessivo sulla rispondenza del
+sistema interno ai requisiti normativi.
+La scelta metodologica effettuata (ricorso a domande a risposta multipla, cui viene assegnato un punteggio, che opportunamente pesato permette di
+determinare uno score mappabile in un giudizio) risponde all’esigenza di rendere il processo di convalida trasparente e oggettivo, non solo nei confronti
+dell’Autorità di Vigilanza ma anche, e soprattutto, nei confronti delle singole strutture di primo livello che sviluppano il Sistema di Rating a cui vengono
+indirizzati gli ambiti di miglioramento individuati ai fini della loro sistemazione.
+Le attività svolte dalla Funzione di Convalida sono riepilogate nel seguente schema.
+                                                                                         Calcolo dello          Costruzione del
+                                     Mappatura dei
+                                                                     Dati input             score e               cruscotto di
+                                        requisiti
+                                                                 score convalida       predisposizione             convalida
+                                    (vedi Allegato 1)
+                                                                                            giudizi               complessivo
+                                                                                                                                                                    10
+
+2       Attività svolta: Verifica divisione poteri e responsabilità (1/2)
+                  OBIETTIVO                                   PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+Verificare la presenza di una chiara             Perimetro: Gruppo MPS – Convalida AIRB                         Rischio operativo
+divisione dei poteri e delle responsabilità a
+tutti i livelli, dalle singole unità             Metodologia: analisi dei seguenti documenti:
+organizzative agli organi aziendali.             • D00751 - Regolamento n. 1;
+                                                 • D00754 - Incarichi di Responsabilità;
+Accertare inoltre che siano chiaramente          • D02208 - Direttiva di Gruppo in materia di
+definite le linee di riporto e il collocamento      Convalida interna dei sistemi di misurazione dei
+gerarchico          dell'intera        struttura    rischi;
+organizzativa, nel rispetto del principio di     • D01324 – Convalida del Sistema dei Rating
+segregation of duties e dei vincoli                 Interni del modello AIRB;
+normativi esistenti (es: collocamento            • D00793 – Policy di Gruppo in materia di Sistema
+gerarchico delle Funzioni Aziendali di              dei Controlli Interni;
+Controllo)                                       • D01114 – Policy in materia di Risk Management
+                                                    (Governo dei rischi);
+Obiettivo di controllo: IG 1.2                   • D01020 – Direttiva di Gruppo in materia di
+                                                    Gestione del rischio di Credito;
+                                                 • Catalogo dei Processi di Gruppo
+              VERIFICHE    SVOLTE                                                                        ESITI
+Verifica delle responsabilità assegnate           Il Regolamento n.1 (D00751) assegna chiaramente la responsabilità, a livello di Gruppo, del processo di
+attraverso l’analisi della normativa interna      “Convalida del sistema dei rating interni del modello AIRB” al Servizio Validazione Sistemi di rischio, che
+in materia.                                       deve valutare in maniera continuativa il posizionamento del sistema dei rating interni del modello AIRB
+                                                  rispetto ai requisiti regolamentari, sulla base del framework definito, svolgendo le attività previste dal
+                                                  Validation Plan.
+                                                  Si esprime un giudizio positivo in merito alla normativa interna vigente che è risultata dettagliata, coerente e
+                                                  adeguata a definire il ruolo della Funzione di Convalida, pur riscontrando la necessità di aggiornare alcuni
+                                                  documenti (D01114, D01020) nelle sezioni “Elenco Funzioni e Ruoli Interessati”, che riportano la
+                                                  corrispondenza tra ruoli ed organi aziendali.
+Verifica degli incarichi di responsabilità       Il ruolo del Responsabile della Funzione di Convalida è chiaramente identificato nella normativa interna;
+assegnati (D00754).                              nello specifico, tale ruolo è attribuito al responsabile pro-tempore del Servizio Validazione Sistemi di Rischio.
+                                                 Sempre dal documento "Incarichi di responsabilità" si evince che l’attuale responsabile del Servizio
+                                                 Validazione Sistemi di Rischio è in carica a partire dal 09/03/2016.
+                                                                                                                                                                11
+
+2      Attività svolta: Verifica divisione poteri e responsabilità (2/2)
+           VERIFICHE    SVOLTE                                                                     ESITI
+Verifica dell'indipendenza della Funzione La Funzione di Convalida Interna risponde gerarchicamente al CRO; tale assetto è contemplato sia negli
+di Convalida (EBA, TRIM, D00751,          RTS EBA sia dalle Guidelines TRIM 2017 (par 2.5.1 punto 15.b). In quest’ultime è infatti previsto che la
+D00793).                                  funzione di sviluppo dei modelli e la funzione di convalida costituiscano due unità separate con riporto allo
+                                          stesso membro dell'alta direzione, purché ne sia garantita l’indipendenza.
+                                          L’autonomia e indipendenza, da Regolamento n.1, sono assicurate da meccanismi relazionali e di raccordo
+                                          funzionale con gli Organi aventi funzioni di supervisione strategica, gestione e controllo. Infatti:
+                                          •    la nomina/revoca del Responsabile della Funzione viene proposta dal Comitato Rischi, che si avvale del
+                                               contributo del Comitato nomine, e viene deliberata dal CdA, una volta sentito il Collegio Sindacale.
+                                          •    l’assetto retributivo del Responsabile della Funzione è proposto dal Comitato Remunerazione e
+                                               deliberato dal CdA, sentito il parere del Comitato Rischi.
+                                          L’analisi dei verbali dei Comitati di Remunerazione del 2017 evidenzia che il Responsabile della Funzione di
+                                          Convalida non ha ricevuto alcuna retribuzione variabile, direttamente o indirettamente collegata alla
+                                          performance della Funzione Risk Management, e ha percepito soltanto un’indennità di posizione che può
+                                          essere ricondotta, secondo i principi di cui alle Guidelines EBA, alla retribuzione fissa.
+                                          A conferma della separatezza delle Funzioni di Sviluppo dei modelli e di Convalida Interna, a luglio 2018 la
+                                          Direzione Chief Risk Officer, su richiesta dell’Autorità di Vigilanza, ha prodotto il documento “Self-
+                                          assessment regarding compliance with TRIM Guidelines on separation between Model Development and
+                                          Validation” che inquadra l’assetto organizzativo delle due funzioni rispetto a quanto presente nelle suddette
+                                          Guidelines.
+Verifica   della     separatezza    delle Gli adempimenti menzionati in normativa sono presidiati e non si rilevano conflitti nelle responsabilità
+responsabilità per ogni Fase/Attività del attribuite. Nello specifico, nel Catalogo dei Processi di Gruppo è evidenziato che la fase “Convalida del
+processo (Catalogo dei Processi di        sistema dei rating interni del modello AIRB”, facente parte del processo “Convalida Interna del Sistema di
+Gruppo, D01324).                          Misurazione dei Rischi” (macroprocesso Risk Management), è declinata in n. 8 attività:
+                                             •    controlli definiti come continuativi;
+                                             •    controlli definiti come periodici;
+                                             •    controlli in First Time Adoption;
+                                             •    controlli per il passaggio in produzione di modifiche alle procedure che implementano i modelli;
+                                             •    manutenzione Framework di Convalida;
+                                             •    monitoraggio stato di avanzamento;
+                                             •    pianificazione annuale e predisposizione del Validation Plan;
+                                             •    Relazione Annuale di Convalida.
+                                          Il livello con il quale gli adempimenti previsti per ognuna di queste attività sono stati descritti, dalla Funzione
+                                          di Convalida, all’interno del documento “Convalida del Sistema dei Rating Interni AIRB” (D01324), risulta
+                                          adeguato. Risultano specificati gli attori coinvolti e i supporti previsti (es. applicativi, documenti e normativa).
+                                                                                                                                                            12
+
+2       Attività svolta: Analisi cultura del rischio
+                  OBIETTIVO                                       PERIMETRO/ METODOLOGIA                                           RISCHI IMPATTATI
+Verificare che le strategie e le politiche          Perimetro: Gruppo MPS                                          Rischio operativo
+adottate siano comunicate a tutto il
+personale interessato e che la cultura del          Metodologia: Analisi documentale, colloqui             e
+rischio sia applicata a tutti i livelli dell’ente.  corrispondenza e-mail con le strutture
+Obiettivo di controllo: IG 2.3
+             VERIFICHE   SVOLTE                                                                              ESITI
+Analisi della composizione del Servizio             La composizione dell’organico e l’anzianità di servizio (nel Gruppo MPS e nella Direzione CRO) delle risorse
+Validazione Sistemi di Rischio in termini di        appartenenti alle strutture auditate non presentano criticità. In particolare, il Settore Validazione Sistemi di
+risorse.                                            Rischio si compone di n. 6 unità (incluso il responsabile) con una esperienza nel settore in media di 5,8
+                                                    anni.
+Intervista al Responsabile di Settore per           Sulla base delle informazioni acquisite è possibile affermare che le risorse appartenenti alle strutture
+verificare: il livello di conoscenza della          auditate hanno una chiara conoscenza e comprensione della cultura del rischio e la piena consapevolezza
+cultura del rischio, delle normative vigenti        delle normative vigenti e delle prassi operative adottate.
+e delle prassi operative da parte del               L’analisi dell’elenco dei corsi frequentati dai componenti della struttura evidenzia che tutte le risorse hanno
+personale della struttura attraverso                ricevuto un’adeguata formazione specifica in materia di Risk Management e le conoscenze acquisite sono
+interviste        e       verifica            della state riversate all’interno della struttura.
+frequenza/partecipazione a corsi di
+formazione interna/esterna.                         Le precedenti esperienze professionali di alcune risorse junior coinvolte nella validazione del perimetro AIRB
+                                                    evidenziano una pregressa conoscenza delle tematiche del risk management maturata in aziende di
+                                                    consulenza esterne.
+Verifica, a livello di Senior Management,           La Funzione di Convalida non ha mai svolto attività di Board Induction in tema di Sistema di Rating Interni.
+dell'effettuazione di una Board Induction           Al momento non sono previste in futuro specifiche sessioni sul tema ma le tematiche riguardanti tali aspetti
+al CdA.                                             sono rappresentate al Board dalla Funzione Risk Management.
+                                                    La Funzione di Convalida comunque illustra al CdA annualmente la Relazione di Convalida in cui sono
+                                                    riportati gli esiti principali delle proprie attività.
+                                                                                                                                                                 13
+
+2       Attività svolta: Analisi dei flussi informativi
+                   OBIETTIVO                                   PERIMETRO/ METODOLOGIA                                             RISCHI IMPATTATI
+Verificare l'esistenza di adeguati e             Perimetro: Gruppo MPS                                          Rischio operativo
+strutturati flussi informativi sia verticali che
+orizzontali e che gli stessi siano               Metodologia:         Analisi      della       seguente
+opportunamente codificati.                       documentazione:
+                                                 • Relazione di Convalida 2017;
+Obiettivo di controllo: IG 2.11                  • Rapporto sui Dati;
+                                                 • Rapporto sul Modello;
+                                                 • Rapporto sui Processi;
+                                                 • D03124 - Convalida del Sistema dei Rating
+                                                      Interni del modello AIRB;
+                                                 • D02208 - Direttiva di Gruppo in materia di
+                                                      Convalida Interna.
+              VERIFICHE   SVOLTE                                                                          ESITI
+Analisi della struttura della reportistica        La reportistica istituzionale prodotta dalla Funzione di Convalida risulta adeguatamente strutturata e
+istituzionale e "on demand".                      rispondente alle richieste della normativa interna e regolamentare. Le attività pianificate nell’ambito del
+                                                  Validation Plan risultano svolte, con l’eccezione delle attività previste per la ristima dei modelli PD, che è
+                                                  stata posticipata dalla Funzione Risk Management. Rileva positivamente come le attività non effettuate
+                                                  siano state sostituite da nuovi report periodici di backtesting su modello Banche ed EAD.
+                                                  Rileva positivamente come la Funzione di Convalida predisponga un documento metodologico nel quale per
+                                                  ogni verifica vengono riportati il requisito verificato e le attività previste con le indicazioni dei vari controlli e
+                                                  la loro descrizione.
+                                                  Per quanto concerne i flussi informativi “on demand” la Funzione di Convalida ha prodotto, su richiesta
+                                                  dell’Autorità di Vigilanza, un assessment sull’indipendenza tra “model validation” e “model development”;
+                                                  tale documento risulta adeguatamente strutturato con i corretti riferimenti alla normativa regolamentare ed il
+                                                  posizionamento della Banca rispetto alla stessa.
+                                                                                                                                                                     14
+
+2       Attività svolta: Analisi modalità di condivisione delle informazioni
+                OBIETTIVO                                PERIMETRO/ METODOLOGIA                                             RISCHI IMPATTATI
+Verificare che vi sia un'adeguata           Perimetro: Gruppo MPS                                         Rischio operativo
+condivisione delle informazioni strategiche
+ovvero di quelle legate alla gestione del   Metodologia: Analisi documentale, colloqui            e
+rischio all'interno della Banca (ogni       corrispondenza e-mail con le strutture
+dipendente dovrebbe essere consapevole
+dei rischi che assume con le operazioni
+che mette in atto e degli obiettivi ad esso
+assegnati - sia in termini di performance
+che di gestione del rischio - nonché del
+relativo andamento)
+Obiettivo di controllo: IG 2.12
+            VERIFICHE    SVOLTE                                                                     ESITI
+Verificare che vi sia un'adeguata           La condivisione e lo scambio delle informazioni risultano adeguati e tali da consentire alle risorse di svolgere
+condivisione delle informazioni strategiche le proprie attività in maniera consapevole. Vengono effettuati degli incontri, generalmente giornalieri, al fine
+ovvero di quelle legate alla gestione del   di seguire il progresso delle attività, risolvere eventuali criticità, indirizzare le nuove attività che riguardano
+rischio.                                    uno o più sistemi di misurazione dei rischi, tra cui il perimetro AIRB.
+                                            Risulta adeguato il livello di differenziazione degli strumenti di comunicazione in relazione allo scopo, al
+                                            contenuto da veicolare e alla riservatezza del contenuto informativo. I mezzi di comunicazione adottati sono:
+                                            i report, i documenti interni, le mail, la corrispondenza formale SISIFO, l’applicativo di Convalida, le directory
+                                            con accessi controllati presenti sul server di Convalida e il team site per la condivisione della
+                                            documentazione.
+                                                                                                                                                             15
+
+2      Attività svolta: Analisi del processo risoluzione gap
+                 OBIETTIVO                                   PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+Nel caso di adozione di modelli interni per     Perimetro: Gruppo MPS                                         Rischio operativo
+la     determinazione          del     capitale
+regolamentare, verificare che i requisiti       Metodologia: Analisi documentale ed estrazione
+minimi previsti dalla normativa di              gap RIGAM.
+riferimento siano rispettati nel continuo.
+Obiettivo di controllo: RC 1.31
+             VERIFICHE     SVOLTE                                                                       ESITI
+Analisi della gestione dei gap di convalida,    Alla data del 22/10/2018 la Funzione di Convalida ha chiuso, a partire dal 2014, 148 gap ovvero circa il 95%
+sia di quelli aperti (attività in corso e SAL)  del numero complessivo dei gap inseriti in RIGAM.
+che di quelli chiusi (problematica risolta o
+apertura di un nuovo gap).
+                                                Pur riconoscendo la bontà delle azioni di seguimento dei gap è necessario segnalare che gli
+                                                approfondimenti svolti sui 26 gap chiusi nel periodo 2017- 2018 hanno evidenziato:
+                                                •   la chiusura dei 3 gap aperti nel 2016 (CV_2016_00029, CV_2016_00030, CV_2016_00031), dove non
+                                                    sempre è stata indicata in maniera esaustiva la soluzione delle problematiche. In un caso, la chiusura del
+                                                    gap CV_2016_00030 ha implicato l’apertura di 3 nuovi gap al fine di garantirne un migliore seguimento,
+                                                    per i quali alla data del 22/10/2018 si rileva in RIGAM il seguente stato dell’arte:
+                                                    o CV_2017_00013: gap chiuso in data 30/09/2018;
+                                                    o CV_2017_00014: gap aperto (SAL pari al 40%) con data di mitigazione 30/04/2019. Inizialmente
+                                                        collegato al BR 73015 che risulta sospeso e del quale non c’è un richiamo specifico in RIGAM;
+                                                    o CV_2017_00015: gap scaduto (SAL pari al 10%) e ripianificato al 31/12/2018;
+                                                •   la chiusura di circa 1/3 dei restanti gap (9 gap su 26 totali) presenta i seguenti elementi di attenzione:
+                                                    o 7 gap sono stati chiusi in considerazione delle attività di ristima/ricalibrazione dei modelli pianificate
+                                                        nel 2018 dalla Funzione Risk Management. Tuttavia, poiché tali attività sono state rinviate, le criticità
+                                                        collegate ai gap sono ancora presenti e gli RWA a fine anno saranno stimati con i vecchi modelli;
+                                                    o 2 gap sono stati chiusi in quanto le attività a cui erano collegati sono uscite dal perimetro delle attività
+                                                        della Funzione di Convalida.
+                                                Su tali aspetti è stato richiesto un maggiore rigore nell’utilizzo dell’applicativo e nell’inserimento delle
+                                                informazioni utili a comprendere le scelte operative e/o le decisioni che hanno portato alla chiusura del gap.
+                                                                                                                                                               16
+
+2      Attività svolta: Verifica livello di completamento Validation Plan
+                OBIETTIVO                                   PERIMETRO/ METODOLOGIA                                             RISCHI IMPATTATI
+Nel caso di adozione di modelli interni per    Perimetro: Gruppo MPS                                           Rischio operativo
+la     determinazione        del      capitale
+regolamentare, verificare che i requisiti      Metodologia: Analisi documentale della seguente
+minimi previsti dalla normativa di             normativa:
+riferimento siano rispettati nel continuo.     • D01324 - Convalida del Sistema dei Rating
+                                                   Interni del modello AIRB;
+Obiettivo di controllo: RC 1.31                • D02221 - Identificazione e gestione del model
+                                                   change (rischio di credito).
+            VERIFICHE    SVOLTE                                                                          ESITI
+Verifica conformità dell'attività       della   Le verifiche condotte hanno permesso di apprezzare la conformità delle attività condotte dalla Convalida
+Convalida alla normativa interna.               rispetto a quanto prescritto nei documenti di normativa interna, sia in relazione al processo di convalida dei
+                                                modelli (D01324) sia per quanto attiene il model change (D02221).
+Confronto tra attività previste dal            Si valuta in maniera positiva il livello di rispetto dei Validation Plan degli anni 2017 e 2018.
+Validation Plan e quanto effettuato dalla      Per quanto riguarda il 2017 le motivazioni alla base del mancato svolgimento di alcune attività di validazione
+Funzione di Convalida.                         risultano condivisibili e già analizzate nel corso della precedente revisione (Rapporto n. 193/2017).
+                                                                                                                                                            17
+
+2       Attività svolta: Analisi delle modifiche ai questionari
+                 OBIETTIVO                                  PERIMETRO/ METODOLOGIA                                                      RISCHI IMPATTATI
+Nel caso di adozione di modelli interni per    Perimetro: Gruppo MPS                                                  Rischio operativo
+la     determinazione        del      capitale
+regolamentare, verificare che i requisiti      Metodologia:           analisi         della       seguente
+minimi previsti dalla normativa di             documentazione:
+riferimento siano rispettati nel continuo.     • Metodologia Convalida SRI 2017 Allegato 4;
+                                               • Relazione di Convalida 2017
+Obiettivo di controllo: RC 1.31
+             VERIFICHE   SVOLTE                                                                                ESITI
+Analisi delle modifiche apportate dalla         I questionari di Convalida 2017 riconducibili ai tre macro-ambiti "Processi", "Modelli" e "Dati" sono stati rivisti
+Funzione di Convalida ai questionari            in modo significativo rispetto al 2016 al fine di recepire le evoluzioni apportate dalla Funzione Risk
+rispetto all’anno precedente.                   Management al Sistema dei Rating Interni e le nuove indicazioni derivanti dalla normativa regolamentare. In
+                                                particolare, sono stati implementati due nuovi questionari in ambito “processo di assegnazione del rating” e
+                                                “modello di calcolo della PD” relativi alle controparti Banche (entrate in perimetro di validazione a dicembre
+                                                2016). A seguito di tali modifiche il numero dei questionari di convalida passa da 31 a 33. In termini di
+                                                domande presenti nei questionari del 2017 circa il 70% di esse è rimasto immutato rispetto al 2016 a fronte
+                                                di un 30% complessivo di domande modificate o inserite, mentre poco meno del 6% delle domande presenti
+                                                nei questionari 2016 è stato eliminato.
+                                                          Numero questionari Numero questionari Totale domande   Domande      Domande      Domande    Domande   Totale domanda
+                                                  Ambito
+                                                               2016               2017               2016       confermate    eliminate    modificate  inserite      2017
+                                                 Processi         8                  9                802           793            7           2          70          865
+                                                 Modelli         22                 23                726           458           42         226         130          814
+                                                   Dati           1                  1                 65            4            39          22          94          120
+                                                  Totale         31                 33               1.593        1.255           88         250         294         1.799
+                                                Dalla disamina della documentazione fornita dalla Funzione di Convalida si evince che le modifiche sono
+                                                motivate e consistenti. L’impatto delle stesse sui giudizi, ove valutato dalla Funzione di Convalida attraverso
+                                                simulazioni, risulta coerente con l’assessment 2016.
+                                                Si segnala che la Relazione annuale di convalida 2017 è stata approvata ad aprile 2018 mentre la relativa
+                                                documentazione metodologica è stata redatta a marzo 2018 e approvata a luglio dello stesso anno.
+                                                Si valuta positivamente il livello di granularità raggiunto dalle varie componenti della Convalida del Sistema
+                                                dei Rating Interni; analizzando tale aspetto nel dettaglio si evidenzia che le modifiche apportate si traducono
+                                                in una migliorata accuratezza di valutazione.
+                                                                                                                                                                           18
+
+    2         Attività svolta: Analisi della metodologia di assegnazione dei giudizi
+                         OBIETTIVO                                                     PERIMETRO/ METODOLOGIA                                                                            RISCHI IMPATTATI
+    Nel caso di adozione di modelli interni per                   Perimetro: Gruppo MPS                                                                        Rischio operativo
+    la        determinazione           del      capitale
+                                                                  Metodologia: analisi dei seguenti documenti:
+    regolamentare, verificare che i requisiti
+                                                                  • Relazione di Convalida 2017;
+    minimi previsti dalla normativa di
+                                                                  • Relazione di Convalida 2016;
+    riferimento siano rispettati nel continuo.
+                                                                  • Metodologia Convalida SRI 2017 Allegato 4.
+    Obiettivo di controllo: RC 1.31
+                  VERIFICHE       SVOLTE                                                                                                                 ESITI
+   Analisi comparativa dei giudizi assegnati                       Il parere della Funzione di Convalida sul Sistema AIRB è “Parzialmente Favorevole”, confermando la
+   al sistema di misurazione del rischio di                        valutazione espressa nel 2016.
+   credito rispetto a quelli elaborati nel 2016.                   La metodologia di valutazione non è variata ed è adeguatamente descritta nel Framework di Convalida. Il
+                                                                   confronto dei giudizi 2016/2017 sui macro-ambiti “Processi”, “Modelli” e “Dati” evidenzia come unica
+                                                                   variazione il parere sui “Processi” che migliora da “Parzialmente favorevole” a “In prevalenza favorevole”.
+                                                                   Si condivide tale parere in quanto, valutando il posizionamento del perimetro AIRB di Gruppo rispetto ai
+                                                                   requisiti regolamentari, emerge un miglioramento sul requisito “Aggiornamento del Rating”1, pur rilevando
+                                                                   che i giudizi dei questionari non hanno subito variazioni sui singoli processi2. Inoltre, la variazione del parere
+                                                                   espresso sui “Processi” è riconducibile anche all’override negativo introdotto nel 2016 dalla Funzione di
+                                                                   Convalida e rimosso nel 2017 avendo risolto buona parte delle criticità rilevate negli anni passati sul
+                                                                   processo di ufficializzazione del rating ed essendo migliorato (rispetto al 2016) il rapporto PD/TD rilevato
+                                                                   con le analisi di backtesting sui rating di vigilanza.
+                                                                                                                                                             Variazione                                                   Variazione
+                                                                                                                  Requisito                                    giudizio         Giudizio 2016              Giudizio 2017   giudizio
+                                                                                                                                                             2015-2016                                                    2016-2017
+                                                                     1. Processi
+                                                                         1.1. Aspetti generali
+                                                                               1.1.1. Segmentazione                                                               <U+2191>     In prevalenza favorevole In prevalenza favorevole
+                                                                               1.1.2. Documentazione                                                                    Parzialmente favorevole  Parzialmente favorevole
+                                                                         1.2. Aspetti specifici del processo di assegnazione del rating
+                                                                               1.2.1. Completezza delle informazione                                                    In prevalenza favorevole In prevalenza favorevole
+                                                                               1.2.2. Replicabilità                                                                     In prevalenza favorevole In prevalenza favorevole
+                                                                               1.2.3. Integrità del processo di assegnazione del rating                           <U+2191>     Favorevole               Favorevole
+                                                                               1.2.4. omogeneità                                                                        Parzialmente favorevole  Parzialmente favorevole
+                                                                               1.2.5. Univocità dell’attribuzione del rating                                            Favorevole               Favorevole
+                                                                               1.2.6. Aggiornamento del rating                                                          Parzialmente favorevole  In prevalenza favorevole      <U+2191>
+                                                                               1.2.7. Utilizzo del sistema di rating nella gestione aziendale                     <U+2191>     In prevalenza favorevole In prevalenza favorevole
+                                                                               1.2.8 .Funzionamento dei processi di assegnazione                                        Parzialmente favorevole  Parzialmente favorevole
+                                                                         1.3. Aspetti specifici del processo di valutazione degli SL
+                                                                               1.3.1. Processo di assegnazione delle classi regolamentari
+                                                                                        1.3.1.1. Classificazione                                                        Parzialmente favorevole  Parzialmente favorevole
+                                                                                        1.3.1.2. Utilizzo della classificazione nella gestione aziendale                In prevalenza favorevole In prevalenza favorevole
+1 Si fa riferimento all’art. 173 della CRR, inserito negli “aspetti specifici del processo di assegnazione del rating”.
+2I giudizi confermano “Buono” per Large Corporate, Banche, PMI, Small Business e Retail, “Discreto” per gli Aspetti Generali e “Sufficiente” per NBFI e Specialized Lending.
+                                                                                                                                                                                                                                 19
+
+     2       Attività svolta: Analisi calibrazione modelli PD
+                       OBIETTIVO                                            PERIMETRO/ METODOLOGIA                                                    RISCHI IMPATTATI
+     Nel caso di adozione di modelli interni per              Perimetro: Gruppo MPS                                                  Rischio operativo
+     la     determinazione           del       capitale
+     regolamentare, verificare che i requisiti                Metodologia: Analisi documentale:
+     minimi previsti dalla normativa di                       D02221 – “Identificazione e gestione del model
+     riferimento siano rispettati nel continuo.               change (rischio di credito)”.
+     Obiettivo di controllo: RC 1.31
+                  VERIFICHE      SVOLTE                                                                                       ESITI
+     Analisi delle attività condotte nel 2018 per              La Funzione di Convalida, in seguito ai controlli svolte in conformità alla normativa interna (D02221), ha dato
+     la convalida dei modelli in produzione in                 il proprio “nulla osta” alle principali implementazioni effettuate dalla Funzione di Sviluppo:
+     termini di allungamento delle serie
+                                                               •    aggiornamento delle serie storiche dei tassi di default includendo le evidenze relative al 2017,
+     storiche per PD.
+                                                               •    estensione a 10 anni dell’orizzonte temporale in modo da assicurare un adeguato mix di anni di
+                                                                    espansione e recessione del PIL italiano,
+                                                               •    introduzione di un diverso trattamento delle controparti beneficiarie di misure di forbearance1.
+                                                               In considerazione della natura degli “interventi”, ritenuti sostanziali (Reg. UE 529), la notifica inviata in data
+                                                               31/8/2018 è stata rifiutata dall’Organo di Vigilanza nel mese di ottobre 2018.
+                                                               I controlli predisposti sulla calibrazione PD dalla Funzione di Convalida sono coerenti con quelli previsti
+                                                               all’interno del framework Metodologia Convalida SRI 2017. Si rileva però un mancato presidio sulla
+                                                               valutazione della bontà dei parametri della funzione logistica utilizzata come funzione di calibrazione (cfr.
+                                                               Allegato 2). Al riguardo, la Funzione di Convalida ha trasmesso prima della conclusione dell'attività di
+                                                               revisione le analisi richieste in merito a tali controlli al fine di consentire alla funzione di audit di effettuare le
+                                                               dovute valutazioni del caso.
+1 Diversamente   dal passato, in cui si escludevano dalla popolazione di calibrazione le controparti con moratorie in corso, il nuovo approccio prevede l’introduzione di un floor (o PD soglia),
+differenziata per ciascun modello, da applicare in produzione alle controparti classificate in forborne.
+                                                                                                                                                                                              20
+
+2      Attività svolta: Analisi verifica di backtesting sui modelli PD (1/3)
+                OBIETTIVO                                                PERIMETRO/ METODOLOGIA                                                RISCHI IMPATTATI
+Nel caso di adozione di modelli interni per                 Perimetro: Gruppo MPS                                            Rischio operativo
+la     determinazione        del      capitale
+regolamentare, verificare che i requisiti                   Metodologia: Analisi documentale
+minimi previsti dalla normativa di
+riferimento siano rispettati nel continuo.
+Obiettivo di controllo: RC 1.31
+            VERIFICHE    SVOLTE                                                                                      ESITI
+Analisi dei giudizi espressi dalla Funzione                 Al fine di effettuare un confronto tra il 2017 e il 2018 in merito al giudizio complessivo espresso sui singoli
+di Convalida in seguito alle verifiche di                   requisiti, in sede di audit, è stata calcolata la media semplice dei giudizi dati sui singoli modelli.
+backtesting modelli PD.
+                                                            L’analisi conferma che i giudizi espressi nel 2018 sono sostanzialmente in linea con quelli forniti nel 2017. In
+                                                            particolare, è necessario porre l’attenzione sul requisito "Concentrazione" per il quale si rileva un
+                                                            peggioramento da C a D a seguito di un downgrade (sempre da C a D) del giudizio espresso sui modelli
+                                                            PMI e Società di Persone mentre si conferma un giudizio sufficiente (C) per i requisiti "Rappresentatività",
+                                                            "Monotonicità", "Prudenza" e "Accuratezza"; per quest’ultimo requisito si continuano a segnalare i giudizi
+                                                            negativi espressi su alcuni modelli (SB con bilancio, Cointestazioni, Singole Persone Fisiche). Positivi sono i
+                                                            pareri espressi per i requisiti "Proprietà dinamiche" e "Performance" valutati rispettivamente come un
+                                                            giudizio ottimo (A) e buono (B).
+                                                            Per il dettaglio delle verifiche svolte sui singoli requisiti si vedano le analisi illustrate successivamente.
+                                                                  Rappresentatività  Performance    Concentrazione    Monotonicità       Prudenza        Accuratezza   Proprietà dinamiche
+                                              Modello
+                                                                   2018      2017   2018      2017   2018     2017   2018      2017   2018      2017    2018      2017   2018        2017
+                                          Large Corporate           C          C     A         A      D         D     C          D     C         C       A         B      A           A
+                                             Corporate              C          C     A         A      D         D     C          C     D         D       A         B      A           A
+                                               NBFI                 C          B     A         A      D         D     D          D     D         D       B         D      A           A
+                                              Banche                C          C     D         D      C         C     D          C     C         C       A         B      A           A
+                                                PMI                 B          B     A         A      C         B     D          B     B         A       A         A      A           B
+                                             Small PMI              C          C     B         B      C         C     B          C     D         C       A         A      B           B
+                                            Pluriennale             C          C     C         C      C         C     C          C     D         D       B         C      B           B
+                                          SB con bilancio           C          C     B         B      D         D     C          C     D         D       E         E      B           B
+                                          Ditte Individuali         C          C     D         D      D         D     B          C     D         D       D         E      A           A
+                                        Società di Persone          C          C     C         C      D         C     B          D     D         D       D         D      A           A
+                                           Cointestazioni           C          C     A         A      D         D     A          B     A         A       E         E      A           A
+                                      Singole Persone Fisiche       C          C     B         B      C         C     A          A     A         A       E         E      A           A
+                                            Pool Retail              -          -    B         B       -        -      -         -     A         A        -         -     A           A
+                                           Pool Aziende              -          -    C         C       -        -      -         -     A         A        -         -     B           A
+                                       Media semplice giudizi       C          C     B         B      D        C      C         C      C         C       C         C      A           A
+                                                                                                                                                                                       21
+
+  2      Attività svolta: Analisi verifica di backtesting sui modelli PD (2/3)
+                     OBIETTIVO                                           PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+  Nel caso di adozione di modelli interni per             Perimetro: Gruppo MPS                                           Rischio operativo
+  la     determinazione          del      capitale
+  regolamentare, verificare che i requisiti               Metodologia: ispezione di documenti elettronici a
+  minimi previsti dalla normativa di                      campione selezionati in base alla percentuale di
+  riferimento siano rispettati nel continuo.              impieghi sul perimetro e ai downgrade e/o
+                                                          valutazioni negative emerse dalle evidenze della
+  Obiettivo di controllo: RC 1.31                         Funzione di Convalida.
+              VERIFICHE      SVOLTE                                                                                ESITI
+ Verifica delle modalità di conduzione dei                 I controlli campionati relativi ai due esercizi di backtest analizzati in corso di revisione sono ritenuti adeguati
+ controlli relativi al monitoraggio dei modelli            a valutare in maniera sintetica le varie dimensioni di analisi.
+ Pd per le seguenti dimensioni:
+                                                           Per ogni modello il giudizio su "Prudenza" e "Accuratezza" viene assegnato confrontando il TD con le PD <U+F0B1>
+ •    COI: Rappresentatività, Accuratezza,                 delle soglie stimate su quest’ultime. Le modalità di determinazione di tali soglie nei controlli relativi a
+      Concentrazione.                                      presentano elementi di criticità:
+ •    SPF: Rappresentatività, Accuratezza,
+                                                           •    "Prudenza": nel test statistico1 effettuato la numerosità utilizzata è quella delle controparti in bonis mentre
+      Concentrazione.
+                                                                è corretto adottare la numerosità complessiva. Inoltre tale test, per come è impiegato, è efficace solo per
+ •    PMI: Prudenza, Monotonicità.
+                                                                campioni di una certa numerosità (n>30).
+ •    SPMI: Prudenza, Performance.
+                                                           •    "Accuratezza": i valori estremi dell’intervallo utilizzati nella prassi operativa sono incoerenti con quelli
+ •    SB con bilancio: Performance,
+                                                                riportati nella metodologia del Framework di Convalida. Come per il requisito "Prudenza" viene utilizzata
+      Concentrazione, Monotonicità,
+                                                                la numerosità del bonis.
+      Prudenza, Accuratezza.
+                                                           Le analisi svolte utilizzando la numerosità totale evidenziano un maggior numero di classi per cui i test
+                                                           falliscono e di conseguenza giudizi più severi di un livello per la "Prudenza" in 3 modelli e per
+                                                           l’"Accuratezza" in 5 modelli. Inoltre l’uso della numerosità complessiva porta a risultati più robusti dei test in
+                                                           quelle classi con maggior incidenza dei default e numero di bonis minore di 30.
+                                                           Si richiede pertanto alla Funzione di Convalida di adottare una metodologia statistica formalmente corretta
+                                                           nell’esecuzione del test statistico e di riallineare le prassi di determinazione degli intervalli per i controlli
+                                                           sull’"Accuratezza" con il Framework di Convalida.
+                                                           Per quanto riguarda le modalità operative di effettuazione dei controlli, sono stati rilevati alcuni errori, dovuti
+                                                           all’uso significativo di file excel di elaborazione, i cui impatti sull’emissione del giudizio finale non sono
+                                                           rilevanti. La struttura auditata si è impegnata ad effettuare le correzioni richieste in tempo utile per il
+                                                           prossimo backtesting dicembre 2017 – dicembre 2018.
+1 viene adottato il test binomiale ad una coda per la Prudenza e a due code per l’Accuratezza.
+                                                                                                                                                                            22
+
+2      Attività svolta: Analisi verifica di backtesting sui modelli PD (3/3)
+            VERIFICHE    SVOLTE                                                                     ESITI
+Verifica di conformità e completezza dei    Limitatamente al campione analizzato è stato verificato che tutte le domande dei questionari sono state
+controlli svolti rispetto ai questionari di effettuate (verifica di completezza) ed i pesi assegnati alle risposte sono coerenti con quelli previsti nel
+convalida (data di riferimento giugno       Framework di Convalida (verifica di correttezza).
+2017).
+                                            È stata verificata la coerenza tra gli esisti dei controlli di convalida e le risposte dei questionari. Il controllo
+                                            ha dato esito positivo su tutti i modelli verificati, ad esclusione del modello SPMI in cui si sono riscontrate
+                                            delle differenze.
+                                            Nel caso specifico, effettuando una simulazione che utilizza le risposte originarie “corrette” si evidenzia un
+                                            upgrade del giudizio sull’ambito "Calibrazione" (da Discreto a Buono) che tuttavia lascia inalterato il giudizio
+                                            complessivo sul Modello (Buono).
+                                            Al fine di rafforzare il presidio su tali controlli sono state condivise queste evidenze con la Funzione di
+                                            Convalida che si è impegnata a riverificare i puntamenti relativi agli esiti di tutti i controlli previsti nel 2018.
+                                            Al netto delle differenze sui questionari del modello SPMI, non sono emerse criticità nel ricalcolo del giudizio
+                                            finale formulato dalla Funzione di Convalida derivante dai punteggi determinati sulle singole dimensioni per
+                                            la Convalida del Funzionamento.
+                                                                                                                                                                 23
+
+2      Attività svolta: Analisi verifica di backtesting sui modelli LGD (1/4)
+                OBIETTIVO                                   PERIMETRO/ METODOLOGIA                                                RISCHI IMPATTATI
+Nel caso di adozione di modelli interni per    Perimetro: Gruppo MPS                                            Rischio operativo
+la     determinazione        del      capitale
+regolamentare, verificare che i requisiti      Metodologia: Analisi documentale.
+minimi previsti dalla normativa di
+riferimento siano rispettati nel continuo.
+Obiettivo di controllo: RC 1.31
+            VERIFICHE    SVOLTE                                                                         ESITI
+Analisi delle verifiche periodiche          di Le attività legate alla produzione dei report periodici sono risultate complete e hanno permesso di formulare
+monitoraggio dei modelli LGD.                  giudizi coerenti.
+                                               Il confronto dei risultati della reportistica periodica sul modello consente di apprezzare la stabilità dei buoni
+                                               risultati relativi ai requisiti "Performance", "Prudenza" e "Calibrazione bonis" e di rilevare il permanere di
+                                               criticità sulla "Rappresentatività" e un andamento altalenante della "Monotocità". Si segnala, inoltre, il netto
+                                               peggioramento del giudizio sull’"Accuratezza" e la conferma di un giudizio negativo sui "Danger Rate" (tale
+                                               giudizio è avvalorato dal fatto che in fase di ICAAP per la stima del costo del credito i cure rate sono stati
+                                               modificati in maniera judgemental).
+                                                                                      Dicembre 2015 –  Giugno 2016 –   Dicembre 2016 –   Giugno 2017 –
+                                                                                       Dicembre 2016    Giugno 2017     Dicembre 2017     Giugno 2018
+                                                          Rappresentatività                  C               C                C                C
+                                                          Performance                        A               A                A                A
+                                                          Monotonicità                       C               B                D                B
+                                                          Prudenza                           A               A                A                A
+                                                          Accuratezza                        C               C                D                D
+                                                          Calibrazione bonis                 A               A                B                A
+                                                          Danger rate                        D               D                E                E
+                                                          media punteggi                   74,286          77,143           62,857           71,429
+                                                                                                                                                              24
+
+2      Attività svolta: Analisi verifica di backtesting sui modelli LGD (2/4)
+          VERIFICHE   SVOLTE                                                                          ESITI
+Analisi delle verifiche svolte requisito In considerazione dei giudizi non positivi assegnati al requisito "Rappresentatività" sono stati condotti
+"Rappresentatività".                     approfondimenti che consentono di apprezzare la coerenza delle motivazioni fornite dalla Funzione di
+                                         Convalida in merito ai seguenti cluster:
+                                         •  "Durata del processo di recupero": il peggioramento del giudizio (che nel report di giugno 2018 passa da
+                                            C a D) è da imputare al significativo aumento dell’incidenza delle pratiche chiuse entro un anno (dal
+                                            49,7% di dicembre 2017 al 59,3% di giugno 2018 rispetto al 34,7% di sviluppo), che genera un
+                                            allontanamento dalla distribuzione osservata in sviluppo. Tale evidenza, pur comportando una minore
+                                            rappresentatività del campione di backtesting rispetto alla popolazione di stima, fornisce il segnale
+                                            positivo di un trend di progressiva riduzione del tempo medio di chiusura delle pratiche;
+                                         •  "Tipologia di garanzia": le motivazioni del continuo peggioramento del giudizio, che si osserva in
+                                            particolare sul periodo dicembre 2016 – dicembre 2017 rispetto al periodo di backtesting precedente
+                                            (giugno 2016 – giugno 2017), sono risultate coerenti e condivisibili. Il giudizio peggiora in considerazione
+                                            della maggiore differenza osservata tra sviluppo e backtesting che per le pratiche unsecured supera il
+                                            20%. Il fatto che, rispetto allo sviluppo, l’incidenza delle pratiche unsecured sia molto più bassa è
+                                            giustificabile con la sempre più accentuata tendenza a chiudere negli ultimi anni (anche in vista delle
+                                            cessioni massive) soltanto le pratiche su cui si è effettivamente recuperato qualcosa. Tale
+                                            considerazione risulta coerente anche con la maggiore differenza riscontrata per le ipotecarie > 200
+                                            (stavolta con segno negativo che passa da -7,8% a -11,2%).
+                                                                                    Focus Rappresentatività/Tipologia di garanzia
+                                                                            Convalida               Convalida                                  <U+0394> % teste tra sviluppo e
+                                                                                                                               Sviluppo
+                                                                       Giu 2016 – Giu 2017     Dic 2016 – Dic 2017                                    convalida
+                                                 Tipologia di garanzia
+                                                                                                                                               Giu 2016 – Dic 2016 –
+                                                                       % teste      Teste      % teste      Teste        % teste      Teste
+                                                                                                                                                Giu 2017      Dic 2017
+                                                Unsecured                 47,52%       1.741      45,21%        1.596       65,51%      70.725     17,99%         20,30%
+                                                Personali                 27,35%       1.002      26,06%          920       19,77%      21.343      -7,58%         -6,29%
+                                                Confidi                    4,04%         148       4,25%          150        2,09%       2.255      -1,95%         -2,16%
+                                                Ipotecarie                 5,35%         196       5,07%          179        6,48%       6.992       1,13%          1,41%
+                                                Ipotecarie 100-140         0,22%           8       0,08%            3        0,25%         273       0,03%          0,17%
+                                                Ipotecarie 140-200         3,74%         137       4,11%          145        1,90%       2.055      -1,84%         -2,20%
+                                                Ipotecarie >200           11,79%         432      15,21%          537        4,00%       4.318      -7,79%       -11,21%
+                                                                                                                                                                          25
+
+2      Attività svolta: Analisi verifica di backtesting sui modelli LGD (3/4)
+           VERIFICHE  SVOLTE                                                                               ESITI
+Analisi delle verifiche svolte requisito Gli approfondimenti svolti hanno condotto a risultati coerenti con le dinamiche relative alle cessioni. Infatti,
+"Accuratezza".                           mediamente i valori di LGD osservata sulle pratiche chiuse non massivamente risultano complessivamente
+                                         più bassi rispetto alla LGD assegnata dal modello. Inoltre, poiché il campione di backtesting è composto da
+                                         sole pratiche chiuse, questo conferma quanto già evidenziato nelle verifiche del requisito di
+                                         "Rappresentatività" ovvero che negli ultimi anni sono state chiuse non massivamente solo le pratiche su cui
+                                         si sono osservati recuperi adeguati.
+                                         Quanto all’analisi per singoli cluster i due più significativi, per cui il rapporto tra LGD assegnata/LGD
+                                         osservata è più alto rispetto al valore medio complessivo, sono quelli relativi alle pratiche piccole
+                                         (dimensione minore di 20.000 €) e chiuse rapidamente (entro 1 anno) per cui tale rapporto è pari
+                                         rispettivamente al 139% e al 148%. Anche in questo caso valgono le considerazioni relative alla tendenza di
+                                         chiudere solo le pratiche su cui si sono osservati recuperi (andando ad abbassare la LGD media osservata)
+                                         mentre quelle in cui si è recuperato meno sono state mantenute aperte o cedute massivamente.
+                                                                                                    accuratezza per driver
+                                                                                       Giu 2016 – Giu 2017                  Dic 2016 – Dic 2017              Giu 2017 – Giu 2018
+                                                  Driver            Dimensione                Esito                                Esito                            Esito
+                                                                                 Ass/Oss                 Giudizio    Ass/Oss                  Giudizio Ass/Oss                 Giudizio
+                                                                                             singolo                              singolo                          singolo
+                                         Modello Complessivo                     107,01%        C           C        119,24%         E           E     128,16%        E           E
+                                                              Unsecured          109,26%        D                    120,86%         E                 132,43%        E
+                                                              Personali          107,20%        B                    122,85%         D                 131,37%        E
+                                                              Confidi            107,72%        A                    112,28%         A                 118,02%        A
+                                           Tipologia garanzia Ipotecarie          94,75%        A           B        105,21%         A           C     116,36%        A           C
+                                                              Ipotecarie 100-140  99,34%        A                    112,48%         A                  93,70%        A
+                                                              Ipotecarie 140-200  81,84%        A                     89,56%         A                  89,84%        A
+                                                              Ipotecarie >200    106,47%        A                    119,38%         A                 113,68%        A
+                                                              entro 1 anno       144,34%        E                    149,22%         E                 147,71%        E
+                                                              da 2 a 4 anni       99,36%        A                    114,30%         C                 124,82%        C
+                                           Durata processo di
+                                                              da 5 a 7 anni       98,42%        A           B         99,45%         A           C      96,11%        A           C
+                                                recupero
+                                                              da 8 a 10 anni      97,20%        A                     97,97%         A                 100,81%        A
+                                                              oltre 10 anni       81,66%        D                     85,24%         D                  94,07%        A
+                                                              Nord Ovest         107,00%        A                    119,34%         C                 127,86%        D
+                                                              Nord Est           109,56%        B                    121,03%         D                 126,01%        D
+                                            Area Geografica   Centro             110,74%        C           A        121,48%         D           C     129,72%        E           D
+                                                              Sud e Isole        102,05%        A                    115,60%         C                 128,39%        E
+                                                              Estero             123,45%        A                    224,63%         A                  81,34%        A
+                                                              0-20.000           115,50%        D                    131,99%         E                 139,01%        E
+                                              Dimensione      20.000-100.000      96,38%        A           B        109,23%         B           C     127,83%        D           D
+                                                              oltre 100.000      109,91%        B                    116,40%         C                 114,98%        C
+                                                              Corporate          104,34%        B                    114,39%         D                 122,93%        E
+                                               Segmento                                                     B                                    D                                E
+                                                              Retail             111,35%        C                    127,96%         D                 137,01%        E
+                                                                                                                                                                                   26
+
+2      Attività svolta: Analisi verifica di backtesting sui modelli LGD (4/4)
+            VERIFICHE   SVOLTE                                                                              ESITI
+Analisi delle verifiche svolte sulla tenuta Si concorda con la Funzione di Convalida in merito al giudizio negativo espresso sulla tenuta dei danger
+dei "danger rate".                          rate. Il confronto dei danger rate di sviluppo (che arrivano quindi alla popolazione del 2015) con i danger
+                                            rate della popolazione di backtesting della stessa lunghezza, e anche con periodi più recenti, ha evidenziato
+                                            come i danger rate di backtesting siano decisamente più elevati rispetto a quelli di sviluppo, riportando le
+                                            maggiori differenze per le dimensioni relative alle controparti sopra soglia.
+                                            La Funzione di Convalida aveva aperto a riguardo un gap (CV_2018_00003), che è stato chiuso in
+                                            considerazione della comunicazione ex ante inviata all’Autorità di Vigilanza sulla ristima del modello LGD.
+                                            La notifica è stata rifiutata dall’Organo di Vigilanza nel mese di ottobre e pertanto le criticità evidenziate in
+                                            particolare sui danger rate verranno risolte in occasione della ristima pianificata per il mese di aprile 2019.
+                                                                                  Confronto danger rate a parità di lunghezza di serie storica
+                                                                           Giu 2016 – Giu 2017                   Dic 2016 – Dic 2017                   Giu 2017 – Giu 2018
+                                                     Dimensione
+                                                                    Sviluppo    Convalida   Delta ass    Sviluppo      Convalida   Delta ass   Sviluppo     Convalida   Delta ass
+                                                 Corporate SOPRA     57,586      75,140      17,554       57,586        81,096       23,510      57,586       80,293     22,707
+                                                 Corporate SOTTO     12,523      16,553       4,030       12,523        20,356        7,833      12,523       20,933      8,410
+                                                 Retail SOPRA        34,204      55,726      21,522       34,204        58,791       24,587      34,204       58,565     24,361
+                                                 Retail SOTTO         9,895      13,818       3,924        9,895        17,977        8,082       9,895       17,596      7,701
+Analisi del questionario di convalida sul   Le analisi svolte su quanto condotto dalla Funzione di Convalida al fine di assegnare un giudizio
+modello LGD 2017.                           complessivo sulle dimensioni oggetto di controlli quantitativi non hanno fatto emergere anomalie e hanno
+                                            confermato in generale la coerenza dei risultati con quelli ottenuti attraverso i controlli specifici legati alla
+                                            compilazione del questionario e con quelli eseguiti nel corso delle attività periodiche di backtesting. Le
+                                            differenze riscontrate sono dovute a controlli aggiuntivi e all’utilizzo dei pesi entrambi introdotti nel
+                                            questionario conclusivo. Per quanto riguarda i pesi è stato verificato che questi non generano modifiche
+                                            sostanziali nei giudizi.
+                                                                                                                      verifica impatto pesi
+                                                                                              punteggio con        punteggio        giudizio con     giudizio senza
+                                                                          Dimensione
+                                                                                                   pesi            senza pesi            pesi             pesi
+                                                                  Accuratezza                               66                 71 BUONO             BUONO
+                                                                  Performance                               97                 96 OTTIMO            OTTIMO
+                                                                  Rappresentatività                         65                 65 BUONO             BUONO
+                                            Con riferimento alla dimensione "Benchmarking" merita precisare che il giudizio viene assegnato attraverso
+                                            una sola domanda di tipo qualitativo.
+                                                                                                                                                                                  27
+
+2      Attività svolta: Analisi verifica di backtesting sul modello EAD (1/3)
+                OBIETTIVO                                   PERIMETRO/ METODOLOGIA                                              RISCHI IMPATTATI
+Nel caso di adozione di modelli interni per    Perimetro: Gruppo MPS                                          Rischio operativo
+la     determinazione        del      capitale
+regolamentare, verificare che i requisiti      Metodologia: Analisi documentale.
+minimi previsti dalla normativa di
+riferimento siano rispettati nel continuo.
+Obiettivo di controllo: RC 1.31
+            VERIFICHE    SVOLTE                                                                         ESITI
+Analisi dei giudizi espressi dalla Funzione    Per quanto riguarda i requisiti di "Rappresentatività" e di "Performance" la Funzione di Convalida ha
+di Convalida in seguito alle verifiche di      assegnato giudizi in linea con quelli del periodo precedente mentre sul requisito "Accuratezza" il giudizio è
+backtesting modelli EAD.                       peggiorato da C a D.
+                                                                                                          Giudizio     Giudizio
+                                                                                        Requisito
+                                                                                                        dic17-dic16 giu17-giu18
+                                                                                  Rappresentatività          C            C
+                                                                                  Performance                D            D
+                                                                                  Accuratezza                C            D
+                                               Con specifico riferimento a quest’ultimo requisito il giudizio è influenzato dai pareri espressi sui singoli sotto
+                                               requisiti che vedono un peggioramento sulla "Monotonocità" (da C a D) e la conferma di un giudizio non
+                                               positivo (E) sull’"Accuratezza". Di seguito il dettaglio dei risultati delle analisi sui singoli sotto requisiti:
+                                               •   "Monotonicità": sono incrementate le classi per cui il rapporto tra l’EAD osservata e l’utilizzo iniziale non
+                                                   è monotono crescente (4 su 10 rispetto alle 2 su 10 del backtesting precedente);
+                                               •   "Prudenza": viene confermato il fatto che in tutte le classi individuate l’EAD osservata è inferiore a quella
+                                                   stimata dal modello maggiorata di un intervallo di tolleranza (soglia massima);
+                                               •   "Accuratezza": in 8 classi su 10 (erano 9), oltre che a livello complessivo, l’EAD osservata non ricade
+                                                   nell’intervallo di confidenza costruito intorno all’EAD stimata di ciascuna classe.
+                                                                                       Sotto requisiti     Giudizio    Giudizio
+                                                                                       "Accuratezza"     dic17-dic16 giu17-giu18
+                                                                                   Monotonicità               C            D
+                                                                                   Prudenza                   A            A
+                                                                                   Accuratezza                E            E
+                                                                                   Complessivo                C            D
+                                               Il dettaglio delle analisi svolte per verificare la coerenza dei giudizi assegnati dalla Funzione di Convalida
+                                               viene riportato nelle slide successive.
+                                                                                                                                                                 28
+
+ 2          Attività svolta: Analisi verifica di backtesting sul modello EAD (2/3)
+                 VERIFICHE     SVOLTE                                                                                      ESITI
+Verifica della consistenza dei controlli di                    I controlli descritti nel Framework di Convalida valutano la consistenza degli indicatori TC, ER1 ed ER2
+svolti sulla "Performance" mediante gli                        calcolati sulla popolazione di Sviluppo rispetto a quelli calcolati sulla popolazione di produzione. La scelta di
+indicatori:           "Tasso        di      Corretta           tali indicatori è ritenuta coerente con la finalità di verificare il potere discriminante di un modello, con diffusi
+Classificazione" (TC), "Errore di I specie"                    riscontri anche in letteratura.
+(ER1) ed "Errore di II specie" (ER2).
+Valutazione             dell’adeguatezza        della          Il giudizio sulla "Performance" viene assegnato calcolando, per ognuno dei tre indicatori osservati (TC, ER1
+metodologia adottata per assegnare i                           ed ER2), lo scostamento rispetto al suo valore stimato e confrontando tale differenza con soglie
+giudizi sul requisito di "Performance".                        discrezionali.
+                                                               Al fine di valutare tale componente judgemental la Funzione di Audit ha utilizzato un test statistico per
+                                                               assegnare i giudizi sulla Performance del modello. I risultati di tale test sono più severi rispetto a quelli
+                                                               ottenuti dalla Funzione di Convalida (cfr. Allegati 4,5,6). Nello specifico si rileva una performance
+                                                               insufficiente (giudizio E):
+                                                               • in 10 cluster su 25, per il TC,
+                                                               • in 2 cluster su 25, per l’ER1,
+                                                               • in 14 cluster su 25, per l’ER2.
+                                                               Per quanto concerne il TC l’esito del test evidenzia giudizi nettamente peggiori rispetto al test condotto dalla
+                                                               Funzione di Convalida sul driver “Area geografica”. Alcuni disallineamenti si rilevano anche per l’errore di
+                                                               prima specie e l’errore di seconda specie.
+                                                               Le possibili debolezze insite nell’attuale metodologia sono state condivise con la Funzione auditata, alla
+                                                               quale è stato suggerito di valutare l’adozione di un test di verifica analogo a quello sopracitato.
+                                                               Si prende atto che la Funzione di Convalida ritiene di non modificare la metodologia in considerazione di
+                                                               una confrontabilità dei risultati nel tempo e che l’approccio è ispirato da quello definito dal Comitato di
+                                                               Basilea1 per la valutazione dell’Accuracy Ratio.
+1) Si fa riferimento al documento “Working paper n°14 – Studies on the Validation of the Internal Rating Systems” del 2005
+                                                                                                                                                                                29
+
+2      Attività svolta: Analisi verifica di backtesting sul modello EAD (3/3)
+            VERIFICHE     SVOLTE                                                                         ESITI
+Analisi delle attività condotte per la verifica Per quanto concerne i controlli inerenti le dimensioni Monotonicità, Prudenza e Accuratezza le analisi non
+di backtesting sul parametro EAD                hanno evidenziato significativi elementi di criticità. L’unico elemento di attenzione riguarda la disomogeneità
+(secondo semestre 2017 e primo                  nella modalità di condurre il confronto tra bucket nel test sulla Monotonicità, rappresentato alla Funzione di
+semestre 2018): verifica delle modalità di      Convalida che ha recepito l’osservazione e valuterà la modifica del test nell’esecuzione dei controlli 2018.
+conduzione dei test sulle dimensioni
+Monotonicità, Prudenza e Accuratezza del
+parametro EAD.
+Verifica di conformità e completezza dei        È stato verificato che tutte le domande dei questionari sono state effettuate (verifica di completezza) ed i
+controlli svolti rispetto ai questionari di     pesi assegnati alle risposte sono coerenti con quelli previsti nel Framework di Convalida (verifica di
+convalida (data di riferimento giugno           correttezza). La verifica di coerenza tra i controlli di Convalida e le risposte dei questionari ha dato esito
+2017).                                          positivo, ed il giudizio finale è stato correttamente ricalcolato.
+                                                                                                                                                             30
+
+2      Attività svolta: Follow up
+                OBIETTIVO                                  PERIMETRO/ METODOLOGIA                                           RISCHI IMPATTATI
+Nel caso di adozione di modelli interni per    Perimetro: Gruppo MPS                                       Rischio operativo
+la     determinazione        del      capitale
+regolamentare, verificare che i requisiti      Metodologia: Analisi documentale.
+minimi previsti dalla normativa di
+riferimento siano rispettati nel continuo.
+Obiettivo di controllo: RC 1.31
+            VERIFICHE    SVOLTE                                                                      ESITI
+Analisi dei punti di attenzione emersi nel     Nella formulazione del parere di Convalida rileva positivamente l’eliminazione dell’override introdotto
+corso della precedente attività di revisione   nell’ambito della convalida 2017 sul macro-ambito Processi che riporta anche il giudizio su questo ambito ad
+(anche se questi non hanno dato origine        una determinazione effettuata attraverso la metodologia di scoring.
+ad un gap)
+                                               Permangono i problemi rilevati nella revisione precedente nel processo di assegnazione del rating che
+                                               dovevano essere risolte con la stima delle PD prevista per il 2018 ma rimandata al 2019.
+                                               Per quanto riguarda il "processo di attribuzione del rating" rilevano positivamente la chiusura del gap
+                                               CV_2016_021 a seguito del miglioramento del processo di attribuzione del rating alle controparti entrate e
+                                               uscite dal forborne e come la Funzione di Convalida abbia affiancato il Servizio Rating nella predisposizione
+                                               della BR e nella fase di UAT relative alla soluzione IT per la chiusura del gap CV_2016_00019.
+                                               Il seguimento del cantiere Data Governance e dello stato avanzamento lavori riferito ai gap di Convalida in
+                                               tale ambito risulta adeguato. La pianificazione delle attività di Convalida relative ai nuovi controlli di data
+                                               Quality implementati in IRION DQ dal Servizio Credit Risk Models risulta tempestiva.
+                                                                                                                                                            31
+
+     2        Attività svolta: Follow up – Focus Forborne (1/2)
+                       OBIETTIVO                                        PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+     Nel caso di adozione di modelli interni per            Perimetro: Gruppo MPS                                        Rischio operativo
+     la      determinazione          del      capitale
+     regolamentare, verificare che i requisiti              Metodologia: Analisi documentale ed estrazione
+     minimi previsti dalla normativa di                     gap RIGAM.
+     riferimento siano rispettati nel continuo.
+     Obiettivo di controllo: RC 1.31
+                   VERIFICHE     SVOLTE                                                                           ESITI
+     Verifica del presidio della Funzione                   La Funzione Convalida presidia adeguatamente il processo in primis attraverso il controllo dell’attinenza
+     Convalida sul processo di assegnazione                 dell’assegnazione del rating alla normativa interna. In questo contesto, di seguito gli aspetti risultati coerenti:
+     del rating delle controparti forborne.                 • nessuna controparte forborne under probation presenta rating di vigilanza migliore del rating soglia;
+                                                            • a nessun rating cliente analizzato è stato attribuito il rating della Holding;
+                                                            • a nessuna controparte è stato invalidato il rating soglia quando classificato come definito;
+                                                            • le controparti con rating soglia non definito hanno tutte rating DF o NC ed il rating soglia assegnato è pari
+                                                                a C3.
+     Follow Up delle osservazioni rilevate dalla            Nel 2017 sono state rilevate 16 osservazioni per le quali la Funzione Convalida ha svolto correttamente gli
+     Convalida nel 2017.                                    opportuni accertamenti che hanno portato all’apertura di 2 gap e di 5 specifiche richieste di approfondimento
+                                                            al COG (analizzate nelle verifiche successive). Quest’ultime richieste, che non prevedono il seguimento
+                                                            tramite l’applicativo RIGAM, vengono periodicamente monitorate.
+     Verifica seguimento           osservazioni     sul     Si condivide il gap sollevato dalla Funzione Convalida sull’errata storicizzazione della funzione che ha
+     Rating Vigilanza.                                      approvato il rating1. Per i rating di processo, infatti, per i quali è prevista l’approvazione qualitativa (o
+                                                            override) al rating statistico, la procedura non permette l’individuazione della figura che ha effettivamente
+                                                            deliberato/approvato il rating (CV_2018_00009).
+                                                            Una delle richieste di approfondimento riguarda il permanere delle criticità riguardo l’assegnazione del rating
+                                                            di vigilanza su alcune controparti Retail (749) ed SB (5) per le quali tale rating è quello di prima erogazione.
+                                                            La normativa, infatti, prevede che il rating di vigilanza delle controparti in forborne sia calcolato con il
+                                                            modello andamentale, indipendentemente dal processo di appartenenza.
+1 Di default il Responsabile dell’Area Lending Risk Officer
+                                                                                                                                                                            32
+
+     2       Attività svolta: Follow up – Focus Forborne (2/2)
+                       OBIETTIVO                                            PERIMETRO/ METODOLOGIA                                                  RISCHI IMPATTATI
+     Nel caso di adozione di modelli interni per             Perimetro: Gruppo MPS                                                  Rischio operativo
+     la      determinazione          del     capitale
+     regolamentare, verificare che i requisiti               Metodologia: Analisi documentale ed estrazione
+     minimi previsti dalla normativa di                      gap RIGAM.
+     riferimento siano rispettati nel continuo.
+     Obiettivo di controllo: RC 1.31
+                  VERIFICHE     SVOLTE                                                                                        ESITI
+     Verifica seguimento osservazioni 2017 sul                Si condivide il gap sollevato dalla Funzione Convalida in merito al 60% dei 167 rating di processo assegnati
+     Rating Controparte.                                      a Marzo 2018, che presentano anomalie sul rating ufficiale o sull’alimentazione dei rating intermedi
+                                                              sottostanti (CV_2018_00010).
+                                                              Il fenomeno dei rating scaduti è presidiato ed attualmente non costituisce criticità. Soltanto per 5 controparti
+                                                              il rating osservato è scaduto (2 PMI, 1 LC e 2 NBFI) per circa 80 €mln di esposizione (3% del perimetro
+                                                              forborne)1.
+                                                              Si apprezza il presidio della Funzione di Convalida, attraverso specifiche richieste di approfondimento al
+                                                              COG, sulle seguenti criticità che continuano a permanere sulle controparti:
+                                                              •    forborne under probation (Retail e SB) con rating di vigilanza maggiore di quello statistico corrente (359);
+                                                              •    con rating non coerente perché:
+                                                                   o assegnato applicando regole forborne senza che la controparte abbia rapporti in forborne (39);
+                                                                   o non assegnato applicando le regole forborne nonostante la controparte abbia almeno un rapporto
+                                                                       oggetto di misure forbearance (311).
+     Verifica seguimento osservazioni 2017 sul                La Funzione Convalida controlla adeguatamente, attraverso specifiche richieste di approfondimento al COG,
+     Rating Soglia.                                           le criticità rilevate sulle controparti con rating soglia definitivo. Tali criticità riguardano posizioni per le quali:
+                                                              •   il rating soglia non corrisponde al peggiore tra la soglia massima C3 ed il rating ufficiale al momento della
+                                                                  classificazione in forborne (6 posizioni sulle 8.063 determinate dopo il 5 luglio 2017);
+                                                              •   il rating soglia è variato (481 posizioni). Diversamente da quanto previsto in normativa, infatti, è
+                                                                  ricalcolato ogni volta che una controparte ritorna in bonis o esce da una situazione di rating NC.
+     Verifica seguimento          osservazioni    sul         Si condivide la gestione della criticità rilevata sul rating pool attraverso una richiesta di approfondimento al
+     Rating Pool.                                             COG. Sul tema, infatti, persistono controparti in forborne:
+                                                              •    con rating di vigilanza incoerente a quello del pool, poiché è stato applicato il rating soglia (206);
+                                                              •    che non presentano caratteristiche di pool pur avendo il rating assegnato con tali logiche (10).
+1 La  controparte Milano Serravalle Milano Tangenziali SpA (perimetro LC) da sola incide per la quasi totalità dell’esposizione complessiva.
+                                                                                                                                                                                     33
+
+Firme e destinatari del rapporto
+                                 Ruolo                                                  Cognome e Nome           Firma
+Responsabile Audit Team                                                    Boffa Cristina
+                                                                           Barone Claudio
+                                                                           Bianconi Serena
+Auditors
+                                                                           Spampani Francesco
+                                                                           Valori Luca
+V° Responsabile del Settore Risk Model Audit                               Boffa Cristina
+V° Responsabile del Servizio Financial & Model Risk Audit                  Della Lunga Giovanni
+V° Responsabile dell’Area Revisione Specialistica                          Furlani Andrea
+V° Responsabile della Direzione Chief Audit Executive                      Cocco Pierfrancesco
+                                      Organi destinatari BMPS                                          Selezione
+Presidente del CdA
+Amministratore Delegato
+Collegio Sindacale
+Comitato Rischi
+OdV 231
+                                                             Altri organi destinatari
+      Legal Entity                                                          Organo destinatario
+                                                                                                                       34
+
+Elenco allegati
+» Allegato 1: Mappa dei requisiti e perimetro di verifica
+» Allegato 2: Processo PD Calibrazione
+» Allegato 3: Esiti test di ipotesi su TC (livello di cluster)
+» Allegato 4: Esiti test di ipotesi su ER1 (livello di cluster)
+» Allegato 5: Esiti test di ipotesi su ER2 (livello di cluster)
+                                                                35
+
+Allegato 1: Mappa dei requisiti e perimetro di verifica di Audit
+  Processi                                                    Modelli                                             Dati
+    Aspetti generali                                           Aspetti generali                                     Convalida del design
+      Segmentazione                                              Default                                               Framework di data quality
+      Documentazione                                           Aspetti specifici dei modelli di calcolo della PD       Processo di risoluzione delle anomalie
+    Aspetti specifici del processo di assegnazione del rating    Convalida del design                               Convalida del funzionamento
+      Completezza delle informazione                               Campionamento                                       Framework di data quality
+      Replicabilità                                                Sviluppo modelli di scoring                         Processo di risoluzione delle anomalie
+      Integrità del processo di assegnazione del rating            Calibrazione e costruzione scala di rating
+      Omogeneità                                                 Convalida del funzionamento
+      Univocità dell’attribuzione del rating                       Rappresentatività
+      Aggiornamento del rating                                     Performance
+      Utilizzo del sistema di rating nella gestione aziendale      Concentrazione
+      Funzionamento dei processi di assegnazione                   Calibrazione
+    Processo di assegnazione delle classi regolamentari            Benchmarking
+      Classificazione                                              Proprietà dinamiche
+      Utilizzo della classificazione nella gestione aziendale  Aspetti specifici dei modelli di calcolo della LGD
+    Credit Risk Mitigation                                       Convalida del design
+      Certezza giuridica                                           Approccio metodologico
+      Tempestività di utilizzo                                     Fonti informative
+      Requisiti organizzativi                                      Calcolo LGD osservata
+                                                                   Predisposizione griglie
+                                                                   Downturn
+                                                                   LGD stati default intermedi
+                                                                   LGD bonis
+                                                                   ELBE
+                                                                   Performance in sviluppo
+                                                                 Convalida del funzionamento
+                                                                   Rappresentatività
+                                                                   Performance
+                                                                   Accuratezza
+                                                                   Benchmarking
+                                                               Aspetti specifici dei modelli di calcolo della EAD
+                                                                 Convalida del design
+                                                                   Approccio metodologico
+                                                                   Fonti informative
+                                                                   Calcolo EAD di controparte
+                                                                   Predisposizione griglie
+                                                                   Downturn
+                                                                   Performance in sviluppo
+                                                                 Convalida del funzionamento
+                                                                   Rappresentatività
+                                                                   Performance
+                                                                   Accuratezza
+                                                                                                                                                              36
+
+Allegato 2: Processo PD Calibrazione
+                     MODELLO PD                                            MODELLO EAD                                           MODELLO LGD
+                                               MODELLO PD (STIMA)
+                                                                                     PD CALIBRAZIONE
+     La calibrazione è il processo tramite il quale viene stimata la funzione che trasforma lo Score Integrato (output dei modelli di score) in probabilità di
+     default (PD), definita come probabilità che una controparte passi allo stato di default entro un orizzonte temporale di un anno. Sotto le fasi del
+     processo di calibrazione.
+     INDIVIDUAZIONE POPOLAZIONE CALIBRAZIONE                                 DETERMINAZIONE ANCHOR POINT                                       FUNZIONE DI CALIBRAZIONE
+    » La popolazione di calibrazione è data                       » L’Anchor Point (AP) di un singolo modello è                   » Le posizioni con Score Integrato non
+       dall’unione delle popolazioni relative agli                     determinato come la media dei tassi di                         valorizzato sono escluse dall’attività di
+       anni di riferimento (coorti) della serie                        default annuali rilevati sugli NGR di tutte le                 calibrazione.
+       storica osservata.                                              coorti osservate.
+                                                                                                                                  » L’attività di calibrazione viene effettuata
+    » La popolazione di una coorte è costituita                   » La popolazione utilizzata per il calcolo                          utilizzando 3 distinte metodologie:
+       dalle posizioni appartenenti ai cluster                         dell’AP comprende le posizioni in bonis e                      o Regressione Logistica ponderata2 per la
+       Corporate e Retail, suddivise per modello,                      quelle passate a default nel periodo di                          determinazione dei parametri <U+F061> e <U+F062> della
+       con accordato o utilizzo non nullo ed in                        performance osservato mentre esclude le                          funzione di calibrazione da applicare
+       bonis al 1° gennaio della coorte di                             startup e le specialized lending (tipologie di                   all’algoritmo di scoring. Tali parametri
+       appartenenza.                                                   clientela il cui processo di finanziamento è                     sono calcolati in modo da assicurare
+                                                                       legato a dinamiche non riconducibili al                          l’uguaglianza della PD media al tasso
+    » La popolazione di calibrazione 2017 è
+                                                                       normale iter autorizzativo).                                     obiettivo della calibrazione (AP);
+       costruita shiftando di un anno la
+       popolazione         di     calibrazione         2016,      » Le posizioni con Score Integrato1 non                             o Modello Empirico: per i segmenti LC e
+       estendendo la serie storica osservata a 10                      valorizzato vengono incluse nel calcolo                          CORP (low default portfolio);
+       anni (2007-2016), con dati di performance a                     dell’AP per osservare nel periodo di                           o PD equivalente all’AP: per segmenti di
+       gennaio 2017, e tenendo conto del                               performance la permanenza in bonis o                             controparti ad alta numerosità e basso
+       trattamento delle moratorie, del Past Due                       l’ingresso in default.                                           impatto (Pool).
+       Tecnico e dei default multipli a 12 mesi.
+1 Lo Score Integrato è determinato sulla base dei dati finanziari di bilancio, dei dati andamentali interni e dei dati di sistema (Centrale Rischi).
+2 I modelli considerati sono: Cointestazioni (COI), Ditte Individuali (DIN), Pluriennali (PLU), PMI, Small PMI (SPMI),Small Business (SB), Singole Persone Fisiche (SPF)e Società di Persone (SDP).
+                                                                                                                                                                                              37
+
+  Allegato 3: Esiti test di ipotesi su TC
+Tabella 1
+          Giudizio                         D                           C                   B                    A
+              P                          0.999                       0.975                0.9                  0.8
+            z(a)                         -3.09                       -1.96               -1.28                -0.84
+Tabella 2
+                                                    Popolazione di SviluppoPopolazione di Convalida
+                                                                                                                                                                 Giudizio
+         DRIVER                   CLUSTER                                                                   p           z           TCconv > TCsvil  Giudizio**
+                                                     Cardinalita' Valore TC Cardinalita' Valore TC                                                              Convalida
+Complessivo               Complessivo                      119314       0.636         8645      0.579         0.63     -10.61             KO        E           E
+                          Centro                            48925        0.64         3463        0.59        0.63      -6.02             KO        E           D
+                          Estero                                 79      0.49           10        0.54        0.49        0.33            OK        A           A
+                          Isole                             10121        0.62          969        0.57        0.61      -3.07             KO        D           C
+Area geografica
+                          Nord Est                          18325        0.61         1343        0.56        0.61      -3.63             KO        E           C
+                          Nord Ovest                        17036        0.64         1051        0.61        0.64      -1.86             KO        C           B
+                          Sud                               24828        0.64         1809        0.55        0.63      -7.04             KO        E           E
+                          Oltre 100000 €                    32996        0.53         1719        0.53        0.53        0.61            OK        A           A
+                          Sotto 10000 €                     44532        0.52         3927        0.52        0.52      -0.40             KO        A           A
+Dimensione
+                          Tra 10000 e 50000 €               30522        0.55         2208        0.55        0.55      -0.23             KO        A           A
+                          Tra 50000 e 100000 €              11265        0.55          791        0.62        0.55        4.16            OK        A           A
+                          MPS                              102576        0.63         8615        0.58        0.63     -10.33             KO        E           E
+Entita legale             MPS CS                                240      0.51             2                   0.50      -1.42             KO        C           A
+                          MPS L&F                              1240      0.57           28        0.74        0.58        1.76            OK        A           A
+                          BREVE                            108198        0.61         7522        0.54        0.60     -11.08             KO        E           E
+                          FACTORING                             652      0.50           13        0.50        0.50        0.00            KO        A           A
+Macroprodotto             FIRMA                                1856      0.50          389        0.50        0.50        0.00            KO        A           A
+                          LEASING                               588      0.68           15        0.91        0.68        1.90            OK        A           A
+                          MLT                                  8021      0.49          706        0.38        0.48      -5.91             KO        E           E
+                          AA1-B3                            18396        0.60          678        0.61        0.60        0.12            OK        A           A
+                          C1-C3                             47133        0.64         3459        0.56        0.63      -8.82             KO        E           E
+Rating
+                          D1-D3                             40507        0.62         3667        0.57        0.61      -5.42             KO        E           D
+                          E1-DEF                            13279        0.58          841        0.57        0.58      -0.63             KO        A           A
+                          Corporate                         74957        0.60         5209        0.58        0.60      -3.21             KO        E           C
+Segmento
+                          Retail                            44358        0.55         3436        0.54        0.55      -1.82             KO        C           B
+** Un giudizio "E" indica che l'ipotesi nulla TC conv = TCsvil non può essere accettata ad alcun livello di significatività riportato in Tabella 1
+                                                                                                                                                                          38
+
+Allegato 4: Esiti test di ipotesi su ER1
+Tabella 3
+    Giudizio                  D                   C                 B              A
+         P                  0.999               0.975              0.9            0.8
+     z(1-a)                  3.09               1.96              1.28            0.84
+Tabella 4
+                                           Popolazione di Sviluppo Popolazione di Convalida
+                                                                                                                                                          Giudizio
+     DRIVER              CLUSTER                                                                      p        z      ER1conv < ER1svil     Giudizio**
+                                          Cardinalita' valore ER1 Cardinalita' valore ER1                                                                Convalida
+Complessivo       Complessivo                    119314           0.28        8645            0.25    0.28 -5.63              OK           A           A
+                  Centro                          48925           0.26        3463            0.24    0.26 -3.02              OK           A           A
+                  Estero                              79          0.03          10            0.17    0.04 2.08               KO           D           A
+                  Isole                           10121           0.22         969            0.19    0.22 -2.37              OK           A           A
+Area geografica
+                  Nord Est                        18325           0.35        1343            0.33    0.35 -1.77              OK           A           A
+                  Nord Ovest                      17036           0.34        1051            0.26    0.33 -5.43              OK           A           A
+                  Sud                             24828           0.26        1809            0.26    0.26 0.16               KO           A           A
+                  Oltre 100000 €                  32996           0.88        1719            0.88    0.88 0.46               KO           A           A
+                  Sotto 10000 €                   44532           0.00        3927            0.00    0.00 -1.22              OK           A           D
+Dimensione
+                  Tra 10000 e 50000 €             30522           0.26        2208            0.31    0.26 4.88               KO           E           A
+                  Tra 50000 e 100000 €            11265           0.45         791            0.44    0.45 -0.52              OK           A           A
+                  MPS                            102576           0.28        8615            0.25    0.27 -5.72              OK           A           A
+Entita legale     MPS CS                            240           0.02           2            0.00    0.02 -0.18              OK           A           A
+                  MPS L&F                          1240           0.79          28            0.43    0.78 -4.62              OK           A           A
+                  BREVE                          108198           0.26        7522            0.23    0.26 -5.26              OK           A           A
+                  FACTORING                         652           1.00          13            1.00    1.00 NA                 OK           A           A
+Macroprodotto FIRMA                                1856           1.00         389            1.00    1.00 NA                 OK           A           A
+                  LEASING                           588           0.51          15            0.00    0.50 -3.92              OK           A           A
+                  MLT                              8021           0.83         706            0.88    0.84 3.50               KO           E           C
+                  AA1-B3                          18396           0.15         678            0.18    0.15 2.29               KO           D           A
+                  C1-C3                           47133           0.22        3459            0.20    0.22 -3.17              OK           A           A
+Rating
+                  D1-D3                           40507           0.34        3667            0.28    0.33 -7.08              OK           A           A
+                  E1-DEF                          13279           0.60         841            0.48    0.60 -7.20              OK           A           A
+                  Corporate                       74957           0.46        5209            0.42    0.46 -6.38              OK           A           A
+Segmento
+                  Retail                          44358           0.05        3436            0.04    0.05 -3.55              OK           A           A
+** Un giudizio "E" indica che l'ipotesi nulla ER1conv = ER1svil non può essere accettata ad alcun livello di significatività riportato in Tabella 3
+                                                                                                                                                                   39
+
+ Allegato 5: Esiti test di ipotesi su ER2
+Tabella 3
+    Giudizio                D                   C                B             A
+        P                 0.999               0.975             0.9           0.8
+     z(1-a)                3.09               1.96             1.28           0.84
+Tabella 5
+                                          Popolazione di SviluppoPopolazione di Convalida
+                                                                                                                                                               Giudizio
+     DRIVER              CLUSTER                                                                  p           z             ER2conv < ER2svil       Giudizio** Convalid
+                                           Cardinalita' valore ER2 Cardinalita' valore ER2
+                                                                                                                                                                  a
+Complessivo       Complessivo                    119314          0.45       8645        0.59        0.46      25.53                KO               E          E
+                  Centro                          48925          0.46       3463        0.59        0.47      14.26                KO               E          E
+                  Estero                             79          1.00         10        0.75        0.97       -4.51               OK               A          A
+                  Isole                           10121          0.55        969        0.68        0.56        7.99               KO               E          E
+Area geografica
+                  Nord Est                        18325          0.43       1343        0.55        0.44        8.84               KO               E          E
+                  Nord Ovest                      17036          0.39       1051        0.52        0.39        8.91               KO               E          E
+                  Sud                             24828          0.47       1809        0.64        0.48      13.46                KO               E          E
+                  Oltre 100000 €                  32996          0.07       1719        0.05        0.07       -2.98               OK               A          A
+                  Sotto 10000 €                   44532          0.95       3927        0.96        0.95        2.05               KO               D          A
+Dimensione
+                  Tra 10000 e 50000 €             30522          0.64       2208        0.60        0.64       -4.00               OK               A          A
+                  Tra 50000 e 100000 €            11265          0.46        791        0.31        0.45       -7.81               OK               A          A
+                  MPS                            102576          0.45       8615        0.60        0.47      25.11                KO               E          E
+Entita legale     MPS CS                            240          0.97           2       1.00        0.97        0.23               KO               A          A
+                  MPS L&F                          1240          0.06         28        0.10        0.07        0.65               KO               A          A
+                  BREVE                          108198          0.53       7522        0.69        0.54      26.38                KO               E          E
+                  FACTORING                         652          0.00         13        0.00        0.00 NA                        OK               A          A
+Macroprodotto FIRMA                                1856          0.00        389        0.00        0.00 NA                        OK               A          A
+                  LEASING                           588          0.13         15        0.18        0.13        0.56               KO               A          A
+                  MLT                              8021          0.18        706        0.36        0.20      11.58                KO               E          E
+                  AA1-B3                          18396          0.65        678        0.61        0.65       -1.94               OK               A          A
+                  C1-C3                           47133          0.50       3459        0.67        0.51      19.62                KO               E          E
+Rating
+                  D1-D3                           40507          0.43       3667        0.58        0.44      17.34                KO               E          E
+                  E1-DEF                          13279          0.24        841        0.39        0.25        9.63               KO               E          E
+                  Corporate                       74957          0.33       5209        0.42        0.34      13.37                KO               E          E
+Segmento
+                  Retail                          44358          0.85       3436        0.89        0.85        7.23               KO               E          D
+** Un giudizio "E" indica che l'ipotesi nulla ER2conv = ER2svil non può essere accettata ad alcun livello di significatività riportato in Tabella 3
+                                                                                                                                                                        40
+

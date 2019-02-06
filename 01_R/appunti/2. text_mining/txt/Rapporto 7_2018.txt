@@ -1,0 +1,238 @@
+               UFFICIO CONTROLLI INTERNI
+                                                                                                Siena, 07 gennaio 2019
+                                                RAPPORTO N. 7/2018
+ Ambito intervento                                                Processo di Operational Risk Management
+                                                                  Gestore OR Locale (Ufficio Organizzazione e
+ Funzione auditata                                                Cost Management – Settore Sviluppo
+                                                                  Organizzativo e Performance Operative)
+ Tipologia di intervento                                          Revisione Ordinaria
+ Periodo indagini                                                 Dicembre 2018
+ Auditor                                                          M. Pepi
+                                       GIUDIZIO COMPLESSIVO INTERVENTO
+          Rating 1                      Rating 2                           Rating 3                      Rating 4
+           (verde)                       (giallo)                        (arancione)                      (rosso)
+La scala di valutazione si articola su quattro livelli a criticità crescente: Rating 1 (VERDE), Rating 2 (GIALLO), Rating 3
+(ARANCIONE), Rating 4 (ROSSO).
+                                          DISTRIBUZIONE GAP (Rilevanza)
+                 ALTA                                      MEDIA                                     BASSA
+                  ==                                          ==                                       ==
+                                      PRECEDENTI INTERVENTI DI REVISIONE
+                                                                            N.              Giudizio Complessivo
+   Ambito intervento               Periodo della verifica
+                                                                        Rapporto                  Intervento
+                                                                                                    Rating 2
+     Processo O.R.M.           Dicembre 2016 – Gennaio 2017              8/2016
+                                                                                                     (giallo)
+                                                                                                    Rating 2
+     Processo O.R.M.                    Dicembre 2017                    9/2017
+                                                                                                     (giallo)
+                                                           INDICE
+     1.      OBIETTIVI                                                                                                      2
+     2.      EXECUTIVE SUMMARY                                                                                              3
+     3.      ATTIVITÀ DI VERIFICA SVOLTE                                                                                    4
+     4.      GAP E RACCOMANDAZIONI                                                                                          7
+
+1. Obiettivi
+Con un provvedimento amministrativo del 12 giugno 2008 la Banca d’Italia ha autorizzato il Gruppo
+Bancario MPS a utilizzare modelli interni per la determinazione del requisito patrimoniale a fronte dei
+rischi di credito e operativi.
+Ha riconosciuto quindi come idonee le condizioni di cui si è dotato il Gruppo per l’utilizzo di un modello
+avanzato (AMA – Advanced Measurement Approach). Queste prevedono l’adozione di un sistema integrato
+di gestione del rischio operativo, un framework interno che stabilisce precisi processi operativi e di
+controllo finalizzati alla misurazione del requisito patrimoniale sia attraverso modelli di calcolo basati su
+dati di perdita operativa, sia di altri elementi di gestione dell’operational risk (identificazione dei rischi,
+valutazione del profilo di rischio, mitigazione).
+Il Consiglio di Amministrazione della Capogruppo ha stabilito che MPSLF rientrasse fra le Società
+controllate ricomprese nel perimetro di applicazione del modello AMA.
+La presente revisione, di natura obbligatoria, è finalizzata a verificare la complessiva funzionalità del
+processo di gestione dei rischi operativi presso la Società, in aderenza alle disposizioni della Direttiva di
+                          1
+Gruppo sulla materia .
+In tale ambito, le verifiche hanno interessato i seguenti sotto-processi:
+<U+F0D8>    Loss Data Collection: completezza dei dati di perdita in conformità con le fonti informative e con i dati
+     contabili;
+<U+F0D8>    Risk Self Assessment: coerenza nell’associazione degli eventi di rischio operativo ai diversi presidi
+     aziendali e nella loro valutazione;
+<U+F0D8>    Analisi di Scenario: modalità di predisposizione dei questionari di scenario e congruenza dei risultati
+     con il profilo di rischio operativo della società;
+<U+F0D8>    Convalida Interna: attività di verifica eseguite dal Gestore OR Locale, finalizzate alla convalida del
+     processo di gestione dei rischi operativi.
+1
+  Cfr. D. 906 vers. 5 del 4.05.2016 “Direttiva di Gruppo in materia di Gestione dei Rischi Operativi”.
+                                                      Rapporto n. 7/2018
+
+2. Executive Summary
+La revisione non ha fatto emergere criticità rilevanti aventi natura di veri e propri gap ma solamente alcuni
+punti di attenzione prontamente evidenziati al Gestore OR Locale nel corso degli accertamenti.
+In riferimento al processo di Loss Data Collection (LDC), che consiste nella ricerca e censimento delle
+perdite derivanti da eventi di rischio operativo, è stata analizzata la rispondenza dei dati comunicati all’OR
+            2
+di Gruppo , relativi al quarto trimestre 2017 e ai primi tre trimestri 2018, con gli eventi censiti sulla
+piattaforma “Gestione Rischi Compliance” (GRC Evolution), oltre che con le relative registrazioni contabili.
+È stato osservato che erano state acquisite e analizzate le evidenze di tutte le contabilizzazioni a
+sopravvenienze passive eseguite nei suddetti trimestri, al fine di intercettare eventuali scritture originate
+da eventi di rischio operativo non segnalate all’OR Locale tramite le previste schede.
+Gli esiti hanno non hanno evidenziato criticità ad eccezione delle seguenti n. 2 partite non registrate
+nell’applicativo informatico dedicato:
+     <U+F0B7>   €mgl 30,0 – maggiore accantonamento a valere sulla causa legale n. 935 (stima iniziale €mgl 50,0
+         - accantonamento complessivo per €mgl 80,0);
+     <U+F0B7>   € 650,00 – importo contabilizzato a sopravvenienze passive nel 2° trimestre 2018 come da scheda
+         perdite predisposta dall’Ufficio Crediti Problematici e report fornito dall’Ufficio Pianificazione,
+         Amministrazione e Risk Management.
+Il Gestore OR Locale ha provveduto alle sistemazioni nei primi giorni del 2019, alla prima finestra utile.
+                                                                                                      3
+Quanto al processo operativo finalizzato al monitoraggio delle cosiddette Pending Losses alla data di
+stesura del presente rapporto, questo non si era ancora concluso; è stato raccomandato quindi al Gestore
+OR locale di provvedere quanto prima alla chiusura dei controlli, sollecitando i chiarimenti richiesti alle
+funzioni owner delle PPDD individuate.
+Riguardo alle attività rientranti nel perimetro del Risk Self Assessment, che consiste nell’annuale
+ricognizione di tipo qualitativo sui rischi operativi derivanti da tutti i processi aziendali, non sono state
+notate incoerenze nell’associazione dei rischi ai vari presidi operativi.
+In merito alle attività di Convalida Interna il Gestore OR Locale aveva predisposto e correttamente inviato
+al Gestore OR di Gruppo il previsto Framework di Convalida 2018.
+Circa il sotto-processo di Analisi di Scenario, le varie fasi che hanno portato alla valutazione finale della
+rischiosità operativa da parte della Direzione si sono svolte in coerenza con la vigente Policy di Gruppo in
+materia di Gestione dei Rischi Operativi.
+2
+  BMPS - Area Risk Management – Servizi Rischi Operativi e Reputazionali.
+3
+  Appostazioni transitorie sui rapporti del servizio partite diverse che possono tradursi in perdite.
+                                                      Rapporto n. 7/2018
+
+3. Attività di verifica svolte
+Come previsto dal D. 1 – “Organizzazione della MPS Leasing & Factoring SpA” e in coerenza con le
+disposizioni di Gruppo (D. 906 – Direttiva di Gruppo in materia di Gestione dei Rischi Operativi), la
+Funzione di Gestore Operational Risk (OR) Locale è allocata presso il Settore Sviluppo Organizzativo e
+Performance Operativa dell’Ufficio Organizzazione e Cost Management.
+Le mansioni assegnate riguardano il coordinamento di tutte le attività che compongono il ciclo annuale di
+gestione dei rischi operativi, cioè di Loss Data Collection, Risk Self Assessment, Analisi di Scenario oltre ai
+controlli connessi al processo di Convalida Interna.
+Le analisi svolte nella presente verifica hanno riguardato ciascuno degli ambiti indicati.
+Loss Data Collection
+Le attività di Loss Data Collection (LDC) consistono nella ricerca, nel censimento dei dati di perdita a
+seguito di eventi derivanti da rischi operativi, nella loro validazione interna per la successiva analisi di
+Gruppo, oltre che nell’esame degli eventi da cui sono scaturiti, allo scopo di comprenderne le cause e
+mitigarne gli effetti.
+Poiché la Banca non dispone di procedure automatizzate di rilevazione dei dati di perdita, il Gestore OR
+Locale, che ha la responsabilità interna del corretto svolgimento del processo di LCD, deve ricercare
+autonomamente le perdite registrate nella contabilità aziendale, risalire all’evento pregiudizievole e
+identificare il fattore di rischio (risorse, processi o sistemi).
+Nel corso dell’intervento sono state eseguite verifiche volte ad analizzare la rispondenza dei dati di
+perdita comunicati al Gestore OR di Gruppo attraverso i previsti report trimestrali con gli eventi individuati
+e censiti nell’applicativo GRC Evolution, appostati alle pertinenti voci di conto economico della Banca.
+Le indagini ha riguardato le contabilizzazioni del quarto trimestre 2017 e dei primi tre trimestri 2018.
+Nel periodo indicato i dati relativi alle nuove operazioni di perdita derivanti da rischi operativi comunicati
+al Gestore OR di Capogruppo ammontano a € 1.612.711,00.
+Nell’applicativo dedicato (GRC Evolution) erano censiti n. 12 eventi per un valore di perdita lorda pari a
+€mgl 2.255,7 (l’importo è comprensivo di €mgl 643 quale maggior accantonamento contabilizzato nel 3°
+trimestre per la causa legale n. 882 – tali tipologie di appostazioni non sono previste nei report per la
+Capogruppo dove va segnalata solo la prima contabilizzazione). Degli eventi registrati n. 8, per €mgl
+          4
+1.652,6 , erano associati a cause legali passive, i cui importi erano coerentemente ammortizzati nel Fondo
+Rischi e Oneri Futuri della Banca; n. 4 eventi - per €mgl 603,1 - riguardavano invece perdite effettive ed
+erano contabilizzati alle pertinenti voci di Sopravvenienze Passive.
+A tale proposito il Gestore OR Locale aveva acquisito dalla Funzione Amministrazione il dettaglio delle
+contabilizzazioni avvenute nel periodo in esame sui conti economici che rientrano nel perimetro dei rischi
+operativi e valutato quelle derivanti da perdite operative.
+Dall’esame delle singole partite è emerso che le seguenti contabilizzazioni non erano state registrate
+nell’applicativo informatico (GRC Evolution):
+      <U+F0B7>     €mgl 30,0 – maggiore accantonamento a valere sulla causa legale n. 935 (stima iniziale €mgl 50,0
+            - accantonamento complessivo per €mgl 80,0);
+      <U+F0B7>     € 650,00 – importo contabilizzato a sopravvenienze passive nel 2° trimestre 2018 come da report
+            fornito dall’Ufficio Pianificazione, Amministrazione e Risk Management e relativa scheda perdite
+            predisposta dall’Ufficio Crediti Problematici.
+Il Gestore OR ha provveduto alle sistemazioni nei primi giorni del 2019, alla prima finestra utile.
+4
+   Per la causa n. 743 nel 3° trimestre 2017 è stato contabilizzato un accantonamento a Fondo Rischi €mgl 33 poi stornato nel 3°
+trimestre 2018 perché ritenuto non necessario a seguito di sentenza favorevole di 1° grado.
+                                                         Rapporto n. 7/2018
+
+Quanto alle verifiche finalizzate all’individuazione delle c.d. “Pending Losses” (appostazioni contabili
+transitorie in attesa di contabilizzazione nei conti di relativa pertinenza - PPDD - che potrebbero
+nascondere perdite derivanti da rischi operativi), il Gestore OR Locale aveva individuato autonomamente
+                                                                                                                            5
+le Partite Diverse soggette e richiesto approfondimenti ai Gestori delle Fonti Informative , i quali
+dovrebbero predisporre l’eventuale “Scheda Perdite” nel caso di contabilizzazioni riferibili a rischi
+operativi. Ad oggi il processo non si è ancora concluso, stante la difficoltà di individuare gli owner per le
+scritture oggetto di analisi.
+Risk Self Assessment
+Il sotto-processo di Risk Self Assessment prevede la raccolta delle informazioni necessarie alla valutazione
+e al monitoraggio dei fattori di contesto operativo e di controllo. Le sottostanti analisi vengono svolte con
+cadenza annuale con l’obiettivo di effettuare una ricognizione di tipo qualitativo sui rischi operativi
+derivanti dai vari processi aziendali. I Responsabili delle strutture operative di MPSLF esprimono una
+propria autovalutazione qualitativa del livello di presidio associato a ciascun evento di rischio e
+propongono, in caso di livello non ottimale, un intervento di mitigazione.
+Tutte le attività rientranti nel perimetro dell’Assessment si sono svolte nel rispetto dei tempi previsti dal
+Gestore OR di Gruppo e sono state rendicontate nella “Relazione Finale di Risk Self Assessment”.
+Circa le valutazioni sull’efficacia del presidio dei rischi associati ai relativi n. 432 processi totali individuati
+(n. 454 nel 2017), il risultato finale del “Risk Self Assessment 2018” evidenzia una percentuale di
+adeguatezza dell’83%, in incremento rispetto all’80% dell’esercizio precedente.
+                                Efficacia del Presidio dei Rischi Operativi - anno 2018
+                                 1%
+                             6%              10%
+                                                                                         Adeguato
+                                                                                         Parzialmente Adeguato
+                                                           83%                           Non Adeguato
+                                                                                         Non di Competenza
+Le n. 30 complessive situazioni di “non adeguato” (1% del totale) e “parzialmente adeguato” (6% del
+totale), in forte diminuzione rispetto allo scorso anno, sono concentrate principalmente nel processo del
+credito leasing (n. 18) e sono state evidenziate per la maggior parte dalla Funzione Crediti Problematici (n.
+10) e dell’Ufficio Gestione Operativa Leasing (n. 5).
+I fattori di rischio individuati riguardano per n. 2 casi le “Risorse Umane”, n. 18 i “Processi” e n. 10 i
+“Sistemi”.
+5
+  Individuati nella figura dei Responsabili del seguimento della Partita Diversa sulla base del D. 140 “Monitoraggio Partite Diverse”.
+                                                          Rapporto n. 7/2018
+
+Per pronto riferimento, nella tabella che segue si riporta il dettaglio dei risultati percentuali riferiti al “Risk
+Self Assessment 2017”.
+                             Efficacia del Presidio dei Rischi Operativi - anno 2017
+                                 1%   5%
+                             14%
+                                                                               Adeguato
+                                                                               Parzialmente Adeguato
+                                                     80%                       Non Adeguato
+                                                                               Non di Competenza
+Convalida Interna
+Il processo di Convalida Interna ha lo scopo di valutare il funzionamento del processo di sviluppo dei
+modelli/processi interni finalizzati alla misurazione dei rischi operativi in termini di accuratezza delle stime
+e delle capacità predittiva. L’attività di convalida prevede una serie di controlli definiti dal Servizio
+Validazione Sistemi di Rischio quale Funzione di Convalida Interna di Gruppo. Questa si avvale
+dell’operato del Gestore OR di Gruppo e dei Gestori OR locali.
+In tale ambito, nel mese di dicembre 2018 il Gestore OR locale ha predisposto il proprio Framework di
+Convalida 2018, attribuendo al processo di gestione dei rischi operativi all’interno di MPSLF il giudizio
+sintetico di “Parzialmente favorevole”, in peggioramento rispetto allo scorso anno dove il giudizio
+assegnato era di “Prevalentemente favorevole”. La valutazione conclusiva risente della diminuzione della
+stima nell’ambito dell’”aggiornamento della documentazione” (ora parzialmente favorevole - ex
+favorevole), solo in parte mitigata dai risultati sulla “tempestività e accuratezza dei dati” (prevalentemente
+favorevole - ex parzialmente favorevole).
+Analisi di Scenario
+Il sotto-processo di Analisi di Scenario consiste nella valutazione soggettiva, effettuata dai Responsabili
+delle unità di business, delle rischiosità delle attività, rilevanti ai fini dell’identificazione dei rischi operativi.
+Le varie fasi che hanno portato alla valutazione finale della rischiosità operativa da parte della Direzione, si
+sono svolte in coerenza con la vigente Policy di Gruppo in materia di Gestione dei Rischi Operativi.
+L’esecuzione dell’”Analisi di Scenario 2018” con il Top Management di MPSLF e con le Funzioni preposte
+alla valutazione dei Rischi Operativi di Capogruppo è avvenuta il 29 novembre 2018.
+Le risultanze finali in termini di esposizione al rischio stimata per il 2018 (c.d. “VaR qualitativo a
+correlazione nulla”), con gli eventuali scostamenti rispetto all’anno precedente sulla base della valutazione
+prospettica della rischiosità operativa di ciascuna “domanda” (frequenza media/impatto tipico/caso
+peggiore), saranno calcolate dalle Funzioni preposte della Capogruppo e indicate nella “Relazione
+conclusiva di Scenario Assessment”, disponibile nel corso del 2019.
+                                                  Rapporto n. 7/2018
+
+4. Gap e raccomandazioni
+La revisione non ha fatto emergere criticità rilevanti aventi natura di veri e propri gap ma solo alcuni punti di
+attenzione prontamente evidenziati al Gestore OR Locale nel corso degli accertamenti.
+In merito al processo operativo finalizzato al monitoraggio delle “Pending Losses”, è stato raccomandato di
+provvedere quanto prima alla chiusura dei controlli già in corso, sollecitando i chiarimenti richiesti alle
+funzioni owner delle PPDD individuate.
+
+             Ruolo                          Cognome e Nome   Firma
+            Auditor                           Massimo Pepi
+         V° Responsabile
+    Funzione di Internal Audit               Stefano Mazzaro
+                      Organi Strutture destinatarie                Invio
+DIRETTORE GENERALE                                                   X
+PRESIDENTE DEL CONSIGLIO DI AMMINISTRAZIONE                          X
+PRESIDENTE DEL COLLEGIO SINDACALE                                    X
+

@@ -1,0 +1,24 @@
+Regole di compilazione del previsionale fine 2018
+RWA
+   <U+F0B7>    Gli RWA i cui valori sono ipotizzati costanti nella trimestralizzazione nel RAS sono proiettati uguali al
+        valore di consuntivo (Market Risk Banking Book, Other risk, Market Risk, Operational Risk, CVA Risk;
+        Interest Rate Risk BB, Concentration Risk, Business and Strategic Risk)
+   <U+F0B7>    Per gli altri RWA il projected è dato dal RAS fine anno corretto per la differenza fra consuntivo e
+        RAS di pari periodo.
+   <U+F0B7>    Correzioni ad hoc, che riflettono informazioni specifiche, sono riportate in nota.
+Fondi Propri
+   <U+F0B7> Il previsionale di base è fornito dalla Pianificazione.
+   <U+F0B7> Sono apportate integrazioni, annotate, solo per aspetti particolarmente significativi relativi a fatti
+        interni e/o dinamiche di mercato (es. dinamica attesa dello spread sulla riserva FVOCI) laddove già
+        non presenti nelle stime ricevute.
+Regole di compilazione del previsionale stressato fine 2018
+RWA
+   <U+F0B7>    In assenza di una trimestralizzazione dei valori stressati di RAS, in via generale si mantiene invariato
+        l’impatto differenziale dello scenario di stress previsto nel RAS di inizio anno, che viene applicato
+        alla proiezione baseline.
+Fondi Propri
+   <U+F0B7> In assenza di una trimestralizzazione dei valori stressati di RAS, si procede con una ipotesi di
+        linearizzazione infrannuale dell’impatto differenziale dello scenario di stress previsto nel RAS di
+        inizio anno. Lo “shock” residuale viene applicato al previsionale baseline.
+   <U+F0B7> Ove possibile, il potenziale stress dello spread Italia sulla riserva FVOCI viene ristimato ad hoc.
+

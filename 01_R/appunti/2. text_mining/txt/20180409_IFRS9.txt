@@ -1,0 +1,420 @@
+I riflessi fiscali dell’IFRS 9 alla luce del
+         decreto 10 gennaio 2018
+         Convegno di formazione professionale
+                     9 aprile 2018
+                  Alessandro Favia
+
+                           Agenda
+1. Introduzione sul principio IFRS 9
+
+                                          Premessa
+Il principio contabile internazionale «IFRS 9 - Strumenti finanziari» ha introdotto delle novità di
+particolare rilievo sistematico. In particolare, ha previsto nuove categorie di classificazione e
+misurazione degli strumenti finanziari, ha modificato le metodologie di determinazione delle
+svalutazioni per perdite (impairment) delle attività finanziarie ed è intervenuto sui criteri di
+rilevazione delle operazioni di copertura (hedge accounting).
+Nel convegno in oggetto verranno introdotte, in un primo momento, le principali novità dell’IFRS
+9. Saranno inoltre analizzate le principali novità apportate dal decreto ministeriale 10 gennaio
+2018, recante la disciplina fiscale per recepire le novità dell’IFRS 9, con particolare focus sul
+tema, di grande attualità, delle conseguenze fiscali derivanti dalla riclassificazione degli
+strumenti finanziari in sede di FTA dell’IFRS 9.
+
+                                                                                                                                           Overview
+                                                                                                                                       Classification &
+                                                                                                                                        Measurement
+                                       Il passaggio dallo IAS 39 all’IFRS 9
+                             IAS 39                                                                                 IFRS 9
+   Categoria                                  Misurazione                        Caratteristiche                                    Misurazione
+                                                                                                Business model
+          Crediti e finanziamenti                       Costo                                         “hold”
+                                                                                      +                                                   Costo
+                   (L&R)                            ammortizzato
+                                                                                             Flussi di pagamento:                     ammortizzato
+                                                                                               capitale e interessi
+        Detenute fino a scadenza                        Costo
+                   (HTM)                            ammortizzato                                Business model
+                                                                                                “collect and sell”
+                                                                                      +
+                                                                                                                                          FVOCI
+                                                      Fair Value                             Flussi di pagamento:
+         Disponibili per la vendita                                                            capitale e interessi
+                                                     (Redditività
+                    (AFS)
+                                                    complessiva)
+        Valutate al Fair Value (HFT                                                        Altri strumenti finanziari                     FVTPL
+                                                        FVTPL
+                   e FVO)
+• La valutazione successiva all’iscrizione dipende dalla classificazione.        • La classificazione iniziale dipende dal Business Model e dalle
+                                                                                   caratteristiche dello strumento finanziario.
+                           • La classificazione dipende in parte dalle finalità per cui è stato acquistato
+                             (Business Model) e in parte dalle caratteristiche dello strumento (SPPI).
+
+                                                                                     Overview
+                                                                                  Classification &
+                                                                                   Measurement
+    Criteri di classificazione e misurazione delle attività finanziarie
+                      Strumenti di debito                  Derivati   Strumenti di capitale
+Business Model “Hold to r        Business Model “Hold to r          a
+                                                                            Trading?
+       collect”?                    Collect and Sell”?
+        a                               a                                         r
+                                                         r          r
+                    Superano SPPI?                                       FVTOCI-Option?
+        a                               a                                         a
+                   Fair value option?
+                                                         a
+        r                                r
+          Costo                         FVTOCI             FVTPL            FVTOCI
+      ammortizzato                  (with recycling)                   (without recycling)
+
+                                                                                                                              Overview
+                                                                                                                           Classification &
+                                                                                                                            Measurement
+                                            Business Model: linee guida
+Lo Standard prevede nuove regole per la classificazione delle attività finanziarie nelle seguenti categorie:
+•      Costo Ammortizzato (di seguito anche “CA”);
+•      Fair value con impatto sulla redditività complessiva (di seguito anche “FVOCI” ovvero Fair Value through Other Comprehensive
+       Income);
+•      Fair value con impatto a conto economico (di seguito anche “FVTPL” ovvero Fair Value through Profit and Loss).
+La classificazione viene effettuata in funzione di due discriminanti:
+•      Il modello di business che la società ha associato ad ognuno dei portafogli identificati;
+•      Le caratteristiche dei flussi di cassa contrattuali dello strumento finanziario (Solely Payment of Principal and Interests – SPPI
+       test).
+Il Modello di Business rappresenta la modalità con cui l’entità gestisce i suoi attivi finanziari. Esso riflette il modo in cui gruppi di
+attività finanziarie sono gestite collettivamente per perseguire un determinato obiettivo aziendale indipendentemente dalle intenzioni
+del management rispetto ad ogni singolo strumento.
+
+                                                                                                                                   Overview
+                                                                                                                               Classification &
+                                                                                                                                 Measurement
+                                                           Il Test SPPI
+Il test SPPI ha l’obiettivo di determinare se i flussi di cassa contrattuali sono rappresentati esclusivamente da pagamenti per
+capitale ed interessi.
+       <U+F0A7> CAPITALE: Fair Value al momento dell’iscrizione dell’attività finanziaria. Il capitale può cambiare durante la vita dell’attività
+         finanziaria (es. rimborsi);
+       <U+F0A7> INTERESSI: remunerazione per il valore temporale del denaro e per il rischio di credito o di altre tipologie di rischi (es:
+         rischio di liquidità) o di costi amministrativi (es: costi di servicing) associati al mantenimento dell’attività finanziaria.
+                                          Capitale                                             Interessi
+                                  Fair value alla data di                                Remunerazione per
+                                    rilevazione iniziale                               “time value of money”
+                                  Può cambiare durante                                   Considera anche il
+                                 la vita dello strumento                                  rischio di credito
+
+                                                                                                                                           Overview
+                                                                                                                                       Classification &
+                                                                                                                                        Measurement
+                La classificazione delle attività finanziarie: titoli e crediti
+Nuovi criteri di classificazione e conseguente misurazione delle attività finanziarie
+           BUSINESS                                                        DESCRIZIONE                                             CATEGORIA
+              MODEL                                                                                                                CONTABILE
+                                 • Tale modello di Business prevede che le attività finanziarie siano detenute con la finalità
+                                   di realizzare i flussi di cassa contrattuali generati durante la vita dello strumento
+                                 • Le vendite sono ammesse in precisi casi definiti dallo Standard, cioè nel caso di:
+                                        o    Aumento del rischio di credito della controparte (anche prospettico)                       Costo
+            HOLD TO                                                                                                              Ammortizzato (*)
+            COLLECT                     o    Aumento della concentrazione di rischio o vendite effettuate per fronteggiare
+                                             situazioni di stress di liquidità, che siano
+              «HTC»                                                                                                                      (CA)
+                                             i. Occasionali (anche se rilevanti in termini di valore);
+                                             ii. Irrilevanti (anche se frequenti)
+                                             iii. Non occasionali e più che rilevanti
+                                        o    Prossimità alla scadenza delle attività finanziarie
+                                 • Tale modello di Business prevede che le attività finanziarie siano detenute con la finalità     Fair Value con
+            HOLD TO                di realizzare i flussi di cassa contrattuali generati durante la vita dello strumento o          impatto sulla
+         COLLECT AND               tramite la vendita dello strumento                                                                 redditività
+               SELL                                                                                                                complessiva (*)
+                                 • L’obiettivo di tale modello di business è coerente con le esigenze legate ai fabbisogni
+             «HTCS»                correnti di liquidità e tesoreria, al mantenimento di un certo margine di interesse, all’ALM,
+                                   alla massimizzazione del ritorno su un determinato complesso di attività                            (FVOCI)
+                                 • Tale modello di business “Altro” (“Other”) prevede la realizzazione dei flussi di cassa         Fair Value con
+                                   tramite la vendita dello strumento, tipicamente operatività di trading                         impatto a Conto
+              OTHER                                                                                                                  Economico
+                                 • Si tratta di un modello di business di tipo residuale rispetto ai due precedenti                    (FVTPL)
+  (*) Previa verifica del superamento dell’SPPI Test
+
+                                                                                                                                          Overview
+                                                                                                                                      Classification &
+                                                                                                                                       Measurement
+La classificazione delle attività finanziarie: derivati e strumenti di
+                                                                  capitale
+                                                  STRUMENTI DERIVATI                                                                  CATEGORIA
+                                                                                                                                      CONTABILE
+• Lo Standard, in continuità con lo IAS 39, richiede che gli strumenti finanziari derivati debbano essere misurati a                 Fair Value con
+  FVTPL. Non è necessario definire alcun modello di business per tali strumenti finanziari.                                         impatto a Conto
+• Con riferimento allo scorporo dei derivati impliciti si noti che, nel caso di attività finanziaria strutturata (o ibrida), non       Economico
+  si opera in nessun caso lo scorporo del derivato.
+  Qualora le caratteristiche complessive dello strumento (incluso la presenza del derivato) comportino il                               (FVTPL)
+  fallimento dell’SPPI test, l’intero strumento deve essere classificato a FVTPL
+                                                STRUMENTI DI CAPITALE                                                                 CATEGORIA
+                                                                                                                                    CONTABILE (*)
+                                                                                                                                 Fair Value con impatto
+• Lo Standard richiede che gli strumenti di capitale, diversi dalla partecipazioni di collegamento o di controllo,                a Conto Economico
+  debbano essere misurati al FVTPL
+                                                                                                                                        (FVTPL)
+                                                                                                                                 Fair Value con impatto
+• La Banca può compiere la scelta irrevocabile di presentare le variazioni successive del fair value nella redditività               sulla redditività
+  complessiva (“opzione OCI”).                                                                                                     complessiva – no
+• Nel caso di esercizio dell’opzione OCI, il transito a conto economico riguarderà solo i dividendi. Le eventuali riserve               recycling
+  di patrimonio netto (positive o negative) accumulate nel periodo non transiteranno a conto economico                                (FVOCI - no
+  nemmeno nel caso di vendita dello strumento di capitale (c.d. “no recycling”)                                                        recycling)
+
+                                                                                                                                        Overview
+                                                                                                                                   Classification &
+                                                                                                                                    Measurement
+                             La classificazione delle passività finanziarie
+Nuovi criteri di classificazione e misurazione delle passività finanziarie
+                                              DESCRIZIONE PASSIVITA’ FINANZIARIE                                                  CATEGORIA
+                                                                                                                                   CONTABILE
+                                                                                                                             Fair Value con impatto
+   Passività finanziarie detenute con finalità di negoziazione                                                                 a Conto Economico
+                                                                                                                                      (FVTPL)
+   Passività finanziarie detenute con una finalità diversa dalla negoziazione e per le quali la Banca non si è avvalsa della  Costo Ammortizzato
+   c.d. fair value option                                                                                                               (CA)
+                                         Il trattamento contabile IFRS 9 delle Passività è analogo a quello IAS 39
+                              FAIR VALUE OPTION: scomposizione della variazione di Fair Value                                      CATEGORIA
+                                                                                                                                   CONTABILE
+                                                                                                                             Fair Value con impatto
+   Quota parte di variazione di fair value attribuibile al proprio rischio di credito (c.d. rischio emittente)                    sulla redditività
+                                                                                                                              complessiva (FVOCI)
+                                                                                                                              Fair Value con impatto
+   Altre variazioni di fair value, diverse dal punto precedente                                                                 a Conto Economico
+                                                                                                                                       (FVTPL)
+
+                                                                                                                     Overview Impairment
+       L’impairment delle attività finanziarie: IAS 39 vs IFRS 9
+           IAS 39                                                            IFRS 9
+• Modello che si basa sulle "perdite                             • Modello che si basa prevalentemente sulle
+   sostenute" (Incurred Losses)                                     "perdite attese" (Expected Losses),
+     -   l’impairment analitico è determinato                       opportunamente integrato per tener conto
+         qualora la società abbia evidenze                          del «forward looking»
+         obiettive che è stata sostenuta una                              - l’eventuale progressivo
+         perdita per riduzione di valore                                  deterioramento del credito conduce al
+     -   l’impairment collettivo è determinato su                         riconoscimento di perdite attese
+         un gruppo di attività finanziarie con                            calcolate sull’intera vita dell’attività
+         caratteristiche similari di credito,                             finanziaria
+         qualora non ricorra una obiettiva                       • Calcolo degli interessi attivi sul "net carrying
+         evidenza di perdita (Incurred but not                      amount" in caso di crediti "impaired"
+         reported loss)
+ Il nuovo modello di impairment si differenzia in modo significativo rispetto a quanto prevedeva lo IAS 39. L’aspettativa è di avere
+ maggiori impatti per svalutazione sia per i crediti che per gli altri strumenti finanziari
+
+                                                                                                                           Overview Impairment
+                        L’impairment delle attività finanziarie: linee guida
+                 Ambito di applicazione                                                          Approcci possibili
+                                                                                                                  Applicabile a tutte le
+                                                                                                                  attività finanziarie
+                                                                              General
+                             Attività al costo                                                                    alle quali non si
+                              ammortizzato                                   approach                             applicano gli altri
+                                                                                                                  approcci
+                                                                                                                    Crediti
+        Loan                  Expected                                       Simplified                             commerciali/
+   committment,
+      garanzie                   Credit             Attività al FVOCI        approach                               crediti derivanti da
+     finanziarie                  Loss                                                                              canoni di leasing
+                                                                                                                  Crediti originati /
+                                   Crediti                                                                        deteriorati impaired,
+                               commerciali/                                                                       dove ci sono
+                             crediti derivanti                            Credit Adjusted
+                                                                                                                  evidenze di ECL già
+                                da canoni di                                 approach                             alla rilevazione
+                                  leasing
+                                                                                                                  iniziale (si applica in
+                                                                                                                  rari casi)
+I 4 passi fondamentali per il calcolo dell’expected credit loss
+    Identificare gli scenari di                Stimare la riduzione dei      Moltiplicare la perdita per la  Sintetizzare i risultati per
+    default dello strumento                    flussi di cassa in caso di    probabilità di default          ogni possibile evento di
+                                               default per scenario                                          default
+
+                                                                                                                                     Overview Impairment
+        L’impairment delle attività finanziarie: General Approach
+                                           Variazione del rischio di credito rispetto alla rilevazione iniziale
+                                                     Significativo incremento
+                                                                                                     Oggettive evidenze di
+                                                     del Rischio di Credito?
+                                                                                                          impairment?
+                                                     - Variazioni PD
+                                                                                                        (trigger IAS 39)
+                                                     - Presenza indicatori
+Rilevazione                                  Stage 1                                Stage 2                                Stage 3
+Iniziale
+Credit loss                          12-month expected                  Life time expected credit               Life time expected credit
+                                           credit loss                                  loss                                 loss
+                                       ..valore contabile                      ..valore contabile                     ..valore contabile
+Calcolo                                        lordo                                   lordo                                 netto
+interessi
+ Un fattore critico nell’applicare il modello è determinare se il rischio di credito di uno strumento ha avuto un incremento significativo a partire
+ dalla rilevazione iniziale. Questo è il «trigger» che fa modificare i criteri di calcolo dell’accantonamento dai 12 mesi a Life time
+
+                                                                                                                        Overview Hedge
+                                                                                                                          Accounting
+                       Hedge Accounting: IAS 39 vs IFRS 9 (1/2)
+             IAS 39       La revisione del requisito dell'hedge accounting dello IAS 39 prevede due progetti distinti:
+                          (1) General hedge accounting come parte integrante del progetto IFRS 9 e
+                          (2) hedge accounting di portafoglio (o "macro"), come un progetto separato
+    Eligible Items
+                          In attesa del completamento del progetto di macro hedge accounting, è data l’opzione di continuare
+                          ad applicare i requisiti contabili di copertura previsti dallo IAS 39 o, in alternativa, applicare il
+     Designation          nuovo modello di hedge accounting generale dalla data di prima applicazione dell'IFRS 9
+                          •    Questa scelta di accounting policy consente alle entità o di passare all’IFRS 9 Hedge Accounting o di
+    Effectiveness
+                               continuare ad applicare il principio IAS 39 Hedge Accounting;
+                          •    E’ applicabile all’hedge accounting e non alle altre fasi dell’IFRS 9 (ad es. Classificazione e
+                               Misurazione ed Impairment);
+     Rebalancing          •    La policy sarà applicabile finché non sarà completato il progetto sul macro hedge accounting;
+                          •    E’ una regola generale e non può essere applicata hedge by hedge.
+  Discontinuation
+                          Il modello di hedge accounting generale fornisce una serie di nuovi approcci per allineare la gestione
+                          del rischio delle banche con la sfera contabile
+     Disclosure
+                          In particolare, l’IFRS 9 introduce una più ampia gamma di strumenti coperti e di copertura, nuovi
+                          requisiti per la designazione e la dimostrazione dell’efficacia della copertura così come la possibilità di
+                          ribilanciare le operazioni di copertura e l'uso della fair value option per l'esposizione al rischio di
+                          credito
+           IFRS 9
+Quasi tutte le società hanno deciso di andare in continuità con lo IAS 39 per Hedge Accounting
+
+                                                                                                            Overview Hedge
+                                                                                                               Accounting
+                               Hedge Accounting: IAS 39 vs IFRS 9 (2/2)
+Il nuovo modello contabile presenta elementi di continuità con lo IAS 39 quali
+l’architettura generale (che prevede il FVH e il CFH), i criteri di designazione e      De-designation
+gli obblighi di documentazione.
+Gli elementi di discontinuità sono essenzialmente dovuti all’obiettivo di allineare                       Qualifying
+                                                                                                           criteria
+l’hedge accounting ovvero le modalità di contabilizzazione delle coperture alle
+attività di Risk Management, con riferimento a:
+    • Allargamento dei criteri di eleggibilità di strumenti di copertura e di oggetti
+        coperti;                                                                        Hedging
+                                                                                      instruments
+    • Test di efficacia più flessibile;
+                                                                                                       Hedge
+    • Eliminata l’interruzione volontaria ed introdotto il rebalancing;                                items
+    • Disclosure rafforzata ;
+    • Possibilità di copertura delle componenti di rischio dei non financial asset
+
+                               La Riclassifica delle Attività Finanziarie
+• In fase di prima applicazione del principio l’entità ha l’opportunità di effettuare riflessioni circa il modello di business più appropriato;
+• In fase di running, la riclassifica delle attività finanziarie è prevista solo quando interviene una modifica del modello di business relativo alla
+  loro gestione.
+                                 Tali modifiche (rare):
+                                 • sono decise dai Dirigenti con responsabilità strategiche, a seguito di cambiamenti esterni o interni e devono
+                                      essere rilevanti per l’operatività della Banca e dimostrabili ai terzi
+       MODIFICHE AL              Esempio: Inizio o cessazione di un'attività rilevante per le sue operazioni, come acquisizioni, cessioni o
+        MODELLO DI
+          BUSINESS               cessazioni di un ramo di attività
+                                 Le conseguenti riclassifiche:
+                                 • Devono avvenire prospetticamente. Non sarà pertanto necessario rideterminare utili, perdite o interessi
+                                      rilevati in precedenti esercizi
+                                 Le seguenti situazioni non rappresentano modifiche del modello di business:
+        MODELLO DI               •    Un cambiamento di intenzione in relazione a determinate attività finanziarie (anche in caso di cambiamenti
+          BUSINESS
+         INVARIATO                    significativi delle condizioni di mercato)
+                                 •    La temporanea scomparsa di un dato mercato per le attività finanziarie
+                                 •    Il trasferimento di attività finanziarie tra parti della Banca con diversi modelli di business
+
+                                 Sinossi degli impatti delle riclassifiche in FTA
+                                                                                                    IFRS 9
+                                                   CA (HTC)                                                   FVTOCI (HTCS)                                                 FVTPL
+            HTM/         Gli strumenti rimangono iscritti al costo ammortizzato. La      La differenza tra il FV alla data di transizione e il   La differenza tra il FV alla data di transizione e il
+             L&R         differenza nella misurazione dell’impairment alla data di       costo ammortizzato alla medesima data viene             costo ammortizzato alla medesima data, al netto
+                         transizione rispetto all’impairment IAS 39 trova                rilevato ad OCI. La differenza tra la misurazione       dell’eventuale impairment (di fatto, la variazione
+                         rilevazione in contropartita delle riserve di utili (riserva di dell’impairment alla data di transizione rispetto alla  cumulata di fair value) viene rilevata a riserva di
+                         utili derivante dall’applicazione del nuovo Standard –          misurazione IAS 39 trova rilevazione in                 utili (Riserva di utili derivante dall’applicazione del
+                         riserva di FTA)                                                 contropartita della riserva di utili (riserva FTA)      nuovo Standard). Dalla data di transizione non si
+                                                                                                                                                 applica più l’impairment
+IAS
+                         L'utile (perdita) cumulato rilevato precedentemente a OCI       Gli strumenti finanziari mantengono la precedente       L'utile       (perdita)         cumulato        rilevato
+ 39          AFS         è eliminato dal patrimonio netto in contropartita del FV        valutazione al fair value in contropartita del          precedentemente in OCI è riclassificato in una
+                         dell'attività finanziaria alla data di transizione. Di          prospetto della redditività complessiva (FVOCI).        riserva di utili (riserva FTA)
+                         conseguenza, l'attività finanziaria è valutata alla data        L’impairment determinato in sede di transizione         Dalla data di transizione non si applica alcun
+                         della transizione come se fosse sempre stata valutata al        viene rilevato in variazione della riserva di OCI       impairment
+                         CA. L’impairment determinato secondo il nuovo modello           relativa al singolo strumento e in contropartita delle
+                         ECL è contabilizzato in contropartita alla riserva di utili     riserve di utili (riserve di FTA)
+                         (riserva FTA)
+                         L'utile (perdita) cumulato rilevato precedentemente tra le      La differenza tra il FV alla data di transizione e il   Gli     strumenti       finanziari  mantengono        la
+                         riserve di utili è eliminato dal patrimonio netto in            costo ammortizzato ricalcolato alla medesima data       valutazione         al     FVTPL     senza      calcolo
+           FVTPL         contropartita del FV dell'attività finanziaria alla data di     viene riclassificato da una riserva di utili a OCI* (in dell’impairment
+                         transizione.      Inoltre   ogni     differenza      derivante  altri termini, le differenze cumulate tra il fair value
+                         dall’applicazione del tasso di interesse effettivo deve         iniziale e il 31 dicembre 2017, che figurano nel PN
+                         anch’essa essere rilevata tra le riserve di utili. Di           come utili/perdite esercizi precedenti, costituiranno
+                         conseguenza, l'attività finanziaria è valutata alla data        la nuova riserva OCI). L’impairment determinato in
+                         della transizione come se fosse sempre stata valutata al        sede di transizione viene rilevato in variazione della
+                         CA*. L’impairment determinato secondo il nuovo modello          riserva di OCI relativa al singolo strumento e in
+                         ECL IFR9 è contabilizzato in contropartita della riserva di     contropartita della riserva di utili (riserva di FTA)
+                         utili (riserva FTA)
+  * Qualora non sia possibile applicare retrospettivamente (come definito dallo IAS 8) il metodo del tasso di interesse effettivo, il fv dell’attività finanziaria alla data di
+    transizione diverrà il suo nuovo valore contabile lordo
+
+                                                                                                                                              1/4
+                                  Impatto alla data di transizione
+Tenuto conto di quanto premesso, si sintetizzano di seguito le possibili casistiche che si potrebbero riscontrare in sede di prima
+applicazione del nuovo Principio (FTA).
+  IAS 39                                                           IFRS 9 – effetti FTA
+                                                    La riserva AFS cambia denominazione in Riserva OCI, il titolo prosegue la propria
+                                                    contabilizzazione a FV; il nuovo impairment IFRS 9 è da contabilizzarsi contro Riserva
+                                  FVTOCI            di utili (FTA).
+                                                    Nessun impatto sul tasso di interesse effettivo.
+                                                    La Riserva AFS viene annullata in contropartita con lo strumento finanziario fino ad
+    AFS                             CA              allinearlo al suo costo ammortizzato. Il nuovo impairment IFRS 9 è da contabilizzarsi
+                                                    contro Riserva di utili (FTA).
+                                                    Nessun impatto sul tasso di interesse effettivo.
+                                                    L’attività finanziaria continua ad essere valutata al FV. La riserva AFS è riclassificata
+                                   FVTPL            nella Riserva di utili (FTA). Dalla data di transizione non si applica alcun impairment.
+                                                    Nessun impatto sul tasso di interesse effettivo.
+
+                                                                                                                                                                                       2/4
+                                                        Impatto alla data di transizione
+                                                           Riclassifica da AFS a CA in presenza di riserva positiva
+      IAS 39                       IFRS 9
+                                                                                       Descrizione Conto                       Dr Cr                        Spiegazione
+                                                                    Riserva da valutazione                                      20
+                                                                                                                                       Eliminazione effetto Fair Value strumento IAS 39
+                                                                    Attività finanziarie disponibili per la vendita                 20
+       AFS                            CA                            Attività finanziarie disponibili per la vendita                100    Riclassifica strumento nella nuova categoria
+                                                                    Attività finanziarie valutate al costo ammortizzato 100                                   IFRS 9
+                                                                    Attività finanziarie valutate al costo ammortizzato            5
+                                                                                                                                                    Effetto impairment IFRS 9
+                                                                    Riserve (**)                                               5
+                                                         (**) La voce fa riferimento alla riserva di prima applicazione IFRS 9
+  Riclassifica da AFS a CA in presenza di riserva negativa
+                              Descrizione Conto                          Dr Cr                             Spiegazione
+           Attività finanziarie disponibili per la vendita                 20
+                                                                                     Eliminazione effetto Fair Value strumento IAS 39
+           Riserve da valutazione                                                20
+           Attività finanziarie disponibili per la vendita                     100      Riclassifica strumento nella nuova categoria
+           Attività finanziarie valutate al costo ammortizzato 100                                            IFRS 9
+           Attività finanziarie valutate al costo ammortizzato                 5
+                                                                                                   Effetto impairment IFRS 9
+           Riserve (**)                                                  5
+(**) La voce fa riferimento alla riserva di prima applicazione IFRS 9
+
+                                                                                                            3/4
+       Impatto alla data di transizione
+IAS 39                                 IFRS 9 - effetti FTA
+               L’attività finanziaria continua ad essere contabilizzata al CA, nessuna modifica se non
+         CA    per il possibile diverso effetto impairment da contabilizzarsi contro Riserva di utili
+               (FTA).
+               Nessun impatto sul tasso di interesse effettivo.
+HTM/           Viene costituita la Riserva OCI in contropartita dello strumento finanziario fino ad
+L&R    FVTOCI  allinearlo al suo fair value. L’impatto netto dell’impairment sarà da contabilizzarsi
+               contro Riserva di utili (FTA).
+               Nessun impatto sul tasso di interesse effettivo.
+        FVTPL  Lo strumento finanziario viene allineato al suo fair value con effetti in contropartita alla
+               Riserva di utili (FTA). Dalla data di transizione non si applica alcun impairment
+               Nessun impatto sul tasso di interesse effettivo.
+
+                                                                                                                                                                                4/4
+                                            Impatto alla data di transizione
+        IAS 39                                                                          IFRS 9 - effetti FTA
+                                             FVTPL              L’attività finanziaria continua ad essere contabilizzata al FV senza calcolo
+                                                                dell’impairment. Nessun impatto.
+      Trading                                  CA               Deve essere ripristinato il costo ammortizzato alla data di FTA (*) e la stima della
+                                                                differenza tra fair value e costo ammortizzato è iscritta con contropartita alla Riserva di
+                                                                utili (FTA). La nuova stima dell’impairment ha effetto contro Riserve di utili (FTA).
+                                            FVTOCI              L’attività finanziaria continua ad essere valutata al FV, ma vi sarà una riclassifica tra
+                                                                Riserva di utili (FTA) e Riserva OCI per l’allineamento al fair value al netto
+                                                                dell’eventuale effetto del nuovo impairment.
+(*) Qualora non sia possibile applicare retrospettivamente (come definito dallo IAS 8) il metodo del tasso di interesse effettivo, il fair value dell’attività finanziaria alla
+data di transizione diverrà il suo nuovo valore contabile lordo.
+

@@ -1,0 +1,1133 @@
+DATA:                         09/02/2018                     DATA SCADENZA:           Fino a revoca
+CODICE TESTO:                 D 01324 002 NMOG               CODICE RISORSA           AAA003JNP
+OGGETTO:
+                              Convalida del Sistema                                   dei        Rating
+                              Interni del modello AIRB
+MACROPROCESSO:                RISK MANAGEMENT
+PROCESSO:                     Convalida interna dei sistemi di misurazione dei rischi
+SEGMENTO DI MERCATO:          Non applicabile
+(prevalentemente interessato)
+RUOLI:                        TUTTI
+(prevalentemente interessati)
+SERIE/SETTORE/SERVIZIO:       23          /   3          /   4
+TESTI ANNULLATI:
+PRESA VISIONE:                1             senza formalità
+STRUTTURA EMANANTE:           (3059)        VALID-SIS-RIS
+ASSISTENZA DI TIPO            cfr punto 1.5
+TECNICO/OPERATIVO:
+
+                  Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                  Codice: D 01324 002                     Pubblicato il: 09/02/2018                 Pag. 1 di 21
+                                                   INDICE
+1 - QUADRO DI SINTESI ................................................................................................ 2
+  1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI .............................................. 2
+  1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE .................. 3
+  1.3 - DESTINATARI ..................................................................................................... 3
+  1.4 - DECORRENZA ..................................................................................................... 3
+  1.5 - RIFERIMENTI PER ASSISTENZA ............................................................................ 3
+2 - ASPETTI DI CONTESTO ............................................................................................. 3
+3 - ARTICOLAZIONE E RESPONSABILITA’ ......................................................................... 4
+  3.1 - ELENCO FUNZIONI E RUOLI INTERESSATI ............................................................. 4
+  3.2 - RAPPRESENTAZIONE GRAFICA ............................................................................. 4
+4 - PIANIFICAZIONE ANNUALE E PREDISPOSIZIONE DEL VALIDATION PLAN ........................ 6
+  4.1 - NORME GENERALI ............................................................................................... 6
+  4.2 - SEQUENZA DEGLI ADEMPIMENTI .......................................................................... 6
+5 - CONTROLLI IN FIRST TIME ADOPTION ........................................................................ 8
+  5.1 - NORME GENERALI ............................................................................................... 8
+  5.2 - SEQUENZA DEGLI ADEMPIMENTI .......................................................................... 8
+6 - CONTROLLI PER IL PASSAGGIO IN PRODUZIONE DI MODIFICHE ALLE PROCEDURE CHE
+IMPLEMENTANO I MODELLI .......................................................................................... 11
+  6.1 - NORME GENERALI ............................................................................................. 11
+  6.2 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 11
+7 - CONTROLLI DEFINITI COME CONTINUATIVI............................................................... 12
+  7.1 - NORME GENERALI ............................................................................................. 12
+  7.2 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 13
+8 - CONTROLLI DEFINITI COME PERIODICI .................................................................... 14
+  8.1 - NORME GENERALI ............................................................................................. 14
+  8.2 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 15
+9 - MONITORAGGIO STATO AVANZAMENTO .................................................................... 16
+  9.1 - NORME GENERALI ............................................................................................. 16
+  9.2 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 17
+10 - RELAZIONE ANNUALE DI CONVALIDA...................................................................... 18
+  10.1 - NORME GENERALI ........................................................................................... 18
+  10.2 - SEQUENZA DEGLI ADEMPIMENTI ...................................................................... 18
+11 - MANUTENZIONE FRAMEWORK DI CONVALIDA .......................................................... 20
+  11.1 - NORME GENERALI ........................................................................................... 20
+  11.2 - SEQUENZA DEGLI ADEMPIMENTI ...................................................................... 20
+12 - ELENCO TESTI NORMATIVI DI RIFERIMENTO ........................................................... 21
+
+                       Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                       Codice: D 01324 002             Pubblicato il: 09/02/2018          Pag. 2 di 21
+1 - QUADRO DI SINTESI
+1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI
+Il presente documento norma in dettaglio le attività di “Convalida del Sistema dei Rating
+Interni (AIRB)” come un insieme formalizzato di adempimenti, strumenti e procedure volti a
+valutare il funzionamento e la performance di detto Sistema in termini di rispondenza rispetto
+alle previsioni normative. In tal senso le attività di Convalida ricomprendono l’analisi delle
+diverse componenti del complesso Sistema dei Rating Interni rientranti nel perimetro di
+competenza della Funzione di Convalida, ad eccezione quindi delle analisi circa la corretta
+applicazione dei processi ed i comportamenti.
+In particolare le attività di Convalida mirano a valutare il posizionamento del Sistema dei
+Rating Interni rispetto ai requisiti regolamentari e prevedono un ruolo centrale della
+Capogruppo che svolge le attività di convalida sia per Banca Monte dei Paschi sia per le Società
+Controllate per le quali risultano svolte in accentrato (esternalizzate) le relative attività; più in
+generale risulta istituita presso la Capogruppo una Funzione di Convalida che si avvale di
+Referenti locali che a questa riportano funzionalmente garantendone il supporto di volta in
+volta richiesto (cfr. 1030D00793, 1030D01797).
+La Convalida del Sistema dei Rating Interni (AIRB), al pari degli adempimenti di convalida per
+gli altri rischi rientranti nel perimetro della Funzione, è prevista nell’ambito della pianificazione
+annuale delle attività declinate nel “Validation Plan”, approvato dal Consiglio di
+Amministrazione ad inizio di ogni anno e rendicontato a fine esercizio nella “Relazione
+Annuale”, documento anch’esso portato in approvazione al Consiglio di Amministrazione e
+trasmesso all’Autorità di Vigilanza. In corso d’anno è prevista la predisposizione di ulteriori
+documenti miranti a descrivere l’esito delle attività svolte, le anomalie riscontrate, il reporting
+predisposto nonché la valutazione della Funzione di Convalida in merito al posizionamento
+della Banca rispetto ai singoli requisiti regolamentari.
+Il framework metodologico di riferimento, predisposto e manutenuto dalla Funzione di
+Convalida, prevede l’esecuzione di verifiche e controlli di validazione differenziati sulle tre
+principali componenti del Framework di Convalida: Modelli, Processi e Dati.
+Tale framework prevede altresì che la Funzione di Convalida possa richiedere l’affiancamento
+della Funzione di Controllo dei Rischi al fine di poter accertare se il modello di misurazione è
+conforme alla normativa ed alle previsioni degli Organi di Vigilanza ed alle disposizioni del
+Consiglio di Amministrazione della Banca, nonché di acquisire periodicamente relazioni ed
+informazioni di dettaglio dalle funzioni coinvolte nella gestione dei sistemi di misurazione in
+convalida.
+In particolare, il framework di convalida prevede:
+•    Attività di First Time Adoption per le quali la Funzione di Convalida è affiancata dalla
+     Funzione di Controllo dei Rischi e/o da altre Funzioni aziendali in occasione di modifiche
+     significative al Sistema dei Rating Interni di Gruppo;
+•    Attività di controllo continuative svolte mediante controlli indipendenti da parte della
+     Funzione di Convalida e prevedono:
+     - possibile utilizzo di check list, predisposte dalla Funzione di Convalida e destinate alla
+         Funzione di Controllo del Rischio o alle altre Funzioni aziendali coinvolte nella gestione
+         del Sistema dei Rating Interni;
+     - esecuzione di attività di controllo specialistico;
+     - relazioni richieste dalla Funzione di Convalida alle suddette Funzioni su specifici temi da
+         approfondire;
+•    Attività di controllo periodiche, svolte dalla Funzione di Convalida e per le quali può essere
+     richiesto il supporto della Funzione di Controllo dei Rischi.
+
+                     Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                     Codice: D 01324 002             Pubblicato il: 09/02/2018          Pag. 3 di 21
+1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE
+Il documento è stato rivisto nella struttura dei capitoli ed aggiornato nei contenuti per
+adeguarlo alle evoluzioni degli assetti organizzativi nel frattempo intercorsi; è opportuna,
+pertanto, la rilettura integrale della presente versione del testo.
+1.3 - DESTINATARI
+Il documento è destinato a BMPS ed alle società controllate del perimetro AIRB (MPS Leasing &
+Factoring e MPS Capital Services) che esternalizzano alla Capogruppo la gestione delle attività
+di Convalida del Sistema dei Rating Interni ed al Consorzio Operativo di Gruppo.
+Queste ultime emanano analoga normativa nel rispetto delle regole e dei processi di seguito
+descritti, adeguando regole, responsabilità e processi interni, in coerenza con le proprie
+caratteristiche e dimensioni.
+1.4 - DECORRENZA
+Data di pubblicazione.
+1.5 - RIFERIMENTI PER ASSISTENZA
+Portale Assistenza
+2 - ASPETTI DI CONTESTO
+Dal 1° gennaio 2014 è entrato in vigore il Regolamento UE “Requisiti prudenziali per gli enti
+creditizi e le imprese di investimento” n. 575/2013 del 26 Giugno 2013 (CRR) che assume
+rilevanza primaria in tutti gli stati membri. Tale normativa, prevede, inoltre, l’emanazione di
+specifici documenti attuativi per aspetti di dettaglio da parte dell’European Banking Authority
+(EBA). L’attività di Convalida è basata sulla CRR e sui documenti vigenti emanati da EBA:
+laddove i disposti della Circ. 285 della Banca d’Italia siano di maggior dettaglio e non
+incoerenti con la normativa comunitaria sono possibili dei riferimenti a tale disciplina.
+Il perimetro dei controlli definiti è strettamente dipendente dall’obiettivo del processo di
+convalida, dalle caratteristiche del Sistema dei Rating Interni, nonché dal modello definito con
+la Direttiva di Gruppo in materia dei Convalida Interna dei sistemi di misurazione dei rischi
+(1030D02208).
+
+                    Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                    Codice: D 01324 002              Pubblicato il: 09/02/2018         Pag. 4 di 21
+3 - ARTICOLAZIONE E RESPONSABILITA’
+3.1 - ELENCO FUNZIONI E RUOLI INTERESSATI
+Quadro di raccordo tra “Nome convenzionale Funzione” e Struttura vigente
+ Nome Convenzionale Funzione        Struttura Organizzativa
+                                   Funzioni aziendali coinvolte nella gestione del Sistema dei Rating
+ Business
+                                   Interni (cfr. 1030D02208)
+                                   BMPS:
+ Collegio Sindacale
+                                      Collegio Sindacale
+                                   BMPS:
+ Comitato Gestione Rischi
+                                      Comitato Gestione Rischi
+                                   BMPS:
+ Comitato Rischi
+                                      Comitato Rischi
+                                   BMPS:
+ Consiglio di Amministrazione
+                                      Consiglio di Amministrazione
+                                   BMPS:
+ Controllo del Rischio
+                                      Direzione Chief Risk Officer - Area Lending Risk Officer
+                                   BMPS:
+ Convalida                            Direzione Chief Risk Officer - Servizio Validazione Sistemi di
+                                      Rischio
+ Coordinamento      Funzioni   di     Comitato per il Coordinamento delle Funzioni con compiti di
+ Controllo                            controllo
+                                   Consorzio:
+ IT
+                                      Area Applicazioni Governo
+                                   BMPS:
+ Revisione Interna
+                                      Direzione Chief Audit Executive
+Quadro di raccordo tra “Nome convenzionale Ruolo” e Ruolo vigente
+ Nome Convenzionale Ruolo           Ruolo
+                                   Referente Locale nominato presso le Aziende del Gruppo che
+ Referente Locale                  presentano la funzione deputata alle attività di Convalida
+                                   accentrata presso la Capogruppo
+                                   BMPS:
+                                      Responsabile della Funzione di Convalida (cfr. 1030D00754 -
+ Responsabile Convalida
+                                      Incarichi di responsabilità: Capogruppo Bancaria e ruoli apicali di
+                                      Area Territoriale)
+                                   Responsabile della Convalida nominato presso le Aziende del
+ Responsabile Convalida per la
+                                   Gruppo che presentano la funzione deputata alle attività di
+ Controllata
+                                   Convalida accentrata presso la Capogruppo
+3.2 - RAPPRESENTAZIONE GRAFICA
+Tutti i processi aziendali sono inseriti nella Tassonomia di Gruppo, che prevede cinque livelli
+gerarchici: ambito, macroprocesso, processo (P), fase (F), attività (AT) (cfr. 1030D01823
+“Policy in materia di Normativa Interna e Processi”).
+L’argomento trattato è inserito nella Tassonomia di Gruppo nei processi di Convalida interna
+dei sistemi di misurazione dei rischi.
+
+                  Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                  Codice: D 01324 002             Pubblicato il: 09/02/2018          Pag. 5 di 21
+Gli adempimenti relativi alle fasi/attività sopra indicate sono descritti in dettaglio nei capitoli
+successivi.
+
+                        Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                        Codice: D 01324 002               Pubblicato il: 09/02/2018           Pag. 6 di 21
+4 - PIANIFICAZIONE ANNUALE E PREDISPOSIZIONE DEL VALIDATION PLAN
+4.1 - NORME GENERALI
+Il Validation Plan dettaglia il complesso delle attività di Convalida pianificate per l’anno ed è
+portato in approvazione al Consiglio di Amministrazione dopo gli opportuni passaggi di
+approvazione intermedi.
+La Funzione di Convalida definisce le linee guida, il timing delle attività e la struttura del
+documento sia per la Capogruppo che per le Società Controllate che hanno esternalizzato
+l'attività di convalida.
+4.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID      Adempimenti       Descrizione                                           Attori            Supporti
+1       Definire le linee Ad inizio di ogni anno definire le linee guida di     Responsabile
+        guida di alto     alto livello per la predisposizione della             Convalida
+        livello           pianificazione annuale.
+2       Declinare le      Al recepimento delle linee guida di riferimento       Convalida
+        linee guida       trasformarle in linee guida operative per la
+        operative         predisposizione della pianificazione annuale
+                          (ambito interventi di validazione, scadenza,
+                          allocazione risorse, esigenze di supporto, ecc.).
+3       Rilevare le       Rilevare le eventuali richieste/esigenze di           Convalida         Documenti di
+        richieste di                                                                              input
+                          intervento connesse a:
+        intervento per                                                                            Fogli excel
+        la Capogruppo     -   istanze e richieste dell’Autorità di Vigilanza;
+                                                                                                  Documenti word
+                          -   indicazioni degli Organi apicali e di Controllo
+                              della Capogruppo (Consiglio di                                      Normativa
+                                                                                                  1030D00793
+                              Amministrazione, Collegio Sindacale, ecc.);
+                          -   Funzione Coordinamento delle Funzioni
+                              Aziendali di Controllo;
+                          -   indicazioni della Funzione Revisione Interna
+                              e della Funzione di Controllo del Rischio
+                              (rilevate anche mediante i flussi informativi
+                              previsti dalla Policy sul sistema dei controlli
+                              interni);
+                          -   evoluzioni normative;
+                          -   evoluzioni del contesto di riferimento;
+                          -   anomalie rilevanti in essere ed a fronte delle
+                              quali sono stati aperti dei Gap.
+                          Integrare tali esigenze con le proprie valutazioni
+                          in merito alla necessità di interventi mirati sulla
+                          base della propria esperienza.
+4       Rilevare le       Rilevare le eventuali richieste/esigenze di           Convalida         Documenti di
+        richieste di                                                                              input
+                          intervento connesse a:                                Funzioni
+        intervento per                                                                            Documenti word
+                                                                                coinvolte:
+        le Società        -   istanze e richieste dell’Autorità di Vigilanza;
+                                                                                    Responsabil   Fogli excel
+        Controllate       -   indicazioni degli Organi apicali e di Controllo       e Convalida
+        AIRB con le
+                              della Società (Consiglio di Amministrazione,          per la
+        attività
+                              Collegio Sindacale, ecc.);                            Controllata
+        operative
+                                                                                    Referente
+        accentrate sulla  -   Funzione di Coordinamento delle Funzioni              Locale
+        Capogruppo            Aziendali di Controllo
+
+                    Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                    Codice: D 01324 002                Pubblicato il: 09/02/2018          Pag. 7 di 21
+ ID  Adempimenti       Descrizione                                            Attori           Supporti
+                      -    indicazioni della Revisione Interna e del
+                           Referente Locale;
+                      -    evoluzioni del contesto di riferimento;
+                      -    anomalie rilevanti in essere ed a fronte delle
+                           quali sono stati aperti dei Gap della Società.
+5   Determinare le    Analizzare l’insieme delle esigenze rilevate,          Convalida
+    priorità degli    quantificare l’impegno delle risorse disponibili, le
+    interventi        competenze richieste e le risorse tecniche
+                      necessarie.
+                      Determinare la priorità degli interventi secondo
+                      la fonte dell’esigenza nell’ordine riportato nei
+                      precedenti adempimenti.
+                         Priorità interventi determinata, proseguire
+                         con l'Adempimento 6
+6   Predisporre una   Rilevare il complesso delle attività da pianificare    Convalida
+    bozza di          sulla base dell’allocazione delle risorse
+    Validation Plan   disponibili, per gli interventi identificati in ordine
+                      decrescente di priorità ed a saturazione di
+                      quanto disponibile per la Capogruppo e per
+                      ciascuna società controllata esternalizzante;
+                      Predisporre le bozze di Validation Plan.
+                      Identificare le esigenze formative e gli interventi
+                      IT necessari.
+7   Condividere la    Proporre il Validation alle Funzioni Coinvolte che     Convalida
+    bozza di          esternalizzano alla Capogruppo e valutare il           Funzioni
+    Validation Plan   recepimento di eventuali indicazioni.                  coinvolte:
+    delle
+                      Il Validation Plan viene presentato al Consiglio          Referente
+    controllate
+                      di Amministrazione della Controllata da parte             Locale
+                      del Responsabile Convalida per la Controllata (o          Responsabil
+                                                                                e Convalida
+                      suo delegato) con l’eventuale ausilio del
+                                                                                per la
+                      Referente Locale.                                         Controllata
+8   Sottoporre il     Proporre il Validation Plan di Gruppo                  Responsabile
+    Validation Plan   (Capogruppo ed esternalizzanti) alle Funzioni          Convalida
+    agli Organi       Coinvolte ed acquisire il parere del Comitato          Funzioni
+    competenti per                                                           coinvolte:
+                      Rischi.
+    il relativo
+                                                                                Collegio
+    esame
+                                                                                Sindacale
+                                                                                Coordiname
+                                                                                nto Funzioni
+                                                                                di Controllo
+                                                                                Comitato
+                                                                                Rischi
+9   Sottoporre ad     Sottoporre ad approvazione il piano di                 Responsabile
+    approvazione il   interventi, le relative priorità e modalità di         Convalida
+    Validation Plan   svolgimento.                                           Funzioni
+                                                                             autorizzanti:
+                                                                             Consiglio di
+                      In caso di:                                            Amministrazion
+                         Richiesta di variazioni sul Validation Plan,        e
+                         proseguire con l'Adempimento 10
+                         Validation Plan definito ed approvato, il
+                         processo termina
+10  Acquisire le      Acquisire le richieste di variazione fatte dal CDA.    Convalida
+    richieste di
+    variazione fatte
+    dal CDA              Richieste acquisite ripetere l'Adempimento 6
+
+                       Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                       Codice: D 01324 002               Pubblicato il: 09/02/2018           Pag. 8 di 21
+5 - CONTROLLI IN FIRST TIME ADOPTION
+5.1 - NORME GENERALI
+Le analisi di First Time Adoption avvengono nel caso di modifiche sostanziali al Sistema dei
+Rating Interni che prevedono la presentazione di un’istanza all’Autorità di Vigilanza ai sensi di
+quanto previsto nel Regolamento Delegato della Commissione Europea n. 529/2014. Tali
+modifiche possono riguardare, separatamente o congiuntamente, i modelli di misurazione, la
+macro-struttura delle informazioni o i principali processi di assegnazione.
+La Funzione di Convalida deve essere tempestivamente informata circa l’esigenza di apportare
+modifiche significative al Sistema dei Rating Interni. Tenuto conto della prescrizioni normative
+esterne (cfr. Reg. UE 529/2014) ed interne (cfr. 1030D00793 e 1020D02221) la Funzione di
+Convalida esegue un’analisi delle modifiche proposte formalizzando il proprio parere preventivo
+all’implementazione delle stesse e riporta gli esiti delle analisi e le considerazioni svolte in un
+documento di Convalida (Verifica o Rapporto). Tale documento è trasmesso poi dalla Funzione
+di Controllo del Rischio all’Autorità di Vigilanza per richiedere istanza.
+La messa in produzione dei model change che richiedono First Time Adoption è soggetta alla
+preventiva autorizzazione da parte della Funzione di Convalida ai sensi di quanto previsto dalla
+Policy sul Sistema dei Controlli Interni in merito alle modifiche significative al sistema di
+misurazione.
+5.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID    Adempimenti        Descrizione                                           Attori            Supporti
+1     Inviare            Inviare tempestiva comunicazione alla Funzione        Controllo del     Normativa
+      comunicazione      di Convalida nel caso in cui si manifesti la          Rischio           1030D02221
+      in caso di         necessità di apportare modifiche metodologiche        Funzioni
+      modifiche                                                                coinvolte:
+                         significative al Sistema dei Rating Interni.
+      metodologiche                                                            Convalida
+      significative al   Tale documentazione deve descrivere la
+      Sistema dei        tipologia di modifiche da apportare, l'origine di
+      Rating Interni     tale esigenza ed un’indicazione dei tempi entro
+                         cui poter essere proposta in istanza all’Autorità
+                         di Vigilanza. Laddove già disponibile, includere
+                         inoltre la propria analisi di impatto e di
+                         sensitivity, la metodologia aggiornata e quanto
+                         necessario a verificare le modifiche apportate al
+                         modello.
+2     Analizzare la      Analizzare la metodologia proposta a fronte           Convalida
+      documentazion      dell’esigenza originante, gli impatti da essa         Funzioni
+      e                  derivanti, ecc.                                       coinvolte:
+                                                                               Controllo del
+                                                                               Rischio
+3     Programmare        Programmare, in caso di bisogno, un’agenda di         Convalida
+      gli incontri con   incontri con le diverse funzioni impattate per        Funzioni
+      le Funzioni        approfondire le tematiche di interesse.               coinvolte:
+      Coinvolte
+                         Possono essere richieste analisi ed                       Controllo del
+                         approfondimenti specifici alle Funzioni                   Rischio
+                         Coinvolte.                                                Business
+4     Definire il        Definire il perimetro dei controlli da eseguire, gli  Convalida
+      perimetro dei      attori da coinvolgere per l’esecuzione degli
+      controlli          stessi anche sulla base dei requisiti normativi
+                         dei quali valutare la conformità.
+
+                    Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                    Codice: D 01324 002                 Pubblicato il: 09/02/2018         Pag. 9 di 21
+ ID  Adempimenti       Descrizione                                            Attori           Supporti
+5   Eseguire i        Eseguire i controlli individuati nel perimetro di      Convalida
+    controlli nel     Convalida.                                             Funzioni
+    perimetro di                                                             coinvolte:
+    convalida         In particolare, svolgere un’analisi indipendente
+                                                                             Controllo del
+                      sugli impatti in termini di processi, di modelli e
+                                                                             Rischio
+                      di sistemi informativi a conferma ed
+                      integrazione delle analisi effettuate dalla
+                      Funzione Coinvolta.
+                      I controlli possono ricomprendere anche
+                      l’aggiornamento della normativa interna e dei
+                      documenti metodologici.
+6   Richiedere        Individuare ulteriori approfondimenti, analisi di      Convalida
+    eventuali         backtesting o controlli specifici per approfondire     Funzioni
+    analisi           aspetti ritenuti necessari per completare il           coinvolte:
+    integrative
+                      documento di Convalida, a carico della Funzione           Controllo del
+                      Responsabile e/o delle Funzioni Coinvolte.                Rischio
+                                                                                Business
+7   Verificare i      Verificare i risultati delle analisi integrative.      Convalida
+    risultati delle
+                      Le problematiche riscontrate, le motivazioni
+    analisi
+    integrative       della richiesta di ulteriori approfondimenti e/o
+                      controlli e l’esito degli stessi debbono essere poi
+                      riepilogati nel corpo del documento di
+                      Convalida.
+8   Avviare la        Formalizzare le risultanze delle analisi di            Convalida
+    redazione della   Convalida per le modifiche proposte al sistema         Funzioni
+    documentazion     di misurazione.                                        coinvolte:
+    e di Convalida
+                      Il Rapporto deve riportare almeno l’oggetto               Business
+                      della modifica metodologica, il perimetro di              Controllo del
+                      analisi, la fonte e la data di riferimento dei dati       Rischio
+                      utilizzati, la sintesi delle analisi svolte
+                      indipendenti e anche di quelle acquisite da altre
+                      Funzioni Coinvolte.
+9   Formulare         Esprimere, sulla base delle risultanze delle           Convalida        Documenti di
+    analisi di                                                                                output
+                      analisi svolte e/o acquisite ed attuando la            Funzioni
+    posizionamento                                                                            Rapporto o
+                      metodologia di Convalida, un parere sull’effetto       informate:
+    e Giudizio di                                                                             Verifica di
+                      della modifica metodologica sul complesso                 Controllo del Convalida
+    Convalida
+                      Sistema dei Rating Interni rispetto ai singoli            Rischio
+                      driver normativi e riportati nel Framework
+                      metodologico.
+                      Sempre su tale base, esprimere un giudizio
+                      complessivo di Convalida sull’ambito in oggetto
+                      secondo le metriche definite nel Framework.
+                      Il giudizio ed il posizionamento rispetto ai
+                      singoli driver divengono poi parte integrante del
+                      Rapporto.
+                      In caso di:
+                         Esito analisi non soddisfacente per presenza
+                         di gap metodologici significativi ripetere
+                         l'Adempimento 1
+                         Esito analisi con evidenze di interventi di
+                         miglioramento per criticità riscontrate,
+                         proseguire con l'Adempimento 10
+                         Esito di analisi soddisfacente, proseguire con
+                         l'Adempimento 12
+
+                   Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                   Codice: D 01324 002                Pubblicato il: 09/02/2018          Pag. 10 di 21
+ ID  Adempimenti      Descrizione                                           Attori            Supporti
+10  Documentare le   Documentare le principali evidenze emerse e           Convalida         Normativa
+    principali       l’esigenza di richiedere interventi di                Funzioni          1030D01822
+    evidenze         miglioramento per le criticità riscontrate.           informate:
+    emerse e
+                     Per le aree di miglioramento identificate                 Business
+    l'esigenza di
+    richiedere       convocare un Exit Meeting con le Funzioni                 Controllo del
+    interventi di    coinvolte per presentarne le motivazioni e la             Rischio
+    miglioramento    rilevanza percepita identificando quali siano
+                     bloccanti per il prosieguo dell’istanza.
+11  Revisionare il   Rivedere il documento predisposto in relazione        Convalida         Normativa
+    documento        alle finalità del Rapporto.                           Funzioni          1030D01822
+    predisposto e le                                                       coinvolte:
+    aree di
+                     Documentare le principali evidenze emerse e                             1030D01959
+                     l’esigenza di richiedere interventi di                    Controllo del
+    miglioramento
+                     miglioramento per le criticità riscontrate.               Rischio
+    individuate
+                                                                               Business
+                        Documento revisionato, proseguire con
+                        l'Adempimento 12
+12  Consolidare il   Consolidare e diffondere il documento di              Convalida         Applicativi
+    documento di     Convalida alle Funzioni Informate.                    Funzioni          SISIFO
+    Convalida e                                                            informate:
+    presentare i
+                     Alla prima occasione utile presentare il                                Normativa
+                     documento al Comitato Gestione Rischi che                 Business      1030D02228
+    risultati
+                     validerà tempi e modi per l’istanza all’Autorità di       Controllo del
+                                                                               Rischio       1030D02221
+                     Vigilanza in merito alle modifiche metodologiche
+                     da proporre.                                              Comitato
+                                                                               Gestione
+                                                                               Rischi
+13  Archiviare la    Archiviare in ambiente di Convalida i documenti       Convalida
+    documentazion    di lavoro, le analisi svolte e ricevute, le basi dati
+    e                e la documentazione predisposta in modo tale
+                     da poter garantire l’auditabilità delle analisi
+                     riportate nel Rapporto stesso.
+14  Aggiornare il    Procedere all’aggiornamento della metodologia         Convalida
+    framework di     che definisce il framework di Convalida sulla
+    Convalida        base delle modifiche metodologiche apportate.
+                        Controlli in First Time Adoption eseguiti, il
+                        processo termina
+
+                      Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                      Codice: D 01324 002               Pubblicato il: 09/02/2018           Pag. 11 di 21
+6 - CONTROLLI PER IL PASSAGGIO IN PRODUZIONE DI MODIFICHE ALLE
+         PROCEDURE CHE IMPLEMENTANO I MODELLI
+6.1 - NORME GENERALI
+La Funzione di Controllo del Rischio ed il Consorzio Operativo di Gruppo curano la gestione e
+l’aggiornamento delle procedure sottostanti l’applicazione dei modelli utilizzati nell’ambito del
+Sistema dei Rating Interni con modalità diverse a seconda che detto codice sia implementato o
+meno nella piattaforma del Gruppo ASIA.
+Una volta ricevuta l’autorizzazione dell’Autorità di Vigilanza al model change proposto, ai sensi
+di quanto previsto al precedente paragrafo e di quanto indicato nella normativa interna di
+riferimento (cfr. 1030D02221), e risolti eventuali GAP individuati da quest’ultima le procedure
+che implementano i modelli modificati devono essere rilasciate in ambiente di produzione.
+6.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID     Adempimenti      Descrizione                                           Attori            Supporti
+1      Comunicare le    Inviare tempestiva comunicazione ed                   Controllo del
+       modifiche        informativa in merito alle modifiche apportate ai     Rischio
+       apportate alle   modelli del SRI.                                      Funzioni
+       procedure che                                                          coinvolte:
+       implementano i   L’informativa deve fornire le indicazioni
+                                                                              Convalida
+       modelli del SRI  necessarie per ripercorrere la logica delle
+                        modifiche apportate nonché l’esito delle analisi
+                        attestanti le attese funzionalità dei modelli
+                        modificati (es.: backtesting, ecc.).
+                        L’informativa include la bozza dei manuali
+                        aggiornati sulla base delle modifiche apportate.
+2      Effettuare la    Analizzare metodologicamente la coerenza delle        Convalida
+       Code Validation  modifiche apportate ai modelli a fronte di            Funzioni
+       dei modelli SRI  eventuali GAP individuati dall’Autorità di            coinvolte:
+       implementati                                                           Controllo del
+                        Vigilanza nonché l’aggiornamento della
+                        normativa e dei manuali trasmessi.                    Rischio
+                        Se necessario, richiedere alla Funzione
+                        Coinvolta controlli specifici o documentazione di
+                        analisi.
+                        In caso di:
+                           Evidenza di potenziali situazioni di anomalia
+                           da approfondire, proseguire con
+                           l'Adempimento 3
+                           Nessuna evidenza di potenziali situazioni di
+                           anomalia da approfondire, proseguire con
+                           l'Adempimento 4
+3      Richiedere gli   Richiedere approfondimenti o analisi alle             Convalida         Normativa
+       approfondiment   Funzioni Coinvolte in relazione alla presenza di      Funzioni          1030D01959
+       i necessari      potenziali situazioni di anomalia da                  coinvolte:
+                                                                                                1030D01822
+                        approfondire.                                             IT
+                        Sulla base delle evidenze emerse provvedere ad            Controllo del
+                        individuare eventuali aree di miglioramento da            Rischio
+                        gestire sulla base della normativa interna
+                        vigente.
+                           Approfondimenti eseguiti ed aree di
+
+                       Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                       Codice: D 01324 002               Pubblicato il: 09/02/2018        Pag. 12 di 21
+ ID     Adempimenti       Descrizione                                           Attori         Supporti
+                            miglioramento individuate, proseguire con
+                            l'Adempimento 4
+4      Rilasciare        Rilasciare autorizzazione preventiva alle             Convalida      Normativa
+       l'autorizzazione  modifiche apportate ai modelli SRI ai sensi di                       1030D02208
+       al passaggio in   quanto previsto dalla normativa interna di
+       produzione ed                                                                          1030D00793
+                         riferimento.
+       archiviare la
+       documentazion     Archiviare i documenti di lavoro, le analisi svolte
+       e                 e ricevute e le basi dati in modo tale da poter
+                         garantire l’auditabilità delle analisi svolte.
+                            Autorizzazione prodotta documentazione
+                            archiviata, il processo termina
+7 - CONTROLLI DEFINITI COME CONTINUATIVI
+7.1 - NORME GENERALI
+Le attività di Controllo Continuative sono svolte con periodicità stabilita nel Framework di
+Convalida e sono finalizzate ad individuare l’insorgenza di eventuali anomalie da analizzare
+prontamente con la Funzione di Controllo del Rischio, nonché a fornire elementi utili per la
+conduzione delle Verifiche di Convalida, previste nel Validation Plan e rientranti nell’ambito dei
+Controlli Periodici trattati nel seguito.
+Nell’ambito dei Controlli Continuativi rientra la produzione del reporting della Funzione di
+Convalida, l’esecuzione di analisi di design dei processi, laddove variati, e di backtesting per
+valutare la coerenza del Sistema dei Rating Interni rispetto alla normativa interna ed esterna.
+Gli output tipici delle attività sopra descritte sono: Reporting, Verifiche e Gap.
+L’esito dei Controlli Continuativi, inoltre, è valutato nell’ambito dei Rapporti con i quali la
+Funzione di Convalida esprime annualmente, mediante una metodologia improntata alla
+trasparenza e all’oggettività, una valutazione rispetto ai singoli driver normativi ed un giudizio
+complessivo sui tre ambiti previsti dal Framework di Convalida: Processi, Modelli e Dati.
+Il dettaglio dei Controlli Continuativi svolti dalla Funzione di Convalida e/o richiesti alla
+Funzione di Controllo del Rischio o alle Funzioni di Business, così come i criteri adottati per
+l’espressione di giudizi nell’ambito dei Rapporti, sono riportati nel Framework di Convalida
+descritto nell’omonimo documento predisposto e manutenuto internamente con cadenza
+annuale dalla stessa Funzione di Convalida.
+La Funzione di Convalida individua ed implementa una serie di attività di Controllo Continuative
+finalizzate a monitorare regolarmente il Sistema dei Rating Interni.
+Le attività di Controllo Continuativo si articolano in:
+- controlli sui modelli sottostanti al Sistema dei Rating Interni;
+- controlli sul design dei processi e, laddove possibile, sull'efficacia degli stessi;
+- controlli sul rispetto del Framework di Data Quality, ovvero di individuazione e risoluzione
+    delle anomalie da parte delle Funzioni Owner ai sensi di quanto previsto nella normativa
+    interna di riferimento in materia di Data Governance e Data Quality (cfr 1030D02148,
+    1030D02214, 1030D02215 e 1030D02216).
+
+                       Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                       Codice: D 01324 002                Pubblicato il: 09/02/2018          Pag. 13 di 21
+7.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID    Adempimenti        Descrizione                                           Attori            Supporti
+1     Analizzare i       Al ricevimento dei flussi informativi analizzarli     Convalida         Normativa
+      Flussi             sulla base di quanto previsto dalla normativa         Funzioni          1030D00793
+      Informativi        interna. Le evidenze sono valutate unitamente         coinvolte:
+                         ai risultati dei successivi adempimenti.                  Controllo del
+                                                                                   Rischio
+                                                                                   Revisione
+                                                                                   Interna
+                                                                                   Business
+2     Predisporre la     Predisporre la reportistica di convalida che          Convalida         Applicativi
+      reportistica di    permette, tra l’altro, di evidenziare eventuali       Funzioni          SISIFO
+      convalida          casistiche di anomalia da approfondire con la         informate:
+                         Funzione di Controllo del Rischio.                        Revisione
+                         La reportistica è trasmessa alle Funzioni                 Interna
+                         Informate.                                                Controllo del
+                                                                                   Rischio
+3     Svolgere i         Svolgere in autonomia l’insieme di controlli          Convalida
+      controlli          previsti nel Framework di Convalida.
+      indipendenti
+      previsti nel
+                         Individuare gli ambiti che dovranno essere poi
+      Framework di       approfonditi all’interno delle singole Verifiche
+      Convalida          previste nel Validation Plan.
+4     Valutare gli       Rivedere l’esito dei Controlli svolti.                Convalida
+      interventi di                                                            Funzioni
+                         Valutare l’esigenza di richiedere interventi di
+      miglioramento                                                            coinvolte:
+      per le criticità
+                         miglioramento per le criticità riscontrate tenuto
+                         conto anche degli approfondimenti svolti con la           Controllo del
+      individuate
+                         Funzione di Controllo del Rischio o con altre             Rischio
+                         Funzioni competenti.                                      Business
+                                                                                   Referente
+                                                                                   Locale
+5     Formalizzare i     Convocare Exit Meeting laddove dai controlli          Convalida         Applicativi
+      gap riscontrati    siano emerse aree di miglioramento che                                  RIGAM
+                         richiedono intervento tempestivo, e sempre che                          Normativa
+                         non sia in fase di rilascio una Verifica coerente                       1030D01822
+                         per oggetto rientrante nei Controlli Periodici.
+                                                                                                 1030D01959
+6     Archiviare la      Archiviare in ambiente di Convalida i documenti       Convalida
+      documentazion      di lavoro, le analisi svolte e ricevute e le basi
+      e                  dati su cui sono stati svolti i Controlli
+                         Continuativi in modo tale da poter garantire
+                         l’auditabilità degli stessi.
+                            Controlli continuativi eseguiti, il processo
+                            termina
+
+                     Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                     Codice: D 01324 002             Pubblicato il: 09/02/2018          Pag. 14 di 21
+8 - CONTROLLI DEFINITI COME PERIODICI
+8.1 - NORME GENERALI
+Le attività di Controllo Periodico rispondono a quanto pianificato annualmente nel Validation
+Plan. Nel caso in cui emergano elementi di novità significativi a livello normativo, di business o
+di struttura del Gruppo, ovvero nel caso in cui i Controlli Continuativi rilevino significative
+problematiche, possono essere condotte delle Verifiche estemporanee non previste nel
+Validation Plan, aggiuntive o in sostituzione di altri interventi previsti. Nella Relazione Annuale
+sono poi rendicontate anche le Verifiche aggiuntive così come le scelte adottate per far fronte
+al maggior impegno necessario per le attività estemporanee.
+Gli output dei Controlli Periodici sono: Verifiche, Rapporti e Gap.
+L’esito dei Controlli Periodici e Continuativi, infatti, è valutato nell’ambito dei Rapporti con i
+quali la Funzione di Convalida esprime annualmente, mediante una metodologia improntata
+alla trasparenza e all’oggettività, una valutazione rispetto ai singoli driver normativi ed un
+giudizio complessivo sui tre ambiti previsti dal Framework di Convalida: Processi, Modelli e
+Dati.
+Tali Rapporti sono previsti con cadenza annuale nel Validation Plan.
+Le attività connesse alle Verifiche ed ai Rapporti sono condotte dalla Funzione di Convalida e
+possono richiedere il coinvolgimento della Funzione di Controllo del Rischio e delle altre
+Funzioni competenti per la fornitura di documentazione e relazioni sull’attività svolta e/o
+l’esecuzione di specifici controlli. L’ambito e l’oggetto delle Verifiche sono declinati nel
+Validation Plan così come l’indicazione, non vincolante, del quadro temporale entro cui le
+stesse dovrebbero realizzarsi.
+I Rapporti riepilogano l’esito delle Verifiche svolte in argomento ovvero possono essere essi
+stessi delle Verifiche con l’aggiunta della componente valutativa e di posizionamento che porta
+all’espressione del giudizio di Convalida.
+Le attività di Controllo Periodico si articolano in:
+- controlli sui modelli sottostanti al Sistema dei Rating Interni;
+- controlli sul design dei processi e, laddove possibile, sull'efficacia degli stessi;
+- controlli sul rispetto del Framework di Data Quality, ovvero di individuazione e risoluzione
+     delle anomalie da parte delle Funzioni Owner ai sensi di quanto previsto nella normativa
+     interna in materia di Data Governance e Data Quality (cfr 1030D02148, 1030D02214,
+     1030D02215 e 1030D02216).
+
+                     Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                     Codice: D 01324 002                 Pubblicato il: 09/02/2018         Pag. 15 di 21
+8.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID     Adempimenti     Descrizione                                            Attori           Supporti
+1     Preparare        Declinare in dettaglio, sulla base di quanto           Convalida
+      l'attività di    riportato nel Validation Plan, l’oggetto, l'ambito,    Funzioni
+      controllo        il perimetro, le modalità ed i tempi di                coinvolte:
+      periodica
+                       esecuzione della Verifica (es. controllo a                Controllo del
+                       campione, ecc.).                                          Rischio
+                       Rilevare le potenziali anomalie emerse dai                Business
+                       Controlli Continuativi nonché rivedere l’insieme
+                       di gap attivi attinenti l’oggetto.
+                       Comunicare alle Funzioni Coinvolte l’avvio e la
+                       finalità dell’attività.
+2     Acquisire la     Acquisire dalle Funzioni Coinvolte e competenti        Convalida
+      documentazion    per oggetto la documentazione aggiornata (es.          Funzioni
+      e di supporto    manuali, analisi specifiche eseguite, ecc.),           coinvolte:
+                       l’esito di controlli richiesti e/o la predisposizione     Business
+                       di documentazione integrativa o di basi dati              Controllo del
+                       necessarie per la Verifica.                               Rischio
+                                                                                 Referente
+                                                                                 Locale
+3     Eseguire i       Analizzare la documentazione acquisita ed              Convalida
+      controlli di     eseguire i controlli indipendenti per conseguire       Funzioni
+      convalida        nel dettaglio le finalità della Verifica secondo       coinvolte:
+                       quanto definito.                                          Business
+                                                                                 Controllo del
+                       In caso di:                                               Rischio
+                           Necessità di richiedere informazioni o analisi        Referente
+                                                                                 Locale
+                           ulteriori, proseguire con l'Adempimento 4
+                           Nessuna necessità di richiedere informazioni
+                           o analisi ulteriori, proseguire con
+                           l'Adempimento 5
+4     Richiedere       Richiedere approfondimenti o analisi alle              Convalida
+      approfondiment   Funzioni Coinvolte in relazione alla presenza di       Funzioni
+      i                potenziali anomalie da definire. Le                    coinvolte:
+                       problematiche riscontrate, le motivazioni della           Business
+                       richiesta di ulteriori approfondimenti e/o                Referente
+                       controlli e l’esito degli stessi sono riepilogati poi     Locale
+                       nel corpo della Verifica.                                 Controllo del
+                                                                                 Rischio
+                           Approfondimenti acquisiti, proseguire con
+                           l'Adempimento 5
+5     Rappresentare    Formalizzare l’obiettivo, l’oggetto ed il perimetro    Convalida
+      l'esito del      dell’attività svolta e l’esito dei controlli esperiti.
+      Controllo
+6     Revisionare il   Rivedere il documento predisposto in relazione         Convalida
+      corpo della      alle finalità ed alle modalità assegnate, le
+      Verifica e le    evidenze emerse e l’esigenza di richiedere
+      aree di
+                       interventi di miglioramento per le criticità
+      miglioramento
+      individuate      riscontrate.
+                       In caso di:
+                           Individuazione di aree di miglioramento,
+                           proseguire con l'Adempimento 7
+                           Nessuna area di miglioramento individuata,
+                           proseguire con l'Adempimento 8
+
+                      Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                      Codice: D 01324 002                Pubblicato il: 09/02/2018          Pag. 16 di 21
+ ID    Adempimenti       Descrizione                                           Attori            Supporti
+7     Formalizzare la   Convocare Exit Meeting laddove nella Verifica         Convalida         Applicativi
+      verifica ed i gap siano state individuate delle aree di                 Funzioni          RIGAM
+      riscontrati       miglioramento sulla base di quanto previsto           coinvolte:
+                                                                                                SISIFO
+                        nella normativa interna.                                  Referente
+                        Aggiornare la Verifica con le informazioni                Locale        Normativa
+                                                                                  Controllo del 1030D01822
+                        concordate per i singoli Gap e trasmetterla via
+                                                                                  Rischio
+                        Sisifo alle Funzioni Coinvolte.                                         1030D01959
+                                                                                  Business
+                           Verifica Formalizzata e gap riscontrati,
+                           proseguire con l'Adempimento 8
+8     Archiviare la     Archiviare in ambiente di Convalida i documenti       Convalida
+      documentazion     di lavoro, le analisi svolte e ricevute, le basi dati
+      e                 e la Verifica in modo tale da poter garantire
+                        l’auditabilità delle analisi riportate nella Verifica
+                        stessa.
+                        In caso di:
+                           Esito dei controlli non formalizzato tramite un
+                           Rapporto di Convalida, il processo termina
+                           Esito dei controlli formalizzato tramite un
+                           Rapporto di Convalida, proseguire con
+                           l'Adempimento 9
+9     Predisporre il    Annualmente, predisporre i Rapporti di                Convalida         Documenti di
+      Rapporto di                                                                               output
+                        Convalida previsti nel Validation Plan.
+      Convalida                                                                                 Rapporto di
+                        Per la redazione del Rapporto possono essere                            Convalida
+                        necessarie ulteriori analisi specifiche, da
+                        condurre con le modalità delle Verifiche, ad
+                        integrazione delle analisi già svolte in corso
+                        d’anno nell’ambito delle Verifiche completate e
+                        dei Controlli Continuativi esperiti.
+10    Esprimere un      Esprimere, attuando la metodologia di                 Convalida
+      parere sul        Convalida, un parere sul posizionamento del
+      posizionamento    Sistema dei Rating Interni rispetto ai singoli
+      rispetto ai
+                        driver normativi e riportati nella stessa
+      driver di analisi
+      e un giudizio     metodologia.
+      complessivo di    Sempre su tale base, esprimere un giudizio
+      convalida         complessivo di Convalida sull’ambito in oggetto.
+                        Le analisi e le conclusioni in base alle quali sono
+                        espressi i pareri ed il giudizio sono archiviati per
+                        garantirne la replicabilità ed auditabilità.
+                           Controlli eseguiti, il processo termina
+9 - MONITORAGGIO STATO AVANZAMENTO
+9.1 - NORME GENERALI
+Il monitoraggio riguarda l’avanzamento della risoluzione delle aree di miglioramento
+individuate, lo stato di avanzamento delle attività rispetto a quanto previsto nel Validation Plan
+e l’andamento delle attività accentrate.
+Per quanto concerne il primo, le attività sono conformi a quanto previsto dal Documento
+1030D01959.
+
+                      Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                      Codice: D 01324 002               Pubblicato il: 09/02/2018        Pag. 17 di 21
+Per quanto concerne, invece, il monitoraggio delle attività svolte per conto delle Società
+Controllate che presentano in accentrato le attività di Convalida, il monitoraggio ed il presidio
+avvengono ai sensi di quanto previsto nel Documento 1030D01797 e nel Documento
+1030D01869.
+Mensilmente la Funzione di Convalida verifica lo stato di avanzamento delle attività rispetto
+alla pianificazione di massima riportata nel Validation Plan e, in particolare, tenendo conto
+dell’impegno necessario per completare le attività previste in relazione alle risorse disponibili.
+Tale monitoraggio tiene conto, inoltre, dell’impegno dedicato alla data per il seguimento delle
+attività specifiche e degli accessi dell’Autorità di Vigilanza, dell’erogazione delle attività
+formative previste nonché dell’impegno assorbito o da prevedere per attività non preventivate,
+in corso o da avviare nell’esercizio.
+Il monitoraggio deve permettere alla Funzione di Convalida di attuare le misure necessarie per
+il rispetto della pianificazione annuale approvata dal Consiglio di Amministrazione pur in
+presenza di eventi inattesi e/o non prevedibili alla data di redazione del Validation Plan.
+9.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID     Adempimenti      Descrizione                                           Attori         Supporti
+1      Verificare lo    Con cadenza mensile verificare il                     Convalida      Documenti di
+       stato delle                                                                           input
+                        completamento delle attività previste nel
+       attività di                                                                           Fogli excel
+                        Validation Plan nei tempi attesi e con utilizzo di
+       controllo
+                        risorse coerenti rispetto alla pianificazione alla
+                        base dello stesso Piano. In caso di scostamenti
+                        attuare, laddove possibile, idonee misure atte a
+                        garantire il rispetto del Piano complessivo.
+2      Quantificare     Quantificare l’impegno erogato per il                 Convalida      Documenti di
+       l'impegno per le                                                                      input
+                        seguimento di richieste e/o di accessi
+       attività non                                                                          Fogli excel
+                        dell’Autorità di Vigilanza per il quale è stato
+       schedulate
+                        previsto nel Validation Plan un budget annuale.
+                        La stessa quantificazione avviene per
+                        l’erogazione della formazione prevista e
+                        richiesta.
+                        Quantificare, inoltre, l’impegno per le attività
+                        estemporanee svolte, in corso o da svolgere
+                        necessariamente nell’Esercizio e rilevate in
+                        corso d’anno.
+3      Verificare       Verificare la sostenibilità complessiva della         Convalida      Documenti di
+       l'andamento                                                                           input
+                        pianificazione annuale alla luce dello stato degli
+       complessivo                                                                           Fogli excel
+                        interventi da completare e/o ancora da avviare
+                        nel corso dell’Esercizio.
+                        In caso di:
+                           Assenza di scostamenti, il processo termina
+                           Presenza di scostamenti, proseguire con
+                           l'Adempimento 4
+4      Individuare ed   Individuare possibili soluzioni per far fronte        Responsabile
+       attuare le       tempestivamente ad eventuali impedimenti al           Convalida
+       soluzioni        raggiungimento del complesso di attività
+       correttive
+                        previste nel Validation Plan ed attuazione delle
+                        stesse.
+                        Laddove, in relazione alle difficoltà riscontrate,
+                        dovesse risultare impossibile prevedere di poter
+                        completare almeno il 70% degli interventi
+                        previsti nel Validation Plan deve essere data
+
+                      Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                      Codice: D 01324 002                Pubblicato il: 09/02/2018       Pag. 18 di 21
+ ID     Adempimenti       Descrizione                                          Attori         Supporti
+                         informativa al Consiglio di Amministrazione
+                         fermo restando l’obbligo di rendicontazione a
+                         fine anno delle motivazioni e delle soluzioni
+                         adottate.
+                            Monitoraggio stato di avanzamento attività
+                            completato, il processo termina
+10 - RELAZIONE ANNUALE DI CONVALIDA
+10.1 - NORME GENERALI
+A fine esercizio la Funzione di Convalida rendiconta in merito alle attività svolte ed alle
+anomalie riscontrate in merito al posizionamento rispetto ai singoli requisiti, nell’ambito della
+Relazione di Convalida portata in approvazione al Consiglio di Amministrazione e trasmessa
+successivamente alle Autorità di Vigilanza.
+In particolare per il Sistema dei Rating Interni la Funzione di Convalida procede annualmente a
+riepilogare l’attività svolta ed a formalizzare la valutazione della qualità e dell’efficacia del
+Sistema di Misurazione predisponendo una Relazione per la Capogruppo, con visibilità
+sull’intero perimetro AIRB di Gruppo, ed una bozza di Relazione per ciascuna Società
+Controllata che ha esternalizzato l’attività di Convalida alla Capogruppo.
+Nelle Controllate il Responsabile Convalida per la Controllata, con il supporto del Referente
+Locale, può modificare ed integrare la bozza proposta ottenendo il documento finale che
+porterà in approvazione nel Consiglio di Amministrazione dell’azienda.
+La Relazione Annuale di Gruppo recepisce, per quanto attinente, eventuali variazioni apportate
+nelle Relazioni approvate dai Consigli di Amministrazione delle Società Controllate e relative
+deliberazioni e, successivamente alla presentazione al Comitato di Coordinamento delle
+Funzioni di Controllo ed al Collegio Sindacale, è portata in approvazione nel Consiglio di
+Amministrazione della Capogruppo acquisito il parere del Comitato Rischi.
+10.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID     Adempimenti       Descrizione                                          Attori         Supporti
+1      Predisporre la    Rilevare il complesso delle attività completate      Convalida
+       documentazion     nel corso dell’Esercizio, finalizzare la
+       e a supporto      quantificazione delle attività non prevedibili, a
+                         plafond e/o estemporanee per singola entità per
+                         cui la Funzione di Convalida ha operato.
+2      Predisporre la    Redigere la bozza della Relazione di Convalida       Convalida      Documenti di
+       bozza della                                                                           output
+                         contenente le evidenze dell’attività di controllo
+       Relazione                                                                             Bozza Relazione
+                         svolte nel corso dell’anno ed il giudizio di                        Annuale di
+       Annuale per le
+                         Convalida.                                                          Convalida per le
+       Controllate
+                         La Relazione è comprensiva anche delle                              controllate
+                         valutazioni espresse sugli altri rischi in
+                         perimetro.
+3      Condividere la    Proporre la bozza di Relazione Annuale alle          Convalida      Documenti di
+       bozza della                                                                           input
+                         Funzioni Coinvolte e, tenuto conto delle             Funzioni
+       Relazione                                                                             Bozza Relazione
+                         osservazioni da questo formulate,                    coinvolte:
+       Annuale delle                                                                         Annuale di
+
+                   Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                   Codice: D 01324 002              Pubblicato il: 09/02/2018            Pag. 19 di 21
+ ID  Adempimenti      Descrizione                                           Attori            Supporti
+    Controllate      integrare/rivedere il documento predisposto e             Responsabil   Convalida per le
+                                                                                             controllate
+                     trasmetterlo nuovamente una volta emendato.               e Convalida
+                                                                               per la        Documenti di
+                                                                               Controllata   output
+                                                                               Referente     Relazione
+                                                                               Locale        Annuale di
+                                                                                             Convalida per le
+                                                                                             controllate
+4   Presentare la    Presentare la Relazione Annuale al Consiglio di       Responsabile      Documenti di
+    Relazione                                                              Convalida per     input
+                     Amministrazione della Controllata, previo
+    Annuale al CdA                                                         la Controllata    Relazione
+                     passaggio al Collegio Sindacale della stessa ed                         Annuale di
+    della                                                                  Funzioni
+                     eventuali Comitati, con l’eventuale ausilio del                         Convalida per le
+    Controllata                                                            coinvolte:
+                     Referente Locale.                                                       controllate
+                                                                               Responsabil
+                                                                               e Convalida   Documenti di
+                                                                                             output
+                                                                               Referente     Verbale CdA
+                                                                               Locale
+5   Predisporre la   Redigere, recependo quanto tornato dalla              Convalida
+    Relazione        Società Controllata, la Relazione di Convalida
+    Annuale          contenente le evidenze dell’attività complessiva
+    perimetro AIRB
+                     di controllo svolta nel corso dell’anno ed il
+                     giudizio di Convalida a livello di perimetro AIRB
+                     con evidenza del posizionamento rispetto ai
+                     singoli driver normativi e dei giudizi di Convalida
+                     risultanti dai Rapporti.
+                     La Relazione è comprensiva anche delle
+                     valutazioni espresse sugli altri rischi in
+                     perimetro.
+6   Finalizzare la   Rivedere, integrare e validare la Relazione           Responsabile      Documenti di
+    Relazione                                                              Convalida         output
+                     Annuale predisposta in modo tale da avviare il
+    Annuale                                                                                  Bozza Relazione
+                     percorso di emanazione ed approvazione finale                           Annuale di
+    perimetro AIRB
+                     della stessa.                                                           Convalida
+                                                                                             perimetro AIRB
+7   Sottoporre la    Presentare la Relazione Annuale al Comitato di        Responsabile      Documenti di
+    Relazione                                                              Convalida         input
+                     Coordinamento delle Funzioni di Controllo e
+    Annuale                                                                                  Bozza Relazione
+                     successivamente anticiparne i contenuti alle          Funzioni
+    perimetro AIRB                                                                           Annuale di
+                     Funzioni Coinvolte acquisendo successivamente         coinvolte:        Convalida
+    agli organi
+                     il parere del Comitato Rischi.                            Coordiname    perimetro AIRB
+    competenti per
+                                                                               nto Funzioni
+    il relativo                                                                              Documenti di
+                                                                               di Controllo
+    esame                                                                                    output
+                                                                               Comitato      Relazione
+                                                                               Rischi        Annuale di
+                                                                               Collegio      Convalida
+                                                                               Sindacale     perimetro AIRB
+8   Sottoporre ad    Proporre al Consiglio di Amministrazione la           Responsabile      Documenti di
+    approvazione la                                                        Convalida         input
+                     Relazione predisposta.
+    Relazione                                                                                Relazione
+                                                                           Funzioni
+    Annuale                                                                                  Annuale di
+                                                                           autorizzanti:
+    perimetro AIRB   In caso di:                                                             Convalida
+                                                                               Consiglio di  perimetro AIRB
+                         Relazione Annuale perimetro AIRB non
+                                                                               Amministraz
+                         approvata ripetere l'Adempimento 2                    ione          Documenti di
+                         Relazione Annuale perimetro AIRB approvata                          output
+                                                                                             Verbale CdA
+                         con annotazioni, proseguire con
+                         l'Adempimento 9
+                         Relazione Annuale perimetro AIRB approvata,
+                         proseguire con l'Adempimento 10
+9   Integrare la     Integrare la relazione annuale con le                 Convalida         Documenti di
+    Relazione                                                                                output
+                     considerazioni formulate dal CDA o dal Collegio
+    Annuale                                                                                  Relazione
+                     Sindacale della Capogruppo.                                             Annuale di
+    perimetro AIRB
+                                                                                             Convalida
+                                                                                             perimetro AIRB
+                         Annotazioni del CDA recepite nella Relazione
+                         Annuale, proseguire con l'Adempimento 10
+
+                    Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                    Codice: D 01324 002                 Pubblicato il: 09/02/2018      Pag. 20 di 21
+ ID   Adempimenti      Descrizione                                            Attori        Supporti
+10   Archiviare la    Archiviare i documenti di lavoro, le analisi svolte    Convalida     Documenti di
+     Relazione                                                                             output
+                      e ricevute, le basi dati, la Relazione approvata
+     Annuale                                                                               Verbale CdA
+                      dal Consiglio di Amministrazione unitamente alla
+     perimetro AIRB
+                      delibera ed alle osservazioni formulate dal                          Relazione
+                      Consiglio di Amministrazione e dal Collegio                          Annuale di
+                                                                                           Convalida
+                      Sindacale.
+                                                                                           perimetro AIRB
+                         Relazione Annuale perimetro AIRB archiviata,
+                         il processo termina
+11 - MANUTENZIONE FRAMEWORK DI CONVALIDA
+11.1 - NORME GENERALI
+La Funzione di Convalida manutiene con cadenza annuale il Framework di Convalida,
+ricomprendendo con esso la metodologia di Convalida, il perimetro dei controlli svolti in
+autonomia o richiesti alla Funzione di Controllo del Rischio o ad altre Funzioni, i driver
+normativi di valutazione nonché le modalità di aggregazione e valutazione delle risultanze
+emerse dalle analisi e che portano alla formulazione finale dei giudizi. Tale manutenzione
+termina con l’aggiornamento del Framework di Convalida.
+11.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID   Adempimenti      Descrizione                                            Attori        Supporti
+1    Individuare le   Individuare le esigenze di aggiornamento del           Convalida
+     modifiche da     Framework
+     apportare
+                      Le esigenze di aggiornamento possono derivare
+                      da diverse direttrici tra le quali le più rilevanti
+                      sono:
+                      -     modifiche della normativa esterna;
+                      -     istruzioni di Vigilanza e/o richieste
+                            dell’Autorità;
+                      -     modifiche metodologiche subentrate nel
+                            Sistema dei Rating Interni;
+                      -     significative variazioni del contesto di
+                            riferimento, del mercato interno e della
+                            struttura del perimetro AIRB del Gruppo;
+                      -     esito delle analisi di Convalida con
+                            riferimento particolare a quanto relazionato
+                            per il precedente esercizio. Da tale analisi
+                            risulta l’esigenza di rivedere il perimetro dei
+                            controlli di Convalida nonché le modalità di
+                            analisi delle diverse componenti.
+                      L’analisi rileva inoltre l’esigenza di rivedere le
+                      modalità di aggregazione delle informazioni in
+                      esito ai controlli svolti, l’elenco dei driver
+                      normativi di valutazione, la struttura dei
+                      questionari ed i pesi delle domande mediante i
+                      quali è formulato il giudizio di Convalida.
+
+                     Oggetto: Convalida del Sistema dei Rating Interni del modello AIRB
+                     Codice: D 01324 002               Pubblicato il: 09/02/2018           Pag. 21 di 21
+ ID   Adempimenti         Descrizione                                         Attori            Supporti
+2    Aggiornare il       Aggiornare perimetro, finalità, periodicità e       Convalida
+     sistema dei         modalità di esecuzione dei controlli di Convalida   Funzioni
+     controlli di        indipendenti o demandati alle Funzioni              coinvolte:
+     convalida
+                         Coinvolte.                                              Business
+                         Aggiornare in coerenza i template valutativi.           Controllo del
+                                                                                 Rischio
+                         Condividere le modifiche individuate con le
+                                                                                 Referente
+                         Funzioni che svolgono i controlli variati o a cui,
+                                                                                 Locale
+                         eventualmente, ne sono richiesti di nuovi.
+3    Richiedere          Richiedere modifica di strumenti e procedure        Convalida
+     modifica della      con il cui supporto sono svolti i Controlli         Funzioni
+     struttura dei       Continuativi in coerenza con le modifiche           coinvolte:
+     Controlli
+                         individuate per il framework.                           IT
+     Continuativi
+4    Aggiornare il       Aggiornare il Framework di Convalida con le         Convalida         Documenti di
+     Framework di                                                                              input
+                         modifiche individuate.
+     Convalida                                                                                 Framework di
+                         Il Framework deve evidenziare:                                        Convalida
+                         - Numero della versione;
+                                                                                               Documenti di
+                         - Data di modifica;                                                   output
+                                                                                               Framework di
+                         - Data di Approvazione;
+                                                                                               Convalida
+                         - Autore;
+                         - Revisionatore.
+5    Approvare le        Approvare il framework di Convalida modificato.     Responsabile      Documenti di
+     modifiche al                                                            Convalida         output
+     Framework di                                                                              Framework di
+     Convalida              Manutenzione Framework di Convalida                                Convalida
+                            eseguita, il processo termina
+12 - ELENCO TESTI NORMATIVI DI RIFERIMENTO
+1030D00754        Incarichi di responsabilità – Capogruppo Bancaria e Ruoli apicali di Area
+                  Territoriale
+1030D00793        Policy di Gruppo in materia di Sistema dei Controlli Interni
+1030D01020        Direttiva di Gruppo in materia di Gestione del Rischio di Credito
+1030D01114        Policy di Gruppo in materia di Risk Management (Governo dei Rischi)
+1030D01797        Policy in materia di esternalizzazione di funzioni aziendali (outsourcing)
+1030D01822        Policy in materia di monitoraggio dei GAP segnalati dalle Funzioni di Controllo
+1030D01869        Presidio dei modelli e delle attività esternalizzate
+1030D01959        Gestione dei GAP segnalati dalle Funzioni di Controllo
+1030D02148        Policy di Gruppo in materia di Data Governance
+1030D02208        Direttiva di Gruppo in materia di Convalida interna dei sistemi di misurazione
+                  dei rischi
+1030D02214        Direttiva di Gruppo in materia di Sistema di Gestione della Data Governance
+1030D02215        Direttiva di Gruppo in materia di Presidio del Perimetro Informativo
+1030D02216        Direttiva di Gruppo in materia di Gestione della qualità dei dati
+1030D02221        Identificazione e gestione del model change (Rischio di Credito)
+

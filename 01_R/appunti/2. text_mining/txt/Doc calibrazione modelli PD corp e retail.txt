@@ -1,0 +1,1783 @@
+GRUPPOMONTEPASCHI
+Area Lending Risk Officer
+Servizio Credit Risk Models
+                    Il sistema di rating interno Gruppo Montepaschi
+                                       Calibrazione modelli PD
+                         Segmenti Corporate e Retail
+                               Data Maggio 2018
+   AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                    1
+
+Sommario
+  1.     Introduzione ....................................................................................................................................................... 4
+  2.     Metodologia di calibrazione ............................................................................................................................... 5
+  3.     Definizione di default per la calibrazione ........................................................................................................... 5
+  4.     Orizzonte temporale di stima ............................................................................................................................. 6
+  5.     Perimetro di applicazione ................................................................................................................................ 11
+  6.     Popolazione di calibrazione ............................................................................................................................. 13
+  7.     Dati di input ...................................................................................................................................................... 13
+     7.1    Preparazione dei dati................................................................................................................................... 13
+     7.2    Qualità dei dati ............................................................................................................................................. 15
+  8.     Forborne .......................................................................................................................................................... 16
+  9.     Determinazione Anchor Point .......................................................................................................................... 18
+  10.    Stima della funzione di calibrazione ................................................................................................................ 24
+  11.    Risultati ed evidenze ....................................................................................................................................... 27
+     11.1     Matrici di migrazione................................................................................................................................ 27
+     11.1     Test Filosofia di rating ............................................................................................................................. 30
+     11.2     Test Binomiali .......................................................................................................................................... 31
+     11.3     Applicazione PD ...................................................................................................................................... 36
+  AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                                                                        2
+
+        Informazioni sul documento
+                                            Il sistema di rating interno Gruppo Montepaschi
+            Titolo del documento
+                                            Calibrazione modelli PD - Corporate e Retail
+                                            Documento metodologico calibrazione modelli Corporate e
+             Tipo di documento
+                                            Retail andamentali
+                                            Lucia Cervini
+                    Autore                  Area Lending Risk Officer – Servizio Credit Risk Models –
+                                            Settore Modelli di PD
+                                            Cristina Amore
+                   Revisore                 Area Lending Risk Officer – Servizio Credit Risk Models –
+                                            Settore Modelli di PD
+                                            Area Lending Risk Officer – Servizio Credit Risk Models –
+             Unità responsabile
+                                            Settore Modelli di PD
+                                            Lorenzo Boetti
+                Responsabile
+                                            Petraglia Giancosimo
+              dell’approvazione
+                                            Area Lending Risk Officer – Servizio Credit Risk Models
+              Data di redazione             Maggio 2018
+            Data di approvazione            2018
+                   Versione                 V2
+        Cronologia dei cambiamenti al documento
+             Versione                  Data                       Modificato da            Commenti
+                1.0                Aprile 2018                Settore Modelli di PD    Versione Originale
+                                                                                        Aggiunte ulteriori
+                2.0               Giugno 2018                 Settore Modelli di PD
+                                                                                           specifiche
+        Normativa di riferimento
+                             Regolamento (UE) n. 575/2013 del Parlamento Europeo e del Consiglio
+        CRR
+                             (CRR01)
+        CRD IV               Direttiva 2013/36/UE del Parlamento Europeo e del Consiglio
+                             Guidelines on PD estimation, LGD estimation and the treatment of
+        EBA/GL/2017/16
+                             defaulted exposures
+                             Final Draft Regulatory Technical Standards on the specification of the
+                             assessment methodology for competent authorities regarding
+        EBA/RTS/2016/03      compliance of an institution with the requirements to use the IRB
+                             Approach in accordance with Articles 144(2), 173(3) and 180(3)(b) of
+                             Regulation (EU) No 575/2013
+AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                           3
+
+           1.          Introduzione
+Il Gruppo Monte dei Paschi di Siena (GMPS), in qualità di Gruppo bancario autorizzato all’utilizzo dei modelli IRB per il
+calcolo del requisito patrimoniale a fronte del rischio di credito, è tenuto ad adottare in fase di stima ed applicazioni dei
+suddetti modelli quanto previsto dalla normativa regolamentare di riferimento (cd. “Basilea 3”). In particolare i contenuti
+di Basilea 3, sono stati recepiti in ambito comunitario mediante due atti normativi:
+           <U+F0B7>          CRR - Regolamento (UE) n. 575/2013 del Parlamento Europeo e del Consiglio (CRR01);
+           <U+F0B7>          CRD IV - Direttiva 2013/36/UE del Parlamento Europeo e del Consiglio.
+Questi si sono ampliati nel corso del tempo con numerose misure di esecuzione, contenute in norme tecniche di
+regolamentazione o di attuazione (Regulatory Technical Standard – RTS e Implementing Technical Standard – ITS)
+adottate dalla Commissione Europea su proposta delle Autorità europee di vigilanza.
+Il nuovo framework regolamentare ha l’obiettivo di rafforzare la capacità delle banche di assorbire shock economici e
+finanziari, migliorare la gestione del rischio e fornire maggiori precisazioni in relazione alle pratiche di stima dei
+parametri del rischio, al fine di ridurre la variabilità negli attivi ponderati per il rischio di credito per i portafogli per i quali
+gli approcci IRB rimangono applicabili.
+In sostanza, la normativa, pur rimanendo nel complesso ‘principles based’, definisce in modo sempre più puntuale le
+regole che le banche devono seguire per essere realmente compliant, introducendo di fatto, su specifici temi, norme e
+standard basati su regole (rules based), eliminando molte specificità nazionali.
+Il GMPS, per allinearsi all’evoluzione normativa, ha iniziato le attività propedeutiche alla revisione della definizione di
+default, modifica sostanziale che richiederà autorizzazione formale da parte dell’Autorità Competente, in base a
+                                                                     1
+quanto previsto dal Regolamento delegato 529/2014 ; mentre ha già deciso di incorporare nell’attività di calibrazione
+2018 alcune indicazioni fornite dall’EBA in merito alla lunghezza delle serie storiche di stima. In particolare il GMPS ha
+optato per un allungamento delle serie storiche utilizzate per la calibrazione passando da 7 anni per il Corporate e 5
+anni per Retail a 10 anni per entrambi i segmenti. Di seguito i riferimenti normativi:
+•     EBA01: EBA/GL/2017/16 (20/11/2017) Guidelines on PD estimation, LGD estimation and the treatment of
+      defaulted exposures
+•     EBA02: EBA/RTS/2016/03 (21/07/2016) Final Draft Regulatory Technical Standards on the specification of the
+      assessment methodology for competent authorities regarding compliance of an institution with the requirements to
+      use the IRB Approach in accordance with Articles 144(2), 173(3) and 180(3)(b) of Regulation (EU) No 575/2013
+In conformità con il complesso normativo regolamentare (in particolare dal regolamento CRR n.575/2013 art. 179) in
+base al quale ‘gli enti rivedono le proprie stime ogni qualvolta emergano nuove informazioni e in ogni caso almeno con
+cadenza annuale’ il GMPS ha proseguito l’attività di aggiornamento e revisione del suo sistema di rating interno allo
+scopo di recepire gli eventi che hanno caratterizzato l’anno 2016 e 2017 ed in particolare:
+      <U+F0B7>    l’aggiornamento degli Anchor Point (AP) con il recepimento dei tassi di default (TD) dell’anno 2016 e 2017;
+      <U+F0B7>    il recepimento delle più recenti normative regolamentari all’interno del GMPS relative alla definizione di
+           default, che hanno comportato una maggior severità nella detection del default stesso e l’introduzione del
+           concetto di forbearance;
+      <U+F0B7>    il recepimento del seguenti finding: obligation n. 6 ispezione IMI40 (2015) relativo alla media semplice per il
+           calcolo dell’Anchor Point; obligation n.5 ispezione IMI40 (2015) relativa al trattamento delle posizioni a
+           forborne; finding n. 9 TRIM IMI (2017-2018) relativo alla mancanza di una valutazione esplicita del likely range
+           of variability of DRs nella scelta della serie storica di riferimento.
+In particolare con riferimento ai forborne, il GMPS ha attuato nelle precedenti calibrazioni degli interventi specifici per
+cogliere in modo corretto la rischiosità delle controparti che presentano almeno una moratoria, effettuando il
+cosiddetto trattamento moratorie. Con l’emanazione nel I semestre 2015 del documento normativo “1030D01991
+Policy di Gruppo in materia di classificazione e valutazione del credito”, che prevede una maggior severità nella
+detection del default stesso e nella classificazione delle esposizioni forborne, il GMPS ha deciso di rivedere tale
+trattamento, sostituendolo con un floor sulla PD post calibrazione per tutte quelle posizioni classificate come forborne.
+1
+  Regolamento Delegato (UE) N. 529/2014 della Commissione del 12 marzo 2014 che integra il regolamento (UE) n. 575/2013 del Parlamento
+   europeo e del Consiglio per quanto riguarda le norme tecniche di regolamentazione in materia di valutazione della rilevanza delle estensioni e
+   delle modifiche al metodo basato sui rating interni e al metodo avanzato di misurazione.
+      AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                                         4
+
+Il presente documento ha l’obiettivo di evidenziare i passaggi seguiti nell’attività di ricalibrazione modelli PD 2018 dei
+segmenti corporate e retail andamentali utilizzati ai fini del calcolo del requisito patrimoniale.
+Il presente documento è strutturato come segue: nel capitolo 2 si introduce la metodologia di calibrazione, nel capitolo
+3 si descrive la definizione di default adottata, nel capitolo 4 si definisce la lunghezza della serie storica utilizzata, nel
+capitolo 5 si individua il perimetro di calibrazione, nel capitolo 6 si focalizzano i requisiti della popolazione di
+calibrazione, nel capitolo 7 si descrivono le modalità di acquisizione dei dati e le analisi sulla qualità degli stessi, nel
+capitolo 8 si descrive il trattamento applicato ai forborne, nel capitolo 9 si dettagliano i passaggi per definire l’anchor
+point, nel capitolo 10 si definisce la funzione di calibrazione, nel capitolo 11 si riportano i test di verifica della
+calibrazione.
+         2.       Metodologia di calibrazione
+La calibrazione è il processo attraverso il quale si trasforma lo score del modello di rating in probabilità di default da
+applicare alla popolazione in produzione, ovvero si tara il modello statistico sulla rischiosità media effettiva del
+portafoglio di riferimento. L’approccio utilizzato dal Gruppo MPS a tal fine si basa sui seguenti step:
+              <U+F0B7>    definizione di default per la calibrazione;
+              <U+F0B7>    scelta dell’orizzonte temporale di stima;
+              <U+F0B7>    definizione del perimetro di applicazione;
+              <U+F0B7>    preparazione dei dati e data quality;
+              <U+F0B7>    individuazione della popolazione di calibrazione;
+              <U+F0B7>    determinazione dell’Anchor Point;
+              <U+F0B7>    stima della funzione di calibrazione.
+La metodologia di calibrazione prevede l’impiego di una serie storica di 10 anni per i segmenti Corporate e Retail.
+         3.       Definizione di default per la calibrazione
+In fase di calibrazione dei modelli PD è stata adottata la seguente definizione di default congruente con la normativa
+regolamentare (CRR01 art. 178 e CIRC. 263 tit2. Cap.1 parte seconda sez.1, par. 3.2): le controparti a default
+corrispondono al sottoinsieme di clienti con esposizione non nulla (accordato o utilizzo) che, in stato ordinario in un
+determinato mese dell’anno, presentano entro i 12 mesi successivi almeno un’anomalia. La presenza di anomalia è
+indicata dai seguenti stati amministrativi in vigore nella serie storica:
+     <U+F0B7>   Sofferenza,
+     <U+F0B7>   Incaglio e incaglio oggettivo (dal 2010 gli incagli oggettivi sono stati determinati in base alla diversa definizione
+         introdotta nella circolare Banca d’Italia n. 272, 1° aggiornamento, 10/12/2009),
+     <U+F0B7>   Crediti Ristrutturati,
+     <U+F0B7>   Crediti scaduti e/o sconfinanti (Past-Due >90 gg).
+A partire dal gennaio 2015 il default è definito in base alla nuova classificazione regolamentare introdotta nella
+circolare Banca d’Italia n. 272, 7° aggiornamento 20/01/2015 e recepita dal documento normativo interno del GMPS
+‘Policy di Gruppo in materia di classificazione e valutazione del credito – n 1991’ che prevede i seguenti stati di
+default:
+     <U+F0B7>   Sofferenza,
+     <U+F0B7>   Inadempienze probabili (ex incaglio)
+     <U+F0B7>   Crediti scaduti e/o sconfinanti (Past-Due >90 gg).
+Si precisa tuttavia che, come riportato anche nella succitata policy, ai fini delle stime dei parametri di rischio (e nella
+presente calibrazione) è stata mantenuta la più dettagliata classificazione in essere al 31 dicembre 2014 (Bonis, Past
+Due, Incaglio oggettivo, Incaglio, Ristrutturati, Sofferenze).
+I default sono individuati secondo i seguenti principi:
+     1. il default è definito a livello di Gruppo Bancario;
+     2. si seleziona come default la prima anomalia riscontrata a livello di Gruppo nel periodo 1° febbraio 2008 – 31
+         gennaio 2018;
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                        5
+
+      3. in caso di segnalazione contestuale tra più banche del Gruppo su clientela condivisa, prevale la segnalazione
+          di gravità maggiore.
+Il default è stato determinato a livello di Gruppo, considerando le informazioni interne disponibili su BMPS, MPS CS,
+MPS LF e WIDIBA come segue:
+      <U+F0B7>   Sofferenza: se la controparte è classificata a Sofferenza in almeno una società;
+      <U+F0B7>   Incaglio e incaglio oggettivo: se la controparte non è classificata a Sofferenza sulle società ed è classificata ad
+          Incaglio in almeno una delle entità legali;
+      <U+F0B7>   Crediti Ristrutturati: se la controparte non è classificata in una definizione precedente e presenta crediti
+          ristrutturati in almeno un’entità legale;
+      <U+F0B7>   Past due: se la controparte non è classificata in una definizione precedente e presenta un credito scaduto e/o
+          sconfinante superiore a 90 gg.
+Per lo sviluppo dei sistemi avanzati IRB autorizzati dall’Autorità di Vigilanza, come previsto dalla normativa
+regolamentare vigente (Circ. 263 valida fino alla pubblicazione del CRR01, e la Circ. n. 285, Parte seconda, Cap. 4,
+Sez. IV, par. 6 che recepisce in Italia il cosiddetto pacchetto CRDIV) il GMPS ha adottato, una metodologia interna per
+l’individuazione dei cosiddetti past due tecnici, i quali vengono esclusi dal perimetro del default. È stato considerato il
+past due a 90 giorni. La metodologia interna in uso è soggetta a verifiche periodiche di stabilità ed efficacia nella
+capacità di individuazione dei past due tecnici.
+L’algoritmo prodotto dal Gruppo Montepaschi per l’individuazione del Past Due Tecnico è costituito da 6 differenti
+regole che sono esaminate singolarmente in maniera sequenziale (se la condizione prevista da una di queste regole
+viene soddisfatta allora il cliente viene definito come past due tecnico, altrimenti se nessuna delle regole è verificata il
+cliente è classificato come past due atecnico):
+      1. se l’esposizione al momento dell’ingresso in default è inferiore a 4000 euro la posizione è classificata Past
+          Due Tecnico;
+      2. se la posizione al momento di ingresso in Past Due ha accordato nullo e nel terzo o nel sesto mese
+          successivo al passaggio a default presenta un accordato che copre lo sconfinamento è da considerarsi Past
+          Due Tecnico;
+      3. se la posizione al momento di ingresso in Past Due ha accordato nullo e la media dell’utilizzo nei tre mesi
+          successivi al default è inferiore all’utilizzo rilevato al momento del default la posizione è classificata Past Due
+          Tecnico;
+      4. se il grado di utilizzo medio nei sei mesi successivi all’ingresso in default è inferiore al grado di utilizzo al
+          momento del default, con una soglia di tolleranza del 2%, allora la posizione è classificata Past Due Tecnico;
+      5. quando sia l’utilizzo sia l’accordato nel mese successivo all’ingresso in default sono missing la posizione è
+          classificata Past Due Tecnico;
+      6. si considera una posizione in Past Due Tecnico se la somma degli sconfini calcolati sulla clientela condivisa è
+          inferiore al 5% dell’utilizzo complessivo, sia come dato puntuale sia come media dei tre mesi precedenti
+          l’ingresso in default; oppure se al momento del default l’importo sconfinato risulta inferiore al saldo avere del
+          cliente.
+Sono sicuramente Past Due Atecnici quelli che nei 6 mesi successivi al default migrano in Incaglio, Ristrutturato o
+Sofferenza.
+          4.       Orizzonte temporale di stima
+Il CRR art. 180 stabilisce che per la stima della PD è necessario far riferimento alla ‘long run average default rates’ e
+che, per questo fine, deve essere utilizzata una serie storica di stima di almeno 5 anni e specifica che, se il periodo
+storico di osservazione di almeno una fonte dati ha una durata maggiore ed i dati in questione sono rilevanti, si
+utilizzerà il periodo più lungo.
+A queste specifiche si aggiunge l’art. 49 dell’EBA02 che introduce l’importante chiarimento di considerare il ‘likely
+range of variability of default rates in that type of exposures’ per definire il periodo di riferimento. A tale scopo come
+ulteriormente specificato dall’EBA01 (art dall’82 all’86) l’orizzonte temporale di stima deve contenere un adeguato mix
+di anni positivi e negativi. La scelta dell’orizzonte temporale deve pertanto basarsi sulla valutazione dei seguenti
+fattori: significativi cambiamenti nel contesto economico, legale e di business presenti nel periodo storico considerato;
+l’esistenza, assenza o prevalenza di tassi di default a un anno relativi a anni ‘negativi’ riflessi nell’andamento degli
+indicatori macroeconomici; la variabilità di tutti i tassi di default osservati ad un anno.
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                        6
+
+Allo scopo di selezionare una serie storica di stima che rispecchi i suddetti requisiti, il GMPS ha valutato i seguenti
+aspetti:
+         - allo scopo di individuare una serie storica di stima che contenga il giusto mix di anni positivi e negativi,
+           sono stati presi in considerazione gli andamenti di due importanti indicatori macroeconomici, previsti tra
+           l’altro nell’elenco fornito dall’EBA nella versione consultation draft del documento EBA01, ossia: il tasso di
+           crescita del PIL e il tasso di disoccupazione.
+           Nei grafici seguenti si osserva che dopo il picco del 2007, si ha una fase recessiva dalla fine del 2008 fino
+           alla metà del 2009; si osserva una leggera ripresa tra la seconda metà del 2009 e la metà del 2011; nella
+           seconda metà del 2011 inizia una fase recessiva che dura fino al 2014; dal 2015 si registra una dinamica
+           leggermente crescente fino al 2017.
+           Le evidenze riscontrate sono confermate anche dall’andamento del tasso di disoccupazione che presenta
+           una crescita netta nei periodi fortemente recessivi e lievi cali nei periodi moderatamente espansivi.
+                                                    - Andamento del PIL -
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                   7
+
+                                           - Andamento del PIL e del tasso di disoccupazione -
+                 Sulla base di tali considerazioni il periodo migliore, che contiene il giusto mix di anni positivi e negativi, è
+                 quello che va dal 2008 al 2017, con 4,5 anni recessivi e 5,5 espansivi. Se avessimo considerato solo gli
+                 ultimi 5 anni di serie storica avremmo avuto un solo anno di recessione su 5.
+           -     come richiesto dalla normativa, si è indagata la presenza di variabilità dei tassi di default osservati. Come
+                 si può osservare dai grafici seguenti, il periodo che va dal 2008 al 2017, presenta, variabilità dei tassi
+                                                                 2
+                 osservati, su tutti i modelli PD validati .
+                                                        - Andamento dei tassi di default –
+2
+  Per la definizione dei modelli PD si veda il paragrafo relativo al perimetro di applicazione.
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                          8
+
+Di seguito riportiamo un’analisi della variabilità dei tassi di default osservati su diverse finestre temporali. In particolare
+osserviamo che la variabilità dei tassi di default osservati calcolata su un periodo di 5 anni shiftando di volta in volta la
+serie storica si presenta instabile, non garantendo la presenza di variabilità data la brevità della serie storica
+considerata. La scelta di 10 anni, al contrario, dà maggiore sicurezza di incorporare sempre un certo grado di
+variabilità. Inoltre, la variabilità sui 10 anni è sempre compresa tra la massima e la minima variabilità registrata su un
+periodo di 5 anni.
+                                                - Andamento dei tassi di default –
+                                                               5 anni shiftati                      10 anni
+                                               2008    2009    2010      2011    2012     2013        2008
+                      Modello Parametro
+                                               2012    2013    2014      2015    2016     2017        2017
+                                  Media TD    1.46%   1.14%   1.69%     1.59%   1.66%    1.58%       1.52%
+                                 Dev St TD    0.48%   0.36%   1.23%     1.28%   1.26%    1.28%       0.91%
+                         LC
+                                   Dev St/
+                                             33.25% 31.61% 72.83% 80.34% 75.55% 80.65%              60.02%
+                                    Media
+                                  Media TD    2.31%   2.59%   2.79%     2.82%   2.72%    2.71%       2.51%
+                                 Dev St TD    0.80%   0.53%   0.88%     0.86%   1.01%    1.01%       0.88%
+                        CORP
+                                   Dev St/
+                                             34.59% 20.69% 31.40% 30.42% 37.20% 37.21%              35.18%
+                                    Media
+                                  Media TD    3.69%   4.39%   4.84%     4.75%   4.51%    3.97%       3.83%
+                                 Dev St TD    0.93%   0.90%   1.31%     1.41%   1.76%    2.11%       1.55%
+                         PMI
+                                   Dev St/
+                                             25.32% 20.38% 27.17% 29.59% 39.03% 53.31%              40.44%
+                                    Media
+                                  Media TD    4.45%   5.29%   5.87%     5.86%   5.68%    5.09%       4.77%
+                        SPMI
+                                 Dev St TD    1.02%   1.15%   1.53%     1.55%   1.81%    2.26%       1.68%
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                         9
+
+                                                              5 anni shiftati                    10 anni
+                                            2008       2009   2010     2011     2012    2013       2008
+                      Modello Parametro
+                                            2012       2013   2014     2015     2016    2017       2017
+                                Dev St/
+                                          22.89% 21.77% 26.09% 26.42% 31.86% 44.38%              35.34%
+                                 Media
+                               Media TD    6.74%      7.98% 10.03% 11.10% 11.11% 10.30%           8.52%
+                               Dev St TD   2.00%      2.33%  4.01%    3.31%    3.29%   4.05%      3.55%
+                        PLU
+                                Dev St/
+                                          29.60% 29.15% 39.96% 29.81% 29.60% 39.35%              41.65%
+                                 Media
+                               Media TD    5.25%      5.80%  6.85%    7.26%    7.21%   6.65%      5.95%
+                               Dev St TD   0.85%      0.99%  2.22%    1.95%    2.01%   2.53%      1.93%
+                         SB
+                                Dev St/
+                                          16.23% 17.12% 32.38% 26.87% 27.87% 38.06%              32.41%
+                                 Media
+                               Media TD    4.53%      4.90%  5.83%    6.08%    6.01%   5.59%      5.06%
+                               Dev St TD   0.43%      0.74%  1.81%    1.67%    1.75%   2.19%      1.59%
+                        SDP
+                                Dev St/
+                                           9.59%     15.00% 31.08% 27.40% 29.14% 39.07%          31.39%
+                                 Media
+                               Media TD    5.31%      5.44%  6.29%    6.49%    6.43%   5.91%      5.61%
+                               Dev St TD   0.47%      0.46%  1.74%    1.69%    1.76%   2.22%      1.54%
+                        DIN
+                                Dev St/
+                                           8.91%      8.42% 27.70% 25.98% 27.35% 37.51%          27.51%
+                                 Media
+                               Media TD    1.14%      1.10%  1.36%    1.59%    1.67%   1.62%      1.38%
+                               Dev St TD   0.09%      0.08%  0.60%    0.69%    0.63%   0.68%      0.52%
+                        COI
+                                Dev St/
+                                           7.66%      7.47% 44.44% 43.08% 37.77% 41.68%          37.69%
+                                 Media
+                               Media TD    1.78%      1.63%  1.78%    1.88%    1.90%   1.74%      1.76%
+                               Dev St TD   0.25%      0.36%  0.49%    0.55%    0.53%   0.57%      0.42%
+                        SPF
+                                Dev St/
+                                          14.19% 22.21% 27.58% 29.32% 27.97% 32.91%              23.74%
+                                 Media
+         -    allo scopo di tener conto dei significativi cambiamenti nel contesto economico, legale e di business
+              presenti nel periodo storico considerato, il GMPS ritiene che pur non essendoci un cambiamento da
+              attribuire a questa categoria nella serie storica considerata, ha valutato la pubblicazione nel I semestre
+              del 2015 del documento di normativa interna “1030D01991 Policy di Gruppo in materia di classificazione e
+              valutazione del credito,” che prevede una maggiore severità nella detection del default stesso e nella
+              classificazione delle esposizioni forborne come un elemento da ponderare attraverso un MOC ad hoc
+              sulla PD post calibrazione. Tale aspetto verrà esplicitato nel prosieguo del documento.
+In considerazione delle suddette analisi la popolazione di calibrazione è stata definita a partire dal 2008 fino al
+gennaio 2017 (con performance osservata fino a gennaio 2018) coprendo un arco temporale di 10 anni.
+Tale scelta garantisce, inoltre, maggiore coerenza con la rating philosophy sottostante ai modelli di rating. Il sistema di
+rating del GMPS è sostanzialmente un sistema ibrido, TTC oriented.
+L’esplicitazione dell’approccio adottato nella scelta della serie storica di riferimento risponde anche a quanto richiesto
+dal finding n. 9 TRIM IMI (2017-2018) relativo al ”likely range of variability of DRs”.
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                    10
+
+            5.        Perimetro di applicazione
+I segmenti inclusi nella popolazione che sono interessati dall’attività di ricalibrazione sono dettagliati nella seguente
+tabella, con indicazione dei principali driver di definizione (fatturato e anzianità di affidamento) e dell’ammontare
+dell’utilizzo a dicembre 2017:
+                                             - Segmenti interessati dalla ricalibrazione 2018 -
+                                                                                                   Anzianità di             Utilizzo €/mln
+                    Segmento                     Descrizione               Fatturato
+                                                                                                   affidamento                 dic' 2017
+                                          Azienda con struttura
+           Large Corporate                                                >500 mln/€              Non rilevante
+                                          di bilancio standard                                                                  4 353.90
+                                          Azienda con struttura
+           Corporate                                                    200-500 mln/€             Non rilevante
+                                          di bilancio standard                                                                  2 205.05
+                                          Azienda con struttura
+           PMI                                                           10-200 mln/€             Non rilevante
+                                          di bilancio standard                                                                 10 892.93
+                                          Azienda con struttura
+           Small PMI                                                     2.5-10 mln/€             Non rilevante
+                                          di bilancio standard                                                                  5 438.31
+                                          Azienda con struttura                              Superiore a 5 mesi (Se
+           Pluriennali                                                    <200 mln/€
+                                          di bilancio pluriennale                             fatturato<2.5 mln/€)              3 200.66
+                                          Azienda con struttura
+           Small Business                                                 0-2.5 mln/€          Superiore a 5 mesi
+                                          di bilancio standard                                                                  8 278.12
+                                          Società di persone
+           Società di persone             senza obbligo di               Non rilevante         Superiore a 5 mesi
+                                                                                                                                2 019.07
+                                          bilancio
+                                          Ditte individuali senza
+           Ditte Individuali                                             Non rilevante         Superiore a 5 mesi
+                                          obbligo di bilancio                                                                   3 113.52
+           Cointestazioni                 Cointestazioni                 Non rilevante         Superiore a 2 mesi
+                                                                                                                               13 899.84
+                                          Singole Persone
+           Singole Persone Fisiche                                       Non rilevante         Superiore a 2 mesi
+                                          Fisiche                                                                              12 274.12
+Sono inclusi nel perimetro della calibrazione anche i Pool Corporate e Retail. Tali pool sono stati definiti al fine di
+trattare in modo adeguato posizioni che si caratterizzano per livelli di rischio diversi rispetto a quelli delle posizioni
+incluse nei modelli di rating o per le quali non si ha a disposizione lo stesso set di informazioni (es. posizioni che
+presentano solo accordato ma che non utilizzano). In particolare, si individuano tre tipologie di pool:
+            -    quelli caratterizzati da livelli di rischiosità molto bassa, che hanno un accordato ma non utilizzano da 24
+                       3
+                 mesi ;
+            -    quelli con un livello di rischio molto alto, che sconfinano senza aver un affidamento;
+            -    quelli con un livello di rischio alto, che presentano utilizzi superiori all’accordato.
+Nelle tabelle seguenti sono riportate in maggior dettaglio i driver di definizione dei Pool Corporate e Retail.
+                                                                 - Pool Retail –
+                                                                              Durata                                              Utilizzo €/mln
+                                    Caratteristiche                                            Importo sconfinamento
+                                                                         sconfinamento                                              dic' 2017
+                                          Accordato>0
+    POOL1                                 Utilizzo=0                             -                           -
+                                          per 24 mesi consecutivi
+                                                                                                         <=500 €                          2.26
+                         COI e SPF                                          <=30 giorni
+                                          Accordato=0                                                     >500 €                        142.78
+    POOL2
+                                          Utilizzo>0                                                     <=500 €                          0.08
+                                                                         >30-<=60 giorni
+                                                                                                          >500 €                          2.80
+3
+  Tale scelta è inoltre congruente con quanto indicato dall’EBA01: ‘Similarly, with regard to obligors or facilities only with committed but undrawn
+  credit lines, these might have to be treated in a separate calibration segment in the rating system, to avoid lowering unduly the default rate of
+  obligors with drawn credit lines’
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                                             11
+
+                                                                                 Durata                                                Utilizzo €/mln
+                                       Caratteristiche                                             Importo sconfinamento
+                                                                            sconfinamento                                                 dic' 2017
+                                                                                                             <=500 €                             0.14
+                                                                               >60 giorni
+                                                                                                              >500 €                             2.39
+                                               Accordato>0                     >60 giorni         Utilizzo/Accordato<=102%                     43.56
+     POOL3
+                                               Utilizzo>Accordato              >60 giorni          Utilizzo/Accordato>102%                       7.98
+                                                                  - Pool Corporate -
+                                                                                 Durata                                               Utilizzo €/mln
+                                       Caratteristiche                                             Importo sconfinamento
+                                                                            sconfinamento                                                 dic' 2017
+                                               Accordato>0
+     POOL1                                     Utilizzo=0                           -                            -
+                                               per 24 mesi consecutivi
+                     Cluster                                                                                 <=500 €                            0.53
+                     - PMI                                                    <=30 giorni
+                     - Pluriennali                                                                            >500 €                           62.88
+                     - SB
+                                               Accordato=0                                                   <=500 €                            0.04
+     POOL2                                                                  >30-<=60 giorni
+                     Fatturato<10€/mln Utilizzo>0
+                                                                                                              >500 €                            2.83
+                                                                                                             <=500 €                            0.10
+                                                                               >60 giorni
+                                                                                                              >500 €                            1.01
+Ad ulteriore specifica evidenziamo, inoltre, che non rientrano nel perimetro di calibrazione le posizioni che
+appartengono ai seguenti sottocluster:
+                                                                                                                                                    4
+      1) Le operazioni di prestito titoli, in quanto per le loro caratteristiche non rappresentano una fonte di rischio .
+      2) Le operazioni di factoring pro soluto. Attualmente, le esposizioni factoring pro soluto non rientrano nel
+           perimetro IRB del GMPS, come evidenziato nel provvedimento di estensione progressiva (approvazione
+           dell’esecuzione del piano di roll-out su MPS Leasing e Factoring) della Banca d’Italia del 06/07/2012, in
+           relazione alla specificità operativa della suddetta forma tecnica. Le esposizioni relative al factoring pro soluto
+           sono pertanto trattate a standard ed escluse dal perimetro di stima in quanto ricomprese fino ad oggi nel
+           perimetro del Permanent Partial Use (PPU).
+      3) Le controparti esposte esclusivamente verso Biver Banca, dal momento che Biver Banca non fa più parte del
+           GMPS. Biver Banca è stata infatti ceduta dal GMPS a Cassa di Risparmio di Asti a fine 2012.
+      4) Le controparti esposte esclusivamente verso Widiba, per la quale non è stata ancora fatta richiesta di Roll-out.
+      5) Le società startup non sono incluse nel perimetro di sviluppo dal momento che su di esse non si dispongono
+           di informazioni analoghe disponibili sul resto del corporate (non hanno una sufficiente storia andamentale,
+           presentano un bilancio basato su pochi mesi di attività o non presentano bilancio).
+      6) Le operazioni di Specialised Lending non fanno parte del presente perimetro di calibrazione dal momento che
+           non sono valutate attraverso modelli statistici ma con il metodo degli Slotting Criteria.
+      7) Il sottocluster delle società di capitali senza bilancio (SDC_NOBIL). Nello specifico si tratta di posizioni
+           corporate con obbligo di presentazione di un bilancio, in quanto società di capitali, ma che contrariamente al
+           dettato normativo sono invece sprovviste di un bilancio aggiornato (bilancio più recente disponibile superiore a
+           36 mesi). La mancanza di informazioni di bilanci aggiornate, unita ad un livello differente di rischio rispetto al
+           resto del segmento corporate società di capitali, non permette di assimilarle ai portafogli IRB censiti all’interno
+           del GMPS e pertanto prudenzialmente sono trattate a standard. Nel corso del 2018 verrà avviata una
+           progettualità per attrarre anche questo segmento nel perimetro IRB.
+4
+  In particolare si fa riferimento a operazioni in cui il prestatario, a garanzia dell’obbligo di restituzione dei titoli ricevuti, costituisce a favore del
+prestatore una garanzia in contante mediante accensione, presso il medesimo prestatario, di un deposito intestato al prestatore, indisponibile per
+tutta la durata dell’operazione di prestito. Al riguardo, si fa presente che le operazioni della specie, poiché il contante non rientra nella piena
+disponibilità economica del prestatore, vanno rilevate come operazioni di prestito titoli e non come operazioni di pronti contro termine. Come
+precisato nella comunicazione di Banca d’Italia-Comunicazione del 6 marzo 2012 – Normativa in materia di bilancio e segnalazioni delle banche e
+degli intermediari finanziari. Ulteriori chiarimenti.
+      AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                                                   12
+
+  Di seguito si quantificano le esclusioni effettuate sulla popolazione, le operazioni di Prestito Titoli e di Factoring pro
+  soluto sono già escluse ponendo come filtro sulla popolazione la presenza di accordato o utilizzo non nullo, pertanto
+  non generano nessuna esclusione.
+                                       - Posizioni non rientranti nel perimetro di calibrazione -
+                                      POSIZIONI ESCLUSE DAL PERIMETRO
+Reference     Numerosità     Esclusivi      Esclusivi                     Specialised         Totale    %Esclusioni Numerosità
+                                                           Startup
+   Date          iniziale       Biver        Widiba                         Lending         Esclusioni   sul totale     Finale
+01/01/2008      1 432 140         -             -               -             155              155        0.01%       1 431 985
+01/01/2009      1 431 406         -             -              97             258              355        0.02%       1 431 051
+01/01/2010      1 475 805      38 924           -              25             286             39 235      2.66%       1 436 570
+01/01/2011      1 490 419      38 750           -               -             976             39 726      2.67%       1 450 693
+01/01/2012      1 453 508      37 016           -             907            1 288            39 211      2.70%       1 414 297
+01/01/2013      1 389 947      34 696           -             107            1 160            35 963      2.59%       1 353 984
+01/01/2014      1 350 538         -             -             114             996             1 110       0.08%       1 349 428
+01/01/2015      1 339 015         -          14 122            93             853             15 068      1.13%       1 323 947
+01/01/2016      1 352 610         -          14 152           113             752             15 017      1.11%       1 337 593
+01/01/2017      1 291 976         -          10 069            89             663             10 821      0.84%       1 281 155
+  Totale       14 007 364     149 386        38 343          1 545           7 387           196 661      1.40%       13 810 703
+  Così come per la precedente calibrazione, non è stato ricalibrato il segmento gestionale delle NBFI (Non Banking
+  Financial Institutions).
+           6.         Popolazione di calibrazione
+  La popolazione di calibrazione, definita su di un orizzonte temporale di 10 anni, dal gennaio 2008 fino al gennaio 2017
+  (con performance osservata fino a gennaio 2018), è stata costruita in modo da essere allineata alla popolazione di
+  applicazione dei modelli applicando i seguenti criteri di selezione:
+        1. al fine di considerare le sole controparti significative da un punto di vista del rischio, sono state selezionate le
+           sole posizioni con accordato o utilizzo non nullo a ciascun tempo t0;
+        2. sono state selezionate le posizioni appartenenti ai cluster Corporate e Retail.
+  In sintesi quindi:
+       <U+F0B7>   la popolazione relativa ad un periodo di riferimento è data da tutte le controparti in bonis con un accordato e\o
+           utilizzo al tempo t0;
+       <U+F0B7>   la popolazione complessiva è data dall’unione delle popolazioni relative ai periodi di riferimento della serie
+           storica considerata.
+           7.         Dati di input
+           7.1 Preparazione dei dati
+  I dati utilizzati per la costruzione della popolazione di calibrazione sono forniti dalla funzione IT del GMPS (COG
+  Consorzio operativo di Gruppo) e sono storicizzati nel DWHC, nello schema di produzione CRRMG. Tale ambiente ha
+  degli elevati standard di sicurezza: soltanto le applicazioni IT possono scrivere e modificare le tabelle presenti nel
+  suddetto schema, gli altri utenti possono avere solo un accesso di lettura. In particolare per l’attività di calibrazione
+  sono state utilizzate le seguenti tabelle dello schema CRRMG:
+           -     GA9497V_CLU_SCALE_ALL_EAD contiene lo storico dei singoli score calcolati sulla popolazione
+                 affidata/esposta e il codice identificativo del modello di rating
+           -     GA4837V_ACC_UTI_RAP_EAD contiene le esposizioni mensili
+       AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                        13
+
+        -     FY2001E_KZ_CLIENTI contiene informazioni di carattere anagrafico della clientela in sofferenza
+        -     FY3008E_KZ_CAPITALE contiene informazioni sul capitale associato alle pratiche in sofferenza
+        -     GA0350E_PERDITE_NOKZ e GA0350E_PERDITE_DAY contengono le informazioni sugli stralci
+              effettuati su posizioni non in Sofferenza
+        -     GA9340V_IND_DEFAULT_EAD contiene lo stato mensile (bonis/default) delle controparti
+        -     GA9338V_DRIV_CLU_EAD contiene i driver per la segmentazione della clientela
+        -     GA9344E_COLL_UNIF contiene informazioni sui collegati
+        -     GA2050E_ESP_RAP contiene informazioni sui rapporti associati a ciascun cliente, in particolare la
+              specifica sulla presenza di finanziamenti specializzati
+        -     GA9615E_RATING_MENS contiene il rating mensile di ciascuna controparte e il flag di presenza start-up
+        -     MJ2001E_SAS_REPORTS contiene informazioni sui rapporti associati a ciascun cliente
+        -     FY1119E_AOG_CLI_RAE_ATECO07 e FY9994D_RACC_ATECO_MACROBR contengono informazioni
+              sulla branca di attività economica dei clienti
+        -     DWH_SHR.WH1100E_AOG_CLIENTE contiene informazioni sull’area geografica di provenienza dei
+              clienti e il loro CD_FISCALE
+Di seguito riportiamo lo schema logico di accesso alle tabelle:
+In maggior dettaglio:
+    1) Si individuano le controparti che appartengono ai cluster Corporate e Retail che presentano accordato e/o
+        utilizzo.
+    2) Definita la popolazione di partenza si recuperano i driver per la segmentazione e il filtraggio delle posizioni,
+        nonché per l’individuazione dei forborne.
+    3) A partire da questa popolazione filtrata si individuano i soggetti collegati, la cui informazione sullo stato di
+        bonis/default verrà utilizzata a integrazione della tabella GA9340V_IND_DEFAULT_EAD.
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                               14
+
+    4) La GA9340V_IND_DEFAULT_EAD viene, inoltre, trattata, attraverso l’utilizzo delle tabelle
+         FY2001E_KZ_CLIENTI,               FY3008E_KZ_CAPITALE                  e          GA0350E_PERDITE_NOKZ               e
+         GA0350E_PERDITE_DAY, per correggere il disallineamento tra lo stato amministrativo e lo stato di default di
+         mutui cartolarizzati.
+Le suddette elaborazioni sono eseguite in un ambiente di lavoro (RM_WORK) e, successivamente alla condivisione
+con le funzioni di controllo della Banca (funzione di convalida e internal audit), le procedure e le tabelle elaborate sono
+sottoposte a versioning in uno specifico ambiente (ASIA).
+         7.2 Qualità dei dati
+Come anticipato, la calibrazione è il processo attraverso il quale si trasforma lo score del modello di rating in
+probabilità di default. La principale variabile di input utilizzata nella calibrazione è pertanto lo Score integrato, calcolato
+dal COG nella tabella GA9497V_CLU_SCALE_ALL_EAD. Su tale variabile viene effettuata un’attività di data quality
+per verificare la presenza del dato per tutte le osservazioni considerate e nel caso in cui vi siano missing si indagano i
+motivi dell’assenza.
+                                               - Score Missing per segmento –
+                                                                                                % Score
+                                                                         Posizioni senza
+                              Segmento          Numerosità totale                              missing sul
+                                                                              Score
+                                                                                                  totale
+                       LC                                      3 123                       4          0.13%
+                       Corporate                               4 569                       4          0.09%
+                       PMI                                  102 286                      53           0.05%
+                       SMALL PMI                            171 008                     163           0.10%
+                       Pluriennali                          103 864                     134           0.13%
+                       Small Business                       597 650                     986           0.16%
+                       Società di Persone                   440 598                        -          0.00%
+                       Ditte Individuali                 1 045 667                         -          0.00%
+                       Retail COI                        2 511 629                         -          0.00%
+                       Retail SPF                        3 754 282                      125           0.00%
+                       TOTALE                            8 734 676                    1 469           0.02%
+                                                  - Score Missing per anno –
+                                                                      Posizioni senza        % Score missing
+                               Anno           Numerosità totale
+                                                                           Score                sul totale
+                               2008                    1 000 027                      376                0.04%
+                               2009                       964 729                     417                0.04%
+                               2010                       916 999                     271                0.03%
+                               2011                       962 934                     185                0.02%
+                               2012                       928 221                     156                0.02%
+                               2013                       871 080                      53                0.01%
+                               2014                       831 833                        6               0.00%
+                               2015                       774 431                        4               0.00%
+                               2016                       766 561                        -               0.00%
+                               2017                       717 861                        1               0.00%
+                            TOTALE                     8 734 676                    1 469                0.02%
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                       15
+
+                                                    - Posizioni senza Score per modulo –
+                                                                              Posizioni senza Score per modulo
+                                           Posizioni senza         Andamentale
+                         Segmento                                                        Centrale Rischi             Bilancio
+                                           Score integrato            Interno
+                     PMI                                    53                      0                      4                       53
+                     SMALL PMI                             163                      0                    12                      163
+                     Pluriennali                           134                      0                    16                      134
+                     Small Business                        986                      3                   291                      986
+Andando ad indagare le motivazioni di assenza dello score, si osserva che per i modelli corporate con bilancio, lo
+score mancante è da attribuire alla mancanza di un bilancio valido. La numerosità contenuta dell’informazione
+mancante, concentrata soprattutto nei primi anni della serie storica considerata, non inficia il processo di calibrazione
+ed evidenzia che il fenomeno, già estremamente contenuto sugli anni più vecchi della serie storica considerata, è
+praticamente assente sugli ultimi anni, confermando una maggiore efficienza nel recupero dell’informazione sugli anni
+più recenti. Inoltre, congruentemente con quanto previsto dall’EBA01, l’informazione mancante non ha influenzato il
+calcolo ‘the one-year default rate’ e di conseguenza il calcolo della Long-run average default rate, dal momento che
+                                                                                                                                         5
+queste posizioni con score mancante sono state comunque considerate nella definizione dell’anchor point .
+Per quanto riguarda le posizioni Retail si tratta di posizioni residuali affidate in esclusiva da Antonveneta relative
+all’anno 2008, anno di acquisizione della Banca da parte del gruppo MPS.
+      8. Forborne
+Nell’ambito degli interventi attuati per sostenere l’economia al fronte del perdurare della crisi economica, gli ‘accordi di
+moratoria’, siglati in stretta collaborazione tra il Tesoro, l’ABI e le associazioni di categoria o avviati su iniziative dirette
+del Gruppo MPS a partire dal 2009, hanno assunto un carattere rilevante. Per tenere conto di tale fenomeno, in
+conformità con l’art 171 par.2 CRR, che prevede di tener conto di tutte le informazioni rilevanti, il GMPS ha attuato
+nelle precedenti calibrazioni degli interventi specifici per cogliere in modo corretto la rischiosità delle controparti che
+presentano almeno una moratoria, effettuando il cosiddetto ‘trattamento moratorie’.
+Il ‘trattamento’ prevedeva l’allungamento del periodo di performance, che doveva essere compreso tra la data di inizio
+coorte e il primo gennaio immediatamente successivo a 12 mesi oltre la data di fine sospensione della moratoria,
+l’anticipazione del default al periodo in cui si era aperta la moratoria e l’eliminazione delle controparti in bonis con
+moratorie in corso per le quali il periodo di osservazione era ritenuto non sufficiente per la classificazione in
+bonis/default (fenomeno presente nelle ultime coorti), nonché delle controparti che presentavano anomalie sulle date
+relative alle moratorie.
+Nella presente calibrazione è stato deciso di modificare tale approccio. Le motivazioni di tali variazioni sono
+essenzialmente le seguenti:
+      1) La necessità di semplificare la procedura di definizione della popolazione di calibrazione senza dover
+            effettuare interventi di esclusione dovuti a mancanza di un periodo di osservazione sufficiente per definire lo
+            stato bonis/default sugli anni più recenti della serie storica, anche in seguito alla ‘Obligation n.5’ segnalata
+            dalla BCE nell’ispezione IMI40. La non eliminazione dal RDS di posizioni concentrate sugli ultimi anni mette al
+            riparo da possibili problemi di rappresentatività del dato, garantendo maggiore comparabilità della struttura
+            delle esposizioni presenti negli anni della serie storica considerata.
+      2) La variazione nel contesto normativo interno del GMPS. Nel I semestre 2015 è stato pubblicato il documento
+                                                                                                                                                 6
+            normativo interno “1030D01991 Policy di Gruppo in materia di classificazione e valutazione del credito” , che
+            prevede una maggior severità nella detection del default stesso e nella classificazione delle esposizioni
+            forborne. Ne deriva pertanto che il seguimento della posizione in moratoria avviene attraverso la
+            classificazione della stessa nella categoria forborne.
+5
+  EBA01: par.75. Institutions should calculate the one-year default rate also for the subset of obligors with any credit obligation that did not have a
+rating at the start of the relevant observation period, but which were within the range of application of the model under consideration (‘missing
+ratings’), even if these obligors were assigned to a rating grade or pool in a conservative manner for the purpose of calculation of own funds
+requirements. Obligors whose ratings are based on missing or partly missing information or where the rating is outdated but still deemed valid by the
+institution should not be considered as missing ratings.
+6
+  Conformemente alle attuali disposizioni di Vigilanza:’7° aggiornamento della Circolare 272’ di Banca d’Italia sulla qualità del credito
+      AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                                              16
+
+     3) La necessità di tener conto della maggiore rischiosità delle posizioni attuali e prospettiche a forborne
+         attraverso l’introduzione di un MOC esplicito, così come previsto dalla normativa. A questo ultimo proposito
+         evidenziamo, infatti, che l’EBA01, nel disciplinare i MOC, fa esplicito riferimento alle variazioni dei processi
+         interni come MOC ascrivibile alla categoria B.
+Il nuovo approccio, in sostanza, prevede di intercettare la maggiore rischiosità delle posizioni a forborne, tenendo
+conto anche del nuovo processo di classificazione dei crediti a forborne, implementato nel GMPS a novembre 2015,
+che consente una più puntuale classificazione delle posizioni con crediti a forborne. La revisione della metodologia
+prevede i seguenti macro step:
+     1) Calibrazione della PD utilizzando la serie storica osservata, senza nessun particolare intervento di esclusione
+         di controparti dovuto a mancanza di periodo di osservazione. L’utilizzo dell’intera serie storica, come già
+         osservato, rende ‘de facto’ non più necessario implementare specifiche analisi di monitoraggio,
+         rappresentatività e consistenza dovute a particolari esclusioni effettuate in sede di calibrazione;
+     2) Intercettamento delle posizioni a forborne dal 2015 in poi e rilevazione dei tassi di default osservati su queste
+         controparti;
+     3) Introduzione di un MOC (MOC_FORBORNE), attraverso la definizione di un floor da applicare post
+         calibrazione alla PD sulle posizioni che presentano un credito a Forborne, pari al tasso di default storico
+         osservato su queste posizioni.
+Per quanto sopra, con il nuovo approccio, si risolve la criticità sulla rappresentatività della popolazione di calibrazione
+segnalata nell’‘Obligation n.5’ segnalata dalla BCE nell’ispezione IMI40 2015.
+In maggior dettaglio, partendo dall’intera popolazione di calibrazione:
+         - Si individuano le posizioni classificate come forborne nel DWH del GMPS, dunque sulle sole coorti 2016 e
+              2017;
+         - Per ciascun segmento si determinano i tassi di default annuali dei soli forborne;
+         - Si calcola la media semplice dei tassi di default sulle due corti considerate e si mappa tale valore sulla MS
+              del gruppo MPS;
+         - Il valore ottenuto è il floor che deve essere applicato in produzione ai soggetti classificati come forborne, i
+              quali non potranno dunque avere, post calibrazione, una PD migliore rispetto al valore soglia così
+              individuato.
+Si riportano di seguito i tassi di default per segmento dei forborne e il floor individuato.
+                                       - Processo individuazione MOC_FORBORNE -
+            Segmento            Data            Bonis        Default            TD           Media TD       Floor
+                                2016              0             0             0.00%
+                LC                                                                             0.00%       0.03%
+                                2017              5             0             0.00%
+                                2016              0             0             0.00%
+              CORP                                                                             0.00%       0.03%
+                                2017              6             0             0.00%
+                                2016              97            13           11.82%
+               PMI                                                                            14.91%      16.03%
+                                2017              82            18           18.00%
+                                2016             216            54           20.00%
+               SPMI                                                                           19.81%      22.12%
+                                2017             172            42           19.63%
+                                2016             198            81           29.03%
+               PLU                                                                            26.69%      22.12%
+                                2017             205            66           24.35%
+                                2016            1 107          336           23.28%
+                SB                                                                            20.95%      22.12%
+                                2017            1 097          251           18.62%
+                                2016             759           242           24.18%
+               SDP                                                                            21.68%      22.12%
+                                2017             691           164           19.18%
+                                2016            1 515          572           27.41%
+                DIN                                                                           22.61%      22.12%
+                                2017            1 602          347           17.80%
+                                2016              0             0             0.00%
+               NBFI                                                                            0.00%       0.03%
+                                2017              9             0             0.00%
+                                2016            4 669         1 001          17.65%
+               COI                                                                            15.09%      16.03%
+                                2017            4 048          580           12.53%
+                                2016            3 372          769           18.57%
+               SPF                                                                            16.36%      16.03%
+                                2017            3 749          618           14.15%
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                    17
+
+            Segmento            Data            Bonis           Default         TD          Media TD        Floor
+                       - Processo individuazione MOC_FORBORNE - Pool Corporate <10 €/mln -
+                Segmento                    Data          Bonis         Default        TD      Media TD        Floor
+                                            2016            0             0          0.00%
+        SB_POOL1 acc no uti 24m                                                                   0.00%      0.09%*
+                                            2017            0             0          0.00%
+                                            2016            89            6          6.32%
+          SB_POOL2 <=30 <=500                                                                     4.46%       3.99%
+                                            2017           187            5          2.60%
+                                            2016            49            8         14.04%
+          SB_POOL2 <=30 >500                                                                     14.61%      16.03%
+                                            2017            67            12        15.19%
+                                            2016            4             1         20.00%
+          SB_POOL2 <=60 <=500                                                                    23.64%      22.12%
+                                            2017            8             3         27.27%
+                                            2016            9             7         43.75%
+          SB_POOL2 <=60 >500                                                                     52.64%      45.00%
+                                            2017            5             8         61.54%
+                                            2016            10            8         44.44%
+          SB_POOL2 >60 <=500                                                                     47.22%      45.00%
+                                            2017            29            29        50.00%
+                                            2016            18            38        67.86%
+           SB_POOL2 >60 >500                                                                     59.48%      45.00%
+                                            2017            22            23        51.11%
+                                - Processo individuazione MOC_FORBORNE - Pool Retail -
+                Segmento                    Data          Bonis         Default        TD      Media TD        Floor
+                                            2016            0             0          0.00%
+        RE_POOL1 acc no uti 24m                                                                   0.00%       0.13%
+                                            2017            0             0          0.00%
+                                            2016           102            9          8.11%
+          RE_POOL2 <=30 <=500                                                                     6.59%       6.31%
+                                            2017           356            19         5.07%
+                                            2016            81            8          8.99%
+          RE_POOL2 <=30 >500                                                                     12.21%      16.03%
+                                            2017           115            21        15.44%
+                                            2016            6             2         25.00%
+          RE_POOL2 <=60 <=500                                                                    17.05%      16.03%
+                                            2017            10            1          9.09%
+                                            2016            12            3         20.00%
+          RE_POOL2 <=60 >500                                                                     17.14%     22.12%*
+                                            2017            12            2         14.29%
+                                            2016            20            12        37.50%
+          RE_POOL2 >60 <=500                                                                     37.83%      31.63%
+                                            2017            47            29        38.16%
+                                            2016            31            36        53.73%
+           RE_POOL2 >60 >500                                                                     51.43%      45.00%
+                                            2017            29            28        49.12%
+                                            2016            67            72        51.80%
+          RE_POOL3 >60 <=102                                                                     43.51%      45.00%
+                                            2017            57            31        35.23%
+                                            2016           141           387        73.30%
+           RE_POOL3 >60 >102                                                                     68.75%      45.00%
+                                            2017            68           122        64.21%
+* Non vi sono posizioni classificate come forborne nel primo pool corporate, pertanto il TD osservato è nullo.
+Mappando tale tasso sulla Master Scale si ottiene una PD pari allo 0.03%, che risulta essere inferiore rispetto a quella
+corrispondente al tasso osservato sul primo pool corporate considerato nel suo complesso, pari a 0.09% (si veda la
+tabella “Anchor Point 2018 - Pool Corporate <10 €/mln”). Pertanto il floor applicato al primo pool corporate sarà la
+maggiore fra le due PD, dunque 0.09%. Anche nel caso del pool RE_POOL2 <=60 >500 la PD forborne è inferiore
+rispetto alla PD attribuita al pool totale, quindi tutte le posizioni appartenenti a questo pool prenderanno la peggiore fra
+le due PD pari a 22.12% (si veda tabella “Anchor Point 2018– Pool Retail”).
+         9.      Determinazione Anchor Point
+La determinazione degli Anchor Point (AP) è stata effettuata a partire dai TD rilevati sulla popolazione di calibrazione.
+L’Anchor Point è pari alla media semplice dei tassi di default annuali.
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                     18
+
+Di seguito riportiamo la numerosità e il dettaglio bonis e default della popolazione di calibrazione per tutti i modelli
+interessati dall’attività di calibrazione.
+                                                       - Tassi di default annuali -
+                                                                      Modello
+ Data     stato         LC       CORP       PMI     SPMI        PLU         SB       SDP     DIN     COI          SPF
+          bonis        219        396      11 254  21 106     12 686      80 983    51 549 118 478 257 090      421 248
+         default         5          5       258      629        628        3 665    2 233   6 240   3 195        8 160
+ 2008
+            td        2.23%      1.25%     2.24%   2.89%      4.72%       4.33%     4.15%   5.00%   1.23%        1.90%
+                       224        401      11 512  21 735     13 314      84 648    53 782 124 718 260 285      429 408
+          bonis        286        467      11 527  19 528     11 633      65 481    55 411 120 231 251 941      403 873
+         default         3         15       522      993        737        3 594    2 438   6 429   2 925        6 695
+ 2009
+            td        1.04%      3.11%     4.33%   4.84%      5.96%       5.20%     4.21%   5.08%   1.15%        1.63%
+                       289        482      12 049  20 521     12 370      69 075    57 849 126 660 254 866      410 568
+          bonis        299        464      11 152  18 765     11 309      62 724    49 393 111 861 251 532      375 571
+         default         4         11       456      912        719        3 256    2 339   6 502   2 712        7 018
+ 2010
+            td        1.32%      2.32%     3.93%   4.63%      5.98%       4.93%     4.52%   5.49%   1.07%        1.83%
+                       303        475      11 608  19 677     12 028      65 980    51 732 118 363 254 244      382 589
+          bonis        269        431      9 936   17 255     11 371      60 843    44 943 109 872 275 336      410 710
+         default         3          8       345      758        864        3 288    2 115   5 690   2 888        6 009
+ 2011
+            td        1.10%      1.82%     3.36%   4.21%      7.06%       5.13%     4.49%   4.92%   1.04%        1.44%
+                       272        439      10 281  18 013     12 235      64 131    47 058 115 562 278 224      416 719
+          bonis        308        446      9 812   16 562     10 610      57 592    43 605 104 672 268 172      388 858
+         default         5         14       472      995       1 177       4 097    2 413   6 753   3 323        8 335
+ 2012
+            td        1.60%      3.04%     4.59%   5.67%      9.99%       6.64%     5.24%   6.06%   1.22%        2.10%
+                       313        460      10 284  17 557     11 787      61 689    46 018 111 425 271 495      397 193
+          bonis        317        480      9 372   15 158      9 325      52 810    39 883 96 815  256 372      368 277
+         default         2         13       573    1 163       1 144       4 033    2 557   5 820   2 675        4 291
+ 2013
+            td        0.63%      2.64%     5.76%   7.13%     10.93%       7.09%     6.02%   5.67%   1.03%        1.15%
+                       319        493      9 945   16 321     10 469      56 843    42 440 102 635 259 047      372 568
+          bonis        355        463      8 742   13 901      7 957      48 356    35 993 87 060  243 764      349 235
+         default        14         20       614    1 166       1 540       5 641    3 505   8 955   6 067        8 485
+ 2014
+            td        3.79%      4.14%     6.56%   7.74%     16.22%       10.45%    8.87%   9.33%   2.43%        2.37%
+                       369        483      9 356   15 067      9 497      53 997    39 498 96 015  249 831      357 720
+          bonis        349        435      8 745   13 664      7 062      45 693    33 764 82 788  230 015      325 772
+         default         3         11       315      653        901        3 422    2 070   5 705   5 294        7 770
+ 2015
+            td        0.85%      2.47%     3.48%   4.56%     11.31%       6.97%     5.78%   6.45%   2.25%        2.33%
+                       352        446      9 060   14 317      7 963      49 115    35 834 88 493  235 309      333 542
+ 2016     bonis        340        443      8 848   13 543      6 740      44 374    32 629 80 505  223 708      338 126
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                 19
+
+                                                                    Modello
+Data    stato         LC         CORP    PMI       SPMI        PLU        SB    SDP          DIN           COI         SPF
+       default         5            6    195        466        517      2 291  1 414        3 905         3 187       5 319
+          td        1.45%        1.34%  2.16%     3.33%       7.12%     4.91%  4.15%       4.63%          1.40%      1.55%
+                     345          449   9 043     14 009      7 257    46 665  34 043      84 410        226 895    343 445
+        bonis        333          428   8 977     13 422      6 533    43 759  31 330      74 704        219 225    306 464
+       default         4           13    171        369        411      1 748  1 014        2 682         2 208       4 066
+2017
+          td        1.19%        2.95%  1.87%     2.68%       5.92%     3.84%  3.14%       3.47%          1.00%      1.31%
+                     337          441   9 148     13 791      6 944    45 507  32 344      77 386        221 433    310 530
+                                                                      Modello
+                         SB_POOL1      SB_POOL2        SB_POOL2     SB_POOL2    SB_POOL2         SB_POOL2        SB_POOL2
+  Data       stato
+                        acc no uti 24m <=30 <=500      <=30 >500    <=60 <=500   <=60 >500        >60 <=500       >60 >500
+             bonis          13 510        13 097         5 181         3 134        778             3 741           2 638
+            default            8           154            277            41         108               31             531
+ 2008
+               td           0.06%         1.16%          5.08%        1.29%       12.19%            0.82%          16.76%
+                            13 518        13 251         5 458         3 175        886             3 772           3 169
+             bonis          14 311        19 891         5 117         1 214        723             3 958           2 334
+            default            2           125            238            8          140               16             513
+ 2009
+               td           0.01%         0.62%          4.44%        0.65%       16.22%            0.40%          18.02%
+                            14 313        20 016         5 355         1 222        863             3 974           2 847
+             bonis          13 292        22 955         4 871         1 149        596             4 114           1 420
+            default            4           212            205            56         143             1 312           2 000
+ 2010
+               td           0.03%         0.92%          4.04%        4.65%       19.35%           24.18%          58.48%
+                            13 296        23 167         5 076         1 205        739             5 426           3 420
+             bonis          12 823        22 936         4 709          884         494             3 813           1 399
+            default            4           241            437            45         126              822             772
+ 2011
+               td           0.03%         1.04%          8.49%        4.84%       20.32%           17.73%          35.56%
+                            12 827        23 177         5 146          929         620             4 635           2 171
+             bonis          11 932        23 950         3 694          868         439             4 115           1 188
+            default            3           326            196            70         142             1 001           1 420
+ 2012
+               td           0.03%         1.34%          5.04%        7.46%       24.44%           19.57%          54.45%
+                            11 935        24 276         3 890          938         581             5 116           2 608
+             bonis          11 600        20 710         4 884          891         457             3 982           1 007
+            default            5           281            210            86         198             1 306           1 156
+ 2013
+               td           0.04%         1.34%          4.12%        8.80%       30.23%           24.70%          53.44%
+                            11 605        20 991         5 094          977         655             5 288           2 163
+             bonis          10 796        22 544         4 362          731         364             4 687           1 128
+            default           51          1 263           324           176         228             4 100           1 484
+ 2014
+               td           0.47%         5.31%          6.91%        19.40%      38.51%           46.66%          56.81%
+                            10 847        23 807         4 686          907         592             8 787           2 612
+             bonis          9 145         21 392         3 892          994         412             4 974           1 329
+ 2015       default            8          1 665           288           301         268             3 799           1 491
+               td           0.09%         7.22%          6.89%        23.24%      39.41%           43.30%          52.87%
+   AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                     20
+
+                                                                        Modello
+                             SB_POOL1      SB_POOL2    SB_POOL2       SB_POOL2         SB_POOL2        SB_POOL2       SB_POOL2
+  Data         stato
+                           acc no uti 24m  <=30 <=500   <=30 >500     <=60 <=500       <=60 >500        >60 <=500      >60 >500
+                               9 153         23 057        4 180         1 295             680            8 773          2 820
+               bonis           8 381         21 553        3 223         1 040             246            4 019           794
+              default             1          1 589          230           288              188            4 376          1 874
+  2016
+                 td            0.01%         6.87%        6.66%         21.69%           43.32%          52.13%         70.24%
+                               8 382         23 142        3 453         1 328             434            8 395          2 668
+               bonis           9 683         21 330        2 357          788              180            3 745           625
+              default             0          1 339          180           131              124            3 686           971
+  2017
+                 td            0.00%         5.91%        7.09%         14.25%           40.79%          49.60%         60.84%
+                               9 683         22 669        2 537          919              304            7 431          1 596
+                                                                   Modello
+                RE_POOL1
+                                RE_POOL2    RE_POOL2  RE_POOL2    RE_POOL2      RE_POOL2      RE_POOL2     RE_POOL3    RE_POOL3
+Data   stato      acc no uti
+                                <=30 <=500  <=30 >500 <=60 <=500  <=60 >500     >60 <=500      >60 >500     >60 <=102   >60 >102
+                     24m
+       bonis       102 300          67 439    11 303    12 192      1 673         16 233         6 494        1 122       6 878
+      default         12             252        318        79        169           134            876          223        2 519
+2008
+         td         0.01%           0.37%     2.74%     0.64%       9.17%         0.82%         11.89%       16.58%      26.81%
+                   102 312          67 691    11 621    12 271      1 842         16 367         7 370        1 345       9 397
+       bonis       103 063          92 000    23 193     5 157      1 530         19 556         5 557         852        5 592
+      default          2             182        312        30        126            71            728          158        2 515
+2009
+         td         0.00%           0.20%     1.33%     0.58%       7.61%         0.36%         11.58%       15.64%      31.02%
+                   103 065          92 182    23 505     5 187      1 656         19 627         6 285        1 010       8 107
+       bonis        95 383         107 902    12 337     4 609      1 213         18 492         2 987         842        3 515
+      default         18             476        234       229        254          4 836          5 439         191        5 740
+2010
+         td         0.02%           0.44%     1.86%     4.73%      17.31%        20.73%         64.55%       18.49%      62.02%
+                    95 401         108 378    12 571     4 838      1 467         23 328         8 426        1 033       9 255
+       bonis        94 031         108 278    11 044     3 527       906          19 373         2 984         675        2 749
+      default         10             357        409       135        140          3 542          1 374         151        2 468
+2011
+         td         0.01%           0.33%     3.57%     3.69%      13.38%        15.46%         31.53%       18.28%      47.31%
+                    94 041         108 635    11 453     3 662      1 046         22 915         4 358         826        5 217
+       bonis        85 492         114 105     8 936     3 452       816          21 671         2 054         855        2 815
+      default         12             474        180       169        181          4 013          2 726         173        3 329
+2012
+         td         0.01%           0.41%     1.97%     4.67%      18.15%        15.62%         57.03%       16.83%      54.18%
+                    85 504         114 579     9 116     3 621       997          25 684         4 780        1 028       6 144
+       bonis        85 177          91 432     9 129     4 217       744          23 274         1 558         383        2 923
+      default          9             406        183       169        152          2 953          1 478         100        3 397
+2013
+         td         0.01%           0.44%     1.97%     3.85%      16.96%        11.26%         48.68%       20.70%      53.75%
+                    85 186          91 838     9 312     4 386       896          26 227         3 036         483        6 320
+       bonis        79 689          97 005     8 667     3 997       602          14 902         1 727         410        2 034
+      default         11            4 407       332      1 080       243          20 779         1 714         251        3 843
+2014
+         td         0.01%           4.35%     3.69%     21.27%     28.76%        58.24%         49.81%       37.97%      65.39%
+                    79 700         101 412     8 999     5 077       845          35 681         3 441         661        5 877
+   AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                          21
+
+                                                                       Modello
+                RE_POOL1
+                               RE_POOL2      RE_POOL2   RE_POOL2     RE_POOL2    RE_POOL2      RE_POOL2  RE_POOL3  RE_POOL3
+ Data   stato    acc no uti
+                               <=30 <=500    <=30 >500  <=60 <=500    <=60 >500   >60 <=500     >60 >500 >60 <=102  >60 >102
+                   24m
+        bonis     73 633          88 378        8 146      4 465         699        17 736        1 999     481       1 663
+       default      20             7 207         439       1 543         309        19 280        2 147     272       3 280
+ 2015
+          td      0.03%           7.54%         5.11%     25.68%       30.65%      52.09%        51.78%   36.12%     66.36%
+                  73 653          95 585        8 585      6 008        1 008       37 016        4 146     753       4 943
+        bonis     68 781          92 877        6 930      4 501         524        16 981        1 177     423       1 614
+       default      22             5 695         295       1 227         276        19 369        3 143     206       2 799
+ 2016
+          td      0.03%           5.78%         4.08%     21.42%       34.50%      53.28%        72.75%   32.75%     63.43%
+                  68 803          98 572        7 225      5 728         800        36 350        4 320     629       4 413
+        bonis     66 267          90 556        5 546      4 002         446        16 046         922      455        907
+       default       5             5 995         221        723          219        15 903        1 539     162       1 347
+ 2017
+          td      0.01%           6.21%         3.83%     15.30%       32.93%      49.78%        62.54%   26.26%     59.76%
+                  66 272          96 551        5 767      4 725         665        31 949        2 461     617       2 254
+Il calcolo dell’Anchor point quale media semplice dei tassi annuali di default osservati, già introdotto nella calibrazione
+2016, risolve il finding 9 dell’IMI40. Alla determinazione dell’anchor point concorrono tutte le posizioni contenute nella
+popolazione di calibrazione, pertanto anche le posizioni senza score integrato, ciò è in linea con quanto previsto
+dall’EBA01 par. 75 (vedi nota precedente). Queste posizioni risultano invece escluse ai fini della determinazione dei
+parametri di calibrazione, in quanto, come meglio spiegato nel paragrafo successivo, la procedura di calibrazione,
+effettuata tramite la regressione logistica, considera come variabile indipendente lo Score del modello.
+Nella tabella seguente si riportano gli anchor point calcolati con l’allungamento e l’allineamento delle serie storiche del
+Corporate e Retail a 10 anni, senza trattamento moratorie, considerando solo il default atecnico.
+                                                            - Anchor Point 2018 -
+                                                                    AP attuali             Nuovi AP
+                                                                  Def. atecnico          Def. atecnico
+                                                                 7Y Corp - 5Y Ret       10Y Corp e Ret
+                                         Modello
+                                                                   Tr. Moratorie        NO trattamento
+                                                                                           moratorie
+                                                                                         Allungamento
+                                                                                         serie storiche
+                           LC                                          1.48%                 1.52%
+                           Corporate                                   2.81%                 2.51%
+                           PMI                                         4.63%                 3.83%
+                           SMALL PMI                                   5.59%                 4.77%
+                           Pluriennali                                 9.77%                 8.52%
+                           Small Business                              6.71%                 5.95%
+                           Società di Persone                          5.58%                 5.06%
+                           Ditte Individuali                           6.14%                 5.61%
+                           Retail COI                                  1.59%                 1.38%
+                           Retail SPF                                  1.87%                 1.76%
+                                              - Anchor Point 2018 - Pool Corporate <10 €/mln -
+                                         Modello                    AP attuali             Nuovi AP
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                      22
+
+                                                          Def. atecnico         Def. atecnico
+                                                        7Y Corp - 5Y Ret      10Y Corp e Ret
+                                                          Tr. Moratorie       NO trattamento
+                                                                                 moratorie
+                                                                               Allungamento
+                                                                               serie storiche
+                  SB_POOL 1 accordato senza
+                                                               0.09%                0.09%
+                  utilizzo
+                  SB_POOL 2 accordato nullo
+                                                               6.31%                3.99%
+                  sconfino<=30gg utilizzo <=500
+                  SB_POOL 2 accordato nullo
+                                                               6.31%                6.31%
+                  sconfino<=30gg utilizzo >500
+                  SB_POOL 2 accordato nullo
+                                                              31.63%               16.03%
+                  sconfino 30-60gg utilizzo <=500
+                  SB_POOL 2 accordato nullo
+                                                              31.63%               31.63%
+                  sconfino 30-60gg utilizzo >500
+                  SB_POOL 2 accordato nullo
+                                                              45.00%               31.63%
+                  sconfino 30-60gg utilizzo <=500
+                  SB_POOL 2 accordato nullo
+                                                              45.00%               45.00%
+                  sconfino >60 gg utilizzo >500
+                                              - Anchor Point 2018– Pool Retail -
+                                                            AP attuali           Nuovi AP
+                                                          Def. atecnico         Def. atecnico
+                                                        7Y Corp - 5Y Ret      10Y Corp e Ret
+                                Modello
+                                                          Tr. Moratorie       NO trattamento
+                                                                                 moratorie
+                                                                               Allungamento
+                                                                               serie storiche
+                  RE_POOL 1 accordato senza
+                                                               0.13%                0.13%
+                  utilizzo
+                  RE_POOL2 accordato nullo
+                                                               6.31%                2.42%
+                  sconfino<=30gg utilizzo <=500
+                  RE_POOL2 accordato nullo
+                                                               6.31%                3.99%
+                  sconfino<=30gg utilizzo >500
+                  RE_POOL2 accordato nullo
+                                                              31.63%                9.95%
+                  sconfino 30-60gg utilizzo <=500
+                  RE_POOL2 accordato nullo
+                                                              31.63%               22.12%
+                  sconfino 30-60gg utilizzo >500
+                  RE_POOL2 accordato nullo
+                                                              45.00%               31.63%
+                  sconfino >60 gg utilizzo <=500
+                  RE_POOL2 accordato nullo
+                                                              45.00%               45.00%
+                  sconfino >60 gg utilizzo >500
+                  RE_POOL3 sconfino >60 gg
+                                                              31.63%               22.12%
+                  utilizzo/accordato <=102%
+                  RE_POOL3 sconfino > 60 gg
+                                                              45.00%               45.00%
+                  utilizzo/accordato >102%
+AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                              23
+
+                                                               7
+L’EBA01 prevede l’elaborazione di un framework da parte della banca per definire le linee guida da seguire nella
+scelta della serie storica da utilizzare ai fini del calcolo della long run average. La serie storica scelta dal GMPS, sulla
+base delle linee guida definite dall’EBA01, è pari a 10 anni; l’inclusione delle informazioni degli anni più recenti e il
+contestuale allungamento della serie storica rispetto agli attuali 7 anni per il corporate e 5 per il retail produce un
+miglioramento degli anchor point per tutti i segmenti, fatta eccezione per il LC. A seguito della calibrazione con il
+                                                                                                                  8
+nuovo anchor point, alle posizioni con forborne si applica il MOC_FORBORNE , che produce un effetto
+prudenziale/peggiorativo sul livello finale della PD di tale controparti e sulla media dell’intero portafoglio forborne. Tale
+impatto è stato verificato in fase di applicazione dei nuovi parametri di calibrazione (si veda paragrafo “Applicazione
+PD”).
+           10.       Stima della funzione di calibrazione
+L’attività di calibrazione di fatto prevede un nuovo tasso di default (AP) che rappresenta la nuova PD media che dovrà
+essere prevista dal modello. L’attività di calibrazione pertanto non può prescindere “dall’aggiustare” i parametri alfa e
+beta della funzione di calibrazione attualmente presente in produzione, così da consentire il calcolo di tale ultimo
+valore di Anchor Point in luogo del precedente. Il tasso di default presente nella popolazione di calibrazione deve
+essere cioè aggiustato per tenere conto del tasso di default obiettivo prefissato (Anchor Point).
+A tale scopo, il Gruppo MPS ha individuato una metodologia per realizzare quanto sopra osservato, basata
+sostanzialmente sull’utilizzo di una funzione “di calibrazione” il cui output finale consiste in un valore di intercetta e di
+slope da applicare all’algoritmo di scoring. Gli step operativi possono essere rappresentati nel modo seguente:
+      1. Recupero dello score per le posizioni presenti nella popolazione di calibrazione
+      2. Costruzione dei pesi da utilizzare per riponderare la rischiosità dei singoli modelli a quella espressa
+           dall’Anchor Point. I pesi W sono stati calcolati, per ciascuna controparte, nel modo seguente:
+                      <U+F0B7>   per i clienti Default, il peso è posto pari al rapporto tra l’Anchor Point e il suo corrispettivo
+                          osservato sulla popolazione di riferimento:
+                                                                    W bad=AP/tDEF
+                      <U+F0B7>   per i clienti Good, il peso è pari al rapporto tra il complemento a 1 dell’Anchor Point e il suo
+                          corrispettivo osservato sulla popolazione di riferimento:
+                                                                      W good=(1-AP)/(1-tDEF)
+       dove AP è l’Anchor Point del modello e tDEF il tasso di default osservato sulla popolazione di calibrazione
+       L’AP non necessariamente coincide con il tasso di default osservato nella popolazione di calibrazione, infatti, il
+       tasso di default osservato sulla popolazione di calibrazione considera solo le posizioni su cui è effettivamente
+       presente lo score, la variabile indipendente. Inoltre, il tasso di default osservato sull’intera popolazione di
+       calibrazione è definito a livello complessivo, considerando la totalità delle posizioni bonis e default presenti nei
+       10 anni considerati. A questo va aggiunta la considerazione che nella definizione dell’AP si possono tener conto,
+       per motivi prudenziali, di specifici ulteriori elementi nella definizione/dimensione del tasso di default di riferimento
+       allo scopo di garantire che le condizioni economiche e di mercato su cui si basano i dati siano coerenti con la
+       situazione economica attuale e prospettica (ad esempio inserimento di tassi di default prospettici, introduzione di
+       una maggiore rischiosità delle posizioni che presentano particolari profili di rischio etc).
+       L’attività di calibrazione di fatto prevede un nuovo tasso di default (Anchor point AP) che rappresenta la nuova PD
+       media che dovrà essere prevista dal modello
+      3. Impiego della regressione logistica ponderata (con peso W), utilizzando come variabile dipendente il flag
+           bonis/default e come variabile indipendente lo score, definito al passo 1, ottenendo come output i parametri di
+7
+  Il GMPS sta attualmente elaborando un framewok generalizzato per la determinazione della serie storica da usare per il calcolo della Long-
+  runaverage default rate, che si baserà essenzialmente sulla verifica degli step elencati nel paragrafo 4 Orizzonte temporale di stima
+8
+  EBA01 Pag.27 Another important aspect that is clarified with respect to calibration is that calibration should be performed before the application of
+  MoC
+      AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                                             24
+
+        ricalibrazione. La regressione logistica ponderata, mediante l’impiego dei pesi W, assicura che la PD media
+        eguagli il tasso obiettivo della calibrazione (Anchor Point). Di seguito la formula della funzione logistica:
+                                                  PD=1/(1+exp(-a-ß*Score_integrato))
+Applicando la metodologia descritta:
+        -     si determinano i pesi sulla base dell’anchor point e del TD implicito nella popolazione di calibrazione
+                                                                     Costruzione dei pesi
+                   Segmento              Anchor Point             TD                  Wbad              Wgood
+              PMI                             3.83%             3.84%              0.99792288         1.00008284
+              SMALL PMI                       4.77%             4.74%              1.00596663         0.99970319
+              Pluriennali                     8.52%             8.32%              1.02432437         0.99779320
+              Small Business                  5.95%             5.87%              1.01425652         0.99911161
+              Società di Persone              5.06%             5.02%              1.00867992         0.99954168
+              Ditte Individuali               5.61%             5.61%              0.99954564         1.00002701
+              Retail COI                      1.38%             1.37%              1.00660923         0.99990802
+              Retail SPF                      1.76%             1.76%              1.00021716         0.99999611
+        -    si ottengono i nuovi coefficienti a e ß che riportiamo di seguito:
+                                                    - Nuovi coefficienti di calibrazione 2018 -
+                                                                   Parametri di calibrazione
+                               Segmento               Anchor Point                a                ß
+                          Large Corporate                1.52%                 -0.0224             1
+                          Corporate                      2.51%                 0.5501              1
+                          PMI                            3.83%              -0.09782151       0.93640007
+                          SMALL PMI                      4.77%              -0.26986965       0.88731342
+                          Pluriennali                    8.52%               0.09434374       0.80224391
+                          Small Business                 5.95%              -0.10382248       0.88618022
+                          Società di Persone             5.06%              -0.28663250       0.82037659
+                          Ditte Individuali              5.61%              -0.04823604       0.85761297
+                          Retail COI                     1.38%              -1.15922107       0.89642168
+                          Retail SPF                     1.76%              -1.14519469       0.93466623
+I parametri di calibrazione sono risultati tutti significativi. La tabella seguente riporta i p-value dell’alfa e del beta per
+ciascun modello.
+                                                   - P-value coefficienti di calibrazione 2018 -
+                                                              p-value parametri di calibrazione
+                                           Segmento                  a                   ß
+                                      PMI                         0.21%                0.00%
+                                      SMALL PMI                   0.00%                0.00%
+                                      Pluriennali                 0.01%                0.00%
+                                      Small Business              0.00%                0.00%
+                                      Società di Persone          0.00%                0.00%
+                                      Ditte Individuali           0.00%                0.00%
+                                      Retail COI                  0.00%                0.00%
+                                      Retail SPF                  0.00%                0.00%
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                       25
+
+Per i Pool la calibrazione avviene attraverso un procedimento semplificato, ma prudenziale, che consiste
+nell’assegnare a ciascun Pool la Probabilità di Default (PD) propria della classe di rating in cui ricade il suo Anchor
+point, con il limite inferiore di 0.13% per il Retail e di 0.03% per il Corporate, senza processare una regressione
+logistica.
+                                             - Determinazione AP - Pool Corporate <10 €/mln -
+                                                                                     Anchor Point
+                                        Modello                        Anchor Point
+                                                                                    mappato sulla MS
+                          SB_POOL 1 accordato senza
+                                                                           0.08%         0.09%
+                          utilizzo
+                          SB_POOL 2 accordato nullo
+                                                                           3.17%         3.99%
+                          sconfino<=30gg utilizzo <=500
+                          SB_POOL 2 accordato nullo
+                                                                           5.88%         6.31%
+                          sconfino<=30gg utilizzo >500
+                          SB_POOL 2 accordato nullo
+                                                                          10.63%        16.03%
+                          sconfino 30-60gg utilizzo <=500
+                          SB_POOL 2 accordato nullo
+                                                                          28.48%        31.63%
+                          sconfino 30-60gg utilizzo >500
+                          SB_POOL 2 accordato nullo
+                                                                          27.91%        31.63%
+                          sconfino 30-60gg utilizzo <=500
+                          SB_POOL 2 accordato nullo
+                                                                          47.75%        45.00%
+                          sconfino >60 gg utilizzo >500
+                                                - Determinazione AP - Pool Retail –
+                                                                                     Anchor Point
+                                        Modello                        Anchor Point
+                                                                                    mappato sulla MS
+                          RE_POOL 1 accordato senza
+                                                                           0.01%         0.13%
+                          utilizzo
+                          RE_POOL2 accordato nullo
+                                                                           2.61%         2.42%
+                          sconfino<=30gg utilizzo <=500
+                          RE_POOL2 accordato nullo
+                                                                           3.02%         3.99%
+                          sconfino<=30gg utilizzo >500
+                          RE_POOL2 accordato nullo
+                                                                          10.18%         9.95%
+                          sconfino 30-60gg utilizzo <=500
+                          RE_POOL2 accordato nullo
+                                                                          20.94%        22.12%
+                          sconfino 30-60gg utilizzo >500
+                          RE_POOL2 accordato nullo
+                                                                          27.76%        31.63%
+                          sconfino >60 gg utilizzo <=500
+                          RE_POOL2 accordato nullo
+                                                                          46.21%        45.00%
+                          sconfino >60 gg utilizzo >500
+                          RE_POOL3 sconfino >60 gg
+                                                                          23.96%        22.12%
+                          utilizzo/accordato <=102%
+                          RE_POOL3 sconfino > 60 gg
+                                                                          53.00%        45.00%
+                          utilizzo/accordato >102%
+Per i segmenti Large Corporate e Corporate si utilizza un approccio semplificato per la determinazione degli alpha e
+beta. Trattandosi di Low Default Portfolio, vale a dire portafogli caratterizzati da pochi casi di default, è riconosciuto a
+livello di sistema (best practice, Vigilanza regolamentare) l’impossibilità di utilizzare metodologie puramente
+            9
+statistiche ; per tale motivo, tra i diversi approcci possibili, es. shadow rating, approcci judgemental, il GMPS ha
+adottato nella stima e calibrazione dei modelli un approccio judgemental, in cui le evidenze statistiche vengono
+9
+  Cfr. EBA/DP/2015/01 (04/03/2015) Discussion Paper - Future of the IRB Approach
+      AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                     26
+
+utilizzate a supporto delle valutazioni di tipo qualitativo degli analisti dei crediti che fanno parte di un Gruppo di lavoro
+definito tra diverse funzioni del GMPS per la stima del modello.
+     Di seguito si riportano nel dettaglio gli step seguiti per la calibrazione:
+               1. recupero dello score di modello sull’intero campione (LC e CORP) e sull’intera serie storica utilizzata;
+               2. individuazione dei tassi di default obiettivo di lungo periodo (Anchor Point di calibrazione);
+               3. stima dei parametri di calibrazione in maniera separata per il Large Corporate e il
+                    Corporate, intervenendo sull’intercetta per raggiungere i tassi di default obiettivo. In sostanza,
+                    partendo dai parametri di stima (alfa e beta) ottenuti sull’intera popolazione di sviluppo (LC e
+                    Corporate) processando una regressione logistica con in input la variabile score, si calibra al tasso di
+                    default obiettivo (Anchor point) di ciascun segmento lasciando invariato il beta e modificando
+                    iterativamente l’alfa.
+La metodologia adottata consente:
+          -    di utilizzare l’intera serie storica a disposizione senza la necessità di effettuare un processo di mapping
+               con un rating esterno su di un’unica data di riferimento (shadow rating);
+          -    di ancorarsi da subito alla rischiosità effettiva del segmento di riferimento.
+          11.      Risultati ed evidenze
+     Nei successivi paragrafi vengono riportate le analisi effettuate per testare la bontà della calibrazione.
+          11.1 Matrici di migrazione
+Per testare la stabilità del modello sono state costruite le matrici di migrazione tra la nuova PD ricalibrata a inizio corte
+e la nuova PD 12 mesi dopo, per ogni anno incluso nella popolazione di calibrazione per tutti i modelli. Di seguito i
+risultati (maggiori dettagli nell’allegato “Matrici_10Y_Calib2018_10_FF”), i quali mostrano come i modelli presentano
+un buon livello di stabilità circa l’80% della popolazione ha una variazione entro 2 classi di rating per tutti i modelli e
+per tutti gli anni della serie storica.
+                                                  - Sintesi risultati matrici di migrazione -
+                                                                             LC
+                                       2008 2009 2010 2011 2012 2013 2014 2015 2016 TOT
+                   Migliore oltre 2    5.9% 3.6% 4.9% 8.0% 3.0% 1.7% 3.4% 4.7% 4.5% 4.3%
+                      Migliore + 2     6.4% 5.9% 5.7% 8.0% 4.1% 5.1% 3.1% 5.6% 5.5% 5.4%
+                      Migliore + 1    19.7%   17.8% 23.9% 24.1% 14.6% 17.6% 17.5% 24.5% 28.9% 21.0%
+                     Peggiore - 1     24.6% 23.3% 10.6% 14.3% 16.5% 19.3% 16.6% 12.2% 15.9% 16.7%
+                     Peggiore - 2      5.9% 8.3% 8.3% 6.3% 10.1% 7.1% 6.4% 4.1% 2.9% 6.5%
+                  Peggiore oltre 2 5.4% 10.7% 14.8% 3.4% 6.7% 4.7% 4.0% 3.1% 4.2% 6.2%
+                       Invariato      32.0% 30.4% 31.8% 35.9% 44.9% 44.4% 49.1% 45.8% 38.0% 39.8%
+                  Migrazione entro
+                                      76.4% 71.5% 66.3% 74.3% 76.0% 81.4% 83.1% 82.4% 82.8% 77.6%
+                        1 classe
+                  Migrazione entro
+                                      88.7% 85.8% 80.3% 88.6% 90.3% 93.6% 92.6% 92.2% 91.2% 89.5%
+                        2 classi
+                      Withdrawn        7.2%   11.4% 11.3% 11.4% 12.8%           6.9%    7.9%  8.5% 9.3%   9.6%
+                           TD          1.8%    1.0% 1.3% 1.1% 1.6%              0.6%    3.8%  0.9% 1.4%   1.5%
+                                                                           CORP
+                                       2008 2009 2010 2011 2012 2013 2014 2015 2016 TOT
+                   Migliore oltre 2    5.5% 8.7% 13.6% 8.1% 8.9% 7.5% 5.9% 6.9% 6.0% 7.9%
+                      Migliore + 2     8.5% 10.2% 10.0% 11.5% 5.1% 7.0% 7.3% 9.1% 8.9% 8.6%
+                      Migliore + 1    19.0% 16.0% 19.8% 15.7% 15.7% 17.2% 20.0% 25.7% 28.1% 19.7%
+                     Peggiore - 1     18.4% 16.5% 15.8% 19.9% 23.0% 20.8% 20.7% 11.0% 14.9% 17.9%
+                     Peggiore - 2     10.2% 9.4% 7.4% 8.9% 9.4% 8.8% 4.9% 3.9% 5.5% 7.6%
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                      27
+
+                                                                 CORP
+                             2008 2009          2010    2011  2012 2013   2014  2015  2016  TOT
+          Peggiore oltre 2 10.4% 14.3%          8.6%    8.4%  6.8% 9.5%   3.8%  3.9%  2.4%  7.5%
+             Invariato      28.0% 24.9% 24.8% 27.3% 31.1% 29.2% 37.6% 39.5% 34.1% 30.8%
+         Migrazione entro
+                            65.4% 57.4% 60.4% 63.0% 69.9% 67.2% 78.2% 76.2% 77.2% 68.4%
+              1 classe
+         Migrazione entro
+                            84.1% 77.0% 77.8% 83.5% 84.3% 83.0% 90.4% 89.2% 91.6% 84.6%
+              2 classi
+            Withdrawn        8.0%    11.0%      9.5%   11.0% 10.9%   7.7% 7.7%  6.1%  6.0%  8.7%
+                 TD          1.2%     3.1%      2.3%    1.8% 3.1%    2.6% 4.1%  2.5%  1.3%  2.5%
+                                                                  PMI
+                             2008     2009      2010 2011 2012 2013 2014 2015 2016 TOT
+          Migliore oltre 2   4.5%     7.1%      7.8% 6.0% 3.7% 6.4% 7.7% 7.5% 6.9% 6.4%
+            Migliore + 2     7.1%    10.0%     11.6% 8.5% 6.4% 9.5% 10.6% 11.9% 10.6% 9.5%
+            Migliore + 1    15.6%    18.6%     19.7% 19.2% 15.1% 19.4% 21.0% 23.0% 21.9% 19.1%
+            Peggiore - 1    22.4%    19.0%     18.0% 20.4% 22.6% 20.0% 19.0% 17.1% 18.3% 19.7%
+            Peggiore - 2    14.3%    11.0%     10.2% 11.3% 14.0% 10.8% 8.7% 7.4% 7.8% 10.7%
+          Peggiore oltre 2 12.4%     10.7%      7.2% 8.2% 12.2% 7.4% 5.4% 4.7% 4.8% 8.3%
+             Invariato      23.8% 23.7% 25.6% 26.5% 26.0% 26.5% 27.5% 28.4% 29.7% 26.2%
+         Migrazione entro
+                            61.7% 61.2% 63.3% 66.0% 63.7% 66.0% 67.5% 68.5% 69.9% 65.1%
+              1 classe
+         Migrazione entro
+                            83.1% 82.2% 85.1% 85.8% 84.1% 86.2% 86.9% 87.8% 88.3% 85.3%
+              2 classi
+            Withdrawn        7.7%     8.3%      8.2%    8.6% 10.0%   7.2% 6.1%  6.6%  7.4%  7.8%
+                 TD          2.2%     4.3%      3.9%    3.4%  4.6%   5.8% 6.6%  3.5%  2.2%  4.0%
+                                                                 SPMI
+                             2008     2009      2010    2011  2012 2013 2014 2015 2016      TOT
+          Migliore oltre 2   6.6%     7.1%      7.6%    5.9%  4.7% 6.1% 7.0% 7.7% 7.5%      6.7%
+            Migliore + 2     7.8%     8.5%      9.2%    8.2%  6.3% 8.3% 9.7% 10.1% 9.3%     8.5%
+            Migliore + 1    16.1%    17.5%     18.6%   17.4% 15.2% 18.1% 19.0% 21.1% 20.4% 18.0%
+            Peggiore - 1    20.8%    19.4%     18.8%   20.8% 23.6% 20.6% 19.2% 18.0% 17.8% 20.0%
+            Peggiore - 2    12.1%    11.0%     10.6%   11.1% 12.9% 11.0% 9.5% 8.4% 8.7%    10.7%
+          Peggiore oltre 2 10.8%     10.8%      8.9%    9.4% 10.9% 8.9% 7.1% 6.2% 6.7%      9.1%
+             Invariato      25.8%    25.7%     26.3%   27.2% 26.4% 27.0% 28.5% 28.5% 29.5% 27.0%
+         Migrazione entro
+                            62.7%    62.6% 63.7% 65.5% 65.2% 65.7% 66.7% 67.6% 67.8% 65.0%
+              1 classe
+         Migrazione entro
+                            82.6% 82.1% 83.4% 84.7% 84.4% 85.0% 85.9% 86.1% 85.8% 84.3%
+              2 classi
+            Withdrawn       11.2% 10.2%         9.7%    9.2%  9.8%   8.8% 6.9%  8.6%  9.1%  9.4%
+                 TD          2.9% 4.8%          4.6%    4.2%  5.7%   7.1% 7.7%  4.6%  3.3%  4.9%
+                                                                  PLU
+                             2008     2009 2010 2011 2012 2013 2014 2015 2016               TOT
+          Migliore oltre 2   9.5%     9.0% 9.2% 8.4% 6.6% 7.6% 8.8% 10.3% 9.9%              8.7%
+            Migliore + 2     8.2%     7.8% 8.7% 7.7% 6.5% 7.3% 8.0% 8.9% 8.3%               7.9%
+            Migliore + 1    15.8%    15.0% 18.0% 16.7% 15.1% 15.5% 16.5% 17.2% 18.5%       16.4%
+            Peggiore - 1    19.4%    20.2% 18.4% 19.7% 22.3% 21.8% 19.9% 18.4% 16.3%       19.8%
+            Peggiore - 2    11.6%    11.8% 9.4% 9.9% 11.5% 10.4% 9.2% 8.8% 7.4%            10.2%
+          Peggiore oltre 2 10.3%     10.6% 8.0% 9.4% 11.0% 9.7% 8.7% 8.3% 8.5%              9.5%
+             Invariato      25.3%    25.5% 28.3% 28.2% 27.1% 27.8% 28.9% 28.0% 31.2%       27.5%
+AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                 28
+
+                                                                 PLU
+                             2008     2009      2010   2011  2012 2013   2014 2015 2016 TOT
+         Migrazione entro
+                            60.5% 60.8% 64.7% 64.6% 64.4% 65.0% 65.3% 63.7% 66.0% 63.6%
+              1 classe
+         Migrazione entro
+                            80.2% 80.3% 82.8% 82.2% 82.5% 82.8% 82.5% 81.4% 81.7% 81.8%
+              2 classi
+            Withdrawn       11.2% 10.7% 12.7% 10.3% 10.5% 9.1% 8.5% 9.7% 11.7% 10.6%
+                 TD          4.7% 6.0% 6.0% 7.1% 10.0% 10.9% 16.2% 11.3% 7.1% 8.5%
+                                                                 SB
+                             2008 2009 2010 2011 2012 2013 2014 2015 2016 TOT
+          Migliore oltre 2 10.6% 10.0% 10.5% 8.9% 7.9% 8.3% 9.4% 9.8% 10.0% 9.5%
+            Migliore + 2     8.5% 8.2% 8.3% 7.4% 6.5% 7.1% 7.3% 8.1% 7.7% 7.7%
+            Migliore + 1    16.1% 16.7% 17.8% 17.1% 15.1% 16.1% 17.5% 19.8% 17.8% 17.0%
+            Peggiore - 1    17.9% 17.9% 17.9% 18.2% 20.4% 20.0% 18.4% 16.4% 16.7% 18.2%
+            Peggiore - 2     9.9% 9.4% 8.3% 8.7% 9.6% 8.4% 7.4% 6.8% 6.8% 8.5%
+          Peggiore oltre 2 10.8% 10.7% 8.6% 9.1% 10.0% 8.5% 6.8% 7.6% 7.3% 9.1%
+             Invariato      26.2% 27.1% 28.7% 30.6% 30.5% 31.5% 33.2% 31.4% 33.8% 29.9%
+         Migrazione entro
+                            60.2% 61.8% 64.4% 65.9% 65.9% 67.7% 69.1% 67.6% 68.3% 65.1%
+              1 classe
+         Migrazione entro
+                            78.5% 79.3% 81.0% 82.0% 82.0% 83.2% 83.9% 82.5% 82.8% 81.4%
+              2 classi
+            Withdrawn       10.9% 11.7% 14.0% 10.5% 11.1% 10.3% 9.9% 10.9% 12.6% 11.3%
+                 TD          4.3% 5.2% 4.9% 5.1% 6.6% 7.1% 10.4% 7.0% 4.9% 6.0%
+                                                                 SDP
+                             2008 2009 2010 2011 2012 2013 2014 2015 2016 TOT
+          Migliore oltre 2 10.6% 10.3% 9.6% 8.8% 7.9% 9.1% 8.7% 8.2% 9.1% 9.2%
+            Migliore + 2     6.3% 6.5% 6.8% 5.7% 5.9% 8.2% 5.9% 5.5% 5.5% 6.3%
+            Migliore + 1    17.3% 17.8% 17.7% 17.4% 16.1% 18.0% 17.7% 18.1% 18.8% 17.6%
+            Peggiore - 1    14.5% 14.3% 14.1% 14.6% 15.3% 13.1% 13.1% 12.9% 11.7% 13.9%
+            Peggiore - 2     7.8% 8.0% 7.2% 7.6% 8.3% 7.0% 6.9% 6.3% 5.9% 7.3%
+          Peggiore oltre 2 10.5% 10.7% 9.4% 9.1% 9.7% 8.3% 7.8% 9.4% 8.4% 9.4%
+             Invariato      33.2% 32.3% 35.3% 36.8% 36.7% 36.2% 39.8% 39.7% 40.7% 36.3%
+         Migrazione entro
+                            64.9% 64.5% 67.1% 68.8% 68.1% 67.4% 70.6% 70.6% 71.2% 67.8%
+              1 classe
+         Migrazione entro
+                            78.9% 79.0% 81.1% 82.1% 82.4% 82.6% 83.4% 82.4% 82.5% 81.4%
+              2 classi
+            Withdrawn       10.2%     9.0%     10.6%   7.1%  7.0%   7.1% 6.9%  7.4%  8.3%  8.3%
+                 TD          4.2%     4.2%      4.5%   4.5%  5.2%   6.0% 8.9%  5.8%  4.2%  5.2%
+                                                                 DIN
+                             2008 2009 2010 2011             2012 2013 2014 2015 2016 TOT
+          Migliore oltre 2 10.4% 9.8% 9.1% 8.6%              7.6% 7.6% 7.7% 6.3% 9.2% 8.6%
+            Migliore + 2     7.9% 7.8% 7.4% 6.8%             6.6% 6.9% 7.2% 6.1% 6.8% 7.1%
+            Migliore + 1    18.2% 19.3% 20.2% 19.3%         19.5% 20.2% 20.0% 20.6% 20.6% 19.7%
+            Peggiore - 1    14.8% 14.3% 13.7% 13.9%         13.9% 13.3% 12.2% 12.1% 11.1% 13.4%
+            Peggiore - 2     9.1% 8.3% 7.7% 7.8%             7.8% 7.3% 6.7% 7.0% 6.1% 7.6%
+          Peggiore oltre 2 8.2% 7.3% 6.0% 6.1%               6.2% 5.8% 5.1% 6.3% 5.2% 6.3%
+             Invariato      31.3% 33.2% 36.0% 37.6%         38.3% 38.9% 41.1% 41.6% 41.1% 37.3%
+         Migrazione entro
+                            64.4% 66.8% 69.9% 70.7%         71.8% 72.4% 73.3% 74.3% 72.8% 70.4%
+              1 classe
+         Migrazione entro
+                            81.5% 82.9% 84.9% 85.4% 86.2% 86.5% 87.2% 87.4% 85.7% 85.1%
+              2 classi
+AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                29
+
+                                                                     DIN
+                                      2008   2009    2010   2011 2012 2013      2014    2015     2016   TOT
+                     Withdrawn        8.2%   8.4%    9.5%   6.4% 6.3% 6.2%      6.1%    6.1%     8.9%   7.4%
+                          TD          5.0%   5.1%    5.5%   4.9% 6.1% 5.7%      9.3%    6.4%     4.6%   5.8%
+                                                                     COI
+                                      2008 2009 2010 2011 2012 2013 2014 2015 2016 TOT
+                   Migliore oltre 2   9.8% 8.6% 8.7% 5.7% 5.7% 5.9% 5.3% 4.4% 5.4% 6.9%
+                    Migliore + 2      9.6% 9.0% 6.0% 4.5% 4.8% 4.7% 4.8% 4.6% 4.5% 6.2%
+                    Migliore + 1     11.7% 11.9% 10.3% 9.0% 8.9% 9.0% 9.8% 9.2% 9.1% 10.2%
+                    Peggiore - 1     11.7% 11.6% 11.4% 11.8% 11.7% 11.4% 10.9% 10.8% 11.1% 11.3%
+                    Peggiore - 2      7.6% 6.3% 5.8% 6.7% 6.2% 6.3% 5.8% 5.9% 5.7% 6.2%
+                  Peggiore oltre 2 8.1% 7.7% 7.1% 8.8% 8.5% 7.5% 6.7% 8.3% 6.4% 7.4%
+                      Invariato      41.3% 45.0% 50.6% 53.6% 54.2% 55.2% 56.6% 56.8% 57.8% 51.8%
+                  Migrazione entro
+                                     64.8% 68.5% 72.4% 74.4% 74.9% 75.6% 77.4% 76.7% 78.0% 73.3%
+                       1 classe
+                  Migrazione entro
+                                     82.1% 83.8% 84.2% 85.5% 85.9% 86.6% 88.0% 87.2% 88.2% 85.7%
+                       2 classi
+                     Withdrawn       10.2%   9.6%    8.8%   5.9% 4.6%   4.3%    5.0%    5.7%     6.6%   7.2%
+                          TD          1.2%   1.1%    1.1%   1.0% 1.2%   1.0%    2.4%    2.2%     1.4%   1.5%
+                                                                     SPF
+                                      2008   2009 2010 2011 2012 2013 2014 2015 2016 TOT
+                   Migliore oltre 2  11.6%   9.3% 9.0% 6.1% 5.5% 6.0% 5.4% 5.1% 5.7% 7.6%
+                    Migliore + 2     10.9%   9.4% 7.6% 6.1% 5.9% 5.9% 6.2% 5.9% 6.0% 7.5%
+                    Migliore + 1     13.7%  13.5% 13.3% 11.6% 11.6% 11.3% 12.1% 11.7% 11.5% 12.5%
+                    Peggiore - 1     12.4%  12.1% 11.9% 12.4% 12.4% 12.0% 11.2% 11.4% 12.0% 11.9%
+                    Peggiore - 2      7.3%   6.6% 6.4% 6.9% 6.8% 7.0% 6.3% 6.6% 6.7% 6.7%
+                  Peggiore oltre 2    8.4%   8.0% 7.2% 8.2% 8.7% 7.0% 6.3% 7.3% 6.6% 7.3%
+                      Invariato      35.7%  41.2% 44.6% 48.7% 49.1% 50.8% 52.3% 52.0% 51.6% 46.5%
+                  Migrazione entro
+                                     61.8% 66.7% 69.8% 72.7% 73.1% 74.1% 75.7% 75.0% 75.1% 70.8%
+                       1 classe
+                  Migrazione entro
+                                     80.0% 82.7% 83.8% 85.8% 85.8% 87.0% 88.2% 87.6% 87.8% 85.1%
+                       2 classi
+                     Withdrawn       10.8% 11.2% 10.1%      7.0% 6.2%   5.5%    7.2%    6.2%    15.5%   9.5%
+                          TD          1.9% 1.6% 1.8%        1.4% 2.1%   1.2%    2.4%    2.3%     1.5%   1.8%
+          11.1 Test Filosofia di rating
+Sulla base del documento interno D02221 ‘Identificazione e gestione del model change (rischio di credito)’ che norma,
+all’interno del GMPS, le casistiche di Model change (come previsto dal Reg. Del. (U/E) 529/2014), abbiamo verificato
+se la modifica della lunghezza della serie storica abbia comportato una modifica alla filosofia di rating dei modelli. A
+tale scopo abbiamo testato le matrici di migrazione relative a PD attualmente in produzione vs PD nuova calibrazione.
+Affinché si possa parlare di modifiche sostanziali alla filosofia di rating, le seguenti condizioni devono essere
+soddisfatte:
+• L’indice Entro 2 classi =70%, valutato per teste, per almeno un modello di rating, dove per Indice ‘Entro 2’ classi si
+intende il rapporto tra il numero di posizioni che hanno avuto una variazione del rating tra la data di inizio e quella di
+fine anno uguale o inferiore a 2 notch (sia in miglioramento sia in peggioramento) e il totale posizioni alla data di inizio
+anno al netto degli usciti;
+• L’indice Entro 2 classi =70%, valutato per esposizione, per almeno un modello di rating.
+I risultati di sintesi sulle matrici di migrazione PD di produzione vs. PD ricalibrata riportati di seguito mostrano come
+l’allungamento delle serie storiche non abbia rappresentato una variazione alla filosofia del sistema di rating, infatti la
+migrazione entro le 2 classi è ampiamente al di sotto della soglia prevista dal framework sul model change del 70%,
+sia per teste, sia per importi.
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                   30
+
+                                               - Sintesi risultati matrici di migrazione – Teste -
+                                                              PD REGOLAMENTARE PER TESTE
+                                        LC      CORP       PMI    SPMI      PLU       SB        SDP        DIN COI  SPF
+                  Migliore oltre 2     0.0%      0.5%     1.3%    1.0%      0.7%     0.4%       0.5%     0.3%  1.3% 1.1%
+                    Migliore + 2       0.3%      1.8%     5.5%    3.7%      1.1%     0.9%       0.7%     0.8%  3.1% 2.2%
+                    Migliore + 1       1.0%     14.3% 33.5% 34.2% 25.2% 23.5% 13.2% 11.7% 52.9% 45.4%
+                    Peggiore - 1      21.8%      8.2%     7.6%    4.2%      3.9%     3.0%       3.0%     3.6%  2.9% 2.8%
+                    Peggiore - 2       0.7%      0.2%     1.4%    1.2%      2.4%     1.5%       1.0%     1.6%  0.9% 1.4%
+                  Peggiore oltre 2     0.0%      0.5%     0.8%    0.9%      2.0%     1.9%       2.2%     2.2%  1.1% 1.5%
+                     Invariato        76.2%     74.5% 50.0% 54.7% 64.7% 68.8% 79.4% 79.7% 37.8% 45.5%
+                 Migrazione entro
+                                      99.0%     97.0% 91.0% 93.1% 93.8% 95.3% 95.6% 95.0% 93.5% 93.8%
+                      1 classe
+                 Migrazione entro
+                                     100.0% 99.1% 98.0% 98.0% 97.3% 97.7% 97.3% 97.4% 97.5% 97.4%
+                      2 classi
+                                              - Sintesi risultati matrici di migrazione – Importi -
+                                                             PD REGOLAMENTARE PER IMPORTI
+                                        LC      CORP       PMI    SPMI      PLU       SB        SDP        DIN COI  SPF
+                  Migliore oltre 2     0.0%      0.3%     1.0%    0.8%      1.6%     0.3%       0.4%     0.2%  1.2% 1.2%
+                    Migliore + 2       0.0%      0.8%     4.1%    3.4%      1.9%     1.1%       0.6%     1.0%  3.2% 2.9%
+                    Migliore + 1       0.5%     15.4% 32.0% 31.1% 21.0% 21.6% 11.1% 11.8% 49.5% 42.1%
+                    Peggiore - 1      26.2%      5.8%     7.8%    5.8%      5.7%     3.3%       4.8%     4.9%  3.2% 3.3%
+                    Peggiore - 2       0.5%      0.4%     1.6%    2.3%      2.9%     2.0%       0.9%     1.5%  0.9% 1.1%
+                  Peggiore oltre 2     0.0%      2.7%     1.7%    3.2%      2.8%     4.8%       4.9%     3.2%  1.6% 1.7%
+                     Invariato        72.7%     74.6% 51.9% 53.3% 64.0% 66.9% 77.4% 77.4% 40.4% 47.8%
+                 Migrazione entro
+                                      99.5%     95.9% 91.6% 90.2% 90.7% 91.9% 93.3% 94.1% 93.2% 93.1%
+                      1 classe
+                 Migrazione entro
+                                     100.0% 97.0% 97.3% 95.9% 95.6% 95.0% 94.8% 96.6% 97.2% 97.1%
+                      2 classi
+          11.2 Test Binomiali
+Di seguito si riportano gli esiti dei testi binomiali eseguiti utilizzando le nuove PD ricalibrate post applicazione del
+                        10
+MOC_FORBORNE : PD up è il limite superiore dell’intervallo di confidenza e PD down è il limite inferiore; in rosso
+sono evidenziati gli esiti negativi del test (tasso di default superiore o inferiore ai limiti), in giallo i casi in cui il tasso di
+default risulta anche al di fuori dei limiti di classe.
+I risultati dei test mostrano per i modelli corporate alcuni esiti negativi sulle classi di rating inferiori (v. colonna PD up) e
+allo stesso tempo una diminuzione dei tassi di default per le classi centrali (principalmente fascia B e C) in cui il
+binomiale fallisce per via di tassi di default al di sotto dell’intervallo di confidenza (v. colonna PD down).
+Per il Retail invece si osserva un numero elevato di classi per cui il TD è inferiore rispetto al limite di classe.
+10
+   I segmenti LC e CORP in quanto Low Default Portfolios non consentono l’applicazione dei test binomiali.
+      AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                             31
+
+Dal punto di vista prudenziale si osserva comunque che il livello di scostamento tra PD e TD per le classi in cui
+PD<TD è molto ridotto (quasi sempre inferiore al 10%).
+                          - Risultati dei test binomiali sulla popolazione di calibrazione a 10 anni -
+                                                          PMI                                     SPMI
+  Rating     PD     Min     Max          N         Def Rate   PD up  PD down         N       Def Rate  PD up  PD down
+  AA1      0.03%     0%    0.04%           1 887     0.00%     0.12%   0.00%          1 143   0.00%    0.15%    0.00%
+  AA2      0.05%   0.04%   0.07%           3 012     0.07%     0.14%   0.00%          3 032   0.00%    0.14%    0.00%
+  AA3      0.09%   0.07%   0.11%           3 940     0.13%     0.20%   0.00%          4 231   0.07%    0.20%    0.00%
+  A1       0.13%   0.11%   0.16%           4 545     0.09%     0.25%   0.01%          5 267   0.13%    0.25%    0.01%
+  A2       0.20%   0.16%   0.24%           6 354     0.17%     0.33%   0.07%          7 529   0.21%    0.32%    0.08%
+  A3       0.30%   0.24%   0.37%           8 420     0.28%     0.44%   0.16%         10 130   0.25%    0.43%    0.17%
+  B1       0.46%   0.37%   0.56%           9 138     0.34%     0.62%   0.30%         12 392   0.30%    0.60%    0.32%
+  B2       0.69%   0.56%   0.85%           9 811     0.45%     0.88%   0.50%         15 165   0.51%    0.85%    0.53%
+  B3       1.05%   0.85%   1.29%           9 780     0.80%     1.29%   0.81%         17 365   0.76%    1.23%    0.87%
+  C1       1.59%   1.29%   1.96%           9 551     1.58%     1.89%   1.29%         18 657   1.09%    1.80%    1.38%
+  C2       2.42%   1.96%   2.98%           8 576     2.19%     2.81%   2.03%         18 677   2.31%    2.68%    2.16%
+  C3       3.99%   2.98%   4.53%           7 457     3.43%     4.52%   3.46%         16 448   3.44%    4.35%    3.63%
+  D1       6.31%   4.53%   6.87%           6 124     6.06%     7.03%   5.59%         12 766   6.26%    6.81%    5.81%
+  D2       9.95%   6.87%  10.43%           4 686     9.03%    10.97%   8.93%          9 796   9.13%   10.65%    9.25%
+  D3      16.03% 10.43% 17.74%             4 175    15.59%    17.35%  14.71%          7 965  15.52%   16.99%   15.07%
+  E1      22.12% 17.74% 27.32%             2 052    23.35%    24.25%  19.99%          4 480  23.55%   23.56%   20.68%
+  E2      31.63% 27.32% 42.07%             1 331    34.74%    34.60%  28.66%          2 714  35.11%   33.70%   29.56%
+  E3      45.00% 42.07%    100%            1 394    52.74%    48.10%  41.90%          3 088  55.01%   47.08%   42.92%
+                                        102 233      3.83%        2       3        170 845    4.77%       2        6
+                                                         PLU                                       SB
+ Rating     PD      Min    Max           N         Def Rate   PD up  PD down         N       Def Rate  PD up  PD down
+ AA1      0.03%     0%    0.04%                 4    0.00%     2.05%   0.00%
+ AA2      0.05%   0.04%   0.07%               59     0.00%     0.73%   0.00%              76   0.00%    0.65%    0.00%
+ AA3      0.09%   0.07%   0.11%              308     0.00%     0.49%   0.00%            991    0.10%    0.31%    0.00%
+ A1       0.13%   0.11%   0.16%              656     0.16%     0.46%   0.00%          3 835    0.16%    0.27%    0.00%
+ A2       0.20%   0.16%   0.24%           1 302      0.24%     0.49%   0.00%         10 993    0.13%    0.30%    0.10%
+ A3       0.30%   0.24%   0.37%           2 206      0.19%     0.57%   0.03%         20 245    0.15%    0.39%    0.21%
+ B1       0.46%   0.37%   0.56%           3 002      0.44%     0.75%   0.17%         23 098    0.26%    0.56%    0.36%
+ B2       0.69%   0.56%   0.85%           3 892      0.42%     1.00%   0.38%         27 991    0.48%    0.81%    0.57%
+ B3       1.05%   0.85%   1.29%           5 130      0.82%     1.38%   0.72%         44 542    0.69%    1.16%    0.94%
+ C1       1.59%   1.29%   1.96%           7 778      0.92%     1.92%   1.26%         71 777    0.94%    1.70%    1.48%
+ C2       2.42%   1.96%   2.98%          11 619      1.63%     2.75%   2.09%         91 886    1.58%    2.54%    2.30%
+ C3       3.99%   2.98%   4.53%          15 836      2.64%     4.35%   3.63%         95 965    3.10%    4.14%    3.84%
+ D1       6.31%   4.53%   6.87%          16 240      5.40%     6.75%   5.87%         75 735    6.11%    6.52%    6.10%
+ D2       9.95%   6.87%  10.43%          12 624      9.60%    10.57%   9.33%         49 165   10.57%   10.26%    9.64%
+ D3      16.03% 10.43% 17.74%            10 450     15.70%    16.86%  15.20%         37 807   16.72%   16.47%   15.59%
+ E1      22.12% 17.74% 27.32%             5 876     24.87%    23.38%  20.86%         20 848   23.44%   22.79%   21.45%
+ E2      31.63% 27.32% 42.07%             3 545     33.96%    33.44%  29.82%         11 411   33.05%   32.64%   30.62%
+ E3      45.00% 42.07%    100%            3 203     51.48%    47.03%  42.97%         10 299   48.26%   46.14%   43.86%
+   AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                   32
+
+                                                        PLU                                   SB
+Rating    PD      Min     Max           N         Def Rate   PD up  PD down     N      Def Rate   PD up  PD down
+                                      103 730       8.52%        3       4     596 664   5.95%        5        7
+                                                        SDP                                  DIN
+Rating    PD      Min     Max           N         Def Rate   PD up  PD down     N      Def Rate   PD up  PD down
+AA1     0.03%     0%     0.04%              123     0.00%     0.39%   0.00%        135   0.00%     0.38%    0.00%
+AA2     0.05%   0.04%    0.07%              805     0.13%     0.23%   0.00%        878   0.00%     0.23%    0.00%
+AA3     0.09%   0.07%    0.11%           2 788      0.07%     0.22%   0.00%      2 316   0.13%     0.23%    0.00%
+A1      0.13%   0.11%    0.16%           5 547      0.04%     0.24%   0.02%      4 773   0.08%     0.25%    0.01%
+A2      0.20%   0.16%    0.24%          11 253      0.04%     0.30%   0.10%     10 828   0.09%     0.30%    0.10%
+A3      0.30%   0.24%    0.37%          18 390      0.13%     0.39%   0.21%     23 708   0.25%     0.38%    0.22%
+B1      0.46%   0.37%    0.56%          25 356      0.21%     0.56%   0.36%     42 090   0.22%     0.54%    0.38%
+B2      0.69%   0.56%    0.85%          31 664      0.39%     0.80%   0.58%     70 017   0.42%     0.76%    0.62%
+B3      1.05%   0.85%    1.29%          35 663      0.72%     1.18%   0.92%    108 508   0.56%     1.12%    0.98%
+C1      1.59%   1.29%    1.96%          46 916      1.07%     1.72%   1.46%    146 537   0.99%     1.67%    1.51%
+C2      2.42%   1.96%    2.98%          64 286      1.67%     2.56%   2.28%    169 284   1.74%     2.51%    2.33%
+C3      3.99%   2.98%    4.53%          69 926      3.11%     4.16%   3.82%    164 172   3.08%     4.10%    3.88%
+D1      6.31%   4.53%    6.87%          53 023      6.39%     6.56%   6.06%    110 403   6.02%     6.48%    6.14%
+D2      9.95%   6.87%   10.43%          28 477     11.06%    10.36%   9.54%     63 315  11.46%    10.23%    9.67%
+D3     16.03% 10.43% 17.74%             21 560     16.33%    16.61%  15.45%     54 809  17.82%    16.39%   15.67%
+E1     22.12% 17.74% 27.32%             11 956     24.35%    23.00%  21.24%     33 890  25.14%    22.64%   21.60%
+E2     31.63% 27.32% 42.07%              6 608     32.52%    32.96%  30.30%     20 685  33.97%    32.38%   30.88%
+E3     45.00% 42.07%     100%            6 257     46.77%    46.46%  43.54%     19 319  46.22%    45.83%   44.17%
+                                      440 598       5.06%        3       8  1 045 667    5.61%        5        8
+                                                         COI                                 SPF
+Rating     PD     Min      Max          N         Def Rate   PD up  PD down     N      Def Rate  PD up   PD down
+A1       0.13%   0.11%    0.16%        713 538      0.07%     0.14%   0.12%   649 002   0.08%     0.14%    0.12%
+A2       0.20%   0.16%    0.24%        163 758      0.19%     0.23%   0.17%   516 322   0.13%     0.21%    0.19%
+A3       0.30%   0.24%    0.37%        201 904      0.30%     0.33%   0.27%   481 527   0.22%     0.32%    0.28%
+B1       0.46%   0.37%    0.56%        221 923      0.37%     0.49%   0.43%   452 328   0.33%     0.48%    0.44%
+B2       0.69%   0.56%    0.85%        498 045      0.33%     0.72%   0.66%   382 061   0.53%     0.72%    0.66%
+B3       1.05%   0.85%    1.29%        225 372      0.91%     1.10%   1.00%   289 279   0.94%     1.09%    1.01%
+C1       1.59%   1.29%    1.96%        169 592      1.54%     1.66%   1.52%   307 513   1.21%     1.64%    1.54%
+C2       2.42%   1.96%    2.98%        109 003      2.72%     2.53%   2.31%   216 060   2.25%     2.50%    2.34%
+C3       3.99%   2.98%    4.53%         64 019      4.96%     4.17%   3.81%   144 366   5.29%     4.11%    3.87%
+D1       6.31%   4.53%    6.87%         44 486      7.38%     6.58%   6.04%     98 195  6.98%     6.49%    6.13%
+D2       9.95%   6.87%   10.43%         34 119     10.95%    10.33%   9.57%     76 711  9.55%    10.20%    9.70%
+D3      16.03% 10.43% 17.74%            38 810     15.42%    16.46%  15.60%     78 790 15.49%    16.33%   15.73%
+E1      22.12% 17.74% 27.32%            13 422     22.72%    22.95%  21.29%     39 713 19.88%    22.60%   21.64%
+E2      31.63% 27.32% 42.07%             7 940     26.43%    32.84%  30.42%     14 233 29.92%    32.54%   30.72%
+E3      45.00% 42.07%     100%           5 698     32.30%    46.53%  43.47%      8 057 35.46%    46.29%   43.71%
+                                    2 511 629       1.38%        4       7  3 754 157   1.76%        2       13
+  AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                              33
+
+I test binomiali sono stati effettuati anche sull’ultimo anno delle serie storica e, considerando il limite superiore
+dell’intervallo di confidenza, gli esiti sono soddisfacenti per tutti i modelli
+.
+                       - Risultati dei test binomiali sull’ultimo anno incluso nella popolazione di calibrazione -
+                                                             PMI                                      SPMI
+  Rating      PD      Min       Max           N       Def Rate    PD up   PD down        N       Def Rate   PD up  PD down
+  AA1       0.03%      0%      0.04%             225    0.00%     0.30%     0.00%           150   0.00%      0.36%   0.00%
+  AA2       0.05%    0.04%     0.07%             343    0.00%     0.33%     0.00%           322   0.00%      0.34%   0.00%
+  AA3       0.09%    0.07%     0.11%             472    0.00%     0.41%     0.00%           482   0.00%      0.41%   0.00%
+  A1        0.13%    0.11%     0.16%             521    0.00%     0.50%     0.00%           567   0.18%      0.48%   0.00%
+  A2        0.20%    0.16%     0.24%             736    0.00%     0.58%     0.00%           824   0.12%      0.56%   0.00%
+  A3        0.30%    0.24%     0.37%             937    0.43%     0.72%     0.00%         1 066   0.19%      0.69%   0.00%
+  B1        0.46%    0.37%     0.56%           1 025    0.10%     0.95%     0.00%         1 275   0.47%      0.90%   0.02%
+  B2        0.69%    0.56%     0.85%           1 011    0.40%     1.30%     0.08%         1 491   0.60%      1.19%   0.19%
+  B3        1.05%    0.85%     1.29%             928    0.86%     1.83%     0.27%         1 667   0.84%      1.63%   0.47%
+  C1        1.59%    1.29%     1.96%             821    2.44%     2.61%     0.57%         1 583   1.39%      2.32%   0.86%
+  C2        2.42%    1.96%     2.98%             721    2.91%     3.75%     1.09%         1 517   2.31%      3.34%   1.50%
+  C3        3.99%    2.98%     4.53%             539    3.34%     5.95%     2.03%         1 100   3.36%      5.36%   2.62%
+  D1        6.31%    4.53%     6.87%             338    6.80%     9.39%     3.23%           683   7.61%      8.47%   4.15%
+  D2        9.95%    6.87%    10.43%             224    8.04%    14.60%     5.30%           430  10.47%     13.31%   6.59%
+  D3       16.03% 10.43% 17.74%                  228   12.72%    21.68%    10.38%           260  21.54%     21.32%  10.74%
+  E1       22.12% 17.74% 27.32%                   45   26.67%    36.51%     7.73%           277  18.77%     27.92%  16.32%
+  E2       31.63% 27.32% 42.07%                   22   31.82%    54.69%     8.57%            65  35.38%     45.05%  18.21%
+  E3       45.00% 42.07%       100%               12   50.00%    78.41%    11.59%            32  43.75%     65.46%  24.54%
+                                               9 148    1.87%        0         0         13 791   2.68%         1       0
+                                                             PLU                                       SB
+  Rating      PD      Min       Max           N       Def Rate    PD up   PD down        N       Def Rate   PD up  PD down
+  AA1       0.03%      0%      0.04%
+  AA2       0.05%    0.04%     0.07%               9    0.00%     1.78%     0.00%            21   0.00%      1.18%   0.00%
+  AA3       0.09%    0.07%     0.11%              29    0.00%     1.39%     0.00%           164   0.00%      0.63%   0.00%
+  A1        0.13%    0.11%     0.16%              78    0.00%     1.08%     0.00%           455   0.44%      0.52%   0.00%
+  A2        0.20%    0.16%     0.24%             163    0.00%     1.01%     0.00%         1 189   0.00%      0.50%   0.00%
+  A3        0.30%    0.24%     0.37%             253    0.00%     1.10%     0.00%         2 109   0.28%      0.58%   0.02%
+  B1        0.46%    0.37%     0.56%             294    0.68%     1.38%     0.00%         2 470   0.40%      0.78%   0.14%
+  B2        0.69%    0.56%     0.85%             362    0.83%     1.70%     0.00%         2 970   0.37%      1.04%   0.34%
+  B3        1.05%    0.85%     1.29%             474    1.69%     2.14%     0.00%         4 575   0.63%      1.40%   0.70%
+  C1        1.59%    1.29%     1.96%             704    0.85%     2.69%     0.49%         6 904   0.72%      1.94%   1.24%
+  C2        2.42%    1.96%     2.98%             947    2.22%     3.58%     1.26%         7 803   1.88%      2.82%   2.02%
+  C3        3.99%    2.98%     4.53%           1 193    3.44%     5.31%     2.67%         6 891   3.09%      4.54%   3.44%
+  D1        6.31%    4.53%     6.87%           1 004    6.18%     8.10%     4.52%         4 445   6.91%      7.16%   5.46%
+  D2        9.95%    6.87%    10.43%             600   11.33%    12.79%     7.11%         2 137  12.26%     11.46%   8.44%
+  D3       16.03% 10.43% 17.74%                  348   19.83%    20.61%    11.45%         1 252  17.97%     18.44%  13.62%
+  E1       22.12% 17.74% 27.32%                  369   22.76%    27.15%    17.09%         1 712  19.63%     24.45%  19.79%
+  E2       31.63% 27.32% 42.07%                   75   40.00%    44.12%    19.14%           252  30.95%     38.44%  24.82%
+     AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                       34
+
+                                                        PLU                             SB
+Rating    PD     Min      Max           N         Def Rate  PD up  PD down  N      Def Rate PD up  PD down
+E3     45.00% 42.07%     100%                42    40.48%   62.86%  27.14%     158 45.57%   54.21%  35.79%
+                                         6 944      5.92%       0       0   45 507  3.84%       1       5
+                                                        SDP                             DIN
+Rating    PD     Min      Max           N         Def Rate  PD up  PD down  N      Def Rate PD up  PD down
+AA1     0.03%     0%     0.04%               13     0.00%    1.15%   0.00%      19  0.00%    0.95%   0.00%
+AA2     0.05%   0.04%    0.07%               99     0.00%    0.57%   0.00%     102  0.00%    0.56%   0.00%
+AA3     0.09%   0.07%    0.11%              319     0.31%    0.48%   0.00%     256  0.00%    0.53%   0.00%
+A1      0.13%   0.11%    0.16%              575     0.00%    0.48%   0.00%     484  0.21%    0.51%   0.00%
+A2      0.20%   0.16%    0.24%           1 051      0.10%    0.52%   0.00%   1 059  0.09%    0.52%   0.00%
+A3      0.30%   0.24%    0.37%           1 727      0.17%    0.61%   0.00%   2 248  0.18%    0.57%   0.03%
+B1      0.46%   0.37%    0.56%           2 313      0.22%    0.79%   0.13%   4 148  0.19%    0.70%   0.22%
+B2      0.69%   0.56%    0.85%           2 837      0.32%    1.05%   0.33%   6 576  0.44%    0.93%   0.45%
+B3      1.05%   0.85%    1.29%           3 381      0.53%    1.46%   0.64%  10 506  0.48%    1.28%   0.82%
+C1      1.59%   1.29%    1.96%           4 304      0.93%    2.03%   1.15%  13 169  1.06%    1.84%   1.34%
+C2      2.42%   1.96%    2.98%           5 137      1.60%    2.92%   1.92%  14 019  1.58%    2.72%   2.12%
+C3      3.99%   2.98%    4.53%           4 747      2.89%    4.65%   3.33%  10 988  3.34%    4.42%   3.56%
+D1      6.31%   4.53%    6.87%           2 678      5.56%    7.40%   5.22%   6 213  6.29%    7.03%   5.59%
+D2      9.95%   6.87%   10.43%           1 149     10.70%   12.00%   7.90%   2 654 13.07%   11.30%   8.60%
+D3     16.03% 10.43% 17.74%                 668    16.17%   19.33%  12.73%   1 702 20.68%   18.10%  13.96%
+E1     22.12% 17.74% 27.32%              1 046     19.98%   25.11%  19.13%   2 498 18.69%   24.05%  20.19%
+E2     31.63% 27.32% 42.07%                 169    37.87%   39.95%  23.31%     465 36.34%   36.65%  26.61%
+E3     45.00% 42.07%     100%               131    49.62%   55.11%  34.89%     280 47.86%   51.92%  38.08%
+                                        32 344      3.14%       0       5   77 386  3.47%       2       7
+                                                        COI                             SPF
+Rating    PD     Min      Max           N         Def Rate  PD up  PD down  N      Def Rate PD up  PD down
+A1      0.13%   0.11%    0.16%          65 086      0.06%    0.16%   0.10%  61 082  0.07%    0.16%   0.10%
+A2      0.20%   0.16%    0.24%          14 466      0.15%    0.29%   0.11%  38 724  0.12%    0.25%   0.15%
+A3      0.30%   0.24%    0.37%          17 306      0.20%    0.40%   0.20%  37 449  0.23%    0.37%   0.23%
+B1      0.46%   0.37%    0.56%          20 670      0.23%    0.57%   0.35%  37 878  0.22%    0.54%   0.38%
+B2      0.69%   0.56%    0.85%          47 253      0.25%    0.78%   0.60%  35 270  0.38%    0.79%   0.59%
+B3      1.05%   0.85%    1.29%          19 567      0.64%    1.22%   0.88%  22 774  0.74%    1.21%   0.89%
+C1      1.59%   1.29%    1.96%          13 652      1.11%    1.84%   1.34%  30 484  0.93%    1.76%   1.42%
+C2      2.42%   1.96%    2.98%           8 586      2.27%    2.81%   2.03%  17 282  2.38%    2.69%   2.15%
+C3      3.99%   2.98%    4.53%           4 106      4.16%    4.70%   3.28%   9 809  4.87%    4.45%   3.53%
+D1      6.31%   4.53%    6.87%           2 454      6.85%    7.45%   5.17%   6 072  7.53%    7.04%   5.58%
+D2      9.95%   6.87%   10.43%           1 550      8.71%   11.72%   8.18%   3 859 11.09%   11.07%   8.83%
+D3     16.03% 10.43% 17.74%              5 548     11.50%   17.18%  14.88%   7 012 13.66%   17.05%  15.01%
+E1     22.12% 17.74% 27.32%                 622    26.53%   25.99%  18.25%   2 091 11.96%   24.23%  20.01%
+E2     31.63% 27.32% 42.07%                 356    33.71%   37.36%  25.90%     506 28.85%   36.44%  26.82%
+E3     45.00% 42.07%     100%               211    38.86%   52.97%  37.03%     237 40.08%   52.52%  37.48%
+                                      221 433       1.00%       1       7  310 529  1.31%       3       8
+  AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                       35
+
+La tabella seguente riporta il numero di classi in cui il binomiale non è superato, ponendo a confronto gli esiti del test
+effettuato con le PD ante applicazione del MOC_FORBORNE e quello con le PD post MOC_FORBORNE.
+L’applicazione del MOC produce un miglioramento degli esiti dei test binomiali riducendo il numero di classi in cui il
+TD è inferiore alla PD up.
+                             - Risultati dei test binomiali sull’ultimo anno: PD ante MOC vs PD post MOC -
+                                                  PD up                                     PD down
+                   Modello            PD ante               PD post               PD ante             PD post
+                                MOC_FORBORNE          MOC_FORBORNE          MOC_FORBORNE         MOC_FORBORNE
+                     PMI                  0                     0                     0                  0
+                    SPMI                  1                     1                     0                  0
+                     PLU                  1                     0                     0                  0
+                      SB                  4                     1                     2                  5
+                     SDP                  1                     0                     4                  5
+                     DIN                  3                     2                     4                  7
+                     COI                  4                     1                     4                  7
+                     SPF                  3                     3                     7                  8
+         11.3 Applicazione PD
+Per verificare l’impatto della calibrazione, i nuovi parametri sono stati applicati a dicembre 2017 e sono state
+determinate le nuove PD regolamentari calcolate a partire dalla nuova PD statistica, a cui sono stati aggiunti gli effetti
+del rating qualitativo, dell’override e del ribaltamento del rating della holding, senza considerare i cut off sulla stabilità
+del rating che distribuiscono nel tempo gli effetti della nuova calibrazione.
+Di seguito le nuove PD medie per teste, per i diversi segmenti, ante e post applicazione del MOC_FORBORNE, per
+valutare gli impatti.
+                                    - PD medie per teste regolamentari attuali vs ricalibrate –
+                                                      PD in produzione                   Nuove PD medie
+                                                                               Def. atecnico        Def. atecnico
+                                                        Def. atecnico
+                                                                              10Y Corp e Ret       10Y Corp e Ret
+                            Modello                   7Y Corp - 5Y Ret
+                                                        Tr. Moratorie
+                                                                              Allungamento          Allungamento
+                                                                               serie storiche       serie storiche
+                                                                                                           e
+                                                                                                  MOC_FORBORNE
+              LC                                            1.05%                  1.19%                1.19%
+              Corporate                                     1.68%                  1.64%                1.64%
+              PMI                                           2.04%                  1.80%                1.89%
+              SMALL PMI                                     2.55%                  2.20%                2.46%
+              Pluriennali                                   5.58%                  4.87%                5.62%
+              Small Business                                4.03%                  3.53%                4.07%
+              Società di Persone                            3.22%                  2.92%                3.36%
+              Ditte Individuali                             3.23%                  2.96%                3.42%
+              Retail COI                                    1.46%                  0.98%                1.25%
+              Retail SPF                                    1.50%                  1.21%                1.41%
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                     36
+
+Come si può notare l’inclusione delle informazioni sugli anni più recenti e l’allungamento della serie storica a 10 anni
+ha effetti migliorativi per tutti i segmenti. Una volta calcolata la PD secondo i nuovi parametri di calibrazione, va
+applicato il MOC sui forborne, con un conseguente peggioramento di tutte le PD. .
+La tabella seguente riporta gli impatti in termini di RWA e PA prodotti dalla sola calibrazione della PD.
+                                                   - Impatti della calibrazione sull’RWA e sulla PA –
+                                                               Dati al 31 dicembre 2017
+                                                                     Def. atecnico        Def. atecnico
+                                              Def. atecnico                              10Y Corp e Ret
+                                                                    10Y Corp e Ret
+                                            7Y Corp - 5Y Ret
+                                              Tr. Moratorie                              Allungamento
+                                                                     Allungamento
+                                                                     serie storiche       serie storiche
+                                                                                                 e
+                                                                                        MOC_FORBORNE
+                           RWA                  25 464.17               24 190.05           25 277.66
+                    Delta incrementale                                  - 1 274.11          1 087.61
+                            PA                    384.28                  337.24              416.61
+                    Delta incrementale                                    -47.04               79.37
+La tabella mostra come l’applicazione del MOC_FORBORNE abbia un effetto peggiorativo sull’RWA di circa 1 087
+€/mln e di 79 mln/€ circa sulla PA, rispetto all’ipotesi di allungamento delle serie storiche.
+                                              Anchor_Point.xlsx Matrici_10Y_Calib201
+                                                                     8_10_FF.xlsx
+    AREA LENDING RISK OFFICER| Servizio Credit Risk Models
+                                                                                                                 37
+

@@ -1,0 +1,1469 @@
+Guida della BCE sul
+processo interno di
+valutazione dell’adeguatezza
+della liquidità (ILAAP)
+ Novembre 2018
+
+Indice
+1      Introduzione                                                                           2
+       1.1     Finalità                                                                       3
+       1.2     Ambito di applicazione e proporzionalità                                       4
+2      Principi                                                                               5
+       Principio 1: l’organo di amministrazione è responsabile della solida
+       governance dell’ILAAP                                                                  5
+       Principio 2: l’ILAAP è parte integrante del quadro complessivo di
+       gestione                                                                               8
+       Principio 3: l’ILAAP fornisce un contributo fondamentale alla continuità
+       dell’ente assicurandone l’adeguatezza della liquidità da prospettive
+       diverse                                                                               14
+       Principio 4: tutti i rischi rilevanti sono identificati e considerati
+       nell’ILAAP                                                                            20
+       Principio 5: le riserve di liquidità interne sono di qualità elevata e
+       chiaramente definite; le fonti stabili di finanziamento interne sono
+       chiaramente definite                                                                  23
+       Principio 6: le metodologie di quantificazione dei rischi nell’ambito
+       dell’ILAAP sono adeguate, coerenti e convalidate in maniera
+       indipendente                                                                          24
+       Principio 7: lo svolgimento di prove di stress periodiche è teso ad
+       assicurare l’adeguatezza della liquidità in condizioni avverse                        27
+3      Glossario                                                                             31
+Siglario                                                                                     35
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Indice                                                                                        1
+
+1 Introduzione
+  1.      Le recente crisi finanziaria ha messo in luce l’importanza fondamentale della
+          liquidità 1 per gli enti creditizi, in quanto la sua carenza pone rischi immediati per
+          la continuità degli enti stessi. Uno dei principali insegnamenti della crisi 2 è che
+          la gestione del rischio di liquidità deve assicurare la capacità degli enti di
+          adempiere gli obblighi di pagamento in ogni momento, anche in condizioni
+          avverse.
+  2.      Il processo interno di valutazione dell’adeguatezza della liquidità (internal
+          liquidity adequacy assessment process, ILAAP) riveste pertanto un ruolo
+          fondamentale nella gestione dei rischi degli enti creditizi. Per quanto concerne
+          gli enti significativi nell’ambito del Meccanismo di vigilanza unico (MVU), la BCE
+          si attende che, in conformità al disposto dell’articolo 86 della quarta direttiva sui
+          requisiti patrimoniali (Capital Requirements Directive, CRD IV) 3, l’ILAAP sia
+          elaborato in maniera prudente e conservativa 4. La BCE ritiene che ILAAP solidi,
+          efficaci ed esaustivi comprendano una chiara valutazione dei rischi di liquidità
+          nonché un governo dei rischi ben strutturato, ivi compresi processi di
+          segnalazione alla gerarchia superiore (procedure di escalation) basati su una
+          strategia di gestione dei rischi ben ponderata in tutti i suoi aspetti, che si
+          traduca in un efficace sistema di limiti all’assunzione dei rischi.
+  3.      La BCE è dell’avviso che un ILAAP solido, efficace ed esaustivo poggi su due
+          pilastri: la prospettiva economica e la prospettiva normativa. Le due prospettive
+          dovrebbero completarsi e fornirsi informazioni reciprocamente.
+  4.      L’ILAAP fornisce anche un contributo importante al processo di revisione e
+          valutazione prudenziale (Supervisory Review and Evaluation Process, SREP)
+          dell’MVU. Esso alimenta tutte le valutazioni dello SREP e il processo di
+          determinazione della liquidità nell’ambito del secondo pilastro conformemente
+          agli Orientamenti dell’ABE sulle procedure e sulle metodologie comuni per il
+          processo di revisione e valutazione prudenziale (SREP).
+  5.      Nel quadro dello SREP è noto che un ILAAP efficace riduce l’incertezza degli
+          enti creditizi e delle autorità di vigilanza riguardo ai rischi a cui sono o possono
+          essere esposti e accresce la fiducia delle autorità di vigilanza nella capacità
+          degli enti di continuare a operare attraverso il mantenimento di riserve di
+  1
+       Ai fini della presente guida il termine “liquidità” si riferisce sia alla liquidità sia al finanziamento.
+  2
+       Cfr. ad esempio, La risposta del Comitato di Basilea alla crisi finanziaria: rapporto al G20, Comitato di
+       Basilea per la vigilanza bancaria, ottobre 2010.
+  3
+       Direttiva 2013/36/UE del Parlamento europeo e del Consiglio, del 26 giugno 2013, sull’accesso
+       all’attività degli enti creditizi e sulla vigilanza prudenziale sugli enti creditizi e sulle imprese di
+       investimento, che modifica la Direttiva 2002/87/CE e abroga le Direttive 2006/48/CE e 2006/49/CE
+       (GU L 176 del 27.6.2013, pag. 338).
+  4
+       Articolo 86, paragrafo 1, della CRD IV: “Le autorità competenti assicurano che gli enti siano dotati di
+       strategie, politiche, processi e sistemi solidi per identificare, misurare, gestire e monitorare il rischio di
+       liquidità su una serie adeguata di orizzonti temporali, anche infragiornalieri, in modo da assicurare che
+       gli enti mantengano riserve di liquidità di livello adeguato.”
+  Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+  Introduzione                                                                                                        2
+
+           liquidità adeguate e finanziamento stabile, nonché tramite un’efficace gestione
+           dei rischi. Ciò richiede agli enti creditizi di assicurare, in un’ottica prospettica,
+           che tutti i rischi rilevanti siano identificati, efficacemente gestiti (mediante
+           un’appropriata combinazione di quantificazioni e controlli) e coperti da un livello
+           sufficiente di liquidità di qualità elevata.
+1.1 Finalità
+    6.     Lo scopo della presente guida è rendere pubblicamente nota, a fini di
+           trasparenza, la visione della BCE in merito ai requisiti del rischio di liquidità in
+           base all’articolo 86 della CRD IV. La guida mira ad assistere gli enti creditizi nel
+           rafforzare i rispettivi ILAAP e a incoraggiare il ricorso alle migliori prassi
+           spiegando in maggiore dettaglio le aspettative della BCE sull’ILAAP, in vista di
+           una più coerente ed efficace attività di vigilanza.
+    7.     Dalle disposizioni della CRD IV sul rischio di liquidità, la guida attinge sette
+           principi che saranno, fra l’altro, considerati per la valutazione degli ILAAP di
+           ciascun ente creditizio nel quadro dello SREP. Tali principi saranno richiamati
+           anche nell’ambito del dialogo di vigilanza intrattenuto con i singoli enti.
+    8.     La guida non intende sostituire né inficiare alcuna disposizione legislativa
+           relativa al recepimento dell’articolo 86 della CRD IV. Qualora la guida non fosse
+           in linea con la normativa vigente, prevale quest’ultima. La guida è concepita
+           come uno strumento pratico che sarà regolarmente aggiornato per tenere conto
+           dei nuovi sviluppi e delle esperienze acquisite. Di conseguenza, i principi e le
+           aspettative enunciati in questa sede evolveranno nel tempo. La guida sarà
+           riesaminata alla luce dei continui sviluppi nelle prassi e nelle metodologie di
+           vigilanza bancaria europea nonché nella regolamentazione a livello
+           internazionale ed europeo e, ad esempio, delle nuove autorevoli interpretazioni
+           delle direttive e dei regolamenti pertinenti da parte della Corte di giustizia
+           dell’Unione europea.
+    9.     La guida si basa sulla definizione di una serie di principi, dedicando particolare
+           attenzione ad alcuni aspetti cruciali dal punto di vista della vigilanza; essa non
+           intende fornire indicazioni esaustive su tutti gli aspetti che contribuiscono alla
+           solidità dell’lLAAP. Spetta a ciascun ente applicare un ILAAP che sia adeguato
+           alle proprie particolari circostanze. La BCE valuta gli ILAAP degli enti creditizi
+           procedendo caso per caso.
+    10. In aggiunta alla presente guida e al diritto nazionale e dell’Unione pertinente, gli
+           enti sono incoraggiati ad avvalersi degli altri documenti rilevanti ai fini
+           dell’ILAAP pubblicati dall’ABE 5 e da istanze internazionali quali il Comitato di
+           Basilea per la vigilanza bancaria (CBVB) e il Financial Stability Board (FSB). Gli
+    5
+         In particolare, rilevano a tale riguardo gli Orientamenti sulla governance interna (ABE/GL/2017/11), gli
+         orientamenti sulle prove di stress degli enti (ABE/GL/2018/04) e gli orientamenti esposti in Guidelines
+         on the management of concentration risk under the supervisory review process (GL31) del Comitato
+         delle autorità europee di vigilanza bancaria (Committee of European Banking Supervisors, CEBS).
+    Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+    Introduzione                                                                                                  3
+
+            enti dovrebbero inoltre tenere conto di tutte le raccomandazioni relative
+            all’ILAAP a essi rivolte, ad esempio le raccomandazioni risultanti dallo SREP,
+            che possono riguardare solidi assetti di governance, la gestione dei rischi e i
+            controlli.
+1.2 Ambito di applicazione e proporzionalità
+    11. La presente guida è rivolta a tutti gli enti creditizi designati come soggetti vigilati
+            significativi ai sensi dell’articolo 2, paragrafo 16, del regolamento quadro
+            sull’MVU 6. L’ambito di applicazione dell’articolo 86 della CRD IV concernente
+            l’ILAAP è determinato dall’articolo 109 della citata direttiva. Poiché l’articolo 86
+            della CRD IV rappresenta una disposizione di armonizzazione minima, recepita
+            in maniera differente nei vari Stati membri dell’UE, esiste un’ampia varietà di
+            prassi e requisiti relativi all’ILAAP per la vigilanza degli enti creditizi negli Stati
+            membri partecipanti.
+    12. La BCE, insieme alle autorità nazionali competenti (ANC), ha elaborato i
+            principi sull’ILAAP con l’obiettivo di assicurare elevati standard prudenziali
+            promuovendo lo sviluppo di metodologie comuni in questo importante ambito
+            della vigilanza.
+    13. L’ILAAP è soprattutto un processo interno e la responsabilità della sua
+            attuazione, in modo proporzionale e credibile, resta in capo ai singoli enti. Ai
+            sensi dell’articolo 86 della CRD IV, l’ILAAP deve essere proporzionato alla
+            natura, all’ampiezza e alla complessità delle attività dell’ente.
+    14. I principi elaborati nella presente guida costituiscono soltanto un punto di
+            partenza per il dialogo di vigilanza con gli enti creditizi. Non andrebbero
+            pertanto intesi come riferimenti comprensivi di tutti gli aspetti necessari per
+            l’attuazione e l’impiego di un ILAAP solido, efficace e completo. È
+            responsabilità degli enti assicurare che l’ILAAP rimanga completo e
+            proporzionato alla natura, all’ampiezza e alla complessità delle loro attività,
+            tenendo presente che la proporzionalità non va applicata in modo tale da
+            compromettere l’efficacia dell’ILAAP stesso.
+    6
+         Regolamento (UE) n. 468/2014 della Banca centrale europea, del 16 aprile 2014, che istituisce il
+         quadro di cooperazione nell’ambito del Meccanismo di vigilanza unico tra la Banca centrale europea e
+         le autorità nazionali competenti e con le autorità nazionali designate (regolamento quadro sull’MVU)
+         (BCE/2014/17) (GU L 141 del 14.5.2014, pag. 1).
+    Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+    Introduzione                                                                                              4
+
+2 Principi
+  Principio 1: l’organo di amministrazione è responsabile
+  della solida governance dell’ILAAP
+  (i)     Data l’importanza che l’ILAAP riveste per l’ente, l’organo di amministrazione
+          dovrebbe approvarne tutti gli elementi fondamentali. Ci si attende che ciò trovi
+          riscontro nei meccanismi di governance interna riguardanti l’organo di
+          amministrazione, stabiliti conformemente alle norme nazionali e in linea con la
+          legislazione dell’UE e gli orientamenti dell’ABE in materia. L’organo di
+          amministrazione, l’alta dirigenza e i relativi comitati dovrebbero discutere
+          l’ILAAP e sottoporlo a un esame critico in maniera efficace.
+  (ii)    Ogni anno l’organo di amministrazione dovrebbe produrre una valutazione
+          dell’adeguatezza della liquidità dell’ente corroborata dai risultati dell’ILAAP e da
+          qualsiasi altra informazione rilevante, redigendo e sottoscrivendo una
+          dichiarazione chiara e concisa, la dichiarazione sull’adeguatezza della liquidità
+          (liquidity adequacy statement, LAS).
+  (iii) L’organo di amministrazione, che è complessivamente responsabile
+          dell’attuazione dell’ILAAP, dovrebbe approvarne il quadro di governance con
+          una chiara e trasparente assegnazione delle competenze nel rispetto del
+          principio di separazione delle funzioni. Il quadro di governance dovrebbe
+          contemplare un chiaro approccio di revisione interna e convalida periodica
+          dell’ILAAP.
+  L’organo di amministrazione approva gli elementi fondamentali
+  dell’ILAAP
+  15. Ci si attende che l’organo di amministrazione rediga e sottoscriva la LAS e
+          approvi gli elementi fondamentali dell’ILAAP, fra i quali:
+          •     il quadro di governance;
+          •     il quadro della documentazione interna;
+          •     il perimetro dei soggetti considerati, il processo di identificazione dei rischi,
+                nonché l’inventario e la tassonomia dei rischi interni, che riflettono la
+                portata dei rischi rilevanti e la loro copertura con la liquidità;
+          •     le metodologie di quantificazione dei rischi 7, compresi i parametri e le
+                ipotesi generali per la misurazione dei rischi (ad esempio orizzonte
+  7
+       La presente guida non prescrive una specifica metodologia per la quantificazione dei rischi. Per
+       maggiori dettagli al riguardo si rimanda alla sezione “Scelta delle metodologie di quantificazione dei
+       rischi” nel principio 6.
+  Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+  Principi                                                                                                    5
+
+               temporale, livelli di confidenza 8 e profilo per scadenza), con il supporto di
+               dati affidabili e sistemi solidi di aggregazione dei dati;
+       •       l’approccio impiegato per valutare l’adeguatezza della liquidità (inclusi il
+               quadro di riferimento per le prove di stress e una definizione ben articolata
+               di adeguatezza della liquidità);
+       •       garanzia della qualità dell’ILAAP, con particolare riguardo agli input
+               fondamentali della LAS (inclusi la struttura e il ruolo della convalida
+               interna, il ricorso all’autovalutazione rispetto alle norme applicabili, la
+               regolamentazione e le aspettative di vigilanza, i controlli per la convalida
+               dei dati dell’ente, i risultati delle prove di stress, i modelli applicati ecc.).
+16. L’organo di amministrazione comprende una funzione di supervisione e una
+       funzione di gestione che possono essere esercitate dallo stesso organo oppure
+       da due organi separati. La designazione degli elementi chiave dell’ILAAP, e
+       delle rispettive funzioni incaricate della loro approvazione, dipende dalle
+       disposizioni di governance interna dell’ente, interpretate dalla BCE
+       conformemente alle norme nazionali e in linea con la legislazione dell’UE
+       applicabile e gli orientamenti dell’ABE 9.
+Revisione interna e convalida
+17. L’ILAAP è oggetto di periodiche revisioni interne, che secondo le attese della
+       BCE dovrebbero riguardare gli aspetti sia qualitativi sia quantitativi (ivi compresi
+       ad esempio l’utilizzo dei risultati dell’ILAAP, il quadro di riferimento delle prove
+       di stress, la rilevazione dei rischi e il processo di aggregazione dei dati),
+       includendo commisurati processi di convalida delle metodologie interne
+       adottate per la quantificazione dei rischi.
+18. A fini di revisione interna l’ente dovrebbe dotarsi di politiche e processi
+       adeguati. Le revisioni dovrebbero essere svolte dalle tre linee di difesa,
+       costituite dai rami di attività e dalle funzioni di controllo interno indipendenti
+       (gestione dei rischi, conformità alle norme e internal audit), in base ai rispettivi
+       ruoli e competenze 10.
+19. La BCE si attende che gli enti siano dotati di un processo definito che assicuri
+       un adeguamento proattivo dell’ILAAP a qualunque cambiamento rilevante
+       verificatosi, ad esempio l’ingresso in nuovi mercati, l’offerta di nuovi servizi o
+8
+    Come per la modellizzazione dei depositi non vincolati.
+9
+    Cfr. il considerando 56 e l’articolo 3, paragrafo 1, punti 7-9, della CRD IV, nonché il titolo II degli
+    Orientamenti dell’ABE sulla governance interna (ABE/GL/2017/11).
+10
+    I rispettivi ruoli delle funzioni coinvolte sono descritti negli Orientamenti dell’ABE sulla governance
+    interna (ABE/GL/2017/11).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                    6
+
+       prodotti ovvero le variazioni della struttura del gruppo 11 o conglomerato
+       finanziario.
+20. I risultati e le ipotesi dell’ILAAP dovrebbero essere soggetti a una revisione
+       interna adeguata, in relazione ad esempio alla pianificazione della liquidità, agli
+       scenari e alla quantificazione dei rischi. Il carattere più o meno quantitativo
+       oppure qualitativo che ci si attende da tale verifica dipende dalla natura
+       dell’elemento valutato. La revisione dovrebbe tenere debito conto dei limiti e dei
+       vincoli derivanti dalle metodologie adottate, dalle ipotesi sottostanti e dai dati
+       utilizzati nella quantificazione dei rischi.
+21. Lo scopo della revisione è verificare se i processi interni, le metodologie e le
+       ipotesi prescelte abbiano condotto a risultati solidi (“test retrospettivi” 12) e se
+       continuino a essere adeguati alla luce della situazione corrente e degli
+       andamenti futuri. Ci si attende che l’esito della revisione sia valutato in maniera
+       approfondita, documentato e comunicato all’alta dirigenza e all’organo di
+       amministrazione. Ove siano individuate debolezze, i relativi rilievi dovrebbero
+       essere corretti rapidamente tramite azioni successive efficaci.
+Dichiarazione sull’adeguatezza della liquidità
+22. Nella dichiarazione sull’adeguatezza della liquidità (LAS) l’organo di
+       amministrazione fornisce la propria valutazione dell’adeguatezza della liquidità
+       dell’ente ed espone le principali argomentazioni a sostegno, corroborate da
+       informazioni che considera rilevanti, quali i risultati dell’ILAAP. La BCE ritiene
+       che una LAS solida dimostri la buona conoscenza da parte dell’organo di
+       amministrazione dell’adeguatezza della liquidità dell’ente e delle sue principali
+       determinanti e vulnerabilità, dei più importanti input e output dell’ILAAP, dei
+       parametri e processi sottostanti, nonché della coerenza dell’ILAAP con i piani
+       strategici.
+23. L’autorità di sottoscrivere la LAS per conto dell’organo di amministrazione
+       dovrebbe essere stabilita dall’ente alla luce della normativa nazionale nonché
+       dei requisiti e degli orientamenti prudenziali applicabili 13.
+11
+    Ai fini della presente guida il termine “ente” designa anche gruppi, conglomerati o sottogruppi, come
+    applicabile ai sensi dell’articolo 109 della CRD IV.
+12
+    Ad esempio, il piano di finanziamento dovrebbe essere soggetto a test retrospettivi in conformità con
+    gli Orientamenti dell’ABE in materia di definizioni e modelli armonizzati per i piani di finanziamento
+    degli enti creditizi ai sensi della raccomandazione A4 del CERS/2012/2.
+13
+    Gli Orientamenti dell’ABE sull’organizzazione interna (ABE/GL/2017/11) descrivono in maggiore
+    dettaglio la distribuzione dei compiti e delle competenze fra le funzioni di supervisione strategica e di
+    gestione dell’organo di amministrazione.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                      7
+
+Principio 2: l’ILAAP è parte integrante del quadro
+complessivo di gestione
+(i)     Ai sensi dell’articolo 86, paragrafo 1, della CRD IV, l’ente dovrebbe disporre di
+        strategie, politiche, processi e sistemi solidi per identificare, misurare, gestire e
+        monitorare il rischio di liquidità su una serie adeguata di orizzonti temporali,
+        anche infragiornalieri, al fine di assicurare che esso mantenga riserve di
+        liquidità adeguate 14.
+(ii)    Oltre a un quadro quantitativo idoneo per la valutazione dell’adeguatezza della
+        liquidità, è necessario che un quadro qualitativo ne assicuri la gestione attiva.
+        Ciò include fra l’altro il monitoraggio delle metriche dell’adeguatezza della
+        liquidità mirato a individuare e valutare tempestivamente i rischi potenziali su
+        diversi orizzonti temporali, anche infragiornalieri, traendo conclusioni pratiche e
+        avviando misure di prevenzione affinché le riserve di liquidità interne e
+        regolamentari siano sempre adeguate.
+(iii) Gli aspetti quantitativi e qualitativi dell’ILAAP dovrebbero essere coerenti tra
+        loro, con la strategia imprenditoriale e con la propensione al rischio dell’ente.
+        L’ILAAP andrebbe integrato nei processi operativi, decisionali e di gestione dei
+        rischi dell’ente. L’ILAAP dovrebbe essere coerente e integrato a livello di
+        gruppo.
+(iv) Ci si attende che gli enti mantengano una solida ed efficace architettura
+        complessiva dell’ILAAP e che documentino l’interazione fra gli elementi
+        dell’ILAAP e l’integrazione dello stesso nel quadro complessivo di gestione
+        dell’ente.
+(v)     L’ILAAP dovrebbe sostenere il processo decisionale strategico e, al tempo
+        stesso, mirare ad assicurare sul piano operativo che l’ente mantenga un livello
+        di liquidità adeguato nel continuo, favorendo così un’appropriata relazione tra
+        rischi e benefici. Tutti i metodi e i processi applicati dall’ente per orientare
+        l’adeguatezza della liquidità, nell’ambito del processo di gestione operativa o
+        strategica di quest’ultima, dovrebbero essere approvati, rivisti con attenzione e
+        opportunamente inclusi nell’ILAAP e nella relativa documentazione.
+L’ILAAP quale parte integrante del quadro di gestione dell’ente
+24. Al fine di valutare e mantenere un livello di liquidità adeguato a coprire i rischi di
+        un ente 15, i processi e le disposizioni interne dovrebbero far sì che l’analisi
+        quantitativa dei rischi, riflessa nell’ILAAP, confluisca in tutte le decisioni e le
+        attività imprenditoriali rilevanti.
+14
+     Cfr. il principio 5 per una descrizione delle riserve di liquidità interne e delle fonti stabili di finanziamento
+     interne.
+15
+     Le aspettative generali riguardo alla parte quantitativa dell’ILAAP sono introdotte nel principio 3.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                             8
+
+25. Questo obiettivo può essere raggiunto, ad esempio, utilizzando l’ILAAP per il
+       processo di pianificazione strategica a livello di gruppo, monitorando gli
+       indicatori dell’adeguatezza della liquidità per individuare e valutare
+       tempestivamente i rischi potenziali, pervenendo a conclusioni pratiche e
+       avviando misure di prevenzione, stabilendo l’allocazione della liquidità e
+       assicurando la continua efficacia del quadro di riferimento per la
+       determinazione della propensione al rischio (risk appetite framework, RAF).
+26. Gli indicatori di performance corretti per il rischio basati sull’ILAAP 16 dovrebbero
+       essere utilizzati nel processo decisionale e, ad esempio, nella determinazione
+       della remunerazione variabile e nelle discussioni riguardanti l’operatività e i
+       rischi a tutti i livelli dell’ente, comprese fra l’altro le riunioni dei comitati di
+       gestione delle attività e delle passività, dei comitati per il rischio e dell’organo di
+       amministrazione.
+L’architettura complessiva dell’ILAAP
+27. L’organo di amministrazione è responsabile del mantenimento di un’architettura
+       complessiva dell’ILAAP solida ed efficace, assicurando che i diversi elementi
+       dell’ILAAP interagiscano in modo organico e che l’ILAAP sia parte integrante
+       del quadro complessivo di gestione dell’ente. Quest’ultimo dovrebbe avere una
+       visione chiara di come tali elementi siano coerentemente integrati in un
+       processo complessivo efficace che consenta di preservare nel continuo
+       l’adeguatezza della liquidità.
+28. A tal fine, ci si attende che l’ente includa nella propria documentazione
+       sull’ILAAP una descrizione della sua architettura complessiva, compresa una
+       sintesi degli elementi fondamentali dell’ILAAP e di come questi interagiscano
+       fra loro, spiegando le modalità di integrazione dell’ILAAP nel funzionamento
+       dell’ente e come i suoi risultati siano utilizzati all’interno dell’ente. La
+       descrizione dell’architettura dovrebbe illustrare la struttura generale dell’ILAAP,
+       come i suoi risultati siano utilizzati nel processo decisionale e
+       l’interconnessione, ad esempio, fra le strategie aziendali e di rischio, i piani di
+       finanziamento, i processi di individuazione dei rischi, la dichiarazione sulla
+       propensione al rischio, i sistemi di limiti, le metodologie per la quantificazione
+       dei rischi, il programma delle prove di stress e la reportistica gestionale.
+Reportistica gestionale
+29. L’ILAAP è un processo continuo. L’ente dovrebbe incorporare con adeguata
+       frequenza i risultati dell’ILAAP (ad esempio il modo in cui evolvono rischi
+       rilevanti, indicatori principali ecc.) nella reportistica interna destinata ai diversi
+16
+    Esempi di tali indicatori sono reperibili negli Orientamenti dell’ABE su sane politiche di remunerazione
+    ai sensi dell’articolo 74, paragrafo 3, e dell’articolo 75, paragrafo 2, della direttiva 2013/36/UE e
+    sull’informativa ai sensi dell’articolo 450 del regolamento (UE) n. 575/2013 (ABE/GL/2015/22).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                     9
+
+      livelli dirigenziali. Ci si attende che la periodicità della reportistica diretta
+      all’organo di amministrazione sia almeno trimestrale; tuttavia, se richiesto dalle
+      dimensioni, dalla complessità, dal modello imprenditoriale e dalle tipologie di
+      rischio dell’ente, potrebbe dover essere maggiore per assicurare il tempestivo
+      intervento della dirigenza, considerati i cambiamenti potenzialmente rapidi della
+      situazione di liquidità e finanziamento e l’impatto immediato che una posizione
+      di liquidità non adeguata potrebbe esercitare sulla continuità dell’ente.
+L’ILAAP e il quadro di riferimento per la determinazione della
+propensione al rischio 17
+30. Il RAF dell’ente dovrebbe formalizzare l’interazione fra lo stesso RAF e gli altri
+      processi strategici, quali l’ICAAP, l’ILAAP, il piano di risanamento e la politica di
+      remunerazione, in linea con la Nota dell’MVU sulla governance e sulla
+      propensione al rischio. Un RAF ben sviluppato, articolato tramite la
+      dichiarazione sulla propensione al rischio, dovrebbe essere strettamente
+      interconnesso all’ILAAP e cardine di una sana gestione dei rischi e della
+      liquidità.
+31. Nella dichiarazione sulla propensione al rischio l’ente dovrebbe definire sia una
+      visione chiara e univoca sui rischi sia le misure previste riguardo a questi ultimi
+      in linea con la strategia aziendale. In particolare, la dichiarazione dovrebbe
+      illustrare le motivazioni che giustificano l’assunzione o meno di certe tipologie di
+      rischio, prodotti o regioni. L’ente inoltre dovrebbe ampliare il monitoraggio dei
+      rischi di liquidità a metriche diverse da quelle regolamentari e selezionare un
+      insieme diversificato di metriche commisurato al proprio modello imprenditoriale
+      e profilo di rischio.
+32. Il profilo di rischio complessivo dell’ente dovrebbe in definitiva essere limitato e
+      determinato dal RAF a livello di gruppo e dalla sua attuazione. Il RAF è inoltre
+      un elemento critico del processo di sviluppo e attuazione della strategia
+      dell’ente. Collega, in modo strutturato, i rischi assunti all’adeguatezza della
+      liquidità e agli obiettivi strategici dell’ente. Nell’ambito del RAF l’ente dovrebbe
+      determinare le proprie riserve gestionali e tenerne conto.
+33. Ci si attende che l’ente esprima con chiarezza come l’attuazione e il
+      monitoraggio della strategia e della propensione al rischio siano sostenuti
+      dall’ILAAP e come ciò gli consenta efficacemente di attenersi ai limiti di rischio
+      stabiliti nella dichiarazione sulla propensione al rischio. Per agevolare una
+      gestione dei rischi sana ed efficace, l’ente dovrebbe ricorrere ai risultati
+      dell’ILAAP nel predisporre un efficace sistema di monitoraggio e segnalazione
+      dei rischi e un sistema di limiti adeguatamente granulare (comprendente efficaci
+      procedure di segnalazione alla gerarchia superiore) che attribuisca limiti
+17
+    Ulteriori indicazioni e orientamenti sono reperibili nella Nota dell’MVU sulla governance e sulla
+    propensione al rischio, BCE, giugno 2016, e in Principles for An Effective Risk Appetite Framework,
+    Financial Stability Board, novembre 2013.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                10
+
+       specifici, ad esempio, ai singoli rischi, alle sottocategorie di rischio, alle entità e
+       alle aree organizzative, promuovendo la dichiarazione sulla propensione al
+       rischio del gruppo.
+34. Ci si attende che l’ente disponga di una politica concernente il ricorso a fonti di
+       finanziamento pubbliche 18. Tali politiche dovrebbero distinguere l’utilizzo delle
+       suddette fonti tra condizioni di normalità e di stress e dovrebbero essere
+       espressamente considerate nella dichiarazione sulla propensione al rischio
+       (tempistica e importo) nonché in quella sull’adeguatezza della liquidità.
+       L’effettivo ricorso a tali fonti, e il loro potenziale utilizzo futuro, dovrebbero
+       essere sottoposti a monitoraggio, che dovrebbe riguardare tutte le valute
+       rilevanti. Al fine di quantificare sia la tempistica sia l’ammontare del potenziale
+       ricorso futuro a tali fonti andrebbero condotte prove di stress.
+Coerenza fra l’ILAAP e i piani di risanamento
+35. Il piano di risanamento è volto a fornire le misure che l’ente deve adottare per
+       ripristinare la propria posizione finanziaria a seguito di un deterioramento
+       significativo. Poiché un livello insufficiente di liquidità rappresenta una delle
+       minacce principali per la sostenibilità e la continuità economica, l’ILAAP e il
+       piano di risanamento dovrebbero articolarsi come fasi diverse dello stesso
+       processo di gestione dei rischi. Se l’ILAAP ha lo scopo di mantenere la
+       continuità operativa dell’ente (in base alla strategia e al modello imprenditoriale
+       prescelto), i piani di risanamento stabiliscono le misure (comprese quelle
+       straordinarie) tese a ripristinare la sua posizione finanziaria a seguito di un
+       deterioramento significativo.
+36. L’ente dovrebbe pertanto assicurare coerenza e omogeneità tra l’ILAAP, da un
+       lato, e il piano e i meccanismi di risanamento dall’altro (ad esempio soglie per i
+       segnali preliminari di allerta, indicatori di risanamento, procedure di
+       segnalazione alla gerarchia superiore e possibili interventi di gestione 19).
+       Inoltre, gli eventuali interventi di gestione dell’ILAAP con impatto rilevante
+       dovrebbero essere riflessi tempestivamente nel piano di risanamento, e
+       viceversa, al fine di assicurare che le informazioni e i processi inclusi nei relativi
+       documenti siano coerenti e aggiornati.
+18
+    Gli Orientamenti dell’ABE in materia di definizioni e modelli armonizzati per i piani di finanziamento
+    degli enti creditizi ai sensi della raccomandazione A4 del CERS/2012/2 (ABE/GL/2014/04) definiscono
+    le “fonti di finanziamento dal settore pubblico” come quelle che sono “fornite direttamente o
+    indirettamente dal settore pubblico. Questo include programmi di finanziamento tramite PcT a medio e
+    a lungo termine, programmi di garanzia del credito, nonché programmi di garanzia del credito a
+    supporto dell’economia reale.” (ad esempio le operazioni di rifinanziamento a più lungo termine della
+    BCE o ORLT).
+19
+    Tuttavia, in caso di discrepanze nei principi alla base dell’ILAAP e del piano di risanamento, gli
+    interventi di gestione previsti possono differire.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                   11
+
+Coerenza e omogeneità all’interno dei gruppi
+37. L’ILAAP dovrebbe assicurare l’adeguatezza della liquidità ai pertinenti livelli di
+      consolidamento e per le entità del gruppo ove applicabile, come richiesto
+      dall’articolo 109 della CRD IV. Per poter efficacemente valutare e mantenere
+      l’adeguatezza della liquidità nelle varie entità, le strategie, i processi di gestione
+      dei rischi, il processo decisionale e le metodologie e le ipotesi applicate nella
+      quantificazione della liquidità e del finanziamento devono essere omogenei
+      all’interno del perimetro considerato.
+38. Ove le disposizioni o gli orientamenti nazionali in materia di ILAAP differiscano
+      per determinate entità o sottogruppi, la loro attuazione a tali livelli del gruppo o
+      del sottogruppo potrebbe richiedere approcci in certa misura divergenti.
+      Tuttavia, gli enti dovrebbero assicurare che tali approcci non interferiscano con
+      l’efficacia e la coerenza dell’ILAAP a ogni livello pertinente, con particolare
+      riguardo al livello di gruppo.
+39. In caso di operazioni transfrontaliere in cui vi siano differenze nei requisiti locali
+      (di gestione dei rischi) di liquidità, ci si attende che l’ILAAP, al più alto livello di
+      consolidamento, chiarisca quali differenze regolamentari a livello locale sono
+      rilevanti. In genere, ci si attende che tali differenze regolamentari riguardino
+      soltanto i dettagli dell’attuazione, come ad esempio i parametri delle prove di
+      stress, l’approvazione e la reportistica, e non compromettano la coerenza
+      dell’impostazione generale dell’ILAAP. L’ente dovrebbe valutare anche gli
+      impedimenti alla trasferibilità della liquidità in maniera prudente e conservativa
+      e tenerne conto nell’ILAAP.
+Esempio 2.1
+Misurazione della performance corretta per il rischio
+Per tutte le attività rilevanti svolte (in bilancio e fuori bilancio) la banca tiene conto dei
+costi, dei benefici e dei rischi concernenti la liquidità nella determinazione interna dei
+prezzi, nella determinazione dei prezzi di trasferimento dei fondi, nella misurazione
+dei risultati e nell’approvazione di nuovi prodotti, allineando in tal modo gli incentivi
+all’assunzione di rischi delle singole linee di business con l’esposizione al rischio di
+liquidità che le varie attività svolte generano per l’ente nel suo complesso.
+Ciò dovrebbe essere favorito dall’attuazione di una solida architettura e un valido
+quadro per la governance dell’ILAAP, come descritto nel principio 1.
+Esempio 2.2
+Coerenza fra l’ILAAP e il piano di risanamento
+Per assicurare la piena omogeneità fra i dispositivi di risanamento e quelli
+dell’ILAAP, ci si attende che gli enti definiscano coerentemente lo spettro degli effetti
+potenziali sulla liquidità e degli interventi gestionali corrispondenti nell’ambito
+dell’ILAAP e dei piani di risanamento. Pertanto, più nello specifico, ci si attende ad
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                     12
+
+esempio che gli indicatori della liquidità utilizzati nel piano di risanamento per
+individuare i deterioramenti significativi reali o potenziali della quantità e della qualità
+della liquidità in situazioni di continuità operativa siano coerentemente considerati
+nell’ILAAP. Più in particolare, in circostanze normali, i livelli della liquidità dovrebbero
+essere gestiti tramite l’ILAAP in modo tale da mantenere un margine di prudenza
+superiore rispetto alle soglie degli indicatori della liquidità 20 del piano di risanamento.
+Analogamente, anche gli interventi gestionali nell’ambito dell’ILAAP e del piano di
+risanamento dovrebbero essere coerenti: l’ipotesi da parte dell’ente di interventi
+analoghi nel piano di risanamento e nell’ILAAP potrebbe portare alla sovrastima
+dell’efficacia delle opzioni di risanamento ai fini del calcolo della capacità di
+risanamento complessiva nel caso in cui alcune di queste siano già state impiegate
+nell’ILAAP. Pertanto, al fine di evitare sovrapposizioni tra le opzioni di risanamento e
+gli interventi gestionali dell’ILAAP, con il rischio del “doppio conteggio”, agli interventi
+gestionali rilevanti adottati nell’ambito dell’ILAAP dovrebbe corrispondere la
+tempestiva rivalutazione della fattibilità e dell’efficacia delle opzioni previste dal piano
+di risanamento 21.
+Ad esempio, la capacità di un ente di reperire finanziamento in una situazione di
+risanamento può essere gravemente compromessa se l’ente ha già raccolto fondi in
+base all’ILAAP in una situazione non prevista dal piano di risanamento. Ciò potrebbe
+avere un impatto sulle tipologie e sul volume del finanziamento aggiuntivo che
+potrebbe essere reperito nonché sulle caratteristiche delle condizioni di emissione.
+Un ulteriore legame tra l’ILAAP e il piano di risanamento è rappresentato dalle prove
+inverse di stress. Gli enti dovrebbero ricorrere a tale strumento nell’ambito del
+proprio ILAAP per valutare gli scenari suscettibili di determinare una situazione che
+comprometterebbe la loro capacità di operare secondo il modello imprenditoriale
+prescelto (e dunque gli obiettivi del proprio ILAAP). Nel contesto del piano di
+risanamento “le prove inverse di stress dovrebbero essere considerate un punto di
+partenza per lo sviluppo di soli scenari di dissesto imminente (“near-default”), nel
+senso che determinerebbero la non sostenibilità del modello operativo di un ente o di
+un gruppo, a meno che non siano efficacemente attuate azioni di risanamento.” 22
+Inoltre, sia nell’ILAAP sia nel piano di risanamento gli scenari dovrebbero basarsi
+sugli eventi di particolare rilevanza per gli enti e cogliere le loro principali
+vulnerabilità.
+20
+     Cfr. per maggiori dettagli gli Orientamenti dell’ABE sull’elenco minimo degli indicatori qualitativi e
+     quantitativi dei piani di risanamento (ABE/GL/2015/02).
+21
+     Cfr. anche per maggiori informazioni Report on recovery plans, BCE, luglio 2018.
+22
+     Cfr. il paragrafo 11 degli Orientamenti dell’ABE sulla serie di scenari da utilizzare nei piani di
+     risanamento (ABE/GL/2014/06).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                    13
+
+Principio 3: l’ILAAP fornisce un contributo fondamentale
+alla continuità dell’ente assicurandone l’adeguatezza
+della liquidità da prospettive diverse
+(i)   L’ILAAP riveste un ruolo cruciale nel preservare la continuità dell’ente
+      assicurandone un’adeguata posizione di liquidità e di finanziamento. Al fine di
+      garantire tale contributo alla propria continuità, l’ente dovrebbe adottare un
+      ILAAP proporzionato, prudente e conservativo che integri le due prospettive
+      interne complementari.
+(ii)  L’ente dovrebbe attuare una prospettiva economica, in base alla quale esso
+      dovrebbe individuare e quantificare tutti i rischi rilevanti suscettibili di influire
+      negativamente sulla propria posizione di liquidità interna.
+(iii) Nella prospettiva economica, l’ente dovrebbe assicurare che tutti i rischi in
+      grado di influire sulla posizione di liquidità siano adeguatamente coperti con
+      liquidità interna in linea con il concetto interno di adeguatezza della liquidità.
+      Questo implica la valutazione di uno scenario di base credibile e di adeguati
+      scenari avversi specifici per l’ente, come riflesso nella pianificazione pluriennale
+      della liquidità e del finanziamento e in linea con gli obiettivi generali di
+      pianificazione dell’ente.
+(iv) L’ente dovrebbe attuare una prospettiva normativa che rappresenti una
+      valutazione della propria capacità di soddisfare tutte le richieste e tutti i requisiti
+      regolamentari e di vigilanza in materia di liquidità, nonché di far fronte ad altri
+      vincoli finanziari esterni, su base continuativa nel medio termine.
+(v)   L’ente dovrebbe dotarsi di un piano formale di emergenza di liquidità (liquidity
+      contingency plan, LCP) che definisca in modo chiaro le misure volte a
+      fronteggiare le difficoltà di liquidità in situazioni di stress. L’LCP dovrebbe
+      ovviare ai rischi individuati nell’ILAAP dell’ente e stabilire il nesso con il piano di
+      risanamento.
+Obiettivo: contribuire alla continuità dell’ente
+40. L’obiettivo dell’ILAAP è contribuire alla continuità dell’ente dalla prospettiva
+      della liquidità assicurando che disponga di liquidità sufficiente ad adempiere
+      alle proprie obbligazioni alla scadenza, sostenere i propri rischi e perseguire
+      una strategia sostenibile, anche durante un prolungato periodo di andamenti
+      sfavorevoli. L’ente dovrebbe far sì che l’obiettivo della continuità sia riflesso nel
+      RAF (come precisato nel principio 2) e utilizzare il quadro dell’ILAAP per
+      riesaminare la propensione al rischio e le soglie di tolleranza nell’ambito dei
+      propri vincoli di liquidità complessivi, considerati il profilo di rischio e le
+      vulnerabilità.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                     14
+
+41. Ci si attende che, entro tali vincoli di liquidità, l’ente valuti e definisca 23 riserve
+         gestionali superiori ai requisiti minimi regolamentari e di vigilanza 24 e al
+         fabbisogno di liquidità interno in modo tale da consentirgli di perseguire la
+         propria strategia in modo duraturo. Riguardo alla costituzione di sufficienti
+         riserve gestionali nel breve periodo, l’ente dovrebbe tenere conto, ad esempio,
+         delle aspettative dei mercati, degli investitori e delle controparti, nonché della
+         correlazione tra modello imprenditoriale e capacità dell’ente di corrispondere
+         incentivi, dividendi e pagamenti su strumenti di capitale aggiuntivo di classe 1
+         (Additional Tier 1, AT1). Oltre a tali vincoli esterni, le riserve gestionali
+         dovrebbero, ad esempio, fornire un margine per le incertezze circa le proiezioni
+         sui coefficienti di liquidità, e circa le eventuali oscillazioni di tali coefficienti, per
+         riflettere la propensione al rischio dell’ente e consentire una certa flessibilità
+         nelle decisioni imprenditoriali.
+Figura 1
+L’ILAAP contribuisce alla continuità dell’ente
+  Contesto economico
+                                                                Capitale
+                                                               adeguato
+                                                                (ICAAP)
+  Strategia aziendale                              CONTINUITÀ DELL’ENTE                     Posizione concorrenziale
+                                                                Liquidità
+                                                               adeguata
+                                                                 (ILAAP)
+Le cifre e le dimensioni vanno considerate solo a fini illustrativi.
+Prospettiva economica interna
+42. Ci si attende che l’ente gestisca l’adeguatezza della liquidità dalla prospettiva
+         economica assicurando l’idonea copertura dei rischi e dei deflussi attesi tramite
+         la liquidità interna tenendo conto delle aspettative del principio 5. L’adeguatezza
+23
+      In questa guida le riserve gestionali non si riferiscono alla liquidità disponibile (“margine”), ma riflettono
+      la visione dell’ente sulla liquidità necessaria per seguire il proprio modello imprenditoriale su base
+      durevole.
+24
+      Il concetto di riserva gestionale non prevede di fatto nuovi coefficienti di liquidità obbligatori al di sopra
+      dei requisiti minimi vigenti. In genere ci si attende che le riserve gestionali siano superiori a zero, ma in
+      teoria un ente può anche riuscire ad argomentare che, a seconda dello scenario analizzato, una riserva
+      gestionale pari a zero gli consentirebbe comunque di seguire il proprio modello imprenditoriale su base
+      durevole.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                          15
+
+      economica della liquidità richiede che la liquidità interna dell’ente sia sufficiente
+      a coprire i suoi rischi e i deflussi attesi e a sostenere la sua strategia nel tempo.
+      In questa prospettiva, la valutazione dell’ente dovrebbe estendersi a tutto
+      l’insieme dei rischi suscettibili di esercitare un impatto rilevante sulla posizione
+      di liquidità, tenuto conto dei flussi di cassa e del valore, in termini di liquidità,
+      applicabile alle attività liquide. Ci si attende che l’ente gestisca e valuti
+      adeguatamente i rischi economici nel programma delle prove di stress e nel
+      monitoraggio dell’adeguatezza della liquidità.
+43. Tenendo presente il principio di proporzionalità, l’ente dovrebbe ricorrere ai
+      propri processi e alle proprie metodologie per individuare e quantificare i
+      deflussi attesi e inattesi a cui potrebbe essere soggetto nonché destinarvi
+      liquidità interna. Ci si attende che l’ente esegua una quantificazione puntuale
+      dei rischi insiti nella situazione corrente alla data di riferimento. Questa
+      dovrebbe essere integrata da una valutazione prospettica dell’adeguatezza
+      della liquidità nel medio periodo che tenga conto degli sviluppi futuri, quali i
+      mutamenti del contesto esterno. Gli enti dovrebbero considerare almeno tre
+      anni per la posizione di finanziamento e un orizzonte temporale adeguato per la
+      posizione di liquidità.
+44. A tal fine, oltre a valutare in uno scenario di base la liquidità disponibile rispetto
+      al relativo fabbisogno per l’operatività corrente e rispetto alla pianificazione del
+      finanziamento, l’ente dovrebbe considerare anche scenari avversi 25. Se
+      pertinente, le ipotesi adottate dovrebbero essere coerenti con il piano di
+      risanamento.
+45. Ci si attende che l’ente utilizzi i risultati e le metriche della valutazione
+      dell’adeguatezza economica della liquidità nella gestione strategica e operativa,
+      nella revisione della propensione al rischio nell’ambito dell’interazione con la
+      clientela (sospendendo nuove operazioni, imponendo il rimborso alla data
+      contrattuale senza concedere rifinanziamenti ecc.) e con i mercati (vendite
+      forzate e altre operazioni che, se eseguite, influiscono sulla percezione dei
+      mercati) e nel riesame delle strategie aziendali. In aggiunta a una definizione
+      prudente di riserve di liquidità interne 26 e alla quantificazione dei rischi, l’ente
+      dovrebbe adottare un concetto di adeguatezza economica della liquidità che gli
+      consenta di preservare la sostenibilità economica e perseguire la propria
+      strategia. Ciò comprende processi di gestione atti a individuare in maniera
+      tempestiva la necessità di intervento per colmare le carenze di liquidità interna
+      emerse e per assumere misure efficaci (ad esempio aumento delle riserve di
+      liquidità, modifica del profilo dei flussi di cassa).
+25
+    La gravità degli scenari avversi è trattata più approfonditamente nel principio 7.
+26
+    Le aspettative concernenti le riserve interne di liquidità sono introdotte nel principio 5.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                        16
+
+Prospettiva normativa interna
+46. La prospettiva normativa è una valutazione pluriennale della capacità dell’ente
+       di soddisfare tutte le richieste e tutti i requisiti regolamentari e di vigilanza
+       (quantitativi) in materia di liquidità, nonché di far fronte ad altri vincoli finanziari
+       esterni, su base continuativa.
+47. La prospettiva normativa dovrebbe considerare tutti gli aspetti suscettibili di
+       incidere sui coefficienti regolamentari, compresi gli afflussi, i deflussi e le riserve
+       di liquidità, per il periodo di pianificazione. Pertanto, sebbene i risultati siano
+       espressi in metriche regolamentari, la prospettiva normativa non si limita alle
+       ipotesi sottostanti il calcolo dei coefficienti di primo pilastro. Nel valutare
+       l’adeguatezza della liquidità nella prospettiva normativa, invece, l’ente dovrebbe
+       considerare tutte le ipotesi utilizzate nell’ambito della prospettiva economica per
+       il calcolo del coefficiente di primo pilastro 27, come illustrato nell’esempio 3.1.
+48. Ci si attende che l’ente mantenga un piano di liquidità e finanziamento solido e
+       aggiornato che sia compatibile con le strategie, la propensione al rischio e le
+       risorse di liquidità. Il piano di liquidità e finanziamento dovrebbe comprendere
+       scenari di base e avversi e coprire un orizzonte prospettico di almeno tre anni 28
+       per la posizione di finanziamento 29 e un orizzonte temporale adeguato per la
+       posizione di liquidità. Nel formulare tali proiezioni l’ente dovrebbe considerare la
+       situazione economica riflessa nella prospettiva economica. L’ente dovrebbe
+       inoltre tenere conto dell’impatto degli imminenti cambiamenti agli assetti
+       giuridici, regolamentari e contabili 30 e prendere una decisione informata e
+       motivata su come considerarli ai fini della pianificazione della liquidità e del
+       finanziamento.
+49. In presenza di sviluppi avversi delle aspettative sull’operatività ordinaria, al fine
+       di valutare l’evoluzione attesa delle fondamentali metriche interne nella
+       prospettiva normativa ed economica, è necessario che l’ente valuti il livello di
+       tali metriche in condizioni avverse rispetto a soglie interne definite nella
+       dichiarazione sulla propensione al rischio. Ciò non significa che l’ente debba
+       rispettare il coefficiente di copertura della liquidità (liquidity coverage ratio, LCR)
+       in gravi condizioni di stress. L’ente dovrebbe, tuttavia, elaborare un concetto
+       che gli permetta di mantenere la propria sostenibilità economica e perseguire la
+       propria strategia, ad esempio adottando interventi concreti (modifica del profilo
+       di liquidità) derivanti dalle proiezioni effettuate. Di conseguenza, ci si attende
+27
+    La stessa logica si applica al calcolo dei coefficienti imposti dall’autorità competente nell’ambito delle
+    decisioni SREP (ad esempio il periodo di sopravvivenza minimo).
+28
+    È responsabilità degli enti scegliere l’orizzonte di pianificazione adeguato; tre anni costituiscono
+    l’orizzonte minimo che un piano di finanziamento dettagliato dovrebbe coprire. Inoltre, nella
+    pianificazione strategica gli enti dovrebbero tenere conto, in misura proporzionale, degli andamenti su
+    un periodo più lungo di questo orizzonte minimo, se avranno un impatto rilevante.
+29
+    È inoltre possibile integrare il piano di liquidità e il piano di finanziamento in un unico documento.
+30
+    A seconda della probabilità e del potenziale impatto di determinati cambiamenti, l’ente può applicare un
+    trattamento diverso. Ad esempio, per quanto molto improbabili, alcuni cambiamenti avrebbero un
+    impatto enorme sull’ente, che dovrebbe quindi predisporre misure di emergenza. Altri mutamenti
+    regolamentari più probabili dovrebbero, tuttavia, essere colti nello stesso piano di liquidità e
+    finanziamento. Un esempio è rappresentato dall’applicazione del coefficiente netto di finanziamento
+    stabile (net stable funding ratio, NSFR).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                      17
+
+      altresì che l’ente tenga sotto osservazione la potenziale diminuzione dell’LCR in
+      tali condizioni mettendola in relazione con la propensione al rischio, l’LCP e il
+      piano di risanamento.
+Interazione fra prospettiva economica e prospettiva normativa
+50. La figura 2 offre un quadro di insieme degli aspetti, delle misure e dei risultati
+      che dovrebbero essere presi in considerazione nella prospettiva economica e
+      normativa ai fini della valutazione della posizione di liquidità e di finanziamento.
+      Sebbene i calcoli delle proiezioni nella prospettiva normativa seguano
+      meccanicamente le disposizioni del primo pilastro, ci si attende che l’ente
+      elabori una visione interna sugli scenari utilizzati e sugli effetti di tali scenari sui
+      dati delle proiezioni di primo e di secondo pilastro. Nella prospettiva economica
+      l’ente dovrebbe anche selezionare gli scenari adeguati e determinare l’impatto
+      sulle rispettive proiezioni. Inoltre, nella prospettiva economica, ci si attende che
+      l’ente definisca ipotesi e misure adeguate per tutte le metodologie di calcolo
+      relative all’offerta, alla domanda e alle eccedenze di liquidità. Le differenze nelle
+      metodologie, nelle misure e nelle ipotesi impiegate possono determinare esiti
+      molto diversi nelle valutazioni condotte nelle due prospettive, anche ove si
+      applichi il medesimo scenario.
+51. Lo stesso vale per gli interventi gestionali presi in considerazione nella
+      pianificazione della liquidità e del finanziamento nelle due prospettive. Queste
+      differenze possono inoltre verificarsi anche nell’ambito della stessa prospettiva,
+      a seconda dello scenario valutato. La figura 2 mostra che gli stessi interventi
+      gestionali possono determinare effetti significativamente diversi a seconda della
+      prospettiva e dello scenario considerati. Ci si attende che l’ente tenga conto
+      della propria pianificazione della liquidità e del finanziamento e assicuri la
+      coerenza reciproca delle ipotesi sugli interventi di gestione nelle diverse
+      prospettive.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                     18
+
+Figura 2
+Effetti diversi di interventi gestionali credibili, a seconda della prospettiva e dello
+scenario considerati – esempio illustrativo
+                                                          Prospettiva economica interna
+                                                                                                             Proiezioni
+                     Proiezioni                      •   Riserve liquide, portafoglio di attività liquide,   • Periodo di
+                     • Periodo di                        attività non vincolate, fonti di finanziamento        sopravvivenza...
+                       sopravvivenza...                  stabili e afflussi di liquidità, sempre nella       • Disallineamento delle
+                     • Disallineamento delle             prospettiva economica (offerta)                       scadenze...
+                       scadenze...
+                                                                                                             • Altre metriche interne...
+                     • Altre metriche interne...     •   Deflussi di liquidità nella prospettiva
+                                                         economica (domanda)                                 ... dati gli andamenti futuri
+                     ... dati gli andamenti futuri
+                                                                                                             avversi ipotizzati, dopo
+                     attesi, dopo l’adozione di
+                                                                                                             l’adozione di interventi
+  Scenario di base                                                                                                                           Scenario avverso
+                     interventi gestionali
+                                                                                                             gestionali
+                                                              Interventi gestionali credibili
+                                                         ad esempio, aumento di attività liquide, di
+                                                                   finanziamento stabile
+                                                                                                             Proiezioni
+                     Proiezioni
+                                                                                                             • LCR...
+                     • LCR...
+                                                                                                             • Altri coefficienti
+                     • Altri coefficienti
+                                                                                                               regolamentari o di
+                       regolamentari o di
+                                                     •   Disponibilità di attività regolamentari molto         vigilanza...
+                       vigilanza...
+                                                         liquide e finanziamento stabile (offerta)
+                                                                                                             ... dati gli andamenti futuri
+                     ... dati gli andamenti futuri   •   Deflussi regolamentari e requisiti di               avversi ipotizzati, dopo
+                     attesi, dopo l’adozione di          finanziamento stabile (domanda)                     l’adozione di interventi
+                     interventi gestionali
+                                                                                                             gestionali
+                                                           Prospettiva normativa interna
+Le cifre e le dimensioni vanno considerate solo a fini illustrativi.
+52.                   Se l’ente ipotizza interventi di gestione nel piano di liquidità e finanziamento,
+                     dovrebbe valutarne la fattibilità e l’effetto atteso a fronte dei rispettivi scenari e
+                     operare con trasparenza riguardo all’impatto quantitativo di ciascun intervento
+                     sulle proiezioni.
+53. Le due prospettive dovrebbero fornirsi informazioni reciprocamente ed essere
+    incorporate in tutte le attività e le decisioni imprenditoriali rilevanti, come
+    descritto nel principio 2.
+54. Oltre a misurare la capacità corrente di assolvere i propri obblighi in materia di
+    liquidità, ci si attende che l’ente disponga di un piano chiaro e conciso su come
+    agire in caso di difficoltà (inaspettate) a far fronte agli obblighi che giungono a
+    scadenza. L’ILAAP dovrebbe pertanto contenere informazioni dettagliate sulle
+    misure di emergenza di liquidità (sotto forma di LCP) che possono essere
+    adottate, compresa una valutazione della potenziale emergenza di liquidità che
+    può essere generata in situazioni di stress, dei tempi necessari per l’esecuzione
+    delle misure, dei potenziali effetti negativi (su conto economico, reputazione,
+    sostenibilità economica del modello imprenditoriale ecc.) e della probabilità di
+    realizzare le misure in condizioni di stress. Tali misure di emergenza di liquidità
+    dovrebbero essere coerenti con i rischi individuati e quantificati nell’ILAAP. Ci si
+    attende che l’ente espliciti (nell’architettura del proprio ILAAP) il legame tra
+    l’LCP e la parte del piano di risanamento riguardante la liquidità, nonché il
+    modo in cui questi si relazionano con i rischi individuati nel continuo come
+    indicato in precedenza e in situazioni di stress.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                                                     19
+
+Esempio 3.1
+La prospettiva economica fornisce informazioni alla prospettiva
+normativa
+Nella prospettiva economica l’ente valuta i deflussi relativi ai diversi tipi di prodotti
+tramite i metodi interni.
+Ad esempio, nella prospettiva economica l’ente adotta un approccio globale
+all’individuazione dei depositi al dettaglio soggetti a tassi di deflusso più elevati
+(“depositi al dettaglio meno stabili”) e al calcolo di questi tassi 31.
+Questi risultati sono utilizzati per la stima delle riserve di liquidità nella prospettiva
+economica. Inoltre tali informazioni sono impiegate per la quantificazione del tasso di
+deflusso a 30 giorni nella prospettiva normativa. In tal modo l’ente si serve di tutte le
+informazioni disponibili provenienti dalla prospettiva economica per il calcolo
+dell’LCR.
+Principio 4: tutti i rischi rilevanti sono identificati e
+considerati nell’ILAAP
+(i)    L’ente è responsabile di attuare un regolare processo di identificazione di tutti i
+       rischi rilevanti ai quali è, o potrebbe essere esposto, nella prospettiva
+       economica e in quella normativa. Tutti i rischi ritenuti rilevanti dovrebbero
+       essere considerati in tutte le parti dell’ILAAP in base a una tassonomia dei
+       rischi definita internamente.
+(ii)   Adottando un approccio globale, che comprenda il complesso delle linee di
+       attività, delle esposizioni e dei soggetti giuridici significativi, l’ente dovrebbe
+       identificare con frequenza almeno annuale i rischi rilevanti, applicando la
+       propria definizione interna di rilevanza. Il processo di identificazione dei rischi
+       dovrebbe dar luogo a un inventario interno dei rischi esaustivo.
+(iii) In presenza di partecipazioni finanziarie e non finanziarie, entità controllate e
+       altri soggetti collegati, l’ente dovrebbe individuare i rischi significativi sottostanti
+       ai quali è o potrebbe essere esposto e tenerne conto nell’ILAAP.
+(iv) Ci si attende che l’ente detenga liquidità sufficiente a fronte di tutti i rischi
+       ritenuti rilevanti o che documenti le ragioni per non detenere liquidità.
+31
+     In conformità dell’articolo 25, paragrafi 2 e 3, del Regolamento delegato (UE) 2015/61 della
+     Commissione, del 10 ottobre 2014, che integra il Regolamento (UE) n. 575/2013 del Parlamento
+     europeo e del Consiglio per quanto riguarda il requisito di copertura della liquidità per gli enti creditizi
+     (GU L 11 del 17.1.2015, pag. 1).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                        20
+
+Processo di identificazione dei rischi
+55. Ci si attende che l’ente metta in atto un regolare processo di identificazione di
+       tutti i rischi rilevanti e li compili in un inventario interno dei rischi esaustivo.
+       Applicando la propria definizione interna di rilevanza, l’ente dovrebbe
+       assicurare che l’inventario sia sempre aggiornato. Oltre agli aggiornamenti
+       periodici (con frequenza almeno annuale), l’ente dovrebbe adeguare l’inventario
+       qualora non riflettesse più i rischi rilevanti, ad esempio perché è stato introdotto
+       un nuovo prodotto o sono state ampliate alcune linee di attività.
+56. L’identificazione dei rischi dovrebbe essere esaustiva e considerare sia la
+       prospettiva normativa sia quella economica. Oltre ai rischi correnti, ci si attende
+       che l’ente consideri, nella propria valutazione prospettica dell’adeguatezza della
+       liquidità, tutti i rischi, e tutte le concentrazioni all’interno di quei rischi e fra di
+       essi 32, che possono emergere dal perseguimento delle proprie strategie o da
+       mutamenti rilevanti del contesto operativo.
+57. Il processo di identificazione dei rischi dovrebbe seguire un “approccio lordo”,
+       cioè tralasciando le tecniche specifiche volte a mitigare i rischi sottostanti.
+       L’ente dovrebbe valutare successivamente l’efficacia delle azioni di
+       mitigazione 33.
+58. In linea con gli Orientamenti dell’ABE sui limiti delle esposizioni verso soggetti
+       del sistema bancario ombra (ABE/GL/2015/20), l’ente dovrebbe, nell’ambito
+       dell’approccio all’identificazione dei rischi, individuare le proprie esposizioni a
+       tali soggetti, tutti i rischi potenziali derivanti, nonché il loro eventuale impatto.
+59. L’organo di amministrazione ha il compito di decidere quali tipologie di rischio
+       sono da ritenere rilevanti e quali dei rischi rilevanti debbano avere copertura di
+       liquidità. Occorre quindi giustificare perché un determinato rischio cui l’ente è
+       esposto non sia considerato rilevante.
+Inventario dei rischi
+60. Nell’elaborare l’inventario interno dei rischi l’ente è responsabile di definire la
+       propria tassonomia interna dei rischi e non semplicemente adottare una
+       tassonomia regolamentare.
+61. Ci si attende che nell’inventario dei rischi l’ente consideri i rischi sottostanti, se
+       rilevanti, che scaturiscono dalle proprie partecipazioni finanziarie e non
+       finanziarie, entità controllate e altri soggetti collegati (ad esempio rischio
+       infragruppo, rischi reputazionali e operativi, rischi derivanti da lettere di
+       patronage ecc.).
+32
+    Si fa riferimento alle concentrazioni intra-rischio e infra-rischi.
+33
+    L’“approccio lordo” illustrato in questa sede si riferisce al processo di identificazione dei rischi. Non ci si
+    attende dagli enti che prescindano dalle azioni di mitigazione nel determinare la liquidità necessaria
+    alla copertura dei rischi.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                       21
+
+62. Ci si attende che l’ente, in misura proporzionale, guardi oltre i rischi derivanti
+      dalle partecipazioni e individui, comprenda e quantifichi i rischi significativi
+      sottostanti, per poi tenerne conto nella propria tassonomia, indipendentemente
+      dal fatto che i soggetti interessati siano inclusi o meno nel perimetro
+      prudenziale. La profondità dell’analisi dei rischi sottostanti dovrebbe essere
+      commisurata all’attività imprenditoriale e all’approccio alla gestione dei rischi.
+63. Ci si attende che l’ente consideri tutti i prodotti, clienti e contratti (indicatori) in
+      ottica di scadenza e comportamentale per i diversi orizzonti temporali previsti,
+      compreso l’infragiornaliero. Tali rischi possono derivare ad esempio da un
+      aumento dei deflussi, da un calo degli afflussi oppure da un minore valore di
+      liquidità delle attività liquide. A questo riguardo andrebbero considerate sia le
+      voci di bilancio sia quelle fuori bilancio, includendo gli effetti in termini di
+      emergenza di liquidità delle richieste di garanzie e di margini dovute a
+      movimenti di mercato o a una riduzione del merito di credito dell’ente
+      (compreso il riacquisto volontario di debito per assicurare l’accesso al mercato
+      in futuro).
+64. Ne costituiscono un esempio gli strumenti di finanziamento innovativi con
+      opzioni call che modificano la scadenza del finanziamento (compresi fra l’altro i
+      depositi rimborsabili con preavviso e i pronti contro termine); questi dovrebbero
+      essere identificati e considerati quale fonte di possibile rischio di emergenza di
+      liquidità. Un ulteriore esempio è dato dalle operazioni di swap con garanzie reali
+      che possono influire sull’entità e sulla composizione delle consistenze di attività
+      liquide; qualsiasi rischio potenziale derivante da tali operazioni dovrebbe essere
+      chiaramente identificato e incluso negli indicatori di rischio.
+65. In caso di attività transfrontaliere, l’ILAAP dovrebbe comprendere una
+      valutazione degli impedimenti al trasferimento di liquidità tra entità giuridiche,
+      paesi e valute e quantificare l’impatto di detti impedimenti sulla disponibilità di
+      liquidità in tutto il gruppo.
+66. L’ILAAP dovrebbe assicurare un solido processo di determinazione e
+      monitoraggio delle valute considerate rilevanti per il rischio di liquidità e/o per il
+      rischio di finanziamento. Ci si attende che l’ente identifichi chiaramente
+      qualunque rischio rilevante, compresi quelli connessi all’operatività
+      transfrontaliera, che porti alla (parziale) assunzione di rischio di liquidità o di
+      finanziamento in una valuta diversa da quella delle corrispondenti riserve di
+      attività liquide. Tali rischi dovrebbero essere quantificati nell’ILAAP in condizioni
+      sia di normalità (posizioni di bilancio e differenze valutarie) sia di stress (valore
+      di liquidità delle attività liquide in valuta estera rispetto ai deflussi netti in valuta
+      estera in condizioni di stress) per ciascuna valuta considerata rilevante.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                      22
+
+Principio 5: le riserve di liquidità interne sono di qualità
+elevata e chiaramente definite; le fonti stabili di
+finanziamento interne sono chiaramente definite
+(i)     L’ente dovrebbe definire, valutare e preservare le riserve di liquidità interne e le
+        fonti interne di finanziamento stabili nella prospettiva economica. La definizione
+        di riserve di liquidità interne dovrebbe essere coerente con il concetto di
+        adeguatezza economica della liquidità e con la quantificazione interna dei rischi
+        dell’ente 34.
+(ii)    Le riserve di liquidità interne dovrebbero essere qualitativamente solide ed
+        essere determinate in modo conservativo e prudente. Ci si attende che l’ente
+        dimostri in maniera chiara, presupponendo la continuità operativa, come la
+        liquidità interna sia disponibile per la copertura dei rischi, pur assicurando tale
+        continuità.
+(iii) Le fonti di finanziamento dovrebbero essere stabili al fine di assicurare la
+        continuità nel più lungo termine delle attività aziendali.
+Definizione delle riserve di liquidità interne
+67. Ci si attende che l’ente definisca le attività e gli afflussi futuri che possono
+        essere considerati disponibili ai fini della valutazione dell’adeguatezza della
+        liquidità, adottando un approccio conservativo e prudente. Tale definizione
+        interna dovrebbe basarsi sulla probabilità che le fonti siano utilizzate per
+        ottenere liquidità in condizioni normali e di stress. Occorrerebbe elaborare una
+        visione interna esplicita riguardo alla composizione desiderata delle riserve di
+        attività liquide utilizzate per coprire i rischi di liquidità. In particolare, ci si attende
+        che l’ente differenzi le attività con probabilità elevata di rimanere liquide in
+        condizioni di stress da quelle che possono essere utilizzate solo per ottenere
+        liquidità dalle banche centrali. Per entrambe le componenti andrebbero definiti
+        limiti interni, con un chiaro legame tra le dimensioni desiderate delle riserve di
+        attività liquide e i rischi di liquidità che potrebbero concretizzarsi nei vari
+        orizzonti temporali, pari almeno a un anno.
+Definizione delle fonti stabili di finanziamento interne
+68. Ai fini della valutazione della sostenibilità del finanziamento, ci si attende che
+        l’ente definisca le fonti di finanziamento che possono essere considerate stabili,
+        adottando un approccio conservativo e prudente. A tale scopo, occorrerebbe
+34
+     Gli orientamenti esposti in Guidelines on Liquidity Buffers & Survival Periods del CEBS definiscono la
+     riserva di liquidità interna come la liquidità in eccesso prontamente disponibile da utilizzare in situazioni
+     di stress di liquidità entro un breve periodo, ossia il segmento a breve della capacità di compensazione
+     in uno scenario ipotizzato di stress. La riserva inoltre dovrebbe essere determinata sulla base di tre
+     dimensioni: la gravità e le caratteristiche dello scenario di stress, l’orizzonte temporale stabilito quale
+     periodo di sopravvivenza e le caratteristiche delle attività ricomprese nella riserva.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                        23
+
+        elaborare una visione interna esplicita in merito alla vischiosità dei depositi e al
+        profilo (comportamentale) dei flussi di cassa, prendendo in considerazione
+        ipotesi comportamentali. Ci si attende che l’ente valuti la stabilità del proprio
+        profilo di finanziamento, tenendo conto della diversità (o concentrazione) delle
+        fonti, dei mercati e dei prodotti, e che valuti altresì l’accesso ai mercati in termini
+        di volume e prezzi tenendo conto delle attività vincolate correnti e delle loro
+        variazioni attese nell’esecuzione del piano di finanziamento.
+Principio 6: le metodologie di quantificazione dei rischi
+nell’ambito dell’ILAAP sono adeguate, coerenti e
+convalidate in maniera indipendente
+(i)     L’ente è responsabile dell’attuazione di metodologie di quantificazione dei rischi
+        adeguate alle proprie circostanze specifiche sia nella prospettiva economica sia
+        in quella normativa. Inoltre, l’ente dovrebbe utilizzare metodologie adeguate per
+        la quantificazione delle potenziali variazioni future della propria posizione di
+        liquidità e finanziamento negli scenari avversi. Ci si attende che l’ente adotti un
+        elevato livello di prudenza in entrambe le prospettive affinché gli eventi a bassa
+        probabilità ed elevato impatto siano considerati in maniera adeguata.
+(ii)    I parametri e le ipotesi fondamentali dovrebbero essere coerenti in tutto il
+        gruppo e tra le diverse tipologie di rischio. Tutte le metodologie di
+        quantificazione dei rischi dovrebbero essere oggetto di convalida interna
+        indipendente. L’ente dovrebbe stabilire e attuare un efficace quadro di
+        riferimento per la qualità dei dati.
+Quantificazione dei rischi esaustiva
+69. L’ILAAP dovrebbe assicurare che i rischi ai quali l’ente è/potrebbe essere
+        esposto siano quantificati adeguatamente. Ci si attende che l’ente applichi
+        metodologie di quantificazione dei rischi idonee alle proprie circostanze
+        specifiche, ossia in linea con la propensione al rischio, le aspettative di
+        mercato, il modello imprenditoriale, il profilo di rischio, le dimensioni e la
+        complessità.
+70. Non andrebbero esclusi dalla valutazione i rischi difficilmente quantificabili o per
+        i quali non sono disponibili i dati rilevanti 35. In tal caso, l’ente dovrebbe produrre
+        dati sui rischi sufficientemente prudenti tenendo in considerazione tutte le
+35
+     Per i rischi difficili da quantificare (ad esempio a causa di mancanza di dati o metodologie consolidate
+     di quantificazione) ci si attende che l’ente definisca metodologie adeguate per la quantificazione dei
+     rischi, anche tramite il ricorso al giudizio dell’esperto.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                    24
+
+      informazioni rilevanti e assicurando adeguatezza e coerenza nella scelta delle
+      metodologie di quantificazione 36.
+71. Nei parametri e nelle ipotesi fondamentali rientrano, fra l’altro, i livelli di
+      confidenza e le ipotesi per la definizione degli scenari.
+Livello di prudenza
+72. Le metodologie e le ipotesi di quantificazione dei rischi utilizzate nelle
+      prospettive economica e normativa dovrebbero essere robuste,
+      sufficientemente stabili, sensibili al rischio nonché abbastanza prudenti da
+      quantificare i deflussi di liquidità che si verificano raramente. Le incertezze
+      derivanti dalle metodologie di quantificazione dei rischi dovrebbero essere
+      affrontate con maggiore prudenza.
+Scelta delle metodologie di quantificazione dei rischi
+73. L’ente ha la responsabilità di mettere in atto metodologie adeguate sia per la
+      quantificazione dei rischi sia per la determinazione delle proiezioni. La presente
+      guida non definisce di per sé alcuna aspettativa rispetto all’utilizzo o al non
+      utilizzo di particolari metodologie di quantificazione; non stabilisce pertanto che,
+      per quantificare i rischi a cui è o può essere esposto, l’ente debba utilizzare, ad
+      esempio, le metodologie (modificate) di primo pilastro (ad esempio per tenere
+      conto dei rischi di concentrazione), i risultati delle prove di stress o altre
+      metodologie quali gli scenari multipli.
+74. Le metodologie applicate dovrebbero essere coerenti tra loro, con la prospettiva
+      considerata e con le definizioni di liquidità e finanziamento stabile. Dovrebbero
+      cogliere in modo adeguato e sufficientemente prudente i rischi a cui l’ente è
+      esposto, tenendo conto del principio di proporzionalità. Pertanto ci si attende,
+      ad esempio, che enti più grandi o più complessi, anche in termini di rischi a cui
+      sono esposti, adottino metodologie di quantificazione più sofisticate per
+      l’adeguata rilevazione dei rischi.
+75. Non ci si attende tuttavia che l’ente applichi metodologie che non comprende
+      appieno e che quindi non utilizza internamente a fini decisionali e di gestione
+      dei rischi. L’ente dovrebbe essere in grado di dimostrare l’adeguatezza delle
+      metodologie rispetto alla situazione e al profilo di rischio specifici. Nel caso di
+      utilizzo di modelli dei fornitori, ci si attende altresì che questi non siano applicati
+      in maniera meccanicistica, ma vengano compresi appieno dall’ente e siano
+      rispondenti e adeguati al suo contesto operativo e al suo profilo di rischio.
+36
+    La misurazione dei rischi difficili da quantificare dovrebbe essere coerente e confrontabile, per quanto
+    possibile, con il complesso delle ipotesi di quantificazione. L’ente dovrebbe fare in modo che tali rischi
+    siano adeguatamente considerati nei relativi processi di gestione e controllo, indipendentemente dal
+    fatto che siano quantificati con modelli tradizionali o analisi di scenario oppure con altre stime.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                    25
+
+Qualità dei dati
+76. Ci si attende che l’ente ricorra a processi e meccanismi di controllo adeguati
+        per garantire la qualità dei dati 37. Il quadro di riferimento per la qualità dei dati
+        dovrebbe assicurare informazioni affidabili sui rischi a sostegno di un solido
+        processo decisionale e includere tutti i dati pertinenti ai rischi e tutte le
+        dimensioni della qualità dei dati.
+Convalida indipendente
+77. Le metodologie di quantificazione dei rischi dell’ILAAP dovrebbero essere
+        periodicamente oggetto di convalida interna 38 indipendente, osservando in
+        misura proporzionale i principi alla base dei rispettivi standard fissati per i
+        modelli interni di primo pilastro e tenendo conto della rilevanza dei rischi
+        quantificati nonché della complessità della metodologia di quantificazione.
+78. A seconda delle dimensioni e della complessità dell’ente possono essere
+        adottate varie soluzioni organizzative per assicurare l’indipendenza tra le
+        funzioni di sviluppo e di convalida delle metodologie di quantificazione.
+        Nondimeno, andrebbero rispettati i concetti sottostanti le varie linee di difesa,
+        ossia la convalida indipendente non dovrebbe essere condotta dalla funzione di
+        internal audit.
+79. Ci si attende che le conclusioni complessive del processo di convalida siano
+        comunicate all’alta dirigenza e all’organo di amministrazione, che siano
+        utilizzate ai fini della revisione periodica e dell’aggiustamento delle metodologie
+        di quantificazione e che vengano considerate nella valutazione
+        dell’adeguatezza della liquidità.
+Esempio 6.1
+Organizzazione della convalida indipendente
+Per assicurare la convalida indipendente e proporzionale delle metodologie di
+quantificazione dei rischi dell’ILAAP, l’ente dovrebbe prendere in considerazione la
+versione preliminare della Guida della BCE sui modelli interni – Capitolo sui temi
+generali.
+A seconda di natura, entità, portata e complessità dei rischi l’ente può adottare, ad
+esempio, una delle seguenti strutture organizzative che assicurino l’indipendenza
+della funzione di convalida dal processo di sviluppo della metodologia (ossia
+37
+    La qualità dei dati riguarda, ad esempio, la loro completezza, accuratezza, coerenza, tempestività,
+    unicità, validità e tracciabilità. Cfr. per ulteriori informazioni il progetto di guida della BCE Guide for the
+    Targeted Review of Internal Models (TRIM), febbraio 2017.
+38
+    “Interna” non significa che a svolgere ogni attività di convalida debba essere l’ente. Come per
+    l’“internal” audit, si riferisce al fatto che l’ente è responsabile di questo processo.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                          26
+
+progettazione, sviluppo, applicazione e monitoraggio delle metodologie di
+quantificazione dei rischi):
+•     presenza di due unità distinte che fanno capo a esponenti diversi dell’alta
+      dirigenza;
+•     presenza di due unità distinte che fanno capo allo stesso esponente dell’alta
+      dirigenza;
+•     separazione del personale all’interno della stessa unità.
+Principio 7: lo svolgimento di prove di stress periodiche è
+teso ad assicurare l’adeguatezza della liquidità in
+condizioni avverse
+(i)   La BCE si attende che, su base annua o con maggiore frequenza a seconda
+      delle singole circostanze, l’ente svolga un esame mirato e approfondito delle
+      proprie vulnerabilità tenendo conto, a livello di ente nel suo complesso, di tutti i
+      rischi rilevanti che derivano dal modello imprenditoriale e dal contesto operativo
+      in condizioni macroeconomiche e finanziarie di stress. Sulla scorta di questo
+      esame, l’ente dovrebbe definire un programma adeguato per lo svolgimento di
+      prove di stress nella prospettiva normativa ed economica.
+(ii)  Nell’ambito del programma per le prove di stress, ci si attende che l’ente
+      definisca gli scenari avversi da utilizzare in entrambe le prospettive, tenendo
+      conto degli altri esercizi di stress che conduce. L’applicazione di ipotesi
+      macroeconomiche gravi ma plausibili e la particolare attenzione alle principali
+      vulnerabilità dovrebbero determinare un impatto rilevante sulla posizione di
+      liquidità interna e regolamentare dell’ente. L’ente dovrebbe inoltre condurre
+      prove inverse di stress in misura proporzionale.
+(iii) L’ente dovrebbe monitorare e individuare nel continuo l’emergere di nuove
+      minacce, vulnerabilità e mutamenti del contesto. L’obiettivo è verificare, almeno
+      con frequenza trimestrale, che gli scenari delle prove di stress siano sempre
+      adeguati, provvedendo eventualmente ad adattarli alle nuove circostanze.
+      L’impatto degli scenari andrebbe aggiornato periodicamente, ad esempio su
+      base trimestrale. In caso di modifiche rilevanti, l’ente dovrebbe valutarne i
+      potenziali effetti sulla propria adeguatezza della liquidità nel corso dell’anno.
+Definizione del programma delle prove di stress
+80. Ci si attende che il programma delle prove di stress includa sia la prospettiva
+      normativa sia la prospettiva economica. Il programma dovrebbe considerare
+      diversi orizzonti temporali (compreso l’infragiornaliero) e tenere conto della
+      relativa ripartizione delle valute. Nella definizione interna dell’insieme degli
+      scenari di stress e delle sensibilità, l’ente dovrebbe utilizzare un’ampia gamma
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                     27
+
+       di informazioni su eventi di stress storici e ipotetici. È responsabilità dell’ente
+       definire scenari e sensibilità nel modo che meglio riflette la situazione specifica
+       e tradurli in afflussi e deflussi e valori di liquidità applicabili alle attività liquide.
+       La prospettiva normativa dovrebbe essere considerata nel programma per le
+       prove di stress in modo da analizzare in vari momenti l’impatto degli eventi di
+       stress sull’evoluzione delle proiezioni dei coefficienti regolamentari come l’LCR,
+       in linea con il paragrafo 46.
+81. Nella definizione degli scenari delle prove di stress, gli enti dovrebbero cogliere
+       le proprie vulnerabilità rilevanti, tenuto conto rispettivamente del modello
+       imprenditoriale, del profilo di rischio e delle condizioni esterne alle quali sono
+       esposti. Le altre prove di stress condotte, ad esempio le analisi di sensibilità,
+       dovrebbero informare gli scenari utilizzati evidenziando le vulnerabilità rilevanti
+       dell’ente.
+82. Poiché la trasferibilità della liquidità può variare considerevolmente nei periodi
+       di stress rispetto a quelli di normalità, ci si attende che gli enti caratterizzati da
+       operatività transfrontaliera significativa valutino la trasferibilità della liquidità
+       all’interno del gruppo e ne tengano conto nel proprio programma delle prove di
+       stress. Dovrebbero analizzare l’impatto e la probabilità di ulteriori impedimenti
+       alla trasferibilità della liquidità in condizioni di stress, in particolare per le attività
+       al di fuori dell’area dell’euro, e individuare gli interventi correttivi e le misure di
+       emergenza per tale scenario.
+Livello di gravità degli scenari avversi
+83. Nella valutazione dello scenario di base, l’ente dovrebbe considerare gli
+       andamenti che ipotizzerebbe in circostanze attese, tenendo conto della
+       strategia aziendale, comprese ipotesi credibili relative ad afflussi e deflussi, al
+       concretizzarsi dei rischi ecc.
+84. Ci si attende che negli scenari avversi l’ente ipotizzi andamenti eccezionali ma
+       plausibili con un adeguato grado di gravità in termini di impatto sulla posizione
+       di liquidità. Il livello di gravità dovrebbe corrispondere a quello di andamenti che
+       siano tanto gravi, ma tuttavia plausibili, dal punto di vista dell’ente quanto
+       qualunque evento di stress osservabile in una situazione di crisi nei mercati, nei
+       fattori o negli ambiti di maggiore rilievo per l’adeguatezza della liquidità
+       dell’ente.
+85. L’insieme degli scenari avversi dovrebbe considerare in maniera adeguata
+       recessioni economiche, turbative dei mercati e shock finanziari gravi,
+       vulnerabilità specifiche dell’ente, dipendenza dalle principali fonti di
+       finanziamento nonché le loro plausibili combinazioni 39.
+39
+    Il numero adeguato di scenari dipende, fra l’altro, dal profilo di rischio specifico dell’ente. In genere,
+    dovrebbero essere necessari vari scenari avversi per riflettere adeguatamente le diverse combinazioni
+    plausibili dei rischi.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                       28
+
+Coerenza rispetto alle principali vulnerabilità
+86. In relazione alle prove di stress ci si attende che l’ente si focalizzi sulle proprie
+       vulnerabilità principali per definire scenari avversi plausibili. Le prove di stress
+       condotte nel quadro dell’ICAAP e dell’ILAAP dovrebbero fornirsi informazioni
+       reciprocamente; ossia andrebbero prese in considerazione in entrambi i
+       processi le ipotesi sottostanti, i risultati e gli interventi di gestione previsti. Ad
+       esempio, se nelle prove di stress dell’ILAAP si applica un evento di stress al
+       differenziale creditizio o ai rating delle attività ricomprese nella riserva di
+       liquidità, l’impatto deve essere considerato anche nelle prove di stress
+       dell’ICAAP e viceversa.
+Prove inverse di stress
+87. In aggiunta agli esercizi di stress che valutano l’impatto di determinate ipotesi
+       sulla posizione di liquidità, ci si attende che l’ente conduca prove inverse di
+       stress. Tali valutazioni dovrebbero avere come punto di partenza
+       l’individuazione di un risultato predeterminato, quale la non sostenibilità del
+       modello imprenditoriale 40.
+88. Le prove inverse di stress andrebbero impiegate per verificare la completezza e
+       il grado di prudenza delle ipotesi applicate nel quadro dell’ILAAP. Le prove
+       inverse di stress dovrebbero essere condotte almeno una volta all’anno. A
+       seconda della probabilità degli scenari risultanti, può essere necessario farvi
+       fronte immediatamente adottando o preparando gli interventi di gestione
+       nell’ambito dell’ILAAP, al fine di ovviare a una situazione di risanamento che si
+       verificherebbe se uno o più scenari delle prove inverse di stress analizzati
+       nell’ILAAP si realizzassero. Inoltre, nel contesto dell’ILAAP, le prove inverse di
+       stress potrebbero essere considerate un punto di partenza per lo sviluppo degli
+       scenari del piano di risanamento 41. Maggiori dettagli sono reperibili nei relativi
+       orientamenti dell’ABE e del CBVB.
+Esempio 7.1
+Interazione fra le prove di stress in ambito ICAAP e ILAAP
+Ci si attende che l’ente valuti l’impatto potenziale degli scenari rilevanti, integrando
+gli effetti sul capitale e sulla liquidità nonché i potenziali effetti di retroazione, tenendo
+conto in particolare delle perdite derivanti dalla liquidazione di attività o dagli
+incrementi dei costi di finanziamento in periodi di stress.
+40
+    Cfr. gli orientamenti dell’ABE sulle prove di stress degli enti (ABE/GL/2018/04).
+41
+    Come indicato negli Orientamenti dell’ABE sulla serie di scenari da utilizzare nei piani di risanamento
+    (ABE/GL/2014/06), dovrebbero essere impiegati scenari di prossimità al default, ovvero scenari nei
+    quali si determinerebbe la non sostenibilità del modello imprenditoriale di un ente o di un gruppo, in
+    assenza di efficaci interventi di risanamento.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                                   29
+
+Esempio 7.2
+Prove inverse di stress
+Nelle prove inverse di stress l’ente ricorre a ipotesi su deflussi di depositi e altri
+fattori di rischio (ad esempio abbassamento del rating dell’ente e richieste di
+riacquisto del debito) per stimare il livello dei deflussi che determinerebbe l’esaurirsi
+delle proprie riserve di liquidità e delle altre fonti di finanziamento di emergenza. La
+tavola seguente illustra l’esito della valutazione, indicando i tassi di deflusso per tre
+diversi scenari.
+                                      Scenario 1             Scenario 2                Scenario 3
+ Ipotesi sul deflusso di depositi
+ Al dettaglio                            49%                     7%                       10%
+ Imprese                                 33%                    63%                       60%
+ Istituzioni finanziarie                 62%                    91%                       94%
+ Altre ipotesi (non esaustive)
+ Abbassamento del rating                4 livelli              4 livelli                 4 livelli
+ Riacquisto del debito                    0%                    15%                       15%
+Ci si attende che l’ente determini la probabilità che si verifichino tali scenari e
+l’eventuale necessità di interventi correttivi.
+Esempio 7.3
+Calibrazione degli scenari avversi
+Gli scenari avversi tengono conto degli andamenti storici osservati nei mercati e nel
+comportamento della clientela, pur non limitandosi a tali dati storici che riguardano
+solo l’ente. Inoltre, la progettazione dello scenario dell’ente non si limita
+all’osservazione delle serie storiche, in particolare nei casi in cui queste sono distorte
+(ad esempio dal sostegno del settore pubblico). Ciò riduce l’accuratezza dei
+parametri di stress stimati per i deflussi e gli afflussi, nonché degli scarti applicati al
+valore stimato delle attività liquide.
+Tali scenari avversi potrebbero prevedere sia una prospettiva di ordinaria operatività
+(normale conduzione delle attività, possibilità limitata di afflussi dal portafoglio
+prestiti, ricorso alle attività negoziabili principalmente per generare liquidità,
+riacquisto del debito per assicurare l’accesso al mercato in futuro ecc.) sia scenari in
+cui non è possibile evitare una profonda alterazione del modello imprenditoriale (ad
+esempio l’ente cessa di generare attività, di corrispondere dividendi e incentivi,
+utilizza tutte le garanzie idonee per ottenere liquidità, compreso il finanziamento
+della banca centrale, non esercita le opzioni call sui propri strumenti di debito o di
+capitale).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Principi                                                                                           30
+
+3 Glossario
+  Adeguatezza della liquidità
+  Grado di copertura dei rischi offerto dalla liquidità dell’ente. L’obiettivo dell’ILAAP è
+  preservare un livello di liquidità adeguato su base continuativa, sia nella prospettiva
+  economica sia nella prospettiva normativa, contribuendo alla continuità dell’ente nel
+  medio termine.
+  Approccio lordo nell’identificazione dei rischi
+  In base all’approccio lordo i rischi vengono anzitutto identificati senza tenere conto di
+  azioni di attenuazione specificamente concepite.
+  Architettura dell’ILAAP
+  Diversi elementi dell’ILAAP e relative interconnessioni. L’architettura complessiva
+  dell’ILAAP dovrebbe assicurare che i suoi diversi elementi interagiscano in modo
+  organico e che l’ILAAP sia parte integrante del quadro complessivo di gestione
+  dell’ente. Nella propria documentazione sull’ILAAP l’ente dovrebbe includere una
+  descrizione di tale architettura che illustri come l’ILAAP sia integrato e come i suoi
+  risultati siano utilizzati dall’ente.
+  Concetto di adeguatezza economica della liquidità
+  Concetto interno inteso ad assicurare, nella prospettiva economica, la capacità
+  dell’ente di coprire con le proprie risorse finanziarie (liquidità interna) i rischi a cui è
+  soggetto e i deflussi attesi e di preservare la propria continuità operativa nel tempo 42.
+  Dichiarazione sull’adeguatezza della liquidità
+  Dichiarazione formale dell’organo di amministrazione che presenta la propria
+  valutazione dell’adeguatezza della liquidità dell’ente ed espone le principali
+  argomentazioni a sostegno.
+  Dichiarazione sulla propensione al rischio
+  Dichiarazione formale in cui l’organo di amministrazione esprime il proprio parere
+  sugli importi e sulle tipologie di rischio che l’ente intende assumere per realizzare i
+  propri obiettivi strategici.
+  Fonti di finanziamento pubbliche
+  Tutte le fonti di finanziamento fornite direttamente o indirettamente dal settore
+  pubblico secondo la definizione contenuta nell’allegato 1 degli Orientamenti dell’ABE
+  in materia di definizioni e modelli armonizzati per i piani di finanziamento degli enti
+  creditizi ai sensi della raccomandazione A4 del CERS/2012/2 (ABE/GL/2014/04).
+  42
+      È responsabilità degli enti stessi attuare metodologie adeguate per la quantificazione dei rischi; non vi
+      è alcuna aspettativa generale che gli enti utilizzino “modelli di liquidità economici” per assicurarne
+      l’adeguatezza.
+  Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+  Glossario                                                                                                  31
+
+ILAAP
+Il processo interno di valutazione dell’adeguatezza della liquidità definito dall’articolo
+86 della CRD IV in base al quale le autorità competenti devono assicurare che gli
+enti siano dotati di strategie, politiche, processi e sistemi solidi per identificare,
+misurare, gestire e monitorare il rischio di liquidità su una serie adeguata di orizzonti
+temporali, anche infragiornalieri, in modo da assicurare che gli enti mantengano
+riserve di liquidità di livello adeguato.
+Interventi gestionali
+Interventi assunti dalla dirigenza (ad esempio ricorso alla provvista) per mantenere
+la posizione di liquidità/finanziamento su livelli compatibili con la propensione al
+rischio 43.
+Inventario dei rischi
+Elenco dei rischi individuati e delle loro caratteristiche. È il risultato del processo di
+identificazione dei rischi.
+Meccanismo di allocazione dei costi-benefici
+Meccanismo che ripartisce costi, benefici e rischi di liquidità nell’ambito delle
+strategie, delle politiche, dei processi e dei sistemi dell’ente.
+Orizzonte di medio termine
+Orizzonte temporale che copre il breve e il medio periodo. Dovrebbe cogliere la
+posizione di liquidità almeno dell’anno successivo e la posizione di finanziamento
+almeno dei tre anni successivi.
+Pianificazione del finanziamento
+Processo interno multidimensionale per la definizione di un piano di finanziamento
+che presenta una proiezione pluriennale delle fonti di finanziamento dell’ente,
+tenendo conto degli scenari di base e avversi, della strategia e dei piani operativi. La
+valutazione degli scenari avversi è un elemento fondamentale della pianificazione
+del finanziamento in quanto contribuisce a che gli enti continuino a operare anche in
+un prolungato periodo di stress.
+Piano di risanamento
+Piano preparato e aggiornato da un ente a norma dell’articolo 5 della BRRD 44.
+Processo di identificazione dei rischi
+Regolare processo messo in atto dall’ente per individuare i rischi che sono o
+potrebbero essere rilevanti per lo stesso ente.
+43
+    Cfr. per ulteriori indicazioni la sezione 4.8.2, interventi della dirigenza, degli orientamenti dell’ABE sulle
+    prove di stress degli enti (ABE/GL/2018/04).
+44
+    Direttiva 2014/59/UE del Parlamento europeo e del Consiglio, del 15 maggio 2014, che istituisce un
+    quadro di risanamento e risoluzione degli enti creditizi e delle imprese di investimento e che modifica la
+    Direttiva 82/891/CEE del Consiglio, e le Direttive 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE,
+    2007/36/CE, 2011/35/UE, 2012/30/UE e 2013/36/UE e i Regolamenti (UE) n. 1093/2010 e (UE)
+    n. 648/2012, del Parlamento europeo e del Consiglio (GU L 173 del 12.6.2014, pag. 190).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Glossario                                                                                                      32
+
+Proporzionalità
+Principio di cui all’articolo 86 della CRD IV, in base al quale l’ILAAP deve essere
+proporzionato alla complessità, al profilo di rischio, all’operatività dell’ente e alla
+propensione al rischio definita dall’organo di amministrazione.
+Prospettiva economica interna
+Prospettiva dell’ILAAP in base alla quale l’ente gestisce l’adeguatezza della liquidità
+assicurando che i propri rischi e deflussi attesi siano coperti in misura sufficiente
+mediante la liquidità interna disponibile.
+Prospettiva normativa interna
+Prospettiva pluriennale dell’ILAAP in base alla quale l’ente gestisce l’adeguatezza
+della liquidità assicurando che sia in grado di soddisfare tutti i requisiti normativi e le
+richieste di vigilanza relativi alla liquidità e di far fronte agli altri vincoli di liquidità
+interni ed esterni nel tempo.
+Prova inversa di stress
+Prova di stress che parte dall’individuazione di un risultato predefinito
+(l’insostenibilità economica del modello imprenditoriale) per poi esplorare gli scenari
+e le circostanze suscettibili di determinare quel risultato.
+Quantificazione dei rischi
+Processo che consiste nel quantificare i rischi individuati sviluppando e applicando le
+metodologie atte a produrre dati sui rischi e a consentire un raffronto tra i rischi e la
+liquidità disponibile dell’ente.
+Revisione interna e convalida
+La revisione interna comprende un’ampia gamma di controlli, valutazioni e rapporti
+volti ad assicurare che le strategie, i processi e i modelli dell’ILAAP rimangano solidi,
+esaustivi, efficaci e commisurati.
+La convalida, in quanto parte della revisione interna, include i processi e le attività
+tesi a valutare se le metodologie di quantificazione dei rischi e i dati sui rischi
+dell’ente colgano adeguatamente gli aspetti rilevanti del rischio. In misura
+proporzionale, la convalida delle metodologie di quantificazione dovrebbe essere
+condotta in maniera indipendente e osservare i principi soggiacenti i rispettivi
+standard definiti per i modelli interni di primo pilastro.
+Rischio rilevante
+Rischio al ribasso connesso alla liquidità che, in base alle definizioni interne
+dell’ente, ha un impatto rilevante sul suo profilo di rischio complessivo e che pertanto
+può incidere sull’adeguatezza della liquidità.
+Riserva gestionale
+Importo di liquidità superiore ai requisiti minimi regolamentari e di vigilanza e al
+fabbisogno interno di liquidità che permette all’ente di perseguire su base durevole il
+proprio modello aziendale e rimanere flessibile riguardo alle possibili opportunità
+imprenditoriali, senza compromettere l’adeguatezza della liquidità.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Glossario                                                                                      33
+
+Risultati dell’ILAAP
+Ogni informazione che derivi dall’ILAAP e conferisca valore aggiunto al processo
+decisionale.
+Scenario avverso
+Combinazione di andamenti ipotetici avversi (anche macroeconomici e finanziari
+nonché gravi turbative dei mercati) di fattori interni ed esterni che si utilizza per
+valutare la capacità di tenuta dell’adeguatezza della liquidità di un ente rispetto a
+potenziali sviluppi avversi in un orizzonte di medio termine. Gli andamenti ipotetici di
+fattori interni ed esterni andrebbero combinati in modo coerente e risultare gravi ma
+plausibili dal punto di vista dell’ente, riflettendo i rischi e le vulnerabilità ritenuti le
+minacce più pertinenti per l’ente.
+Scenario di base
+Combinazione di andamenti attesi (anche macroeconomici e finanziari) di fattori
+interni ed esterni che si utilizza per valutarne l’impatto sull’adeguatezza della liquidità
+di un ente. Lo scenario di base dovrebbe essere coerente con i fondamenti del piano
+industriale e del bilancio di previsione dell’ente.
+Sistema di limiti
+Sistema gerarchico di limiti documentato, stabilito in linea con la strategia
+complessiva e la propensione al rischio dell’ente per far sì che i rischi e le perdite
+possano essere efficacemente arginati in linea con il concetto di adeguatezza della
+liquidità. Il sistema di limiti dovrebbe fissare una demarcazione efficace per
+l’assunzione dei rischi, ad esempio, per tipologie di rischio, aree funzionali, prodotti e
+soggetti del gruppo.
+Tassonomia dei rischi
+Classificazione delle varie tipologie / dei vari fattori di rischio in base al quale l’ente
+può valutare, aggregare e gestire i rischi in maniera coerente mediante un linguaggio
+e una mappatura comuni degli stessi.
+Tolleranza al rischio
+Tipologie di rischio e rispettivi livelli ai quali l’ente non si espone intenzionalmente,
+ma che accetta/tollera.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza della liquidità (ILAAP)
+Glossario                                                                                    34
+
+Siglario
+ABE               Autorità bancaria europea
+ANC               autorità nazionale competente
+AT1               Additional Tier 1 (capitale aggiuntivo di classe 1)
+BCE               Banca centrale europea
+BRRD              Bank Recovery and Resolution Directive (direttiva sul risanamento e sulla risoluzione delle crisi nel settore bancario)
+CBVB              Comitato di Basilea per la vigilanza bancaria
+CERS              Comitato europeo per il rischio sistemico
+CRD IV            Capital Requirements Directive (direttiva sui requisiti patrimoniali)
+FSB               Financial Stability Board
+ICAAP             internal capital adequacy assessment process (processo interno di valutazione dell’adeguatezza patrimoniale, ICAAP)
+ILAAP             internal liquidity adequacy assessment process (processo interno di valutazione dell’adeguatezza della liquidità, ILAAP)
+LAS               liquidity adequacy statement (dichiarazione sull’adeguatezza della liquidità)
+LCP               liquidity contingency plan (piano di emergenza di liquidità)
+LCR               liquidity coverage ratio (coefficiente di copertura della liquidità)
+MVU               Meccanismo di vigilanza unico
+RAF               risk appetite framework (quadro di riferimento per la determinazione della propensione al rischio)
+SI                significant institution (ente significativo)
+SREP              Supervisory Review and Evaluation Process (processo di revisione e valutazione prudenziale)
+TRIM              Targeted Review of Internal Models (analisi mirata dei modelli interni)
+© Banca centrale europea, 2018
+Recapito postale                        60640 Frankfurt am Main, Germany
+Telefono                                +49 69 1344 0
+Internet                                www.ecb.europa.eu
+Tutti i diritti riservati. È consentita la riproduzione a fini didattici e non commerciali, a condizione che venga citata la fonte.
+

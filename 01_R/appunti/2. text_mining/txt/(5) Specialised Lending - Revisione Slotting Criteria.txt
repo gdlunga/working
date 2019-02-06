@@ -1,0 +1,1031 @@
+Specialised Lending
+ Revisione Slotting Criteria
+                             Direzione CRO
+                   Area Lending Risk Officer
+                              Agosto 2018
+
+Summary
+ Il presente documento si pone i seguenti obiettivi:
+ 1.    Mostrare i risultati della Gap analysis effettuata rispetto alla normativa di riferimento e rispetto ai technical standards EBA nell’uso della
+       metodologia degli Slotting Criteria per la valutazione con metodo avanzato degli Specialised Lending (validati all’utilizzo di tale
+       approccio nel giugno del 2015).
+ 2.    Presentare i risultati di un benchmarking effettuato con altri peers italiani
+ 3.    Proporre alcuni interventi necessari a colmare i gap osservati rispetto ai requisiti normativi e le best practice di mercato. In particolare si
+       prevedono interventi volti a:
+        •   Rivedere il processo di identificazione e trattamento delle operazioni di Specialised Lending
+        •   Colmare le lacune osservate rispetto ai requisiti normativi, rivedendo ad esempio i criteri di classificazione dei questionari, le
+            modalità di determinazione del punteggio finale (attraverso anche la revisione dei pesi dei singoli fattori e sotto fattori),
+            proponendo una nuova metodologia per il trattamento delle casistiche di «overlapping criteria»
+        •   Prevedere la facoltà da parte del gestore di un override (solo peggiorativo) al giudizio precedentemente determinato.
+ 4.    Proporre una revisione della filiera deliberativa degli Slotting Criteria su MPS CS
+                                                                                                                                                       2
+
+  Gap analysis MPS rispetto alla
+normativa di riferimento e ai recenti
+    Technical standards EBA
+                                      3
+
+     Post emanazione dei technical standards EBA del 2016, si è reso necessario verificare la conformità dei modelli
+     utilizzati per la valutazione degli Specialised Lending rispetto alla normativa di riferimento
+      Modelli Specialised Lending – As is MPS                                                                                             Normativa RTS EBA1
+                                                                                                                                          • I technical standards EBA forniscono delle linee
+  • La Banca attualmente utilizza l’approccio Slotting Criteria per la                                                                       guida per la valutazione del rischio delle esposizioni
+      valutazione del rischio delle esposizioni identificate come                                                                            Specialised Lending
+      Specialised Lending (SL); nello specifico:
+                                                                                                                                          • La normativa specifica in particolare quali fattori gli istituti
+      – Esposizioni IPRE su MPS e MPS Capital Services
+                                                                                                                                             dovrebbero includere nell’assegnazione del risk weights a
+      – Esposizioni Project e Object Finance su MPS Capital Services                                                                         tali esposizioni e con quali modalità
+  • Il GMPS ha sviluppato i modelli SL sulla base della Circolare
+      263 di Banca d’Italia del 2006
+  • Nel giugno del 2016 l’EBA ha rilasciato i nuovi technical
+      standards sulle esposizioni SL
+            Si è ritenuto opportuno effettuare un assessment per
+           identificare gli eventuali gap esistenti tra i modelli della
+                                  Banca e le linee guida
+                                                                    Focus prossima sezione
+1. EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013
+                                                                                                                                                                                                             4
+
+                                                                                                                                                                                                                                        Per discussione
+  Analisi della normativa – RTS EBA (2016/02)
+  Specialised Lending (1/5)                                                                                                                                                               Sostanziale adeguatezza rispetto ai requisiti
+                                                                                                                                                                                          Mancata o parziale adeguatezza rispetto ai requisiti
+         Ambito                        Rif.       Normativa/Linee guida                                                                               Prassi MPS                                       Raccomandazione
+                                                  • For SL exposures in respect of which an institution is not able to estimate
+                                                    PDs or the institutions’ PD estimates do not meet the requirements set out in
+                                                    CRR, the institution shall assign risk weights to these exposures according to
+                                                    Table 1, as follows:                                                                              • La Banca assegna i risk weights
+                                       (1)                 Remaning                                                                                     per le esposizioni SL in accordo
+                                                                             Cat 1       Cat 2     Cat 3       Cat 4      Cat 5
+                                                           Maturity                                                                                     con quanto previsto dalla
+                                                           Less 2,5 y           50%        70%       115%        250%         0%                        normativa
+                                                           More 2,5 y           70%        90%       115%        250%         0%
+                                                  • Institutions [shall] take into account the following factors in assigning risk                    • I questionari IPRE di MPS e CS
+                                                                                                                                                                                                       • Introdurre nei questionari
+                                                    weights to SL: ‘financial strength, political and legal environment, transaction                    non tengono conto del fattore
+                                                                                                                                                                                                         IPRE la valutazione del
+                                       (2)          and/or asset characteristics, strength of the sponsor and developer,                                «Contesto politico-giuridico»
+                                                                                                                                                                                                         fattore «contesto politico-
+  1      Presupposti della
+         normativa
+                                                    including any public private partnership income stream, and security
+                                                    package”
+                                                                                                                                                        poiché non presente nella circ.
+                                                                                                                                                        263 di Banca d’Italia
+                                                                                                                                                                                                         giuridico»
+                                                  • where institutions do not apply a certain sub-factor or sub-factor component
+                                                                                                                                                      • Non sono documentate eventuali                 • Una volta recepito i
+                                                    for a particular type of SL exposures, on the basis of their not being relevant,
+                                                                                                                                                        eccezioni poiché il questionario è               questionari RTS/EBA,
+                                       (8)          institutions should also be required to document this decision and provide a
+                                                                                                                                                        conforme alla circ. 263 di Banca                 motivare eventuali
+                                                    justification for why this sub-factor or sub-factor component is irrelevant for
+                                                                                                                                                        d’Italia                                         esclusioni
+                                                    all SL exposures;
+                                                                                                                                                                                                       • Nella revisione dei
+                                                  • it should be possible for institutions to consider that additional risk driver
+                                                                                                                                                      • Sono presenti risk driver                        questionari valutare se
+                                                    jointly with the sub-factor which most closely corresponds to that risk driver
+                                       (9)                                                                                                              addizionali che non vengono                      adottare dei risk driver
+                                                    of the specialised lending exposure framework, documenting those
+                                                                                                                                                        giustificati                                     addizionali e nel caso
+                                                    decisions and their appropriateness
+                                                                                                                                                                                                         giustificarli
+Source: MPS Rating Area, analisi OW, EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013
+                                                                                                                                                                                                                                                     5
+
+                                                                                                                                                                                                                                             Per discussione
+ Analisi della normativa – RTS EBA (2016/02)
+ Specialised Lending (2/5)                                                                                                                                                                     Sostanziale adeguatezza rispetto ai requisiti
+                                                                                                                                                                                               Mancata o parziale adeguatezza rispetto ai requisiti
+         Ambito                        Rif.       Normativa/Linee guida                                                                                   Prassi MPS                                          Raccomandazione
+                                        Art.
+                                                  • Institutions shall [for performing and default obligors] determine to which class
+  2      Classificazione delle
+         esposizioni SL
+                                       1.1(a)
+                                        Art.
+                                                    of exposure (‘project finance’, ‘real estate’, ‘object financing’, ‘commodities
+                                                    financing’) the SL exposure belongs
+                                                                                                                                                          • Il GMPS determina la classe di
+                                                                                                                                                             appartenenza delle esposizioni SL
+                                       1.2(a)
+                                        Art       • When assigning risk weights to SL exposures in respect of which the obligors are                      • La Banca assegna alle esposizioni
+                                       1.1(b)       in default […], institutions shall […] [assign] those exposures to category 5                            SL in default la categoria 5
+                                                                                                                                                                     Focus della sezione 4                    • Recepire i questionari
+                                                                                                                                                                                                                RTS/EBA includendo i
+                                                  • [for performing obligors, institutions] shall assess the SL exposure with reference                   • La Banca non considera tutti i sotto-               fattori/sotto-fattori/
+                                        Art         to each factor, against the assessment criteria provided for each of the sub-                            fattori/componenti presenti                        componenti mancanti
+         Assegnazione                  1.2(b)       factors, some of which are, in turn, further specified in sub-factor components,                         nell’appendice del technical
+  3      risk weights alle
+         esposizioni SL
+                                                    contained in the relevant Annex to this Regulation:                                                      standards                                        • Unificare i questionari per le
+                                                                                                                                                                                                                esposizioni IPRE su MPS e
+                                                                                                                                                                                                                MPS CS
+                                                                                                                                                                                                              • Allineare con la normativa
+                                                                                                                                                          • La Banca assegna alle esposizione
+                                                                                                                                                                                                                 EBA che prevede
+                                                  • [for performing obligors, institutions] shall assign the SL exposure to category                         SL in bonis un giudizio in linea con
+                                     Art 1.2(c)                                                                                                                                                                  l’assegnazione delle
+                                                    one, two, three or four                                                                                  la circ 263 di Banca d’Italia (Forte,
+                                                                                                                                                                                                                 esposizioni SL ad una
+                                                                                                                                                             Buono, Sufficiente, Debole)
+                                                                                                                                                                                                                 categoria da 1 a 4
+Source: MPS Rating Area, analisi OW, EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013
+                                                                                                                                                                                                                                                          6
+
+                                                                                                                                                                                                                                           Per discussione
+  Analisi della normativa – RTS EBA (2016/02)                                                                                                                                                Sostanziale adeguatezza rispetto ai requisiti
+  Specialised Lending (3/5)                                                                                                                                                                  Mancata o parziale adeguatezza rispetto ai requisiti
+         Ambito                       Rif.      Normativa/Linee guida                                                                               Prassi MPS                                       Raccomandazione
+                                                • For the purposes of determining to which overall category the SL exposure is
+                                      Art 1.3
+                                                  to be assigned, institutions shall do all of the following
+                                                                                                                                                    • Capital Service utilizza un sistema
+                                                  – where one or several of the sub-factors are further specified in sub-factor
+                                                                                                                                                      di punteggi da 10 a 1
+                                                    components, determine the cardinal numbers of the categories to which                                                                            • Allineare il sistema di
+                                                    the SL exposure is assigned for each sub-factor component on the basis                          • MPS utilizza un sistema di                       punteggi di Capital Service
+                                                    of the assessment referred to in paragraph 2(b), and combine the                                  punteggi da 4 a 1, così come                     da 1 a 4 per singolo
+                                                    assignments of these sub-factor components on the basis of their relative                         previsto da RTS/EBA                              componente dei sotto-
+                                        (a)
+                                                    importance to determine the cardinal numbers of the categories of these                                                                            fattori
+                                        (b)                                                                                                         • I punteggi dei componenti dei
+                                                    sub-factors;
+                                                                                                                                                      sotto-fattori sono combinati                   • Arrotondare il voto di sotto-
+                                                  – where none of the sub-factors are further specified in sub-factor                                 tramite media pesata; tuttavia, il
+         Criteri per                                                                                                                                                                                   fattore risultante al numero
+                                                    components, determine the cardinal numbers of the categories to which                             voto risultanti di sotto-fattore non
+         l’assegnazione                                                                                                                                                                                intero più vicino
+                                                    the SL exposure is assigned for each sub-factor on the basis of the
+  4      della categoria da
+         1 a 4 alle
+                                                    assessment referred to in paragraph 2(b);
+                                                                                                                                                      viene arrotondato al numero
+                                                                                                                                                      intero più vicino
+         esposizioni SL
+                                                                                                                                                    • I voti assegnati ai sotto-fattori
+                                                                                                                                                      vengono combinati in base alla
+                                                  – combine the assignments of the sub-factors on the basis of their relative                         loro importanza per calcolare il               • Arrotondare il voto di
+                                        (c)         importance to determine the cardinal number of the categories of the                              voto dei fattori                                 fattore risultante al numero
+                                                    respective factors;                                                                             • Il voto risultante, tuttavia, non                intero più vicino
+                                                                                                                                                      viene arrotondato al numero
+                                                                                                                                                      intero più vicino
+                                                  – specify the weight in percentage that they assign to each factor, on the                        • I pesi assegnati ai singoli fattori
+                                        (d)         basis of the relative importance of each factor under the condition that                          vengono esplicitati dalla Banca e
+                                                    such a weight is not lower than 5% and not higher than 60%;                                       rientrano nei limiti previsti
+Source: MPS Rating Area, analisi OW, EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013
+                                                                                                                                                                                                                                                        7
+
+                                                                                                                                                                                                                                           Per discussione
+Analisi della normativa – RTS EBA (2016/02)                                                                                                                                                  Sostanziale adeguatezza rispetto ai requisiti
+Specialised Lending (4/5)                                                                                                                                                                    Mancata o parziale adeguatezza rispetto ai requisiti
+         Ambito                        Rif.       Normativa/Linee guida                                                                                    Prassi MPS                                          Raccomandazione
+                                                                                                                                                           • Nella determinazione del giudizio
+                                                    – determine the weighted average of the cardinal numbers of the categories                               dell’esposizione SL, viene calcolato il
+                                       (e)
+                                                        under which they have classified the SL exposure for all factors;                                    voto da attribuire come media
+                                                                                                                                                             pesata dei voti dei singoli fattori
+                                                                                                                                                           • La Banca non arrotonda il voto
+                                                    – where the weighted average is a decimal number, round that number to the                                                                                 • Arrotondare il voto risultante
+                                       (f)                                                                                                                   risultante ma utilizza delle soglie per
+                                                        nearest cardinal number                                                                                                                                  al numero intero più vicino
+                                                                                                                                                             determinare la categoria
+                                                                                                                                                           • Il giudizio viene assegnato all’
+         Criteri per                                – assign the SL exposure to category one, two, three or four of Table 1 of Article                       esposizioni SL sulla base della
+                                       (g)
+                                                        153(5) of CRR on the basis of that weighted average referred to in points (e)(f).                    media pesata dei voti dei singoli
+ 4       l’assegnazione della
+         categoria da 1 a 4                                                                                                                                  fattori
+         alle esposizioni SL
+                                                  • Where the assessment criteria provided for one or several of the sub-factors are
+                                                    the same across several categories for that sub-factor (‘overlapping criteria’),
+                                                    institutions shall assign the relevant factor to a category based on the
+                                                    assignment of the SL exposure of the sub-factors with no overlapping criteria.
+                                                                                                                                                           • La Banca non ha definito una                      • Valutare una metodologia
+                                                    Where the combined assignment based on the sub-factors with no overlapping
+                                       Art 1.4                                                                                                               metodologia di trattamento degli                    per trattare le casistiche di
+                                                    criteria is to a lower cardinal number than the combined assignment of the sub-
+                                                                                                                                                             «overlapping criteria»                              «overlapping criteria»
+                                                    factors with the overlapping criteria, they shall make appropriate and
+                                                    conservative adjustments to that assignment. Where there are overlapping
+                                                    criteria for one or several of the sub-factor components, institutions shall apply
+                                                    the same principle.
+Source: MPS Rating Area, analisi OW, EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013
+                                                                                                                                                                                                                                                        8
+
+                                                                                                                                                                                                                                        Per discussione
+Analisi della normativa – RTS EBA (2016/02)                                                                                                                                               Sostanziale adeguatezza rispetto ai requisiti
+Specialised Lending (5/5)                                                                                                                                                                 Mancata o parziale adeguatezza rispetto ai requisiti
+          Ambito                       Rif.      Normativa/Linee guida                                                                                Prassi MPS                                        Raccomandazione
+                                                 • Institutions shall apply the assessment criteria referred to in:
+                                                    – Annex 1 for Project finance exposure                                                            • Sia MPS che CS adottano dei
+          Applicazione dei
+   5      criteri di
+          valutazione
+                                        Art. 2      – Annex 2 for Real estate exposure
+                                                    – Annex 3 for Object financing exposure
+                                                                                                                                                        questionari di valutazione allineati
+                                                                                                                                                        alla circ. 263/2009 di Banca
+                                                                                                                                                                                                        • Recepire i questionari dei
+                                                                                                                                                                                                           technical standards
+                                                                                                                                                        D’Italia
+                                                    – Annex 4 for Commodities financing exposure
+                                                                                                                                                      • Il documento metodologico IPRE                  • Documentare
+                                                 • Institutions shall document for each type of SL exposure the assignment of                           di MPS non riporta le motivazioni                  opportunamente le
+                                       Art. 3.1
+                                                    weights to each factor and the justification for these assignments                                  alla base della scelta dei pesi dei                motivazioni sottostanti la
+                                                                                                                                                        fattori                                            scelta dei pesi dei fattori
+                                                 • Institutions shall document all of the following information for each SL
+   6      Documentazione                            exposure for which they assign risk weights:                                                      • La Banca documenta per ciascun
+                                                    – the class of the SL exposure;                                                                     esposizione SL la classe, la
+                                       Art 3.2      – the category to which the SL exposure has been assigned;                                          categoria, la maturity rimanente e
+                                                    – the remaining maturity;                                                                           le informazioni relative al processo
+                                                    – the assessment of the SL exposure at each step of the process that led to                         di assegnazione del giudizio
+                                                      its assignment to one of the rating categories.
+ Source: MPS Rating Area, analisi OW, EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013
+                                                                                                                                                                                                                                                     9
+
+Risultati analisi di benchmarking
+    sugli Specialised Lending
+ effettuata su altri peers italiani
+                                    10
+
+Modalità di identificazione delle esposizioni Specialised Lending
+ Ambito di analisi                                  MPS                                 Banca 1                                 Banca 2                                   Banca 3
+                                                                                                                • Gestore per raccolta informazioni
+Struttura incaricata per processo                                        • Gestore per raccolta informazioni
+                                  • Gestore della relazione                                                     • Direzione crediti e Rating Office per • Gestore della relazione
+di identificazione                                                       • Ufficio Crediti per approvazione
+                                                                                                                  controllo e validazione
+Soglie di materialità per                                                • Soglia di materialità per                                                    • Soglia di materialità di 2€mln per
+                                  • Assenti                                                                     • Assenti
+identificazione SL                                                         identificazione SL >5€mln                                                      identificazione SL
+                                  • SL solo su determinate forme         • La controparte viene interamente • La controparte viene interamente • La controparte viene interamente
+Identificazione SL
+                                    tecniche. Le FT che non rientrano      identificata come SL, tutte le forme identificata come SL, tutte le forme identificata come SL, tutte le forme
+per controparte o
+                                    nei criteri SL sono trattate con       tecniche sono trattate in modo         tecniche sono trattate in modo          tecniche sono trattate in modo
+per forma tecnica
+                                    modelli AIRB                           omogeneo                               omogeneo                                omogeneo
+                                                                                                                • Al 3° anno il Rating Office verifica • Dopo un determinato periodo
+                                  • Le esposizioni rimangono SL          • Le esposizioni rimangono SL            se il set informativo relativo alla     temporale (es. 3 anni), le controparti
+Trattamento
+                                    fintanto che rispettano i criteri di   fintanto che rispettano i criteri di   controparte risulta significativo ed    vengono trattate con modelli IRB
+a regime
+                                    identificazione                        identificazione                        utilizzabile ai fini dell’assegnazione corporate post verifica cambiamenti
+                                                                                                                  di un rating statistico                 del business plan
+                                                                                                                                                        Verifica delle informazioni disponibili per
+                                                                                                                                                                          passaggio a modelli IRB
+                                                                                                                                                                                                    11
+
+Modalità di definizione e utilizzo degli Slotting Criteria
+  Ambito di analisi                                        MPS                                          Banca 1                                        Banca 2
+ Modalità di
+                                   • Esperta                                      • Esperta                                      • Esperta
+ determinazione dei pesi
+ Soglia di materialità per
+                                   • Presente soglia di 5€mln                     • Assente                                      • Assente
+ applicazione Slotting
+ Scadenza del giudizio             • Ogni 12 mesi                                 • Ogni 18 mesi                                 • Ogni 12 mesi
+                                   • Compilazione questionario attribuzione
+                                     giudizio
+                                      -   MPS CS : Gestore (CCO)
+ Struttura incaricata del processo
+ di attribuzione della                - MPS: Gestore (CCO) e Ag. Rating (CRO)     • Rating Unit                                  • Rating Unit
+ categoria/revisione               • Conferma del giudizio:
+                                      -   MPS CS: Uff. Valut. Credit (CLO)
+                                      -   MPS: Agenzia di Rating (CRO)
+ Trattamento dei giudizi slotting  • Il giudizio viene congelato finché non viene • Il giudizio viene congelato finché non viene • Il giudizio viene congelato finché non viene
+ scaduti                             rivisto il questionario                        rivisto il questionario                        rivisto il questionario
+                                                                                                                                                                                12
+
+Allineamento ai Technical Standards EBA
+          Ambito di analisi                                                      MPS                                                         Banca 1                                                      Banca 2
+         Aderenza questionari (fattori,
+         sotto-fattori, etc.) a requisiti EBA                                     <U+F0FB>                                                             <U+F0FC>                                                            <U+F0FC>
+         RTS1
+                                                     • Su MPS CS <U+F0E0> da 1 a 10
+         Score assegnato ai fattori                                                                                                          Da 1 a 4                                                      Da 1 a 4
+                                                     • Su MPS <U+F0E0> da 1 a 4
+         Arrotondamento score finale
+         risultante                                                               <U+F0FB>                                                             <U+F0FC>                                                            <U+F0FC>
+         Identificazione e trattamento casi
+         di «overlapping                                                          <U+F0FB>                                                             <U+F0FC>                                                             <U+F0FB>
+         criteria»                                                                                                                                                                  (Non formalmente ma come prassi interna)
+                                                      IPRE                                                           IPRE
+                                                      1. Pacchetto garanzie                                          1. Solidità finanziaria
+                                                      2. Solidità finanziaria                                        2. Caratteristiche attività
+                                                      3. Solidità sponsor                                            3. Pacchetto garanzie/Forza dello sponsor
+                                                      PF                                                             PF                                                           PF
+                                                      1. Caratteristiche transazione                                 1. Solidità finanziaria                                      1. Caratteristiche della transazione
+         Ranking fattori (top 3)
+                                                      2. Solidità finanziaria                                        2. Caratteristiche transazione                               2. Solidità finanziaria
+                                                      3. Contesto politico                                           3. Forza dello sponsor                                       3. Contesto politico
+                                                      OF
+                                                      1. Solidità finanziaria
+                                                      2. Solidità sponsor
+                                                      3. Caratteristiche attività
+     1. EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013 (Capital Requirements Regulation – CRR)
+                                                                                                                                                                                                                             13
+
+  Interventi di revisione proposti sul
+     processo di identificazione e
+valutazione degli Specialised Lending
+                                       14
+
+Portafoglio Specialised Lending al 31/12/2017
+Sulla base delle attuali regole utilizzate internamente al GMPS dei 2,7 €/bln di crediti classificati come Specialised Lending, 2,3 €/bln sono trattati con il metodo
+degli slotting criteria, i restanti 0,4 €/bln con il metodo Standard (dove si assegna il giudizio, non utilizzato ai fini prudenziali, solo al momento dell’erogazione).
+               Slotting Criteria                                                                                                  Standard
+               Etichette di riga        # NDG    # RAPP         EAD            RWA           PA         FONDI           DPA       Etichette di riga        # NDG    # RAPP       EAD         RWA
+                  BM PS                       12      195      99.415.512     105.416.443   20.438.654   12.840.075     7.598.579    BM PS                     371       1644  276.919.054  244.995.162
+                    IPRE                      12      195      99.415.512     105.416.443   20.438.654   12.840.075     7.598.579      IPRE                    371       1644  276.919.054  244.995.162
+                       PERFORM ING             8      169      64.430.932     105.416.443    2.946.364      442.283     2.504.081         PERFORM ING          332       1301  245.175.514  203.846.038
+                         2                     1        1       6.184.503       5.566.052       49.476       76.402 -      26.926           0                  228        735  109.446.219   82.151.068
+   Giudizio              3                     5      158      33.900.506      38.985.582      949.214      265.671       683.543           2                     7        12    2.806.927    2.564.374
+                         4                     2       10      24.345.923      60.864.808    1.947.674      100.210     1.847.464           3                    78       500  108.464.074   97.036.941
+                       NON PERFORM ING         4       26      34.984.580             -     17.492.290   12.397.793     5.094.498           4                    19        54   24.458.294   22.093.655
+                  M PS CAPITAL SERVICES      135      287   2.180.053.590   1.430.352.174  409.681.429  506.927.228 -  97.245.799         NON PERFORM ING        39       343   31.743.539   41.149.124
+                    PROJECT FINANCE           58      148   1.027.986.080     872.245.366   61.776.814   89.039.990 -  27.263.176    M PS CAPITAL SERVICES     104        122  136.327.362  136.291.436
+                       PERFORM ING            47      125     928.020.197     872.245.366   10.819.519   27.823.095 -  17.003.576      PROJECT FINANCE           22        33   57.517.993   57.322.046
+                         1                     3        4      23.932.627      16.752.839       95.731      200.280 -     104.549         PERFORM ING            19        30   57.234.994   57.039.048
+                         2                    39      104     727.099.977     651.956.794    5.768.136   13.883.747 -   8.115.611           2                    18        28   53.190.302   52.994.356
+                         3                     5       17     176.987.593     203.535.732    4.955.653   13.739.068 -   8.783.416           3                     1         2    4.044.692    4.044.692
+                       NON PERFORM ING        11       23      99.965.883             -     50.957.295   61.216.895 -  10.259.600         NON PERFORM ING         3         3      282.998      282.998
+                    IPRE                      73      129   1.065.561.511     445.050.430  323.645.087  394.031.794 -  70.386.707      IPRE                      78        84   73.575.596   73.735.617
+                       PERFORM ING            26       52     472.829.549     445.050.430    6.493.185    4.867.546     1.625.639         PERFORM ING            19        20   23.093.928   21.592.344
+                         1                     1        2      13.893.865       9.475.444       50.570      111.212 -      60.642           1                     5         5    2.932.239    2.123.352
+                         2                    15       30     304.237.547     257.672.128    2.111.067    3.170.888 -   1.059.821           2                    11        11   10.932.658   10.239.962
+                         3                    10       20     154.698.137     177.902.858    4.331.548    1.585.446     2.746.102           3                     3         4    9.229.030    9.229.030
+                       NON PERFORM ING        47       77     592.731.962             -    317.151.902  389.164.248 -  72.012.346         NON PERFORM ING        59        64   50.481.668   52.143.273
+                    OBJECT FINANCE             4       10      86.505.999     113.056.379   24.259.528   23.855.444       404.084      OBJECT FINANCE             4         5    5.233.773    5.233.773
+                       PERFORM ING             1        7      45.222.552     113.056.379    3.617.804    1.554.695     2.063.109         PERFORM ING             3         4    5.194.949    5.194.949
+                         4                     1        7      45.222.552     113.056.379    3.617.804    1.554.695     2.063.109           0                     1         2    2.637.154    2.637.154
+                       NON PERFORM ING         3        3      41.283.448             -     20.641.724   22.300.748 -   1.659.025           2                     2         2    2.557.795    2.557.795
+               Totale complessivo           147       482 2.279.469.102   1.535.768.617   430.120.083  519.767.303 -  89.647.220          NON PERFORM ING         1         1       38.824       38.824
+                                                                                                                                  Totale complessivo           475      1766  413.246.415  381.286.598
+                                                                                                                                                                                                        15
+
+Alla luce dei benchmark di mercato e della gap analysis con la normativa, sono stati identificati una serie di
+ambiti di intervento per il trattamento degli Specialised Lending
+                  Principali interventi   Descrizione
+                                        • Concetto di iniziativa e Soglia di materialità: introduzione del concetto di
+                                          «iniziativa SL» e di una soglia di materialità sulla identificazione SL
+                      Revisione del
+                       processo di      • Identificazione operazioni SL a livello di controparte, non differenziando per tipo
+            1        identificazione
+                            e di
+                                          di fido in modo da valutare la rischiosità della controparte in modo consistente
+                                        • Trattamento a regime: introduzione di criteri di valutazione affinché le
+                     attribuzione del     esposizioni possano essere trattate con modelli interni corporate invece che con
+                          giudizio        approccio slotting una volta che il business della controparte risulti a regime
+                                        • Introduzione della possibilità di override del giudizio solo in senso prudenziale
+                                        • Revisione dei questionari: aggiornamento dei questionari Slotting secondo i
+                                          Technical Standars EBA e allineamento delle IPRE di BMPS e di MPS CS
+                                        • Revisione punteggi e calcolo dello score finale: i) aggiornamento votazione
+                        Revisione
+            2      questionari Slotting
+                         Criteria
+                                          sotto-criteri/componenti assegnando un voto da 1 a 4; ii) Arrotondamento dello
+                                          score dei sotto-fattori/fattori; iii) Arrotondamento dello score finale
+                                        • Valutazione eventuali «overlapping»: identificate le casistiche in cui è presente un
+                                          overlapping criteria tra le diverse categorie e definita una metodologia di
+                                          trattamento
+                       Modalità di      • Un gruppo di lavoro (MPS e CS) ha rivisto in maniera esperta i pesi associati a
+            3        definizione dei
+                            pesi
+                                          ciascun fattore/sotto fattore/componente a seguito del recepimento delle
+                                          domande dei questionari EBA e del processo di armonizzazione degli stessi tra
+                                          BMPS e MPS
+                                                                                                                               16
+
+             1
+Revisione del processo di
+    identificazione e di
+ attribuzione del giudizio
+                           17
+
+Revisione del processo di identificazione
+                          Intervento introdotto                                                  Descrizione
+                          • Si passa dal concetto di «singola linea di credito SL» al concetto di «Iniziativa SL»
+        Iniziativa
+       immobiliare        • Nell’ambito di una «Iniziativa SL» possono essere raggruppate più linee di credito con forme tecniche differenti ma riconducibili alla stessa
+                             iniziativa (per esempio, oltre al Mutuo Edilizio, lo scoperto di conto corrente e le fideiussioni a supporto dell’iniziativa)
+                          • Viene introdotta in identificazione una soglia di materialità di 5 €/MLN calcolata sul totale del massimo tra accordati/utilizzi delle linee di credito
+                             segnalate come riferibili all’Iniziativa SL*
+   Soglia di materialità  • Se la soglia non viene superata, l’iniziativa non viene identificata come SL e il processo non prosegue con la fase di classificazione (Giudizio SL) ma
+                             con l’attribuzione del Rating Ufficiale Interno (AIRB), ove applicabile secondo la normativa interna.
+                          • Se la soglia viene superata, l’iniziativa viene identificata come SL e il processo prosegue con la fase di classificazione (Giudizio SL).
+                          • Una volta identificata come «Iniziativa SL», la riduzione degli affidamenti non è condizione sufficiente per rivedere l’identificazione.
+                                                                                     EFFETTO
+                                                  AS IS                                                                                TO BE
+                         • Processo di identificazione di tutte le potenziali                       • Processo di identificazione di tutte le potenziali
+                            controparti                                                                  controparti
+                            – SL                                                                         – SL
+                            – Non SL                                                                     – SL sotto soglia
+                         • Classificazione di tutte le controparti identificate                          – Non SL
+                            (SL)                                                                    • Classificazione delle sole controparti che
+                                                                                                         superano la soglia di materialità (SL)
+                                                                                          * Nel caso di più iniziative la soglia si confronta con l’ammontare complessivo delle varie iniziative
+                                                                                                                                                                                                 18
+
+Revisione del processo di identificazione
+                     Intervento introdotto                                          Descrizione
+                         Identificazione         • Una volta assegnato il giudizio SL questo viene utilizzato per calcolare tutti gli
+                        operazioni SL a             assorbimenti a livello di controparte
+                             livello di
+                           controparte
+                                                                            EFFETTO
+                                           AS IS                                                             TO BE
+                    • Assorbimenti calcolati per rapporto                              • Assorbimenti calcolati per rapporto
+                    • Utilizzo del giudizio SL solo sui rapporti con le                • Se la controparte è classificata come SL, utilizzo
+                      linee di credito SL > 5 €/mln                                       del giudizio SL su tutti i rapporti della controparte
+                    • La conseguenza è un mix di trattamenti (Slotting,
+                      AIRB, Standard) sulla stessa controparte.
+                                                                                                                                                19
+
+Revisione del processo di identificazione
+                     Intervento introdotto                                       Descrizione
+                                               • In sede di questionario classificativo viene identificata la fase di vita del
+                                                   progetto
+                         Trattamento a         • Dopo almeno 24 mesi dal passaggio a regime di una iniziativa, se l’operatore
+                            regime
+                                                   ritiene stabile il set informativo, la posizione sarà valutata tramite modelli AIRB.
+                                                                            EFFETTO
+                                         AS IS                                                                  TO BE
+                    • La classificazione SL viene mantenuta finch é                       • La classificazione SL viene mantenuta finch é
+                      l’operazione diventa non rilevante nel bilancio                       l’operazione diventa non rilevante nel bilancio
+                      della controparte                                                     della controparte
+                                                                                                                OPPURE
+                                                                                          • La classificazione SL viene mantenuta finch é il
+                                                                                            set informativo non è ritenuto stabile
+                                                                                                                                             20
+
+Revisione del processo di identificazione
+                      Intervento introdotto                                        Descrizione
+                                                • La funzione preposta ha la possibilità di effettuare un override, solo in senso
+                          Possibilità di           prudenziale, del giudizio calcolato.
+                            override
+                                                                         EFFETTO
+                                          AS IS                                                             TO BE
+                     • La classificazione SL calcolata non è                          • La classificazione SL calcolata pu ò essere rivista
+                       modificabile. Informazioni rilevanti potrebbero                  in senso prudenziale, in presenza di adeguate
+                       non essere adeguatamente valutate nel giudizio                   motivazioni.
+                                                                                                                                            21
+
+         2
+Revisione questionari
+  Slotting Criteria
+                      22
+
+La revisione dei questionari a supporto dell’approccio Slotting ha previsto le seguenti attività
+      Linee guida / attività                   Descrizione                                                                                 Principali implicazioni per MPS e CS
+                                                                                                                                         • Necessario rivedere gli attuali questionari di valutazione Slotting alla
+      Implementazione dei questionari        • Applicazione dei questionari di valutazione previsti nel documento Final                     luce dei criteri standard definiti dal documento Final RTS/EBA1
+ 1    di valutazione degli Slotting             RTS/EBA1 (2016/02) per le tre classi di esposizioni Specialised Lending
+                                                                                                                                         • Documentare eventuali esclusioni di sotto-fattori/componenti o
+      previsti dagli RTS EBA                    presenti in MPS e CS: 1) Project Finance, 2) Real Estate, 3) Object Financing
+                                                                                                                                            inclusione di criteri di valutazione addizionali
+                                             • Definizione dei pesi applicati ai principali fattori di valutazione: solidità             • Rivedere gli attuali pesi dei fattori IPRE alla luce di:
+      Determinazione dei pesi dei               finanziaria, contesto politico-giuridico, caratteristiche della transazione,                – introduzione del fattore di contesto politico-giuridico
+ 2    fattori                                   solidità dello sponsor, pacchetto di garanzie                                               – integrazione dei criteri di valutazione tra MPS e CS
+                                             • I pesi devono essere definiti all’interno del range 5%/60%                                   – Eventuale revisione dei pesi dei fattori OF e PF
+                                             • Definizione della modalità di combinazione dei sotto-fattori ai fini del calcolo • Rivedere gli attuali pesi al fine di:
+                                                del punteggio dei fattori, prevedendo l’arrotondamento del voto risultante di
+      Determinazione delle modalità di                                                                                                      – recepire i sotto-fattori e i componenti introdotti dagli RTS1
+                                                fattore al numero intero più vicino
+ 3    combinazione dei sotto-fattori e
+                                             • Nei casi in cui i sotto-fattori siano declinati in più componenti, definizione
+                                                                                                                                            – integrare i criteri di valutazione tra MPS e CS su IPRE
+      dei relativi componenti
+                                                della modalità di combinazione di quest’ultimi, prevedendo l’arrotondamento • Implementare l’arrotondamento dei voti risultanti di fattore/sotto-fattore
+                                                del sotto-fattore al numero intero più vicino                                               al numero intero più vicino
+                                             • Implementazione delle modalità di calcolo del punteggio finale tramite:                   • Modificare l’attuale sistema di punteggi di CS, il quale utilizza degli
+      Applicazione della modalità di                                                                                                        score da 10 a 1
+                                                – Applicazione di punteggi da 1 a 4 per ogni sotto-fattore e componente
+ 4    determinazione del punteggio
+                                                – Arrotondamento al numero intero più vicino del punteggio ottenuto
+                                                                                                                                         • Modificare le modalità di calcolo del punteggio finale che attualmente
+      finale                                                                                                                                prevedono l’utilizzo di soglie per il mapping con le quattro classi di
+                                                   tramite media pesata delle valutazioni sui singoli fattori                               valutazione
+      Definizione della modalità di          • Definizione di una metodologia per il trattamento delle casistiche in cui i               • Identificare le casistiche identificare di overlapping criteria
+ 5    trattamento degli “overlapping            criteri di valutazione dei sotto-fattori sia indifferenziata per diverse categorie • Rivedere la metodologia per il calcolo dello score dei fattori che
+      criteria”                                 del sotto-fattore stesso                                                                    contengono sotto-fattori/componenti con overlapping
+    1. EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013 (Capital Requirements Regulation – CRR)
+                                                                                                                                                                                                                           23
+
+Revisione Filiera deliberativa
+        su MPS CS
+                               24
+
+Proposta di revisione del processo di assegnazione del giudizio su MPS CS
+ I finding 1 e 2 dell’IMI40 sotto riportati hanno ribadito la necessità all’interno dei processi del Gruppo MPS di una netta separatezza fra chi delibera il credito e chi
+ assegna un rating/giudizio ad una determinata controparte (sulla base del quale si dà oltretutto una terza linea guida a chi deve deliberare, sia nel caso di una nuova
+ erogazione o di una semplice revisione dei fidi).
+ 1) The Supervised Entities shall ensure the integrity of the rating assignment process with specific reference to the following elements: the role and responsibilities of
+ the parties involved in the rating process shall fully reflect the internal policies and regulations.
+ 2) A clear separation between the credit granting process and rating assignment process shall be ensured having regard to the membership of the head of “Servizi
+ Specialistici del Credito” in the Credit Committee.
+ Tale linea guida, rispettata oggi totalmente nell’attribuzione del rating AIRB dal GMPS, risulta parzialmente disattesa su MPS CS nell’attribuzione del giudizio agli SL.
+                                                      AS IS                                                                TO BE
+                               • L’Ufficio Project, Acquisition e Real Estate della                • L’Ufficio Project, Acquisition e Real Estate della
+                                  Direzione Corporate Finance & Investment è                         Direzione Corporate Finance & Investment è
+                                  responsabile dell’individuazione e della                           responsabile dell’individuazione e della
+                                  compilazione dei questionari Slotting Criteria                     compilazione dei questionari Slotting Criteria
+                               • L’Ufficio Valutazione Crediti della Direzione                     • Il Servizio Rating, Settore Dipartimentale Agenzia
+                                  Crediti è responsabile della validazione dei giudizi               di Rating di Firenze , sarà responsabile della
+                                  assegnati ad ogni singolo operazione SL                            validazione dei giudizi assegnati ad ogni singolo
+                                                                                                     operazione SL
+ Occorre pertanto prevedere un distaccamento delle risorse ad oggi sotto la Direzione Crediti di MPS CS all’Agenzia di Rating di Firenze dato che il know how
+ necessario alla valutazione delle operazioni SL della controllata non è attualmente presente all’interno del Servizio Rating. In tale contesto si potrebbe inoltre valutare
+ l’erogazione di tali crediti da parte della sola controllata, come di fatto oggi già accade anche se non previsto da nessun regolamento interno.
+                                                                                                                                                                             25
+
+               Appendice
+       Revisione dei questionari
+a supporto dell’approccio Slotting Criteria
+          Linee guida – Attività
+                                            26
+
+1. Implementazione dei questionari di valutazione allineati agli RTS/EBA: Real Estate
+                                                                                                                                                                                               Conformità questionari
+            <U+F0FB>     Elemento non presente      ~     Elemento recepito ma modificato               <U+F0FC>     Elemento conforme                Fattore ad oggi non considerato               Fattore ad oggi considerato
+         * Componenti alternative
+         1. Il questionario di MPS CS ha un solo sotto-fattori in termini di ratio finanziari, così come previsto dalla Circ. 263 di Bankit. I technical standards EBA hanno suddiviso il sotto-fattore in ratio finanziari ed advance ratio
+                                                                                                                                                                                                                                             27
+
+1. Implementazione dei questionari di valutazione allineati agli RTS/EBA: Project Finance (1/2)
+                                                                                                                                                              Conformità
+                                                                                                                                                             questionari CS
+       FACTOR                           1    FINANCIAL STRENGTH
+       Sub-Factor                      1a    Market conditions                                                                                                     ~
+       Sub-Factor                      1b    Financial ratios                                                                                                      ~
+       Sub-Factor                      1c    Stress analysis                                                                                                       ~
+       Sub-Factor                      1d    Financial structure                                                                                                   ~
+           Sub-Factor Component       1d1        Amortisation schedule                                                                                             ~
+           Sub-Factor Component       1d2        Market/cycle and refinancing risk                                                                                 <U+F0FB>
+       Sub-Factor                      1e    Foreign exchange risk                                                                                                 <U+F0FB>
+       FACTOR                           2    POLITICAL AND LEGAL ENVIRONMENT
+       Sub-Factor                      2a    Political risk, including transfer risk                                                                               ~
+       Sub-Factor                      2b    Force majeure risk                                                                                                    ~
+       Sub-Factor                      2c    Government support and project's importance for the country over the long term                                        ~
+       Sub-Factor                      2d    Stability of legal and regulatory environment                                                                         ~
+       Sub-Factor                      2e    Acquisition of all necessary supports and approvals                                                                   ~
+       Sub-Factor                      2f    Enforceability of contracts, collateral and security                                                                  <U+F0FC>
+       FACTOR                           3    TRANSACTION CHARACTERISTICS
+       Sub-Factor                      3a    Design and technology risk                                                                                            ~
+       Sub-Factor                      3b    Construction risk                                                                                                     ~
+           Sub-Factor Component       3b1        Permitting and siting                                                                                             <U+F0FC>
+           Sub-Factor Component       3b2        Type of construction contract                                                                                     ~
+           Sub-Factor Component       3b3        Likelihood to finish the project at agreed time and cost                                                          <U+F0FB>
+           Sub-Factor Component       3b4        Completion guarantees or liquidated damages                                                                       <U+F0FC>
+           Sub-Factor Component       3b5        Track record and financial strength of contractor                                                                 ~
+       Sub-Factor                      3c    Operating risk                                                                                                        ~
+           Sub-Factor Component       3c1        Scope, nature and complexity of O&M contracts                                                                     ~
+           Sub-Factor Component       3c2        Operator's expertise, track record and financial strength                                                         ~
+         <U+F0FB>   Elemento non presente ~ Elemento recepito ma modificato       <U+F0FC>      Elemento conforme        Fattore ad oggi non considerato Fattore ad oggi considerato
+       * Componenti alternative
+                                                                                                                                                                            28
+
+1. Implementazione dei questionari di valutazione allineati agli RTS/EBA: Project Finance (2/2)
+                                                                                                                                                                             Conformità
+                                                                                                                                                                            questionari CS
+     Sub-Factor                               3d   Revenue assessment including off-take risk                                                                                     ~
+         Sub-Factor Component                3d1      Robustness of the revenue contracts                                                                                         <U+F0FB>
+         Sub-Factor Component                3d2*     If there is a take or pay or fixed price contract                                                                           ~
+         Sub-Factor Component                3d3*     If there is no take or pay or fixed price contract                                                                          ~
+     Sub-Factor                               3e   Supply risk                                                                                                                    ~
+         Sub-Factor Component                3e1      Price volume and transportation risk, supplier's track record and financial strength                                        ~
+         Sub-Factor Component                3e2      Reserve risks                                                                                                               ~
+     FACTOR                                    4   STRENGTH OF SPONSOR
+     Sub-Factor                               4a   Financial strength of the sponsor                                                                                              ~
+     Sub-Factor                               4b   Track record and country/sector experience                                                                                     ~
+     Sub-Factor                               4c   Sponsor support                                                                                                                ~
+     FACTOR                                    5   SECURITY PACKAGE
+     Sub-Factor                               5a   Assignment of contracts and accounts                                                                                           ~
+     Sub-Factor                               5b   Pledge of assets (taking into account quality, value and liquidity)                                                            ~
+     Sub-Factor                               5c   Control over cash flow                                                                                                         <U+F0FC>
+     Sub-Factor                               5d   Strength of covenant package                                                                                                   ~
+     Sub-Factor                               5e   Reserve funds                                                                                                                  ~
+                     <U+F0FB>    Elemento non presente  ~ Elemento recepito ma modificato        <U+F0FC>     Elemento conforme          Fattore ad oggi non considerato Fattore ad oggi considerato
+     * Componenti alternative
+                                                                                                                                                                                           29
+
+1. Implementazione dei questionari di valutazione allineati agli RTS/EBA: Object Financing
+                                                                                                                                                                                                       Conformità
+                                                                                                                                                                                                      questionari CS
+        FACTOR                                        1        FINANCIAL STRENGTH
+        Sub-Factor                                   1a        Market conditions                                                                                                                              <U+F0FC>
+        Sub-Factor                                   1b        Financial ratios                                                                                                                               <U+F0FC>
+        Sub-Factor                                   1c        Advance ratio                                                                                                                                  <U+F0FC>
+        Sub-Factor                                   1d        Stress analysis                                                                                                                                <U+F0FC>
+        Sub-Factor                                   1e        Market liquidity                                                                                                                               <U+F0FC>
+        FACTOR                                        2        POLITICAL AND LEGAL ENVIRONMENT
+        Sub-Factor                                   2a        Legal and regulatory risks                                                                                                                     <U+F0FC>
+        Sub-Factor                                   2b        Political risk, including transfer risk                                                                                                        <U+F0FC>
+        FACTOR                                        3        TRANSACTION CHARACTERISTICS
+        Sub-Factor                                   3a        Amortisation schedule                                                                                                                          <U+F0FC>
+        Sub-Factor                                   3b        Market/cycle and refinancing risk                                                                                                              <U+F0FB>
+        Sub-Factor                                   3c        Operating risk                                                                                                                                 <U+F0FC>
+             Sub-Factor Component                   3c1           Permits/licensing                                                                                                                           <U+F0FC>
+             Sub-Factor Component                   3c1           Scope, nature and complexity of O&M contracts                                                                                               <U+F0FC>
+                                                                  Operator’s financial strength, track record in managing the asset type and capability to re-market asset when
+             Sub-Factor Component                   3c2                                                                                                                                                       <U+F0FC>
+                                                                  it comes off-lease
+        FACTOR                                        4        ASSET CHARACTERISTICS
+        Sub-Factor                                   4a        Configuration, size, design and maintenance (i.e. age, size for a plane) compared to other assets on the same
+                                                                                                                                                                                                              <U+F0FC>
+                                                               market
+        Sub-Factor                                   4b        Resale value                                                                                                                                   <U+F0FC>
+        Sub-Factor                                   4c        Sensitivity of the asset value and liquidity to economic cycles                                                                                <U+F0FC>
+        FACTOR                                        5        STRENGTH OF SPONSOR
+        Sub-Factor                                   5a        Sponsors’ track record and financial strength                                                                                                  <U+F0FC>1
+        FACTOR                                        6        SECURITY PACKAGE
+        Sub-Factor                                   6a        Asset control                                                                                                                                  <U+F0FC>
+        Sub-Factor                                   6b        Rights and means at the lender's disposal to monitor the location and condition of the asset                                                   <U+F0FC>
+        Sub-Factor                                   6c        Insurance against damages                                                                                                                      <U+F0FC>
+          <U+F0FB>      Elemento non presente     ~     Elemento recepito ma modificato           <U+F0FC>       Elemento conforme              Fattore ad oggi non considerato             Fattore ad oggi considerato
+         1. Il questionario di MPS CS ha due sotto-fattori in termini di forza dello sponsor, così come previsto dalla Circ. 263 di Bankit. I technical standards EBA hanno combinato i due sotto-fattori in uno unico
+                                                                                                                                                                                                                       30
+
+1. I sotto-fattori/componenti dei questionari possono essere differenziati in sotto-domande rispettando i criteri previsti
+dalla normativa. Occorre, tuttavia, giustificare l’introduzione di risk-driver addizionali
+                                                                                                             Technical standard EBA
+                                                              Category 1                           Category 2                         Category 3                          Category 4
+               Factor: financial strength
+               (a) Sub-factor: market               Few competing suppliers or          Few competing suppliers or          Project has no advantage in         Project has worse than
+               conditions                           substantial and durable             better than average location,       location, cost, or technology.      average location, cost, or
+                                                    advantage in location, cost, or     cost, or technology but this        Demand is adequate and stable.      technology. Demand is weak
+                                                    technology. Demand is strong        situation may not last.                                                 and declining.
+                                                    and growing.                        Demand is strong and stable.
+                                                                                                 Questionario CS
+                                                             Domande                                   Risp 1                   Risp 2                    Risp 3                   Risp 4
+               Fattore: solidità
+                                                                                                                                                                         Risk-driver aggiuntivo
+               finanziaria
+               (a) Sotto-fattore:      A1 - Qual è la % di ricavi non soggetti a rischi di
+               condizioni di mercato                                                                                   b) 50% = Ricavi non       c) 25%= Ricavi non
+                                       mercato? (es: contributi erogati dal concedente       a) Ricavi non soggetti a                                                     d) Ricavi non soggetti a
+                                                                                                                      soggetti a rischi di      soggetti a rischi di
+                                       sotto forma di canone di disponibilità, canone di     rischi di mercato = 75%                                                     rischi di mercato < 25%
+                                                                                                                      mercato <75%              mercato <50%
+                                       servizio)
+                                       A2 - Il Trend della domanda di mercato è              a) Domanda sostenuta      b) Domanda sostenuta      c) Domanda adeguata d) Domanda debole e
+                                       favorevole al progetto?                               e in crescita            e stabile                 e stabile                in calo
+                                       A3 - Il progetto presenta vantaggi competitivi in     a) Pochi fornitori        b) Pochi fornitori        c) Progetto con          d) Progetto senza
+                                       termini di location/technology (es: L’assetto         concorrenti ovvero       concorrenti ovvero        vantaggi inferiori alla  vantaggi in termini di
+                                       urbanistico dell’area in cui sorge l'opera prevede    vantaggi sostanziali e   vantaggi superiori alla   media in termini di      ubicazione, tecnologia,
+                                       importanti progetti di riqualificazione e di          durevoli in termini di   media in termini di       ubicazione, tecnologia, sistemi a supporto della
+                                       sviluppo che possono portare vantaggi) oppure         ubicazione, costi o      ubicazione, costi o       sistemi a supporto della domanda.
+                                       beneficia di sistemi di a supporto della domanda      tecnologia, sistemi a    tecnologia, sistemi a     domanda
+                                       (es: ritiro dedicato, priorità di dispacciamento,     supporto della           supporto della
+                                       presenza di contratto off-take)?                      domanda                  domanda ma tale
+                                                                                                                      situazione è instabile.
+                 • L’eventuale differenziazione in sotto-domande deve rispettare i criteri di valutazione previsti dai TS EBA
+                 • L’introduzione di risk-driver addizionali deve essere opportunamente giustificata
+                                                                                                                                                                                                   31
+
+                                                                                                                                                                                                                         Preliminare
+2. Determinazione dei pesi dei fattori: attraverso un approccio esperto sono stati rivisti tutti i pesi dei fattori
+                                                                                                                                                                                      Proposta pesi – Realizzata dal gruppo di lavoro
+           1. EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013
+           2. Include il rischio operativo
+                                                                                                                                                                                                                                 32
+
+3. Determinazione delle modalità di combinazione dei sotto-fattori e dei relativi componenti: Real Estate
+                                                                                                                                                           Proposta pesi – Realizzata dal gruppo di lavoro
+     1.   Nel vecchio questionario nel peso del sotto-fattore «financial ratios» è incluso anche il peso del sotto-fattore «advance ratio»
+     2.   Proposta di aggiunta di un risk driver rispetto alla normativa EBA                                                                       Pesi
+     3.   Proposta di dettaglio di un Sottofattore rispetto alla normativa EBA
+                                                                                                                                            MPS       CS   Nuovi
+     FACTOR                                   1      FINANCIAL STRENGTH                                                                    27,0%    25,0%  35%
+     Sub-Factor                              1a      Market conditions                                                                      5,0%     7,0%   15%
+                                                                                                                                                 1       1
+     Sub-Factor                              1b      Financial ratios                                                                      15,0%    8,0%    30%
+     Sub-Factor                              1c      Advance ratio (LTV)                                                                      -        -    15%
+     Sub-Factor                              1d      Stress analysis                                                                        2,0%     7,0%   15%
+     Sub-Factor                             1ee      Cash flow predictability                                                               5,0%     3,0%   25%
+         Sub-Factor Component              1e1*         For complete and stabilized property                                                  -        -   100%
+         Sub-Factor Component              1e2*         For complete but not stabilized property                                              -        -   100%
+         Sub-Factor Component              1e3*         For construction phase                                                                -        -   100%
+     FACTOR                                   2      POLITICAL AND LEGAL ENVIRONMENT                                                        0,0%    0,0%    5%
+     Sub-Factor                              2a      Legal and regulatory risks                                                               -             80%
+     Sub-Factor                              2b      Political risk, including transfer risk                                                                20%
+     FACTOR                                   3      ASSET / TRANSACTION CHARACTERISTICS                                                   18,0%    20,0%  25%
+     Sub-Factor                              3a      Location                                                                               8,0%     8,00   25%
+     Sub-Factor                              3b      Design and condition                                                                   4,0%     6,0%   20%
+     Sub-Factor                              3c      Property is under construction                                                         6,0%     6,0%   25%
+                                                 3
+         Sub-Factor Component              3c1          Budget e rischi tecnici                                                               -        -    50%
+                                                 3
+         Sub-Factor Component              3c2          Qualità degli appaltatori                                                             -        -    50%
+     Sub-Factor                              3d      Financial structure                                                                      -        -    30%
+         Sub-Factor Component               3d1         Amortisation schedule                                                                 -        -    70%
+         Sub-Factor Component               3d2         Market/cycle and refinancing risk                                                     -        -    30%
+     FACTOR                                   4      STRENGTH OF SPONSOR / DEVELOPER                                                       20,0%    20,0%  20%
+     Sub-Factor                              4°      Financial capacity and willingness to support the property                            10,0%    10,0%   50%
+                                                 3
+         Sub-Factor Component              4a1          Capacità finanziaria                                                                  -        -    50%
+                                                 3
+         Sub-Factor Component              4a2          Disponibilità a promuovere l’iniziativa                                               -        -    50%
+     Sub-Factor                              4b      Reputation and track record                                                            7,0%     7,0%   35%
+     Sub-Factor                              4c      Relationship with relevant real estate actors                                          3,0%     3,0%   15%
+     FACTOR                                   5      SECURITY PACKAGE                                                                      35,0%    35,0%  15%
+     Sub-Factor                              5a      Nature of lien                                                                        14,0%     8,0%   50%
+     Sub-Factor                              5b      Assignment of rents                                                                      -        -    20%
+     Sub-Factor                              5c      Quality of the insurance coverage
+                                                                                                 Per il fattore «security package»            -      3,0%   20%
+                                                2                                               MPS  e CS prevedevano sotto-fattori
+     Sub-Factor                             5d       Qualità delle ulteriori garanzie                                                         -        -    10%
+                                                                                                 aggiuntivi rispetto alla normativa
+     * Componenti alternative
+                                                                                                                                                                                                         33
+
+3. Determinazione delle modalità di combinazione dei sotto-fattori e dei relativi componenti: Project Finance (1/2)
+                                                                                                                                             Proposta pesi – Realizzata dal gruppo di lavoro
+                                                                                                                                                           Pesi
+     1.   Proposta di aggiunta di un risk driver rispetto alla normativa EBA
+     2.   Proposta di dettaglio di un Sottofattore rispetto alla normativa EBA
+                                                                                                                                                  CS               Nuovi
+     FACTOR                                          1       FINANCIAL STRENGTH                                                                 23,2%               25%
+     Sub-Factor                                      1a      Market conditions                                                                   5,4%               20%
+                                                        2
+        Sub-Factor Component                       1a1          Concorrenza                                                                     - (0%)              50%
+                                                        2
+        Sub-Factor Component                       1a2          Domanda                                                                         - (0%)              50%
+     Sub-Factor                                     1b       Financial ratios                                                                    5,4%               30%
+     Sub-Factor                                      1c      Stress analysis                                                                     3,6%               20%
+     Sub-Factor                                     1d       Financial structure                                                                 3,6%               25%
+        Sub-Factor Component                        1d1         Amortisation schedule                                                       3,6% (100%)             40%
+        Sub-Factor Component                        1d2         Market/cycle and refinancing risk                                               - (0%)              30%
+                                                        1
+        Sub-Factor Component                       1d3          Raffronto tra durata del credito e durata del progetto                          - (0%)              30%
+     Sub-Factor                                      1°      Foreign exchange risk                                                                  -               5%
+     FACTOR                                          2       POLITICAL AND LEGAL ENVIRONMENT                                                    19,7%               15%
+     Sub-Factor                                      2°      Political risk, including transfer risk                                             5,4%               20%
+     Sub-Factor                                     2b       Force majeure risk                                                                  1,8%               9%
+     Sub-Factor                                      2c      Government support and project's importance for the country over the long term      5,4%               35%
+                                                        2
+        Sub-Factor Component                       2c1          Importanza del progetto                                                            -                30%
+                                                        2
+        Sub-Factor Component                       2c2          Sostegno governativo                                                               -                70%
+     Sub-Factor                                     2d       Stability of legal and regulatory environment                                       3,6%               18%
+     Sub-Factor                                      2e      Acquisition of all necessary supports and approvals                                 1,8%               9%
+     Sub-Factor                                      2f      Enforceability of contracts, collateral and security                                1,8%               9%
+     FACTOR                                          3       TRANSACTION CHARACTERISTICS                                                        33,9%               35%
+     Sub-Factor                                      3a      Design and technology risk                                                          5,4%               15%
+     Sub-Factor                                     3b       Construction risk                                                                  12,5%               40%
+        Sub-Factor Component                        3b1         Permitting and siting                                                        1,8% (14%)             15%
+        Sub-Factor Component                        3b2         Type of construction contract                                                3,6% (28%)             20%
+        Sub-Factor Component                        3b3         Likelihood to finish the project at agreed time and cost                           -                25%
+        Sub-Factor Component                        3b4         Completion guarantees or liquidated damages                                  3,6% (28%)             20%
+        Sub-Factor Component                        3b5         Track record and financial strength of contractor                            3,6% (28%)             20%
+    * Componenti altrnative
+                                                                                                                                                                                           34
+
+3. Determinazione delle modalità di combinazione dei sotto-fattori e dei relativi componenti: Project Finance (2/2)
+                                                                                                                                                              Proposta pesi – Realizzata dal gruppo di lavoro
+      1.   Proposta di aggiunta di un risk driver rispetto alla normativa EBA                                                                                  Pesi
+      2.   Proposta di dettaglio di un Sottofattore rispetto alla normativa EBA
+                                                                                                                                                       CS              Nuovi
+      Sub-Factor                                 3c      Operating risk                                                                               5,4%             15%
+         Sub-Factor Component                   3c1         Scope, nature and complexity of O&M contracts                                          1,8% (33%)          33%
+         Sub-Factor Component                   3c2         Operator's expertise, track record and financial strength                              3,6% (66%)          66%
+      Sub-Factor                                 3d      Revenue assessment including off-take risk                                                   5,4%             15%
+          Sub-Factor Component                  3d1          Robustness of the revenue contracts                                                        -              66%
+          Sub-Factor Component                 3d2*          If there is a take or pay or fixed price contract                                    5,4% (100%)          33%
+          Sub-Factor Component                 3d3*          If there is no take or pay or fixed price contract                                   5,4% (100%)          33%
+      Sub-Factor                                 3e      Supply risk                                                                                  5,4%             15%
+          Sub-Factor Component                  3e1          Price volume and transportation risk, supplier's track record and financial strength  3,6% (66%)          66%
+          Sub-Factor Component                  3e2          Reserve risks                                                                         1,8% (33%)          33%
+      FACTOR                                     4       STRENGTH OF SPONSOR                                                                          7,1%             10%
+      Sub-Factor                                 4a      Financial strength of the sponsor                                                            3,6%             33%
+      Sub-Factor                                 4b      Track record and country/sector experience                                                     -              33%
+      Sub-Factor                                 4c      Sponsor support                                                                              3,6%             33%
+                                                     2
+          Sub-Factor Component                 4c1           Forza dello sponsor                                                                        -              50%
+                                                     2
+          Sub-Factor Component                 4c2           Strategicità del progetto                                                                  -              50%
+      FACTOR                                     4       SECURITY PACKAGE                                                                             3,6%             15%
+      Sub-Factor                                 5a      Assignment of contracts and accounts                                                         3,6%             22%
+      Sub-Factor                                 5b      Pledge of assets (taking into account quality, value and liquidity)                          3,6%             22%
+      Sub-Factor                                5c       Control over cash flow                                                                       3,6%             22%
+      Sub-Factor                                 5d      Strength of covenant package                                                                 3,6%             22%
+      Sub-Factor                                 5e      Reserve funds                                                                                1,8%             12%
+                                                                                                                                                                                                            35
+                                                                                                                   * Componenti alternative
+
+3. Determinazione delle modalità di combinazione dei sotto-fattori e dei relativi componenti: Object Financing
+                                                                                                                                                                           Pesi
+          1.   Proposta di aggiunta di un risk driver rispetto alla normativa EBA
+                                                                                                                                                                    CS              Nuovi
+           FACTOR                                   1       FINANCIAL STRENGTH                                                                                    22,0%             25%
+           Sub-Factor                              1a       Market conditions                                                                                      5,0%             25%
+           Sub-Factor                              1b       Financial ratios                                                                                       7,5%             20%
+           Sub-Factor                              1c       Advance ratio                                                                                            -              25%
+           Sub-Factor                              1d       Stress analysis                                                                                        7,5%             10%
+           Sub-Factor                              1e       Market liquidity                                                                                       2,0%             20%
+           FACTOR                                   2       POLITICAL AND LEGAL ENVIRONMENT                                                                       4,0%               5%
+           Sub-Factor                              2a       Legal and regulatory risks                                                                             2,0%             60%
+           Sub-Factor                              2b       Political risk, including transfer risk                                                                2,0%             40%
+           FACTOR                                   3       TRANSACTION CHARACTERISTICS                                                                           22,0%             20%
+           Sub-Factor                              3a       Amortisation schedule                                                                                  5,0%              10%
+           Sub-Factor                              3b       Market/cycle and refinancing risk                                                                        -               10%
+           Sub-Factor                              3c       Operating risk                                                                                        17,0%             70%
+              Sub-Factor Component                 3c1          Permits/licensing                                                                              2,0% (12%)            15%
+              Sub-Factor Component                 3c1          Scope, nature and complexity of O&M contracts                                                  5,0% (29%)            30%
+              Sub-Factor Component                 3c2          Operator’s financial strength, track record in managing the asset type and capability to re-
+                                                                                                                                                              10,0% (59%)            55%
+                                                                market asset when it comes off-lease
+                                                      1
+           Sub-Factor                              3d       Vita utile del bene rispetto a durata finanziamento                                                                     10%
+           FACTOR                                   4       ASSET CHARACTERISTICS                                                                                 19,0%             15%
+           Sub-Factor                              4a       Configuration, size, design and maintenance (i.e. age, size for a plane) compared to other
+                                                                                                                                                                   5,0%             25%
+                                                            assets on the same market
+           Sub-Factor                              4b       Resale value                                                                                          10,0%             50%
+           Sub-Factor                              4c       Sensitivity of the asset value and liquidity to economic cycles                                        4,0%             25%
+           FACTOR                                   5       STRENGTH OF SPONSOR                                                                                   20,0%             20%
+           Sub-Factor                              5a       Sponsors’ track record and financial strength                                                         20,0%             100%
+           FACTOR                                   6       SECURITY PACKAGE                                                                                      13,0%             15%
+           Sub-Factor                              6a       Asset control                                                                                          5,0%             40%
+           Sub-Factor                              6b
+                                                            Rights and means at the lender's disposal to monitor the location and condition of the asset           4,0%             20%
+           Sub-Factor                              6c       Insurance against damages                                                                              4,0%             40%
+                                                                                                                                         Proposta pesi – Realizzata dal gruppo di lavoro
+                                                                                                                                                                                          36
+
+3. Risk-Driver addizionali introdotti dal gruppo di lavoro:
+                                                                                                                    REAL ESTATE
+                                                              Category 1                            Category 2                            Category 3                            Category 4
+              Factor: Security Package
+              (d) Sub-factor: Qualità delle       L'iniziativa è assistita da ulteriori L'iniziativa è assistita da ulteriori L'iniziativa è assistita da ulteriori L'iniziativa non è assistita da
+              ulteriori garanzie                  garanzie accessorie di buona          garanzie accessorie di discreta       garanzie accessorie di qualità        ulteriori garanzie, o la qualità di
+                                                  qualità                               qualità                               sufficiente                           quelle presenti è ritenuta
+                                                                                                                                                                    scarsa/non rilevante.
+                                                                                                                 PROJECT FINANCE
+                                                              Category 1                            Category 2                            Category 3                            Category 4
+              Factor: Financial strength
+              (d) Sub-factor: Financial
+              structure
+              (3) Sub-factor Component:           La vita utile del progetto            La durata utile del progetto          La durata utile del progetto          La durata utile del progetto
+              Raffronto tra durata del credito e  supera significativamente il          supera il termine del                 supera il termine del prestito        potrebbe non superare il
+              durata del progetto                 termine del prestito                  prestito                                                                    termine del prestito
+                                                                                                                  OBJECT FINANCE
+                                                              Category 1                            Category 2                            Category 3                            Category 4
+              Factor: Transaction
+              Characteristics
+              (d) Sub-factor: Vita utile del bene La vita utile del bene                La durata utile del bene              La durata utile del bene              La durata utile del bene
+              rispetto a durata finanziamento     supera significativamente il          supera il termine del                 supera il termine del prestito        potrebbe non superare il
+                                                  termine del prestito                  prestito                                                                    termine del prestito
+                                                                                                                                                                                                        37
+
+4. Applicazione della modalità di determinazione del punteggio finale: l’allineamento ai technical standards EBA comporta
+la modifica della metodologia di assegnazione del giudizio di un’esposizione SL
+           Metodologia attuale MPS
+           Esposizioni IPRE
+           • Assegnazione di un voto da 4 a 0 a tutti i sotto-fattori/componenti Metodologia MPS e CS post allineamento ai
+           • Calcolo dello score finale come media pesata degli score dei        technical standards EBA
+              singoli fattori:
+              – <U+0001D446><U+0001D450><U+0001D45C><U+0001D45F><U+0001D452><U+0001D453><U+0001D456><U+0001D45B> = <U+0001D456> <U+0001D464><U+0001D453><U+0001D44E><U+0001D461><U+0001D461>,<U+0001D456> · <U+0001D460><U+0001D450><U+0001D45C><U+0001D45F><U+0001D452><U+0001D453><U+0001D44E><U+0001D461><U+0001D461>,<U+0001D456>                               • Assegnazione di un voto da 1 a 4 a tutti i sotto-
+                 con wfatt,i il peso del fattore i-esimo                            fattori/componenti
+           • Determinazione del giudizio da assegnare all’esposizione SL in      • Calcolo dello score finale come media pesata degli
+              base al superamento di determinati cut-off                            score dei singoli fattori:
+                                                                                    – <U+0001D446><U+0001D450><U+0001D45C><U+0001D45F><U+0001D452><U+0001D453><U+0001D456><U+0001D45B> = <U+0001D456> <U+0001D464><U+0001D453><U+0001D44E><U+0001D461><U+0001D461>,<U+0001D456> · <U+0001D460><U+0001D450><U+0001D45C><U+0001D45F><U+0001D452><U+0001D453><U+0001D44E><U+0001D461><U+0001D461>,<U+0001D456>
+                               Forte         Buono      Soddisfacente Debole
+            Classe – Da             3,60        2,80           2,00         0,01
+                                                                                    con wfatt,i il peso del fattore i-esimo
+            Classe – A              4,00        3,60           2,80         2,00 • Arrotondamento dello score finale al numero
+                                                                                    intero più vicino
+          Metodologia attuale CS
+                                                                                 • Ottenimento del giudizio dell’esposizione:
+          Esposizioni IPRE
+                                                                                    – Categoria 1 (forte) <U+F0E0> Score 1
+          • Assegnazione di un voto da 10 ad 1 a tutti i sotto-
+             fattori/componenti                                                     – Categoria 2 (buono)<U+F0E0> Score 2
+          • Calcolo dello score finale come media pesata degli score dei            – Categoria 3 (soddisfacente)<U+F0E0> Score 3
+             singoli fattori:                                                       – Categoria 4 (debole)<U+F0E0> Score 4
+          – <U+0001D446><U+0001D450><U+0001D45C><U+0001D45F><U+0001D452><U+0001D453><U+0001D456><U+0001D45B> = <U+0001D456> <U+0001D464><U+0001D453><U+0001D44E><U+0001D461><U+0001D461>,<U+0001D456> · <U+0001D460><U+0001D450><U+0001D45C><U+0001D45F><U+0001D452><U+0001D453><U+0001D44E><U+0001D461><U+0001D461>,<U+0001D456>
+             con wfatt,i il peso del fattore i-esimo
+          • Determinazione del giudizio da assegnare all’esposizione SL in
+             base al superamento di determinati cut-off
+                               Forte         Buono      Soddisfacente Debole       Nel calcolo dello score di fattore/sotto-fattore, i technical
+            Classe – Da         8,50         7,00       5,00           1,00       standards prevedono l’arrotondamento al numero intero più
+            Classe – A          10,00        8,49       6,99           4,99                                    vicino
+                                                                                                                                                 38
+
+5. Definizione della modalità di trattamento degli “overlapping criteria”
+             Technical Standars EBA1 – Overlapping criteria                                                     Interpretazione della normativa
+                                                                                                                • Calcolo dello score del fattore tenendo conto solamente
+                                                                                                                    dei sotto-fattori che non presentano overlapping criteria
+                                                                                                                    («Score no overlapping»)
+                    “Where the assessment criteria provided for one                                             • Calcolo dello score del fattore tenendo conto solamente
+                    or several of the sub-factors are the same across                                               anche dei sotto-fattori che presentano overlapping criteria
+                    several categories for that sub-factor (‘overlapping                                            («Score con overlapping»)
+                    criteria’), institutions shall assign the relevant                                          • Qualora lo «Score senza overlapping» risulti inferiore
+                    factor to a category based on the assignment of                                                 rispetto allo «Score con overlapping», occorre adottare
+                    the specialised lending exposure of the sub-                                                    degli aggiustamenti conservativi ai fini della valutazione del
+                    factors with no overlapping criteria.                                                           giudizio dell’esposizione
+                    Where the combined assignment based on the                                                  Implicazioni per MPS
+                    sub-factors with no overlapping criteria is to a
+                    lower cardinal number than the combined                                                   A                                                   B
+                    assignment of the sub-factors with the overlapping
+                    criteria, they shall make appropriate and                                                                                                           Definizione di una
+                    conservative adjustments to that assignment.                                                   Individuazione delle                                 metodologia per il
+                    Where there are overlapping criteria for one or
+                    several of the sub-factor components, institutions
+                                                                                                                         casistiche di                                trattamento dei casi
+                    shall apply the same principle”                                                               “overlapping criteria”                                  di “overlapping
+                                                                                                                                                                                 criteria”
+             1. EBA/RTS/2016/02 - FINAL draft Regulatory Technical Standards on Assigning Risk Weights to Specialised Lending Exposures under Article 153(9) of Regulation (EU) No 575/2013
+                                                                                                                                                                                            39
+
+A Sono stati individuate 5 casistiche di «overlapping criteria» all’interno dei questionari slotting previsti dai Technical
+  Standards dell’EBA (1/2): Project finance
+         Casistiche di overlapping criteria
+                                                                Category 1                    Category 2                   Category 3                   Category 4
+          Factor: political and legal environment
+          (f) Sub-factor: enforceability of            Contracts, collateral and     Contracts, collateral and    Contracts, collateral and    There are unresolved key
+              contracts, collateral and security       security are enforceable      security are enforceable     security are considered      issues in respect if actual
+                                                                                                                  enforceable even if certain  enforcement of contracts,
+                                                                                                                  non-key issues may exist     collateral and security
+          Factor: transaction characteristics
+          (a) Sub-factor: design and technology        Fully proven technology and   Fully proven technology and  Proven technology and        Unproven technology and
+              risk                                     design                        design                       design — start-up issues are design; technology issues
+                                                                                                                  mitigated by a strong        exist and/or complex design.
+                                                                                                                  completion package
+          (b) Sub-factor: construction risk
+              • Type of construction contract          Fixed-price date-certain      Fixed-price date-certain     Fixed-price date-certain     No or partial fixed-price
+                 (sub- factor component)               turnkey construction EPC13    turnkey construction EPC13   turnkey construction         turnkey contract and/or
+                                                                                                                  contract with one or several interfacing issues with
+                                                                                                                  contractors                  multiple contractors
+          Factor: security package
+          (e) Sub-factor: reserve funds (debt          Longer than average           Average coverage period, all Average coverage period, all Shorter than average
+              service, O&M, renewal and                coverage period, all reserve  reserve funds fully funded   reserve funds fully funded   coverage period, reserve
+              replacement, unforeseen events,          funds fully funded in cash or                                                           funds funded from operating
+              etc.)                                    letters of credit from highly                                                           cash flows.
+                                                       rated bank
+                   Elemento caratterizzato da «overlapping criteria»
+         13. EPC: engineering and procurement contract
+                                                                                                                                                                            40
+
+A Sono stati individuate 5 casistiche di «overlapping criteria» all’interno dei questionari slotting previsti dai Technical
+  Standards dell’EBA (2/2): Real Estate
+        Casistiche di overlapping criteria
+                                                                      Category 1                                Category 2                                  Category 3                                Category 4
+         Factor: security package
+         (a) Sub-factor: nature of lien                       Perfected first lien 38                   Perfected first lien                      Perfected first lien                       Ability of lender to
+                                                                                                                                                                                             foreclose is constrained
+                   Elemento caratterizzato da «overlapping criteria»
+        38. Lenders in some markets exclusively use loan structures that include junior liens. Junior liens may be indicative of this level of risk if the total LTV inclusive of all senior positions does not exceed a typical
+        first loan LTV
+                                                                                                                                                                                                                                 41
+
+B Sulla base di quanto prescritto dalla normativa, si propone la seguente metodologia per il trattamento dei casi di
+  «overlapping criteria»
+                  Calcolo score di   • Calcolo dello score di ciascun fattore come media ponderata dei voti dei
+           1       fattore senza
+                    overlapping
+                                       singoli sotto-fattori senza “overlapping criteria”
+                                     • Calcolo dello score di fattore ottenuto combinando anche i voti dei sotto-
+                  Calcolo score di     fattori con “overlapping criteria”
+           2        fattore con
+                    overlapping
+                                     • Qualora lo score al punto 1 risulti inferiore allo score ottenuto al punto 2, è
+           3      Aggiustamento        necessario attribuire un punteggio prudenziale al fattore
+                   dello score di      – Alla luce delle prassi osservate sul mercato, si suggerisce di prendere il
+                       fattore           peggiore tra gli score (1) e (2)
+                                                                                               Esempio pagina successiva
+                                                                                                                         42
+
+B Esempio di metodologia per il trattamento delle casistiche di overlapping criteria
+      Esempio numerico
+      Classe: Project Finance, Fattore: political and legal environment
+                              POLITICAL AND LEGAL                                                           Calcolo score di                    Calcolo score di                Aggiustamento
+       FACTOR            2 ENVIRONMENT                                           Peso Voto                  fattore senza                       fattore con                     dello score di
+                                                                                                            overlapping (1)                     overlapping (2)                 fattore
+       Sub-Factor 2a Political risk, including transfer risk                    16,7%        1
+                                                                                                                 Punteggio                        Punteggio                         Punteggio
+       Sub-Factor 2b Force majeure risk                                         16,7%        1                     1,4 <U+F0E0> 1                          1,8<U+F0E0>2                                 2
+                              Government support and project's
+       Sub-Factor 2c importance for the country over the                        16,7%        1              Valutato come
+                              long term                                                                     media                                      Si sceglie lo score (2) in quanto il
+                                                                                                            ponderata dei                              peggiore tra gli score
+                                                                                                            soli sotto-fattori
+                              Stability of legal and regulatory
+       Sub-Factor 2d                                                            16,7%        2              senza
+                              environment
+                                                                                                            overlapping1
+                              Acquisition of all necessary supports
+       Sub-Factor 2e                                                            16,7%        2
+                              and approvals
+                              Enforceability of contracts, collateral
+       Sub-Factor 2f                                                            16,7%        4
+                              and security
+                               Sotto-fattore con overlapping
+       1. Score di fattore senza overlapping calcolato come: i(wi · votoi )/ i wi dove wi e votoi rappresentano rispettivamente il peso ed il voto del sotto-fattore i-esimo senza overlapping
+                                                                                                                                                                                               43
+
+44

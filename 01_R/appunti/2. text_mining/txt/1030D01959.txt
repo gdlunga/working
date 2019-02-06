@@ -1,0 +1,1048 @@
+DATA:                         24/06/2016                      DATA SCADENZA:            Fino a revoca
+CODICE TESTO:                 D 01959 003 NMOG                CODICE RISORSA            AAA006SUD
+OGGETTO:
+                              Gestione dei GAP                                  segnalati             dalle
+                              Funzioni di Controllo
+MACROPROCESSO:                RISK MANAGEMENT
+PROCESSO:                     Gestione dei GAP segnalati dalle Funzioni di Controllo
+SEGMENTO DI MERCATO:          Non applicabile
+(prevalentemente interessato)
+RUOLI:                        Capogruppo - Responsabile di struttura; Capogruppo - Addetto
+(prevalentemente interessati)
+SERIE/SETTORE/SERV IZ IO:     23            /   3         /   4
+TESTI ANNULLATI:
+PRESA VISIONE:                1               senza formalità
+STRUTTURA EMANANTE:           (3056)          AR VAL-MON-INF-IST
+ASSISTENZA DI TIPO            cfr. par. 1.4
+TECNICO/OPERA TIVO:
+
+                     Oggetto:      Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                     Codice: D 01959 003                     Pubblicato il: 24/06/2016               Pag. 1 di 23
+                                                      INDICE
+1 - QUADRO DI SINTESI .............................................................................................2
+  1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI .............................................2
+  1.2 - AGGIORNAMENTI E MODIF ICHE RISPETTO ALLA VERSIONE PRECEDENTE ..................2
+  1.3 - DESTINATARI ..................................................................................................3
+  1.4 - RIFERIMENTI PER ASSISTENZA ..........................................................................3
+2 - ASPETTI DI CONTESTO ..........................................................................................3
+  2.1 - NORME GENERALI ............................................................................................3
+  2.2 - CONDIVISIONE PRELIMINARE DEI GAP ................................................................4
+  2.3 - EXIT MEETING.................................................................................................5
+  2.4 - GAP CON ANALISI PRELIMINARE ........................................................................6
+3 - ARTICOLAZIONE E RESPONSABILIT A’ .......................................................................7
+  3.1 - ELENCO FUNZIONI E RUOLI INTERESSATI............................................................7
+  3.2 - RAPPRESENTAZIONE GRAF ICA ...........................................................................8
+4 - FORMALIZZAZIONE DEL GAP ................................................................................. 10
+  4.1 - CONDIVISIONE PRELIMINARE DEL GAP .............................................................. 10
+  4.1.1 - Norme generali ........................................................................................... 10
+  4.1.2 - Sequenza degli adempimenti ......................................................................... 10
+  4.2 - NOTIFICA E PRESA IN CARICO DEL GAP ............................................................. 12
+  4.2.1 - Norme generali ........................................................................................... 12
+  4.2.2 - Sequenza degli adempimenti ......................................................................... 12
+5 - MONITORAGGIO PERIODICO DEL GAP .................................................................... 15
+  5.1 - AGGIORNAMENTO DELL'INTERVENTO ................................................................ 15
+  5.1.1 - Norme generali ........................................................................................... 15
+  5.1.2 - Sequenza degli adempimenti ......................................................................... 15
+  5.2 - VALUTAZIONE PROPOSTA CHIUSURA/SPOSTAMENTO DELLA DATA DI MITIGAZIONE
+  DEL GAP .............................................................................................................. 17
+  5.2.1 - Norme generali ........................................................................................... 17
+  5.2.2 - Sequenza degli adempimenti ......................................................................... 18
+6 - GESTIONE DELEGHE ............................................................................................ 19
+  6.1 - ASSEGNAZIONE DELEGHE ............................................................................... 19
+  6.1.1 - Norme generali ........................................................................................... 19
+  6.1.2 - Sequenza degli adempimenti ......................................................................... 19
+  6.2 - MONITORAGGIO DELEGHE .............................................................................. 20
+  6.2.1 - Norme generali ........................................................................................... 20
+  6.2.2 - Sequenza degli adempimenti ......................................................................... 20
+7 - TRASFERIMENTO DEL GAP .................................................................................... 20
+  7.1 - NORME GENERALI .......................................................................................... 20
+  7.2 - SEQUENZA DEGLI ADEMPIMENTI ...................................................................... 20
+8 - ELENCO TESTI NORMATIVI DI RIFERIMENTO ........................................................... 23
+
+                         Oggetto: Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                         Codice: D 01959 003           Pubblicato il: 24/06/2016          Pag. 2 di 23
+1 - QUADRO DI SINTESI
+1.1 - PRINC IPALI CONTENUTI NORMATIVI E INFORMATIVI
+Il presente documento, nel rispetto delle linee guida definite nel testo normativo 1030D01822
+“Policy in materia di gestione dei GAP segnalati dalle Funzioni con compiti di Controllo”,
+descrive le modalità operative a cui le Strutture della Capogruppo Bancaria devono attenersi
+per la gestione dei GAP (criticità rilevata) segnalati in esito alle verifiche condotte da Funzioni
+di Controllo interne e/o derivanti da Autorità aventi titolo esterne (Organo di vigilanza e altre
+Authority).
+In particolare, nell’attività “condivisione del GAP” è definita l’operatività con cui il GAP è
+rilevato e condiviso tra le funzioni coinvolte. La “notifica e presa in carico” descrive come, una
+volta condiviso, il GAP viene notificato e preso in carico dalla funzione responsabile della
+mitigazione.
+Le attività successive descrivono le modalità con cui deve avvenire il monitoraggio periodico
+del GAP, ovvero l’aggiornamento degli interventi individuati a sua mitigazione e la
+valutazione/autorizzazione degli aggiornamenti proposti.
+Inoltre sono descritte le attività che consento di chiedere e monitorare le deleghe concesse per
+operare sul RIGAM (applicativo a supporto delle attività sopra descritte) e di trasferire la
+responsabilità di mitigazione del Gap in occasione di eventi particolari come, ad esempio, la
+revisione dell’assetto organizzativo della Capogruppo.
+1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE
+Le principali e sostanziali variazioni riguardano:
+-    l’aggiornamento dei riferimenti per l’assistenza (paragrafo 1.4) con l’indicazio ne delle
+     Strutture di supporto help desk;
+-    l’aggiornamento degli aspetti di contesto (capitolo 2) con:
+          - l’inserimento degli aspetti generali relativi alla “Condivisione preliminare dei GAP”
+                prima contenuti nel paragrafo 4.1.1;
+          - l’inserimento ex novo degli aspetti generali relativi all’”Exit Meeting” e “GAP con analisi
+                preliminare”;
+-    la revisione degli adempimenti relativi alla “Condivisione preliminare del GAP” (paragrafo
+     4.1.2);
+-    la revisione degli adempimenti relativi alla “Notifica di presa in carico del GAP” (paragrafo
+     4.2.2) prevedendo sia GAP rivenienti da Exit Meeting cartacei che GAP rivenienti da Exit
+     Meeting elettronici (censimento automatico del GAP in sede di chiusura dell’Exit Meeting);
+-    l’inserimento nell’attività di “Aggiornamento dell’intervento” (paragrafo 5.1.2) della figura
+     della Funzione Contributor;
+-    la revisione degli aspetti generali relativi all’attività di “Valutazione proposta di
+     chiusura/spostamento della data di mitigazione del GAP” in considerazione della nuova
+     versione dell’applicativo RIGAM (paragrafo 5.2.1);
+-    la revisione degli aspetti generali relativi all’attività di “Assegnazione Deleghe” (paragrafo
+     6.1.1) delle diverse tipologie di delega previste;
+-    l’introduzione dell’utilizzo dell’applicativo RIGAM nell’esecuzione delle attività di:
+          - “Assegnazione Deleghe” (paragrafo 6.1.2);
+          - “Trasferimento del GAP” (paragrafo 7.2).
+Le modifiche apportate sono evidenziate in giallo.
+
+                        Oggetto:   Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                        Codice: D 01959 003             Pubblicato il: 24/06/2016          Pag. 3 di 23
+1.3 - DESTINATARI
+Il documento è destinato alle Strutture Centrali della Capogruppo Bancaria ed alle altre Soc ietà
+del Gruppo.
+Queste ultime emanano analoga normativa nel rispetto delle regole e dei processi di seguito
+descritti, adeguando regole, responsabilità e processi interni, in coerenza con le proprie
+caratteristiche e dimensioni.
+1.4 - RIFERIMENTI PER ASSISTENZA
+Le Strutture individuate come Funzione Owner (FO) devono fare riferimento alla Struttura di
+Staff di Direzione/Area a diretto riporto della propria Struttura di appartenenza; queste
+Funzioni, così come le Funzioni con compiti di controllo (FC), hanno a disposizione i seguenti
+riferimenti:
+- documento 1030C02280 - Supporto operativo, commerciale e specialistico: elenco
+      riferimenti;
+- Funzione IT - quale specifico supporto in tema di anomalie procedurali sul modulo RIGAM;
+- Funzione con compiti di controllo (FC) - quale specifico supporto in tema di contenuti
+      di competenza;
+- Gestione Deleghe: quale specifico supporto in tema di gestione delle deleghe, tramite il
+      seguente indirizzo mail: rigam.helpdesk@mps.it
+2 - ASPETTI DI CONTESTO
+2.1 - NORME GENERALI
+Nel contesto del più generale           Sistema dei Controlli Interni (cfr. documento 1030D00793
+“Policy di Gruppo in Materia di         Sistema dei Controlli Interni”) le disposizioni contenute nel
+presente documento declinano           le attività connesse alla predisposizione e al monitoraggio
+dell’Execution Plan dei GAP,           uno degli elementi essenziali in ordine alla valutazione
+complessiva sull’adeguatezza del       sistema stesso.
+L’importanza che l’Azienda attribuisce al più efficace funzionamento del Sistema dei Controlli
+Interni impone l’adozione di protocolli condivisi per la gestione delle aree di miglioramento che
+si basano sulla consapevole assunzione, da parte delle strutture coinvolte, della piena
+responsabilità sulle iniziative individuate per giungere alla chiusura totale della criticità rilevate.
+In tale ambito, anche al fine di diffondere un linguaggio comune nella gestione dei rischi a tutti
+i livelli della banca, sono stati definiti:
+<U+F0A7>    processi formalizzati per la gestione dei GAP emersi nell’ambito delle verifiche svolte da
+     organismi sia interni che esterni alla Banca e connesse al funzionamento del sistema dei
+     controlli interni e di gestione dei rischi;
+<U+F0A7>    strumenti dedicati per il perseguimento di tale obiettivo; in particolare l’applicativo
+     “Repository Integrato per la Gestione delle Aree di Miglioramento” (RIGAM), che consente,
+     fra l’altro, un puntuale monitoraggio e la tracciatura delle attività svolte nell’ambito dei
+     processi indicati.
+
+                       Oggetto:   Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                       Codice: D 01959 003                Pubblicato il: 24/06/2016               Pag. 4 di 23
+Relativamente alle verifiche effettuate da organismi esterni alla Banca, far riferimento al
+documento 1030D01630 “Presidio relazioni con Autorità di Vigilanza o Controllo: visite
+ispettive degli Organi di Vigilanza o di Controllo”.
+L’accesso all’applicativo RIGAM, che avviene tramite l’intranet aziendale, è consentito solo agli
+utenti che risultano a vario titolo (responsabile, referente, delegato, ecc.) titolari di GAP o di
+interventi di mitigazione ovvero che sono riguardati da attività di monitoraggio a supporto di
+Organi Apicali, Direzioni, altre Strutture (cfr. tabella “profili”).
+Per quanto riguarda il dettaglio delle funzionalità disponibili nell’applicativo RIGAM, consultare
+il Manuale Operativo 1030M00168 - Manuale Operativo Repository Integrato Gestione Aree di
+Miglioramento (R.I.G.A.M.).
+2.2 - CONDIVISIONE PRELIMINARE DEI GAP
+A seguito dell’attività di monitoraggio nel continuo e/o delle attività di verifica svolte, le
+Funzioni di Controllo (FC) e le Autorità di Vigilanza esterne (AAV V) identificano le aree di
+miglioramento (GAP).
+I GAP non possono essere generici e pertanto devono essere dettagliati e chiaramente
+circoscritti all’anomalia riscontrata.
+Attualmente non rientrano nel perimetro del processo i GAP rilevati a seguito di comportamenti
+attribuibili all’azione del singolo dipendente.
+Relativamente al livello di rilevanza del GAP ovvero il grado di criticità assegnato dalle Funzioni
+con compiti di controllo, è stata stabilita una metodologia standard che si basa sulla previsione
+del rischio potenziale causato dalla mancata risoluzione dell’anomalia riscontrata.
+Il rischio potenziale è determinato dalle combinazioni delle variabili “impatto economico” e
+“probabilità di accadimento” tenendo eventualmente conto di eventuali notching “correttivi” di
+tipo qualitativo definito dalla singola Funzione con compiti di Controllo (elemento
+judgemental) sulla base del proprio giudizio professionale.
+        Rischio                    Impatto                            Probabilità
+      Potenziale
+                                     ALTO   Danno rilevante            ALTA     Evento con elevata probabilità di
+                                                                                accadimento
+                                    MEDIO   Danno importante          MEDIA
+                                                                                Evento con moderata probabilità di
+                                                                                accadimento
+                                            Danno di minore
+                                    BASSO                                       Evento con scarsa probabilità di
+                                            importanza                BASSA
+                                                                                accadimento
+
+                       Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                       Codice: D 01959 003              Pubblicato il: 24/06/2016            Pag. 5 di 23
+Nella seguente matrice sono rappresentate le combinazioni possibili:
+                Matrice Rischio Potenziale
+                                                                                      Rischio Potenziale
+I livelli di rilevanza da utilizzare sono:
+ <U+F0A7>    ALTA: GAP che hanno un elevato rischio potenziale la cui non tempestiva risoluzione
+      comporterebbe l'esposizione della Banca a danni rilevanti e non in linea con la propria
+      propensione al rischio e GAP che, in linea generale di non conformità, rientrano almeno in
+      una delle casistiche seguenti:
+      -   sono caratterizzati da potenziali “gravi” violazioni di norme cogenti (possibili anche a
+          seguito di introduzioni di innovazioni legislative) che prevedono immediate azioni di
+          mitigazione;
+      - provengono da rilievo di Autorità di Vigilanza esterna (Bankit, ecc.);
+      - sono da evidenziare in quanto prevedono il coinvolgimento degli Organi Apicali;
+ <U+F0A7>    MEDIA: GAP a cui sono connessi rischi potenziali importanti;
+ <U+F0A7>    BASSA: GAP con un rischio potenziale non rilevante.
+Indipendentemente dal grado di rilevanza attribuito,                  il GAP rappresenta sempre una
+criticità/anomalia che deve essere rimossa.
+2.3 - EXIT MEETING
+A conclusione dell’attività di verifica, deve essere programmato un confronto con la Funzion e
+Owner (meeting di condivisione - exit meeting – o altra forma di comunicazione) per
+rappresentare e condividere i gap e, per ognuno di questi, le responsabilità di mitigazione
+attribuite, le priorità e le scadenze attese e suggerire le eventuali azioni d i mitigazione.
+L’incontro di exit meeting deve necessariamente prevedere la partecipazione almeno del
+responsabile della FO o di un suo livello gerarchico superiore.
+Al termine del confronto deve essere redatto apposito verbale di exit meeting tramite
+l’applicativo RIGAM ovvero tramite il modulo cartaceo previsto da allegare in formato pdf (cfr.
+Supporto par. 4.1.2 id 5)
+Il verbale di exit meeting elettronico viene compilato in RIGAM in specifica sezione accessibile
+a tutte le FC; sarà accessibile alle FO associate ai singoli GAP solo dopo che il verbale viene
+Validato dalla FC.
+
+                     Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                     Codice: D 01959 003              Pubblicato il: 24/06/2016          Pag. 6 di 23
+In merito alla verbalizzazione elettronica:
+1. La validazione elettronica globale da parte della FC sarà possibile solo tramite un profilo
+    apposito denominato “FC Approvazione verbale exit meeting”. Questo profilo, viene
+    attribuito ai Responsabili di Struttura (con possibilità di delega) individuati dalle singole FC
+    al loro interno, pur rimanendo la possibilità al Responsabile della FC di Validare ogni
+    verbale di exit meeting.
+2. Una volta che il verbale E.M. è stato validato dalla FC, verranno valorizzate sulla parte
+    globale dello stesso tutte quante le FO censite sui GAP individuati. Ogni singola FO potrà
+    quindi:
+        a. Validare complessivamente sia il verbale di EM sia tutti i GAP presenti nello stesso;
+        b. Rifiutare complessivamente sia il verbale di EM sia tutti i GAP presenti nello stesso;
+        c. Validare solo la parte globale del verbale e poi singolarmente determinare quali GAP
+            accettare (quindi Validare) oppure rifiutare.
+3. Per ogni FO verrà data indicazione del numero complessivo di GAP assegnati alla FO stessa.
+4. La validazione di ogni GAP della FO individuata per la mitigazione può essere effettuata,
+    oltre che dalla stessa, anche dai livelli gerarchici superiori, qualora questi avessero già
+    validato globalmente il verbale di exit meeting in corso.
+Si precisa che per ogni riunione di exit meeting deve essere redatto un unico verbale di exit
+meeting, anche se alla riunione partecipano FO diverse; ciò nonostante, ogni GAP individuato
+dalla FC dovrà avere solo una FO responsabile della mitigazione.
+2.4 - GAP CON ANALISI PRELIMINARE
+Al fine di consentire di poter di fare delle valutazioni di impatto più precise prima di fissare una
+Data di mitigazione per quei GAP che richiedono specifici “Progett i/Interventi evolutivi” di
+natura organizzativa/IT è previsto un “processo rafforzato” per cui:
+    1) La FC condivide con la FO la data in cui deve essere completata l’analisi preliminare
+        (BR/Valutazione organizzativa). La FO individuata come Funzione Owner per la
+        mitigazione del GAP, di concerto con la FC, qualora necessario individuerà la funzione
+        incaricata per assumere il ruolo di responsabile Business per la stesura del
+        BR/valutazione organizzativa che, ove diverso dalla stessa FO diventerà Contributor per
+        la materia. Sarà cura della Funzione individuata come responsabile di business, nel
+        redigere il BR secondo quanto previsto dal processo di demand, valorizzare il codice del
+        GAP nell’apposito campo di cui al censimento del BR nell’applicativo PPM.
+    In questo caso, alla Presa in Carico da parte dell’FO il sistema genera automaticamente un
+    primo Intervento con stato “Inserito” dove nelle descrizioni riporta il contenuto del GAP con
+    suffisso PRE-FATTIBILITA e data            prevista di mitigazione uguale alla data scadenz a
+    prefattibilità, e inserisce in automatico la Funzione Contributor se presente nel verbale
+    elettronico di E.M.
+2) Alla conclusione dell’analisi preliminare, in caso di BR approvato, sarà cura della Funzione
+    incaricata dell’analisi preliminare riportare in RIGAM alcuni campi (tempi, costi, ecc.) da
+    PPM dopo la sua approvazione (cfr. paragrafo “Integrazione RIGAM-PPM”); in caso di
+    valutazione organizzativa, gli stessi dettagli saranno inseriti in RIGAM sempre a cura della
+    Funzione incaricata per l’analisi preliminare stessa.
+3) Una volta che la FO ha terminato lo studio di prefattibilità sarà cura della stessa aggiornare
+    il GAP in questione per proporre alla FC la data di mitigazione.
+4) La validazione da parte del Responsabile della FO della data di mitigazione appe na inserita,
+    previa compilazione di un campo di note per la FO a supporto della data proposta in
+    validazione alla FC, farà attivare il processo di mailing verso il Responsabile della FC per
+    avvertirlo affinché possa valutare, come di rito, la proposta e procedere nell’iter di
+    accettazione sul GAP.
+
+                       Oggetto:  Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                       Codice: D 01959 003             Pubblicato il: 24/06/2016         Pag. 7 di 23
+5) L’approvazione da parte della FC della data di mitigazione proposta dalla FO non farà
+     cambiare lo stato del GAP ma farà cambiare l’attributo di stato da “Prefattibilità” (o
+     “Prefattibilità scaduta”) a “Preso in carico”. Nel caso di accettazione se il GAP aveva origine
+     da un E.M. del modulo RIGAM allora il sistema valorizza sull’ E.M. a cui si riferisce (seconda
+     sezione) la data di mitigazione concordata tra le parti Nel caso di rifiuto da parte della FC
+     viene cancellata la data proposta dalla FO in modo che debba essere concordata una nuova
+     data di conclusione lavori.
+Il sistema di alerting presente in questo processo produrrà una mail automatica verso la FC di
+avvertimento quando la “data scadenza prefattibilità” viene superata senza che sia stata
+inserita in RIGAM la data di mitigazione prevista.
+In attesa che la data di mitigazione sia così condivisa, la FO può sempre procedere ad inserire
+interventi: il Responsabile FO potrà approvare gli interventi censiti in RIGAM anche dopo
+l’approvazione da parte FC della data di mitigazione; qualora gli interventi da approvare
+proponessero una data chiusura intervento successiva alla data di mitigazione già approvata,
+l’applicativo non consentirà la validazione dell’intervento.
+La data di mitigazione proposta dalla FO, per quanto ovvio, non può essere inferiore alla data
+di scadenza dell’ultimo intervento già censito.
+Nel caso in cui la proposta di data di mitigazione avanzata dalla FO venisse respinta dalla FC
+(motivando nell’apposito campo obbligatorio di note a supporto), il Responsabile FO potrà
+modificare gli interventi già censiti e approvati in RIGAM (purché non chiusi) sul GAP in
+questione, ovvero censire ulteriori interventi.
+3 - ARTICOLAZIONE E RESPONSABILITA’
+3.1 - ELENCO FUNZIONI E RUOLI INTERESSATI
+Quadro di raccordo tra “Nome convenzionale Funzione” e Struttura vigente
+  Nome Convenzionale Funzione          Struttura Organizzativa
+                                      BMPS:
+  Contributor                           Struttura/Azienda del Gruppo che contribuisce alla rea lizzazione
+                                        dell'intervento
+                                      BMPS:
+  Coordinamento Globale                 Comitato per il Coordinamento delle Funzioni con compiti di
+                                        controllo
+                                      BMPS:
+  Coordinamento Owners
+                                        Staff di Direzione o di Area a "diretto riporto" dell'AD/DG
+                                      BMPS:
+  Funzione con compiti di               Strutture della Banca che svolgono funzioni con compiti di
+  controllo (FC)                        controllo definite nel documento 1030D00793 Policy di Gruppo in
+                                        materia di Controlli Interni
+                                      BMPS:
+                                        Strutture della Banca che svolgono funzioni con compiti di
+  Funzioni Owner e Funzioni con         controllo definite nel documento 1030D00793 Policy di Gruppo in
+  compiti di Controllo                  materia di Controlli Interni
+                                        Struttura della Banca a cui è attribuita la responsabilità del
+                                        monitoraggio e degli interventi a mitigazione del GAP (Tutte le
+                                        strutture della Banca)
+
+                     Oggetto:   Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                     Codice: D 01959 003               Pubblicato il: 24/06/2016        Pag. 8 di 23
+ Nome Convenzionale Funzione          Struttura Organizzativa
+                                     Consorzio:
+ Gestione Deleghe
+                                        Area Applicazioni Governo
+                                     Consorzio:
+ IT
+                                     Area Applicazioni Governo/Servizio Rischi e Segnalazioni
+                                     BMPS:
+ Owner (FO)                             Struttura della Banca a cui è attribuita la responsabilità del
+                                        monitoraggio e degli interventi a mitigazione del GAP
+                                     BMPS:
+ Owner Subentrante                      Struttura della Banca a cui vengono trasferite le responsabilità di
+                                        monitorare e mitigare il GAP.
+Quadro di raccordo tra “Nome convenzionale Ruolo” e Ruolo vigente
+ Nome Convenzionale Ruolo             Ruolo
+                                     BMPS:
+ Referente di Area
+                                        Risorsa che a livello di Area coordina il monitoraggio periodico
+                                     BMPS:
+ Referente Operativo della FC           Risorsa che nell'ambito della Funzione di Controllo ha il compito
+                                        di amministrare il GAP
+                                     BMPS:
+ Referente Operativo della FO           Risorsa che nell'ambito della Funzione Owner ha il compito di
+                                        gestire gli interventi di mitigazione
+                                     BMPS:
+ Responsabile della FC
+                                        Responsabile della Funzione di Controllo che ha individuato il GAP
+                                     BMPS:
+ Responsabile della FO                  Responsabile della Struttura Owner della Mitigazione (Tutte le
+                                        strutture della Banca)
+                                     BMPS:
+ Responsabile di Area
+                                        Responsabile Area della Capogruppo
+                                     BMPS:
+ Responsabile di Servizio
+                                        Responsabile Servizio della Capogruppo
+3.2 - RAPPRESENTAZIONE GRAFICA
+Tutti i processi aziendali sono inseriti nella Tassonomia di Gruppo, che prevede cinque livelli
+gerarchici: ambito, macroprocesso, processo (P), fase (F), attività (AT) (cfr. 1030D01823
+“Policy in materia di Normativa Interna e Processi”).
+L’argomento trattato è inserito nella Tassonomia di Gruppo nei processi di Governo / Risk
+management / Gestione dei GAP segnalati dalle Funzioni di Controllo.
+
+Oggetto: Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+Codice: D 01959 003           Pubblicato il: 24/06/2016          Pag. 9 di 23
+
+                       Oggetto:     Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                       Codice: D 01959 003                 Pubblicato il: 24/06/2016              Pag. 10 di 23
+Gli adempimenti relativi alle fasi/ attività sopra indicate sono descritti in dettaglio nei capitoli
+successivi.
+4 - FORMALIZZAZIONE DEL GAP
+4.1 - CONDIVISIONE PRELIMINARE DEL GAP
+4.1.1 - Norme generali
+La condivisione preliminare, in sede di exit meeting, consente di stabilire definitivamente le
+caratteristiche più importanti dei GAP; in particolare:
+-   la Struttura che ha responsabilità dell’attività di mitigazione (per ogni GAP deve essere
+    individuata una sola Struttura);
+-   la data di scadenza per la soluzione del GAP;
+-   la rilevanza del GAP che la funzione di controllo individua in base alla metodologia standard
+    definite a livello di Gruppo.
+4.1.2 - Sequenza degli adempimenti
+Link al diagramma di processo
+ ID     Adempimenti        Descrizione                                                Attori           Supporti
+  1    Effettuare Exit    A     conclusione      dell’attività    di    verifica     Funzione con     A pplicativi
+       Meeting            programmare un confronto con la Funzione                   compiti di       SI SI FO
+                                                                                     controllo (FC)
+                          Owner (meeting di condivisione - exit meeting –                             Normativa
+                          o    altra    forma     di comunicazione) per              Funzioni         1 0 3 0D01822
+                                                                                     coinvolte:
+                          rappresentare e condividere i gap e, per ognuno
+                          di questi, le responsabilità di mitigazione                   C ontributor
+                          attribuite, le priorità e le scadenze attese e                C oordiname
+                          suggerire le eventuali azioni di mitigazione.                 nto Owners
+                                                                                        Owner (FO)
+                          Qualora sia ritenuto necessario, anche per
+                          ottimizzare i tempi della risoluzione, possono
+                          essere      già    coinvolte     la   Funzione       di
+                          Coordinamento Owner e/o la Funzione
+                          Contributor.
+                          In caso di:
+                             Verbalizzazione elettronica delle risultanze
+                             dell'incontro, proseguire con l'Adempimento 2
+                             Verbalizzazione cartacea delle risultanze
+                             dell'incontro, proseguire con l'Adempimento 3
+  2    Compilare il       Formalizzare quanto condiviso nell’exit meeting            Funzione con     A pplicativi
+       verbale            compilando il verbale elettronico in RIGAM.                compiti di       RI G AM
+       elettronico di                                                                controllo (FC)
+       Exit Meeting       Una volta compilato e Validato dalla FC il
+                                                                                     Funzioni
+                          sistema invia una mail di notifica alla FO.                informate:
+                                                                                        Owner (FO)
+                          In caso di:
+                             Necessità di studio di prefattibilità, proseguire
+                             con l'Adempimento 4
+                             Nessuna necessità di studio di prefattibilità,
+                             proseguire con l'Adempimento 7
+
+                  Oggetto:       Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                  Codice: D 01959 003                 Pubblicato il: 24/06/2016                Pag. 11 di 23
+ID  Adempimenti       Descrizione                                                  Attori           Supporti
+ 3 Compilare il      Formalizzare quanto condiviso nell’exit meeting              Owner (FO)       Documenti di
+   verbale                                                                                         output
+                     con la sottoscrizione del verbale contenente                 Funzione con
+   cartaceo di Exit                                                                                V erbale E xit
+                     almeno:                                                      compiti di
+   Meeting                                                                                         M eeting
+                      -      gli esiti delle verifiche;                           controllo (FC)
+                     -     le eventuali considerazioni espresse dai
+                                rappresentanti della FO
+                      -      la descrizione dei GAP emersi;
+                      -       l’indicazione della funzione responsabile
+                     per il seguimento, anche attraverso il
+                     coordinamento, delle attività assegnate ad
+                     eventuali Funzioni Contributor;
+                      -           l’attribuzione della rilevanza del GAP
+                     identificato;
+                      -      l’eventuale intervento per la risoluzione;
+                      -      la data finale prevista per la realizzazione
+                     e per la “messa a terra” di tutte le iniziative
+                     dirette al superamento delle criticità.
+                     In caso di:
+                        Necessità di studio di prefattibilità, proseguire
+                        con l'Adempimento 4
+                        Nessuna necessità di studio di prefattibilità,
+                        proseguire con l'Adempimento 7
+ 4 Eseguire lo       Eseguire lo studio di prefattibilità da concludere           Contributor      A pplicativi
+   studio di         entro la data condivisa nell’incontro di Exit                                 RI G AM
+                                                                                  Owner (FO)
+   prefattibilità
+                     Meeting.                                                     Funzioni
+                     A conclusione dell’analisi di prefattibilità                 coinvolte:
+                     determinare la data di mitigazione del GAP e                    Funzione
+                     aggiornare RIGAM.                                               con compiti
+                                                                                     di controllo
+                                                                                     (FC )
+                        Conclusione          analisi,   proseguire        con
+                        l'Adempimento 5
+ 5 Chiudere il       Il verbale deve essere sottoscritto dai                      Owner (FO)
+   verbale                                                                                         Documenti di
+                     responsabili di FC e dalla FO.                               Funzione con     output
+                     Con la sottoscrizione del verbale la FO si                   compiti di       V erbale E xit
+                     impegna a completare l’attività di mitigazione               controllo (FC)   M eeting
+                     nei modi e nei termini stabiliti.
+                     Eventuali mancate condivisioni fra FC e funzioni
+                     individuate come Funzioni Owner per la
+                     risoluzione del GAP devono essere superate
+                     all’interno delle linee gerarchiche delle funzioni
+                     stesse; queste si possono rivolgere a tutte le
+                     funzioni aziendali competenti utili a dirimere
+                     eventuali dubbi interpretativi.
+                     Qualora, nonostante gli accorgimenti richiamati,
+                     non si pervenga alla condivisione, è necessario
+                     procedere ad una escalation.
+                     In caso di:
+                        NON accettazione delle responsabilità,
+                        proseguire con l'Adempimento 6
+                        Accettazione delle Responsabilità, proseguire
+                        con l'Adempimento 7
+
+                       Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                       Codice: D 01959 003              Pubblicato il: 24/06/2016               Pag. 12 di 23
+ ID      Adempimenti       Descrizione                                               Attori          Supporti
+  6     Attivare          Attivare il processo di escalation; la gestione           Funzione con    A pplicativi
+        processo di       delle problematiche non risolte con gli interventi        compiti di      SI SI FO
+        escalation per                                                              controllo (FC)
+                          delle Funzioni Aziendali Competenti, deve infatti                         Normativa
+        definire la
+                          essere affrontata nell’ambito di un processo di           Owner (FO)      1 0 3 0D01822
+        Responsabilità
+        del GAP           escalation, secondo ambiti progressivi di                 Funzioni        1 0 3 0D00751
+                          interessamento dei livelli gerarchici, che                coinvolte:
+                          preveda il coinvolgimento ultimo della Funzione              C oordiname
+                          di Coordinamento Globale.                                    nto Globale
+                          In caso di:
+                             Nuova       Funzione       Owner         ripetere
+                             l'Adempimento 1
+                             Conferma della Funzione Owner , proseguire
+                             con l'Adempimento 7
+  7     Sottoscrivere     Sottoscrivere il verbale di Exit Meeting.                 Funzione con    Documenti di
+        verbale Exit                                                                compiti di      output
+        Meeting                                                                     controllo (FC)  V erbale E xit
+                             Condivisione del GAP e delle relative azioni di                        M eeting
+                             mitigazione, il processo termina                       Owner (FO)
+                                                                                                    A pplicativi
+                                                                                                    RI G AM
+4.2 - NOTIFICA E PRESA IN CARICO DEL GAP
+4.2.1 - Norme generali
+Dopo aver stabilito e concordato i termini, ogni singolo Gap rilevato deve essere formalmente
+notificato e preso in carico avvalendosi dell’applicativo RIGAM che è lo strumento a supporto di
+tutto il processo.
+L’accesso all’applicativo avviene tramite l’intranet aziendale con il seguente percorso: "Al
+Lavoro\Servizi e Utilità\Strumenti\RIGAM".
+Per ogni GAP, è necessario stabilire quali e quanti interventi sono necessari per mitigare la
+criticità rilevata ed eventualmente deve essere prontamente coinvolta formalmente subito la
+Struttura che deve contribuire all’esecuzione dell’intervento.
+4.2.2 - Sequenza degli adempimenti
+
+                    Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                    Codice: D 01959 003              Pubblicato il: 24/06/2016                Pag. 13 di 23
+Link al diagramma di processo
+ ID   Adempimenti       Descrizione                                               Attori           Supporti
+  1  Censire il GAP    In caso di gestione cartacea degli exit meeting           Referente        A pplicativi
+                       Censire ogni GAP coerentemente con quanto                 Operativo        RI G AM
+                       formalizzato nel verbale sottoscritto in fase di          della FC
+                       exit meeting.                                             Funzioni
+                                                                                 informate:
+                       Una copia (formato pdf) del suddetto verbale
+                                                                                    Responsabil
+                       deve essere allegata al censimento di ogni GAP.              e della FC
+                       Concluso l'inserimento, avvisare per le vie brevi
+                       il Responsabile della FC.
+                       In sede di gestione elettronica degli exit
+                       meeting i gap sono automaticamente acquisiti
+                       dal verbale elettronico.
+                       In caso di:
+                           Verbale     cartaceo,      proseguire         con
+                           l'Adempimento 2
+                           Verbale    elettronico,    proseguire         con
+                           l'Adempimento 3
+  2  Validare il GAP   Verificare che ogni GAP sia censito con le                Responsabile     Documenti di
+                                                                                 della FC         output
+                       caratteristiche condivise con la Funzione Owner
+                                                                                                  e- mail
+                       nell’exit meeting.                                        Funzioni
+                                                                                                  automatic a di
+                                                                                 informate:
+                       Nel caso di esito positivo, validare il GAP                                notific a
+                       affinché il censimento sia notifica to tramite               Referente
+                                                                                                  A pplicativi
+                                                                                    Operativo
+                       email inviata automaticamente dal RIGAM al                   della FC
+                                                                                                  RI G AM
+                       Responsabile della Funzione Owner; altrimenti
+                                                                                    Responsabil
+                       modificare     il   censimento        coinvolgendo           e della FO
+                       eventualmente il Referente Operativo.
+                           Verbale cartaceo validato, proseguire con
+                           l'Adempimento 3
+  3  Prendere in       Entro 10 giorni (lavorativi) dalla ricezione della        Responsabile     Documenti di
+     carico il GAP                                                               della FO         input
+                       mail di notifica, prendere in carico il GAP; se
+                                                                                 Funzioni         e- mail
+                       non è stato preso in carico l'applicativo invia un                         automatic a di
+                       sollecito tramite e-mail.                                 informate:       notific a
+                                                                                    Responsabil
+                                                                                                  A pplicativi
+                                                                                    e della FC
+                       Qualora il GAP non venga preso in carico                                   RI G AM
+                       trascorsi 15 giorni (lavorativi) dalla notifica,
+                       l'applicativo invia un alert via e -mail al
+                       Responsabile della FC.
+                       Quando il GAP è stato preso in carico, la
+                       Funzione di Controllo è avvisata via e -mail
+                       inviata automaticamente dal RIGAM.
+  4  Individuare il    Per ogni GAP, individuare nell’ambito della               Responsabile     A pplicativi
+     Referente         Funzione Owner il nominativo (o i nominativi)             della FO         RI G AM
+     Operativo         che devono determinare, pianificare e gestire gli         Funzioni
+                       interventi a mitigazione del GAP.                         informate:
+                                                                                    Referente
+                                                                                    Operativo
+                                                                                    della FO
+
+                   Oggetto:     Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                   Codice: D 01959 003                Pubblicato il: 24/06/2016               Pag. 14 di 23
+ID  Adempimenti        Descrizione                                                Attori           Supporti
+ 5 Identificare e     Definire puntualmente l’intervento da porre in             Referente        A pplicativi
+   pianificare gli    essere per mitigare il GAP.                                Operativo        RI G AM
+   interventi                                                                    della FO
+                      Per mitigare un GAP possono essere necessari
+                                                                                 Funzioni
+                      più interventi.                                            informate:
+                      Ogni “intervento” deve essere classificato come:              Responsabil
+                       * comportamento: tutte quelle azioni di                      e della FO
+                      mitigazione       connesse     ad     iniziative     di
+                      comunicazione o formazione o altro per
+                      allineare i comportamenti generali a corredo
+                      degli interventi previsti sul GAP;
+                       * metodo: quando è necessario rivedere uno o
+                      più processi operativi ed adeguare la normativa;
+                       * strumento: quando sono necessari interventi
+                      sugli applicativi IT.
+                      Tra quelle previste, le principali informazioni da
+                      inserire per ogni intervento sono:
+                       * la data di mitigazione che, in questa
+                      occasione, non può superare la data mitigazione
+                      stabilita per il GAP;
+                       * l'eventuale Struttura “Contributor” che
+                      collabora alla realizzazione dell’intervento
+                      (fermo restando che la Responsabilità risiede
+                      sempre sulla FO). Per quanto ovvio, una sola
+                      Funzione Contributor deve essere censita
+                      sull’intervento.
+                      Qualora sia prevista un’implementazione IT,
+                      come primo intervento deve essere censito lo
+                      studio di pre-fattibilità che terminerà con la
+                      redazione/approvazione del documento di BR
+                      previsto dal “Processo Demand” In questo caso
+                      avremo quindi come ulteriore intervento sul GAP
+                      la realizzazione di quanto alla BAI/BR
+                      Concluso il censimento di tutti gli interventi
+                      individuati,     avvisare    per     vie     brevi     il
+                      Responsabile della FO.
+ 6 Validare gli       Entro 30 giorni dall’inoltro automatico della mail         Responsabile     A pplicativi
+   interventi         di notifica, è necessario validare ogni intervento         della FO         SI SI FO
+                      individuato per mitigare il GAP.                           Funzioni         RI G AM
+                                                                                 informate:
+                                                                                    C ontributor
+                      Nell’inserire il piano degli interventi da porre in
+                      essere per la mitigazione del GAP , è necessario
+                      coinvolgere formalmente le eventuali “Funzioni
+                      Contributor” che devono collaborare alla
+                      realizzazione dell’intervento in modo che siano
+                      così condivisi i contributi necessari per il
+                      completamento della mitigazione nei tempi
+                      previsti.
+                         Validazione     degli  interventi, il processo
+                         termina
+
+                        Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                        Codice: D 01959 003               Pubblicato il: 24/06/2016               Pag. 15 di 23
+5 - MONITORAGGIO PERIODICO DEL GAP
+5.1 - AGGIORNAMENTO DELL'INTERVENTO
+5.1.1 - Norme generali
+Con periodicità mensile (entro il 15 del mese successivo alla rilevazione) la Funzione Owner
+della Mitigazione deve effettuare un aggiornamento sullo stato di avanzamento delle attività di
+mitigazione relative ai gap di propria responsabilità. Qualora l’aggiornamento dell’intervento
+influenzi gli obiettivi della mitigazione del GAP (spostamento della data di mitigazione e
+chiusura del GAP) deve essere sottoposto all’autorizzazione della Funzione di Controllo.
+Per ogni intervento possono essere aggiornate le informazioni relative a:
+   -    % avanzamento;
+   -    data di mitigazione (spostare la data di conclusione dell’intervento);
+   -    chiusura o meno dell’intervento.
+La modifica della % di avanzamento e della data di mitigazione devono essere accompagnate
+da specifiche motivazioni inserite nel campo note dedicato dell'applicativo.
+In caso di chiusura (%avanzamento =100) deve essere documentato adeguatamente il
+compimento delle iniziative previste (es. normativa, BR, ecc.).
+Il completamento degli aggiornamenti deve essere comunicato al Referente di Area.
+Prima di formalizzare gli aggiornamenti, è necessaria una preventiva condivisione sia a livello
+di Area, sia a livello di Direzione. Al fine di garantire un efficace coordinamento di questa
+attività è opportuno che ogni Area individui almeno un “referente” quale figura preposta
+anche a fungere da raccordo funzionale con la Direzione.
+Con periodicità diverse calcolate in base al tempo intercorso tra la notifica e la scadenza del
+GAP, per avvisare l'approssimarsi della scadenza del GAP l'applicativo invia una e -mail al
+Responsabile della Funzione Owner.
+5.1.2 - Sequenza degli adempimenti
+Link al diagramma di processo
+ ID     Adempimenti         Descrizione                                               Attori           Supporti
+  1    Avviare a livello   Avvisare il Responsabile di ogni FO dell’Area             Referente di
+       di Area l'iter di   affinché si attivi per effettuare gli aggiornamenti       Area
+       aggiornamento       degli interventi di propria responsabilità.               Funzioni
+       degli interventi                                                              coinvolte:
+                           L’avviso deve essere inviato in tempo utile
+                           affinché l’aggiornamento possa essere                        C ontributor
+                           effettuato nei tempi previsti (Cfr. paragrafo             Funzioni
+                           5.1.1).                                                   informate:
+                                                                                        Responsabil
+                           Predisporre e inviare alle Funzioni Contributor la           e della FO
+                           reportistica per comunicare e chiedere il SAL
+                           sugli interventi in cui sono coinvolti.
+
+                   Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                   Codice: D 01959 003               Pubblicato il: 24/06/2016               Pag. 16 di 23
+ID  Adempimenti        Descrizione                                               Attori           Supporti
+ 2 Aggiornare         Se necessario, aggiornare ciascun intervento              Contributor      A pplicativi
+   intervento         previsto per la mitigazione del GAP con le                                 RI G AM
+                                                                                Referente
+                      modalità descritte al paragrafo 5.1.1                     Operativo
+                                                                                della FO
+                                                                                Funzioni
+                                                                                informate:
+                                                                                   Referente di
+                                                                                   Area
+ 3 Produrre           Produrre la reportistica a livello di Area per            Referente di     Documenti di
+   riepilogo a        sottoporla all'attenzione del Responsabile di             Area             output
+   livello di Area                                                                               RE PO RT evidenze
+                      Area                                                                       a livello di A rea
+ 4 Condividere        Condividere, preferibilmente con sessioni di              Responsabile     Documenti di
+   aggiornamenti                                                                di Area          input
+                      lavoro, lo stato degli interventi, con specifico
+   a livello di Area                                                                             RE PO RT evidenze
+                      riferimento alle chiusure e allo spostamento              Funzioni
+                                                                                                 a livello di A rea
+                      della data di mitigazione.                                coinvolte:
+                                                                                   Responsabil   A pplicativi
+                                                                                                 RI G AM
+                                                                                   e della FO
+                      Nel caso di Area a "diretto riporto" dell'AD/DG              C oordiname
+                      nella condivisione è coinvolto anche lo Staff                nto Owners
+                      (Funzione di Coordinamento Owners).
+                      In caso di:
+                         Aggiornamento da NON modificare,
+                         proseguire con l'Adempimento 6
+                         Aggiornamento da modificare , proseguire
+                         con l'Adempimento 5
+ 5 Modificare         Modificare il precedente aggiornamento                    Referente        A pplicativi
+   aggiornamento      dell'intervento come definito in fase di                  Operativo        RI G AM
+   dell'intervento    condivisione a livello di Area tenendo presente           della FO
+                      quanto precisato al punto 5.1.1.                          Contributor
+                                                                                Funzioni
+                         Aggiornamento modificato, proseguire con               coinvolte:
+                         l'Adempimento 6                                           Referente di
+                                                                                   Area
+ 6 Avvisare la        Nel caso di Area NON a diretto riporto del DG,            Referente di
+   Direzione a cui    avvisare la Direzione tramite la Funzione di              Area
+   riporta            Coordinamento dell’avvenuta condivisione                  Funzioni
+   gerarchicament                                                               informate:
+   e l'Area
+                                                                                   C oordiname
+                                                                                   nto Owners
+ 7 Produrre           Concluso il ciclo di condivisione da parte di tutte       Coordinamen      Documenti di
+   riepilogo a                                                                  to Owners        output
+                      le Aree, predisporre i report per la condivisione
+   livello Direzione  dello stato dell’arte.
+                                                                                                 RE PO RT evidenze
+                                                                                                 a livello di
+                                                                                                 D irezione
+                                                                                                 A pplicativi
+                                                                                                 RI G AM
+ 8 Condividere        Condividere con cadenza periodica ,                       Coordinamen      Documenti di
+   aggiornamenti                                                                to Owners        input
+                      preferibilmente con sessioni di lavori mensili, lo
+   a livello          stato degli interventi, con focus su specifiche           Funzioni         RE PO RT evidenze
+   Direzione                                                                    coinvolte:       a livello di
+                      problematiche con particolare riferimento allo                             D irezione
+                      spostamento della data di mitigazione                        Responsabil
+                                                                                   e della FO
+                                                                                   Responsabil
+                      In caso di:
+                                                                                   e di Area
+                         Aggiornamento da NON modificare,
+                         proseguire con l'Adempimento 10
+                         Aggiornamento da modificare , proseguire
+                         con l'Adempimento 9
+
+                       Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                       Codice: D 01959 003                Pubblicato il: 24/06/2016              Pag. 17 di 23
+ ID     Adempimenti        Descrizione                                               Attori           Supporti
+  9    Modificare         Modificare il precedente aggiornamento                    Referente        A pplicativi
+       Aggiornamento      dell'intervento in base a quanto stabilito in fase        Operativo        RI G AM
+       dell'intervento                                                              della FO
+                          di condivisione a livello di Direzione tenendo
+                          presente quanto precisato punto 5.1.1.                    Responsabile
+                                                                                    della FO
+                             Aggiornamento modificato, proseguire con
+                             l'Adempimento 10
+ 10    Validare           Verificare tutti gli aggiornamenti e validare             Responsabile     A pplicativi
+       aggiornamento      quelli che hanno determinato lo spostamento               della FO         RI G AM
+       intervento                                                                   Funzioni
+                          della data di chiusura o la chiusura degli
+                          interventi.                                               informate:
+                                                                                       C ontributor
+                                                                                       Referente
+                          Qualora l'aggiornamento risulti non corretto è               Operativo
+                          necessario avvisare il Referente Operativo della             della FO
+                          FO che provvederà ad effettuare la modifica.                 Funzione
+                                                                                       con compiti
+                          Gli spostamenti della data di mitigazione sono               di controllo
+                                                                                       (FC )
+                          notificate automaticamente tramite email alla
+                          Funzione con compiti di Controllo.
+                          In caso di:
+                             Chiusura GAP, proseguire con l'Adempimento
+                             11
+                             NON chiusura GAP, il processo termina
+ 11    Inoltrare          Qualora l’aggiornamento dell’intervento                   Responsabile     Documenti di
+       proposta di                                                                  della FO         output
+                          determini la chiusura del GAP, è necessario
+       Chiusura GAP       inviare la proposta alla Funzione di Controllo            Funzioni         e- mail
+                                                                                                     automatic a di
+                                                                                    informate:       notific a
+                                                                                       Funzione
+                             Inoltro proposta di chiusura GAP, il processo                           A pplicativi
+                                                                                       con compiti
+                             termina                                                   di controllo
+                                                                                                     RI G AM
+                                                                                       (FC )
+5.2     -    VALUTAZIONE          PROPOSTA          CHIUSURA/SPOSTAMENTO                     DELLA     DATA         DI
+         MITIGAZIONE DEL GAP
+5.2.1 - Norme generali
+La chiusura/spostamento della data di mitigazione del GAP, determinate con gli aggiornamenti
+effettuati nella fase precedente, devono essere valutate e verificate dalla Funzione con compiti
+di Controllo competente al fine di confermare o meno la proposta della Funzione Owner.
+E’ responsabilità della Funzione con compiti di Controllo competente validare la chiusura,
+certificando l’avvenuto completamento degli interventi e l’esito degli stessi, lo spostamento
+della data di mitigazione del GAP o la %di avanzamento; tuttavia, qualora l’esito delle verifica
+non sia soddisfacente può rifiutare la proposta motivandone il giudizio e condividendo eventuali
+soluzioni anche contingenti per il superamento delle criticità riscontrate.
+E’ altresì responsabilità della Funzione con compiti di Controllo aggiornare la percentuale di
+avanzamento di risoluzione del GAP in base allo stato di avanzamento che la Funzione Owner
+ha segnalato per ogni singolo intervento afferente il GAP. La modifica della % di avanzamento
+deve essere accompagnata da specifiche motivazioni inserite nel campo note dedicato
+dell’applicativo.
+
+                      Oggetto:     Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                      Codice: D 01959 003               Pubblicato il: 24/06/2016                Pag. 18 di 23
+In caso di rifiuto della chiusura del GAP a seguito di mancata s oddisfazione dei requisiti
+riconducibili all’attività connessa all’eventuale Funzione Contributor, è compito della FO
+informarne la Funzione Contributor e provvedere a censire un nuovo intervento per le attività
+residuali concordate con la FC.
+5.2.2 - Sequenza degli adempimenti
+Link al diagramma di processo
+ ID    Adempimenti         Descrizione                                               Attori           Supporti
+  1   Valutare la         Valutare la proposta di chiusura/spostamento              Responsabile     Documenti di
+      modifica al GAP     della data di mitigazione del GAP alla luce delle         della FC         output
+      proposta dalla                                                                Funzioni         e- mail
+                          motivazioni addotte dalla Funzione Owner.                                  automatic a di
+      Funzione                                                                      informate:
+      Owner               Il responsabile della Funzione Owner è avvisato                            notific a
+                                                                                       Owner (FO)
+                          tramite email automatica se la modifica è                                  A pplicativi
+                          accettata o rifiutata; in quest’ultimo caso è                              RI G AM
+                          opportuno che la Funzione con compiti di
+                          Controllo specifichi le motivazioni che hanno
+                          determinato la decisione.
+                          In caso di:
+                             NON Accettazione proposta di modifica,
+                             proseguire con l'Adempimento 2
+                              Accettazione      proposta       di     modifica,
+                             proseguire con l'Adempimento 4
+  2   Aggiornare          Aggiornare l’intervento sulla           base    delle     Responsabile     A pplicativi
+      l'intervento        motivazioni del rifiuto ricevute.                         della FO         RI G AM
+                          Se ritenuto necessario deve essere contattata la          Referente
+                          Funzione con compiti di Controllo al fine di              Operativo
+                          individuare una soluzione che sia in linea con le         della FO
+                          esigenze delle funzioni coinvolte.                        Funzioni
+                                                                                    coinvolte:
+                                                                                       Funzione
+                                                                                       con compiti
+                                                                                       di controllo
+                                                                                       (FC )
+  3   Validare            Verificare tutti gli aggiornamenti e validare             Responsabile     A pplicativi
+      aggiornamento       quelli che hanno determinato lo spostamento               della FO         RI G AM
+      intervento                                                                    Funzioni
+                          della data di chiusura o la chiusura degli
+                          interventi.                                               informate:
+                                                                                       Referente
+                                                                                       Operativo
+                          Qualora l'aggiornamento risulti non corretto è               della FO
+                          necessario avvisare il Referente Operativo della             Funzione
+                          FO che provvederà ad effettuare la modifica.                 con compiti
+                                                                                       di controllo
+                                                                                       (FC )
+                          Le proposte di spostamento della data di
+                          mitigazione     del     GAP     sono       notificate
+                          automaticamente tramite email alla Funzione
+                          con compiti di Controllo.
+                          In caso di:
+                             Ripresentazione della proposta ripetere
+                             l'Adempimento 1
+                             Revoca della proposta, il processo termina
+
+                      Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                      Codice: D 01959 003               Pubblicato il: 24/06/2016               Pag. 19 di 23
+ ID    Adempimenti        Descrizione                                               Attori           Supporti
+  4   Validare lo        Validare lo spostamento della               data    di    Responsabile     A pplicativi
+      spostamento        mitigazione o la chiusura del GAP                         della FC         RI G AM
+      della data di
+      mitigazione o la
+      chiusura del          Aggiornamento del GAP, il processo termina
+      GAP
+6 - GESTIONE DELEGHE
+6.1 - ASSEGNAZIONE DELEGHE
+6.1.1 - Norme generali
+Al fine di ottimizzare le varie fasi, i Responsabili delle funzioni coinvolte nel processo possono
+delegare uno o più nominativi (anche contemporaneamente) appartenenti alla propria struttura
+le abilitazioni a loro assegnate per eseguire l’operatività prevista nell’applicativo R.I.G.A.M.
+(cono di visibilità e funzionalità).
+La delega decade automaticamente nel caso in cui cambi la struttura di appartenenza del
+delegante o del delegato.
+Le tipologie di delega previste sono:.
+- Full: attribuzione al Delegato di tutte le fattispecie del Delegante (cono operativo, ecc.);
+- Lettura: attribuzione al Delegato della sola visibilità in lettura delle fattispecie del
+    Delegante;
+- Cono Full: attribuzione al Delegato di parte del cono operativo del Delegante, con le
+    prerogative “Full”;
+Cono Lettura: attribuzione al Delegato di parte del cono operativo del Delegante, con le
+prerogative “Lettura”
+6.1.2 - Sequenza degli adempimenti
+Link al diagramma di processo
+ ID    Adempimenti        Descrizione                                               Attori           Supporti
+  1   Richiedere una     Comunicare tramite email (cfr. 1.4), inserendo il         Referente di
+      delega             responsabile in CC, i seguenti dati:                      Area
+                         - nominativo/nominativi delegati;
+                                                                                   Funzioni
+                         - struttura di appartenenza;                              informate:
+                         - tipologia dell'abilitazione.                               Responsabil
+                                                                                      e di Area
+                                                                                      Responsabil
+                                                                                      e di Servizio
+                                                                                      Gestione
+                                                                                      Deleghe
+  2   Attribuire         Elaborare la richiesta di delega e comunicare             Gestione         A pplicativi
+      Delega             tramite e-mail l'avvenuta abilitazione.                   Deleghe          RI G AM
+                                                                                   Funzioni
+                            Delega Attribuita, il processo termina                 informate:
+                                                                                      Responsabil
+                                                                                      e di Area
+                                                                                      Responsabil
+                                                                                      e di Servizio
+
+                     Oggetto:    Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                     Codice: D 01959 003              Pubblicato il: 24/06/2016                Pag. 20 di 23
+6.2 - MONITORAGGIO DELEGHE
+6.2.1 - Norme generali
+Al fine di gestire efficacemente l’esercizio di delega, ogni delegante periodicamente deve
+verificare che le deleghe attribuite siamo coerenti con le attuali posizioni/mansioni del
+nominativo delegato.
+6.2.2 - Sequenza degli adempimenti
+Link al diagramma di processo
+ ID     Adempimenti      Descrizione                                               Attori           Supporti
+  1    Produrre elenco  Con cadenza trimestrale produrre la lista delle           Gestione
+       delle deleghe    deleghe e inviarla tramite e -mail a ciascun              Deleghe
+                        delegante.
+  2    Verificare le    Per ogni delegato verificare che la sua                   Responsabile
+       deleghe          posizione/mansione sia coerente con la delega             di Servizio
+                        attribuita.                                               Responsabile
+                        In caso di esito negativo occorre comunicare via          di Area
+                        e-mail (cfr. 1.4) alla Funzione Gestione Deleghe          Funzioni
+                        le variazioni/revoche da apportare.                       informate:
+                                                                                     Gestione
+                                                                                     Deleghe
+  3    Variare le       Variare/revocare le deleghe secondo le                    Gestione
+       deleghe          indicazioni ricevute e comunicare l'esito al              Deleghe
+                        richiedente via e-mail.                                   Funzioni
+                                                                                  informate:
+                                                                                     Responsabil
+                           Delega modificata, il processo termina                    e di Area
+                                                                                     Responsabil
+                                                                                     e di Servizio
+7 - TRASFERIMENTO DEL GAP
+7.1 - NORME GENERALI
+Il trasferimento del GAP si pone necessario a seguito di alcuni particolari eventi (per esempio:
+riassetto organizzativo della Banca), che a giudizio della Funzione Owner implichino che la
+mitigazione di un gap non sia più sotto la propria responsabilità.
+Allo scopo di non dilazionare la risoluzione del gap la “vecchia” Funzione Owner rimane
+responsabile dell’avanzamento delle attività pianificate e delle relative comunicazioni alla
+Funzione con compiti di controllo fino alla formalizzazione del passaggio di consegne.
+Qualora, a eseguito della variazione del Responsabile della mitigazione, la Funzione Owner
+riscontrasse un disallineamento nell'applicativo, questa deve prontamente comunicare la
+variazione con e-mail alla Funzione con compiti di controllo affinché aggiorni i dati del GAP.
+Il trasferimento del gap si collega alla fase Notifica e presa in carico del gap.
+7.2 - SEQUENZA DEGLI ADEMPIMENTI
+
+                    Oggetto:     Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                    Codice: D 01959 003               Pubblicato il: 24/06/2016                Pag. 21 di 23
+Link al diagramma di processo
+ ID   Adempimenti       Descrizione                                                Attori           Supporti
+  1  Comunicare la     Comunicare alla Funzione Owner Subentrante la              Funzione         A pplicativi
+     necessità del     necessità e i motivi per cui è necessario                  Owner            SI SI FO
+     trasferimento     effettuare un trasferimento di ownership del               Funzioni         RI G AM
+     del GAP                                                                      informate:
+                       gap.
+                                                                                     Owner
+                                                                                     Subentrante
+  2  Condividere il    Effettuare un passaggio di consegne del gap nel            Owner            A pplicativi
+     passaggio di      quale condividere:                                         Subentrante      RI G AM
+     consegne
+                       - il GAP formalizzato dalla Funzione di controllo          Funzione         SI SI FO
+                                                                                  Owner
+                       - la data di mitigazione                                                    Normativa
+                                                                                                   1 0 3 0D01822
+                       - lo stato degli interventi individuati per la sua
+                       mitigazione
+                       In presenza di eventuali dubbi sull’assegnazione
+                       delle responsabilità delle Funzioni Owner per la
+                       risoluzione del GAP, questi devono essere
+                       superati all’interno delle linee gerarchiche delle
+                       funzioni stesse; queste si possono rivolgere a
+                       tutte le funzioni aziendali competenti utili a
+                       dirimere eventuali dubbi interpretativi.
+                       Qualora, nonostante gli accorgimenti richiamati,
+                       non si pervenga alla condivisione, è necessario
+                       procedere ad una escalation
+                       In caso di:
+                           Passaggio di consegne condiviso, proseguire
+                           con l'Adempimento 4
+                           passaggio di consegne non condiviso,
+                           proseguire con l'Adempimento 3
+  3  Processo di       La gestione delle problematiche non risolte con            Owner
+     escalation per    gli    interventi     delle   Funzioni       Aziendali     Subentrante
+     definire la
+                       Competenti, deve essere affrontata nell’ambito             Funzione
+     Responsabilità
+                       di un processo di escalation secondo ambiti                Owner
+     del GAP
+                       progressivi di interessamento dei livelli                  Funzioni
+                       gerarchici, che preveda il coinvolgimento ultimo           coinvolte:
+                       della Funzione di Coordinamento Globale.                      C oordiname
+                                                                                     nto Globale
+                       In caso di:
+                           Gap     attribuito   alla   Funzione       Owner
+                           Subentrante, proseguire con l'Adempimento 4
+                           Gap lasciato sulla Funzione Owner, il
+                           processo termina
+  4  Formalizzare      Formalizzare verso la Funzione con compiti di              Funzione         A pplicativi
+     passaggio di      Controllo l'avvenuta condivisione del passaggio            Owner            RI G AM
+     consegne          di consegne                                                Funzioni
+                                                                                  informate:
+                                                                                     Funzione
+                                                                                     con compiti
+                                                                                     di controllo
+                                                                                     (FC )
+
+                  Oggetto:   Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                  Codice: D 01959 003             Pubblicato il: 24/06/2016              Pag. 22 di 23
+ID  Adempimenti       Descrizione                                              Attori         Supporti
+ 5 Attribuire        Assegnare la responsabilità alla nuova Funzione          Funzione con   A pplicativi
+   nuova             responsabile e censire un nuovo GAP                      compiti di     RI G AM
+   responsabilità                                                             controllo (FC)
+                     nell'applicativo.
+                       Responsabilità attribuita, proseguire con il
+                       processo "Notifica e presa in carico del GAP"
+
+                Oggetto:   Gestione dei GAP segnalati dalle Funzioni di C ontrollo
+                Codice: D 01959 003             Pubblicato il: 24/06/2016          Pag. 23 di 23
+8 - ELENCO TESTI NORMATIVI DI RIFERIMENTO
+1030D00751  Regolamento n. 1 - Organizzazione della Banca MPS
+1030D00793  Policy di Gruppo in Materia di Sistema dei Controlli Interni
+1030D01630  Presidio relazioni con Autorità di Vigilanza o Controllo: visite ispettive degli
+            Organi di Vigilanza o di Controllo”
+1030D01822  Policy in materia di monitoraggio dei GAP segnalati dalle Funzioni di
+            Controllo
+1030M00168  Manuale Operativo Repository Integrato Gestione Aree di Miglioramento
+            (R.I.G.A.M.)
+

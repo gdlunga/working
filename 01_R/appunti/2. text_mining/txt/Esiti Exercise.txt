@@ -1,0 +1,218 @@
+                                                                   ECB-RESTRICTED
+                                                                            FINAL
+ECB DG-MS4 Internal Models division
+                                    Reporting
+                                    instructions for
+                                    banks’ internal
+                                    validation function
+                                    Outcomes of pilot phase for
+                                    operational risk Pillar I models
+
+Rubric
+Reporting instructions for banks’ internal validation function                                ECB-RESTRICTED
+                                                                                                          FINAL
+General Objectives
+ The project “Reporting instructions for banks’ internal validation function”
+ has been developed by ECB and NCA model experts with the following goals:
+     1. Ensuring robust information on all models in the SSM and improving
+          prioritisation of supervisory assessments
+     2. Defining common metrics for the assessment of internal models across SSM
+     3. Promoting a common reporting of institutions' validation results towards the ECB
+       The standardized reporting neither replaces the institutions' own validation nor
+       does it intend to promote best practices in the validation of internal models. It is the
+       responsibility of each institution to define its appropriate internal validation framework
+                                                   2                           www.bankingsupervision.europa.eu ©
+
+  Rubric
+  Reporting instructions for banks’ internal validation function                                         ECB-RESTRICTED
+                                                                                                                     FINAL
+  Pilot phase (1/2)
+     A pilot phase for the project has been carried out during 2017 involving all
+     Significant Institutions within SSM with approved AMA models used at
+     consolidated level. The main milestones of the pilot are summarized below
+       Jan 2017                Mar 2017                Apr 2017      Apr 2017 – Feb 2018              Apr 2018
+The ECB                 The ECB held            The ECB released     Banks implemented         The pilot phase is
+communicated to         workshops with all      the final version of the reporting of          concluded and the
+banks the launch of     banks participating in  the reporting        validation results        ECB made use of it
+pilot phase of the      the pilot exercise with instructions and the parallel to the           to assess AMA
+project for operational the aim of              template to be used  execution of their        models and improve
+risk and released the   discussing the          during the pilot     internal validation       reporting instructions.
+first draft of the      project and             phase, and a         and sent data to the      Validation reporting is
+instructions            reporting               feedback table       ECB who quality           formally rolled-out
+document and            implementation          addressing FAQ on    assured them              and main pilot
+reporting template                              implementation                                 outcomes are
+                                                                                               shared with banks
+                                                             3                            www.bankingsupervision.europa.eu ©
+
+Rubric
+Reporting instructions for banks’ internal validation function                           ECB-RESTRICTED
+                                                                                                     FINAL
+Pilot phase (2/2)
+ The data submitted during the pilot phase have been quality assured by the
+ ECB and then used to:
+     1. Review the set of tests in order to enhance the outcomes of the analyses
+         (introducing / removing tests whenever deemed appropriate)
+     2. Clarify the documentation in order to facilitate the implementation of tests and
+         the interpretation of the results
+     3. Calibrate thresholds for statistical tests in order to appropriately identify
+         warnings about performances of AMA models and to ease results interpretation
+     4. Get a comprehensive picture of the performance of AMA models in order to
+         support a smooth the transition towards the new envisaged Basel framework
+       The following slides report an overview of practices about segmentation of risk and
+       modeling of both frequency and severity of losses based on data from the pilot phase
+                                               4                          www.bankingsupervision.europa.eu ©
+
+Rubric
+Reporting instructions for banks’ internal validation function                                                 ECB-RESTRICTED
+                                                                                                                           FINAL
+Overview of practices
+Definition of Operational Risk Categories
+Description                                                      Used criteria for ORC definition
+ The right hand side shows which types of
+ criteria banks use for the ORC definition. The
+ tables below show the top criteria for each
+ category i.e. those most often used in the major
+ 3 ORCs. The “Other” category included bank
+ specific criteria like country/region, subsidiary,
+ ORC type i.e. LDA vs scenario-based or loss
+ sub-types like anatocism, payment card frauds
+     Top Event Types                       Top Business Lines                       Top Product Types
+     Clients, Products & Business                                                   Derivatives & Securities
+     Practices - Improper Business or      Retail Banking - Retail Banking
+     Market Practices                                                               Investment Products
+     Clients, Products & Business          Retail Banking - Card Services
+     Practices - Suitability, Disclosure &                                          Brokerage
+     Fiduciary                             Retail Banking - Private Banking         Capital Raising
+     Clients, Products & Business
+     Practices - Product Flaws                                                      Retail Credit
+                                           Commercial Banking
+     Clients, Products & Business                                                   Commercial Credit
+     Practices - Selection, Sponsorship &
+                                           Trading & Sales - Sales
+     Exposure                                                                       Deposits
+     Clients, Products & Business          Trading & Sales - Proprietary            Cash Management, Payments &
+     Practices - Advisory Activities       Positions                                Settlements
+                                                                5                               www.bankingsupervision.europa.eu ©
+
+Rubric
+Reporting instructions for banks’ internal validation function                                                                                ECB-RESTRICTED
+                                                                                                                                                        FINAL
+Overview of practices
+Modelling of the frequency distribution
+ Description                                                                                Used Core Source
+  The pie charts show the distribution of                                                     0.5%   0.5%         0.5%
+                                                                                                                           internal data
+  the used core sources, distributions and
+  fitting methods among AMA SSM banks                                                              21.2%                   scenarios
+  for the frequency distribution
+                                                                                                                           int. data + scens.
+                                                                                                              77.2%
+                                                                                                                           ext. data + scens.
+                                                                                                                           other
+ Modelling Distribution*                                                                    Parameter Fitting Method
+                        5.2%
+               8.3%                                                                                                                   Maximum likelihood
+                                                                                                           14.0%
+                                                              Poisson                                                                 Moment matching
+                                                                                                        9.3%         41.6%
+                                                              Negative Binomial                  1.4%                                 Percentile matching
+                                 86.5%                        Other                                       33.6%                       Judgmental
+                                                                                                                                      Other
+* The conservatism of the final model is not driven by the distribution alone, but also by
+other modelling assumptions, like the fitting method, the core source and the modelling
+threshold                                                                                  6                                www.bankingsupervision.europa.eu ©
+
+Rubric
+Reporting instructions for banks’ internal validation function                                                                              ECB-RESTRICTED
+                                                                                                                                                     FINAL
+Overview of practices
+Modelling of the severity distribution (full)
+ Description                                                                                Used Core Source
+  The pie charts show the distribution of                                                              1.2%
+                                                                                                                         internal data
+  the used core sources, distributions and
+                                                                                                  18.5%    18.5%
+  fitting methods among AMA SSM banks                                                                                    external data
+  for those severity distributions that are                                                                   13.6%      scenarios
+  modeled by a non-spliced distribution                                                           48.1%
+  function (42% of ORCs)                                                                                                 int. data + ext. data
+                                                                                                                         int. data + scens.
+ Modelling Distribution*                                                                    Parameter Fitting Method
+                                                              Lognormal
+                  24.7%                                       Empirical                                                             Maximum likelihood
+                                                                                                                   31.4%
+    2.5%                                                                                                                            Moment matching
+                                                              Weibull                                 52.6%
+         4.9%                      66.7%                                                                                            Other
+                                                              Loglogistic                                        16.0%
+          1.2%
+                                                              Other
+* The conservatism of the final model is not driven by the distribution alone, but also by
+other modelling assumptions, like the fitting method, the core source and the modelling
+threshold                                                                                  7                              www.bankingsupervision.europa.eu ©
+
+Rubric
+Reporting instructions for banks’ internal validation function                                                                              ECB-RESTRICTED
+                                                                                                                                                        FINAL
+Overview of practices
+Modelling of the severity distribution (body)
+ Description                                                                                Used Core Source
+  The pie charts show the distribution of                                                      0.9%                      internal data
+  the used core sources, distributions and
+                                                                                                     17.0%               external data
+  fitting methods among AMA SSM banks
+                                                                                                                         scenarios
+  for the body of those severity distributions                                                    13.4%
+                                                                                                              54.5%      int. data + ext. data
+  that are modeled by a spliced distribution
+  function (58% of ORCs)                                                                                                 int. data + scens.
+                                                                                              2.7%
+                                                                                              11.6%                      int. data + ext. data + scens.
+ Modelling Distribution*                                                                    Parameter Fitting Method
+                        4.5%
+                                  26.8%                       Lognormal                                                             Maximum likelihood
+                                                                                                                   31.4%
+                                                              Empirical                                                             Moment matching
+                                                                                                        52.6%
+                    68.8%                                     Weibull                                                               Other
+                                                                                                                  16.1%
+* The conservatism of the final model is not driven by the distribution alone, but also by
+other modelling assumptions, like the fitting method, the core source and the modelling
+and body/tail threshold                                                                    8                              www.bankingsupervision.europa.eu ©
+
+Rubric
+Reporting instructions for banks’ internal validation function                                                                                ECB-RESTRICTED
+                                                                                                                                                          FINAL
+Overview of practices
+Modelling of the severity distribution (tail)
+ Description                                                                                Used Core Source
+  The pie charts show the distribution of                                                      0.9%
+                                                                                                                           internal data
+  the used core sources, distributions and                                                    1.8%
+                                                                                                    17.0%                  external data
+  fitting methods among AMA SSM banks                                                                        42.0%         scenarios
+  for the tail of those severity distributions
+  that are modeled by a spliced distribution                                                                               int. data + ext. data
+                                                                                                   36.6%
+  function (58% of ORCs)                                                                                                   int. data + scens.
+                                                                                              1.8%
+                                                                                                                           int. data + ext. data + scens.
+ Modelling Distribution*                                                                    Parameter Fitting Method
+                                                              Lognormal
+                                                                                                                                      Maximum likelihood
+                                                              Empirical
+                    23.2%                                                                                                             Moment matching
+                                   45.5%                                                               47.5%       37.4%
+                                                              Weibull
+                                                                                                                                      Minimum distance
+        6.3%
+                                                              Pareto                                                                  Bayes
+                     20.5%
+                                                              Inverse Gaussian                                                        Other
+                                                                                                                         6.5%
+                                                              Other                                    6.5%         2.2%
+                    3.6%        0.9%
+* The conservatism of the final model is not driven by the distribution alone, but also by
+other modelling assumptions, like the fitting method, the core source and the modelling
+and body/tail threshold                                                                    9                                www.bankingsupervision.europa.eu ©
+

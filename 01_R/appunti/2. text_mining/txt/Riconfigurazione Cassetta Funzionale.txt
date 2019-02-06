@@ -1,0 +1,22 @@
+Riconfigurazione dell’accesso alle cassette di funzione
+Dopo la migrazione dell’utenza principale, per poter accedere alle cassette di funzione per le quali si ha
+delega, è necessaria una nuova configurazione.
+Preventivamente si devono dissociare in questo modo le cassette associate a Outlook:
+Selezionare File/impostazioni/impostazioni account
+Individuare l’account a cui sono agganciate le cassette di funzione (se sono presenti più account)
+selezionarlo, utilizzare il pulsante cambia e successivamente altre impostazioni
+
+Sulla scheda “impostazioni avanzate” evidenziare le ulteriori cassette postali da aprire e rimuoverle dalla
+lista.
+N.B.: prima di rimuovere le cassette aggiuntive prendere nota dell’indirizzo di posta delle cassette stesse
+in modo da poterlo riutilizzare nella fase successiva.
+Per riconfigurare le cassette di funzione come account aggiuntivo selezionare File/Aggiungi account
+
+Inserire nella schermata di configurazione automatica l’indirizzo di posta elettronica della cassetta da
+aggiungere.
+N.B.: Non è necessario inserire la propria password personale nei campi Password e Conferma password
+Per rendere effettive le modifiche è necessario riavviare Outlook.
+Dopo il riavvio ricomparirà la cassetta di funzione nell’area sinistra.
+Nel caso ci siano problemi per l’accesso alla cassetta funzionale è possibile accedervi anche via webmail
+(OWA) attraverso il link Https://posta.gruppo.mps.it/OWA/indirizzocassettafunzionale
+

@@ -1,0 +1,2062 @@
+PRESIDIO DEL RISCHIO DI CREDITO
+      Ruoli e responsabilità
+      per un unico obiettivo
+            Settembre, 2015
+                                1
+
+                                              Hanno collaborato alla stesura del presente documento:
+                                              Massimo Querci (Coordinatore del GdL AIIA)
+                                              Esponente di Società del Gruppo Intesa Sanpaolo
+                                              Livio Gianfranco Berardo
+                                              Referente Audit Pillar II e Operational Risk – Intesa Sanpaolo
+                                              Giuseppe Bertero
+                                              Responsabile Audit Rischi e Corporate Governance – Intesa Sanpaolo
+                                              Claudio Gioda
+                                              Responsabile Audit Attività Corporate – Intesa Sanpaolo
+                                              Pietro Sivo
+                                              Head of Italy Audit Monitoring – Unicredit
+                                              Cataldo Miarelli
+                                              Responsabile Audit sui Processi di Gestione del Credito Non Performing – Banca
+                                              Monte dei Paschi di Siena
+                                              Paolo Traso
+                                              Responsabile Credit Audit - Banca Monte dei Paschi di Siena
+                                              Marisa Faccennini
+                                              Senior Auditor – Banca del Mezzogiorno – MedioCredito Centrale
+                                              Marin Gueorguiev
+                                              Protiviti
+                                              Cristina Gualerzi
+                                              Protiviti
+                                              Su iniziativa e indirizzo del Comitato Finanziario di AIIA - Fabrizio Quasso,
+                                              Responsabile Audit Banca dei Territori – Intesa Sanpaolo
+Copyright © Associazione Italiana Internal Auditors – AIIA
+Sede Legale: Via San Clemente 1, 20122 Milano.
+Tel.: 02.36581500 - Fax: 02.86995492
+Email: info@aiiaweb.it - Internet: www.aiiaweb.it
+All rights reserved. Tutti i diritti di traduzione, di riproduzione, di memorizzazione elettronica e di adattamento totale e parziale con qualsiasi
+mezzo (compresi i microfilm e le copie fotostatiche), anche a scopo didattico, sono coperti da copyright.
+2
+
+CONTENUTI
+1.  INTRODUZIONE 	                                                 5
+1.1 Obiettivi e limiti del documento                               5
+1.2 Modalità di organizzazione del Gruppo di lavoro                6
+1.3 Contesto di riferimento                                        6
+1.4 Evoluzione del quadro normativo e regolamentare                7
+1.5 Aspetti evolutivi                                              9
+2.  PROCESSO DEL CREDITO                                          11
+2.1 Principi generali per l’attività creditizia                   11
+2.2 Presidio sul rischio di credito                               12
+3.  INDIRIZZO STRATEGICO                                          14
+3.1 Ruolo della Risk Management Function - (RMF)                  14
+3.2 Ruolo della Funzione Internal Audit - (IA)                    16
+    3.2.1 Obiettivi minimi di controllo                           16
+    3.2.2 Punti di controllo correlati                            17
+		        3.2.2.1	  Requisiti del Responsabile della RMF          17
+		        3.2.2.2	  Requisiti organizzativi della RMF             17
+		        3.2.2.3	 Requisiti delle Risorse (umane e tecnologiche)
+                       della RMF                                  18
+4.  SVILUPPO DEI MODELLI DI RATING                                19
+4.1 Governance sui modelli avanzati del credito                   19
+4.2 Ruolo di RMF e della Funzione di Convalida                    19
+4.3 Ruolo di IA                                                   20
+    4.3.1 Verifiche sulla funzione di Convalida                   21
+    4.3.2 Verifiche sulla funzione di Risk Management             22
+    4.3.3 Use Test                                                22
+5.  ASSUNZIONE DEL RISCHIO DI CREDITO                             23
+5.1 Ruolo di RMF                                                  25
+5.2 Ruolo di IA                                                   25
+                                                                   3
+
+  6.  GESTIONE E MONITORAGGIO DEL CREDITO                       29
+  6.1 Ruolo di RMF	                                             31
+  6.2 Ruolo di IA                                               32
+  6.3 Monitoraggio crediti in bonis                             34
+      6.3.1 Monitoraggio giornaliero                            34
+      6.3.2 Sorveglianza Sistematica                            35
+      6.3.3 Sistema dei rating interni                          36
+      6.3.4 Politiche creditizie                                36
+      6.3.5 Revisione periodica linee di credito continuative
+              e crediti a scadenza                              37
+      6.3.6 Rischi rilevanti e parti correlate                  38
+      6.3.7 Sistema andamentale                                 38
+      6.3.8 Valutazione/classificazione del credito in bonis    39
+      6.3.9 Grandi rischi e gruppi di clienti connessi          40
+      6.3.10 Garanzie                                           40
+      6.3.11 Forborne Exposure                                  41
+  6.4 Monitoraggio crediti deteriorati                          42
+      6.4.1 Monitoraggio andamentale di esposizioni deteriorate 43
+      6.4.2 Classificazione del credito deteriorato             44
+      6.4.3 Valutazione del credito deteriorato: coperture
+              ed accantonamenti                                 45
+      6.4.4 Processo di recupero                                47
+  7.  REPORTING                                                 49
+  7.1 Minimo set di reporting inerenti crediti                  51
+  7.2 Il Tableau de Bord (TdB)                                  52
+4
+
+1. INTRODUZIONE
+1.1        Obiettivi e limiti del documento
+Obiettivi
+Con il presente Position Paper l’Associazione Italiana Internal Auditors (AIIA)
+intende proporre agli Associati uno strumento di lavoro organico che, alla luce
+delle evoluzioni del contesto regolamentare sin qui intervenute, possa:
+• supportare gli Internal Auditor nella migliore identificazione di ruoli e
+  responsabilità rispettivamente posti a carico della Funzione di Controllo dei
+  Rischi, anche detta Risk Management Function (d’ora in avanti per brevità
+  anche solo “RMF”) e della Funzione di Revisione Interna, meglio nota come  
+  Internal Audit (d’ora in avanti per brevità anche solo “IA”), con particolare
+  riferimento al presidio del rischio di credito assunto dalle banche;
+• promuovere un confronto aperto sulle tematiche trattate, con l’Associazione
+  Italiana Financial Industry Risk Managers (AIFIRM), con il mondo Accademico
+  e le Autorità di Vigilanza.
+Limiti
+Le considerazioni proposte in questo Position Paper sono di carattere generale
+e prescindono quindi dalle specificità delle forme tecniche di concessione del
+credito quali - ad esempio - leasing, factoring, mutui ipotecari, etc.
+Premesso che il rischio di credito può estrinsecarsi in molteplici forme1, in questo
+documento è stato considerato solo in relazione al mancato rimborso, ossia
+al rischio connesso all’eventualità che il cliente della banca non ottemperi alle
+proprie obbligazioni di debito, generando una perdita totale o parziale in termini
+di capitale e/o interessi.
+1 Rischio emittente Rischio di deprezzamento di un valore mobiliare acquistato dall’Entità, conseguente al deterioramento della capacità di
+  credito associata all’emittente.
+  Rischio secondario / Rischio del debitore terzo Rischio di default di un terzo, verso il quale l’Entità ha diritto ad esercitare l’azione di regresso
+  nel caso di default dell’obbligato principale.
+  Rischio di sostituzione (Rischio di Pre settlement o pre-regolamento) Rischio di controparte, connesso ad operazioni di tesoreria in cui la
+  controparte vada in default dopo aver concretato l’operazione, vi rimanga fino alla data di regolamento e l’operazione debba essere sostituita
+  con altra, a condizioni di mercato meno favorevoli rispetto a quelle originarie. Tale rischio persiste per tutta la durata dell’operazione; ad esso si
+  fa riferimento altresì come rischio di tasso e viene quantificato in termini di equivalente creditizio.
+  Rischio di regolamento Rischio di controparte sottostante ad operazioni di tesoreria nelle quali l’Entità chiude l’operazione (pagamento) alla
+  data di regolamento, mentre la controparte non ha ancora assolto le sue obbligazioni (la contro prestazione / il regolamento).
+  Rischio commerciale Rischio che un terzo, coinvolto in un’operazione commerciale (non in qualità di debitore), non ottemperi alle proprie
+  obbligazioni (ad es. incasso degli effetti nel caso di operazione di forfaiting) ovvero, nel caso di crediti acquistati nel factoring, il debitore non
+  proceda al pagamento dei crediti medesimi perché collegati a transazioni con merci / servizi non adeguatamente resi / forniti.
+  Rischio di annacquamento Rischio correlato ad operazioni di factoring, determinato da vicende relative alla transazione commerciale
+  sottostante il credito che possano determinare perdite diverse da quelle causate dall’inadempienza del debitore (es. resi / sconti).
+  Rischi connessi ad acquisizioni di partecipazioni azionarie Gli investimenti rientrano nell’ambito di applicazione del rischio di credito solo
+  qualora si configurino come sostitutivi di un finanziamento, o abbiano natura simile ad un prestito. (Le partecipazioni azionarie derivanti dalla
+  conversione del debito in capitale sono considerate sostitutive di un finanziamento; un investimento ha natura simile ad un prestito qualora
+  il capitale sociale ed i prestiti siano costituiti / erogati simultaneamente con riferimento ad operazioni di project / asset-backed financing o di
+  leveraged financing.). Prodotti intermedi, come i finanziamenti “mezzanine”, non sono inclusi di norma nella categoria degli investimenti e
+  rientrano di conseguenza nel “Rischio di mancato rimborso”.
+  Da sottolineare infine che anche le operazioni di cartolarizzazione originate sia dall’Entità bancaria sia da terzi, con riferimento alle tranches
+  detenute dall’Entità medesima, presentano un profilo di rischio di credito che deve essere opportunamente valutato.
+                                                                                                                                                         5
+
+  1.2      Modalità di organizzazione del Gruppo di lavoro
+  Il Gruppo di Lavoro, composto da rappresentanti della Funzione di IA di alcune
+  delle principali entità bancarie italiane, è giunto alla stesura del presente Position
+  Paper attraverso:
+  • Sessioni collegiali di brainstorming principalmente finalizzate:
+     o all’analisi e approfondimento dei contenuti del Position Paper redatto da
+        AIFIRM in materia di controllo andamentale e monitoraggio del credito;
+     o alla definizione di obiettivi e limiti del progetto;
+     o alla condivisione del framework e della struttura del documento;
+     o alla ripartizione delle attività assegnandole a dedicati project’s stream;
+     o alla verifica periodica dello stato avanzamento lavori.
+  • Tavoli tecnici organizzati per project’s stream al fine di realizzare:
+     o l’approfondimento normativo e regolamentare;
+     o l’identificazione di ruoli e responsabilità della RMF e della IA nel processo
+        di riferimento;
+     o la redazione dei singoli capitoli di trattazione in coerenza con il framework
+        definito.
+  1.3      Contesto di riferimento
+  Le difficoltà finanziarie iniziate negli Stati Uniti nell’estate 2007 a seguito di
+  insolvenze su mutui con basso merito di credito (c.d. subprime) si trasmisero
+  rapidamente a numerosi segmenti del mercato finanziario globale. La crisi,
+  che dapprima aveva interessato soprattutto istituzioni finanziarie con una
+  spiccata operatività nella finanza innovativa, ha avuto poi un fortissimo e
+  più generale impatto sui mercati della liquidità bancaria. Il sistema bancario
+  italiano, pur risentendo inevitabilmente - in una logica di globalizzazione dei
+  mercati - delle turbolenze provenienti dai mercati e dai sistemi bancari esteri,
+  ha tuttavia resistito meglio di altri all’impatto della crisi, grazie ad un modello
+  di intermediazione orientato prevalentemente verso gli impieghi e la raccolta
+  al dettaglio, all’indebitamento abbastanza contenuto del settore privato
+  dell’economia e a regolamentazioni piuttosto cogenti corroborate da un’azione
+  di vigilanza sicuramente attenta. Il protrarsi di condizioni di incertezza sui
+  mercati e il deterioramento del quadro macroeconomico mondiale hanno anche
+  generato la necessità di un irrobustimento del patrimonio.
+  E’ in questo contesto di crisi, dapprima finanziaria e successivamente anche
+  economica, considerata da molti economisti come una delle peggiori della storia
+  e seconda solo alla grande depressione del 1929, che vanno letti i numerosi
+  interventi compiuti in questi anni dalle Autorità regolamentari, che hanno
+  indirizzato la propria linea di azione sostanzialmente lungo due direttrici:
+6
+
+• L’attuazione di misure coordinate a sostegno della tenuta del sistema
+   finanziario internazionale (gli interventi “non convenzionali” delle banche
+   centrali per garantire al sistema la necessaria liquidità ne sono il principale
+   esempio);
+• La realizzazione di una profonda riforma delle regole della finanza, che
+   correggesse le evidenti lacune mostrate dal quadro regolamentare (l’Accordo
+   di Basilea 3, finalizzato oltre un anno fa, ne rappresenta il tassello più
+   significativo).
+Per le finalità di questo Position Paper ci riferiremo più in particolare a questo
+secondo aspetto di rafforzamento delle regole del sistema finanziario, meglio
+più avanti descritto.
+1.4       Evoluzione del quadro normativo e regolamentare
+In ambito europeo il rafforzamento della Corporate Governance e del
+processo di Risk Management trova massima espressione nella CRD IV e nel
+CRR2. Il c.d. “CRD IV Package” è costituito infatti dalla Direttiva 2013/36/UE e
+dal Regolamento 2013/575/UE, entrambi del 26 giugno 2013. La Direttiva e il
+Regolamento recepiscono gli standard definiti dal Comitato di Basilea per la
+vigilanza bancaria (c.d. framework Basilea 3) e sono poi stati tradotti in ambito
+regolamentare domestico con il 15° aggiornamento della Circolare 263/2006
+e con la Circolare 285/2013, entrambe di emanazione Banca d’Italia. In data
+11 luglio 2015, è stato inoltre rilasciato l’11° aggiornamento della Circolare 285
+che ha accorpato, aggiornandoli nel Capitolo 3, i contenuti della Circolare 263
+riferiti al “Sistema dei Controlli Interni” (in questo modo è proseguita l’azione di
+semplificazione e razionalizzazione della normativa di Vigilanza da parte della
+Banca d’Italia). Si precisa che il Regolamento 2013/575/UE e le norme tecniche
+sono risultate immediatamente applicabili negli ordinamenti nazionali, senza
+la necessità di un recepimento formale, mentre la disciplina contenuta nella
+Direttiva 2013/36/UE ha richiesto un apposito recepimento nelle fonti di diritto
+nazionali.
+Per gli argomenti trattati nel presente documento e più in particolare in relazione
+agli aspetti strategici ed ai presidi organizzativi di gestione dei rischi, giova qui
+enfatizzare l’art. 76 della CRD IV che recita: “la banca deve nominare un senior
+manager con “distinct responsibility for the risk management function”, che
+abbia linee di reporting dirette all’organo amministrativo”.
+La disciplina fa leva peraltro su alcuni principi di fondo, coerenti con le migliori
+prassi internazionali e con le raccomandazioni dei principali standard setter
+[Comitato di Basilea per la vigilanza bancaria (BCBS), Financial Stability Board
+(FSB), European Banking Authority (EBA)], di cui se ne riportano qui quelli
+ritenuti maggiormente significativi:
+• BCBS, Principle for enhancing corporate governance (ottobre 2010)
+   “A bank should have a risk management function (including a chief risk
+   officer (CRO), a compliance function and an internal audit function, each
+2 Capital Requirements Regulation
+                                                                                      7
+
+    with sufficient authority, stature, independence, resources and access to the
+    board”.
+    “Large banks and internationally active banks ... should have an independent
+    senior executive with distinct responsibility for the risk management
+    function and the institution’s comprehensive risk management framework ...
+    commonly referred to as the CRO”.
+  • BCBS, Core Principles for Effective Banking Supervision (settembre 2012)
+    “The supervisor requires larger and more complex banks to have a dedicated
+    risk management unit overseen by a Chief Risk Officer (CRO).
+    “The supervisor determines that banks have an adequately staffed,
+    permanent and independent compliance function that assists senior
+    management in managing effectively the compliance risks faced by the
+    bank”.
+  • BCBS Principles for effective risk data aggregation on risk reporting
+    (gennaio 2013)
+    “A bank’s board is responsible for determining its own risk reporting
+    requirements and should be aware of limitations that prevent full risk data
+    aggregation in the reports it receives”.
+  • EBA, Guidelines on Internal Governance (settembre 2011)
+    “An institution shall appoint a person, the Chief Risk Officer (CRO), with
+    exclusive responsibility for the RCF and for monitoring the institution’s risk
+    management framework ...”
+    “An institution should establish a permanent and effective Compliance
+    function and appoint a person responsible for this function ... (the
+    Compliance Officer or Head of Compliance). In smaller and less complex
+    institutions this function may be combined with or assisted by the risk control
+    or support functions (e.g. HR, legal, etc).
+    The Compliance function should ensure that the compliance policy is
+    observed and report to the management body and as appropriate to the RCF
+    on the “Institutions management of compliance risk”.
+  • FSB, Thematic Review on Risk Governance (febbraio 2013)
+    “... there are instances at some firms where the CRO is assigned other
+    functional, albeit non-revenue generating, responsibilities. Where this relates
+    to the oversight of functions such as compliance and anti-money laundering,
+    the concern is more about the risk of over-burdening the CRO, particularly in
+    more complex, global institutions, than the potential for conflict of interest”.
+    “Importantly, the risk management reports provided to the board should
+    contribute to sound risk management and decision-making. The board and
+    its committees, however, should not just rely on the information management
+    reports provided. They should consider if there is a need for additional risk-
+8
+
+  related information which should be made available to them when needed”.
+Infine, in considerazione della sua attualità, si ritiene utile citare:
+• il Paper “Guidelines on Corporate governance principles for banks”
+  dell’ottobre 2014, aggiornato nel Luglio 2015 dal BCBS, che dedica un
+  intero principio (nr. 6) alla RMF e i successivi 7 e 8 rispettivamente al “Risk
+  identification, monitoring and controlling” e “Risk communication”
+• il Consultation Paper “Draft Regulatory Technical Standards on the
+  specification of the assessment methodology for competent authorities
+  regarding compliance of an institution with the requirement to use the IRB
+  Approach in accordance with Articles 144(2), 173(3) and 180(3)(b) of Regulation
+  (EU) No 575/2013” del novembre 2014, emesso da EBA, che a pagina 10
+  dettaglia il ruolo dell’Internal Audit, cioè quello di “sottoporre a revisione
+  il processo di convalida verificando l’adeguatezza e la completezza delle
+  attività svolte dalla competente funzione, la coerenza e la fondatezza dei
+  risultati della convalida, nonché la perdurante conformità del sistema IRB ai
+  requisiti stabiliti dalla normativa”. Nella futura regolamentazione la revisione
+  dell’Internal Audit dovrà essere estesa e ricomprendere tutti gli aspetti
+  dei sistemi avanzati IRB. Secondo l’art.191 della CRR, viene previsto che la
+  revisione del sistema IRB dovrà essere garantita annualmente e includere
+  tutti i requisiti.
+1.5        Aspetti evolutivi
+Mentre si scrive il presente Position Paper, il 20 gennaio 2015 viene pubblicato
+da Banca d’Italia il 7° aggiornamento della Circolare n. 272 del 30 luglio
+20083 (Fascicolo «Matrice dei conti»). Con l’aggiornamento sono modificate
+le definizioni di attività finanziarie deteriorate allo scopo di allinearle alle
+nuove nozioni di Non-Performing Exposures e Forbearance introdotte dalle
+norme tecniche di attuazione relative alle segnalazioni statistiche di vigilanza
+consolidate armonizzate definite dall’Autorità Bancaria Europea, approvate
+dalla Commissione europea il 9 gennaio u.s. (di seguito, ITS). Ciò al fine di
+avere un’unica definizione a livello di segnalazioni di vigilanza (individuali e
+consolidate).
+Si sintetizzano di seguito le principali novità che discendono da tali modifiche
+normative:
+1. Individuazione delle esposizioni aventi i requisiti per la classificazione come
+  “Forborne exposure” (approccio per transazione) coerentemente con le
+  regole stabilite dall’EBA;
+2. Nuova impostazione delle attività deteriorate:
+   a. ripartizione del credito deteriorato in tre macro-classi, ovvero
+       l’aggiornamento della circolare 272 prevede la classificazione per debitore
+3   https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/circolari/c272/CIRC272_7agg.pdf
+                                                                                                           9
+
+      limitata a sole 3 classi di rischio di deteriorato (Past Due, Unlikely to pay,
+      Sofferenze), con evidenza di Forborne – a livello di singola transazione;
+   b. abolizione della categoria dei ristrutturati, ovvero gli intermediari
+      dovranno riclassificare i crediti nell’ambito delle altre categorie. Gli
+      Unlikely to pay rappresentano la categoria più idonea a comprendere il
+      complesso dei crediti verso un soggetto con esposizioni ristrutturate; in
+      questo caso tale categoria accoglierebbe – rispetto alla situazione attuale
+      - anche posizioni meno rischiose di quelle rientranti negli attuali incagli.
+   c. abolizione degli incagli oggettivi, ovvero le esposizioni scadute e/o
+      sconfinanti deteriorate continueranno ad essere segnalate come tali e non
+      più come incagli oggettivi, indipendentemente dall’anzianità di scaduto/
+      sconfinamento;
+   d. revisione dei presupposti per la classificazione a Past Due, ovvero è in
+      corso di consultazione proposta di rivisitazione degli attuali criteri e soglie
+      che determinano la classificazione automatica in Past due.
+10
+
+2. PROCESSO DEL CREDITO
+2.1      Principi generali per l’attività creditizia
+In premessa giova ricordare che nell’ordinamento italiano l’attività bancaria è
+definita come l’esercizio congiunto della raccolta di risparmio tra il pubblico
+e della concessione del credito (art. 10 del Testo Unico Bancario, d.lgs. 1°
+settembre 1993, n. 385 e successive modificazioni e integrazioni).
+Il credito deve essere concesso in piena consapevolezza e dopo adeguata
+valutazione dei rischi assunti, insiti in ogni operazione fiduciaria e, in ogni caso,
+nel rispetto di:
+• Leggi nazionali e disposizioni dell’Autorità di Vigilanza, in particolare in tema
+   di controlli interni relativi alla valutazione, misurazione e controllo dei rischi
+   creditizi;
+• Valori etici di base.
+E’ peraltro necessario subordinare l’assunzione del rischio di credito a condizioni
+di corretto equilibrio tra rischio e redditività nella relazione con il cliente,
+considerata nella sua globalità.
+Sotto il profilo organizzativo ogni Entità – a prescindere dunque da dimensioni,
+complessità organizzativa ed entità degli asset gestiti – deve disporre di un
+appropriato sistema di deleghe creditizie, supportato da idonei sistemi
+informatici e guidato da affidabili modelli di rating. È inoltre imprescindibile
+un efficace modello di risk reporting, quale strumento essenziale per la
+comprensione dei rischi assunti e di supporto alla ri-calibrazione periodica delle
+strategie creditizie.
+Ad una concessione rispondente a tali presupposti, deve poi far seguito una
+sana, puntuale e prudente attività di gestione e monitoraggio del credito,
+indispensabile per individuare e reagire prontamente ai sintomi di un possibile
+deterioramento della qualità creditizia della clientela (capacità di credito o di
+rimborso). La tempestiva individuazione e la coerente gestione dei clienti che
+presentano un deterioramento del proprio profilo di rischio, consentono infatti
+di intervenire nella fase antecedente lo stato di default (quando la controparte
+gode ancora di un sufficiente merito di credito) stabilendo conseguenti
+azioni tese o al superamento delle temporanee difficoltà del prenditore
+o, in alternativa, a ridurre gli impatti negativi derivanti dalle situazioni già
+compromesse/insanabili.
+Un efficace processo di gestione e monitoraggio del credito - specie
+di quello deteriorato - deve peraltro generare meccanismi virtuosi di
+autoregolamentazione (vedasi eventuali carenze o difettosità osservate nelle fasi
+propositive, deliberative e di erogazione del credito) in una sorta di “continuous
+improvement” dei processi di riferimento, attraverso la risoluzione/mitigazione
+dei rischi rilevati, che possa far leva anche sull’esperienza del passato.
+La gestione e il monitoraggio del credito in bonis è da riferire a tutti gli aspetti,
+sia gestionali che di rischio, che possono manifestarsi nel corso dell’esistenza
+                                                                                      11
+
+   di un rapporto fiduciario. Ai fini della gestione dei rischi è indispensabile la
+   puntuale rilevazione dei segnali di anomalia tali da far prefigurare un rischio
+   finanziario (ritardi nell’assolvimento degli obblighi assunti) o economico (perdite
+   per il mancato rimborso delle obbligazioni assunte).
+   L’attività di gestione e monitoraggio del credito problematico ricomprende sia
+   le iniziative volte a gestire situazioni di transitoria difficoltà del cliente (past due
+   oltre 90 giorni e incagli), sia le attività gestionali svolte tramite azioni giudiziali
+   o stragiudiziali poste in essere per ridurre le perdite derivanti dal default della
+   controparte (sofferenze).
+   In particolare, la gestione del credito anomalo riveste significativa importanza in
+   ottica di massimizzazione del valore e delle tempistiche del recupero già prima
+   della fase patologica.
+   2.2       Presidio sul rischio di credito
+   La tripartizione dei livelli tipica dei Sistemi di Controllo Interno, qui di seguito
+   riportata unicamente per finalità di completezza del documento, risulta essere
+   pienamente funzionale e rispondente anche al presidio del rischio di credito.
+                                           3° Livello
+                                       INTERNAL AUDIT
+                                           2° Livello
+                                    RISK MANAGEMENT &
+                                         COMPLIANCE
+                                           1° Livello
+                               ORGANIZATION/OPERATIONS -
+                                        BUSINESS LINES
+   È importante sottolineare come la stessa Autorità di Vigilanza abbia ribadito,
+   prima nel 15° aggiornamento della Circolare 263 e poi ripreso nell’ultimo
+   aggiornamento della Circolare 285 che il rischio va presidiato innanzitutto
+   là dove si genera, così richiamando all’importanza di efficaci controlli di primo
+   livello, che rappresentano la prima linea di difesa.
+   Utile quindi ribadire una volta di più come i controlli non debbano essere
+   considerati un ambito operativo circoscritto solo a talune funzioni aziendali ed
+   estraneo - se non addirittura contrapposto - alle strutture di business, ma, al
+   contrario, devono permeare l’intera struttura organizzativa a tutti i livelli; in una
+   parola, l’impresa deve essere orientata ad una diffusa risk culture, che deve
+12
+
+ispirare strategie e comportamenti virtuosi in una logica di profitto sostenibile
+nel tempo per tutti gli stakeholder dell’impresa stessa.
+Come più volte ribadito dalla stessa Autorità di Vigilanza, “Il corretto
+funzionamento del sistema dei controlli interni si basa sulla proficua interazione
+nell’esercizio dei compiti (d’indirizzo, di attuazione, di verifica, di valutazione)
+fra gli organi aziendali, gli eventuali comitati costituiti all’interno di questi ultimi,
+i soggetti incaricati della revisione legale dei conti, le funzioni di controllo.”
+“Fermo restando la reciproca indipendenza e i rispettivi ruoli, le funzioni
+aziendali di controllo collaborano tra loro e con le altre funzioni (ad es., funzione
+legale, organizzazione, sicurezza) allo scopo di sviluppare le proprie metodologie
+di controllo in modo coerente con le strategie e l’operatività aziendale.”
+Nel definire le modalità di raccordo, nel rispetto delle attribuzioni previste dalla
+legge per le funzioni di controllo, le banche, in situazioni di temporaneità e per
+ambiti di forte contenuto specialistico, di materialità dei dati, di proporzionalità,
+ecc. possono prevedere una “cooperazione a due vie” tra le funzioni di
+controllo anche in un’ottica di sostenibilità di costo del complessivo SCI. Sarà
+comunque compito degli organi apicali intervenire opportunamente, anche
+con avvicendamenti nelle strutture ovvero implementazioni alle metodologie,
+laddove intercettino segnali di effetti distorsivi.
+                                                                                          13
+
+   3 INDIRIZZO STRATEGICO
+   In questo capitolo vengono trattate le tematiche attinenti alla definizione degli
+   indirizzi strategici dell’impresa e della traduzione di questi in politiche di governo
+   e gestione del rischio di credito, con particolare riferimento al ruolo che:
+   • la RMF - quale funzione aziendale di controllo di secondo livello - è chiamata
+      a svolgere a supporto dell’Organo con Funzione di Supervisione Strategica
+      (OFSS);
+   • l’IA - quale funzione aziendale di controllo di terzo livello - deve esercitare per
+      fornire assurance all’OFSS per garantire l’efficacia e l’efficienza dei processi di
+      definizione degli indirizzi strategici e delle politiche di governo e gestione dei
+      rischi, ivi compreso ovviamente il rischio di credito, qui oggetto di specifica
+      trattazione.
+   3.1       Ruolo della Risk Management Function - (RMF)
+   Dalla lettura delle nuove disposizioni di vigilanza di cui alla Circ. 285/2013 di
+   Banca d’Italia, non vi è dubbio alcuno in ordine all’intendimento dell’Autorità
+   di Vigilanza di legittimare il consolidamento – e in taluni casi di promuoverne il
+   rafforzamento e l’autorevolezza – della RMF nell’ambito dell’intero ciclo di vita
+   dell’intermediario bancario rispetto all’assunzione e gestione dei rischi, di cui -
+   almeno per quanto concerne le banche commerciali - quello di credito permane
+   il più caratteristico.
+   Per assicurare l’indipendenza e l’autorevolezza delle Funzioni Aziendali di
+   Controllo - ivi compresa quindi la RMF - sono state infatti previste rigorose
+   procedure di nomina e di revoca dei responsabili, che coinvolgono gli organi
+   aziendali; viene richiesta una robusta adeguatezza quali - quantitativa del
+   personale addetto; vengono richiesti presidi organizzativi e politiche di
+   remunerazione e incentivazione idonee a garantirne l’indipendenza dalle aree di
+   business; sono delineate modalità di riporto, gerarchico e funzionale, verso gli
+   organi aziendali.
+   Il ruolo del Responsabile della RMF (Chief Risk Officer - CRO) è stato
+   significativamente ampliato. Al CRO sono, infatti, affidati compiti di ausilio
+   all’Organo con Funzione di Supervisione Strategica nella definizione del Risk
+   Appetite Framework (di seguito per brevità RAF), di monitoraggio nel continuo
+   dell’andamento della rischiosità aziendale e il potere di vagliare preventivamente
+   le operazioni di maggior rilievo con possibilità di attivare procedure di escalation
+   verso l’esecutivo aziendale.
+   Il ruolo del CRO è quindi giunto – almeno da un punto di vista regolamentare
+   – ad un modello “all-round” a cui si perviene oggi attraverso una fisiologica
+   evoluzione nel tempo, caratterizzata da una transizione da attività tipiche di “risk
+   measurement e control” a un ruolo maggiormente strategico.
+   Alla RMF è stato anche affidato un importante ruolo di verifica sul monitoraggio
+   delle esposizioni creditizie, sui criteri di classificazione, sulla congruità degli
+   accantonamenti e sul processo di recupero.
+14
+
+Giova a tal proposito richiamare la nota di chiarimenti interpretativi rilasciata nel
+gennaio 2014 dalla Banca d’Italia che nel merito e in risposta ad una specifica
+richiesta di parere si è così espressa: “La verifica del corretto svolgimento del
+monitoraggio andamentale sulle singole esposizioni, in particolare di quelle
+deteriorate, e la valutazione della coerenza delle classificazioni, della congruità
+degli accantonamenti e dell’adeguatezza del processo di recupero sono svolte
+dal risk management o, per le banche di maggiore dimensione e complessità
+operativa, da una specifica unità, che riporta al responsabile della funzione di
+controllo dei rischi. Ove esistessero strutture che già effettuano tali attività, ai
+fini del rispetto della nuova normativa queste devono essere collocate a riporto
+gerarchico del responsabile del risk management.”
+Si ritiene dunque qui di poter sostanzialmente condividere la posizione espressa
+da AIFIRM in merito al ruolo ed alle responsabilità che la RMF dovrà esercitare
+sin dalla fase di definizione delle strategie d’impresa, con specifico riferimento
+all’identificazione, assunzione, misurazione, gestione e monitoraggio dei rischi
+insiti nell’impresa bancaria nell’ambito del RAF, ossia di un disegno organico che
+renda chiaro non solo il risk appetite dell’azienda, ma anche la sua risk tolerance
+e i risk limit.
+Per quanto l’Autorità di Vigilanza chiede espressamente alla RMF, è chiaro il
+suo coinvolgimento sia nella definizione del RAF che nella sua manutenzione, il
+supporto alla determinazione delle politiche di governo dei rischi e delle varie
+fasi che costituiscono il processo di gestione dei rischi, nonché nella fissazione
+dei limiti operativi all’assunzione delle varie tipologie di rischio, quindi anche di
+credito.
+Atteso ciò, si conviene che, con particolare riferimento al rischio di credito qui
+oggetto di specifica trattazione, la RMF deve poter avere un ruolo attivo che
+consenta di perseguire le seguenti finalità qui di seguito rappresentate secondo
+uno schema di sintesi in relazione alle diverse fasi del ciclo di vita dell’impresa.
+          Definizione indirizzi strategici                 Attuazione, sviluppo e analisi                       Monitoraggio e verifiche
+ • proporre parametri quali-quantitativi          • sviluppare e convalidare sistemi di              • verificare nel continuo l’adeguatezza del
+    in ambito creditizio necessari per la           misurazione e controllo dei rischi di credito      RAF e del processo di gestione dei rischi;
+    definizione del RAF;                            e di controparte;
+                                                                                                     • monitorare i livelli di rischio effettivo;
+ • contribuire alla formulazione di robuste       • definire metriche di valutazione del rischio
+    Politiche e Strategie Creditizie, in coerenza   di credito e di controparte;                     • verificare il corretto svolgimento del
+    con il RAF;                                                                                        monitoraggio andamentale e valutare
+                                                  • sviluppare e applicare indicatori in grado         la coerenza delle classificazioni, della
+ • proporre, in caso di modifiche del contesto      di evidenziare situazioni di anomalia e di         congruità degli accantonamenti e
+    operativo interno ed esterno della banca,       inefficienza dei sistemi di misurazione e          dell’adeguatezza del processo di recupero.
+    l’adeguamento di tali parametri, al fine di     controllo dei rischi;
+    assolvere anche alla richiesta verifica di                                                       • attivare, in funzione di quanto
+    adeguatezza del RAF;                          • analizzare i rischi dei nuovi prodotti creditizi   effettivamente rilevato, le azioni di
+                                                    e di quelli derivanti dall’ingresso in nuovi       affinamento/evoluzione delle modalità di
+ • definire e proporre limiti operativi e quindi    segmenti di mercato;                               definizione, analisi, gestione e monitoraggio
+    facoltà e regole di concessione e gestione                                                         dei rischi di credito.
+    del rischio di credito.                       • fornire pareri preventivi sulla coerenza con
+                                                    il RAF delle operazioni di maggiore rilievo,
+                                                    attivando procedure di escalation in caso di
+                                                    parere negativo;
+                                                  • contribuire ex-ante alla definizione di policy
+                                                    e regolamentazioni interne in materia di
+                                                    assunzione e gestione del rischio di credito.
+                                                                                                                                                  15
+
+                                       3.2       Ruolo della Funzione Internal Audit - (IA)
+                                       Parallelamente all’evoluzione richiesta alla RMF, crescono anche le aspettative
+                                       dell’Autorità di Vigilanza nei confronti della Funzione di IA, chiamata ad
+                                       esprimersi sostanzialmente lungo tre direttrici:
+                                       • Organizzativa: nella valutazione di efficacia della RMF, tradizionalmente
+                                         intesa unicamente come unità organizzativa dedicata all’esercizio di controlli
+                                         di secondo livello. Sarà, dunque, da assoggettare a specifica attività di audit4,
+                                         in una concezione più allargata di risk management, inteso come processo
+                                         aziendale end-to-end che coinvolga, in una logica sia top-down sia bottom-
+                                         up, tutta la struttura organizzativa dell’impresa, a partire, quindi, dalle unità
+                                         commerciali, per passare alla funzione di controllo di secondo livello, senza
+                                         escludere manager e organi di vertice.
+                                       • Funzionale: si renderà necessario sviluppare la capacità di valutare l’effettiva
+                                         e attiva partecipazione della RMF ai processi strategici dell’impresa, alla
+                                         definizione della propensione al rischio ed al suo livello di accettazione,
+                                         alla strutturazione di un adeguato sistema di deleghe, al rilascio di pareri
+                                         preventivi sulla coerenza con il RAF delle c.d. “operazioni di maggior rilievo”,
+                                         la cui identificazione dovrà essere ricercata all’interno di ogni singolo
+                                         intermediario/gruppo bancario in ragione del principio di proporzionalità,
+                                         anche con il contributo della RMF.
+                                       • Contenutistica: ad un approccio per silos, centrato sui singoli profili
+                                         di rischiosità, si dovrà far spazio ad una visione olistica dell’esposizione
+                                         complessiva dell’intermediario che, in una logica integrata, sappia cogliere le
+                                         interrelazioni tra il rischio di credito e gli altri rischi, senza peraltro trascurare
+                                         l’evoluzione del contesto esterno.
+                                       Senza alcuna pretesa di esaustività e ben al di là di aspetti specifici che possono
+                                       riguardare i singoli intermediari, si identificano qui di seguito gli obiettivi
+                                       minimi e i correlati punti di controllo che si ritiene necessario che la Funzione
+                                       di IA consideri nei suoi Audit Program, al fine di fornire la richiesta assurance in
+                                       ordine all’efficacia ed efficienza della RMF.
+                                       3.2.1 Obiettivi minimi di controllo
+                                       • Collocazione e assetto organizzativo;
+                                       • Disponibilità di adeguate risorse (umane, tecnologiche e informative);
+                                       • Effettività del supporto nella definizione delle strategie e politiche creditizie
+                                         e nella strutturazione delle deleghe;
+                                       • Reporting line;
+                                       • Verifica dell’efficacia dei controlli di 2° livello.
+4 Circ. 285/2013 - TITOLO IV - Capitolo 3 – 3.4 Funzione di revisione interna (internal audit)
+  “coerentemente con il piano di audit, la funzione di revisione interna:valuta la completezza, l’adeguatezza, la funzionalità, l’affidabilità delle
+  altre componenti del sistema dei controlli interni, del processo di gestione dei rischi e degli altri processi aziendali, avendo riguardo anche
+  alla capacità di individuare errori ed irregolarità. In tale contesto, sottopone, tra l’altro, a verifica le funzioni aziendali di controllo dei
+  rischi e di conformità alle norme.
+16
+
+3.2.2	  Punti di controllo correlati
+3.2.2.1	  Requisiti del Responsabile della RMF
+Verificare:
+• Che siano chiaramente definiti i criteri in merito alla selezione, nomina
+  e revoca del Chief Risk Officer (CRO) e che questi siano effettivamente
+  applicati;
+• Che il CRO sia in possesso dei requisiti di indipendenza, professionalità,
+  autorevolezza;
+• Che al CRO sia garantito il diretto accesso all’OFSS e al Risk Committee,
+  senza filtri o impedimenti e che vi sia tracciabilità documentale in ordine ad
+  una regolare periodicità degli incontri tra il CRO e il Risk Committee nonché
+  delle partecipazioni del CRO alle sedute consiliari dell’OFSS;
+• Che la politica di remunerazione e incentivazione del CRO sia stata
+  opportunamente definita nei suoi criteri ed effettivamente applicata e che
+  risulti adeguata a non comprometterne l’indipendenza, l’autorevolezza e
+  l’obiettività.
+3.2.2.2	  Requisiti organizzativi della RMF
+Verificare:
+• Che la collocazione organizzativa e il posizionamento gerarchico del
+  Responsabile della RMF garantiscano l’esercizio dell’effettiva e sostanziale
+  attività di supporto all’OFSS nella definizione degli indirizzi strategici e delle
+  politiche di governo e gestione dei rischi, con più specifico riferimento alle
+  strategie creditizie;
+• Che - specie nelle banche più complesse - la costituzione di specifici
+  comitati di gestione dei diversi profili di rischio (e.g. comitati per i rischi di
+  credito e operativi, comitato di liquidità, comitato finanza, comitato per
+  l’asset and liability management), non rappresenti una possibile fonte di
+  depotenziamento della RMF; al riguardo sarà necessario accertarsi che
+  le diverse responsabilità e le modalità di intervento e di partecipazione ai
+  Comitati da parte del CRO o soggetto delegato siano chiaramente definite,
+  in modo da garantirne la completa indipendenza dal processo di assunzione
+  dei rischi;
+• Che alla RMF sia assicurata la disponibilità e l’agevole reperimento di ogni
+  informazione rilevante e l’accesso ai dati per esercitare al meglio le proprie
+  responsabilità;
+• Che la RMF disponga di tool informatici a supporto delle attività, adeguati
+  alle esigenze in termini di performance;
+• Che il sistema delle deleghe creditizie sia operativamente assistito da
+  dedicati ed efficaci sistemi informatici che consentano alla RMF di esercitare
+  un puntuale controllo sul loro rispetto;
+                                                                                     17
+
+   • Che alla RMF sia assegnato un budget di spesa coerente con le proprie
+     esigenze di funzionamento e che tale budget sia nell’effettiva disponibilità
+     del suo Responsabile.
+   3.2.2.3 Requisiti delle Risorse (umane e tecnologiche) della RMF
+   Verificare:
+   • Che la composizione quali/quantitativa delle risorse assicuri un mix di
+     competenze non solo statistiche/quantitative ma anche di conoscenza del
+     business, mercato e prodotti;
+   • Che le risorse addette siano inserite in programmi di aggiornamento
+     continuo e di job rotation tra funzioni aziendali di controllo;
+   • Che anche il sistema premiante delle risorse addette alla RMF e della
+     filiera creditizia non sia sbilanciata verso riconoscimenti dipendenti dal
+     raggiungimento di obiettivi commerciali.
+18
+
+4. SVILUPPO DEI MODELLI DI RATING
+In questo capitolo vengono sviluppate le tematiche attinenti al presidio dei
+modelli avanzati di rating utilizzati sia ai fini regolamentari che gestionali. Si
+precisa infatti che le pagine seguenti devono essere considerate una best-
+practice da applicarsi regolarmente in entrambi i casi, in quanto le logiche di
+sviluppo dei modelli ad uso gestionale sono le medesime di quelle dei modelli
+ad uso regolamentare.
+È opportuno sottolineare che la nuova disciplina di Vigilanza (ci si riferisce
+in particolare alla Circolare 285/2013) non introduce novità sostanziali
+sull’autorizzazione del metodo IRB e i nuovi requisiti del sistema IRB (Modelli,
+Processi, IT).
+4.1      Governance sui modelli avanzati del credito
+La normativa definisce ruoli e responsabilità degli organi di supervisione
+strategica, di gestione e controllo (nel modello ordinario/tradizionale,
+rispettivamente CdA, Dg/Ad, Collegio Sindacale). L’Organo con Funzione
+di Controllo, avvalendosi dell’apporto delle funzioni aziendali di controllo
+(in particolare Convalida e IA) valuta, nell’ambito della più generale attività
+di verifica del processo di gestione e controllo del rischio, la funzionalità e
+l’adeguatezza del sistema di rating interno, nonché la rispondenza ai requisiti
+previsti dalla normativa.
+Come indicato nella Circ. 285/2013, l’Organo con Funzioni di Controllo vigila
+sull’adeguatezza e sulla rispondenza del sistema di gestione e controllo dei
+rischi, nonché sul processo ICAAP, ai requisiti stabiliti dalla normativa. Al fine di
+svolgere in maniera ottimale tale compito, l’Organo deve disporre di adeguati
+flussi informativi da parte degli altri organi aziendali e delle altre funzioni di
+controllo interno.
+Nelle Banche che adottano sistemi interni di misurazione dei rischi per la
+determinazione dei requisiti patrimoniali, l’organo di controllo, avvalendosi
+dell’apporto delle funzioni di controllo interno, valuta la funzionalità e
+l’adeguatezza del sistema stesso, nonché la rispondenza ai requisiti previsti dalla
+normativa.
+La Banca d’Italia autorizza l’utilizzo di sistemi interni predisposti dalle banche
+per il calcolo dei requisiti patrimoniali sul rischio di credito, subordinatamente
+al rispetto dei requisiti organizzativi e quantitativi previsti. Il provvedimento di
+autorizzazione ha valenza esclusivamente prudenziale.
+Anche per il Sistema di Rating sono identificati i 3 livelli di controllo per quanto
+concerne l’organizzazione dell’assetto generale del Sistema dei Controlli Interni.
+4.2      Ruolo di RMF, Funzione di Convalida
+La Normativa di Vigilanza della Banca d’Italia precisa una netta distinzione di
+ruoli fra IA e Convalida, in quanto espressione di due diversi livelli di controllo,
+con la responsabilità del 3° livello (Revisione Interna) di sottoporre a verifica il 2°
+livello (Convalida). Tuttavia, a fronte del già citato principio di proporzionalità,
+                                                                                        19
+
+   non si può escludere a priori una certa complementarietà nell’operato delle due
+   funzioni di controllo, soprattutto in determinate aree come quella dei Sistemi
+   informativi.
+   Per la Convalida la verifica dell’area dei Sistemi Informativi costituisce spesso
+   una criticità, stante la sua elevata specificità e il rilevante impegno di risorse
+   che richiederebbe una verifica approfondita di tutti gli aspetti trasversali (data
+   quality, sicurezza fisica e logica, governance dei sistemi, ecc). Proprio per
+   queste motivazioni, la IA deve procedere ad una verifica più accurata, in quanto
+   spesso la Convalida si limita ad effettuare verifiche indirette e comunque molto
+   circoscritte di queste aree.
+   Dal momento che la Convalida non può esimersi dall’individuare le componenti
+   dell’area dei Sistemi suscettibili di avere maggior impatto sul sistema IRB,
+   occorre riuscire a creare temporaneamente, per ambiti di forte contenuto
+   specialistico, di materialità dei dati, di proporzionalità, ecc. una sinergia (o per
+   meglio dire una “cooperazione a due vie”) fra Convalida e IA, nello specifico:
+   • La Funzione di Convalida segnala le aree di scopertura alla IA, che ne
+     valuta l’inserimento nel proprio Piano annuale e comunica alla Funzione di
+     Convalida gli esisti delle attività svolte, ai fini della Relazione annuale redatta
+     da tale funzione;
+   • IA segnala alla Funzione di Convalida, nell’ambito della propria attività
+     ordinaria di audit, eventuali punti di attenzione suscettibili di impattare il
+     sistema IRB in modo che ne tenga conto nell’ambito della pianificazione delle
+     proprie attività.
+   Tale “cooperazione a due vie” rappresenta un esempio di sana collaborazione
+   tra funzioni aziendali di controllo, che spesso è stata sollecitata proprio dalle
+   Autorità di Vigilanza.
+   Gli aggiornamenti alla Circ. 285/2013, rappresentano anche un’importante
+   occasione di rafforzamento del presidio dei rischi, stimolando le banche in una
+   doppia ottica:
+   • per quelle realtà ove la RMF è più matura si tratta di evolvere ulteriormente,
+     raccogliendo i benefici di una visione gestionale dei rischi attraverso un
+     percorso di rafforzamento già avviato;
+   • per quelle situazioni più in divenire, è l’occasione per introdurre meccanismi
+     e politiche di trattamento dei rischi più di natura gestionale aumentando il
+     livello di interazione tra le funzioni di controllo.
+   4.3      Ruolo di IA
+   IA valuta la funzionalità del complessivo assetto dei controlli sul sistema di
+   rating, con particolare attenzione al funzionamento del processo di Convalida e
+   alla verifica della perdurante conformità del sistema IRB ai requisiti normativi. In
+   particolare, a fronte di un’istanza per la richiesta di autorizzazione all’utilizzo dei
+   sistemi regolamentari, provvede a:
+   • redigere una relazione sugli accertamenti condotti in merito ai sistemi IRB,
+20
+
+  al loro utilizzo gestionale e al processo di convalida interna, attestandone il
+  posizionamento rispetto a ciascuno dei requisiti organizzativi e quantitativi;
+• predisporre, con cadenza almeno annuale, un parere circa il rispetto dei
+  requisiti previsti per l’utilizzo dei sistemi avanzati del credito.
+Nello specifico, i controlli di 3° livello sulle istanze di presentazione dei modelli
+vertono sulle attività svolte dal Risk Management (sviluppo del modello) e dalla
+Convalida (validazione del modello).
+Le verifiche sono effettuate per valutare il “rischio modello”, cioè la possibilità
+che vi siano errori sulle scelte metodologiche effettuate dal Risk Management
+tali da inficiare la capacità predittiva/discriminante dei modelli.
+I modelli costituiscono il cuore di un sistema IRB, in quanto è solo grazie al loro
+corretto sviluppo che possono essere stimati i diversi parametri previsti dalla
+normativa:
+• PD (Probability of Default);
+• LGD (Loss Given Default);
+• EAD (Exposure at Default).
+Per quanto concerne il calcolo degli RWA (Risk Weighted Assets) su cui viene
+calcolato il capitale regolamentare, IA effettua approfonditi controlli atti a
+verificarne la corretta determinazione (attuati tramite apposite funzioni di
+ponderazione, che combinano tali parametri di rischio secondo le regole
+predefinite dal regulator).
+Tutti i sistemi di rating devono rispettare i seguenti requisiti:
+• Documentabilità;
+• Completezza;
+• Replicabilità;
+• Integrità;
+• Omogeneità;
+• Univocità;
+• Aggiornamento.
+IA provvede ad effettuare una serie di “test” atti a valutare la tenuta del modello
+e le scelte metodologiche effettuate.
+4.3.1 Verifiche sulla funzione di Convalida
+IA deve effettuare delle opportune verifiche sui risultati dell’attività della
+funzione di Convalida (su model design, back-testing, etc.) i quali devono essere
+adeguatamente documentati con un’evidenza specifica su eventuali aspetti di
+criticità.
+                                                                                      21
+
+   Per quanto riguarda l’attività di Convalida, vengono svolte delle analisi
+   principalmente atte ad evitare le seguenti tipologie di rischio:
+   • Inadeguatezza del processo di Convalida in merito alle disposizioni di
+      carattere generale del sistema IRB;
+   • Inadeguatezza del processo di Convalida in merito a tecniche, criteri e dati
+      per la quantificazione dei parametri di rischio e indicatori di performance;
+   • Inadeguatezza del processo di Convalida in merito alla struttura del sistema
+      IRB.
+   4.3.2 Verifiche sulla funzione di Risk Management
+   IA svolge un’attività di verifica specifica sulla funzione di Risk Management
+   per ciò che concerne il model design intesa come elaborazione e messa in
+   opera del sistema IRB, in ossequio alle prescrizioni normative e coerentemente
+   all’operatività aziendale e al contesto economico di riferimento. Sulla base dei
+   criteri scelti nel planning della funzione di IA, vengono formalizzate verifiche
+   focalizzate sull’elaborazione, sullo sviluppo e sulla ristima dei modelli, prestando
+   particolare attenzione alla data quality.
+   4.3.3 Use Test
+   Il requisito d’uso (c.d. use test) del sistema di rating ai fini gestionali costituisce
+   una “conditio sine qua non” per l’autorizzazione da parte dell’Autorità
+   di Vigilanza all’utilizzo del sistema di rating per il calcolo del capitale
+   regolamentare. Tale requisito può tuttavia essere soddisfatto con una certa
+   gradualità:
+   • nella fase antecedente alla richiesta formale di autorizzazione (c.d. pre-
+      validazione), è sufficiente dimostrare l’utilizzo per tre anni del sistema IRB nei
+      soli processi di concessione e rinnovo dei crediti, nonché per le attività di
+      misurazione dei rischi (c.d. experience requirement);
+   • nella fase di richiesta formale di autorizzazione deve invece essere
+      soddisfatto integralmente lo use test, che richiede l’utilizzo dei sistemi di
+      rating anche nei processi direzionali di allocazione interna del capitale e di
+      governo della banca (ad esempio le politiche creditizie, pricing risk-adjusted).
+   Compito di IA è quello di verificare nel continuo, nel novero delle attività
+   pianificate annualmente, l’effettivo utilizzo del rating nel più ampio processo di
+   gestione del credito, individuando la fase di origination (istruttoria-concessione)
+   quale kick-off del processo e arrivando sino all’attività di monitoraggio del
+   credito in bonis e del credito deteriorato.
+22
+
+5. ASSUNZIONE DEL RISCHIO DI
+CREDITO
+Il 15° aggiornamento della Circolare 263/2006, integrato nell’11° aggiornamento
+della Circolare 285/2013, introduce nuovi presidi, tendenti a rafforzare i controlli
+ex ante della RMF a supporto della fase di assunzione dei rischi per operazioni
+di maggior rilievo. Al riguardo giova ricordare che nelle disposizioni contenute
+nell’Allegato A (Disposizioni speciali relative a particolari categorie di rischio) al
+Titolo IV – Capitolo 3 della Circ. 285/2013 si trovano gli elementi caratterizzanti
+l’impianto di controllo interno, tra cui:
+• il regolamento interno, che deve assicurare la coerenza della diversificazione
+   dei vari portafogli esposti al rischio di credito con gli obiettivi di mercato e la
+   strategia complessiva della banca;
+• la documentazione inerente alla fase istruttoria, necessaria per effettuare
+   un’adeguata valutazione del merito di credito del prenditore, sotto il
+   profilo patrimoniale e reddituale e una corretta remunerazione del rischio
+   assunto, nonché valutare la coerenza tra importo, forma tecnica e progetto
+   finanziato; essa deve inoltre permettere l’individuazione delle caratteristiche
+   e della qualità del prenditore, anche alla luce del complesso delle relazioni
+   intrattenute;
+• le procedure di utilizzo delle informazioni, che devono fornire indicazioni
+   circostanziate sul livello di affidabilità del cliente (e.g. attraverso sistemi di
+   credit scoring e/o di rating);
+• le deleghe in materia di erogazione del credito, che devono essere
+   commisurate alle caratteristiche dimensionali della banca, opportunamente
+   formalizzate e periodicamente verificate nel loro esercizio.
+La fase di assunzione del rischio di credito trova inoltre riferimento in disposizioni
+normative che attengono a:
+• Concentrazione dei rischi;
+• Centrale dei rischi;
+• Rating, eleggibilità garanzie;
+• Rischio paese;
+• Parti correlate e art. 136 del TUB.
+Da annotare la collaterale presenza di altri rischi che in questo lavoro non
+vengono trattati ma che sono strettamente connessi alla fase di assunzione
+del rischio di credito e sui quali deve insistere un robusto sistema di controllo
+interno:
+• Governance Amministrativo-finanziaria (Legge 262/2007);
+• Responsabilità amministrativa enti (Legge 231/2001 e correlato Modello di
+   Organizzazione, Gestione e Controllo);
+                                                                                       23
+
+   • Antiriciclaggio (Legge 231/2007) ed embarghi;
+   • Usura, trasparenza;
+   • Conflitti d’interesse.
+   Un aspetto di particolare rilievo assume, nei gruppi che utilizzano modelli interni
+   di calcolo del merito creditizio ai fini regolamentari o anche solo gestionali, il
+   controllo sul processo di calcolo della probability of default (PD) della clientela.
+   Compito del sistema di controllo interno è, in tale ambito, assicurare che la
+   misura della PD sia non solo correttamente calcolata ma anche effettivamente
+   utilizzata nella fase di concessione (oltreché più in generale nella gestione del
+   credito erogato).
+   L’assunzione del rischio creditizio coincide con la fase di concessione del credito
+   e comprende una serie di attività che vanno dalla iniziale valutazione del cliente
+   e dell’operazione, sino alla messa a disposizione del finanziamento alla clientela
+   nelle sue varie forme (cassa, firma, sostituzione) e nelle fasi operative di:
+   • Origination e proposta;
+   • Istruttoria e delibera;
+   • Perfezionamento ed erogazione.
+   L’assunzione del rischio creditizio deve essere preliminarmente supportata da un
+   impianto regolamentare adeguato (in cui sono compresi indirizzi strategici, linee
+   guida, poteri e deleghe, regole, procedure operative) così come richiamato dalle
+   disposizioni di Vigilanza.
+   Il sistema di controllo sul processo di concessione è chiamato ad essere efficace
+   e robusto già nelle fasi istruttorie precedenti la delibera e comunque capace di
+   intercettare tempestivamente le eventuali carenze intervenute nella concessione
+   di un credito. In particolare deve avere l’obiettivo di assicurare l’assunzione di
+   rischi coerenti con il RAF nel rispetto delle deleghe in materia di erogazione del
+   credito e nel contempo accertare la:
+   • completezza della documentazione necessaria per la valutazione del merito
+      di credito del prenditore;
+   • corretta remunerazione del rischio assunto;
+   • coerenza complessiva delle operazioni;
+   • qualità e l’efficacia dei filtri istruttori;
+   • affidabilità e l’integrità dei sistemi.
+   Parte rilevante assumono altresì le fasi di acquisizione delle garanzie (congruità/
+   coerenza, tipologia, valore) e di perfezionamento e formalizzazione contrattuale
+   dei finanziamenti, anche per i conseguenti riflessi in tema di percorribilità ed
+   efficacia delle azioni di recupero in caso di default.
+   Relativamente alle banche che utilizzano sistemi interni di calcolo dei requisiti
+24
+
+patrimoniali, la fase di concessione è strettamente connessa al processo di
+attribuzione del rating, che ne costituisce elemento fondante nella valutazione
+del merito creditizio e nell’ambito dell’effettivo utilizzo della misura sintetica di
+rischio (c.d. use test,vds paragrafo 4.3.3).
+5.1      Ruolo di RMF
+Attesi anche i principi generali indicati dalle Nuove Disposizioni Prudenziali di
+Vigilanza sulle caratteristiche dei controlli di secondo livello, tornano applicabili
+alla RMF le disposizioni del Titolo IV – Cap. 3 – Par. 3.3 della Circ. 285/2013, che
+riguardano:
+• la fissazione dei limiti operativi all’assunzione delle varie tipologie di rischio;
+• la verifica nel continuo dell’adeguatezza del processo di gestione dei rischi e
+   dei limiti operativi;
+• la valutazione della coerenza dei sistemi di misurazione e controllo dei rischi;
+• l’emanazione di parere preventivo sulla coerenza con il RAF delle operazioni
+   di assunzione dei rischi creditizi di maggior rilievo;
+• il monitoraggio del rispetto dei limiti assegnati alle strutture operative.
+Inoltre, anche per la fase di concessione, la RMF dovrebbe sviluppare e
+applicare indicatori di anomalia dei sistemi di misurazione, così come su tutto
+il processo creditizio e controllo dei rischi oltreché verificare l’adeguatezza e
+l’efficacia delle misure prese per rimediare alle carenze riscontrate nel processo
+di gestione del rischio.
+Per la fase di assunzione dei rischi di credito, le disposizioni di vigilanza
+richiedono quindi un’azione di presidio sia preventiva, sia in ottica di controllo
+successivo. Si ritiene pertanto che i controlli di secondo livello debbano
+presidiare la corretta applicazione del quadro di riferimento da parte delle
+funzioni di primo livello in generale e, in modo particolare, l’effettiva e corretta
+applicazione dei controlli da parte della filiera che presiede all’istruttoria
+creditizia, verificando in tal modo la qualità del credito erogato.
+La RMF dovrà adottare le modalità e gli strumenti di verifica più opportuni,
+ivi inclusi controlli finalizzati a verificare singole posizioni di rischio, con un
+approccio risk based che consenta di garantire la tempestiva evidenza di singole
+situazioni/operazioni e fenomeni a particolare coefficiente di criticità.
+Anche le fasi di attribuzione dei rating (per le banche che utilizzano sistemi
+interni) e il loro utilizzo effettivo nel processo di concessione e gestione del
+credito devono essere sottoposte a controlli di secondo livello nel rispetto delle
+previsioni regolamentari. È pertanto necessario che la RMF individui e metta in
+atto un processo di controllo sul calcolo delle PD utilizzate in sede di istruttoria e
+delibera creditizia e sul suo effettivo e coerente utilizzo nella fase decisionale.
+5.2      Ruolo di IA
+L’attività richiesta all’IA dalla Circ. 285/2013 nella fase di concessione appare
+                                                                                       25
+
+   inquadrabile sia nella più generale previsione di controllare, anche attraverso
+   visite in loco e di natura ispettiva, il regolare andamento dell’attività e
+   l’adeguatezza dei presidi organizzativi e delle diverse componenti del sistema
+   di controllo interno, ivi compresi gli strumenti di misurazione e controllo dei
+   rischi, sia in specifiche previsioni atte a verificare il rispetto dei limiti previsti dai
+   meccanismi di delega, il pieno e corretto utilizzo delle informazioni disponibili
+   nelle diverse attività, l’efficacia della RMF di fornire pareri preventivi sulla
+   coerenza con il RAF delle operazioni di maggior rilievo.
+   Una particolare attenzione, sia dei controlli di secondo livello che da parte
+   dell’IA deve essere dedicata alle concessioni assunte nei confronti di clienti in
+   difficoltà e/o deteriorati.
+   In altri termini l’IA deve accertare – nell’ambito delle prerogative del ruolo – la
+   regolarità delle diverse attività che compongono il processo di assunzione del
+   rischio di credito (origination, istruttoria, proposta, delibera, raccolta garanzie,
+   perfezionamento contrattuale, erogazione/attivazione) e valutare il complesso
+   dei presidi organizzativi, applicativi, di reporting e controllo, con riferimento sia
+   al primo che al secondo livello.
+   Pur considerato che le nuove disposizioni di Vigilanza prevedono a carico della
+   RMF nuovi ambiti di responsabilità, l’attività di IA non ne risulta compressa o
+   ridotta ma, anzi, essa dovrà giocoforza riferirsi nelle proprie verifiche con ancora
+   maggior attenzione all’attività della funzione di secondo livello che, come visto,
+   nella fase di concessione del credito è ora chiamata a interventi di controllo più
+   estesi e approfonditi.
+   Per poter assicurare compiutamente – nella fase di concessione del credito
+   – le prerogative del ruolo richieste dalle disposizioni di Vigilanza, è pertanto
+   necessario che l’IA si doti di strumenti e metodologie in grado di osservare e
+   valutare l’efficacia dei controlli di primo e di secondo livello, in modo da poter
+   intercettare posizioni o fenomeni di anomalia la cui presenza potrebbe far
+   presumere il malfunzionamento del sistema. Per fare questo è necessario che
+   l’attività dell’IA sia supportata da flussi informativi tempestivi sugli output del
+   processo di concessione e dei controlli di secondo livello, in particolare qualora
+   da questi ultimi emergano situazioni di particolare criticità e gravità.
+   L’attività dell’IA si ritiene possa essere ricondotta ai seguenti driver di controllo:
+   • Affidabilità dell’impianto regolamentare e dei sistemi informatici a supporto
+      della fase di concessione;
+   • Impianto (metodologie, strumenti) a supporto dell’attività di controllo di
+      secondo livello e dell’efficacia dell’attività della RMF;
+   • Fenomeni e singoli casi con caratteristiche di eccezione la cui presenza
+      potrebbe far potenzialmente presumere un malfunzionamento del sistema di
+      controllo sia di primo che di secondo livello;
+   • Esistenza di comportamenti anomali rispetto al quadro regolamentare;
+   • Efficienza ed efficacia dell’iter di concessione creditizia (filtri e pareri istruttori,
+26
+
+   pareri di procedibilità e conformità).
+La valutazione da parte dell’IA dell’impianto che supporta il sistema di controllo
+di secondo livello sulla fase di concessione del credito e della sua messa in atto,
+deve accertarne la capacità di verificare nel continuo l’adeguatezza del processo
+di gestione dei rischi e dei limiti operativi richiesta dalla normativa di Vigilanza,
+anche per la fase di assunzione del rischio creditizio.
+In particolare la RMF dovrà produrre documentazione e flussi informativi atti
+a poter valutare da parte dell’IA l’affidabilità e robustezza delle metodologie
+e degli strumenti utilizzati, nonché dell’attività di controllo effettuata e degli
+interventi individuati e attuati per rimediare alle carenze riscontrate.
+Attraverso l’analisi di fenomeni andamentali di potenziale criticità riguardanti
+il credito erogato, l’IA può verificare indirettamente l’adeguatezza del sistema
+di controllo, approfondendo e valutando (nel continuo o periodicamente) se le
+eccezioni rilevate possono ricondurre a malfunzionamenti del sistema stesso, e
+formulare conseguenti proposte / raccomandazioni di miglioramento.
+Si possono individuare i seguenti ambiti di dettaglio significativi che IA deve
+considerare nell’esecuzione delle verifiche sulla fase di concessione, quale livello
+minimo di verifica:
+• il corredo documentale a supporto della fase di valutazione istruttoria
+   (completezza e affidabilità);
+• l’attendibilità dei dati attinenti alla posizione di rischio;
+• la corretta composizione dei gruppi;
+• la correttezza della formalizzazione contrattuale;
+• la coerenza importo/tipologia di finanziamento e progetto/esigenze
+   finanziate (forme tecniche, modalità di rimborso, scadenza,….);
+• l’adeguatezza delle garanzie, la loro corretta acquisizione e evidenza nei
+   sistemi;
+• la corretta attribuzione del rating (qualità e tracciabilità dei dati quantitativi e
+   qualitativi);
+• la coerenza dell’affidamento con le politiche creditizie;
+• il rispetto dei limiti di concentrazione / operazioni rilevanti;
+• il rispetto delle deleghe e delle facoltà gestionali da parte dei diversi
+   soggetti autorizzati e affidabilità dei sistemi di calcolo delle facoltà;
+• gli adempimenti connessi alle diverse regolamentazioni di legge e di settore
+   (parti correlate, art. 136 del TUB,...);
+• la coerenza dell’erogazione con le previsioni contenute nella delibera.
+Le verifiche svolte, usualmente su base campionaria o su specifiche situazioni
+                                                                                       27
+
+   anomale, saranno ovviamente orientate sia a valutare la correttezza dell’operato
+   delle strutture, sia la complessiva tenuta del sistema di controllo di secondo
+   livello.
+   Alla luce dei recenti esercizi effettuati dalla BCE nell’ambito dell’avvio del
+   Meccanismo di Vigilanza Unico sui principali gruppi bancari (Asset Quality
+   Review) si ritiene necessario che l’IA attui una particolare vigilanza sul
+   livello di presidio garantito dal sistema di controllo interno per la corretta
+   rappresentazione nel sistema informativo degli elementi quantitativi e qualitativi
+   relativi all’assunzione di un rischio creditizio.
+28
+
+6. GESTIONE E MONITORAGGIO DEL
+CREDITO
+Definite e sviluppate le regole che presidiano le attività di erogazione, il
+monitoraggio della relazione nel tempo costituisce l’ambito di intervento
+maggiormente variegato e complesso che coinvolge diverse funzioni aziendali
+(business, credito, organizzazione, operation) oltre alle funzioni di controllo di
+secondo e terzo livello e costituisce il terreno di maggior confronto.
+Il monitoraggio del credito si realizza attraverso tutte quelle attività dirette a
+rilevare gli eventi di rischio (opportunamente pre-classificati e codificati) che
+possono emergere a carico dei soggetti finanziati nel corso del tempo e assume
+rilevanza nell’orientare la gestione operativa delle relazioni fiduciarie al fine di
+prevenire/mitigare i rischi patrimoniali/economici connessi al deterioramento dei
+profili creditizi nelle diverse gradazioni fino al default.
+La gestione, il controllo andamentale e il monitoraggio delle esposizioni
+creditizie, da riferire a tutti gli aspetti, sia gestionali che di rischio, peraltro in
+continua trasformazione che possono manifestarsi nel corso dell’esistenza di
+un rapporto fiduciario, devono essere svolti con sistematicità, avvalendosi
+di procedure efficaci. Ai fini della gestione dei rischi è indispensabile, come
+già detto, la puntuale rilevazione delle posizioni che presentano segnali di
+anomalia tali da far prefigurare un rischio finanziario (ritardi nell’assolvimento
+degli obblighi assunti) o economico (perdite per il mancato rimborso delle
+obbligazioni assunte).
+L’attuale contesto di riferimento richiede dinamismo e prontezza di analisi dei
+rischi aziendali in corso; in tal senso, la gestione ed il monitoraggio del credito
+assumono rilevanza strategica in termini di controllo continuo della rischiosità
+assunta in coerenza con il merito creditizio espresso dai prenditori e con il RAF
+vigente.
+Le turbolenze in atto nel mercato, i mutamenti continui e veloci nei settori
+economici di riferimento, l’accresciuta variabilità dei rischi, rendono
+indispensabile l’adozione di politiche di gestione del portafoglio creditizio che
+privilegino un ruolo proattivo attraverso il costante e continuo confronto con gli
+imprenditori e le famiglie, l’analisi delle iniziative in atto e la valutazione attuale e
+prospettica dei profili economici, finanziari e patrimoniali.
+Il grado di successo e l’efficacia della gestione nella prevenzione del rischio di
+credito sarà direttamente proporzionata al grado di conoscenza dei prenditori,
+alla consapevolezza delle problematiche presenti e alla tempestività degli
+interventi di riequilibrio dell’assetto finanziario in coerenza con il business
+aziendale e dei redditi prodotti/attesi, anticipando l’emersione di elementi
+andamentali interni ed esterni negativi (ad esempio il mancato pagamento di
+rate di finanziamenti poliennali) che altrimenti sorgerebbero.
+D’altra parte laddove le mutate condizioni del prenditore siano valutate in
+modo negativo e non risolvibili, è di fondamentale importanza assumere piena
+consapevolezza dei rischi assunti, da valutare e classificare adeguatamente,  
+                                                                                          29
+
+   attivando prontamente le iniziative gestionali (compreso il recupero coattivo) al
+   fine di evitare l’incremento delle esposizioni in atto e tutelare i crediti vantati.
+   Nell’ambito del monitoraggio del credito, il controllo gestionale e la corretta
+   esecuzione dei controlli di primo livello assumono rilevanza cruciale ai fini di un
+   efficace Sistema dei Controlli Interni a presidio dell’attività di miglioramento
+   continuo della qualità del credito.
+   Le funzioni commerciali e creditizie devono presidiare nel continuo la qualità del
+   credito erogato e il processo di recupero dei crediti deteriorati opportunamente
+   e prontamente classificati nelle diverse categorie previste. Tali funzioni devono
+   assicurare la corretta e puntuale esecuzione dei controlli previsti coinvolgendo
+   le funzioni di controllo di II e III livello per gli eventuali miglioramenti ritenuti
+   indispensabili da conseguire nella rilevazione dei rischi e nella definizione delle
+   norme e delle procedure a supporto.
+   I controlli di primo livello devono, ad esempio, garantire:
+   • l’utilizzo coerente delle linee di credito concesse con le indicazioni e le
+      condizioni deliberate,
+   • il rispetto delle politiche creditizie, dei limiti e delle deleghe presenti in
+      materia di sconfinamenti,
+   • la verifica puntuale degli eventi andamentali interni ed esterni e la pronta
+      attivazione delle azioni gestionali conseguenti (ad esempio dare corso a una
+      revisione straordinaria delle posizioni interessate da eventi di rilievo),
+   • la tempestiva revisione del merito creditizio della clientela, con logiche “risk
+      based”, delle linee di credito soggette a revoca e dei rating  attribuiti,
+   • il permanere dei requisiti di eleggibilità e la congruità del valore delle
+      garanzie acquisite,
+   • l’equilibrio tra il pricing applicato e la rischiosità espressa,
+   • la puntuale, corretta e coerente classificazione amministrativa delle posizioni,
+   • la tempestiva attivazione delle azioni di recupero,
+   • l’applicazione di adeguate e coerenti  rettifiche di valore dei crediti.
+   L’attività di gestione e monitoraggio del credito anomalo ricomprende sia le
+   iniziative volte a gestire situazioni di transitoria difficoltà del cliente (past due
+   oltre 90 giorni, incagli), sia le attività gestionali svolte tramite azioni giudiziali
+   o stragiudiziali poste in essere per ridurre le perdite derivanti dal default della
+   controparte (sofferenze).
+   In particolare, la gestione del credito anomalo riveste significativa importanza
+   in ottica di massimizzare il valore e le tempistiche del recupero già prima della
+   fase patologica (e.g. classificazione a sofferenza). Una adeguata cultura aziendale
+   di gestione di tali crediti nella fase precedente al contenzioso consente
+   di anticipare le fasi di individuazione ed analisi delle posizioni vulnerabili
+30
+
+per velocizzare gli interventi correttivi attraverso una concreta e diretta
+responsabilizzazione delle funzioni aziendali di business interessate e una più
+fluida interazione dei gestori con le strutture di controllo crediti.
+Rilevano in argomento le politiche adottate in tema di budget relativamente al
+peso attribuito agli obiettivi di qualità del credito ed alla correlazione degli stessi
+con il sistema premiante interno.
+6.1      Ruolo di RMF
+La nuova disciplina prudenziale ha rafforzato i profili di responsabilità della
+funzione di Risk Management, il cui ruolo rappresenta il fulcro dei controlli di
+secondo livello in materia di rischio di credito.
+La RMF è chiamata ad assolvere un importante e più esteso ruolo nella
+gestione dei rischi di credito. In particolare alle tradizionali attività (sistema dei
+rating, politiche creditizie, deleghe ed autonomie, etc.) alla RMF è richiesto il
+monitoraggio nel continuo dell’effettivo presidio della rischiosità del portafoglio
+creditizio attraverso analisi del rischio da eseguirsi anche su singole posizioni e
+un confronto ricorrente con le funzioni di business, diretto peraltro ad accrescere
+la complessiva cultura dei controlli presente in azienda.
+Deve assicurare nel continuo l’adeguatezza di tutte le fasi del processo creditizio
+e la sostenibilità dei rischi assunti, adottando con dinamismo e prontezza le
+iniziative di orientamento e di mitigazione necessarie (ad esempio prevedendo
+limiti/blocchi per alcune tipologie di linee di credito, di settori economici, di
+zone geografiche oppure attraverso la riduzione e/o il blocco delle deleghe
+operative e dei livelli di autonomia esistenti).
+In primo luogo la RMF deve accertarsi in modo organico e continuativo
+della funzionalità, della coerenza e dell’efficacia dei controlli di primo livello
+distribuiti lungo tutto l’arco temporale di vita della relazione (assunzione del
+rischio, monitoraggio del rischio e dei correlati livelli di redditività, sviluppo
+della relazione, recupero dell’esposizione), instaurando una interazione critica e
+durevole con le unità di  business (cfr. anche capitolo reporting) anche al fine di
+garantire la puntuale manutenzione/revisione di tali verifiche coerentemente con
+l’evoluzione dei rischi assunti.
+Le evidenze anche di dettaglio a supporto dei controlli di primo livello sono
+utilizzate dalla RMF per lo sviluppo di analisi di insieme dei fenomeni creditizi
+in atto o potenziali, affinate e sviluppate sempre con logiche “risk based” allo
+scopo di assicurare nel tempo:
+• la conformità gestionale con gli obiettivi strategici (RAF) e le norme esterne
+   ed interne,
+• un adeguato livello di efficacia dei controlli di primo livello,
+• la corretta misurazione dei rischi,
+• la tempestiva attivazione delle azioni di mitigazione/riduzione dei rischi
+   assunti,
+                                                                                        31
+• la puntuale e periodica informativa all’OFSS.
+
+   In tal senso possono essere sviluppate numerose analisi (di insieme e di
+   dettaglio) che, unitamente ai test operativi specifici da eseguirsi su singole
+   posizioni, variamente campionate, focalizzino l’attenzione sui punti di debolezza
+   osservati nella gestione dei rischi; esiti questi da rappresentare sia come
+   fenomeno che in dettaglio (liste specifiche) alle strutture di business richiedendo
+   adeguate azioni correttive da sottoporre a specifico follow up.
+   Peraltro dall’attività di monitoraggio possono emergere miglioramenti e
+   correzioni da apportare alle attività di misurazione, controllo e governo del
+   rischio.
+   6.2      Ruolo di IA
+   L’Internal Audit assicura periodiche verifiche sull’affidabilità ed efficacia del
+   complessivo processo di gestione e monitoraggio del credito (completezza,
+   adeguatezza, funzionalità, affidabilità).
+   Di norma IA utilizza, a supporto dell’attività svolta, i sistemi informativi in
+   uso presso le altre funzioni della banca e sviluppa, quando possibile o
+   ritenuto necessario, sistemi di analisi di dati indipendenti ed esclusivi diretti
+   principalmente a misurare la solidità del Sistema dei Controlli Interni (SCI).
+   A tal fine, in considerazione del ruolo assegnato dalle Disposizioni di Vigilanza
+   alla RMF, nell’ottica di un efficiente sistema di controlli interni aziendale
+   basato su tre livelli, la pervasività delle verifiche operative di audit nell’ambito
+   del controllo andamentale e del monitoraggio delle singole esposizioni sarà
+   calibrata in funzione della robustezza che caratterizza il secondo livello di
+   controllo nella singola realtà aziendale. In particolare, in sistemi di controllo
+   maturi, quindi con funzioni di secondo livello robuste e ben strutturate, è
+   assolutamente legittimo accrescere proporzionalmente il livello di “reliance”
+   da parte del terzo livello sulle conclusioni raggiunte dal secondo livello, in una
+   logica di costi/benefici del complessivo SCI. Il grado di “reliance” sulle attività
+   di verifica svolte dalla funzione di controllo dei rischi non può, in ogni caso,
+   prescindere dalle conclusioni raggiunte in sede di valutazione sull’adeguatezza
+   della funzione stessa, nell’ambito dell’attività di audit annualmente svolta sulla
+   struttura di secondo livello.
+   Una valutazione preliminare sul modello di monitoraggio dovrebbe configurarsi
+   nell’individuare l’effettivo presidio da parte della RMF di tutti gli ambiti rilevanti
+   individuati dalla normativa di riferimento.
+   Più sarà in evidenza la ricchezza, la puntualità e l’efficacia dei controlli di secondo
+   livello, più in generale le attività di III° livello svolte da IA si concentreranno
+   potenzialmente sui test di efficienza/efficacia di tali controlli e sull’impianto del
+   complessivo processo di monitoraggio andamentale. Di contro, carenze nel
+   sistema dei controlli di secondo livello orienteranno IA ad eseguire maggiori e
+   più diffusi test operativi sui controlli di primo livello.
+   Nel presente lavoro si individuano i principali ambiti di intervento e obiettivi di
+   controllo di IA, con specifico riguardo alle attività di verifica poste in essere e/o
+   attese dalla RMF in materia di monitoraggio del credito sulla quale è prevedibile
+   una intensificazione dell’attività di audit.
+32
+
+Fondamentale in argomento è l’efficienza e l’efficacia dell’organizzazione,
+obiettivo primario del sistema dei controlli interni, attraverso un’adeguata
+regolamentazione interna del processo di monitoraggio del credito unitamente
+ad una puntuale e precisa attribuzione di compiti e responsabilità alle strutture e
+ai ruoli.
+Il follow up delle azioni correttive posto in essere a seguito delle criticità
+(esposizione al rischio) rilevate dal Sistema dei Controlli Interni assume
+importanza crescente in funzione dei diversi obiettivi che si propone:
+• avvenuta mitigazione/riduzione dei rischi rilevati;
+• rilevanza/aggiornamento del rischio effettivo espresso dai sottostanti
+   processi per i quali le azioni di miglioramento pianificate non sono ancora
+   state poste in essere;
+• solleciti alle funzioni “owner” e ricorso alle attività di “escalation”;
+• necessità di rivedere l’intensità di classificazione del rischio rilevato ed
+   eventuali miglioramenti da apportare alle procedure di audit.
+Di seguito si riportano due esempi al fine di rappresentare in modo più
+approfondito quali potrebbero essere le aree di azione e di competenza delle
+funzioni di controllo su specifici fenomeni di rischio.
+                            Livello di arretrato nella revisione delle posizioni con affidamenti soggetti a revoca.
+    Le funzioni di business attraverso l’attività di gestione e di esecuzione degli associati controlli di primo livello (nelle diverse posizioni
+    gerarchiche/funzionali) devono assicurare la corretta e puntale attività di revisione del merito creditizio della clientela facilitata evidenziando
+    il grado di arretrato presente e le strutture outlier sulle quali intervenire.
+    La RMF, utilizzando gli stessi dati elementari, estenderà l’analisi a specifiche caratteristiche di rischio (rating controparte, per settore
+    economici, per tipologia di linea di credito, per zona geografica, etc.) i cui esiti supporteranno i giudizi sul presidio effettivo dei rischi e
+    dovranno essere peraltro oggetto di specifiche iniziative nei confronti delle strutture di business al fine di orientarne l’attività di revisione.
+    L’IA dall’analisi della reportistica comune e, qualora ritenuto necessario, attraverso test operativi specifici, valuterà l’affidabilità e l’efficacia
+    dei controlli di primo e secondo livello, individuando le eventuali criticità presenti, i fattori causali all’origine di tali problematiche e le
+    iniziative di correzione/mitigazione da apportare al fine di fornire un giudizio di adeguatezza sul presidio dei rischi e assicurare solidità e
+    coerenza alle attività di verifica.
+                                                                         Mutui edilizi
+    Le funzioni di gestione e controllo di primo livello, nelle diverse articolazioni presenti, dovranno assicurare e monitorare il buon andamento
+    delle iniziative imprenditoriali sottostanti nel rispetto delle condizioni definite e deliberate.
+    La RMF, per apprezzare l’effettivo presidio dei rischi, dovrà analizzare più in dettaglio anche attraverso test operativi l’andamento dei rischi
+    in corso (maturity iniziative edilizie, rapporto esposizioni rispetto al valore di costruzione in corso, etc.) e segnalare alle funzioni di business
+    le criticità riscontrate e le azioni gestionali attese per la corretta gestione del rischio.
+    L’IA valuterà attraverso le analisi di insieme e test operativi specifici la completezza, l’effettività e l’efficacia dei controlli di primo e secondo
+    livello, le eventuali anomalie presenti e gli ambiti di miglioramenti da perseguire per fornire un giudizio di adeguatezza del processo a
+    presidiare correttamente i rischi in corso.
+                                                                                                                                                         33
+
+   6.3      Monitoraggio crediti in bonis
+   Per quanto in precedenza anticipato, è opportuno qui ribadire che un adeguato
+   processo di monitoraggio deve trovare attuazione per tutte le relazioni
+   fiduciarie, anche quindi per quelle in bonis, attraverso tutte quelle attività che
+   in primis la linea di business/società ma nche la stessa capogruppo (nel caso
+   di gruppi bancari) devono porre in essere per individuare tempestivamente
+   i sintomi di un possibile deterioramento della qualità creditizia della clientela
+   (capacità di credito o di rimborso) e attivare per tempo le azioni a tutela delle
+   ragioni di credito.
+   La tempestiva individuazione e la coerente gestione dei clienti che presentano
+   un deterioramento del profilo di rischio consentono infatti d’intervenire nella
+   fase antecedente lo stato di default (cioè quando la controparte gode ancora di
+   un sufficiente merito di credito) con le seguenti azioni:
+   • controllando l’esposizione, fino al suo totale recupero quando necessario,
+      con un positivo impatto in termini di EAD. E’ noto, infatti, come l’esposizione
+      - durante la fase precedente il default ed in assenza di misure restrittive -
+      tenda ad aumentare al crescere delle difficoltà finanziarie della controparte.
+      La capacità d’individuare tempestivamente i sintomi di deterioramento
+      consente di gestire la situazione traendo vantaggio da qualunque possibilità
+      di riduzione dell’esposizione esistente, come pure di declinare ulteriori
+      richieste di linee da parte del cliente;
+   • ottimizzando le condizioni per la successiva fase di recupero, richiedendo -
+      nei limiti consentiti dalla normativa di riferimento - garanzie reali e/o personali
+      aggiuntive, creando presupposti economici/finanziari/legali favorevoli alla
+      successiva attività di workout e, infine, migliorando il risultato dell’attività di
+      recupero, con conseguente riduzione della LGD.
+   Nella fase di monitoraggio possono essere individuate due tipologie di attività,
+   in funzione della fonte informativa utilizzata e della finalità:
+   • il monitoraggio giornaliero delle anomalie (tipicamente di primo livello);
+   • la sorveglianza sistematica (che coinvolge anche la RMF).
+   In entrambi le fasi è necessario che l’Entità disponga di appropriati strumenti
+   informatici e processi che consentano la tempestiva individuazione di eventuali
+   segnali di peggioramento del rischio di credito.
+   6.3.1 Monitoraggio giornaliero
+   Il monitoraggio giornaliero delle posizioni consiste nel recupero ed analisi delle
+   informazioni rivenienti dalla gestione giornaliera della relazione con il cliente
+   (ad esempio sconfinamenti in conto corrente e/o nelle linee collegate all’incasso
+   di effetti commerciali, notizie negative sul prenditore, andamento del titolo in
+   caso di società quotate, etc.). In ogni caso, qualsiasi occasione di contatto con
+   il cliente (incluse quelle non strettamente legate alla gestione del credito) può
+   rappresentare un’opportunità di acquisire informazioni significative, al fine di
+   cogliere tempestivamente eventuali anomalie e/o segnali di deterioramento
+34
+
+della capacità di credito della controparte. Nel caso in cui siano stati previsti
+covenant di tipo finanziario, gli stessi devono essere debitamente monitorati ed
+ogni eventuale deroga deve prontamente riflettersi nei rapporti con il cliente e
+nei termini dell’operazione (ad es. commissioni relative a waiver, inasprimento
+dei margini, modifiche nelle garanzie, etc.). Infine, con particolare riferimento alle
+garanzie assunte di tipo reale, l’evoluzione del loro valore di mercato nel tempo
+deve essere oggetto di monitoraggio, al fine di coglierne tempestivamente
+possibili segnali di deprezzamento.
+6.3.2 Sorveglianza Sistematica
+Attesi gli obiettivi principali della sorveglianza sistematica (pronta individuazione
+dei clienti che presentano un deterioramento del profilo di rischio e la
+tempestiva definizione delle azioni più appropriate da porre in essere) questa
+può trovare attuazione attraverso strumenti informatici di cui - come detto
+- l’Entità deve essere dotata, idonei per elaborare informazioni provenienti
+da fonti diverse, con l’obiettivo di fornire alle figure dedicate all’attività di
+monitoraggio (sia di primo che di secondo livello) l’elenco delle controparti che
+evidenzino specifici indicatori di rischio ed alle quali, pertanto, andrà riservata
+particolare attenzione in aggiunta al monitoraggio giornaliero effettuato dalla
+funzione di business responsabile della gestione della relazione, con il supporto
+della RMF. Tali indicazioni potranno essere il risultato di una combinazione di
+valutazioni di carattere generale (rating, classificazione del settore economico,
+etc.) e contingenti (movimentazione del conto, indebitamento v/ il sistema, etc.).
+Generalmente le azioni poste in essere nella fase di monitoraggio sono
+finalizzate alla regolarizzazione della posizione per evitare il passaggio a default,
+ed includono le seguenti possibili opzioni:
+• la riduzione dell’esposizione e la richiesta di nuove garanzie a supporto, nel
+   rispetto delle leggi locali esistenti;
+• la sottoscrizione, da parte del cliente, di un piano di rientro con il quale lo
+   stesso riconosce il debito, rinuncia alle linee di fido e si obbliga a rimborsare
+   l’Entità in un determinato periodo di tempo da questa ritenuto congruo
+   (normalmente non eccedente i 12 mesi).
+La regolarizzazione della posizione (indipendentemente dal segmento di
+appartenenza del cliente) deve avvenire di regola entro i termini definiti dalle
+Autorità di Vigilanza locali per la classificazione automatica nella classe di “Past
+Due” e “Default”. Deve essere sempre assicurata la coerenza tra modalità di
+gestione del recupero e quantificazione degli accantonamenti a perdite da una
+parte e la classificazione gestionale della posizione, nel rispetto delle specifiche
+norme emanate in materia dagli Organi di Vigilanza.
+In ogni caso, deve essere evitato che sforzi finalizzati al recupero parziale della
+creditoria o incertezza di comportamenti nella fase gestionale della posizione
+causino ritardi nella classificazione a default, mettendo così a repentaglio il
+risultato finale dell’attività di recupero.
+                                                                                       35
+
+   6.3.3 Sistema dei rating interni
+   Il sistema dei rating generalmente adottato dalle banche costituisce il principale
+   strumento di rilevazione dei rischi e di orientamento gestionale del credito (cfr.
+   lo specifico capitolo 4).
+   La RMF, owner del complessivo processo ai fini regolamentari, deve dare
+   assicurazione sul corretto uso gestionale dello strumento attraverso test
+   specifici, peraltro diretti ad affinare/migliorare lo stesso strumento, sia su singole
+   posizioni di rischio che su fenomeni di insieme.
+   Ad esempio sono attese:
+   • Analisi periodiche (trimestrali) in ordine ai rating assegnati e relative
+      “probabilità di default” (individuale e di classe), sviluppate e diversificate in
+      relazione a diversi elementi distintivi propri delle posizioni affidate (e.g. privati
+      o aziende) o connessi al complesso gestionale (e.g. posizione in arretrato di
+      revisione, evoluzioni esposizioni non coerenti con gli obiettivi assegnati);
+   • Analisi sui trend manifestati dai rating (investment grade AA1-B1, speculative
+      grade B2-D3, watch E1-E3);
+   • Verifiche su correlazione rischio rating con condizioni applicate;
+   • Analisi arretrato rating review con evidenziazione delle strutture con
+      maggiori arretrati;
+   • Analisi override eseguiti;
+   • Correlazione matrice di migrazione con andamento settori economici di
+      appartenenza (vedi anche coerenza con le politiche creditizie adottate);
+   • Analisi trend  per zona geografica di riferimento con evidenziate le strutture  
+      che evidenziano le peggiori performance;
+   • Analisi per modello di servizio applicato.
+   Oggetto di esami puntuali devono essere i tempi di deterioramento del credito
+   (da Bonis agli stati di default), le cause di deterioramento e la coerenza delle
+   azioni gestionali di mitigazione poste in essere dalle strutture operative nelle fasi
+   precedenti gli stati di default (esecuzione di specifici test operativi).
+   Le analisi del portafoglio caduto in default devono essere indirizzate anche ad
+   eseguire test di validità predittiva del sistema di rating adottato.
+   L’attività di audit sarà indirizzata anche ad apprezzare le iniziative assunte per
+   il miglioramento dei processi, il monitoraggio delle azioni correttive proposte,
+   l’effettiva ed efficace comunicazione con le altre strutture della Banca (anche con
+   riferimento all’OFFS) e la tracciabilità assicurata all’intero processo di controllo.
+   6.3.4 Politiche creditizie
+   La RMF deve assicurare la presenza di reportistica adeguata a supportare il
+   monitoraggio degli obiettivi gestionali delle politiche creditizie adottate a livello
+36
+
+strategico e poi poste in essere dalle strutture di gestione ed erogazione del
+credito.
+Sono attese analisi periodiche  dirette a verificare il conseguimento o
+meno degli obiettivi gestionali assegnati dalle politiche creditizie (sviluppo,
+riqualificazione, riduzione delle linee di credito in funzione della rischiosità del
+settore economico di appartenenza e delle caratteristiche di rischio delle singole
+relazioni fiduciarie).
+I risultati delle analisi devono essere aggregati per unità organizzative
+responsabili della relazione commerciale con i clienti (Filiali, Centri Imprese,
+Aggregazioni Territoriali, Unità di Business, Strutture Centrali) evidenziando gli
+scostamenti quantitativi e qualitativi più rilevanti. Verifiche generali sono attese
+dalla RMF in ordine alla coerenza delle condizioni economiche applicate.
+Da tali attività, ai fini del mantenimento dell’equilibrio atteso tra le Politiche
+Creditizie effettivamente adottate ed il RAF di riferimento, possono emergere
+iniziative di mitigazione urgente dei rischi (e.g. mirati blocchi operativi) e/o di
+modifiche da apportare alle stesse indicazioni di orientamento gestionale del
+credito.
+La RMF corrobora le analisi di insieme attraverso verifiche sistematiche da
+eseguirsi su un numero di posizioni appositamente campionate in relazione a:
+• incoerenza con gli obiettivi gestionali,
+• degradamento rating e default,
+• condizioni applicate,
+• specificità e varietà delle linee di credito concesse (e.g. rapporto presentato/
+   scaduto, rapporto “Loan To Value – LTV ” assunto nell’erogazione dei mutui
+   ipotecari).
+La RMF previa analisi dei fattori causali alla base delle anomalie riscontrate e
+individuazione dei comparti maggiormente interessati (singole unità produttive,
+zone territoriali, tipologia prodotto, tipologia clienti, etc.), deve assicurare
+adeguata tracciabilità e follow up alle iniziative correttive poste in essere
+nei confronti delle strutture di business interessate (credito, commerciale,
+organizzazione, operation).
+L’IA fornirà un giudizio di adeguatezza complessiva del processo ripercorrendo
+le verifiche eseguite dalle funzioni di primo e secondo livello dei controlli ed
+effettuando all’occorrenza specifici test operativi.    
+6.3.5 Revisione periodica linee di credito continuative
+e crediti a scadenza
+La sana e prudente gestione del credito ed il corretto monitoraggio delle
+relazioni commerciali non possono prescindere da una puntuale revisione
+periodica (ordinaria: annuale – straordinaria: ad evento) del merito creditizio
+attribuito alla clientela e delle linee di credito continuative (a revoca) concesse e
+dalla regolarità di rimborso dei finanziamenti alle scadenze prefissate.
+                                                                                      37
+
+   L’esigenza di sottoporre a revisione le posizioni di rischio per essere sottoposte
+   all’esame circa il permanere dei requisiti di affidabilità e all’adozione dei criteri
+   gestionali (sviluppo, mantenimento, abbandono) è direttamente proporzionata
+   agli indici di rischiosità espressi (e.g. rating categoria watch o eventi
+   particolarmente significativi quali una rilevante perdita di esercizio).
+   Occorre anche considerare che nel contesto economico e imprenditoriale
+   di riferimento la rinegoziazione e la ristrutturazione di un debito, motivato
+   dall’esigenza di riequilibrare i flussi finanziari del business nel complesso
+   valutato sostenibile, deve essere considerata una normale operazione creditizia,
+   soprattutto nelle circostanze nelle quali non si registrerebbe un calo delle
+   garanzie e della redditività.
+   La RMF deve assicurare, attraverso un’attività continua di monitoraggio
+   (a periodicità regolare e prestabilita) e di azioni correttive eventualmente
+   necessarie, il corretto svolgimento del processo (% di arretrato di revisione nelle
+   classi di rating più rischiose possono nascondere crediti deteriorati non ancora
+   puntualmente classificati) anche con riferimento al rispetto dei limiti assegnati
+   alla filiera creditizia in tema di autonomie creditizie (test campionari specifici).
+   Sono attese analisi e report sulla consistenza ed evoluzione dell’arretrato
+   presente nella revisione delle posizioni di fido per rischiosità e strutture
+   responsabili del seguimento.
+   La RMF deve sempre assicurare la tracciabilità e la corretta archiviazione della
+   documentazione a supporto delle iniziative assunte (ad esempio comunicazione
+   agita vs. strutture credito e OFFS).
+   L’IA fornirà un giudizio di adeguatezza complessiva del processo ripercorrendo
+   le verifiche eseguite dalle funzioni di  primo e secondo livello dei controlli ed
+   effettuando all’occorrenza specifici test operativi.    
+   6.3.6 Rischi rilevanti e parti correlate
+   La RMF deve dare corso ad analisi campionarie di singole posizioni per verificare
+   il rigoroso rispetto del processo di istruttoria, proposizione e delibera delle
+   linee di credito.
+   Inoltre sono attesi report periodici di monitoraggio delle esposizioni in essere e
+   dell’andamento patrimoniale economico (ad esempio dati salienti delle relazioni
+   trimestrali delle società quotate). Analisi da comparare con il sistema Bancario
+   (Centrale dei Rischi) e il settore economico di appartenenza.
+   L’IA fornirà un giudizio di adeguatezza complessiva del processo ripercorrendo
+   le verifiche eseguite dalle funzioni di  primo e secondo livello dei controlli ed
+   effettuando all’occorrenza specifici test operativi.    
+   6.3.7 Sistema andamentale
+   Il sistema andamentale (di norma procedure automatizzate) rileva tutti gli eventi
+   di rischio precodificati (e.g. sconfinamenti, anticipi scaduti, rate finanziamenti
+   poliennali non pagati, rate finanziamenti di terzi non pagate, sofferenze e/o
+   segnalazioni di perdite a sistema, assegni bancari propri impagati e/o avviati
+38
+
+al protesto, collegamenti con altra posizione già riferita a sofferenze, ricevute
+bancarie non ritirate, etc.) e le carenze gestionali (legali rappresentanti scaduti,
+posizione e/o rating di processo scaduta/o da sottoporre a revisione, etc.),
+ritenute necessarie/indispensabili a supporto dell’attività creditizia.
+La tempestività di reazione ai segnali negativi rilevati dai sistemi andamentali
+esterni e interni consente di mitigare i rischi assunti e costituisce, pertanto, un
+elemento distintivo e di valore aggiunto nell’amministrazione del credito.
+La RMF che, peraltro, ha la responsabilità di valutare l’adeguatezza degli
+applicativi a supporto delle attività gestionali e di controllo, deve rilevare e
+monitorare periodicamente (trimestrale), attraverso lo sviluppo e analisi di
+report, l’avvenuta lavorazione degli eventi esterni e la coerenza gestionale
+espressa (e.g. rilevando la presenza di posizioni classificate in bonis che risultano
+segnalate a sofferenze dal sistema e/o per le quali sono in corso procedure
+concorsuali).
+La RMF deve assicurare, anche attraverso l’esecuzione di test operativi
+specifici, l’adeguatezza del sistema di controllo andamentale adottato, la
+corretta individuazione e rilevazione degli eventi da rilevare e lavorare, la giusta
+attribuzione del peso di rischio ai singoli eventi, aspetti peraltro strettamente
+connessi al sistema di attribuzione del rating interno.
+L’IA fornirà un giudizio di adeguatezza complessiva del processo di rilevazioni,
+analisi e gestione dei rischi ripercorrendo se del caso le verifiche eseguite dal
+primo e secondo livello dei controlli ed effettuando all’occorrenza specifici test
+operativi.
+6.3.8 Valutazione/classificazione del credito in bonis
+La RMF deve porre in essere attività specifiche atte ad assicurare la tempestiva
+classificazione delle posizioni con processi di ristrutturazione in corso (vedi i c.d.
+forborne credits, esposizioni oggetto dell’attività di forbearance5) e di quelle
+ricadenti in una delle classi di “default” (past-due, sofferenze, etc.), attività
+indispensabile al fine di apprezzare correttamente e puntualmente i rischi assunti
+e gli impatti patrimoniali degli stessi sui valori/indici di bilancio espressi.
+A tale proposito l’IA si attende di verificare la presenza strutturata di analisi
+periodiche (mensili - trimestrali) dirette a rilevare eventuali incongruenze presenti
+(e.g. classificazioni infragruppo non coerenti – le cosiddette sofferenze allargate
+– tempi di permanenza nelle classi di rating watch).
+Considerata anche la validità di tali analisi ai fini del corretto funzionamento
+del sistema dei rating interni sono attese anche verifiche puntuali su singole
+posizioni di rischio variamente campionate (esposizioni, modello di servizio
+applicato, zona geografica di riferimento) tese a misurare la solidità del sistema
+di rilevazione interno.
+5   Forborne Exposures
+    Questa categoria ricomprende esposizioni per le quali, a causa del deterioramento delle condizioni economico-finanziarie del debitore,
+    vengono modificate le originarie condizioni contrattuali (riscadenzamento dei termini, riduzione del debito e/o degli interessi) e si origini una
+    perdita. Presupposto nella concessione di una forbearance measure è il sussistere, in capo al soggetto interessato, di una difficoltà finanziaria
+    attuale o prospettica. Tali esposizioni possono trovarsi classificate sia tra le performing exposure sia tra le non-performing exposure.
+                                                                                                                                                 39
+
+                                        Periodicamente  la RMF, in funzione delle diverse attività di verifica svolte,  deve
+                                        dare assicurazione in ordine all’adeguatezza e correttezza del processo interno
+                                        per la rilevazione e la determinazione degli accantonamenti forfettari (collettiva)
+                                        sui crediti in bonis.
+                                        L’IA fornirà un giudizio di adeguatezza complessiva del processo di
+                                        classificazione dei rischi ripercorrendo le verifiche eseguite dalle funzioni di
+                                        primo e secondo livello dei controlli ed effettuando all’occorrenza specifici test
+                                        operativi.
+                                        6.3.9 Grandi rischi e gruppi di clienti connessi
+                                        In tema di grandi rischi e gruppi di clienti connessi la RMF deve assicurare il
+                                        rispetto delle norme regolamentari e i limiti previsti attraverso analisi puntuali e
+                                        periodiche6.
+                                        Deve assicurare altresì la coerenza dei processi interni con la disciplina esterna la
+                                        quale prevede che “i rischi nei confronti di singoli clienti della medesima banca
+                                        siano considerati unitariamente qualora tra i clienti stessi sussistano connessioni
+                                        di carattere giuridico o economico tali che le difficoltà di rimborso o di funding
+                                        di uno di essi possono ripercuotersi sugli altri”.
+                                        Attraverso specifico e periodico monitoraggio devono essere rilevati e
+                                        monitorati le esposizioni rilevanti garantendone nel tempo la coerenza con le
+                                        indicazioni gestionali ed il RAF di riferimento.
+                                        Sono attesi inoltre test operativi specifici su singole posizioni al fine di
+                                        assicurare la correttezza dei collegamenti tra le posizioni connesse e il regolare
+                                        svolgimento del processo di delega (autonomie creditizie).
+                                        L’IA attraverso specifiche attività e ripercorrendo i controlli di primo e secondo
+                                        livello fornirà un giudizio di adeguatezza del complessivo processo di gestione
+                                        dei rischi rilevanti.
+                                        6.3.10 Garanzie
+                                        Le garanzie ricevute dalle banche, nelle varie tipologie previste7, costituiscono i
+                                        principali strumenti di attenuazione del rischio di credito (Credit risk mitigation –
+                                        CRM). La RMF, già pienamente coinvolta nella declinazione dei relativi processi
+                                        (vedi anche Loss Given Default-LGD) deve dare assicurazioni circa il corretto
+                                        monitoraggio dei valori delle garanzie attraverso efficaci sistemi interni.
+                                        Sono attese rilevazioni periodiche del valore dei titoli posti a pegno di
+                                        facilitazioni e verifiche in merito all’avvenuta adozione delle opportune iniziative
+                                        gestionali (rientro parziale esposizioni, ricostituzione pegno, altro) per le posizioni
+                                        che presentano deprezzamenti oltre la soglia prevista.
+                                        La RMF deve dare assicurazione anche in ordine al corretto svolgimento del
+                                        processo inerente le garanzie rilasciate dai consorzi di garanzia collettiva dei fidi
+6 (circ. 285) Il rigore e la professionalità con cui le banche assumono grandi rischi e ne seguono l’andamento, costituiscono per la Banca d’Italia
+   un costante punto di riferimento per le valutazioni di propria competenza nell’attività di vigilanza.
+7 Ad esempio fideiussioni bancarie, polizze fideiussorie di compagnie di assicurazione, garanzia rilasciata da fondi pubblici di garanzia o da
+   consorzi e cooperative di garanzia fidi, cessioni, pegno su titoli di Stato.
+40
+
+(Art. 106 e 107 TUB) e rilevazioni puntuali delle eventuali perdite subite a seguito
+del mancato adempimento da parte della banca delle prescrizioni previste nei
+relativi contratti di convenzionamento sottoscritti.
+Relativamente alle ipoteche su immobili a garanzia dei finanziamenti la RMF deve
+garantire il corretto svolgimento del processo di rivalutazione periodica (annuale)
+e certificare l’adeguatezza e la coerenza dei correlati tassi di accantonamento e
+di assorbimento patrimoniale.
+Specifiche analisi sono attese riguardo il monitoraggio dei rischi connessi alle
+attività creditizie cartolarizzate.
+L’IA fornirà un giudizio di adeguatezza complessiva del processo ripercorrendo
+se del caso le verifiche eseguite dalle funzioni di primo e secondo livello dei
+controlli ed effettuando all’occorrenza specifici test operativi.    
+6.3.11 Forborne Exposure
+Il perdurare della crisi economica ha ampliato in modo significativo il ricorso
+alle operazioni di ristrutturazione aziendali anche per le innovazioni legislative
+in materia (vedasi ad esempio l’istituto del concordato in bianco in continuità
+aziendale). Spesso si tratta di aziende/gruppi di elevate dimensioni che, dal lato
+dei finanziatori, coinvolgono diverse banche.
+In considerazione dei rischi, non trascurabili, di futuro ulteriore deterioramento
+creditizio per le difficoltà degli imprenditori nel definire un efficace piano di
+risanamento aziendale e/o per il mancato rispetto di quelli già concordati, la
+RMF deve avere esatta cognizione di tali rischi di credito attraverso analisi
+periodiche (semestrali) da eseguirsi in via generale sull’intero portafoglio e con
+test su singole posizioni.
+A titolo di esempio rilevazioni e analisi su:
+• Stock e flussi operazioni di ristrutturazione nelle diverse modalità (in
+   corso, totale senza intento liquidatorio, totale con intento liquidatorio,
+   riscadenzamento, ristrutturazione parziale) e relativi tassi di “cura” e “default”;
+• Nuova finanza concessa anche con riferimento a linee di credito “stand
+   still”, perdite registrate (c/capitale, c/interessi), costi di consulenza sostenuti
+   (diretti o pagati dall’azienda), inserimento rispetto al sistema e più in generale
+   comportamento delle altre banche (banche non aderenti all’accordo, etc.);
+• Rispetto piani di risanamento concordati, (e.g. covenants, milestone, etc.),
+   motivazioni alla base delle ristrutturazioni multiple (posizioni ristrutturate più
+   volte), difficoltà presenti nelle operazioni di ristrutturazioni in corso non ancora
+   concluse.
+La RMF deve assicurare inoltre la coerenza e l’adeguatezza degli accantonamenti
+e delle corrette classificazioni ai fini di vigilanza.
+L’IA fornirà un giudizio di adeguatezza complessiva del processo ripercorrendo
+se del caso le verifiche eseguite dalle funzioni di primo e secondo livello dei
+controlli ed effettuando all’occorrenza specifici test operativi.    
+                                                                                        41
+
+                                  6.4       Monitoraggio crediti deteriorati
+                                  Come anticipato nella sezione del contesto regolamentare, le nuove disposizioni
+                                  normative ampliano in misura significativa il perimetro di responsabilità della
+                                  RMF nell’ambito del processo di gestione del credito, specie in termini di
+                                  confronto con le strutture di business, responsabili del monitoraggio di primo
+                                  livello, e di verifica delle attività da queste poste in essere.
+                                  I nuovi ambiti del processo presidiati dalla RMF secondo gli adempimenti
+                                  previsti dalla nuova normativa sono riferiti a:
+                                  • Monitoraggio andamentale, sulle singole esposizioni, in particolare quelle
+                                     deteriorate;
+                                  • Valutazione della coerenza delle classificazioni;
+                                  • Valutazione della congruità degli accantonamenti;
+                                  • Valutazione dell’adeguatezza del processo di recupero.
+                                  Nello scenario normativo prefigurato, pertanto, IA agisce secondo logiche di
+                                  terzo livello, fornendo un giudizio di affidabilità ed efficacia complessive del
+                                  processo di monitoraggio e di recupero completamente indipendente e
+                                  “terzo” dalla fase operativa e di controllo di secondo livello. L’IA, infatti, secondo
+                                  un approccio risk based, assicura verifiche periodiche che possono avere ad
+                                  oggetto, fra l’altro, l’attività della stessa RMF; le attività di audit saranno peraltro
+                                  in misura significativa focalizzate sulla valutazione delle verifiche svolte dalla RMF
+                                  e sull’effettivo presidio di tutti gli ambiti di verifica identificati dal regulator8.
+                                  Più in dettaglio ed in via preliminare, sarà necessario che l’IA valuti che la RMF
+                                  si sia dotata di risorse con competenze idonee allo svolgimento delle verifiche
+                                  richieste; inoltre, il framework normativo interno dovrà essere opportunamente
+                                  integrato per tenere in considerazione i nuovi ambiti di responsabilità assegnati
+                                  alla RMF e dovrà essere conseguentemente estesa la mission della funzione.
+                                  Adeguati ed efficaci flussi informativi dovranno essere implementati dalle
+                                  strutture di business responsabili del monitoraggio di primo livello nonché da
+                                  parte della RMF verso gli organi societari, il top management e verso le unità di
+                                  monitoraggio e recupero crediti.
+                                  In generale, con riferimento agli aspetti procedurali per la definizione
+                                  dell’impianto complessivo del processo di monitoraggio dei crediti deteriorati,
+                                  l’IA verificherà la presenza e l’adeguata formalizzazione di
+                                  • un sistema di poteri e deleghe per:
+                                     o la delibera dei passaggi di status e dei rientri in bonis;
+                                     o la determinazione delle previsioni di recupero;
+                                     o la definizione dei passaggi a perdita.
+8 Secondo quanto riportato in premessa, con riferimento alla reliance sulle attività della RMF.
+42
+
+• Policy/linee guida di accantonamento per le diverse categorie di crediti
+  non performing - past due, incagli, ristrutturati, sofferenze (con eventuale
+  previsioni di accantonamenti analitici o analitico/forfettari in funzione
+  dell’entità dell’esposizione e/o del portafoglio di origine).
+Obiettivo dell’audit sarà inoltre verificare che i criteri di classificazione,
+valutazione e gestione delle esposizioni deteriorate, nonché le relative unità
+responsabili siano stati stabiliti dall’Organo con Funzione di Supervisione
+Strategica con apposita delibera che indichi anche le modalità di raccordo tra
+tali criteri e quelli previsti per le segnalazioni di vigilanza. In presenza di deroghe
+all’applicazione dei criteri prefissati è necessario che queste siano riferite a casi
+predeterminati e che vengano seguite procedure rafforzate, che prevedano il
+coinvolgimento dell’Organo con Funzione di Gestione.
+A tal fine, inoltre, sarà necessario che la RMF sia stata coinvolta direttamente
+nella definizione del framework normativo interno, specie al fine di garantire la
+coerenza delle politiche creditizie e di provisioning con la propensione al rischio
+della singola banca.
+Le policy aziendali di riferimento dovranno prevedere al loro interno le modalità
+e la periodicità di svolgimento delle attività di controllo sia di primo livello poste
+in essere dalle strutture di business che di secondo svolte da RMF.
+6.4.1 Monitoraggio andamentale di esposizioni deteriorate
+Nell’ambito delle proprie verifiche IA dovrà appurare che la RMF si sia dotata di
+indicatori di early warning che, in fase di controllo andamentale del portafoglio
+crediti, siano in grado di rilevare tempestivamente il deterioramento o
+un’evoluzione negativa della qualità del portafoglio monitorato.
+Tra i principali indicatori identificati dovranno essere previsti:
+• Indicatori sulla qualità complessiva del portafoglio, comprendenti analisi
+  sulle esposizioni, suddivise per status, segnalate a sofferenza dal sistema
+  bancario (c.d. sofferenze allargate), analisi sulla composizione del portafoglio
+  crediti deteriorati  (ad esempio per settore economico, area geografica,
+  forma tecnica, etc.), evoluzione dello stock di crediti deteriorati e dinamica
+  dei passaggi di status, nuovi ingressi nelle diverse classi di deteriorato
+  (con dati sia aggregati che, con riferimento ad esposizioni particolarmente
+  significative, analitici per posizione);
+• Indicatori di scostamento e coerenza, tra cui backtesting del modello
+  di svalutazione, scostamento delle svalutazioni analitiche dalle perdite
+  storicamente registrate dalla banca, scostamenti del coverage dei crediti
+  deteriorati rispetto a benchmark di settore, monitoraggio dei tempi di
+  permanenza nello status di incaglio;
+• Indicatori di efficacia nel processo gestionale, che possono prevedere
+  il monitoraggio del tasso di turnover per categoria di deteriorato, le
+  percentuali di recupero per procedura esecutiva attivata.
+Oltre agli indicatori sintetici per analisi andamentali di portafoglio, le attività
+                                                                                        43
+
+                                     della funzione IA saranno volte ad appurare che la RMF abbia effettuato
+                                     verifiche campionarie su singole posizioni ed in particolare che, a tal fine, la RMF
+                                     abbia identificato, formalizzato ed aggiornato nel continuo criteri di selezione di
+                                     posizioni che, per le specifiche caratteristiche di anomalia nella classe di rischio,
+                                     ritiene debbano essere oggetto di approfondimento9.
+                                     Con riferimento a tali verifiche campionarie, le attività di audit dovrebbero
+                                     prevedere valutazioni in merito all’efficacia ex post dei criteri di campionamento
+                                     utilizzati, in termini di effettiva capacità del modello adottato di rilevare posizioni
+                                     che presentano segnali anomali sia in termini di classificazione che stima della
+                                     previsione di perdita.
+                                     6.4.2 Classificazione del credito deteriorato
+                                     Con riferimento alle verifiche di audit volte a determinare la correttezza della
+                                     classificazione delle esposizioni, queste saranno indirizzate a valutare:
+                                     • la coerenza dello status con la rischiosità associata al cliente, secondo i criteri
+                                        disciplinati dalla normativa di riferimento;
+                                     • il rispetto dei poteri di delega aziendali vigenti , per la determinazione dei
+                                        passaggi di status.
+                                     A tal fine, le principali attività svolte da IA riguardano:
+                                     • verifica dell’esistenza di analisi di portafoglio, svolte dalla RMF, che
+                                        evidenzino la dinamica dei passaggi di status (e che consentano la
+                                        tempestiva individuazione di eventuali segnali di deterioramento del
+                                        portafoglio);
+                                     • per le riclassificazioni oggettive (past due, incagli oggettivi), valutazione
+                                        dell’effettivo funzionamento del sistema informativo a supporto del processo
+                                        di gestione del rischio di credito rispetto alle regole definite dalla normativa
+                                        di vigilanza;
+                                     • con riferimento alla categoria degli “incagli”:
+                                         o analisi specifiche sulla dinamica delle riclassificazioni oggettive, strumento
+                                            efficace per la rilevazione di anomalie gestionali relativamente alla
+                                            mancata riclassificazione da parte delle strutture responsabili della
+                                            relazione;
+                                         o analisi svolte sul tempo di permanenza delle esposizione in incaglio (sia
+                                            oggettivo che soggettivo);
+                                     • riguardo la categoria dei crediti “ristrutturati” (forborne loan), un
+                                        monitoraggio ad hoc dovrà essere inserito tra i controlli della RMF
+                                        relativamente al rispetto del piano di ristrutturazione; in presenza di
+                                        inadempimento, dovranno essere analizzate ed appurate le modalità di
+                                        pronta regolarizzazione o l’avvio tempestivo di una proposta di passaggio di
+                                        status peggiorativo;
+9 Ad esempio posizioni con esposizioni rilevanti in termini di importo, con coverage di accantonamento inferiore rispetto ai benchmark o alle
+  linee guida interne, incagli con tempi di permanenza nello status superiori ai 12 mesi, etc.
+44
+
+• le verifiche di audit saranno volte ad appurare che per un campione
+  di posizioni, eventualmente identificato sulla base di quanto emerso
+  dalle analisi elencate sopra, la RMF abbia verificato la coerenza della
+  classificazione, secondo quanto stabilito dalle disposizioni di vigilanza e
+  nelle policy interne, nonché la coerente rappresentazione in bilancio e nelle
+  segnalazioni di vigilanza dello status contabile (e relativa riconciliazione con
+  lo status gestionale); tale analisi è finalizzata ad identificare classificazioni
+  errate, dovute a non completa/incorretta valutazione dei fattori di rischio
+  della posizione, eventuali atteggiamenti di inerzia da parte del gestore
+  della relazione nella riclassificazione a status peggiorativi, etc. In tali casi,
+  sarà valutata la tracciabilità delle eventuali iniziative di revisione della
+  classificazione avanzate da RMF;
+• con riferimento al processo di riclassificazione tra categorie di credito
+  deteriorato, la verifica, su base campionaria, del rispetto dei poteri di delega
+  vigenti in banca in tema di passaggi di status, nonché l’analisi complessiva in
+  merito all’esercizio dei poteri delegati da parte di ciascun organo deliberante.
+Con riferimento alle verifiche di audit sulle attività citate svolte dalla RMF, dovrà
+essere appurata, nell’ambito delle valutazioni in merito all’efficacia ed affidabilità
+delle attività:
+• l’adeguata tracciabilità dei controlli effettuati e delle informazioni;
+• la chiara formalizzazione delle risultanze;
+• l’individuazione di presidi organizzativi strutturati, tramite la costituzione di
+  strutture preposte all’interno delle funzioni di business e di controllo nonché
+  l’istituzione ed il funzionamento di specifici comitati per il monitoraggio e la
+  definizione delle azioni gestionali;
+• l’esistenza di una reportistica periodica efficace verso il top management
+  e le strutture di business coinvolte nel processo; l’informativa deve
+  essere predisposta in continuità con le rilevazioni precedenti, fornendo
+  aggiornamenti in merito all’evoluzione delle posizioni analizzate, prevedendo
+  processo di sorveglianza sistematica per posizioni oggetto di monitoraggio
+  analitico periodico;
+• l’utilizzo di strumenti informatici ad-hoc a supporto delle analisi e del
+  processo di monitoraggio e gestione delle posizioni deteriorate; la
+  scelta della soluzione informatica sarà commisurata alla complessità
+  dell’intermediario (principio di proporzionalità).
+Inoltre, la funzione di audit verificherà che le eventuali aree di miglioramento
+emerse nell’ambito delle attività svolte dalla RMF siano state rappresentate
+agli organi aziendali ed al management della banca nonché siano oggetto di
+monitoraggio successivo e rendicontazione in merito all’effettivo superamento
+delle criticità identificate.
+6.4.3 Valutazione del credito deteriorato: coperture ed accantonamenti
+Nell’ambito delle verifiche svolte da IA con riferimento alla valutazione del
+                                                                                       45
+
+                                      credito deteriorato, rilevano le attività volte a determinare:
+                                      • la corretta determinazione delle previsioni di recupero, in termini di congruità
+                                         degli accantonamenti;
+                                      • il rispetto delle competenze deliberative aziendali vigenti10 in materia di
+                                         provisioning e imputazione delle perdite a conto economico;
+                                      A tale riguardo, specie relativamente al primo punto, poiché le disposizioni
+                                      di vigilanza prevedono tale responsabilità direttamente in carico alla RMF,
+                                      è evidente che le principali attività svolte da IA riguarderanno la verifica dei
+                                      presidi da questi implementati e verificati o, in caso di inaffidabilità del processo
+                                      di controllo di II° livello posto in essere, saranno previste verifiche operative
+                                      direttamente sui controlli di I° livello.
+                                      In particolare, l’IA  verificherà:
+                                      • l’esistenza di una specifica attività di monitoraggio svolta dalla RMF
+                                         sull’evoluzione delle previsioni di recupero e verifica della coerenza dei
+                                         livelli di copertura dei crediti problematici, che preveda analisi differenziate
+                                         in base ad esempio alla classificazione dei crediti, alla tipologia di
+                                         procedura esecutiva attivata e l’esito delle fasi già esperite, al portafoglio di
+                                         appartenenza della clientela, aging ed entità delle esposizioni, etc.;
+                                      • lo svolgimento, da parte di RMF, di periodiche verifiche di portafoglio sulla
+                                         congruità complessiva degli accantonamenti, sulla base delle indicazioni
+                                         contenute nelle policy interne in tema di valutazione dei crediti anomali ed
+                                         analisi di eventuali scostamenti delle svalutazioni complessive anche rispetto
+                                         a benchmark di settore11;
+                                      • con riferimento alle analisi campionarie svolte dalla RMF, devono essere
+                                         svolte ed adeguatamente tracciate le evidenze delle attività di controllo
+                                         finalizzate a verificare il corretto svolgimento dell’iter di determinazione delle
+                                         previsioni di recupero sulle posizioni a incaglio e a sofferenza, in particolare
+                                         valutando se:
+                                          o le previsioni di recupero sono state determinate in coerenza con le policy
+                                             aziendali e tenendo conto delle procedure legali attivate, della tipologia di
+                                             procedura esecutiva, valore di pronto realizzo, periodo di recupero e tassi
+                                             di attualizzazione dei flussi attesi, sia per le posizioni già classificate che
+                                             per i nuovi ingressi nella categoria;
+                                          o le svalutazioni/rivalutazioni dei crediti effettuate sono allineate alla
+                                             rappresentazione delle relative previsioni di recupero nei sistemi contabili;
+                                      • qualora dall’analisi sulle posizioni analizzate fosse emersa la non congruità
+                                         degli accantonamenti esistenti, evidenza della proposta da parte della RMF
+                                         della revisione degli accantonamenti;
+10 Fare rimando alla fase di “definizione delle politiche creditizie”, in cui saranno definiti i criteri per la definizione del sistema di deleghe, che
+   dovrà includere i poteri per i passaggi di status e per la determinazione degli accantonamenti.
+11 In caso di discordanze significative, le posizioni individuate nell’ambito di tale analisi potrebbero rappresentare esposizioni con caratteristiche
+   rilevanti per l’inserimento nel campione oggetto di verifica.
+46
+
+• con riferimento al valutazione delle esposizioni deteriorate, la verifica, su
+   base campionaria, del rispetto dei poteri di delega vigenti in banca in tema
+   di accantonamenti, riprese di valore, passaggi a perdita, nonché l’analisi
+   complessiva in merito all’esercizio dei poteri delegati da parte di ciascun
+   organo deliberante.
+Le valutazioni da parte di IA in merito all’efficacia ed affidabilità delle attività
+svolte dovranno tener conto delle medesime considerazioni riportate in
+precedenza e relative alla tracciabilità delle verifiche, formalizzazione delle
+risultanze, individuazione di presidi organizzativi, etc.
+6.4.4 Processo di recupero
+Relativamente al processo di recupero del credito, le disposizioni di vigilanza
+attribuiscono alla RMF la responsabilità di verificarne la capacità di ottenere il
+recupero delle esposizioni secondo tempistiche, modalità e importi coerenti
+con il processo di gestione dei rischi, contribuendo direttamente alla definizione
+del processo in esame e all’effettiva verifica nel continuo del rispetto delle
+procedure di recupero da parte delle strutture preposte, identificando peraltro
+l’eventuale presenza di criticità e le relative azioni correttive.
+Gli obiettivi di IA riguardano la rilevazione di un giudizio di affidabilità ed efficacia
+complessivo del processo di recupero e saranno pertanto focalizzate in primis
+sulla verifica dell’esistenza ed efficacia dei seguenti controlli svolti dalla RMF:
+• la tracciabilità del processo di recupero, in termini di qualità dei dati e
+   ricostruibilità delle informazioni, sia con riferimento alle azioni stragiudiziali che
+   alla gestione del contenzioso; al riguardo, in particolare, rilevano:
+    o la presenza di aggiornati valori peritali delle garanzie;
+    o la registrazione nelle procedure automatiche di tutte le informazioni
+       necessarie per la valutazione dei crediti;
+• le modalità di stima dei tempi di recupero e i tassi di attualizzazione utilizzati;
+• la regolarità formale di tutte le fasi del processo di recupero del credito,
+   riguardo le posizioni classificate ad incaglio o sofferenza per le quali sono state
+   assunte delibere di piani di rientro, saldo e stralcio, cancellazioni e/o riduzione
+   e restrizioni ipoteche e di privilegi a favore della banca.
+Inoltre, la presenza di un solido processo di Delinquency Management, inteso
+come il processo di gestione dei comportamenti anomali dei dipendenti da
+sottoporre all’esame della Funzione competente, è necessaria per determinare
+l’efficacia e l’efficienza delle azioni preventive di regolarizzazione del credito
+anomalo, nonché massimizzare il valore e le tempistiche del recupero già prima
+della fase patologica (e.g. classificazione a sofferenza).
+Una particolare attenzione va inoltre posta nella definizione della
+contrattualistica, al fine di prevenire o limitare l’insorgere di contenziosi con
+riferimento sia all’attivazione delle garanzie rilasciate, sia alle successive eventuali
+azioni di rivalsa nei confronti dei garantiti.
+                                                                                          47
+
+   L’IA verifica inoltre la presenza di uno specifico presidio sull’attività di
+   monitoraggio riferita alle valutazioni, eseguite da tecnici e/o professionisti di
+   fiducia della banca, sul valore dei cespiti (unità immobiliari) oggetto di garanzia.
+   Dal punto di vista organizzativo, l’articolazione dei ruoli e delle attività
+   connessi al processo di recupero deve essere adeguatamente formalizzata
+   nei regolamenti aziendali, con riferimento all’identificazione sia delle strutture
+   organizzative coinvolte ed ai relativi profili di coordinamento, sia del ruolo degli
+   specifici comitati ed al loro collocamento nella governance aziendale.
+   Inoltre, in caso di esternalizzazione del servizio di recupero per particolari
+   categorie di esposizioni deteriorate, sarà necessario procedere con le verifiche
+   in merito all’efficacia ed efficienza delle attività svolte, in relazione ai requisiti
+   contrattuali stabiliti.
+   Qualora la banca abbia fatto ricorso ad operazioni di cessione di un portafoglio
+   di crediti deteriorati, è necessario prevedere presidi specifici in merito a:
+   • coerenza dell’operazione con le disposizioni interne e con le decisioni
+      intraprese dagli organi aziendali;
+   • valutazione della convenienza dell’operazione;
+   • corretta gestione documentale per la regolamentazione dei rapporti con i
+      debitori ceduti;
+   • corretta gestione contabile dell’operazione.
+48
+
+7. REPORTING
+Sul tema del reporting i Regulator globali stanno indirizzando sempre più la
+loro attenzione verso l’applicazione di nuovi standard rigorosi di misurazione
+dei rischi e di produzione della relativa reportistica, per permettere alle banche
+di rilevanza sistemica (G-SIBs) di migliorare la propria capacità di gestire e
+controllare tutti i rischi in modo adeguato ed efficace. L’iniziativa più recente
+in tal senso arriva dal Comitato di Basilea per la Supervisione Bancaria (BCBS)
+che ha emesso una serie di principi (Paper#239) volti a rafforzare la capacità di
+aggregazione e le prassi di segnalazione interna dei dati di rischio delle banche
+entro il 1° Gennaio 2016.
+L’attuazione efficace di tali principi dovrebbe consentire alle banche di disporre
+di un solido sistema di governo societario, una robusta architettura dei dati di
+rischio e un’affidabile infrastruttura informatica, migliorando così la gestione dei
+rischi e dei propri processi decisionali.
+In ogni caso, già da tempo gli International Standards for the Professional
+Practice of Internal Auditing contengono principi ormai consolidati a livello
+internazionale che possono essere condivisi anche con le altre funzioni di
+controllo nell’ottica di un Sistema di Controllo Integrato.
+La comunicazione nel reporting, secondo gli standard, deve essere:
+• accurata
+• chiara
+• concisa
+• completa
+• tempestiva.
+Al fine di realizzare una adeguata  reportistica  – coerente con un sistema di
+gestione del rischio di credito efficacemente integrato – è necessario che
+vengano implementati quei parametri richiamati dalla Circ. 285/2013 che le
+banche, ai sensi della predetta Circolare, devono declinare in un documento
+approvato dall’Organo con funzioni di supervisione strategica.
+In particolare un’efficace reportistica integrata deve:
+• utilizzare un linguaggio comune a tutti i livelli della banca (ad es. definizione
+  univoca o comunque “raccordabile” dei diversi livelli di controllo e delle scale
+  di valutazione dei rischi/controlli);
+• adottare metodi e strumenti di rilevazione e valutazione tra loro coerenti (ad
+  es. un’unica tassonomia dei processi, un’unica mappa dei rischi e - per quanto
+  possibile - un’unica base dati).
+Tutte le funzioni di controllo coinvolte nel processo di gestione del rischio si
+devono attivare per l’adozione e la diffusione di un linguaggio comune su rischi
+e controlli, partendo dal Risk Appetite Framework (RAF) definito dagli Organi
+                                                                                     49
+
+   con funzione di Supervisione Strategica (Board, Senior Management).
+   La diffusione di un linguaggio comune permette di:
+   • favorire lo scambio informativo delle risultanze tra le strutture di I°, II° e III°
+     livello;
+   • fornire alle strutture e agli Organi aziendali evidenze omogenee e più
+     facilmente comparabili e comprensibili;
+   • determinare una reale ed efficace integrazione dei livelli di controllo.
+   In particolare occorre perseguire una logica comune di rappresentazione delle
+   risultanze delle proprie attività che consenta una riparametrazione con gli esiti di
+   quanto svolto dagli altri livelli di controllo.
+   Laddove le funzioni aziendali di controllo sviluppino in autonomia, come di solito
+   accade, un proprio modello di reportistica debbono tuttavia mantenere gli
+   opportuni parametri di integrazione quali:
+   • tassonomia dei rischi comune: le relazioni delle funzioni aziendali di
+     controllo esplicitano a quali rischi della tassonomia comune sono riferite le
+     risultanze delle proprie analisi;
+   • albero dei processi comune: le relazioni delle funzioni di controllo
+     esplicitano a quali processi dell’alberatura comune sono riferite le risultanze
+     delle proprie analisi;
+   • scala di valutazione comune: le relazioni delle funzioni di controllo, laddove
+     presentino giudizi di sintesi qualitativi circa il livello di criticità delle proprie
+     risultanze o circa il livello di rischio residuo per gli ambiti di competenza,
+     utilizzano scale di valutazione coerenti con la scala di valutazione comune.
+   Nell’ambito della reportistica è utile distinguere tra la rendicontazione nel
+   continuo, ovvero i report prodotti dalle funzioni di controllo in occasione
+   dell’effettuazione delle verifiche di competenza e la rendicontazione periodica
+   di sintesi, quali ad esempio relazioni obbligatorie ai sensi della normativa di
+   vigilanza e Tableau de Bord delle criticità.
+   In particolare, la reportistica nel continuo deve declinare gli obiettivi dell’attività
+   di controllo – di qualsiasi livello – e le raccomandazioni utili per la gestione della
+   situazione rilevata.
+   Un report adeguato deve, quindi, essere in grado di identificare e pesare la
+   situazione rilevata e di confrontarla con la situazione attesa, anche in termini
+   prospettici, identificandone le carenze ed i relativi rischi a cui la banca è esposta.
+   Nel confronto occorre considerare:
+   • Criteri: il “benchmark” o la condizione attesa, che rappresenta la situazione
+     “come dovrebbe essere”;
+   • Condizione: le evidenze fattuali riscontrate rispetto ai criteri;
+   • Causa: le ragioni per le quali la situazione rilevata è diversa rispetto alla
+50
+
+   condizione attesa;
+• Effetti: l’impatto della “non conformità”, ovvero il rischio a cui
+   l’organizzazione è esposta in base alla differenza tra situazione rilevata e
+   situazione attesa. Nell’esame degli effetti della non conformità occorre
+   rifarsi ad una scala/matrice dei rischi. Dall’identificazione del livello di
+   rischio e dalle azioni di mitigazione richieste deriva la scelta dei destinatari,
+   all’interno dell’organizzazione, cui indirizzare la comunicazione e le relative
+   raccomandazioni.
+I destinatari individuati – e così “ingaggiati” tramite il reporting – costituiscono,
+quindi, gli interlocutori della funzione di controllo relativamente ai rischi/carenze
+rendicontati e devono collocarsi ad un livello adeguato dell’organizzazione
+in rapporto alla criticità rilevata per assicurare la realizzazione delle
+raccomandazioni e dei piani d’azione: solo in questo modo, infatti, il reporting
+può divenire uno strumento per la mitigazione dei rischi.
+Il management e gli organi aziendali devono essere informati attraverso:
+• report (anche di sintesi) nel caso di interventi che evidenzino un elevato
+   rischio creditizio;
+• informative relative ad interventi su attività rilevanti di indagine e/o con
+   responsabilità di dipendenti in merito alle cosiddette fenomenologie
+   “boundary”;
+• strumenti di reporting periodici quali il Tableau de Bord.
+In conclusione, gli obiettivi sostanziali sono:
+• l’invio di informazioni tempestive al Senior Management/Organi aziendali in
+   presenza di situazioni di particolare gravità;
+• la presentazione da parte delle funzioni aziendali di controllo agli Organi
+   Aziendali di relazioni periodiche (almeno annuali) confrontabili/comparabili in
+   ordine alle verifiche effettuate, ai risultati emersi, ai punti di debolezza ed alle
+   proposte per il superamento delle criticità;
+• la presentazione semestrale da parte delle funzioni aziendali di controllo
+   all’Organismo di Vigilanza ex D.lgs. 231/2001 della relazione sull’attività svolta
+   che illustra le verifiche effettuate, i risultati emersi, i punti di debolezza rilevati
+   e le proposte di intervento per la loro rimozione;
+• la predisposizione annuale da parte delle funzioni di controllo – per gli
+   aspetti di competenza – dell’informativa in ordine alla completezza,
+   adeguatezza, funzionamento e affidabilità del Sistema dei Controlli interni.
+7.1       Minimo set di reporting inerenti crediti
+Nel più ampio contesto sopra descritto e secondo regole ben definite di
+“risk data aggregation”, per quanto oggetto di specifica trattazione in questo
+paper, si ritiene che la RMF debba prevedere l’elaborazione e conseguente
+produzione di reportistica afferente al rischio creditizio, con frequenza regolare e
+                                                                                           51
+
+   prestabilita. Opportuno peraltro che la RMF sia anche nella condizione tecnico-
+   operativa di rispondere a specifiche ed estemporanee richieste di reportistica,
+   che possono pervenire dagli Organi aziendali, dal Senior management o dalle
+   Autorità di Vigilanza.
+   Come principio di carattere generale, la reportistica prodotta dovrebbe
+   consentire:
+   • di rappresentare fenomeni di scostamento rispetto alle politiche di governo e
+     gestione del rischio di credito definite nell’ambito del Risk Appetite;
+   • di trarre chiara evidenza delle raccomandazioni formulate per la messa in
+     pratica di azioni correttive ritenute appropriate;
+   • di evidenziarne la loro evoluzione ed efficacia risolutiva nel tempo;  
+   • di apprezzare le performance del portafoglio crediti potendo incrociare viste
+     diverse, ad esempio:
+      – ambiti geografici/territoriali,
+      – settoriali (segmenti di clientela, settori produttivi, etc.),
+      – driver di rischio (indicatori di crescita e rischio),
+      – concentrazioni di rischio su gruppi giuridici e/o economici,
+      – operazioni con parti correlate,
+      – andamento dei crediti deteriorati unitamente alla corrispondente
+         copertura;
+   • di informare tempestivamente i vertici aziendali in caso di eventi rilevanti
+     emersi nel corso dei controlli.
+   7.2     Il Tableau de Bord (TdB)
+   Nell’ambito della reportistica periodica di sintesi il ruolo del TdB sta assumendo
+   sempre maggiore rilevanza in quanto costituisce l’esito di un processo di
+   integrazione tra i livelli di controllo che riporta le evidenze rilevanti. Lo scopo è
+   duplice: da un lato ingaggiare gli Organi Aziendali e dall’altro permettere ai livelli
+   di controllo di pianificare le proprie attività ed essere essi stessi impegnati nel
+   seguire la realizzazione degli interventi di mitigazione attivando ove opportuno
+   anche azioni di follow up.
+   Definire un processo di reporting opportunamente basato sul TdB Integrato
+   pone dunque alcune attenzioni:
+   • Governance: il processo di reporting deve avere una governance chiara e un
+     unico responsabile;
+   • Integrazione delle informazioni: il Tableau de Bord non rappresenta
+     la mera aggregazione dei report di funzione, ma costituisce un unicum
+     strutturato per gli Organi Aziendali e la Vigilanza;
+52
+
+• Selezione dei contenuti: le fonti informative con cui redigere il TdB devono
+  essere selezionate con regole/criteri prestabiliti così da rispettare il criterio di
+  rilevanza;  
+• Disponibilità delle informazioni: ricercare la sincronia tra le varie funzioni
+  nella messa a disposizione delle informazioni.
+Pertanto è necessario evitare alcuni errori comuni:
+• Reporting a silos: predisposizione di report non omogenei e non integrati
+  fra le  funzioni di controllo;
+• Scale di valutazione disomogenee: utilizzo di diverse scale di valutazione
+  per la definizione delle priorità fra le  Funzioni di Controllo;
+• Giudizi troppo sintetici: elaborazione di giudizi troppo concisi che non
+  consentono la piena comprensione delle criticità emerse;   
+• Information Overload: presentazione dei risultati delle attività svolte
+  mediante eccessive e ridondanti informazioni che non consentono di cogliere
+  le vere criticità.
+In sostanza l’IA deve promuovere il TdB Integrato nell’ottica di un Sistema di
+Controllo Interno ove i vari livelli siano indotti al continuo confronto per:
+• valorizzare la coerenza e la complementarietà delle verifiche e delle attività di
+  monitoraggio svolte;
+• assicurare una visione univoca  dei principali fattori di rischio, evitando
+  sovrapposizioni e/o lacune;
+• creare consapevolezza negli appropriati livelli e funzioni aziendali,
+  garantendo l’effettiva presa in carico dei problemi evidenziati e la
+  realizzazione dei piani di azione.
+Per quanto ovvio, ogni livello di controllo – ed in primis l’Internal Auditing
+– dovrà comunque mantenere la propria autonomia ed i punti di eventuale
+disomogeneità di giudizio, se opportunamente vagliata e ricostruita, possono
+essere essi stessi fonte di riflessione e  di sviluppo della rispettiva analisi dei
+rischi.
+In particolare, per l’IA dovrà essere garantita la dovuta autonomia/separatezza
+relazionale rispetto all’OFSS in linea con le limitazioni dovute alla presenza di
+informazioni sensibili e non divulgabili.
+Per lo sviluppo dei flussi informativi ed in una logica d’integrazione, diventa
+fondamentale disporre di basi dati informatiche comuni e prevedere altresì, in
+ottica prospettica, la predisposizione di strumenti integrati dopo avere adottato
+criteri univoci per la rilevazione delle criticità rilevanti.
+                                                                                       53
+
+54
+55
+via San Clemente, 1 - 20122 Milano
+Tel: +39 02 36581500
+www.aiiaweb.it
+

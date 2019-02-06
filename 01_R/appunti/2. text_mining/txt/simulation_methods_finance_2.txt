@@ -1,0 +1,1048 @@
+                       Introduction to Monte Carlo in Finance
+                                         Giovanni Della Lunga
+                                WORKSHOP IN QUANTITATIVE FINANCE
+                                      Bologna - May 3-4, 2018
+                                       Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE      to Monte Carlo in Finance
+                                                 FINANCE)                     Bologna - May 3-4, 2018 1 / 79
+
+                              Valuation of American Option
+   Outline
+    1    Valuation of American Option
+    2    The Hull and White Model
+    3    MCS for CVA Estimation
+             Definitions
+             CVA of a Plain Vanilla Swap: the Analytical Model
+             CVA of a Plain Vanilla Swap: the Simulation Approach
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 2 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+           As we have seen Monte Carlo simulation is a flexible and powerful
+           numerical method to value financial derivatives of any kind.
+           However being a forward evolving technique, it is per se not suited to
+           address the valuation of American or Bermudan options which are
+           valued in general by backwards induction.
+           Longstaff and Schwartz provide a numerically efficient method to
+           resolve this problem by what they call Least-Squares Monte Carlo.
+           The problem with Monte Carlo is that the decision to exercise an
+           American option or not is dependent on the continuation value.
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 3 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+           Consider a simulation with M + 1 points in time and I paths.
+           Given a simulated index level St,i , t <U+2208> {0, ..., T }, i <U+2208> {1, ..., I }, what is
+           the continuation value Ct,i (St,i ), i.e. the expected payoff of not
+           exercising the option?
+           The approach of Longstaff-Schwartz approximates continuation values
+           for American options in the backwards steps by an ordinary
+           least-squares regression.
+           Equipped with such approximations, the option is exercised if the
+           approximate continuation value is lower than the value of immediate
+           exercise. Otherwise it is not exercised.
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 4 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+           In order to explain the metodology, let’s start from a simpler problem.
+           Consider a bermudan option which is similar to an american option,
+           except that it can be early exercised once only on a specific set of
+           dates.
+           In the next figure, we can represent the schedule of a put bermudan
+           option with strike K and maturity in 6 years. Each year you can
+           choose whether to exercise or not ...
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 5 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 6 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+           Let’s consider a simpler example: a put option which can be exercised
+           early only once ...
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 7 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 8 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+           Can we price this product by means of a Monte Carlo? Yes we can!
+           Let’s see how.
+           Let’s implement a MC which actually simulates, besides the evolution
+           of the market, what an investor holding this option would do (clearly
+           an investor who lives in the risk neutral world). In the following
+           example we will assume the following data, S(T ) =, K =, r =, s =,
+           t1 = 1y , T = 2y .
+           We simulate that 1y has passed, computing the new value of the
+           asset and the new value of the money market account
+                                                                                    v
+                                                            (r - 12 s 2 )(t1 -t0 )+s t1 -t0 N(0,1)
+                           S(t1 = 1y ) = S(t0 )e
+                                          B(t1 = 1y ) = B(t0 )e r (t1 -t0 )
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                          Bologna - May 3-4, 2018 9 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+           At this point the investor could exercise. How does he know if it is
+           convenient?
+           In case of exercise he knows exactly the payoff he’s getting.
+           In case he continues, he knows that it is the same of having a
+           European Put Option.
+           So, in mathematical terms we have the following payoff in t1
+                                    max [K - S(t1 ), P(t1 , T ; S(t1 ), K )]
+           where P(t1 , T ; S(t1 ), K ) is the price of a Put which we compute
+           analytically!
+           In the jargon of american products, P is called the continuation value,
+           i.e. the value of holding the option instead of early exercising it.
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 10 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+           So the premium of the option is the average of this discounted payoff
+           calculated in each iteration of the Monte Carlo procedure.
+                              1 X
+                                         max [K - Si (t1 ), P(t1 , T ; Si (t1 ), K )]
+                              N
+                                    i
+           Some considerations are in order.
+           We could have priced this product because we have an analytical
+           pricing formula for the put. What if we didn’t have it?
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 11 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+           Brute force solution: for each realization of S(t1 ) we run another
+           Monte Carlo to price the put.
+           This method (called Nested Monte Carlo) is very time consuming.
+           For this very simple case it’s time of execution grows as N 2 , which
+           becomes prohibitive when you deal with more than one exercise date!
+           Let’s search for a finer solution analyzing the relationship between the
+           continuation value (in this very simple example) and the simulated
+           realization of S at step t1 .
+           let’s plot the discounted payoff at maturity, Pi , versus Si (t1 ) ...
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 12 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 13 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 14 / 79
+
+                              Valuation of American Option
+           As you can see, the analytical price of the put is a curve which kinds
+           of interpolate the cloud of Monte Carlo points.
+           This suggest us that the price at time t1 can be computed by means
+           of an average on all discounted payoff (i.e. the barycentre of the
+           cloud made of discounted payoff)
+           So maybe... the future value of an option can be seen as the problem
+           of finding the curve that best fits the cloud of discounted payoff (up
+           to date of interest)!!!
+           In the next slide, for example, there is a curve found by means of a
+           linear regression on a polynomial of 5th order...
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 15 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 16 / 79
+
+                              Valuation of American Option
+   Valuation of American Option by Simulation
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 17 / 79
+
+                                 Valuation of American Option
+   Valuation of American Option by Simulation
+           We now have an empirical pricing formula for the put to be used in
+           my MCS
+                P(t1 , T , S(t1 ), K ) = c0 + c1 S(t1 ) + c2 S(t1 )2 + c3 S(t1 )3 + c4 S(t1 )4 + c5 S(t1 )5
+           The formula is obviously fast, the cost of the algorithm being the best
+           fit.
+           Please note that we could have used any form for the curve (not only
+           a polynomial).
+           This method has the advantage that it can be solved as a linear
+           regression, which is fast.
+                                             Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE            to Monte Carlo in Finance
+                                                       FINANCE)                     Bologna - May 3-4, 2018 18 / 79
+
+                              Valuation of American Option
+   The Longstaff-Schwartz Algorithm
+           The major insight of Longstaff-Schwartz is to estimate the
+           continuation value Ct,i by ordinary least-squares regression, therefore
+           the name ”Least Square Monte Carlo” for their algorithm;
+           They propose to regress the I continuation values Yt,i against the I
+           simulated index levels St,i .
+           Given D basis functions b with b1 , . . . , bD : RD <U+2192> R for the
+           regression, the continuation value Ct,i is according to their approach
+           approximated by:
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 19 / 79
+
+                              Valuation of American Option
+   The Longstaff-Schwartz Algorithm
+           Given D basis functions b with b1 , . . . , bD : RD <U+2192> R for the
+           regression, the continuation value Ct,i is according to their approach
+           approximated by:
+                                                      X D
+                                                             ?
+                                          C^t,i =          ad,t  bd (St,i )      (1)
+                                                      d=1
+           The optimal regression parameters ad,t                   ? are the result of the
+           minimization
+                                                    I                  D
+                                                                                           !2
+                                              1  X                   X
+                                  min                      Yt,i -           ad,t bd (St,i )
+                             a1,t ,...,aD,t    I
+                                                 i=1                 d=1
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                     FINANCE)                        Bologna - May 3-4, 2018 20 / 79
+
+                              Valuation of American Option
+   The Longstaff-Schwartz Algorithm
+           Simulate I index level paths with M + 1 points in time leading to
+           index level values St,i , t <U+2208> {0, ..., T }, i <U+2208> {1, ..., I };
+           For t = T the option value is VT ,i = hT (ST ,i ) by arbitrage
+           Start iterating backwards t = T - <U+2206>t, . . . , <U+2206>t:
+                   regress the Tt,i against the St,i , i <U+2208> {1, . . . , I }, given D basis function b
+                   approximate Ct,i by C^t,i according to (1) given the optimal parameters
+                     ?
+                   ad,t from (2)
+                   set
+                                (
+                                   ht (St,i )         if ht (St,i ) > C^t,i exercise takes place
+                        Vt,i =
+                                   Yt,i               if ht (St,i ) = C^t,i no exercise takes place
+           repeat iteration steps until t = <U+2206>t;
+           for t = 0 calculate the LSM estimator
+                                                                          I
+                                                            -r <U+2206>t 1
+                                                                        X
+                                            V^0LSM     =e                     V<U+2206>t,i
+                                                                     I
+                                                                        i=1
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                        Bologna - May 3-4, 2018 21 / 79
+
+                              Valuation of American Option
+   Notebook
+                                                                     GitHub : polyhedron-gdl;
+                                                                     Notebook : mcs american;
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 22 / 79
+
+                                 The Hull and White Model
+   Outline
+    1    Valuation of American Option
+    2    The Hull and White Model
+    3    MCS for CVA Estimation
+             Definitions
+             CVA of a Plain Vanilla Swap: the Analytical Model
+             CVA of a Plain Vanilla Swap: the Simulation Approach
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 23 / 79
+
+                                 The Hull and White Model
+   Hull-White Model
+           Described by the SDE for the short rate
+                                           dr = (<U+03B8>(t) - ar )dt + sdw                                     (1)
+           See Brigo-Mercurio ...
+           Our version simplified: a and s constant;
+           AKA Extended Vasicek (Note: r (t) is Gaussian);
+           <U+03B8> determined uniquely by term structure;
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 24 / 79
+
+                                  The Hull and White Model
+   Hull-White Model: Solving for r(t)
+                        d(e at r ) = e at dr + ae at rdt = <U+03B8>(t)e at + e at sdw
+    integrating both sides we obtain
+                                                     Zt                          Zt
+                         e at r (t) = r (0) +            <U+03B8>(s)e as ds + s             e as dw (s)
+                                                     0                           0
+    simplify
+                                             Zt                                   Zt
+                 r (t) = r (0)e -at +             <U+03B8>(s)e -a(t-s) ds + s                e -a(t-s) dw (s)
+                                             0                                    0
+                                           Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE          to Monte Carlo in Finance
+                                                     FINANCE)                           Bologna - May 3-4, 2018 25 / 79
+
+                                 The Hull and White Model
+   Hull-White Model: Solving for P(t,T)
+           P(t, T ) = V (t, r (t)) where V solves the PDE
+                                                                     1 2
+                                Vt + (<U+03B8>(t) - ar )Vr + s Vrr - rV = 0
+                                                                     2
+           Final-time condition V (T , r ) = 1 for all r at t = T ;
+           Ansatz:
+                                             V = A(t, T )e -B(t,T )r (t)
+           A and B must satisfy:
+                                            1 2
+                      At - <U+03B8>(t)AB + s (AB)2 = 0,                          and    Bt - aB + 1 = 0
+                                            2
+           Final-time conditions
+                                    A(T , T ) = 1 and                   B(T , T ) = 0
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                       Bologna - May 3-4, 2018 26 / 79
+
+                                 The Hull and White Model
+   Hull-White Model: Solving for P(t,T)
+           B independent of <U+03B8> so
+                                                           1                    
+                                        B(t, T ) =              1 - e -a(T -t)                             (2)
+                                                           a
+           Solving for A requires integration of <U+03B8>
+                               <U+F8EE>                                                                           <U+F8F9>
+                                    ZT
+                                                                 s2                           s2
+                A(t, T ) = exp <U+F8F0>-      <U+03B8>(s)B(s, T )ds - 2 (B(t, T ) - T + t) -                   B(t, T )2 <U+F8FB>
+                                                                2a                            4a
+                                    t
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                      Bologna - May 3-4, 2018  27 / 79
+
+                                 The Hull and White Model
+   Hull-White Model: Determining <U+03B8>
+           Determining <U+03B8> from the term structure at time 0;
+           Goal: demonstrate the relation
+                                         <U+2202>f                                    s2
+                            <U+03B8>(t) =              (0, t) + af (0, t) + (1 - e -2at )                        (3)
+                                       f <U+2202>T                                    2a
+           Recall
+                                       f (t, T ) = -<U+2202> log P(t, T )/<U+2202>T
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                      Bologna - May 3-4, 2018 28 / 79
+
+                                 The Hull and White Model
+   Hull-White Model: Determining <U+03B8>
+           We have
+                               ZT
+                                                           s2                    s2
+            - log P(0, T ) =      <U+03B8>(s)B(s, T )ds + 2 [B(0, T ) - T ] +               B(0, T )2 + B(0, T )r0
+                                                           2a                    4a
+                               0
+           Differentiating and using that B(T , T ) = 1 and <U+2202>T B - 1 = -aB we
+           get
+                        ZT
+                                                      s2                 s2
+           f (0, T ) =     <U+03B8>(s)<U+2202>T B(s, T )ds - 2 B(0, T )+ 2 B(0, T )<U+2202>T B(0, T )+<U+2202>T B(0, T )r0
+                                                     2a                 2a
+                        0
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 29 / 79
+
+                                 The Hull and White Model
+   Hull-White Model: Determining <U+03B8>
+           Differentiating again, get:
+                                                       ZT
+                       <U+2202>T f (0, T ) = <U+03B8>(T ) +              <U+03B8>(s)<U+2202>TT B(s, T )ds
+                                                        0
+                                           s2
+                                     - 2 <U+2202>T B(0, T )                                                     (4)
+                                         2a
+                                           s2
+                                     + 2 [(<U+2202>T B(0, T ))2 + B(0, T )<U+2202>TT B(0, T )]
+                                         2a
+                                     + <U+2202>TT B(0, T )r0
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                     Bologna - May 3-4, 2018 30 / 79
+
+                                 The Hull and White Model
+   Hull-White Model: Determining <U+03B8>
+           Combine these equations, and use a<U+2202>T B + <U+2202>TT B = 0;
+           Get:
+                                                     s2                       s2
+           af (0, T ) + <U+2202>T f (0, T ) = <U+03B8>(T ) -           (aB + <U+2202>T B) +            [aB<U+2202>T B + (<U+2202>T B)2 + B<U+2202>TT B]
+                                                     2a                       2a
+           Substitute formula for B and simplify to get
+                                                                                s2
+                           af (0, T ) + <U+2202>T f (0, T ) = <U+03B8>(T ) - (1 - e -2aT )
+                                                                                 2a
+           QED
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                          Bologna - May 3-4, 2018 31 / 79
+
+                                 The Hull and White Model
+   Additive Factor Gaussian Model
+           The model is given by dynamics (Brigo-Mercurio p. 143):
+                                                 r (t) = x(t) + f(t)
+           where
+                                 dx(t) = -ax(t)dt + sdWt                         x(0) = 0
+           and f is a deterministic shift which is added in order to fit exactly the
+           initial zero coupon curve
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                        Bologna - May 3-4, 2018 32 / 79
+
+                                 The Hull and White Model
+   Additive Factor Gaussian Model
+           So the short rate r (t) is distributed normally with mean and variance
+           given by (Brigo-Mercurio p.144 equations 4.6 with <U+03B7> = 0)
+                                      E (rt |rs ) = x(s)e -a(t-s) + f(t)
+                                                           s2                        
+                                     Var (rt |rs ) =               1 - e -2a(t-s)
+                                                            2a
+                                  M                  s2            -aT
+                                                                          2
+           where f(T ) = f (0, T ) + 2a 1 - e                                  and f M (0, T ) is the
+           market instantaneous forward rate at time t as seen at time 0.
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                         Bologna - May 3-4, 2018 33 / 79
+
+                                 The Hull and White Model
+   Additive Factor Gaussian Model
+           Model discount factors are calculated as in Brigo-Mercurio (section
+           4.2):
+                                                       P M (0, T )
+                                   P(t, T ) = M                         exp (A(t, T ))
+                                                        P (0, t)
+                              1                                                      1 - e -a(T -t)
+                 A(t, T ) = [V (t, T ) - V (0, T ) + V (0, t)] -                                          x(t)
+                              2                                                               a
+           where
+                                     2
+                                                                                                         
+                                   s                      2                      1                     3
+                     V (t, T ) = 2 T - t + e -a(T -t) - e -2a(T -t) -
+                                   a                      a                      2a                  2a
+                                          Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE         to Monte Carlo in Finance
+                                                    FINANCE)                        Bologna - May 3-4, 2018   34 / 79
+
+                                  MCS for CVA Estimation
+   Outline
+    1    Valuation of American Option
+    2    The Hull and White Model
+    3    MCS for CVA Estimation
+             Definitions
+             CVA of a Plain Vanilla Swap: the Analytical Model
+             CVA of a Plain Vanilla Swap: the Simulation Approach
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 35 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Counterparty Risk
+           In general a given company, say a financial institution A, will have
+           portfolios with many other counterparties, varying among sovereign
+           entities, corporates, hedge funds, insurance companies;
+           Counterparty credit exposure is the amount a company, say A, could
+           potentially lose in the event of one of its counterparties defaulting.
+           As we’ll see in more details, it can be computed by simulating in
+           different scenarios and at different times in the future, the price of the
+           transactions with the given counterparty, and then by using some
+           chosen statistic to characterise the price distributions that have been
+           generated.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 36 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   CVA Context
+           Counterparty risk can be considered broadly from two different points
+           of view;
+           The first point of view is risk management, leading to capital
+           requirements revision, trading limits discussions and so on;
+           The second point of view is valuation or pricing, leading to amounts
+           called Credit Valuation Adjustment (CVA) and extensions thereof,
+           including netting, collateral, re-hypothecation, close-out specification,
+           wrong way risk and funding cost;
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 37 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Example: CVA of plain vanilla Interest-Rate Swap
+           Consider counterparties A and B who enter into an interest-rate swap
+           where A receives every six months the 6-month Libor rate on a
+           notional of 100 million euro, while paying to B a fixed amount equal
+           to the par 10-year swap rate on the same notional observed at
+           inception.
+           This is a typical swap contract with value zero at inception.
+           As time passes and market conditions change, the value of the swap
+           changes accordingly. Thus, if the swap rate decreases (resp.
+           increases), the transaction will be out of the money (resp. in the
+           money) as seen from A’s point of view.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 38 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Example: CVA of plain vanilla Interest-Rate Swap
+           Therefore, if B were to default at a point in the life of the trade when
+           swap rates had increased, then A would need to replace in the
+           market—at higher cost than the fixed amount being paid to B—the
+           floating cashflows promised and not delivered by B.
+           To compute the credit exposure for the swap, we would need to
+           estimate the values the swap could take in different market scenarios
+           at points in the future.
+           For practical reason it can be useful to characterise the distribution of
+           values with some quantity which can be useful for various risk
+           controlling;
+           For example we could compute the so called Expected Positive
+           Exposure (more in the following) as
+                                                   EPEt = E[Vt+ ]
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 39 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Exposure Profile: EPE
+           Figure shows the EPE of the swap price distribution, over its entire
+           life, as seen from party A’s point of view.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 40 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Exposure Profile: Value Density
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 41 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Exposure Profile
+                                                                   Figure shows the full price
+                                                                   distribution over time.
+                                                                   The fair value for the swap, and
+                                                                   this must therefore have value
+                                                                   (and hence exposure level)
+                                                                   identically equal to zero at
+                                                                   inception.
+                                                                   Similarly, towards the end of the
+                                                                   transaction, when all payments
+                                                                   but one due under the swap
+                                                                   have been paid, the exposure
+                                                                   remaining is that from only a
+                                                                   single coupon exchange.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                      Bologna - May 3-4, 2018 42 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Exposure Profile
+                                                                   This explains what happens at the
+                                                                   right end of the profile.
+                                                                   At intermediate times, the shape of
+                                                                   the profile is the result of opposing
+                                                                   effects.
+                                                                   On the one hand, as the interest rates
+                                                                   underlying the swap diffuse, there is
+                                                                   more variability in the realised Libor
+                                                                   rates, potentially leading to higher
+                                                                   exposure.
+                                                                   On the other hand, as time evolves
+                                                                   there are fewer payments remaining
+                                                                   under the swap, and this mitigates the
+                                                                   effect of diffusing rates.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                         Bologna - May 3-4, 2018 43 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Exposure Profiles
+           So there are two main effects that determine the credit exposure over
+           time for a single transaction or for a portfolio of transactions with the
+           same counterparty: diffusion and amortization;
+           as time passes, the ”diffusion effect” tends to increase the exposure,
+           since there is greater variability and, hence, greater potential for
+           market price factors to move significantly away fro current levels;
+           the ”amortization effect”, in contrast, tends to decrease the exposure
+           over time, because it reduces the remaining cash flows that are
+           exposed to default;
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 44 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Exposure Profiles
+           For single cash flow products, such as FX Forwards, the potential
+           exposure peaks at the maturity of the transaction, because it is driven
+           purely by ”diffusion effect”;
+           on the other hand, for products with multiple cash flows, such as
+           interest-rate swaps, the potential exposure usually peaks at one-third
+           to one-half of the way into the life of the transaction;
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 45 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Credit Value Adjustment
+           Credit Value Adjustment (CVA) is by definition the difference
+           between the risk-free portfolio value and the true portfolio value that
+           takes into account the possibility of a counterparty’s default;
+           in other words CVA is the market value of counterparty credit risk;
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 46 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Credit Value Adjustment
+           Assuming independence between exposure and counterparty’s credit
+           quality greatly simplifies the analysis.
+           under this assumption we can write
+                                                           ZT
+                                   CVA = (1 - R)                EE ? (t)dPD(0, t)                        (5)
+                                                           0
+           where EE ? (t) is the risk-neutral discounted expected exposure (EE)
+           given by                                                           
+                                                ?             Q B0
+                                           EE (t) = E                     E (t)                          (6)
+                                                                     Bt
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                       Bologna - May 3-4, 2018 47 / 79
+
+                                  MCS for CVA Estimation    Definitions
+   Credit Value Adjustment
+           In general calculating discounted EE requires simulations;
+           Exposure is simulated at a fixed set of simulation dates, therefore the
+           integral in (5) has to be approximated by the sum:
+                                                        XN
+                               CVA = (1 - R)                  EE ? (tk )PD(tk-1 , tk )                 (7)
+                                                        i=1
+           Since expectation in (6) is risk-neutral, scenario models for all price
+           factors should be arbitrage free;
+           This is achieved by appropriate calibration of drifts and volatilities
+           specified in the price-factor evolution model;
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                     Bologna - May 3-4, 2018 48 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   The General Unilateral Counterparty Risk Pricing Formula
+           At valuation time t, and provided the counterparty has not defaulted
+           before t, i.e. on {t > t}, the price of our payoff with maturity T
+           under counterparty risk is
+              Et [<U+03A0>¯(t, T )] = Et [<U+03A0>(t, T )] - Et [LGD It=t =T D(t, t )(NPV (t ))+ ]
+                                                        |                         {z                          }
+                                                            positive counterparty-risk adjustment               (8)
+                             = Et [<U+03A0>(t, T )] - UCVA (t, T )
+           with
+                          UCVA (t, T ) = Et [LGD It=t =T D(t, t )(NPV (t ))+ ]
+                                                                                                                (9)
+                                          = Et [LGD It=t =T D(t, t )EAD]
+           Where LGD = 1 - REC is the loss given default, and the recovery
+           fraction REC is assumed to be deterministic.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018    49 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   The General Unilateral Counterparty Risk Pricing Formula
+           It is clear that the value of a defaultable claim is the sum of the value
+           of the corresponding default-free claim minus a positive adjustment.
+           The positive adjustment to be subtracted is called (Unilateral) Credit
+           Valuation Adjustment (CVA), and it is given by a call option (with
+           zero strike) on the residual NPV at default, giving nonzero
+           contribution only in scenario where t = T .
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018  50 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   The General Unilateral Counterparty Risk Pricing Formula
+           Counterparty risk thus adds and optionality level to the original payoff.
+           This renders the counterparty risk payoff model dependent even when
+           the original payoff is model independent.
+           This implies, for example, that while the valuation of swaps without
+           counterparty risk is model independent, requiring no dynamical model
+           for the term structure (no volatility and correlations in particular), the
+           valuation of swaps under counterpaty risk will require and interest
+           rate model.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018  51 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   The General Unilateral Counterparty Risk Pricing Formula
+           Now we explore the well known result that the component of the IRS
+           price due to counterparty risk is the sum of swaption prices with
+           different maturities, each weighted with the probability of defaulting
+           around that maturity.
+           Let us suppose that we are a default free counterparty ”B” entering a
+           payer swap with a defaultable counterparty ”C”, exchanging fixed for
+           floating payments at times Ta+1 , . . . , Tb .
+           Denote by ßi the year fraction between Ti-1 and Ti , and by P(t, Ti )
+           the default-free zero coupon bond price at time t for maturity Ti . We
+           take a unit notional on the swap.
+           The contract requires us to pay a fixed rate K and to receive the
+           floating rate L resetting one period earlier until the default time t of
+           ”B” or until final maturity T if t > T .
+           The fair forward-swap rate K at a given time t in a default-free
+           market is the one which renders the swap zero-valued in t.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018  52 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   The General Unilateral Counterparty Risk Pricing Formula
+           In the risk-free case the discounted payoff for a payer IRS is
+                                    X b
+                                             D(t, Ti )ßi (L(Ti-1 , Ti ) - K )                                 (10)
+                                   i=a+1
+           and the forward swap rate rendering the contract fair is
+                                                                        P(t, Ta ) - P(t, Tb )
+                         K = S(t; Ta , Tb ) = Sa,b (t) =                       b
+                                                                             P
+                                                                                    P(t, Ti )ßi
+                                                                           i=a+1
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018   53 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   The General Unilateral Counterparty Risk Pricing Formula
+           Of course if we consider the possibility that ”C” may default, the
+           correct spread to be paid in the fixed leg is lower as we are willing to
+           be rewarded for bearing this default risk.
+           In particular we have
+            UCVA (t, Tb ) = LGD Et [It =Tb D(t, t )(NPV (t ))+ ]
+                                        ZTb
+                            = LGD            PS (t; s, Tb , K , S(t; s, Tb ), ss,Tb ) ds Q{t = s}
+                                       Ta
+                                                                                                              (11)
+           being PS (t; s, Tb , K , S(t; s, Tb ), ss,Tb ) the price in t of a swaption
+           with maturity s, strike K underlying forward swap rate S(t; s, Tb ),
+           volatility ss,Tb and underlying swap with final maturity Tb .
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018   54 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   The General Unilateral Counterparty Risk Pricing Formula
+           The proof is the following: given independence between t and the
+           interest rates, and given that the residual NPV is a forward start IRS
+           starting at the default time, the option on the residual NPV is a sum
+           of swaptions with maturities ranging the possible values of the default
+           time, each weighted (thanks to the independence assumption) by the
+           probabilities of defaulting around each time value.
+           We can simplify formulas allow the default to happen only at points
+           Ti of the fixed leg payment grid.
+           In this way the expected loss part is simplified.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018  55 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   The General Unilateral Counterparty Risk Pricing Formula
+           Indeed in the case of postponed (default occour to the first Ti
+           following t ) payoff we obtain:
+           UCVA (t, Tb ) = LGD Et [It =Tb D(t, t )(NPV (t ))+ ]
+                                    b-1
+                                    X
+                          = LGD          PS (t; s, Tb , K , S(t; s, Tb ), ss,Tb ) (Q{t = Ti } - Q{t > Ti })
+                                   i=a+1
+                                                                                                              (12)
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018   56 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Analytical Model
+   Notebook
+                                                                   GitHub : polyhedron-gdl;
+                                                                   Notebook : n09 cva swap;
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018  57 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   Monte Carlo Framework for CVA
+    The industry practice to compute exposure is to use a simple Monte Carlo
+    framework implemented in three steps:
+       1   scenario generation,
+       2   pricing
+       3   aggregation.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     58 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   Monte Carlo Framework for CVA
+           The first step involves generating scenarios of the underlying risk
+           factors at future points in time.
+           Simple products can then be priced on each scenario and each time
+           step, therefore generating empirical price distributions.
+           From the price distribution at each time it is then possible to extract
+           convenient statistical quantities.
+           Exposure of portfolios can be computed by consistently pricing
+           different products on the same underlying scenarios and aggregating
+           the results taking into account possible netting and collateral
+           agreement with the counterparty.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     59 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   Monte Carlo Framework for CVA
+           If taken literally, this approach works only for relatively simple
+           products which can be priced analytically, or which can be
+           approximated in analytical form, and which do not need complex
+           calibrations depending on market scenarios.
+           More exotic products requiring relatively complex pricing, cannot be
+           treated in this way.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     60 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   CVA of a Plain Vanilla Swap: the Simulation Approach
+       1   Simulate yield curve at future dates
+       2   Calculate your derivatives portfolio NPV (net present value) at each
+           time point for each scenario
+       3   Calculate CVA as sum of Expected Exposure multiplied by probability
+           of default at this interval
+                                                            Z
+                                   CVA = (1 - R) DF (t)EE (t)dQt
+           where R is the Recovery Rate (normally set to 40%) EE (t) is the
+           expected exposure at time t and dQt the survival probability density,
+           DF (t) is the discount factor at time t.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     61 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   CVA of a Plain Vanilla Swap: the Simulation Approach
+           In this simple example we will use a modified version of Hull White
+           model to generate future yield curves. In practice many banks use
+           some yield curve evolution models based on this model.
+           For each point of time we will generate whole yield curve based on
+           short rate. Then we will price our interest rate swap on each of these
+           curves;
+           To approximate CVA we will use BASEL III formula for regulatory
+           capital charge approximating default probability [or survival
+           probability ] as exp(-ST /(1 - R)) so we get
+                                  X EE (Ti )? + EE (Ti-1       ?    
+                                                                         -S(Ti-1 )/(1-R)       -S(Ti )/(1-R)
+                                                                                                               
+                  CVA = (1 - R)                                        e                  -e
+                                    i
+                                                     2
+           where EE ? is the discounted Expected Exposure of portfolio.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     62 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   CVA of a Plain Vanilla Swap: the Simulation Approach
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     63 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   Notebook
+                                                                   GitHub : polyhedron-gdl;
+                                                                   Notebook :
+                                                                   n10 mcs cva swap;
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     64 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   Implementation Challenges
+           The Monte Carlo framework we have shown in the previous section,
+           seems to give a good implementation recipe.
+           For a given portfolio of transactions we could identify the underlying
+           risk factors and simulate forward (or spot) prices, taking into account
+           correlations if required, use functions already implemented to price
+           each product, and then derive statistical quantities.
+           As we have mentioned already, this could be the approach followed by
+           a financial institution to assess the counterparty credit risk of its OTC
+           derivatives portfolios.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     65 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   Implementation Challenges
+           In the implementation phase, however, there can be issues which need
+           to be addressed.
+           The generation of correlated scenarios is not trivial, as there can be
+           thousands of different risk factors driving the dynamics of products in
+           the portfolio.
+           Consider for example an equity portfolio, where each underlying stock
+           needs, at least in principle, a specific simulation.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     66 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   Implementation Challenges
+           Not all products can be computed in analytical form.
+           Most exotics are priced on grids using PDEs or using Monte Carlo
+           approaches.
+           In these cases the exposure computation would require a Monte Carlo
+           simulation for scenarios and a Monte Carlo simulation, or a PDE
+           computation, for each scenario and time step to price the instrument.
+           This becomes quickly unfeasible from a computational point of view.
+           In addition, depending on the model used for pricing, calibration could
+           also become problematic, as it has to be performed at each scenario.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     67 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   American Monte Carlo
+           The points highlighted in the previous section clearly show that the
+           classical Monte Carlo scheme has intrinsic limitations and that we
+           need an alternative approach.
+           There are possibilities to circumvent in a systematic way some of the
+           problems related to valuation and architecture.
+           The basic idea is to approach the counterparty exposure problem as a
+           pricing problem, and thus to use pricing algorithms, which generate
+           not just the value of a trade at inception, but rather a price
+           distribution at predetermined time steps.
+           One possibility is to use the so called American Monte Carlo
+           algorithm, which we will refer to as, simply, the AMC algorithm.
+           The main feature of this algorithm is that, instead of building a price
+           moving forward in time, it starts from maturity, where the value of
+           the transaction is known, and goes backwards, till the inception.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     68 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           Let’s illustrate with a Bermuda Swaption which can be exercised at 2 dates, T1 and T2.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     69 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           Forward Phase: we diffuse risk factors and store in memory contract cash flows and payoff
+           variables as the will be used in the Backward Phase.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     70 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           Backward Phase: we discount payoff contract and add cash flows up to T2.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     71 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           Backward Phase: At T2 we obtain a cloud of points...
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     72 / 79
+
+                                   MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           ... regression is performed to obtain product fair value at T2 as a function of regression
+           basis.
+                                         Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE        to Monte Carlo in Finance
+                                                   FINANCE)                           Bologna - May 3-4, 2018     73 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           We discount to T1 obtaining a cloud of points (adding present cash flow from forward
+           phase).
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     74 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           Regression is performed at T1 as a function of regression basis.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     75 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           Forward Phase: we then move forward again and invoke regression functions with the new
+           set of MC paths ...
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     76 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+           We can compute distribution of MTMs, exposure, EPE, PFE, etc...
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     77 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   AMC CVA Simulation
+    Recap
+           Important Remark: In Phase 3, MC diffusion can be different from
+           Phase 1.
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     78 / 79
+
+                                  MCS for CVA Estimation    CVA of a Plain Vanilla Swap: the Simulation Approach
+   Credits
+           Damiano Brigo, Fabio Mercurio ”Interest Rate Models — Theory and
+           Practice” Springer Finance (2006)
+           Damiano Brigo, Massimo Morini, Andrea Pallavicini ”Counterparty
+           Credit Risk, Collateral and Funding” Wiley Finance (2013)
+           Umberto Cherubini, Elisa Luciano, Walter Vecchiato ”Copula
+           Methods in Finance” Wiley Finance (2004)
+           Tommaso Gabbriellini ”American Options with Monte Carlo”
+           Presentation on Slideshare
+           Yves Hilpisch ”Derivatives Analytics with Python” Wiley Finance
+           (2015)
+           Don L. McLeish ”Monte Carlo Simulation and Finance” Wiley
+           Finance (2005)
+                                        Introduction
+Giovanni Della Lunga (WORKSHOP IN QUANTITATIVE       to Monte Carlo in Finance
+                                                  FINANCE)                           Bologna - May 3-4, 2018     79 / 79
+

@@ -1,0 +1,1344 @@
+      REPORT ON RISK CALCULATION MODELS IN MPS
+Preparato da:                                                         Approvato da:
+       Joana Curri                                                           Mario Turla
+                           Registro e Storia delle Revisioni
+ Rev.       Data    Sezioni                     Descrizione                     Emiss./Appr.
+  0       28 .11.18  Tutte                  Prima emissione                      Curri/Turla
+                                      TXT RISK SOLUTIONS SRL
+                        Via Frigia 27 20126 Milano - Web: www.txtgroup.com
+
+Sommario
+1.  PREMESSA ED OBBIETTIVO DEL DOCUMENTO ................................................................... 3
+2. AMBITI DI APPLICAZIONE ................................................................................................... 3
+3.  METODOLOGIA ADOTTATA .............................................................................................. 4
+    3.1 CLUSTER ............................................................................................................................................... 4
+    3.2 REA ....................................................................................................................................................... 6
+    3.3 PRATICHE ............................................................................................................................................. 6
+    3.4 GENERAZIONE AUTOMATICA DELLA PRATICA DI SOS ......................................................................... 7
+    3.5 GENERAZIONE MANUALE DELLA SOS .................................................................................................. 7
+4.  TEORIA BAYESIANA ......................................................................................................... 8
+5.  CREAZIONE MODELLO ..................................................................................................... 8
+6.  AFFIDABILITÀ DEI MODELLI DI RISCHIO APPLICATI ........................................................ 10
+    6.1 AZIENDE CHE VINCONO APPALTI CON E SENZA CIG .............................................................. 10
+    6.2 CONCESSIONARIE DI APPALTI .................................................................................................... 13
+    6.3 DIPENDENTI PUBBLICI ................................................................................................................. 15
+    6.4 FINANZA ISLAMICA ........................................................................................................................ 17
+    6.5 FONDAZIONE ISLAMICA ............................................................................................................... 19
+    6.6 HAWALLA ......................................................................................................................................... 21
+    6.7 CARITÀ ISLAMICA .......................................................................................................................... 23
+    6.8 GENERICO ....................................................................................................................................... 24
+    6.9 RICICLAGGIO .................................................................................................................................. 27
+7.  VALUTAZIONE FINALE.................................................................................................... 28
+8.  REGOLE EVIDENZE ANOMALIA........................................................................................ 29
+9.  WORKFLOW DI LAVORAZIONE........................................................................................ 39
+10. GLOSSARIO DEI TERMINI UTILIZZATI ............................................................................. 40
+                                                                                                                                                                    2
+
+ 1. PREMESSA ED OBBIETTIVO DEL DOCUMENTO
+L’oggetto di analisi preso in considerazione è il rischio reale, in particolare quello di riciclaggio
+di denaro, di finanziamento al terrorismo e di corruzione.
+La strada che è stata seguita per prevenire le diverse classi di rischio sul finanziamento al
+terrorismo e corruzione è indubbiamente quella probabilistica, per via dell’aleatorietà del
+rischio stesso, essendo quest’ultimo una situazione che non rispetta i principi fondamentali
+di tracciabilità e trasparenza.
+Il processo di modellizzazione prevede la creazione di modelli, ossia l’elaborazione dei dati
+attraverso l’adattamento di modelli statistici, che nel nostro ambito sono caratterizzati da
+fenomeni probabilistici.
+Ma non è da escludere un percorso di tipo deterministico, in quanto sono presenti un numero
+totale di variabili che portano il rischio direttamente ad alto, qualora è presente una
+determinata categoria nelle variabili.
+Infatti, in seguito ad un’analisi dei dati, è stato ritenuto opportuno ampliare il numero di
+modelli probabilistici, ovvero non focalizzare più l’attenzione solo sui due macro gruppi, quali
+corruzione e terrorismo, ma approfondire l’analisi in più sotto ambiti, al fine di migliorarne
+l’affidabilità.
+2. AMBITI DI APPLICAZIONE
+Di seguito sono riportati gli ambiti oggetto di studio e i relativi sotto ambiti ai quali sono stati
+applicate le tecniche statistiche probabilistiche con fini previsivi.
+     1. CORRUZIONE
+        1.1 Aziende che vincono appalti con e senza CIG
+          1.2 Concessionarie di appalti
+        1.3 Dipendenti Pubblici
+     2. TERRORISMO
+        2.1 Finanza islamica
+        2.2 Fondazione islamica
+        2.3 Hawalla
+        2.4 Carità
+     3. RICICLAGGIO:
+          3.2 Società opache
+          3.3 Bonifici per cassa
+          3.4 Contanti
+     4. GENERICO
+                                                                                                    3
+
+     3. METODOLOGIA ADOTTATA
+Ciascun rischio è stato classificato per ambito di competenza:
+     1. Corruzione;
+     2. Finanziamento al terrorismo;
+     3. Riciclaggio.
+Per ciascun ambito sono stati individuati i principali sotto ambiti a cui viene applicato uno
+specifico modello probabilistico affinché siano prodotte previsioni di rischio adeguate alle
+singole specificità ed alle etichette di classe.
+L’applicazione di un solo modello di rischio comune a tuti i sotto ambiti, come definiti sopra,
+non sarebbe rappresentativo in quanto un modello probabilistico “generico, teso ad
+identificare per esempio il rischio connesso al finanziamento del terrorismo (ambito), non
+consentirebbe di classificare correttamente eventi (sotto ambiti) diversi quali hawalla e la
+carità islamica, che hanno caratteristiche simili ma fenomenologie diverse pur in presenza
+dei medesimi attributi.
+Infatti, il modello relativo al sotto ambito “carità islamica” sarà caratterizzato da rischio alto
+qualora taluni attributi (p.e. operazioni di importo relativamente basso) , mentre gli stessi
+valori assumono nel modello relativo alla “Hawalla” riporterà un rischio di livello minore.
+Dunque il motivo per il quale è stato costruito un modello probabilistico distinto per ogni
+sotto ambito, è rilevante in quanto questo problema non viene minimizzato con un solo
+modello generico, ma è stata apportata una metodologia più raffinata ottimizzando
+l’affidabilità delle singole classificazioni.
+3.1 CLUSTER
+L’oggetto principale all’interno di Faraday è il Cluster.
+     1. Il cluster, è un insieme di NODI collegati tra di loro da archi orientati (ovvero con
+        un verso) detti RELAZIONI.
+                                                                                                 4
+
+2. I nodi del cluster rappresentano:
+<U+25AA> soggetti clienti dell’organizzazione, ovvero che intrattengono un rapporto con la
+    stessa
+<U+25AA> soggetti esterni all’organizzazione. (ad esempio un soggetto non cliente che
+    detiene una relazione economica con un cliente di una Banca.)
+3. Esiste un NODO/SOGGETTO particolare detto VERTICE da cui derivano le
+    RELAZIONI (dirette o indirette) con altri NODI.
+4. Il vertice viene individuato dal Modulo Risk Manager o direttamente dallo User
+    tramite la funzione Cluster on Demand.
+5. Il Vertice del cluster è il soggetto considerato rischioso rispetto ad un ambito e ad
+    un sottoambito di rischio. (Es: Corruzione / Dipendenti pubblici). Da ciò ne derive
+    che un cluster ha associato un Ambito e un SottoAmbito di rischio.
+6. Lo stesso soggetto vertice può esserlo per cluster di Ambiti e/o sottoambiti
+    differenti
+7. una relazione R è individuata da una coppia di nodi (A, B) e viene indicata come A
+    => B o R (A, B)
+8. una relazione ha un verso cioè R (B, A) è l’inverso di R (A, B) ad esempio:
+a. se R (A, B) significa A è tutore di B allora R (B, A) è il suo inverso B è tutelato da A
+b. la relazione può essere riflessiva (cappio), ovvero A => A (es: A preleva contante)
+    e rappresentata da una freccia che esce e rientra nello stesso nodo.
+9.  una relazione è caratterizzata da:
+a.  Categoria (Statica/ Dinamica)
+b.  Tipo ( cointestazione, delega, etc.)
+c.  Attributi (m) - esempio (conto di cointestazione, o conto su cui insiste la delega)
+10. La Categoria di una relazione può essere alternativamente:
+<U+25AA>   statica: ovvero derivante da ruoli o legami “definiti” tra di essi (es: co-intestatari di
+    conto, o di una polizza assicurativa, di un mutuo, delegati, deleganti, legami
+    familiari, cariche societarie, o per i quali vi è l’evidenza di una relazione ad esempio
+    nell’ambito di una precedente segnalazione)
+<U+25AA>   dinamica: ovvero derivanti da relazioni non predefinite, ma che si rivelano
+    analizzando l’attività di un soggetto del cluster e soggetti terzi. Questi ultimi
+    possono essere anche esterni all’organizzazione (e quindi non esserne clienti) e
+                                                                                            5
+
+         sono identificabili più “debolmente” (ad esempio nel caso delle Banche, tramite il
+         loro IBAN che riporta Nazione, Banca, Provincia, Conto, Nome, Cognome o Ragione
+         Sociale).
+     11. Ogni cluster prevede differenti Livelli di Relazioni. Le RELAZIONI di livello 1 sono le
+         relazioni che:
+     <U+25AA> collegano un nodo al vertice
+     <U+25AA> collegano tra loro due nodi che sono a loro volta collegati al vertice.
+Il livello 1 del cluster è pertanto costituito da:
+     <U+25AA>   il vertice
+     <U+25AA>   tutti soggetti che hanno relazioni dirette con il Vertice
+     <U+25AA>   tutte le relazioni tra i soggetti di livello 1
+Il livello 2 del cluster è costituito da:
+     <U+25AA>   soggetti che hanno relazioni dirette con soggetti di primo livello, escluso il Vertice
+     <U+25AA>   tutte le relazioni tra i soggetti di livello 2
+Il livello 3 del cluster non viene riportato, per non rendere troppo complessa e difficile la
+visione del grafo oggetto di analisi e per non fuorviare l’attenzione dell’utente dalle relazioni
+di livelli 1 e 2. Inoltre comporterebbe una deviazione nel calcolo della probabilità di rischio
+dei modelli predittivi.
+3.2 REA
+Le regole evidenza anomalia hanno l’obiettivo di identificare tra i vari cluster quelli che hanno
+tenuto un comportamento rischioso.
+Le REA sono applicate ai cluster in funzione di:
+     •   sotto ambito
+     •   fascia di rischio
+Le regole evidenza anomalia hanno un peso che può essere impostato come configurazione
+del sistema e che INDICA in sostanza la rischiosità del comportamento.
+3.3 PRATICHE
+FD gestisce l’intero ciclo di vita delle pratiche di SOS (Segnalazione Operazione Sospetta) a
+partire da un cluster, generato in automatico o on demand, da flusso o da fd Client -
+(segnalazione originaria)
+una precedente segnalazione inviata (segnalazione sostituiva)
+Vi sono due modalità di creazione delle pratiche:
+                                                                                                6
+
+    •   automatica - ovvero una pratica creata direttamente dal sistema a fronte della analisi
+        del rischio e della esecuzione delle REA con esito positivo (ovvero la REA ha
+        evidenziato un comportamento anomalo/rischioso)
+    •   manuale - ovvero tramite FD client su iniziativa di un utente con profilo abilitato.
+In entrambi i casi la pratica generata passa attraverso un processo di autorizzazione
+(workflow di approvazione) prima di essere predisposta per l’invio all’UIF.
+Ciascuna pratica di Segnalazione Operazione Sospetta ha associato un peso ottenuto
+sommando i pesi delle REA che ne hanno determinato la creazione.
+Il peso della Pratica permette di dare una priorità alle pratiche da lavorare che sono
+presentate in ordine discendente di peso nella lista pratiche.
+3.4 GENERAZIONE AUTOMATICA DELLA PRATICA DI SOS
+A fronte dell’esplosione del cluster, della valutazione del rischio e della esecuzione delle REA
+la pratica viene creata automaticamente per i cluster che soddisfano le seguenti regole:
+Fascia di Rischio = Alto/Medio Alto:
+Pratica creata se:
+    • somma dei pesi delle REA > 0 (ovvero c’è almeno una REA)
+    •   non vi è, per lo stesso cluster, una pratica in stato finale creata negli ultimi 6 mesi e
+        che sia associata allo stesso insieme o super-insieme di REA
+Fascia di Rischio = Medio/Medio Basso/Basso:
+Pratica creata se:
+    • somma dei pesi delle REA > 100 (parametrico impostabile nella CFG10) (ovvero ci
+        sono almeno due REA)
+    •   non vi è, per lo stesso cluster, una pratica in stato finale creata negli ultimi 6 mesi e
+        che sia associata allo stesso insieme o super-insieme di REA
+3.5 GENERAZIONE MANUALE DELLA SOS
+La generazione manuale avviene tramite il Client FD. Solo gli utenti con profilo
+abilitato possono creare una SOS a partire da un cluster o da una precedente segnalazione.
+                                                                                                7
+
+ 4. TEORIA BAYESIANA
+Essendo il rischio stesso un evento incerto, come dice il nome stesso, si prosegue con
+l’utilizzo di modelli probabilistici, applicando la formula del teorema di Bayes, utilizzando
+dunque modelli predittivi Bayesiani, in quanto sono considerati semplici ma al tempo stesso
+robusti ed affidabili.
+Il modello Bayesiano, comporta come ipotesi iniziale l’indipendenza degli attributi, ed è
+costruito utilizzando la formula di Bayes delle probabilità condizionate.
+Sia <U+0001D44C><U+0001D456> = {1,2,3,4,5}, la variabile di risposta, che presenta i 5 livelli di rischio, rispettivamente
+{basso, medio/basso, medio, medio/alto, alto} e sia <U+0001D44B><U+0001D45B> = {<U+0001D44B>1 , <U+0001D44B>2 , … , <U+0001D44B><U+0001D45B> } il set delle variabili
+esplicative che, nel nostro caso, assumono tutte valori discreti, al fine di rendere
+computazionalmente più efficace l’algoritmo predittivo scelto.
+Dunque applicando la formula del teorema di Bayes:
+                                                     <U+0001D443>(<U+0001D44B><U+0001D45B> | <U+0001D44C><U+0001D456> )<U+0001D443>( <U+0001D44C><U+0001D456> )
+                                       <U+0001D443>(<U+0001D44C><U+0001D456> |<U+0001D44B><U+0001D45B> ) =
+                                                           <U+0001D443>(<U+0001D44B><U+0001D45B> )
+Ottengo la probabilità del rischio condizionata a tutte le variabili esplicative, conoscendo le
+probabilità a priori delle <U+0001D44C><U+0001D456> e <U+0001D44B><U+0001D45B> , e tale probabilità condizionata <U+0001D443>(<U+0001D44B><U+0001D45B> | <U+0001D44C><U+0001D456> ), ossia la probabilità
+delle singole variabili date la variabile di risposta, tutte queste informazioni che si ottengono
+tramite il set di dati etichettato completamente, ossia anche per quanto riguarda la variabile
+di rischio.
+     5. CREAZIONE MODELLO
+Il modello probabilistico è stato costruito in funzione della legge di Bayes, applicando per
+l’appunto il classificatore “naiveBayes”, il quale è caratterizzato da un utilizzo semplice e
+veloce, ma allo stesso tempo è ritenuto robusto ed affidabile.
+Una volta determinato l’algoritmo di previsione, ossia la regola che determina il legame tra
+i valori delle variabili esplicative e l’output, ovvero l’etichetta di rischio, il meccanismo è in
+grado di attribuire il livello di rischio a dei record nuovi che non presentano alcuna etichetta
+iniziale.
+Proprio per questo motivo, è opportuno considerare una metodologia supervisionata per
+procedere alla fase di Machine Learning dell’algoritmo, tecnica questa che considera, in un
+set di dati, la presenza sia degli input che degli output, al fine di istruire l’algoritmo predittivo,
+in modo da consentirgli di risolvere dei compiti in maniera autonoma sulla base di una serie
+di esempi ideali, che gli vengono forniti come training.
+Per poter procedere, nella maniera elencata precedentemente, è opportuno dunque avere
+la variabile di rischio etichettata, che in una prima fase sarà la mano umana a completare,
+per ogni record, i livelli di rischio opportuni, in base ai valori che presentano le variabili
+esplicative.
+Una volta che si è in possesso di un set di dati completo dei valori della variabile di rischio, si procede
+con l’analisi della bontà del classificatore utilizzato, tramite la costruzione della matrice di confusione
+da cui si ricavano gli indici di affidabilità come l’accuratezza e l’area sotto la curva di ROC.
+                                                                                                          8
+
+Il set di dati già etichettato viene suddiviso in una parte di training e una di test, rispettivamente il
+70% e il 30% del set originale, al fine di addestrare il classificatore Bayesiano sul set di training
+mentre con il rimanente set di test vengono fatte le previsioni sul rischio, a questo punto è possibile
+valutare la percentuale delle classi del test set che sono state classificate correttamente tramite la
+costruzione della matrice di confusione, in quanto si è in possesso sia dei valori reali che di quelli
+predetti per quanto riguarda la variabile di etichetta del test set.
+                                                             TRAINING
+                                                                         70%
+                                                                 SET
+                      DATASET
+                                                             TEST SET    30%
+La matrice di confusione, costruita solo tramite il test set, presenta
+i valori di classe reali sulle righe, mentre nelle colonne si trovano i
+valori predetti.
+In questo caso si osserva la matrice 2X2, ma è possibile estendere
+la variabile di risposta dicotomica ad una variabile multi-classe, nel
+nostro caso il numero di classi è pari a 5, dunque otterremo una
+matrice di confusione 5X5, e come classe positiva sarà posto il
+valore di rischio pari a 5, ossia il livello di rischio che corrisponde
+ad “ALTO”.
+Tramite i valori presenti all’interno della matrice è possibile ricavare
+determinati indici di affidabilità, tra cui:
+    •    ACCURATEZZA: rapporto tra i valori predetti correttamente sul totale delle previsioni, misura
+         la capacità del modello di prevedere correttamente.
+                                                            <U+0001D447><U+0001D443> + <U+0001D447><U+0001D441>
+                                         <U+0001D434><U+0001D450><U+0001D450><U+0001D462><U+0001D45F><U+0001D44E><U+0001D450><U+0001D466> =
+                                                       <U+0001D447><U+0001D443> + <U+0001D439><U+0001D443> + <U+0001D439><U+0001D441> + <U+0001D447><U+0001D441>
+    •    ERRORE TOTALE: indice complementare dell’accuratezza, dà informazione dell’errore di
+         previsione commesso dal modello.
+                                             <U+0001D438><U+0001D45F><U+0001D45F><U+0001D45C><U+0001D45F> <U+0001D45F><U+0001D44E><U+0001D461><U+0001D452> = 1 - <U+0001D434><U+0001D450><U+0001D450><U+0001D462><U+0001D45F><U+0001D44E><U+0001D450><U+0001D466>
+    •    SPECIFICITY: si ottiene rapportando il numero dei veri negativi sul totale delle unità previste
+         negative, misura quante unità previste sono realmente negative sul totale dei valori osservati
+         negativi.
+                                                                                                       9
+
+                                                                  <U+0001D447><U+0001D441>
+                                               <U+0001D446><U+0001D45D><U+0001D452><U+0001D450><U+0001D456><U+0001D453><U+0001D456><U+0001D450><U+0001D456><U+0001D461><U+0001D466> =
+                                                               <U+0001D447><U+0001D441> + <U+0001D439><U+0001D441>
+    •    PRECISION: si ottiene rapportando il numero dei veri positivi sul totale delle unità previste
+         positive, misura la percentuale di classificazioni positive che sono corrette.
+                                                                  <U+0001D447><U+0001D443>
+                                                <U+0001D443><U+0001D45F><U+0001D452><U+0001D450><U+0001D456><U+0001D460><U+0001D456><U+0001D45C><U+0001D45B> =
+                                                               <U+0001D447><U+0001D443> + <U+0001D439><U+0001D443>
+    •    SENSITIVITY (o RECALL): si ottiene dal rapporto dei veri positivi e il totale delle unità previste
+         positive, dà informazioni su quanti dati sono stimati correttamente positivi sul totale delle
+         osservazioni positive.
+                                                                   <U+0001D447><U+0001D443>
+                                               <U+0001D446><U+0001D452><U+0001D45B><U+0001D460><U+0001D456><U+0001D461><U+0001D456><U+0001D463><U+0001D456><U+0001D461><U+0001D466> =
+                                                               <U+0001D447><U+0001D443> + <U+0001D439><U+0001D441>
+La curva ROC viene costruita calcolando la proporzione di veri
+positivi (la sensibilità) e la proporzione di falsi positivi (1-specificità)
+per tutti i possibili valori del test. In seguito si congiungono i punti
+che mettono in rapporto la proporzione di veri positivi e falsi positivi.
+Mentre l’area sotto tale curva è una misura di quanto bene un
+classificatore può distinguere tra le classi del rischio, questa può
+assumere valori compresi tra 0.5 e 1, tanto maggiore è l’area sotto
+la curva tanto maggiore è il potere discriminante del test.
+Qualora, dagli indici di bontà appena discussi, si ottengono risultati discreti oppure ottimali, il
+classificatore utilizzato risulta essere adatto a fare previsioni future su records completamente nuovi
+che non presentano l’etichetta di rischio.
+ 6. AFFIDABILITÀ DEI MODELLI DI RISCHIO APPLICATI
+Di seguito vengono esposti i test di affidabilità sui modelli di rischio per ciascun sotto ambito
+adottato.
+6.1 AZIENDE CHE VINCONO APPALTI CON E SENZA CIG
+Nella realizzazione delle opere pubbliche e per l’acquisizione di beni o servizi da parte della
+Pubblica Amministrazione è necessario indire delle gare d’appalto che permettano una
+gestione pubblica del territorio improntata sul rispetto della trasparenza, della concorrenza
+e della meritocrazia tra i vari operatori economici partecipanti. In merito a questo tema è
+stato ritenuto opportuno creare un opportuno modello probabilistico che attribuisce un
+grado di rischio alle aziende che vincono appalti con CIG, il codice identificativo gara.
+                                                                                                         10
+
+Il dataset preso in considerazione presenta un numero di attributi pari a 47 e con 3133
+osservazioni, mentre per rendere computazionalmente meno operoso l’algoritmo predittivo,
+i valori sono stati discretizzati, seguendo range differenti per ciascun sotto ambito.
+I dati sono presentati in maniera strutturata, dunque nella prima riga sono presenti gli
+attributi mentre nella prima colonna sono riportati sia i singoli clienti e soggetti dei cluster,
+ma anche i singoli cluster sono stati inseriti con valori discreti ricavati facendo la media totale
+dei propri componenti.
+Gli attributi presenti in totale sono 47, i quali si differenziano in:
+    •   attributi anagrafici
+    -   PAESE DI NASCITA                                  -  CITTADINANZA
+    -   FAMIGLIA CALABRESE                                -  ESPOSIZIONE POLITICA
+    -   PROVINCIA DI RESIDENZA                            -  ATECO
+    -   PROVINCIA RISCHIOSA
+    •   attributi di rischio
+    -   IMPORTO DARE BONIFICI ESTERI                      -  FREQUENZA PRELIEVO CON CARTE DEBITO IN ITALIA
+    -   FREQUENZA DARE BONIFICI ESTERI
+    -   IMPORTO AVERE BONIFICI ESTERI                     -  IMPORTO PRELIEVO CON CARTE CREDITO IN ITALIA
+    -   FREQUENZA AVERE BONIFICI ESTERI                   -  FREQUENZA PRELIEVO CON CARTE CREDITO IN
+    -   IMPORTO DARE BONIFICI ITALIA                         ITALIA
+    -   FREQUENZA DARE BONIFICI ITALIA                    -  IMPORTO SPESE CON CARTE CREDITO ALL'ESTERO
+    -   IMPORTO AVERE BONIFICI ITALIA                     -  FREQUENZA SPESE CON CARTE CREDITO ALL'ESTERO
+    -   FREQUENZA AVERE BONIFICI ITALIA
+    -   IMPORTO DARE BO. EST. FISCALITÀ AGEVOLATA         -  IMPORTO SPESE CON CARTE DEBITO IN ITALIA
+    -   FREQUENZA DARE BO. EST. FISCALITÀ AGEVOLATA       -  FREQUENZA SPESE CON CARTE DEBITO IN ITALIA
+    -   IMPORTO AVERE BO. EST. FISCALITÀ AGEVOLATA        -  IMPORTO SPESE CON CARTE CREDITO IN ITALIA
+    -   FREQUENZA AVERE BO. EST. FISCALITÀ AGEVOLATA      -  FREQUENZA SPESE CON CARTE CREDITO IN ITALIA
+                                                          -  IMPORTO PRELIEVI DA CONTO CORRENTE
+    -   IMPORTO BONIFICI DARE CON CAUSALE RISCHIOSA       -  FREQUENZA PRELIEVI DA CONTO CORRENTE
+                                                          -  IMPORTO VERSAMENTI SU RAPPORTI CONTINUATIVI
+    -   FREQUENZA     BONIFICI  DARE    CON   CAUSALE
+        RISCHIOSA                                         -  FREQUENZA       VERSAMENTI   SU      RAPPORTI
+    -   IMPORTO BONIFICI AVERE CON CAUSALE RISCHIOSA         CONTINUATIVI
+                                                          -  NUMERO CARTE PREPAGATE
+    -   FREQUENZA BONIFICI AVERE CON          CAUSALE     -  NUMERO CARTE DI CREDITO
+        RISCHIOSA                                         -  NUMERO BANCOMAT
+    -   IMPORTO     PRELIEVO   CON    CARTE   CREDITO     -  NUMERO DI DELEGHE PER OPERARE
+        ALL'ESTERO                                        -  NUMERO DI CONTI
+    -   FREQUENZA PRELIEVO CON CARTE          CREDITO     -  NUMERO BANCONOTE 200 RICHIESTE E VERSATE
+        ALL'ESTERO                                        -  NUMERO BANCONOTE 500 RICHIESTE E VERSATE
+    -   IMPORTO PRELIEVO CON CARTE DEBITO IN  ITALIA      -  NUMERO CASSETTE SICUREZZA
+La matrice di confusione per quanto riguarda il modello sulle aziende che vincono appalti
+con CIG, riporta un valore di accuratezza buono, pari a 0.5767, che indica una percentuale
+di istanze che sono state classificate correttamente dal modello. La matrice di confusione
+produce inoltre come output il coefficiente statistico che rappresenta il grado di accuratezza
+                                                                                                 11
+
+e affidabilità in una classificazione statistica, ossia la Kappa di Cohen. Esistono diversi “gradi
+di concordanza”, in base ai quali possiamo definire se questo indice è ritenuto buono o
+meno, e il valore ottenuto dal modello probabilistico è pari a 0.3159, considerato
+discretamente scarsa.
+La curva di Roc ottenuta è la seguente, con un’area sottostante pari a 0.8405, che indica u
+na buona performance del modello creato.
+Il modello ottenuto può essere ritenuto accettabile per fare previsioni future, dal momento
+che più della metà delle volte fa delle previsioni corrette. Tuttavia questo col tempo andrà
+a migliorare la propria performance con l’aumento di nuove osservazioni ritenute corrette e
+modificando quelle già utilizzate che portavano il classificatore a fare previsioni non corrette.
+                                                                                                12
+
+6.2 CONCESSIONARIE DI APPALTI
+Il concessionario di appalti è colui che consente di affidare ad un terzo il compito di attivare
+e gestire un servizio pubblico sotto il suo controllo, in cambio di una remunerazione.
+Gli attributi presenti in totale sono 47, i quali si differenziano in:
+    •   attributi anagrafici
+    -   PAESE DI NASCITA                                  -  CITTADINANZA
+    -   FAMIGLIA CALABRESE                                -  ESPOSIZIONE POLITICA
+    -   PROVINCIA DI RESIDENZA                            -  ATECO
+    -   PROVINCIA RISCHIOSA
+    •   attributi di rischio
+    -   IMPORTO DARE BONIFICI ESTERI                      -  IMPORTO PRELIEVO CON CARTE CREDITO IN ITALIA
+    -   FREQUENZA DARE BONIFICI ESTERI                    -  FREQUENZA PRELIEVO CON CARTE CREDITO IN
+    -   IMPORTO AVERE BONIFICI ESTERI                        ITALIA
+    -   FREQUENZA AVERE BONIFICI ESTERI                   -  IMPORTO SPESE CON CARTE CREDITO ALL'ESTERO
+    -   IMPORTO DARE BONIFICI ITALIA                      -  FREQUENZA SPESE CON CARTE CREDITO ALL'ESTERO
+    -   FREQUENZA DARE BONIFICI ITALIA
+    -   IMPORTO AVERE BONIFICI ITALIA                     -  IMPORTO SPESE CON CARTE DEBITO IN ITALIA
+    -   FREQUENZA AVERE BONIFICI ITALIA                   -  FREQUENZA SPESE CON CARTE DEBITO IN ITALIA
+    -   IMPORTO DARE BO. EST. FISCALITÀ AGEVOLATA         -  IMPORTO SPESE CON CARTE CREDITO IN ITALIA
+    -   FREQUENZA DARE BO. EST. FISCALITÀ AGEVOLATA       -  FREQUENZA SPESE CON CARTE CREDITO IN ITALIA
+    -   IMPORTO AVERE BO. EST. FISCALITÀ AGEVOLATA        -  IMPORTO PRELIEVI DA CONTO CORRENTE
+    -   FREQUENZA AVERE BO. EST. FISCALITÀ AGEVOLATA      -  FREQUENZA PRELIEVI DA CONTO CORRENTE
+                                                          -  IMPORTO VERSAMENTI SU RAPPORTI CONTINUATIVI
+    -   IMPORTO BONIFICI DARE CON CAUSALE RISCHIOSA
+                                                          -  FREQUENZA     VERSAMENTI     SU      RAPPORTI
+    -   FREQUENZA BONIFICI DARE CON CAUSALE RISCHIOSA        CONTINUATIVI
+    -   IMPORTO BONIFICI AVERE CON CAUSALE RISCHIOSA      -  NUMERO CARTE PREPAGATE
+                                                          -  NUMERO CARTE DI CREDITO
+    -   FREQUENZA BONIFICI AVERE CON CAUSALE              -  NUMERO BANCOMAT
+        RISCHIOSA                                         -  NUMERO DI DELEGHE PER OPERARE
+    -   IMPORTO    PRELIEVO    CON    CARTE   CREDITO     -  NUMERO DI CONTI
+        ALL'ESTERO                                        -  NUMERO BANCONOTE 200 RICHIESTE E VERSATE
+    -   FREQUENZA PRELIEVO CON CARTE CREDITO              -  NUMERO BANCONOTE 500 RICHIESTE E VERSATE
+        ALL'ESTERO                                        -  NUMERO CASSETTE SICUREZZA
+    -   IMPORTO PRELIEVO CON CARTE DEBITO IN ITALIA
+    -   FREQUENZA PRELIEVO CON CARTE DEBITO IN ITALIA
+La matrice di confusione per quanto riguarda il modello sui concessionari di appalti, riporta
+un valore di accuratezza buono, pari a 0.5767, che indica una percentuale di istanze che
+sono state classificate correttamente dal modello.
+La matrice di confusione produce inoltre come output il coefficiente statistico che
+rappresenta il grado di accuratezza e affidabilità in una classificazione statistica, ossia la
+Kappa di Cohen. Esistono diversi “gradi di concordanza”, in base ai quali possiamo definire
+se questo indice è ritenuto buono o meno, e il valore ottenuto dal modello probabilistico è
+pari a 0.3159, considerato discretamente scarso.
+                                                                                                 13
+
+La curva di Roc ottenuta è la seguente, con un’area sottostante pari a 0.8405, che indica un
+a buona performance del modello creato.
+                                                                                          14
+
+ 6.3 DIPENDENTI PUBBLICI
+ Nell’analisi della corruzione, è emerso un sotto ambito rilevante come questo dei dipendenti
+ pubblici, analizzando ben 38 attributi rischiosi, per individuare un rischio corruzione
+ all’interno di soggetti che lavorano in enti pubblici.
+      •  attributi anagrafici
+      -  FAMIGLIA CALABRESE                                    -   ESPOSIZIONE POLITICA
+      -  PROVINCIA DI RESIDENZA                                -   ATECO
+      -  PROVINCIA RISCHIOSA
+      •  attributi di rischio
+      -  IMPORTO DARE BONIFICI ITALIA                           -  IMPORTO SPESE CON CARTE CREDITO SU
+      -  FREQUENZA DARE BONIFICI ITALIA                            MERCHANT A RISCHIO ITALIA
+      -  IMPORTO AVERE BONIFICI ITALIA                          -  IMPORTO SPESE CON CARTE CREDITO SU
+      -  FREQUENZA AVERE BONIFICI ITALIA                           MERCHANT A RISCHIO ESTERO
+      -  IMPORTO DARE BO. EST. FISCALITÀ                        -  IMPORTO SPESE CON CARTE CREDITO SU
+         AGEVOLATA                                                 MERCHANT A RISCHIO VIRTUALE
+      -  FREQUENZA DARE BO. EST. FISCALITÀ                      -  IMPORTO SPESE CON CARTA DI CREDITO IN
+         AGEVOLATA                                                 BENI DI LUSSO IN ITALIA
+      -  IMPORTO AVERE BO. EST. FISCALITÀ                       -  IMPORTO SPESE CON CARTA DI CREDITO IN
+         AGEVOLATA                                                 BENI DI LUSSO ALL'ESTERO
+      -  FREQUENZA AVERE BO. EST. FISCALITÀ                     -  IMPORTO SPESE CON CARTA DI CREDITO IN
+         AGEVOLATA                                                 BENI DI LUSSO VIRTUALE
+      -  IMPORTO BONIFICI DARE CON CAUSALE                      -  IMPORTO PRELIEVI DA CONTO CORRENTE
+         RISCHIOSA                                              -  FREQUENZA PRELIEVI DA CONTO CORRENTE
+      -  FREQUENZA BONIFICI DARE CON CAUSALE
+         RISCHIOSA                                              -  IMPORTO     VERSAMENTI   SU     RAPPORTI
+      -  IMPORTO BONIFICI AVERE CON CAUSALE                        CONTINUATIVI
+         RISCHIOSA                                              -  NUMERO CARTE PREPAGATE
+      -  FREQUENZA BONIFICI AVERE CON CAUSALE                   -  NUMERO CARTE DI CREDITO
+         RISCHIOSA                                              -  NUMERO BANCOMAT
+      -  IMPORTO PRELIEVO CON CARTE CREDITO                     -  NUMERO DI DELEGHE PER OPERARE
+         ALL'ESTERO                                             -  NUMERO DI CONTI
+      -  FREQUENZA PRELIEVO CON CARTE CREDITO                   -  NUMERO BANCONOTE 200 RICHIESTE E
+         ALL'ESTERO                                                VERSATE
+      -  IMPORTO SPESE CON CARTE DEBITO IN                      -  NUMERO BANCONOTE 500 RICHIESTE E
+         ITALIA                                                    VERSATE
+      -  IMPORTO SPESE CON CARTE CREDITO IN                     -  NUMERO CASSETTE SICUREZZA
+         ITALIA
+La matrice di confusione per quanto riguarda il modello sui dipendenti pubblici, riporta un valore di
+accuratezza sufficientemente buono, pari a 0.6426, che indica che poco più della metà dei soggetti
+sono stati classificati correttamente dal classificatore, e un valore della kappa di Kohen pari al 55,48%.
+                                                                                                        15
+
+La curva di Roc ottenuta è la seguente, con un’area sottostante pari a 0.8965, che indica
+una buona performance del modello creato.
+                                                                                       16
+
+6.4 FINANZA ISLAMICA
+La finanza islamica è un sotto ambito del terrorismo, che cura l’aspetto finanziario
+strettamente connesso ai precetti religiosi, infatti negli ultimi anni ha subito un notevole
+sviluppo grazie alla graduale apertura, nei paesi di cultura islamica, agli investimenti esteri
+e, contemporaneamente, alla progressiva liberalizzazione dei sistemi bancari.
+Gli attributi presenti in totale sono 32, i quali si differenziano in:
+    •   attributi anagrafici
+    -   PAESE DI NASCITA                                  -  CITTADINANZA
+    -   COMUNE DI NASCITA                                 -  ESPOSIZIONE POLITICA
+    -   PROVINCIA DI RESIDENZA                            -  SAE
+    -   PROVINCIA RISCHIOSA                               -  ATECO
+    •   attributi di rischio
+    -   NUMERO ASSEGNI LIBERI RICHIESTI                   -  IMPORTO DARE BONIFICI ITALIA A ONLUS
+    -   IMPORTO DARE BONIFICI ESTERI                         ISLAMICHE
+    -   FREQUENZA DARE BONIFICI ESTERI                    -  FREQUENZA DARE BONIFICI ITALIA A ONLUS
+    -   IMPORTO AVERE BONIFICI ESTERI                        ISLAMICHE
+    -   FREQUENZA AVERE BONIFICI ESTERI                   -  IMPORTO DARE BONIFICI ESTERO A ONLUS
+    -   IMPORTO DARE BONIFICI ITALIA                         ISLAMICHE
+    -   FREQUENZA DARE BONIFICI ITALIA                    -  FREQUENZA DARE BONIFICI ESTERO A ONLUS
+    -   IMPORTO AVERE BONIFICI ITALIA                        ISLAMICHE
+    -   FREQUENZA AVERE BONIFICI ITALIA                   -  NUMERO CARTE PREPAGATE
+    -   IMPORTO BONIFICI DARE CON CAUSALE                 -  NUMERO CARTE DI CREDITO
+        RISCHIOSA                                         -  NUMERO BANCOMAT
+    -   FREQUENZA BONIFICI DARE CON CAUSALE               -  NUMERO DI DELEGHE PER OPERARE
+        RISCHIOSA                                         -  NUMERO DI CONTI
+    -   IMPORTO BONIFICI AVERE CON CAUSALE                -  NUMERO SEGNALAZIONI A UIF
+        RISCHIOSA
+    -   FREQUENZA BONIFICI AVERE CON CAUSALE
+        RISCHIOSA
+La matrice di confusione per quanto riguarda la finanza islamica, riporta un valore di
+accuratezza buono, pari a 0.7746, che indica la percentuale di istanze che sono state
+classificate correttamente dal modello.
+La kappa di Cohen ottenuta dal modello probabilistico è pari a 0.6963, considerata dunque
+buona.
+La curva di ROC ottenuta è la seguente, con un’area sottostante pari a 0.9437, che indica
+una buona performance del modello creato.
+                                                                                                 17
+
+18
+6.5 FONDAZIONE ISLAMICA
+La fondazione islamica, sotto ambito del terrorismo, ha un modello probabilistico che
+analizza le movimentazioni di denaro in paesi classificati a rischio terrorismo, o paesi limitrofi,
+e inoltre esamina le donazioni a Onlus islamiche italiane o estere.
+Gli attributi presenti in totale sono 32, i quali si differenziano in:
+    •   attributi anagrafici
+    -   PAESE DI NASCITA                                  -  CITTADINANZA
+    -   COMUNE DI NASCITA                                 -  ESPOSIZIONE POLITICA
+    -   PROVINCIA DI RESIDENZA                            -  SAE
+    -   PROVINCIA RISCHIOSA                               -  ATECO
+    •   attributi di rischio
+    -   NUMERO ASSEGNI LIBERI RICHIESTI                   -  IMPORTO DARE BONIFICI ITALIA A ONLUS
+    -   IMPORTO DARE BONIFICI ESTERI                         ISLAMICHE
+    -   FREQUENZA DARE BONIFICI ESTERI                    -  FREQUENZA DARE BONIFICI ITALIA A ONLUS
+    -   IMPORTO AVERE BONIFICI ESTERI                        ISLAMICHE
+    -   FREQUENZA AVERE BONIFICI ESTERI                   -  IMPORTO DARE BONIFICI ESTERO A ONLUS
+    -   IMPORTO DARE BONIFICI ITALIA                         ISLAMICHE
+    -   FREQUENZA DARE BONIFICI ITALIA                    -  FREQUENZA DARE BONIFICI ESTERO A ONLUS
+    -   IMPORTO AVERE BONIFICI ITALIA                        ISLAMICHE
+    -   FREQUENZA AVERE BONIFICI ITALIA                   -  NUMERO CARTE PREPAGATE
+    -   IMPORTO BONIFICI DARE CON CAUSALE                 -  NUMERO CARTE DI CREDITO
+        RISCHIOSA                                         -  NUMERO BANCOMAT
+    -   FREQUENZA BONIFICI DARE CON CAUSALE               -  NUMERO DI DELEGHE PER OPERARE
+        RISCHIOSA                                         -  NUMERO DI CONTI
+    -   IMPORTO BONIFICI AVERE CON CAUSALE                -  NUMERO SEGNALAZIONI A UIF
+        RISCHIOSA
+    -   FREQUENZA BONIFICI AVERE CON CAUSALE
+        RISCHIOSA
+La matrice di confusione per quanto riguarda la fondazione islamica, riporta un valore di
+accuratezza buono, pari a 0.7746, che indica la percentuale di istanze che sono state
+classificate correttamente dal modello.
+La matrice di confusione produce inoltre come output il coefficiente statistico che
+rappresenta il grado di accuratezza e affidabilità in una classificazione statistica, ossia la
+Kappa di Cohen. Esistono diversi “gradi di concordanza”, in base ai quali possiamo definire
+se questo indice è ritenuto buono o meno, e il valore ottenuto dal modello probabilistico è
+pari a 0.6963, considerato dunque buono.
+                                                                                                 19
+
+L’AUC è molto buona, con valore pari a 0.9437.
+                                               20
+
+6.6 HAWALLA
+L’Hawalla, sotto ambito del terrorismo, è un sistema di trasferimento di denaro, utilizzato
+per lo più per evitare di pagare le tasse ed eseguire transazioni senza destare sospetti.
+Si tratta di un vero e proprio sistema bancario parallelo o alternativo, che rischia di mettere
+in crisi anche quello legale, dunque l’ampiezza e la pericolosità del fenomeno non deve
+essere sottovalutata.
+    •   Attributi anagrafici:
+    -   PAESE DI NASCITA                               -    CITTADINANZA
+    -   COMUNE DI NASCITA                              -    ESPOSIZIONE POLITICA
+    -   PROVINCIA DI RESIDENZA                         -    SAE
+    -   PROVINCIA RISCHIOSA                            -    ATECO
+    •   Attributi di rischio:
+    -   IMPORTO DARE BONIFICI ESTERI                   -    IMPORTO PRELIEVO CON CARTE CREDITO IN
+    -   IMPORTO AVERE BONIFICI ESTERI                       PAESI A RISCHIO TERRORISMO
+    -   IMPORTO BONIFICI DARE CON CAUSALE              -    NUMERO CARTE PREPAGATE
+        RISCHIOSA                                      -    NUMERO CARTE DI CREDITO
+    -   IMPORTO BONIFICI AVERE CON CAUSALE             -    NUMERO BANCOMAT
+        RISCHIOSA                                      -    NUMERO DI DELEGHE PER OPERARE
+    -   IMPORTO DARE BONIFICI ITALIA A ONLUS           -    NUMERO DI CONTI
+        ISLAMICHE                                      -    NUMERO GARANZIE TOTALI
+    -   IMPORTO DARE BONIFICI ESTERO A ONLUS           -    NUMERO DI GARANZIE ESTERE
+        ISLAMICHE                                      -    NUMERO BANCONOTE 200 RICHIESTE E
+    -   IMPORTO DARE BONIFICI ESTERO VERSO                  VERSATE
+        PAESI A RISCHIO TERRORISMO                     -    NUMERO BANCONOTE 500 RICHIESTE E
+    -   IMPORTO AVERE BONIFICI ITALIA RISCHIOSI             VERSATE
+        TERRORISMO                                     -    NUMERO SEGNALAZIONI A UIF
+    -   IMPORTO PRELIEVO CON CARTE PREPAGATE
+        IN PAESI A RISCHIO TERRORISMO
+La matrice ottenuta riporta un grado di accuratezza “abbastanza buono”, pari allo 0.66, che
+indica la percentuale di dati che sono stati classificati con istanza corretta rispetto al grado
+di rischio presupposto, tale valore può essere considerato accettabile, ma dovrà migliorerà
+progressivamente aggiornando le informazioni corrette o meno.
+Esistono diversi gradi di concordanza ottenuti dal modello probabilistico, in base ai quali
+possiamo definire se un modello risulta essere accettabile e sufficiente per poter essere
+applicato nel fare previsioni future.
+                                                                                              21
+
+La curva di Roc, che riporta l’accuratezza del modello lungo tutto il range dei valori possibili,
+è la seguente, con un’area sottostante pari a 0.889.
+Nel grafico si osserva l’accuratezza del modello lungo tutto il range dei valori possibili.
+                                                                                             22
+
+6.7 CARITÀ ISLAMICA
+Nell’ambito del terrorismo è presente la sotto-area relativa alla carità, dove le donazioni di
+somme di denaro sono considerate come dei veri e propri atti rischiosi e dunque vi è richiesta
+una particolare attenzione a riguardo tanto da avere a disposizione di un modello
+probabilistico predittivo specifico per tale sotto ambito.
+Nel campo note dei movimenti bancari possono essere presenti determinate parole chiavi,
+come donazione o carità (v. elenco nel database), che aiutano a individuare con maggiore
+facilità transazioni che potrebbero risultare “rischiose” in questo ambito.
+Il modello probabilistico della carità è caratterizzato da importi relativamente bassi e
+contrariamente da frequenze abbastanza alte, particolarità questa riscontrata nelle
+donazioni di denaro verso centri onlus o islamici.
+Gli attributi presenti in totale sono 32, i quali si differenziano in:
+    •   attributi anagrafici
+    -   PAESE DI NASCITA                                  -  CITTADINANZA
+    -   FAMIGLIA CALABRESE                                -  ESPOSIZIONE POLITICA
+    -   COMUNE DI NASCITA                                 -  SAE
+    -   PROVINCIA DI RESIDENZA                            -  ATECO
+    -   PROVINCIA RISCHIOSA
+    •   attributi di rischio
+    -   NUMERO ASSEGNI LIBERI RICHIESTI                   -  FREQUENZA BONIFICI AVERE CON CAUSALE
+    -   IMPORTO DARE BONIFICI ESTERI                         RISCHIOSA
+    -   FREQUENZA DARE BONIFICI ESTERI                    -  IMPORTO DARE BONIFICI ITALIA A ONLUS
+    -   IMPORTO AVERE BONIFICI ESTERI                        ISLAMICHE
+    -   FREQUENZA AVERE BONIFICI ESTERI                   -  FREQUENZA DARE BONIFICI ITALIA A ONLUS
+    -   IMPORTO DARE BONIFICI ITALIA                         ISLAMICHE
+    -   FREQUENZA DARE BONIFICI ITALIA                    -  IMPORTO DARE BONIFICI ESTERO A ONLUS
+    -   IMPORTO AVERE BONIFICI ITALIA                        ISLAMICHE
+    -   FREQUENZA AVERE BONIFICI ITALIA                   -  FREQUENZA DARE BONIFICI ESTERO A ONLUS
+    -   IMPORTO BONIFICI DARE CON CAUSALE                    ISLAMICHE
+        RISCHIOSA                                         -  NUMERO CARTE PREPAGATE
+    -   FREQUENZA BONIFICI DARE CON CAUSALE               -  NUMERO CARTE DI CREDITO
+        RISCHIOSA                                         -  NUMERO BANCOMAT
+    -   IMPORTO BONIFICI AVERE CON CAUSALE                -  NUMERO DI DELEGHE PER OPERARE
+        RISCHIOSA                                         -  NUMERO DI CONTI
+                                                          -  NUMERO SEGNALAZIONI A UIF
+La matrice di confusione per quanto riguarda la carità, riporta un valore di accuratezza
+buono, pari a 0.7746, che indica che il 77,46% di istanze sono state classificate
+correttamente dal modello.
+Il valore ottenuto dal modello probabilistico della kappa di Cohen è pari a 0.6963,
+considerato dunque buono.
+                                                                                                 23
+
+L’area sottostante alla curva di ROC è pari a 0.9437, che indica una buona performance del
+modello creato.
+6.8 GENERICO
+Nel modello generico sono presenti un numero elevato di attributi, pari a 117, di cui:
+    •  Attributi anagrafici:
+    -  PAESE DI NASCITA                              -   COMUNE DI NASCITA
+    -  FAMIGLIA CALABRESE                            -   PROVINCIA DI RESIDENZA
+                                                                                        24
+
+   -   PROVINCIA RISCHIOSA                       -   SAE
+   -   CITTADINANZA                              -   ATECO
+   -   ESPOSIZIONE POLITICA
+   •   Attributi di rischio:
+- NUMERO ASSEGNI LIBERI RICHIESTI             - FREQUENZA SPESE CON CARTE CREDITO
+- IMPORTO DARE BONIFICI ESTERI                  ALL'ESTERO
+- FREQUENZA DARE BONIFICI ESTERI              - IMPORTO SPESE CON CARTE DEBITO IN ITALIA
+- IMPORTO AVERE BONIFICI ESTERI               - FREQUENZA SPESE CON CARTE DEBITO IN ITALIA
+- FREQUENZA AVERE BONIFICI ESTERI             - IMPORTO SPESE CON CARTE PREPAGATE IN ITALIA
+- IMPORTO DARE BONIFICI ITALIA                - FREQUENZA SPESE CON CARTE PREPAGATE IN
+- FREQUENZA DARE BONIFICI ITALIA                ITALIA
+- IMPORTO AVERE BONIFICI ITALIA               - IMPORTO SPESE CON CARTE CREDITO IN ITALIA
+- FREQUENZA AVERE BONIFICI ITALIA
+- IMPORTO DARE BO.EST. FISCALITA AGEVOLATA    - FREQUENZA SPESE CON CARTE CREDITO IN ITALIA
+- FREQUENZA DARE BO.EST FISCALITA AGEVOLATA   - IMPORTO SPESE CON CARTE DEBITO SU
+- IMPORTO AVERE BO.EST FISCALITA AGEVOLATA      MERCHANT a RISCHIO ITALIA
+- FREQUENZA AVERE BO.EST FISCALITA AGEVOLATA  - FREQUENZA SPESE CON CARTE DEBITO SU
+- IMPORTO    BONIFICI    DARE   CON   CAUSALE   MERCHANT a RISCHIO ITALIA
+  RISCHIOSA                                   - IMPORTO SPESE CON CARTE PREPAGATE SU
+- FREQUENZA BONIFICI DARE CON CAUSALE           MERCHANT a RISCHIO ITALIA
+  RISCHIOSA                                   - FREQUENZA SPESE CON CARTE PREPAGATE SU
+- IMPORTO BONIFICI AVERE CON CAUSALE            MERCHANT a RISCHIO ITALIA
+  RISCHIOSA                                   - IMPORTO SPESE CON CARTE CREDITO SU
+- ACQUISTO VALUTE DIGITALI                      MERCHANT a RISCHIO ITALIA
+- IMPORTO PRELIEVO CON CARTE DEBITO           - FREQUENZA SPESE CON CARTE CREDITO SU
+  ALL'ESTERO                                    MERCHANT a RISCHIO ITALIA
+- FREQUENZA PRELIEVO CON CARTE DEBITO         - IMPORTO SPESE CON CARTE DEBITO SU
+  ALL'ESTERO                                    MERCHANT a RISCHIO ESTERO
+- IMPORTO PRELIEVO CON CARTE PREPAGATE        - FREQUENZA SPESE CON CARTE DEBITO SU
+  ALL'ESTERO                                    MERCHANT a RISCHIO ESTERO
+- FREQUENZA PRELIEVO CON CARTE PREPAGATE      - IMPORTO SPESE CON CARTE CREDITO SU
+  ALL'ESTERO                                    MERCHANT a RISCHIO ESTERO
+- IMPORTO PRELIEVO CON CARTE CREDITO          - FREQUENZA SPESE CON CARTE CREDITO SU
+  ALL'ESTERO                                    MERCHANT a RISCHIO ESTERO
+- FREQUENZA PRELIEVO CON CARTE CREDITO        - IMPORTO SPESE CON CARTE PREPAGATE SU
+  ALL'ESTERO                                    MERCHANT a RISCHIO ESTERO
+- IMPORTO PRELIEVO CON CARTE DEBITO IN ITALIA - FREQUENZA SPESE CON CARTE PREPAGATE SU
+- FREQUENZA PRELIEVO CON CARTE DEBITO IN        MERCHANT a RISCHIO ESTERO
+  ITALIA                                      - IMPORTO SPESE CON CARTE DEBITO SU
+- IMPORTO PRELIEVO CON CARTE PREPAGATE IN       MERCHANT a RISCHIO VIRTUALE
+  ITALIA                                      - FREQUENZA SPESE CON CARTE DEBITO SU
+- FREQUENZA PRELIEVO CON CARTE PREPAGATE IN     MERCHANT a RISCHIO VIRTUALE
+  ITALIA                                      - IMPORTO SPESE CON CARTE CREDITO SU
+- IMPORTO PRELIEVO CON CARTE CREDITO IN         MERCHANT a RISCHIO VIRTUALE
+  ITALIA                                      - FREQUENZA SPESE CON CARTE CREDITO SU
+- FREQUENZA PRELIEVO CON CARTE CREDITO IN       MERCHANT a RISCHIO VIRTUALE
+  ITALIA                                      - IMPORTO SPESE CON CARTE PREPAGATE SU
+- IMPORTO SPESE CON CARTE DEBITO ALL'ESTERO     MERCHANT a RISCHIO VIRTUALE
+- FREQUENZA     SPESE    CON   CARTE   DEBITO - FREQUENZA SPESE CONCARTE PREPAGATE SU
+  ALL'ESTERO                                    MERCHANT a RISCHIO VIRTUALE
+- IMPORTO SPESE CON CARTE PREPAGATE           - IMPORTO SPESE CON CARTA DI DEBITO IN BENI DI
+  ALL'ESTERO                                    LUSSO IN ITALIA
+- FREQUENZA SPESE CON CARTE PREPAGATE         - FREQUENZA SPESE CON CARTA DI DEBITO IN BENI
+  ALL'ESTERO                                    DI LUSSO IN ITALIA
+- IMPORTO SPESE CON CARTE CREDITO ALL'ESTERO
+                                                                                         25
+
+-   IMPORTO SPESE CON CARTA DI CREDITO IN BENI    -  IMPORTO SPESE CON CARTA DI CREDITO SU
+    DI LUSSO IN ITALIA                               MERCHANT DUAL USE
+-   FREQUENZA SPESE CON CARTA DI CREDITO IN       -  FREQUENZA SPESE CON CARTA DI CREDITO SU
+    BENI DI LUSSO IN ITALIA                          MERCHANT DUAL USE
+-   IMPORTO SPESE CON CARTA PREPAGATE IN BENI     -  IMPORTO SPESE CON CARTA PREPAGATE SU
+    DI LUSSO IN ITALIA                               MERCHANT DUAL USE
+-   FREQUENZA SPESE CON CARTA PREPAGATE IN BENI   -  FREQUENZA SPESE CON CARTA PREPAGATE SU
+    DI LUSSO IN ITALIA                               MERCHANT DUAL USE
+-   IMPORTO SPESE CON CARTA DI DEBITO IN BENI DI  -  IMPORTO PRELIEVI DA CONTO CORRENTE
+    LUSSO ALL'ESTERO                              -  FREQUENZA PRELIEVI DA CONTO CORRENTE
+-   FREQUENZA SPESE CON CARTA DI DEBITO IN BENI   -  IMPORTO     VERSAMENTI      SU     RAPPORTI
+    DI LUSSO ALL'ESTERO                              CONTINUATIVI
+-   IMPORTO SPESE CON CARTA DI CREDITO IN BENI    -  FREQUENZA     VERSAMENTI     SU    RAPPORTI
+    DI LUSSO ALL'ESTERO                              CONTINUATIVI
+-   FREQUENZA SPESE CON CARTA DI CREDITO IN       -  IMPORTO OPERAZIONI PER CASSA
+    BENI DI LUSSO ALL'ESTERO                      -  FREQUENZA OPERAZIONI PER CASSA
+-   IMPORTO SPESE CON CARTA PREPAGATE IN BENI     -  SOMMA DEI CREDITI
+    DI LUSSO ALL'ESTERO                           -  RATING CREDITIZIO
+-   FREQUENZA SPESE CON CARTA PREPAGATE IN BENI   -  NUMERO CARTE PREPAGATE
+    DI LUSSO ALL'ESTERO                           -  NUMERO CARTE DI CREDITO
+-   IMPORTO SPESE CON CARTA DI DEBITO IN BENI DI  -  NUMERO BANCOMAT
+    LUSSO VIRTUALE                                -  NUMERO DI DELEGHE PER OPERARE
+-   FREQUENZA SPESE CON CARTA DI DEBITO IN BENI   -  NUMERO DI CONTI
+    DI LUSSO VIRTUALE                             -  NUMERO GARANZIE TOTALI
+-   IMPORTO SPESE CON CARTA DI CREDITO IN BENI    -  IMPORTO TOTALE GARANTITO
+    DI LUSSO VIRTUALE                             -  NUMERO DI GARANZIE ESTERE
+-   FREQUENZA SPESE CON CARTA DI CREDITO IN       -  IMPORTO GARANZIE ESTERE
+    BENI DI LUSSO VIRTUALE                        -  NUMERO FIDEJUSSIONI
+-   IMPORTO SPESE CON CARTA PREPAGATE IN BENI     -  NUMERO BANCONOTE 200 RICHIESTE E VERSATE
+    DI LUSSO VIRTUALE                             -  NUMERO BANCONOTE 500 RICHIESTE E VERSATE
+-   FREQUENZA SPESE CON CARTA PREPAGATE IN BENI   -  NUMERO SEGNALAZIONI A UIF
+    DI LUSSO VIRTUALE                             -  MASSIMO LIVELLO DI RISCHIO DI INOLTRO
+-   IMPORTO SPESE CON CARTA DI DEBITO SU          -  NUMERO ALERT GENERATI IN AML
+    MERCHANT DUAL USE                             -  NUMERO CASSETTE SICUREZZA
+-   FREQUENZA SPESE CON CARTA DI DEBITO SU        -  FREQUENZA ACCESSO CASSETTE SICUREZZA
+    MERCHANT DUAL USE
+ La matrice di confusione per quanto riguarda l’ambito generico, riporta un valore di
+ accuratezza buono, del 73.36%, che indica la percentuale di istanze che sono state
+ classificate correttamente dal modello.
+ La matrice di confusione produce inoltre come output il coefficiente statistico che
+ rappresenta il grado di accuratezza e affidabilità in una classificazione statistica, ossia la
+ Kappa di Cohen, con valore ottenuto 0.6226.
+                                                                                             26
+
+I modelli probabilistici predittivi hanno ottenuto una discreta capacità di performance
+nell’attribuire correttamente l’etichetta di classe al rischio, come si evince dai valori ottenuti
+degli indici di bontà, con una percentuale di classificazione corretta circa e superiore del
+50%. I modelli sono adesso in grado di fare previsioni future nei vari sotto ambiti con una
+percentuale di classificazione errata discreta.
+6.9 RICICLAGGIO
+Per quanto riguarda i tre sotto ambiti del riciclaggio:
+    - bonifici per cassa
+    - società opache
+    - contanti
+è stato applicato momentaneamente il modello probabilistico predittivo Bayesiano
+GENERICO, con ben 117 attributi, tra cui anagrafici e di rischio.
+I risultati di performance, dunque si possono osservare nella matrice di confusione del
+modello precedente, tra cui l’accuratezza, la kappa di Cohen, la curva di ROC e l’area
+sottostante (AUC).
+                                                                                               27
+
+Nel passo successivo, questi tre sotto ambiti del riciclaggio, avranno ciascuno un modello
+predittivo a parte, che caratterizza le singole proprietà del sotto ambito.
+     7. VALUTAZIONE FINALE
+Dalle analisi precedenti, si evince chiaramente che in un ambito di classificazione è
+importante valutare l’affidabilità del modello per fini predittivi, e ciò viene definito mediante
+il calcolo dell’accuratezza del classificatore attraverso vari metodi.
+In questo campo di studio è stato trattato in particolar modo la divisione del set di dati in
+una parte più ampia di allenamento e la rimanente oggetto di valutazione.
+È fondamentale chiarire alcuni concetti presupposti di base, per capire la metodologia
+utilizzata per considerare affidabile un modello in base ad alcuni singoli indici di bontà.
+In un contesto dove la variabile di target è il livello di rischio dei singoli soggetti e/o degli
+interi cluster, è stato usato un approccio dove la variabile “RISCHIO” è stata costruita, ossia
+etichettata con valori da 1 a 5, in ordine di grado di rischio da basso ad alto, utilizzando una
+metodologia induttiva.
+L’utilizzo dell’induzione è dovuto al fatto che operando in un contesto di incertezza non si è
+in grado di avere come informazione a priori il grado di rischio dei clienti, ma è questa
+un’informazione che viene ricavata in base ai valori che il record presenta in un tot di
+variabili, diverse per ogni sotto ambito.
+L’approccio induttivo, permette di passare dal caso particolare al caso generale, questo
+concetto è fondamentale in quanto avendo analizzato nel dettaglio una serie di casi di
+soggetti rischiosi o meno, è stato possibile costruire un filo logico da adottare per etichettare
+i singoli soggetti con una classe di rischio basato sulle caratteristiche che presentano negli
+attributi esplicativi.
+Dunque i modelli probabilistici costruiti per ciascun sotto ambito sono stati realizzati con un
+set di dati di partenza che non può essere completamente rappresentativo della realtà, in
+quanto ottenuto per induzione, e soprattutto in un contesto come questo di incertezza, è
+basilare che l’etichetta attribuita a ciascun record è basata molto anche sulla conoscenza
+pregressa di colui che assegna tale livello di rischio.
+Conseguenza delle metodologie utilizzate, è il grado di accuratezza dei singoli modelli, che
+non risulta essere ottimale ma comunque è ritenuto sufficiente per rappresentare tali dati
+come primo punto di partenza.
+È ovvio che il set di dati di allenamento dei modelli con il tempo sarà migliorato aggiornando
+alcune informazioni e/o addirittura etichettare nuovamente soggetti con un diverso grado di
+rischio rispetto a quanto prima fosse.
+                                                                                               28
+
+  8. REGOLE EVIDENZE ANOMALIA
+  •   Le regole di evidenza anomalia agiscono per:
+  •   AMBITO
+  •   SOTTOAMBITO
+  Ed hanno associato un peso di rischio personalizzabile per tipologia del soggetto vertice del
+  cluster:
+      • Persona giuridica
+      • Persona fisica
+      • Persona non fisica
+SottoAmbito REA                    PesoVPG PesoVPF PesoVPNF DescrizioneSoglia             ValoreSoglia
+Aziende     che Bonifici verso     90      90       90            Importo         totale 10000
+vincono appalti paesi            a                                bonifici
+                 fiscalità
+                 agevolata
+Aziende     che Il         cluster 60      60       60            Importo        Bonifici 5000
+vincono appalti effettua                                          Esteri
+                 bonifici Esteri
+Aziende     che Il         cluster 90      90       90            Bonifici per Cassa      10
+vincono appalti effettua
+                 bonifici      per
+                 cassa
+Aziende     che Il         cluster 50      50       50            Importo        Bonifici 5000
+vincono appalti effettua                                          Rischiosi
+                 bonifici
+                 rischiosi
+Aziende     che Il         cluster 60      60       60            Movimenti contanti      30000
+vincono appalti effettua
+                 movimenti
+                 contanti
+Aziende     che Il         cluster 80      80       80            Numero Banconote 10
+vincono appalti utilizza                                          da 500 utilizzate
+                 banconote da
+                 500 eur
+Aziende     che Il         cluster 90      90       90            Acquisto       Moneta 10
+vincono appalti utilizza                                          Virtuale
+                 moneta
+                 virtuale
+Aziende     che Soggetti del       80      80       80            Numero soggetti nel 0
+vincono appalti cluster         da                                cluster     in    liste
+                 famiglie                                         famiglie calabresi
+                 calabresi
+Aziende     che Soggetti del       80      80       80            Numero soggetti nel 0
+vincono appalti cluster in liste                                  cluster     in    liste
+                 crimini                                          criminali
+                                                                                              29
+
+Aziende    che Soggetti del       90 90 90 Soggetti in liste pep o 10
+vincono appalti cluster in liste           crimenali
+                pep
+Aziende    che Spese         con  70 70 70 Importo spese           e 1000
+vincono appalti carte                      prelievi all'estero
+                all'estero
+Aziende    che Bonifici verso     80 80 80 Importo           Totale 10000
+vincono appalti paesi           a          bonifici > 10000
+senza CIG       fiscalità
+                agevolata
+Aziende    che Il         cluster 70 70 70 Importo          bonifici 90000
+vincono appalti effettua                   Esteri
+senza CIG       bonifici Esteri
+Aziende    che Il         cluster 90 90 90 Bonifici per cassa        10
+vincono appalti effettua
+senza CIG       bonifici      per
+                cassa
+Aziende    che Il         cluster 60 60 60 Bonifici con Causali 10000
+vincono appalti effettua                   Rischiose
+senza CIG       bonifici
+                rischiosi
+Aziende    che Il         cluster 70 70 70 Movimenti Contante        100000
+vincono appalti effettua
+senza CIG       movimenti
+                contanti
+Aziende    che Il         cluster 80 80 80 Numero Banconote 10
+vincono appalti utilizza                   da 500 utilizzate
+senza CIG       banconote da
+                500 eur
+Aziende    che Il         cluster 90 90 90 Importo           Totale 0
+vincono appalti utilizza                   Compravendite
+senza CIG       moneta
+                virtuale
+Aziende    che Il         cluster 90 90 90 Compravendita             0
+vincono appalti utilizza                   Moneta          Virtuale
+senza CIG       moneta                     come Bitcoin, etc.
+                virtuale
+Aziende    che Soggetti del       80 80 80 Numero soggetti nel 0
+vincono appalti cluster        da          cluster      in     liste
+senza CIG       famiglie                   famiglie calabresi
+                calabresi
+Aziende    che Soggetti del       80 80 80 Numero soggetti nel 0
+vincono appalti cluster in liste           cluster      in     liste
+senza CIG       crimini                    criminali
+Aziende    che Soggetti del       90 90 90 Soggetti in liste PEP o 10
+vincono appalti cluster in liste           crime
+senza CIG       pep
+Aziende    che Spese         con  50 50 50 Importo                   1000
+vincono appalti carte                      spese/prelievi
+senza CIG       all'estero                 all'estero
+                                                                         30
+
+Concessionari Bonifici verso 90     90 90 Importo          Totale 10000
+di Appalti    paesi            a          Bonifici > 10000
+              fiscalità
+              agevolata
+Concessionari Il        cluster 80  80 80 Il cluster Effettua 35000
+di Appalti    effettua                    Bonifici Esteri in Dare
+              bonifici Esteri             per importo > 15000
+Concessionari Il        cluster  90 90 90 Importo Bonifici per 45000
+di Appalti    effettua                    cassa
+              bonifici      per
+              cassa
+Concessionari Il        cluster  90 90 90 Importo          Totale 20000
+di Appalti    effettua                    Movimenti
+              movimenti
+              contanti
+Concessionari Il        cluster  90 90 90 Importo         Bonifici 10000
+di Appalti    esegue Bon.                 Rischiosi
+              rischiosi
+              Importo         >
+              10000
+Concessionari Il        cluster  80 80 80 Numero Banconote 10
+di Appalti    utilizza                    da 500 utilizzate
+              banconote da
+              500 eur
+Concessionari Soggetti del       80 80 80 Numero soggetti nel 0
+di Appalti    cluster        da           cluster      in     liste
+              famiglie                    famiglie calabresi
+              calabresi
+Concessionari Soggetti del       80 80 80 Numero soggetti nel 0
+di Appalti    cluster in liste            cluster      in     liste
+              crimini                     criminali
+Concessionari Soggetti del       80 80 80 Numero Pep/PIL nel 0
+di Appalti    cluster in liste            cluster
+              pep
+Concessionari Soggetti legati    70 70 70 Soggetti Rischiosi        0
+di Appalti    a        edilizia,
+              rifiuti, gioco...
+Concessionari Spese         con  70 70 70 Importo spese           e 1000
+di Appalti    carte                       prelievi all'estero
+              all'estero
+Corruzione    Il        cluster  80 80 80 Effettua        Bonifici 15000
+Dipendenti    effettua                    esteri in dare per
+Pubblici      bonifici Esteri             importo > di 15000
+Corruzione    Il        cluster  90 90 90 Importo Bonifici per 10
+Dipendenti    effettua                    cassa
+Pubblici      bonifici      per
+              cassa
+Corruzione    Il        cluster  70 70 70 Totale          Bonifici 10000
+Dipendenti    effettua                    rischiosi
+Pubblici
+                                                                        31
+
+               bonifici
+               rischiosi
+Corruzione     il        cluster 70 70 70 Movimentazione in 20000
+Dipendenti     effettua                   contante del cluster
+Pubblici       movimenti                  sopra      la     soglia
+               contanti                   "Importo Contanti"
+Corruzione     Il        cluster 80 80 80 Numero Banconote 10
+Dipendenti     utilizza                   da 500 utilizzate
+Pubblici       banconote da
+               500 eur
+Corruzione     Il        cluster 90 90 90 Importo          Totale 0
+Dipendenti     utilizza                   Compravendite
+Pubblici       moneta
+               virtuale
+Corruzione     Il      numero    70 70 70 Numero deleghe del 10
+Dipendenti     delle deleghe              vertice del cluster
+Pubblici       nel cluster è >
+               10
+Corruzione     Soggetti del      80 80 80 Numero soggetti nel 0
+Dipendenti     cluster       da           cluster      in     liste
+Pubblici       famiglie                   famiglie calabresi
+               calabresi
+Corruzione     Soggetti del      80 80 80 Numero soggetti nel 0
+Dipendenti     cluster in liste           cluster      in     liste
+Pubblici       crimini                    criminali
+Corruzione     Soggetti del      90 90 90 Numero soggetti del 0
+Dipendenti     cluster in liste           cluster che sono PEP
+Pubblici       pep                        o Criminali o legati
+                                          alla ndrangheta
+Corruzione     soggetti      del 90 90 90 Importo Acquisto          10
+Dipendenti     cluster
+Pubblici       utilizzano
+               moneta
+               virtuale
+Corruzione     Soggetto del      60 60 60 Totale       Pagamenti 10000
+Dipendenti     cluster pagato             Ricevuti da azienda
+Pubblici       da      aziende            vincente appalti PA
+               vincenti
+Corruzione     Spese        con  60 60 60 Importo spese           e 1000
+Dipendenti     carte                      prelievi all'estero
+Pubblici       all'estero
+Bonifici   per Bonifici verso    80 80 80 Il cluster Effettua 5000
+cassa          paesi           a          Bonifici Esteri in Dare
+               fiscalità                  a fiscalità agevolata
+               agevolata                  per importo > 5000
+Bonifici   per Il        cluster 80 80 80 Il cluster Effettua 15000
+cassa          effettua                   Bonifici Esteri in Dare
+               bonifici Esteri            per importo > 15000
+                                                                        32
+
+Bonifici per Il        cluster 90 90 90 Importo Bonifici per 7000
+cassa        effettua                   cassa
+             bonifici      per
+             cassa
+Bonifici per Il        cluster 90 90 90 Importo         Totale 20000
+cassa        effettua                   Movimenti
+             movimenti
+             contanti
+Bonifici per Il        cluster 90 90 90 Importo        Bonifici 10000
+cassa        esegue Bon.                Rischiosi
+             rischiosi
+             Importo         >
+             10000
+Bonifici per Il cluster ha     80 80 80 Importo         Totale 150000
+cassa        SAE600 che                 Movimenti
+             muovono
+             contanti
+Bonifici per Il        cluster 80 80 80 Numero Banconote 10
+cassa        utilizza                   da 500 utilizzate
+             banconote da
+             500 eur
+Bonifici per Il        cluster 90 90 90 Importo         Totale 0
+cassa        utilizza                   Compravendite
+             moneta
+             virtuale
+Bonifici per Soggetti del      80 80 80 Numero soggetti nel 0
+cassa        cluster        da          cluster     in    liste
+             famiglie                   famiglie calabresi
+             calabresi
+Bonifici per Soggetti del      80 80 80 Numero soggetti nel 0
+cassa        cluster in liste           cluster     in    liste
+             crimini                    criminali
+Bonifici per Soggetti del      80 80 80 Numero Pep/PIL nel 0
+cassa        cluster in liste           cluster
+             pep
+Bonifici per Spese        con  80 80 80 Importo     spese     e 2000
+cassa        carte                      prelievi
+             all'estero
+Contante     Bonifici verso    90 90 90 Importo Bonifici        10000
+             paesi           a
+             fiscalità
+             agevolata
+Contante     Il        cluster 90 90 90 Compravendita           10000
+             acquista                   Moneta Virtuale
+             valuta virtuale
+Contante     Il        cluster 80 80 80 Importo Bonifici        10000
+             effettua
+             bonifici Esteri
+Contante     Il        cluster 90 90 90 Importo Bonifici per 10
+             effettua                   cassa
+                                                                    33
+
+             bonifici     per
+             cassa
+Contante     Il       cluster 50 50 50 Importo Bonifici        10000
+             effettua
+             bonifici
+             rischiosi
+Contante     Il       cluster 90 90 90 Importo        Totale 20000
+             effettua                  Movimenti
+             movimenti
+             contanti
+Contante     Il cluster ha    80 80 80 Importo Contanti        150000
+             SAE         che
+             muovono
+             contanti
+Contante     Il       cluster 90 90 90 Numero Banconote 10
+             utilizza                  da 500 eur
+             banconote da
+             500 eur
+Contante     Soggetti del     80 80 80 Numero soggetti nel 0
+             cluster       da          cluster     in    liste
+             famiglie                  famiglie calabresi
+             calabresi
+Contante     Soggetti del     80 80 80 Numero soggetti nel 0
+             cluster in liste          cluster     in    liste
+             crimini                   criminali
+Contante     Soggetti del     80 80 80 Numero Pep/PIL nel 0
+             cluster in liste          cluster
+             pep
+Contante     Spese       con  80 80 80 Importo     spese     e 2000
+             carte                     prelievi
+             all'estero
+Controllo II Banconote da     80 80 80 Importo                 10
+Livello      500
+Controllo II Bon.Esteri       80 80 80 Importo                 10000
+Livello      Fiscalità
+             Agevolata
+Controllo II Bonifici Esteri  80 80 80 Importo                 10000
+Livello
+Controllo II Bonifici     per 80 80 80 Importo                 10000
+Livello      Cassa
+Controllo II Bonifici         80 80 80 Importo                 10000
+Livello      Rischiosi
+Controllo II Criminali        80 80 80 Importo                 0
+Livello
+Controllo II Famiglie         80 80 80 Importo                 0
+Livello      Calabresi
+Controllo II Movimento        80 80 80 Importo                 150000
+Livello      Contanti
+Controllo II Numero           80 80 80 Importo                 10
+Livello      Deleghe
+                                                                   34
+
+Controllo II Pep/PIL           80 80 80 Importo                 0
+Livello
+Controllo II SAE600            80 80 80 Importo                 150000
+Livello      Muovono
+             contanti
+Controllo II Spese        con  80 80 80 Importo                 10000
+Livello      Carte
+             all'estero
+Controllo II Valuta            80 80 80 Importo                 10000
+Livello      Virtuale
+Società      Bonifici verso    90 90 90 Importo         Totale 10000
+Opache       paesi           a          Bonifici > 10000
+             fiscalità
+             agevolata
+Società      Il        cluster 80 80 80 Il cluster effettua 10000
+Opache       effettua                   bonifici esteri per
+             Bonifici Esteri            importi > 15.000
+                                        EUR
+Società      Il        cluster 90 90 90 Importo Bonifici per 10
+Opache       effettua                   cassa
+             bonifici      per
+             cassa
+Società      Il        cluster 70 70 70 Importo        Bonifici 5000
+Opache       effettua                   Rischiosi
+             bonifici
+             rischiosi
+Società      Il        cluster 70 70 70 Movimentazione in 20000
+Opache       effettua                   contante del cluster
+             movimenti                  sopra la soglia
+             contanti
+Società      Il cluster ha     80 80 80 Importo         Totale 150000
+Opache       SAE600 che                 Movimenti
+             muovono
+             contanti
+Società      Il        cluster 80 80 80 Numero Banconote 10
+Opache       utilizza                   da 500 utilizzate
+             banconote da
+             500 eur
+Società      Il        cluster 90 90 90 Importo         Totale 0
+Opache       utilizza                   Compravendite
+             moneta
+             virtuale
+Società      Soggetti del      80 80 80 Numero soggetti nel 0
+Opache       cluster        da          cluster     in    liste
+             famiglie                   famiglie calabresi
+             calabresi
+Società      Soggetti del      80 80 80 Numero soggetti nel 0
+Opache       cluster in liste           cluster     in    liste
+             crimini                    criminali
+                                                                    35
+
+Società Soggetti del 90      90 90 Numero Soggetti PEP 0
+Opache  cluster in liste           o Criminali contenuti
+        pep                        nel cluster > 0
+Società Spese        con  80 80 80 Importo totale spese 1000
+Opache  carte                      e prelievi all'estero
+        all'estero
+Carità  Bonifici verso    90 90 90 Importo          Totale 5000
+        paesi           a          Bonifici
+        fiscalità
+        agevolata
+Carità  Il        cluster 70 70 70 Importo           totale 5000
+        effettua                   bonifici
+        Bonifici Esteri
+Carità  Il        cluster 90 90 90 Importo Bonifici per 10
+        effettua                   cassa
+        bonifici      per
+        cassa
+Carità  Il        cluster 90 90 90 Importo          Totale 20000
+        effettua                   Movimenti
+        movimenti
+        contanti
+Carità  Il        cluster 90 90 90 Importo         Bonifici 10000
+        esegue Bon.                Rischiosi
+        rischiosi
+        Importo         >
+        10000
+Carità  Il cluster ha     80 80 80 Importo          Totale 150000
+        SAE600 che                 Movimenti
+        muovono
+        contanti
+Carità  Il        cluster 80 80 80 Numero Banconote 10
+        utilizza                   da 500 utilizzate
+        banconote da
+        500 eur
+Carità  Il        cluster 90 90 90 Importo          Totale 0
+        utilizza                   Compravendite
+        moneta
+        virtuale
+Carità  Soggetti del      80 80 80 Numero soggetti nel 0
+        cluster        da          cluster     in      liste
+        famiglie                   famiglie calabresi
+        calabresi
+Carità  Soggetti del      80 80 80 Numero soggetti nel 0
+        cluster in liste           cluster     in      liste
+        crimini                    criminali
+Carità  Soggetti del      90 90 90 Numero di criminali o 0
+        cluster in liste           PEP nel cluster
+        pep
+                                                                36
+
+Carità     Spese        con  80 80 80 Importo totale spese 1000
+           carte                      e prelievi
+           all'estero
+Finanza    Bonifici verso    90 90 90 Importo           totale 5000
+islamica   paesi           a          bonifici
+           fiscalità
+           agevolata
+Finanza    Il        cluster 80 80 80 Importo         Bonifici 5000
+islamica   effettua                   Esteri
+           Bonifici Esteri
+Finanza    Il        cluster 90 90 90 Importo Bonifici per 10
+islamica   effettua                   cassa
+           bonifici      per
+           cassa
+Finanza    Il        cluster 70 70 70 Movimentazione in 20000
+islamica   effettua                   contante del cluster
+           movimenti                  sopra la soglia
+           contanti
+Finanza    Il        cluster 90 90 90 Importo         Bonifici 10000
+islamica   esegue Bon.                Rischiosi
+           rischiosi
+           Importo         >
+           10000
+Finanza    Il        cluster 80 80 80 Numero Banconote 10
+islamica   utilizza                   da 500 utilizzate
+           banconote da
+           500 eur
+Finanza    Il        cluster 90 90 90 Importo          Totale 0
+islamica   utilizza                   Compravendite
+           moneta
+           virtuale
+Finanza    Soggetti del      80 80 80 Numero soggetti nel 0
+islamica   cluster        da          cluster      in     liste
+           famiglie                   famiglie calabresi
+           calabresi
+Finanza    Soggetti del      80 80 80 Numero soggetti nel 0
+islamica   cluster in liste           cluster      in     liste
+           crimini                    criminali
+Finanza    Soggetti del      80 80 80 Numero        PEP       o 0
+islamica   cluster in liste           criminali
+           pep
+Finanza    Spese        con  80 80 80 Importo spese           e 1000
+islamica   carte                      prelievi all'estero
+           all'estero
+Fondazioni Bonifici verso    90 90 90 Importo          Totale 5000
+Islamiche  paesi           a          Bonifici
+           fiscalità
+           agevolata
+                                                                    37
+
+Fondazioni Il        cluster 80 80 80 Importo          totale 5000
+Islamiche  effettua                   bonifici
+           Bonifici Esteri
+Fondazioni Il        cluster 90 90 90 Importo Bonifici per 10
+Islamiche  effettua                   cassa
+           bonifici      per
+           cassa
+Fondazioni Il        cluster 90 90 90 Importo          Totale 20000
+Islamiche  effettua                   Movimenti
+           movimenti
+           contanti
+Fondazioni Il        cluster 90 90 90 Importo         Bonifici 10000
+Islamiche  esegue Bon.                Rischiosi
+           rischiosi
+           Importo         >
+           10000
+Fondazioni Il        cluster 80 80 80 Numero Banconote 10
+Islamiche  utilizza                   da 500 utilizzate
+           banconote da
+           500 eur
+Fondazioni Il        cluster 90 90 90 Importo          Totale 0
+Islamiche  utilizza                   Compravendite
+           moneta
+           virtuale
+Fondazioni Soggetti del      80 80 80 Numero soggetti nel 0
+Islamiche  cluster        da          cluster     in     liste
+           famiglie                   famiglie calabresi
+           calabresi
+Fondazioni Soggetti del      80 80 80 Numero soggetti nel 0
+Islamiche  cluster in liste           cluster     in     liste
+           crimini                    criminali
+Fondazioni Soggetti del      90 90 90 Numero di criminali o 0
+Islamiche  cluster in liste           PEP nel cluster
+           pep
+Fondazioni Spese        con  70 70 70 Importo totale spese 1000
+Islamiche  carte                      e prelievi
+           all'estero
+Hawalla    Bonifici verso    90 90 90 Importo          totale 5000
+           paesi           a          Bonifici
+           fiscalità
+           agevolata
+Hawalla    Il        cluster 80 80 80 Bonifici Esteri          10
+           effettua
+           bonifici Esteri
+Hawalla    Il        cluster 90 90 90 Importo Bonifici per 10
+           effettua                   cassa
+           bonifici      per
+           cassa
+Hawalla    Il        cluster 90 90 90 Importo          Totale 20000
+           effettua                   Movimenti
+                                                                   38
+
+                 movimenti
+                 contanti
+  Hawalla        Il       cluster 90     90         90          Importo        Bonifici 10000
+                 esegue Bon.                                    Rischiosi
+                 rischiosi
+                 Importo       >
+                 10000
+  Hawalla        Il cluster ha    80     80         80          Importo         Totale 150000
+                 SAE600 che                                     Movimenti
+                 muovono
+                 contanti
+  Hawalla        Il       cluster 80     80         80          Numero Banconote 10
+                 utilizza                                       da 500 utilizzate
+                 banconote da
+                 500 eur
+  Hawalla        Soggetti del     80     80         80          Numero soggetti nel 0
+                 cluster      da                                cluster     in    liste
+                 famiglie                                       famiglie calabresi
+                 calabresi
+  Hawalla        Soggetti del     80     80         80          Numero soggetti nel 0
+                 cluster in liste                               cluster     in    liste
+                 crimini                                        criminali
+  Hawalla        Soggetti del     90     90         90          Numero di criminali o 0
+                 cluster in liste                               PEP ammessi nel
+                 pep                                            cluster
+  Hawalla        Spese       con  70     70         70          Totale     spese      e 1000
+                 carte                                          prelievi del cluster
+                 all'estero                                     all'estero
+    9. WORKFLOW DI LAVORAZIONE
+Il workflow di approvazione può essere personalizzato per ogni singolo cliente per adattarlo
+alle esigenze organizzative. Un esempio di wkfl base è il seguente:
+                                                                                            39
+
+10.       GLOSSARIO DEI TERMINI UTILIZZATI
+• CURVE ROC (Receiver Operating Characteristic): è lo schema grafico per un
+  classificatore binario. Lungo i due assi si possono rappresentare la sensibilità e (1-
+  specificità), come True Positive Rate (TPR, frazione di veri positivi) e False Positive
+  Rate (FPR, frazione di falsi positivi).
+• ACCURATEZZA: percentuale del numero di istanze classificate correttamente sul
+  totale di istanze classificate.
+• ERRORE (1-accuratezza): percentuale del numero di istanze classificate non
+  corrette sul totale di istanze classificate.
+• Kappa di Kohen: coefficiente statistico che rappresenta il grado di accuratezza e
+  affidabilità in una classificazione statistica
+                                                                                       40
+

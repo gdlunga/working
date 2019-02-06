@@ -1,0 +1,1266 @@
+        UNIVERSITA' DI PISA
+             Master post laurea
+       AUDITING E CONTROLLO
+                    INTERNO
+                    Rebecca Elisa
+ Strategie di gestione dei crediti deteriorati. Il
+          processo di cartolarizzazione
+Tesi di Master
+Relatore: Prof. Traso Paolo
+______________________________________________
+               XIX edizione: 2016-2017
+
+Indice generale
+INTRODUZIONE ........................................................................................ 3
+1. CREDITI DETERIORATI E PROVVEDIMENTI DELLA
+VIGILANZA................................................................................................. 6
+   1.1. Crediti deteriorati in Italia .................................................................. 6
+   1.1.1 Cause della crescita dei crediti deteriorati ........................................ 8
+   1.2 Interventi delle autorità di vigilanza: le Linee Guida .......................... 9
+      1.2.1 Strategia per gli NPL ................................................................. 11
+      1.2.2 Governance e assetto operativo della gestione degli NPL......... 12
+      1.2.3. Misure di concessione .............................................................. 13
+      1.2.4. Rilevazione degli NPL .............................................................. 14
+      1.2.5. Valutazione delle riduzioni di valore e cancellazione degli NPL15
+      1.2.6 Valutazione delle garanzie immobiliari ..................................... 16
+2. CESSIONE DEI CREDITI DETERIORATI ...................................... 18
+   2.1. Strategie di gestione ......................................................................... 18
+      2.1.1 La cessione in blocco ai sensi dell'art. 58 del TUB ................... 20
+      2.1.2. La cartolarizzazione dei crediti ai sensi della Legge 130/99 .... 21
+   2.2. Il mercato delle cessioni di NPL in Italia ......................................... 23
+   2.3. Benefici e criticità della cessione di crediti deteriorati .................... 29
+   2.4. Interventi legislativi per agevolare le cessioni ................................. 31
+      2.4.1. Nuova segnalazione delle esposizioni in sofferenza ................ 31
+      2.4.2. La garanzia dello stato sulla cartolarizzazione delle sofferenze32
+      2.4.3. Il Fondo Atlante ........................................................................ 33
+3. IL PROCESSO DI CARTOLARIZZAZIONE ................................... 35
+   3.1. Il gruppo Finanziaria Internazionale ................................................ 35
+   3.2. Caso studio: Il processo di cartolarizzazione ................................... 37
+      3.2.1. Data recovery, due diligence e business plan ........................... 38
+      3.2.2. Processo competitivo ................................................................ 40
+      3.2.3. Strutturazione............................................................................ 42
+   3.3. Audit sul processo di cartolarizzazione ............................................ 44
+CONCLUSIONI ......................................................................................... 46
+BIBLIOGRAFIA ........................................................................................ 48
+
+                                                                                        3
+                                   INTRODUZIONE
+      I non performing loans (NPL), in italiano “crediti deteriorati”, rappresentano
+una problematica di forte attualità che abbraccia l'intero sistema bancario europeo,
+anche se con gradi e difficoltà che variano da Paese a Paese. Si tratta di crediti la
+cui riscossione da parte delle Banche risulta incerta, frutto dell'incapacità delle
+controparti di far fronte al proprio debito, con deterioramento del rapporto con
+l'Istituto. La presenza massiccia dei crediti deteriorati sui bilanci bancari ha come
+conseguenza l'instabilità del sistema bancario, con impatti negativi sia dal punto di
+vista reddituale che patrimoniale.
+      L'Autorità Bancaria Europea (EBA), con lo scopo di rendere quanto più
+omogenea possibile la valutazione degli attivi bancari tra i vari Paesi, ha elaborato
+gli Implementing Technical Standard (ITS) relativi ai crediti deteriorati,
+successivamente adottati dalla Commissione Europea con il regolamento UE n.
+227/2015. Sulla base del citato provvedimento, quando si parla di crediti deteriorati
+si fa riferimento a tre principali categorie:
+      <U+F0B7>   esposizioni scadute deteriorate (Past Due), sono esposizioni scadute e/o
+          sconfinate da oltre 90 giorni;
+      <U+F0B7>   inadempienze probabili (Unlikely to Pay), sono crediti per i quali la banca
+          ritiene improbabile che, senza il ricorso ad azioni quali l'escussione delle
+          garanzie, il debitore adempia integralmente alle proprie obbligazioni
+          creditizie;
+      <U+F0B7>   sofferenze (Bad Loans), rappresentano la categoria più grave per l'istituto,
+          comprende tutte le attività che la banca vanta verso soggetti debitori che si
+          trovano in stato d'insolvenza o in situazioni equiparabili.
+Tale distinzione è chiaramente legata a un differente livello di rischio e di
+deterioramento del credito.
+      Il presente elaborato prende in considerazione nello specifico la situazione
+italiana, fornendo un quadro del livello di crediti deteriorati raggiunto nel nostro
+Paese e cercando di delinearne le cause. Il capitolo prosegue con una dettagliata
+analisi delle Linee Guida sugli NPL, di recente emanazione a opera della BCE, che
+rappresentano oggi il principale strumento attraverso il quale la Vigilanza si è
+
+proposta di affrontare il problema. Una serie di prassi e indicazioni rivolte agli
+Istituti di Credito, con lo scopo di fissare delle regole comuni sulla gestione dei
+crediti deteriorati. Tali regole hanno riguardato sia l'assetto interno alle banche, a
+livello di organi di governo e funzioni di controllo, sia aspetti più operativi, legati
+alle strategie, ai criteri di rilevazione, alle politiche di accantonamento e
+cancellazione degli NPL.
+      Il secondo capitolo parte dalla considerazione delle strategie a disposizione
+delle banche per la gestione dei deteriorati, che semplificando possono essere
+distinte in: a) mantenimento in portafoglio del credito deteriorato, che a sua volta
+può prevedere la gestione dello stesso da parte della Banca o la sua
+esternalizzazione; b) cessione del credito, con conseguente cancellazione di questo
+dal bilancio. In particolare, l'elaborato si sofferma a descrivere quest'ultima opzione
+strategica, delineando le varie tipologie di cessione presenti sul mercato: la
+cessione ai sensi dell'art.58 del TUB e la cartolarizzazione. In questi contesto, il
+gap bid/ask, quale differenziale tra il prezzo richiesto dagli intermediari e quello
+offerto dagli acquirenti, può essere considerato il principale ostacolo allo sviluppo
+di un mercato secondario dei crediti deteriorati. L'obiettivo degli ultimi interventi
+legislativi è stato quello di contenere tale criticità e di spingere il mercato verso un
+prezzo di scambio più equo.
+      Il terzo e ultimo capitolo si propone di fornire un taglio pratico, scendendo nel
+dettaglio di quanto avviene durante un'operazione di cessione mediante
+cartolarizzazione. Il contributo di un player del settore, Finanziaria Internazionale,
+ha permesso di delineare le fasi principali del processo, analizzando quali sono le
+attività tipiche di ogni fase e quali sono i soggetti che vi prendono parte. Una
+testimonianza importante che ha completato con la propria esperienza il quadro
+teorico e normativo tracciato nei capitoli precedenti e ha permesso di cogliere a
+fondo quali sono le dinamiche proprie di tale operazione, alla quale molti Istituti
+stanno facendo ricorso.
+
+                                                                                                                     5
+1. CREDITI DETERIORATI E PROVVEDIMENTI DELLA
+VIGILANZA
+SOMMARIO: 1.1. Crediti deteriorati in Italia; 1.1.1. Cause della crescita dei crediti deteriorati; 1.2.
+Interventi delle autorità di vigilanza: Le Linee Guida; 1.2.1.Strategia per gli NPL; 1.2.2. Governance e
+assetto operativo della gestione degli NPL; 1.2.3. Misure di concessione; 1.2.4. Rilevazione degli NPL; 1.2.5.
+Valutazione delle riduzioni di valore e cancellazione degli NPL; 1.2.6. Valutazione delle garanzie
+immobiliari
+1.1. Crediti deteriorati in Italia
+       Il livello dei crediti deteriorati (Non performing loans – NPL) nel sistema
+bancario italiano è il più elevato d'Europa, nel 2016 ha toccato il valore di 324
+miliardi di euro. Nel nostro Paese l'incidenza dei crediti deteriorati sui debiti delle
+banche, sembra essere più alta che altrove e coinvolge in maniera più o meno
+rilevante tutti i principali istituti di credito. Dal 2008 a oggi i crediti deteriorati
+hanno registrato un andamento crescente, dopo aver raggiunto il record a fine 2015
+con 341 miliardi di euro, nel corso del 2016 si è rilevata una riduzione del 5% (crf.
+immagine n. 1).
+       Nel dettaglio, le sofferenze (bad loans) non hanno subito variazioni nel corso
+del 2016, mantenendo il valore lordo di 200 miliardi di euro, attestandosi al netto
+delle rettifiche di valore a 87 miliari, in diminuzione rispetto il 2015, ma con un
+bad loans coverage ratio 1 in aumento di un punto percentuale al 56%. I crediti
+classificati come unlikely to pay e past due si sono invece ridotti, raggiungendo
+rispettivamente i 117 miliardi (erano 127 nel 2015) e 7 miliardi (erano 14 nel
+2015)2.
+1
+  Bad loans Coverage ratio: tasso di copertura dei bad loans. E' dato dal rapporto tra l'importo delle rettifiche di
+      valore relative al portafoglio di crediti in sofferenza e l'ammontare complessivo lordo delle sofferenze.
+2
+  Studio Pwc, The Italian NPL market. The place to be, Luglio 2017
+
+                            Immagine 1: Gross NPE e Bad Loans trend
+              Fonte: Analisi PwC su Bollettino Statistico Banca d'Italia e ABI Monthly Outlook
+1.1.1 Cause della crescita dei crediti deteriorati
+      Per inquadrare il problema dei crediti deteriorati nel nostro Paese occorre
+delineare prima di tutto le cause che ne stanno alla base e che hanno portato l'Italia
+a primeggiare rispetto il resto d'Europa. I fattori che hanno inciso sulla crescita
+degli NPL sono molteplici, in primo luogo va citata la pesante crisi economica che
+ha interessato il nostro Paese negli ultimi anni e che ha portato a una riduzione
+della capacità della clientela di far fronte ai propri debiti. Di fatto sussiste una
+stretta correlazione di tipo inverso tra l'andamento del PIL e l'ammontare delle
+sofferenze3. Dal 2008 il PIL ha subito una forte contrazione che si è proiettata sulla
+qualità del credito, dovuta al diffondersi dei fallimenti delle imprese e all'aumento
+della disoccupazione.
+      Un altro aspetto determinante sull'andamento dei crediti deteriorati riguarda la
+lentezza delle procedure di recupero del nostro sistema giudiziario. I tempi per
+3
+  Barbagallo C., I crediti deteriorati delle banche italiane: problematiche e tendenze recenti, Giugno 2017
+
+                                                                                          7
+concludere una procedura fallimentare si aggirano tra i 6 e i 7 anni, molti di più
+rispetto altri paesi europei. Il problema si accentua in momenti di forte crescita
+dello stock di deteriorati, in quanto il sistema non riesce a evadere prontamente le
+pratiche che si accumulano negli uffici dei tribunali, aumentando i tempi
+complessivi di attesa.
+     A questo si aggiungono politiche creditizie sbagliate, inadeguate o illecite,
+intraprese da alcuni istituti di credito, che sono stati oggetto di sanzioni e indagini
+giudiziali. In alcuni casi si sono riscontrate erogazioni in conflitto di interesse; sono
+stati concessi poteri decisionali sul conferimento di nuovi finanziamenti, a soggetti
+appartenenti alla rete commerciale, spinti a erogare dall'obiettivo di raggiungere i
+rispettivi sistemi incentivanti, più che da una chiara analisi di merito. Infine, tra le
+cause della crescita degli NPL, vanno citati comportamenti eccessivamente
+tolleranti degli intermediari rispetto i debitori inadempienti, dettati talvolta anche
+da sistemi interni di monitoraggio del credito poco efficaci. Gli istituti di credito
+hanno spesso adottato un atteggiamento troppo permissivo, nei confronti di
+eventuali ritardi della controparte a far fronte al proprio debito, sottovalutando
+l'importanza di un tempestivo e strutturato processo di recupero crediti.
+1.2 Interventi delle autorità di vigilanza: le Linee Guida
+     Se è vero che in Italia i crediti deteriorati hanno raggiunto valori molto elevati,
+va detto che si tratta comunque di un problema che coinvolge l'intero sistema
+bancario europeo, a tal punto da spingere la BCE ad affrontare direttamente la
+questione. Nel mese di Marzo 2017 sono state emanate le “Linee Guida per le
+banche sui crediti deteriorati (NPL)”, alle quali nel mese di Ottobre è seguito
+l'Addendum, contenente ulteriori precisazioni a carattere quantitativo.
+     La Vigilanza nell'espletamento delle proprie funzioni aveva notato un
+approccio molto differente da parte dei vari istituti bancari nell'individuazione,
+misurazione, gestione e cessione degli NPL. Da qui la necessità di far ordine e di
+creare un insieme di “migliori prassi”, quale strumento per aiutare gli istituti ad
+affrontare e superare il problema dei crediti deteriorati, secondo un quadro d'azione
+
+uniforme a livello europeo.
+       Le Linee Guida si applicano a tutti gli enti significativi, soggetti a vigilanza
+diretta nell'ambito del Meccanismo Unico di Vigilanza (MVU). Possono comunque
+essere seguite anche dagli altri enti, detti Less Significant, in maniera autonoma o
+se espressamente richiesto dalla Vigilanza, qualora si presentino elevati livelli di
+NPL, di posizioni in forborne, bassi livelli di accantonamenti o indice Texas Ratio4
+elevato. Banca d'Italia in continuità con quanto previsto a livello europeo ha
+emanato un documento rivolto alle banche Less Significant “Linee Guida per le
+banche Less Significant italiane in materia di gestione di crediti deteriorati”.
+Vengono definite come norme non vincolanti, ma di fatto le Autorità di igilanza ne
+tengono conto nel corso del processo di revisione e valutazione prudenziale –
+SREP (supervisory review and evaluation process), e possono pertanto chiedere
+alle banche di motivare e fornire spiegazioni in caso di mancata conformità.
+       L'obiettivo di fondo delle Linee Guida è ripulire i bilanci bancari, riducendo i
+livelli di crediti deteriorati e rettificando i relativi accantonamenti. La vigilanza
+sembra quindi aver individuato nel contenimento del rischio di credito, lo
+strumento per il perseguimento di una redditività di lungo periodo, perché come
+riferito da Danièle Nouy - Presidente del Consiglio di Vigilanza «[...] i crediti
+deteriorati gravano sui bilanci bancari, comprimendo gli utili e limitando la
+capacità degli intermediari di erogare credito all'economia5».
+       Le Linee Guida seguono le fasi del ciclo di vita e di gestione degli NPL e si
+compongono di 7 capitoli: introduzione; strategia per gli NPL; governance e
+assetto operativo nella gestione degli NPL; misure di concessione; rilevazione
+degli NPL; valutazione delle riduzioni di valore e cancellazione degli NPL;
+valutazione delle garanzie immobiliari. Di seguito una breve spiegazione per
+ognuno di essi.
+4
+  A questo proposito, si veda www.borsaitaliana.it, Sotto la lente Il texas ratio, «Si tratta di un indicatore che mette
+      in rapporto i crediti deteriorati al patrimonio netto tangibile di una banca. In parole semplici questo indicatore
+      rapporta i crediti a rischio al patrimonio tangibile della banca (ossia al capitale netto diminuito delle
+      immobilizzazioni immateriali) per verificare che quest'ultimo superi il primo e che quindi la banca sappia far
+      fronte all'eventuale perdita di questi crediti».
+5
+  BCE, Rapporto annuale della BCE sulle attività di vigilanza 2016, Marzo 2017
+
+                                                                                        9
+1.2.1 Strategia per gli NPL
+     Nel secondo capitolo “Strategia per gli NPL”, le Linee Guida raccomandano
+alle banche di dotarsi di strategie di riduzione delle consistenze di NPL in modo
+credibile, praticabile e tempestivo. Secondo quanto riportato, l'elaborazione delle
+strategie parte prima di tutto da un'attività di autovalutazione, che dovrebbe aiutare
+le banche a comprendere i propri punti di forza e le debolezze, sulle quali lavorare
+per poter conseguire gli obiettivi di riduzione dei crediti deteriorati. Le banche
+devono cioè delineare il proprio contesto operativo interno, partendo dalla
+definizione dell'entità del problema, considerando le misure di gestione intraprese
+in passato e la capacità operativa a disposizione, per poter attuale in maniera
+efficace le misure correttive. A questa attività si affianca la comprensione dello
+stato attuale e delle prospettive future del contesto esterno, con riferimento alle
+condizioni macroeconomiche del Paese, alle aspettative del mercato, alle
+dinamiche di mercato degli NPL, al grado di maturità dei suoi operatori, nonché al
+quadro normativo e fiscale.
+     Sulla base di queste considerazioni, la banche devono stabilire quali opzioni
+strategiche adottare, anche in combinazione tra loro, tra cui:
+     <U+F0B7>   il mantenimento delle posizioni in bilancio con           possibili misure di
+         concessione;
+     <U+F0B7>   la riduzione attiva dei portafogli mediante cessioni;
+     <U+F0B7>   l'appropriazione delle garanzie reali e opzioni di tipo legale comprese le
+         procedure extragiudiziali.
+         Le strategie devono contenere obiettivi di tipo quantitativo di riduzione
+degli NPL, per orizzonti temporali di lungo, medio (3 anni) e breve periodo (1
+anno). La loro approvazione spetta al Consiglio di Amministrazione su base
+annuale, che viene così direttamente coinvolto nella gestione dei crediti deteriorati.
+     Le banche devono inoltre elaborare un piano operativo attuativo delle strategie,
+caratterizzato da adeguate procedure, adeguate strutture di governance e una chiara
+attribuzione delle competenze. Infine, le Linee Guida evidenziano          l'importanza
+dell'integrazione delle strategie nei processi, a tutti i livelli dell'organizzazione.
+Integrazione che si concretizza mediante un'efficace attività di comunicazione
+
+interna, attribuendo ruoli, responsabilità e incentivi al personale, per il
+conseguimento degli obiettivi prestabiliti. L'allineamento delle strategie al piano
+industriale, al bilancio, al sistema di controllo interno, inclusi ICAAP, RAF e
+Piano di risanamento, concludono il capitolo.
+1.2.2 Governance e assetto operativo della gestione degli NPL
+     La Vigilanza pone attenzione sull'adeguatezza della governance e dell'assetto
+operativo delle banche, quali aspetti essenziali per affrontare il problema dei crediti
+deteriorati in modo efficiente e sostenibile. In quest'ottica, le Linee Guida
+attribuiscono all'Organo di Amministrazione, il compito di approvare e guidare le
+strategie e il piano operativo sugli NPL. Il Consiglio di Amministrazione assume
+così un ruolo centrale, assumendosi la responsabilità di approvare con cadenza
+annuale gli indirizzi strategici e operativi, oltre a monitorare nel continuo la loro
+effettiva implementazione e i progressi conseguiti. L'autorità richiede alle banche
+di creare, all'interno della struttura organizzativa, unità dedicate al trattamento dei
+crediti deteriorati. Tali unità devono essere completamente separate rispetto alle
+strutturare preposte all'erogazione dei prestiti, per evitare possibili conflitti di
+interesse. Banche con elevati livelli di crediti deteriorati, dovrebbero costituire
+diverse unità per le varie fasi del ciclo di vita degli NPL e per i diversi portafogli
+crediti, con la finalità di migliorarne la gestione e massimizzare i recuperi. Le unità
+dovrebbero inoltre dotarsi di risorse specializzate, di politiche di remunerazione e
+incentivanti calibrate sulle performance del personale e di infrastrutture tecniche
+adeguate.
+     Per quanto riguarda il sistema dei controlli, viene chiesto alle banche di porre
+in essere procedure di controllo, in grado di assicurare che strategie e piano
+operativo per gli NPL siano in linea con la strategia aziendale e la propensione al
+rischio della banca. Il sistema deve coinvolgere tutte le tre linee di difesa, alle
+quali vanno chiaramente attribuiti ruoli e competenze, per evitare buchi operativi o
+sovrapposizioni.
+     Gli istituti vengono invitati a sviluppare sistemi di monitoraggio, attraverso la
+
+                                                                                         11
+predisposizione di indicatori – KPI (key performance indicators), per permettere
+agli organi amministrativi e direzionali di controllare i risultati raggiunti nelle
+attività di recupero. Al fine, invece, di identificare segnali precoci di
+deterioramento del credito, vengono richiesti sistemi di early warning (allerta
+precoce). Questi indicatori consentono di individuare i primi segnali di criticità e di
+gestire le posizioni a rischio con tempestività e con maggiori probabilità di
+successo.
+1.2.3. Misure di concessione
+     Il quarto capitolo delle Linee Guida è dedicato alle misure di concessione sul
+credito. La Vigilanza, durante le sue indagini, ha osservato che spesso le banche di
+fronte situazioni di difficoltà del debitore, fanno ricorso a misure di concessione in
+maniera sbagliata, accordando prolungati periodi di tolleranza, senza affrontare
+nell'immediato il problema della capacità di rimborso. Le Linee Guida si
+propongono di delineare meglio questo ambito, evidenziando che le misure di
+concessione     devono      essere    economicamente      sostenibili,  ossia    devono
+effettivamente alleggerire la pressione sul debitore in difficoltà finanziaria,
+riducendo l'ammontare residuo dovuta alla controparte. Esse vanno accordate con
+l'obiettivo chiave di riportare in bonis posizioni deteriorate o di evitare il passaggio
+di posizioni in bonis a deteriorate.
+     Nel capitolo vengono distinte misure di concessione di breve e lungo periodo,
+evidenziando quali caratteristiche devono possedere, per essere considerate
+economicamente sostenibili. In particolare, le misure di lungo periodo sono
+sostenibili quando: l'istituto è in grado di provare che il debitore può effettivamente
+far fronte al nuovo piano, si prevede una riduzione significativa del debito nel
+medio-lungo periodo e se la banca assicura l'attuazione di controlli aggiuntivi di
+sostenibilità, nel caso in cui l'esposizione sia stata oggetto di precedenti
+concessioni. Le misure di breve termine, affrontano situazioni di difficoltà
+temporanea e non dovrebbero in genere superare i due anni. Sono sostenibili se
+realmente applicate in via temporanea, se l'ente è in grado di dimostrare che, a
+
+scadenza dell'accordo, il debitore è in grado di riprendere il regolare rimborso e se
+in passato non è mai stata riconosciuta questa concessione.
+      Vengono infine delineate le prassi connesse al riconoscimento delle misure di
+concessione. Prima di accordare misure di forberance, le banche dovrebbero
+condurre una valutazione sulla situazione finanziaria del debitore, supportata da
+informazioni documentate e verificate. Dove possibile, gli istituti dovrebbero
+adottare processi decisionali ad albero e misure di concessione standardizzate per
+specifici segmenti di clienti debitori; dovrebbero effettuare un confronto tra più
+opzioni di recupero, prima di prendere una decisione definitiva; dovrebbero tenere
+sotto stretta osservazione il debitore, per quanto riguarda il rispetto di scadenze e
+obiettivi concordati tramite ciascuna misura di concessione.
+1.2.4. Rilevazione degli NPL
+           Questo capitolo parte dalla considerazione che l'espressione credito
+deteriorato può essere soggetta a definizioni differenti. Per uniformare la materia e
+ridurre il più possibile le differenze anche a livello applicativo, la BCE incoraggia
+gli istituti ad adottare una definizione prudenziale, in linea con quanto riportato
+nelle norme tecniche Implementing Technical Standards emanate dall'EBA.
+Secondo le Norme tecniche di attuazione dell'EBA sulle segnalazioni di vigilanza,
+rientrano tra le esposizioni deteriorate: esposizioni rilevanti scadute da oltre 90
+giorni ed esposizioni per le quali è considerato improbabile, che il debitore
+adempia integralmente alle sue obbligazioni senza l'escussione delle garanzie.
+           Le Linee Guida invitano gli istituti ad adottare politiche interne alla banca,
+che specifichino il criterio per l'individuazione delle esposizioni scadute, delle
+inadempienza probabili e i criteri di individuazione, classificazione e rientro in
+bonis delle esposizioni oggetto di concessioni 6 . Vengono inoltre definiti alcuni
+chiarimenti per l'identificazione delle esposizioni deteriorate. Al fine di evitare
+difformità di classificazione, è necessario che filiali e controllate di un medesimo
+gruppo bancario, adottino strumenti per l'individuazione delle posizioni deteriorate
+6
+  BCE, Linee Guida per le banche sui crediti deteriorati (NPL) Elementi principali, Settembre 2016, slide 11
+
+                                                                                                                     13
+tra di loro coerenti e che vi sia una efficace comunicazione interna a riguardo. Le
+banche dovrebbero considerare le esposizioni in capo ai clienti secondo una
+prospettiva di gruppo, in vista di un possibile contagio tra soggetti connessi e
+secondo un'ottica detta di pulling effect . Nello specifico “se le esposizioni di un
+debitore scadute da più di 90 giorni superano la soglia del 20%, tutte le altre
+esposizioni nei confronti dello stesso debitore devono essere considerate come
+deteriorate”7
+           Infine, per quanto riguarda le definizioni in materia di esposizione
+deteriorate e in default, si invitano gli istituti ad allineare per quanto possibile, le
+definizioni regolamentari di cui all'ITS dell'EBA, con quelle contabili.
+1.2.5. Valutazione delle riduzioni di valore e cancellazione degli NPL
+           Il presente capitolo è dedicato agli accantonamenti a fronte del rischio di
+credito e alle cancellazioni dei crediti non recuperabili. In particolare le linee guida
+pongono l'accento sulla necessità di effettuare accantonamenti e cancellazioni per
+crediti deteriorati in maniera tempestiva, al fine di contribuire a rafforzare i bilanci
+bancari e permettere agli intermediari di concentrarsi sulla loro attività principale,
+costituita in particolare dal finanziamento dell'economia8.
+           Le autorità di vigilanza hanno l'importante compito di esaminare i processi
+utilizzati dalle banche nella valutazione del rischio di credito e di esprimersi
+sull'adeguatezza degli accantonamenti predisposti. Tutte le banche soggette al
+meccanismo di vigilanza unico fanno riferimento ai principi contabili IFRS
+(International Financial Reporting Standards) per redigere i rispettivi bilanci. In
+particolare gli accantonamenti vengono stabiliti facendo riferimento l'IFRS9 9 ,
+quale principio per misurare la riduzione di valore su crediti dovuta a perdite.
+7
+  BCE, Linee guida per le banche sui crediti deteriorati (NPL), Marzo 2017, pag. 69
+8
+   BCE, Addendum alle linee guida della BCE per le banche sui crediti deteriorati: livelli minimi di
+     accantonamento prudenziale per le esposizioni deteriorate, Ottobre 2017, pag. 2
+9
+  IFRS9 ha sostituito lo IAS39 a partire dal 1 Gennaio 2018. Le principali novità introdotte dal nuovo principio
+     contabile riguardano l'introduzione di un nuovo modello di classificazione e misurazione degli strumenti
+     finanziari, nell'adozione di un nuovo criterio di valutazione delle perdite (impairment) e nella definizione di
+     nuove regole di rilevazione degli strumenti di copertura (hedge accounting). Per quanto riguarda l'impairment
+     si passa a un approccio di valutazione delle perdite di tipo forward-looking. Le banche determineranno gli
+     accantonamenti considerando le perdite attese, e non più solo le perdite effettivamente registrate.
+
+Spetta alle banche definire i criteri interni da seguire per stimare la riduzione di
+valore e per il calcolo degli accantonamenti, che può avvenire su base analitica (per
+specifica attività finanziaria o specifico debitore) o collettiva (per insieme di
+attività finanziarie con caratteristiche analoghe).
+          In questo contesto si inserisce l'Addendum alle Linee Guida, che fornisce
+un contributo aggiuntivo sull'argomento, specificando dal punto di vista
+quantitativo quali sono i livelli minimi di accantonamento attesi dalla vigilanza,
+tenendo in considerazione sia il livello di protezione del credito esistente, che la
+fascia di anzianità delle esposizioni. In particolare è richiesta la copertura totale
+mediante accantonamenti entro un periodo di due anni, per i crediti deteriorati non
+garantiti ed entro un periodo di sette anni, per i crediti deteriorati con garanzia.
+          Per quanto riguarda la cancellazione dei crediti non più recuperabili, le
+Linee Guida evidenziano il carattere tempestivo con cui deve essere svolta dalle
+banche tale attività. In particolare la cancellazione, che consiste di fatto
+nell'eliminazione contabile di un'attività finanziaria dal bilancio, deve essere
+effettuata nell'esercizio in cui il credito è stato considerato non recuperabile.
+          Viene precisato che spetta agli enti definire politiche, procedure e controlli,
+finalizzati alla valutazione e misurazione degli accantonamenti, come anche
+definire la propria politica in materia di cancellazioni. Tutte queste informazioni
+devono essere ben documentate e tenute a disposizione dell'autorità di vigilanza per
+eventuali ispezioni e richieste di chiarimenti.
+1.2.6 Valutazione delle garanzie immobiliari
+     L'ultimo capitolo delle Linee Guida si occupa della valutazione delle garanzie
+immobiliari, quali strumenti di mitigazione del rischio di credito. La Vigilanza nel
+corso delle ispezioni ha evidenziato la presenza di scarsa accuratezza e carenze
+nella valutazione dei beni immobili posti a garanzia del credito, da qui la necessità
+di fornire indicazioni sul corretto processo di valutazione.
+     Dal punto di vista organizzativo, le banche dovrebbero dotarsi di politiche e
+procedure scritte di valutazione, soggette all'approvazione dall'organo di
+
+                                                                                               15
+amministrazione e di processi di controllo interno, in grado di assicurare l'efficacia
+delle politiche adottate, di valutare la nomina dei periti, di effettuare verifiche a
+campione e test retrospettivi. Le Linee Guida distinguono due diverse tipologie di
+valutazione e stabiliscono i criteri per il loro utilizzo. Si parla di valutazione
+individuale, quando questa avviene mediante l'attività specifica di un perito, e di
+valutazione indicizzata, quando si fa utilizzo di indici o di processi automatizzati.
+       Al fine di una valutazione esaustiva delle garanzie, viene sottolineata
+l'importanza che ogni banca si doti di soggetti preposti alle perizie, siano essi
+interni o esterni all'istituto, caratterizzati per indipendenza e in possesso delle
+necessarie qualifiche. Inoltre si fa presente che le valutazioni delle garanzie reali su
+crediti deteriorati, dovrebbero essere aggiornate con frequenza almeno annuale, e
+fondate per quanto possibile sul valore di mercato.
+       Le banche dovrebbero perseguire una politica di vendita attiva delle garanzie
+su immobili finiti, in modo da agevolare i recuperi. Vengono delineati i criteri
+contabili per classificare le garanzie escusse, che dovrebbero essere valutate al
+valore più basso tra l'importo dell'attività finanziaria e il fair value dell'attività
+realizzata, meno il costo di vendita10.
+10
+   Studio PWC, Linee guida BCE per le banche sui crediti deteriorati, Settembre 2016, slide 17
+
+2. CESSIONE DEI CREDITI DETERIORATI
+SOMMARIO: 2.1.Strategie di gestione; 2.1.1 La cessione in blocco ai sensi dell'art. 58 del TUB; 2.1.2. La
+cartolarizzazione dei crediti ai sensi della Legge 130/99; 2.2. Il mercato delle cessioni di NPL in Italia; 2.3.
+Benefici e criticità della cessione di crediti deteriorati; 2.4. Interventi legislativi per agevolare le cessioni;
+2.4.1. Nuova segnalazione delle esposizioni in sofferenza; 2.4.2. La garanzia dello stato sulla
+cartolarizzazione delle sofferenze; 2.4.3. Il Fondo Atlante
+2.1. Strategie di gestione
+      La necessità di gestire proattivamente lo stock di crediti deteriorati sta
+diventando uno degli obiettivi centrali delle banche italiane. Gli Organi di
+Vigilanza, tra i quali la Banca d'Italia e la BCE, stanno facendo intensa attività di
+sensibilizzazione in tal senso, nella convinzione che la riduzione del fenomeno sia
+fondamentale per una maggiore stabilità del sistema. Le Linee Guida, come visto
+nel capitolo precedente, hanno fornito un importante contributo, andando a
+specificare quali sono le opzioni strategiche a disposizione delle banche per gestire
+i crediti deteriorati. In sintesi, le alternative a disposizione possono essere distinte
+in: gestione interna alla banca, gestione esterna e cessioni.
+      Nel primo caso la banca opta per mantenere in bilancio i propri non
+performing loans, che verranno gestiti internamente dallo stesso istituto. In questo
+contesto la Banca si occupa dell'intero processo di recupero crediti, mediante
+l'utilizzo di proprie risorse tecniche e umane o mediante la costituzione di unità ad
+hoc, che possono essere anche giuridicamente separate. La Banca segue
+direttamente le varie fasi del processo di recupero, definendo in completa
+autonomia le strategie che ritiene più adatte per la specifica fase o la tipologia di
+credito concesso.
+      Qualora le banche non siano dotate di strutture interne dedicate, possono
+affidare l'attività di gestione a soggetti esterni, chiamati Special Servicer. Si parla
+cioè di gestione dei portafogli di NPL in outsourcing. Questi soggetti si occupano
+di monitoraggio, gestione e recupero per conto degli istituti di credito, in cambio di
+una percentuale sugli incassi effettivi del portafoglio gestito. Delegando ad altri
+l'attività di recupero la banca riesce spesso a conseguire migliori performance a un
+
+                                                                                                                   17
+minor costo. Si tratta in genere di operatori molto specializzati nel settore, dotati di
+personale competente, strumenti adeguati e procedure collaudate. Ai costi fissi
+interni di recupero si sostituiscono costi variabili, che dipendono dal portafoglio,
+dalle fasi del processo di recupero date in gestione e dal risultato ottenuto. Inoltre,
+in questo modo, la banca può liberare risorse da destinare ad altre attività.
+       La terza strada a disposizione delle Banche riguarda la cessione del credito. Si
+tratta di un accordo attraverso il quale un soggetto (cedente) cede un diritto di
+credito a un altro soggetto (cessionario), che può così procedere alla riscossione del
+credito nei confronti del debitore (ceduto). La cessione può essere pro-solvendo o
+pro-soluto. Nel primo caso la liberazione del cedente si verifica solo nel momento
+in cui il cessionario ha ottenuto il pagamento dal debitore ceduto, nella seconda
+ipotesi invece, il cessionario si accolla l'intero rischio di credito, liberando il
+cedente da qualsiasi obbligo.
+       Dal punto di vista giuridico è possibile trasferire un credito attraverso diverse
+modalità:
+      <U+F0B7>     cessione ai sensi dell'art. 1260 e ss. del Codice Civile;
+      <U+F0B7>     cessione dei crediti individuabili in blocco ai sensi dell'art. 58 del TUB;
+      <U+F0B7>     cessione nell'ambito di operazioni di cartolarizzazione, ai sensi della legge
+            n. 130/9911.
+       Le banche ai fini della gestione dei crediti deteriorati fanno principalmente
+ricorso alle ultime due tipologie, le cessioni in blocco ai sensi dell'art. 58 e le
+cartolarizzazioni.
+       Sebbene l'attività di gestione interna o tramite outsourcing, presenti il
+vantaggio di conseguire recuperi maggiori rispetto alla cessione, che in genere si
+caratterizza per il forte deprezzamento del portafoglio ceduto, si sta assistendo a
+importanti attività di dismissione dei portafogli crediti, in quanto gli istituti sono
+spinti a riappropriarsi in tempi brevi di disponibilità da destinare a nuova
+produzione.
+11
+   Raimondo C., Le operazioni di investimento in sofferenze bancarie attraverso lo schema della cartolarizzazione,
+      articolo rivista Maggio 2011, tratto da www.strumentifinanziariefiscalità.it
+
+2.1.1 La cessione in blocco ai sensi dell'art. 58 del TUB
+      Le operazioni di cessione “in blocco” pro-soluto, disciplinate dall'art. 58 del
+TUB, costituiscono la forma di cessione a cui oggi fanno più sovente riferimento
+gli istituti di credito e gli intermediari finanziari per vendere i propri crediti
+deteriorati. Per cessione in blocco si intende la vendita di crediti in massa, che
+sebbene distinti possono essere raggruppati sulla base di specifici elementi
+distintivi, quali per esempio, la forma tecnica, il settore economico di destinazione,
+la tipologia della controparte, l'area territoriale12, organizzandoli in portafogli.
+      L'art. 58, per agevolare le cessioni, ha introdotto due importanti
+semplificazioni rispetto la normativa comune (art. 1260 c.c.):
+     <U+F0B7>    la notifica delle cessioni mediante pubblicazione nella Gazzetta Ufficiale e
+          iscrizione sul Registro delle imprese;
+     <U+F0B7>    la conversione di privilegi e garanzie ipotecarie dal cedente al cessionario
+          senza bisogno di alcuna formalità.
+      Viene così derogato quanto stabilito dal Codice Civile all'art. 1264; la
+pubblicazione nella Gazzetta Ufficiale e l'iscrizione nel Registro delle imprese,
+assumono lo stesso valore giuridico della notifica della cessione ai singoli debitori
+ceduti. Inoltre viene stabilito i passaggio diretto di tutte le garanzie reali e personali,
+che assistono i crediti ceduti, tra cedente e cessionario, senza la necessità delle
+formalità previste per legge (di cui all'art. 2843 c.c.).
+      Gli investitori attivi nel business delle cessioni degli NPL, acquistano e
+gestiscono portafogli di crediti deteriorati, generando un ricavo dalla differenza tra
+quanto incassato dal recupero e il prezzo pagato per il loro acquisto. Il loro
+guadagno dipende quindi dalla capacità di massimizzare l'attività di recupero, che
+può avvenire anche attraverso accordi a saldo e stralcio con i debitori.
+12
+   Domenegotti M., NPLs: disciplina oneri e rischi delle operazioni di cessione del credito, Maggio 2017, tratto da
+     www.dirittobancario.it
+
+                                                                                           19
+2.1.2. La cartolarizzazione dei crediti ai sensi della Legge 130/99
+     La legge n. 130 del 30 Aprile 1999 ha introdotto in Italia una disciplina sulle
+operazione di cartolarizzazione, il legislatore ha così cercato di superare i limiti
+normativi, che rendevano poco utilizzata questa forma di cessione dei crediti nel
+nostro Paese. Si tratta di una complessa operazione finanziaria realizzata mediante
+cessione a titolo oneroso di crediti pecuniari, sia esistenti che futuri, individuabili
+in blocco, da parte del titolare dei crediti (originator) ad una società cessionaria,
+che ha come fine l'acquisto e l'emissione di titoli sul mercato finanziario
+denominati ABS (Asset Backed Securities). La società che emette questi titoli viene
+denominata società veicolo (SPV – Special purpose vehicle) e in genere coincide
+con la società cessionaria.
+     Nel dettaglio, l'originator cede i propri crediti alla società veicolo (SPV), che
+vengono incorporati in strumenti finanziari collocati sul mercato, sopratutto presso
+investitori professionali. Quanto ricavato dalla sottoscrizione dei titoli viene
+utilizzato per pagare il costo della cessione. I corrispettivi dovuti agli investitori,
+quali interessi maturati o rimborsi di titoli, vengono garantiti dai recuperi sui crediti
+ceduti.
+     A titolo di semplificazione rispetto a quanto previsto dalla normativa ordinaria,
+la legge sulle cartolarizzazioni ha introdotto alcune deroghe. In particolare alla
+società cessionaria e alla società emittente i titoli, non si applica l'art 106, commi 2
+e 3, lett. b) e c) del TUB sul capitale minimo, di conseguenza non è necessario che
+il capitale minimo sia di 1 miliardo di euro, sebbene non sia esclusa la facoltà di
+intervento del Tesoro per la statuizione di un diverso ammontare di capitale
+minimo. Viene inoltre derogato l'art. 2410 c.c., secondo il quale non possono essere
+emesse obbligazioni dalle società veicolo per somme superiori al capitale versato.
+Per quanto riguarda la notifica di cessioni a terzi e ai debitori, si richiama l'art. 58
+del TUB, in base al quale non è necessario notificare a tutti i creditori l'avvenuta
+cessione, ma è sufficiente la pubblicazione nella Gazzetta Ufficiale.
+     Lo strumento della cartolarizzazione viene utilizzato oggi dagli Istituti Bancari
+per favorire lo smobilizzo dei propri crediti deteriorati, in questo modo le Banche
+trasferiscono ad altri soggetti il rischio di credito e rientrano in possesso di liquidità
+
+da poter reimpiegare sul mercato. Nella cartolarizzazione di NPL, una volta che il
+credito viene acquistato da parte del cessionario, l'attività di gestione e recupero
+viene demandata a operatori specializzati, le società di Special Servicer. I servicer
+svolgono perciò un ruolo determinante, in quanto dalla loro capacità di recupero
+dipende la remunerazione dei titoli emessi dalle società veicolo. Essi operano
+sviluppando un'attività molto strutturata, che parte dalla due diligence relativa al
+portafoglio ceduto, finalizzata a una distinzione dei crediti dal punto di vista della
+tipologia dei debitori, della loro posizione geografica, della presenza di garanzie
+ipotecarie, della presenza di procedure concorsuali, etc. Questa analisi preliminare
+permette di delineare le attività di recupero più idonee ed efficaci per specifica
+tipologia di portafoglio crediti. In sostanza si tratta di decidere quale strada è più
+opportuno percorrere, tra le procedure stragiudiziali, ossia accordi transativi,
+moratorie, piani di rientro e i procedimenti giudiziali, che si caratterizzano per
+tempi, complessità maggiori e sopratutto costi significativi.
+       Recentemente, al fine di agevolare la cartolarizzazione dei crediti deteriorati,
+sono state introdotte importanti novità alla legge 130/99, grazie al decreto-legge n.
+50/2017. Le nuove norme, in particolare, hanno riguardato le società veicolo,
+andando a definire nuovi ambiti di operatività                          e competenza. Gli SPV che
+acquistano e cartolarizzano i crediti deteriorati potranno:
+      <U+F0B7>    concedere nuova finanza a determinate categorie di debitori in difficoltà o
+           acquisire partecipazioni negli stessi, quando ciò sia utile per ristrutturare la
+           posizione finanziaria dei debitori e migliorare le prospettive di recupero;
+      <U+F0B7>    acquistare e gestire direttamente gli immobili o altri beni posti a garanzia
+           delle esposizioni cartolarizzate13.
+       Lo scopo delle modifiche è quello di poter prestare sostegno a soggetti in
+temporanea difficoltà, ma che presentano ragionevoli possibilità di ritornare in
+bonis, accedendo a nuovo credito o ricevendo altre forme di finanziamento, quali
+l'investimento in azioni o altri strumenti partecipativi. Le società veicolo si
+sostituiscono così alle Banche, che non sono più in grado di concedere credito ai
+13
+   Albamonte D., Le nuove norme sulla cartolarizzazione dei crediti, Note di stabilità finanziaria e vigilanza N. 10
+      Luglio 2017, tratto da www.bancaditalia.it
+
+                                                                                                              21
+debitori inadempienti, cercando di sanare una situazione di crisi transitoria dovuta
+perlopiù ad andamenti negativi dell'economia o del settore di riferimento, ma con
+la chiara prospettiva di rientrare dall'esposizione attraverso revisioni, l'ampliamento
+delle linee di credito o mediante aumenti di capitale14.
+       Inoltre, sempre nell'ottica di migliorare i recuperi, viene data la possibilità alle
+società veicolo di acquistare e gestire direttamente gli immobili a garanzia. Le
+società veicolo create per questo scopo sono chiamate REOCO (Real Estate Owned
+Companies), possono partecipare alle aste fallimentari, incidendo sui prezzi di
+compravendita o intervenendo nell'acquisto prima che i beni perdano valore. Lo
+scopo è di conseguire proventi, che andranno a soddisfare i diritti degli investitori
+in titoli frutto della cartolarizzazione.
+2.2. Il mercato delle cessioni di NPL in Italia
+       Il 2017 si è caratterizzato per i livelli record raggiunti nelle transazioni di NPL,
+in particolare le cessioni di portafogli hanno superato il valore di 60 miliardi di
+euro15. Determinante è stata la pubblicazione a Marzo 2017 delle Linee Guida sugli
+NPL, che hanno offerto l’opportunità alle Banche di definire un piano operativo per
+la gestione attiva degli NPL.
+       L'immagine 2 mostra il trend in forte crescita delle operazioni di cessione negli
+ultimi 5 anni. Secondo dati riportati nell'analisi di PwC, a Dicembre 2017 sono stati
+ceduti crediti per             64 miliardi. Osservando nel dettaglio la composizione dei
+portafogli ceduti, si evidenzia una predominanza di transazioni su portafogli misti,
+di tipo Secured/Unsecured. A seguire, ma con volumi certamente ridotti, i
+portafogli Secured e gli Unsecured, infine si collocano le operazioni di credito al
+consumo.
+       L'anno 2017 si è caratterizzato per operazioni rilevanti, basti pensare ai 17,7
+miliardi di euro ceduti mediante cartolarizzazione da Unicredit a Fortress e Pimco
+(project FINO). Inoltre a pesare sul mercato sono state le operazioni di salvataggio
+14
+   Pilati A., Le cartolarizzazioni problemi e opportunità, Convegno AIAF Novembre 2017, tratto da
+      www.bancaditalia.it
+15
+   Studio PwC, The Italian NPL market, Ready for the breaktrough, Dicembre 2017, tratto da www.pwc.com/it/npl
+
+relative ad alcuni istituti in difficoltà. Nel mese di Giugno Banca Intesa San Paolo
+ha acquistato al valore simbolico di 1 euro, le due banche venete (Popolare di
+Vicenza e Veneto Banca), i cui crediti deteriorati, per un valore di 16,6 miliardi,
+sono stati ceduti a Sga16. Le tre banche regionali Cassa di Risparmio di Rimini,
+Cassa di Risparmio di San Miniato e Cassa di Risparmio di Cesena, sono state
+acquisite da Credit Agricole Cariparma, con la conseguente cessione degli NPL
+(bad loans 2,9 miliardi – UTP 0,3 miliardi) a Questio Capital SGR e Algebris.
+Banca Etruria, Carichieti, Cariferrara e Banca Marche                                hanno venduto crediti
+deteriorati secured a Cerberus per 1 miliardo. Va menzionata la cessione del
+portafoglio NPL misto secured/unsecured di Banca Carige, per 2,1 miliardi a
+Credito Fondiario insieme alla piattaforma di servicing. Infine, si segnala la
+cessione, formalizzata a fine 2017, del portafoglio di sofferenze di Banca MPS,
+pari a 28,6 miliardi, a Quaestio Capital SGR.
+                Immagine 2: NPL transactions trend in the Italian market (€bn)
+                          Fonte: PwC, The Italian NPL Market. Ready for the breakthrough
+16
+   A questo proposito, si veda Argomenti del Sole24Ore, «La società per la Gestione di Attività (Sga) è una società
+      acquisita dal Ministero dell'Economia e delle Finanze nel 2016. La società, che ha sede a Napoli, è stata
+      creata nel 1997 come sorta di “bad bank” alla quale sono state trasferite le sofferenze bancarie del Banco di
+      Napoli, per recuperare i crediti in sofferenza. Il Banco di Napoli ha ceduto alla Sga crediti incagliati che per
+      circa 6,4 miliardi di euro. La Sga è riuscita a rientrare di circa il 90%delle esposizioni cedute dall’istituto
+      partenopeo»
+
+                                                                                                              23
+       Per approfondimento sulle dinamiche di mercato e i maggiori operatori, si
+riporta una scheda (immagine 3) tratta da PwC “The Italian NPL market. Ready for
+the breakthrough”, in cui vengono riportate le maggiori transazioni concluse nel
+2017, distinte per tipologia di credito performing/non performing e per macro
+classi (secured/unsecured/mixed).
+       Quello che si può notare, è certamente un settore in forte fermento, dove
+accanto alle attività di cessione, si stanno sviluppando numerose operazioni di
+M&A tra operatori, spinti dalla prospettiva di accaparrarsi le opportunità offerte dal
+mercato. La vendita crescente di portafogli NPL e l'esternalizzazione del processo
+di gestione tramite outsourcing, hanno incrementato l'attività dei servicer, che si
+caratterizzano per l'alto grado di specializzazione nella gestione dei crediti. Ciò ha
+determinato le condizioni ideali per un consolidamento del settore, sia in senso
+verticale attraverso integrazioni di tipo strategico, al fine di allargare le competenze
+ed essere in grado di trattare qualsiasi credito, che in senso orizzontale per lo
+sviluppo di piattaforme più ampie, in grado di far fronte alla mole di nuovo lavoro.
+Tra gli special servicer a fare la parte del leone è DoBank, che a Giugno 2017
+gestiva crediti deteriorati per 79 miliardi di euro. DoBank nel 2016 ha acquistato
+Italfondiario, il secondo servicer indipendente in Italia, registrando a metà 2017
+ricavi per 104 milioni di euro. Al secondo posto c'è Cerved, che a Giugno 2017
+aveva in gestione più di 13 miliardi di NPL. Come accennato precedentemente
+Cerved nel 2017 ha concluso con Quaestio Holding l'acquisizione congiunta di
+Juliet, la piattaforma di gestione NPL del Monte dei Paschi. Nel corso dello stesso
+anno ha acquistato anche la piattaforma di gestione NPL di Banca Popolare di
+Bari17. Molte sono le operazioni di questo tipo concluse nel 2017, che hanno visto
+la partecipazione anche di grandi fondi internazionali, i quali oltre a puntare
+all'acquisto di portafogli di crediti in sofferenza, vogliano anche dotarsi di una
+piattaforma di gestione in Italia. L'americana KKR ha acquistato la società di
+servicer romana Sistemia, che gestisce crediti secured e unsecured in tutto il loro
+ciclo di vita; il fondo USA Verde Partners ha acquistato il 33% della bresciana
+17
+   Studio PwC, The Italian NPL market, Ready for the breaktrough, Dicembre 2017, tratto da www.pwc.com/it/npl
+
+Guber, uno dei maggiori servicer indipendenti specializzati nella gestione di NPL;
+il gruppo norvegese Lindorff ha acquistato nel 2016 il servicer italiano Cross
+Factor e nel 2017 Gextra.
+Immagine 3: Closed NPL transactions in 2017YTD
+
+                                                                                         25
+Fonte: PwC Report - The Italian NPL Market. Ready for the breakthrough
+2.3. Benefici e criticità della cessione di crediti deteriorati
+     La cessione dei crediti deteriorati, verificatasi in maniera consistente nel corso
+dell'ultimo anno, ha permesso alle banche di ottenere alcuni benefici, anche se non
+si può parlare di un vero e proprio mercato per gli NPL.
+     In primo luogo va detto che lo smobilizzo di crediti problematici permette alle
+Banche di trasferire il rischio di credito ad altri soggetti. Gli istituti “ripulendo” i
+propri bilanci dai crediti deteriorati risultano complessivamente meno rischiosi e
+di conseguenza possono ridurre gli assorbimenti di patrimonio previsti dalla
+Vigilanza.    Inoltre, la cessione dei crediti, permette alle Banche di entrare in
+possesso di nuova liquidità, che potrà essere reinvestita in nuovi impieghi o in
+attività più proficue. I crediti problematici assumono così un nuovo valore, non
+sono più solo un peso per il bilancio aziendale, ma diventano una base per la
+produzione di nuova redditività. Infine, prendendo in considerazione il sistema
+organizzativo interno agli Istituti, cedere crediti permette di risparmiare sui costi
+legati alla gestione degli NPL. La creazione di unità interne dedicate al recupero e
+alla gestione dei crediti deteriorati comporta, infatti, investimenti consistenti per la
+
+riorganizzazione dei processi e per il reperimento di risorse adeguate, sia per
+numero che per competenze. Sostanzialmente le banche attraverso le cessioni
+riducono gli accantonamenti di patrimonio, riducono i costi e ottengono risorse da
+reimpiegare nel processo produttivo.
+     Accanto ai benefici il sistema presenta alcune criticità, che hanno limitato
+fin'ora l'utilizzo di questa strategia. Si tratta, in particolare, del differenziale tra il
+prezzo a cui i crediti sono iscritti in bilancio e il prezzo a cui gli investitori sono
+disposti ad acquistarli, detto spread bid/ask. Generalmente il differenziale tra
+domanda e offerta è elevato, a tal punto da rendere questa operazione poco
+conveniente per gli Istituti, che si trovano a dover svendere i propri crediti. Nello
+specifico, i crediti esposti nei bilanci delle Banche sono contabilizzati sulla base
+del valore attuale dei flussi di cassa futuri attesi, al netto dei costi diretti, con tassi
+di sconto pari ai tassi originari dei finanziamenti. Parlando di crediti deteriorati, le
+banche nel calcolare il prezzo di bilancio stimano l'ammontare effettivamente
+recuperabile, considerate anche le garanzie esistenti e i tempi previsti per il
+recupero. Dall'altra parte gli investitori, che hanno diverse prospettive economiche,
+fissano il prezzo sulla base di altre considerazioni: applicano degli haircut ai
+recuperi attesi previsti dalle Banche, a causa delle asimmetrie informative presenti
+sul mercato del credito; nel calcolo del prezzo di acquisto considerano tutti i costi
+diretti e indiretti, che dovranno sostenere nel processo di recupero; applicano un
+tasso di attualizzazione dei flussi futuri attesi molto più elevato di quello usato
+dalle Banche, che include anche un premio per il rischio.
+                                                         Fonte: BancaIfis - Market Watch NPL
+
+                                                                                           27
+      Secondo stime di Banca Ifis riportate nella ricerca “Market Watch NPL18”, i
+crediti deteriorati bancari non garantiti, quali uno scoperto di conto, un anticipo su
+fatture o un mutuo chirografario, vengono prezzati a un valore tra il 3% e il 7% del
+loro valore originario. Dalla parte opposta c'è il segmento del credito immobiliare
+secured, il cui prezzo di scambio è nettamente superiore, raggiungendo anche il 40%
+del valore originario dei crediti. Nel mezzo si colloca il segmento consumer, che si
+riferisce ai crediti non performing del credito al consumo, i cui prezzi di cessione si
+posizionano sopra il 10%. Infine può essere individuato il credito mixed, che si
+compone di importanti portafogli di credito non performing di tipo secured e
+unsecured, il cui prezzo è una media ponderata delle varie categorie. Rientrano qui
+i 17,7 miliardi dell'operazione Fino Project di Unicredit, ceduti al 13% del loro
+valore. A incidere sul prezzo in questo caso sono anche l'anzianità degli NPL, la
+presenza di eventuali garanzie sottostanti e la collocazione geografica del credito.
+Va infatti considerato che i tempi di recupero dipendono direttamente dai tribunali,
+che si occupano di gestire le pratiche a livello giudiziale e che hanno competenze
+territoriali definite.
+2.4. Interventi legislativi per agevolare le cessioni
+      Negli ultimi anni il Governo Italiano, consapevole del ruolo svolto dalle
+cessioni        per riportare i livelli di crediti deteriorati entro valori accettabili, è
+intervenuto a più riprese con alcune importanti iniziative. La finalità è quella di
+dare impulso a un mercato spesso frenato per la mancanza di una struttura ben
+definita e che stenta a trovare un equilibrio tra i vari soggetti coinvolti. Di seguito
+vengono riportate le principali novità dal punto di vista legislativo, che hanno
+rappresentato gli strumenti mediante i quali gli operatori hanno cercato di superare
+i limiti e le problematiche del sistema.
+18
+   Banca Ifis, Market Watch NPL. The Italian Scenario, Luglio 2017
+
+2.4.1. Nuova segnalazione delle esposizioni in sofferenza
+     Con comunicazione del 29 Marzo 2016 Banca d'Italia ha introdotto una nuova
+segnalazione sulle sofferenze. La segnalazione parte dalla constatazione di una
+scarsa disponibilità presso le Banche di dati e informazioni, necessari per poter
+gestire o cedere sul mercato i crediti problematici. L'assenza di una strutturata base
+informativa determina una allungamento dei tempi di definizione delle trattative e
+induce chi acquista i crediti a chiedere forti sconti sul prezzo d'acquisto. Banca
+d'Italia attraverso la nuova segnalazione sulle sofferenze ha cercato di fornire uno
+strumento in grado di creare ordine e di rafforzare il potere delle Banche in fase di
+contrattazione. Si tratta di una specifica tipologia di rilevazione statistica sulle
+esposizioni in sofferenza, che permette di raccogliere informazioni dettagliate su
+tali esposizioni, sulla presenza di eventuali garanzie reali o di altro tipo che ne
+attenuano il rischio di credito e sullo stato delle procedure di recupero. In
+particolare questa segnalazione       riguarda le sofferenze lorde riconducibili a
+residenti in Italia e di importo superiore a 100.000 euro alla data della segnalazione.
+2.4.2. La garanzia dello stato sulla cartolarizzazione delle sofferenze
+     Nel Febbraio de 2016 il Governo Italiano ha approvato il Decreto Legge n. 18
+che prevede il rilascio di una garanzia statale (GACS) sulle operazioni di
+cartolarizzazione dei crediti deteriorati, con il chiaro obiettivo di facilitare lo
+smobilizzo di questi crediti e agevolare le cessioni. La GACS può essere concessa
+nell'ambito di operazioni di cartolarizzazione ai sensi della Legge 130/1999,
+qualora oggetto della cessione siano crediti in sofferenza e qualora i soggetti
+cedenti siano banche e intermediari finanziari iscritti all'albo di cui all'art. 106 del
+TUB. Si tratta di una garanzia incondizionata, irrevocabile e a prima richiesta, che
+viene concessa con decreto del Ministero dell'Economia e delle Finanze, su istanza
+documentata della banca cedente, a fronte del pagamento di una commissione
+periodica al Tesoro.
+     I soggetti cedenti cedono i crediti in sofferenza a una società veicolo, per un
+importo che non deve essere superiore al loro valore netto di bilancio. La società
+
+                                                                                                                 29
+veicolo, a sua volta, emettere titoli asset-backed security, di almeno due classi
+diverse: titoli senior (titoli meno rischiosi, emessi con interessi a tasso variabile che
+verranno pagati con priorità rispetto agli altri) e i titoli junior (titoli più rischiosi,
+che potranno ricevere il rimborso del capitale, il pagamento degli interessi o altra
+forma di remunerazione, solo dopo il rimborso dei titoli delle altre classi) 19 . E'
+anche prevista l'emissione di classi di titoli dette mezzanine, con remunerazione a
+tasso variabile e livello di rischio intermedio.
+       Sono garantiti dalla GACS solo i titoli classificati come senior, cioè quelli di
+più elevato standing, a condizione che abbiano preventivamente ottenuto un rating
+uguale o superiore all'Investment Grade. I detentori di titoli senior, in caso di
+mancato pagamento, anche parziale, del capitale e degli interessi, possono escutere
+la garanzia entro nove mesi dalla scadenza del titolo. Essi devono prima di tutto
+inviare richiesta formale di pagamento alla società veicolo di quanto scaduto e non
+rimborsato. Se non ricevono il pagamento, entro sei mesi dall'invio della richiesta,
+possono attivarsi per l'intervento della garanzia dello Stato. Il Ministero
+dell'Economia e delle Finanze, ricevuta l'istanza di escussione della garanzia, si
+occuperà di corrispondere agli aventi diritto quanto dovuto senza aggravio di
+interessi e spese. In questo modo lo Stato si fa garante nei confronti dei detentori
+dei titoli, in caso di un eventuale mancata restituzione dei prestiti.
+      La garanzia pubblica, che inizialmente doveva avere una durata di soli 18 mesi,
+è stata prorogata di un anno, in accordo con la Commissione Europea e ad oggi si
+parla di una ulteriore proroga. Dopo una partenza a rilento, le richieste di
+cartolarizzazione tramite l'utilizzo della garanzia sono progressivamente aumentate
+e più Banche stanno manifestando il loro interesse a proposito. I vantaggi della
+garanzia vanno individuati nel rendere più appetibili i titoli senior, migliorare il
+prezzo di vendita degli NPL, riducendo il gap tra domanda e offerta del mercato.
+19
+   Dagnino F. e Agostini A., La garanzia dello stato sulla cartolarizzazione delle sofferenze (GACS): è legge il
+     nuovo strumento per smaltire i crediti in sofferenza, Maggio 2016, tratto da www.diritto24.ilsole24ore.com
+
+2.4.3. Il Fondo Atlante
+      Costituito ad Aprile 2016 su impulso del governo italiano, il Fondo Atlante è
+un fondo d'investimento alternativo privato, istituito e gestito dalla società Quaestio
+Capital SGR S.p.a. Il fondo, a cui hanno partecipato tutte le principali Banche e
+Compagnie di Assicurazione Italiane, è nato con l'obiettivo di sostenere gli istituti
+in difficoltà operando su due fronti: da un lato partecipando a iniziative di
+ricapitalizzazione e dall'altro rilevando crediti in sofferenza.
+      In particolare, il fondo ha destinato il 70% del proprio patrimonio a operazioni
+di aumento di capitale, di Banche con ratio patrimoniali inferiori ai limiti previsti
+dalle Autorità di Vigilanza. Il 30% è stato invece destinato allo smobilizzo dei
+crediti deteriorati, attraverso l'investimento in strumenti finanziari emessi dalle
+società veicolo di cartolarizzazione. L'investimento si è rivolto prevalentemente
+alle tranche junior e mezzanine, ossia titoli caratterizzati da un maggior grado di
+rischio e oggetto di minor interesse per il mercato.
+      Il Fondo Atlante, il cui patrimonio è servito principalmente a finanziare gli
+aumenti di capitale di Banca Popolare di Vicenza e Veneto Banca, è stato seguito
+dall'istituzione, ad Agosto 2016, di un nuovo fondo: il Fondo Atlante 2 (oggi
+ridenominato Italian Recovery fund). A differenza della prima iniziativa, il Fondo
+Atlante 2 si è posto come unico obiettivo l'investimento in crediti deteriorati,
+partecipando con 2,5 miliardi alla maggior parte delle grandi operazioni bancarie di
+cessione di NPL: dall'operazione di Mps a quelle di Banca Marche, CariChieti,
+Banca Etruria e Cariferrara20.
+      Atlante ha rappresentato un ulteriore provvedimento finalizzato ad aiutare il
+sistema bancario italiano, alle prese con le richieste e le pressioni della BCE. Al
+fianco della GACS si pone obiettivi di sostegno al processo di cessione degli NPL
+tramite cartolarizzazione.
+      Se la GACS si concentra nel prestare garanzia per i titoli meno rischiosi, le
+tranche senior, l'Italian Recovery fund abbraccia una missione più ampia,
+investendo il proprio patrimonio nell'acquisto di titoli ad alto rischio. L'obiettivo è
+20
+   Longo M., E Quaestio studia Atlante 3, Febbraio 2017, tratto da www.ilsole24ore.it
+
+                                                                                       31
+ancora una volta quello di facilitare operazioni di smobilizzo di crediti deteriorati,
+favorendo la realizzazione di un processo di cessione non solo rapido ma
+soprattutto a condizioni più vantaggiose per le società cedenti.
+     A seguito delle ultime operazioni di cartolarizzazione sembra che Quaestio stia
+esaurendo le disponibilità del fondo, tanto che si sta iniziando a parlare del lancio
+di un nuovo Atlante, che potrebbe partire già nel corso del 2018.
+
+3. IL PROCESSO DI CARTOLARIZZAZIONE
+SOMMARIO: 3.1. Il gruppo Finanziaria Internazionale; 3.2. Caso studio: il processo di cartolarizzazione;
+3.2.1. Data recovery, due diligence e business plan; 3.2.2. Processo competitivo; 3.2.3. Strutturazione; 3.3.
+Audit sul processo di cartolarizzazione
+3.1. Il gruppo Finanziaria Internazionale
+       Il presente capitolo sviluppa il contributo di una società attiva nel processo di
+cessione di crediti non performing: Finanziaria Internazionale (Finint).
+       Fondata nel 1980, è una delle più dinamiche realtà italiane operanti nel settore
+finanziario. La società ha sviluppato nel tempo un modello di business settoriale,
+che si focalizza su 3 principali macroaree:
+<U+F0B7>          Investment Banking & Asset Management;
+<U+F0B7>          Business Process Outsourcing
+<U+F0B7>          Investimenti Proprietari.
+La Capogruppo, Holding Finanziaria Internazionale S.p.a., opera in queste aree di
+business attraverso l’intervento di varie società specializzate che, idealmente,
+possono essere suddivise in due macro-gruppi in relazione alle aree di competenza,
+una delle quali segue attività più strettamente legate al mondo bancario.
+Nel 2014 con lo scopo di rafforzare ulteriormente questa divisione è nata Banca
+Finint e nel 2016 si è costituito il Gruppo Banca Finanziaria Internazionale con
+Banca Finint nel ruolo di Capogruppo.
+       Oggi la società risulta essere particolarmente attiva sul mercato dei non
+performing loans, dove ha maturato un'importante esperienza sia lato cedente sia
+dal lato dell’investitore, prendendo parte alle maggiori operazioni di dismissione di
+NPLs da parte delle Banche presenti sul mercato.
+       Le Banche vengono affiancate in tutte le attività che precedono la cessione,
+quali:
+<U+F0B7>          organizzazione e gestione dei portafogli,
+<U+F0B7>          contatti con i potenziali investitori,
+
+                                                                                         33
+<U+F0B7>         organizzazione delle gare di vendita,
+<U+F0B7>         consulenza e valutazione delle offerte d'acquisto.
+     Gli investitori invece ricevono supporto in fase di strutturazione e gestione
+dell'operazione di cessione.
+     Il Gruppo interviene nel processo attraverso 3 diverse società, che svolgono
+attività diverse ma tra loro integrate:
+<U+F0B7>         FISG: Fornisce assistenza a cedenti e investitori italiani ed esteri
+nell'organizzazione di operazioni di cessione/acquisizione in portafogli           NPL,
+originati da istituzioni finanziarie e corporate italiane. Si occupa di tutti i processi
+di cessione performing/non performing, segue le strutture e i processi di vendita
+<U+F0B7>         SECURITISATION SERVICES: è il primo operatore professionale
+indipendente in Italia, leader di mercato nella gestione e nel monitoraggio di
+operazioni di cartolarizzazione. Offre una gestione completa dei servizi connessi
+alla realizzazione delle operazioni di cartolarizzazione, in particolare costruisce
+l'impalcatura per la gestione del veicolo e per il monitoraggio imposto dalla legge;
+<U+F0B7>         FININT REVALUE: è la società che funge da special servicer, si occupa di
+recupero crediti stragiudiziale e giudiziale, oltre alla gestione di NPL ipotecari.
+     Una struttura così articolata consente a Finanziaria Internazionale di inserirsi
+in tutte le diverse fasi del processo di cessione e di poter contare su una consolidata
+esperienza nel settore, infatti si configura come leader nella strutturazione e
+gestione di operazioni di cartolarizzazione NPL, tra cui 80% dell'importo delle
+operazioni realizzate in Italia negli ultimi anni. Dal 1991 sono state strutturate più
+di 110 operazioni pubbliche di cartolarizzazione per un importo di oltre 68 miliardi
+di euro di titoli emessi, attualmente la società sta gestendo 270 miliardi di euro di
+asset in oltre 290 operazioni.
+3.2. Caso studio: Il processo di cartolarizzazione
+     La lunga esperienza di Finanziaria Internazionale nella gestione di operazioni
+di cessione e la recente specializzazione nel comparto dei crediti deteriorati, ha
+portato allo sviluppo del presente caso studio.
+
+      Prima di scendere nel dettaglio dell'analisi effettuata, è necessario
+contestualizzare il mercato e fare alcune premesse, frutto del colloquio avuto con i
+responsabili della divisione Structured Finance del Gruppo Banca Finanziaria
+Internazionale.
+      Quando si parla di cessioni di crediti deteriorati si fa riferimento, nella
+maggior parte dei casi, a cessioni pro-soluto, in quanto lo scopo degli Istituti è
+deconsolidare gli asset e liberarsi completamente del rischio di credito. Sebbene il
+panorama delle cessioni si componga di due particolari strumenti, le così dette
+“cessioni in conto proprio” e la cartolarizzazione, il secondo strumento è
+certamente il più utilizzato. Le cessioni in conto proprio risultano essere molto
+limitate, in Italia un solo operatore, BancaIfis, è specializzato in questa attività. Per
+comprendere il peso che rivestono i due strumenti in termini percentuali, se
+facciamo 100 l'ammontare dei crediti ceduti, circa il 90% passa attraverso veicoli
+per la cartolarizzazione. Tutte le recenti dismissioni, anche quelle di grandi
+dimensioni, si pensi a Unicredit con il progetto FINO, piuttosto che le operazioni di
+Banca Intesa e MPS, sono state condotte attraverso lo strumento della
+cartolarizzazione.
+      E' utile, a questo punto, comprendere le ragioni che spingono a preferire
+l'utilizzo della cartolarizzazione per la cessione di portafogli NPL.
+      In primo luogo, la cartolarizzazione è più efficiente dal punto di vista
+strutturale. Per gli investitori, tipicamente di matrice straniera, è infatti più facile
+sottoscrivere un titolo di un'operazione che ha come sottostante degli asset, la cui
+gestione sarà poi demandata ai servicer attivi sul mercato, rispetto ad acquistare
+direttamente gli asset e consolidarli nel proprio patrimonio.
+      La seconda ragione, può essere attribuita al contenuto della legge n. 130/1999,
+in base alla quale le garanzie sottostanti i mutui che vengono cartolarizzati,
+transitano sui veicoli per la cartolarizzazione, ai sensi dell'art. 58 del TUB. Ciò
+significa che le garanzie ipotecarie vengono acquisite dal cessionario senza bisogno
+di annotazione e senza oneri di trascrizione, con impatti a livello economico
+rilevanti.
+
+                                                                                      35
+     Infine, un altro elemento che favorisce la diffusione di queste tipologie di
+operazioni è rappresentato dalle recenti implementazioni della legge n. 130/1999,
+con l'emanazione dell'art. 7.1, in base al quale i veicoli per la cartolarizzazione
+possono sottoscrivere anche strumenti di equity, oltre a poter effettuare attività di
+erogazione di nuovi finanziamenti in favore di soggetti debitori.
+     Pertanto, in considerazione di tutti questi elementi, il mercato ha deciso di
+convergere, in modo quasi totale, verso un unico strumento per smobilizzare i
+crediti deteriorati: la cartolarizzazione.
+     Il presente caso studio prende in considerazione un'operazione di
+cartolarizzazione, si propone di tracciarne il processo, di scomporlo nelle sue fasi
+principali, per poi andare a descriverne le attività tipiche.
+     Semplificando, è possibile suddividere il processo in 3 fasi principali:
+     1. Data recovery, due diligence e business plan;
+     2. Processo competitivo;
+     3. Strutturazione
+     Di seguito verranno dettagliate le singole fasi, mettendo in evidenza i soggetti
+che prendono parte a ognuna di esse e descrivendo il ruolo svolto da Finanziaria
+Internazionale nell'intero processo.
+3.2.1. Data recovery, due diligence e business plan
+     Ogni processo di cartolarizzazione parte prendendo in considerazione la
+qualità dei dati a disposizione, sia per quanto riguarda il credito sia per ciò che
+concerne il collaterale. Le informazioni messe a disposizione dell'investitore sono
+infatti fondamentali per la corretta valutazione del portafoglio e per fissare il
+prezzo di cessione. Qualora le informazioni contenute nei sistemi informativi delle
+Banche, non fossero sufficienti per tracciare un quadro completo e ordinato del
+portafoglio da cedere, occorre intervenire, attraverso attività di data recovery, per
+recuperare i dati mancanti.
+     Si passa quindi all'attività di due diligence, che prevede l’analisi e
+l’ordinamento delle pratiche secondo criteri prestabiliti e di interesse per
+
+l'investitore, creando schede specifiche su ciascuna delle posizioni in portafoglio.
+La due diligence è finalizzata, in prima istanza, a mettere in ordine i dati e
+successivamente alla predisposizione di un business plan. Ciò che viene
+denominato business plan non è altro che un possibile piano di recupero dei crediti,
+prendendo in considerazione un determinato periodo temporale. Tale attività è
+necessaria sia lato Banca, per comprendere l'impatto a livello di conto economico
+della cessione del portafoglio crediti, sia lato investitore, che sulla base di questa
+analisi andrà a fissare il prezzo di acquisto.
+      Finanziaria Internazionale interviene a supporto delle Banche in ciascuna di
+queste attività. In fase di data recovery supporta gli Istituti nell’intergazione delle
+informazioni disponibili, attraverso una minuziosa analisi dei fascicoli cartacei,
+oppure consultando supporti esterni, quali Crif o Cerved. In alcuni casi, al fine di
+verificare le caratteristiche urbanistico-catastali degli immobili sottostanti,
+predispone nuove perizie di tipo drive by o full, in base al valore e al grado di
+complessità dell'immobile.
+      La Società Finint opera attraverso la predisposizione di data template, ossia
+modelli all'interno dei quali vengono raccolte le informazioni rilevanti su ciascuna
+linea di credito. Il data template raccoglie diverse tipologie di informazioni, che
+possono variare in base alla natura del credito e dell'immobile a garanzia, in
+particolare include:
+<U+F0B7>        informazioni sul debitore, quali: dati anagrafici, ragione sociale,
+occupazione, settore dell'attività svolta;
+<U+F0B7>        informazioni anagrafiche sul credito, quali: importo erogato, data di
+erogazione, periodicità, rate, tipo di tasso, data di passaggio a sofferenza, recuperi
+effettuati;
+<U+F0B7>        informazioni sul collaterale sottostante.
+Vengono incluse tutte le informazioni necessarie a dare una valutazione
+dell'immobile, quali: tipologia dell'immobile, dati catastali, metrature, informazioni
+commerciali, valori di perizia, informazioni sulla presenza di eventuali procedure
+in corso, in particolare si riporta quante aste sono state fatte per l'immobile e
+l'ultimo prezzo battuto.
+
+                                                                                         37
+      Nell’ambito delle fasi di due diligence, viene altresì fornita consulenza alle
+Banche a livello di clusterizzazione, ossia sulla struttura ottimale dei portafogli e
+sull'impatto economico della cessione di ognuno di essi. Tale attività è frutto
+dell'esperienza maturata sul mercato ed è finalizzata a intercettare i migliori
+investitori per determinate tipologie di portafogli.
+      Tutte le informazioni raccolte per ciascun portafoglio crediti vengono
+utilizzate per predisporre i piani di rimborso attesi (business plan) e per la
+successiva realizzazione di data room virtuali. Si tratta di un set informativo di
+natura informatica, che viene messo a disposizione dell'investitore nel momento in
+cui andrà a valutare il portafoglio in cessione. E' uno strumento costituito per
+rendere più agevole l'accesso e l'analisi dei dati relativi alle singole linee credito,
+valutare il portafoglio e arrivare a fissare il prezzo.
+3.2.2. Processo competitivo
+      Una volta terminate le attività di raccolti e ordinamento dei dati del portafoglio
+crediti oggetto della cessione, si dà inizio al processo competitivo, che trae origine
+dall'individuazione dei possibili investitori e si conclude quando viene formalizzato
+un accordo di vendita.
+      Si tratta, generalmente, di una fase lunga e articolata, che può durare mesi o
+addirittura anni, fatta di tantissime interazioni con i partecipanti alla gara, che per
+valutare e prezzare l'investimento, hanno bisogno di continui chiarimenti sul
+pacchetto in vendita.
+      Finanziaria Internazionale supporta le Banche, dapprima selezionando la rosa
+di possibili investitori e poi organizzando l'intera gara competitiva. Gli investitori
+vengono selezionati soprattutto sulla base di dati storici e dell'interesse riscontrato
+sul mercato. La loro numerosità è variabile e dipende dal tipo di portafoglio offerto.
+Si passa da gare su portafogli del credito al consumo, dove possono essere
+coinvolte decine di investitori, a gare su crediti garantiti secured, dove il numero è
+limitato a 4/5 soggetti. Ciò è legato soprattutto a ragioni di complessità di
+portafoglio, in quando l'analisi preliminare su portafogli di dimensioni importanti e
+
+con collaterali sottostanti, richiede uno sforzo in termini di tempo e risorse, che non
+tutti sono disposti ad affrontare.
+      La gara parte con l'invio ai possibili investitori di una lettera di invito, in cui
+oltre a esplicitare i termini della gara, vengono sintetizzate le caratteristiche del
+portafoglio in vendita. Questo primo step permette di ricevere immediatamente un
+riscontro sull'interesse degli investitori a partecipare alla gara e restringe in numero
+di soggetti che prenderanno parte alle fasi successive. Chi prosegue, viene invitato
+a firmare dei non disclosure agreement e ha la possibilità di accedere alla data
+room, dove sono messe a disposizione tutte le informazioni sulle singole linee di
+credito che compongono il portafoglio. Alle scadenze prestabilite gli investitori
+vengono invitati a presentare le offerte. L'offerta richiesta può essere subito
+vincolante, oppure nel caso si desideri procedere a una prima scrematura degli
+investitori,   si   passa   attraverso    un'offerta   non    vincolante     per giungere
+successivamente alla definitiva.
+      Le Banche ricevono supporto in sede di valutazione delle offerte, che prevede
+spesso anche la partecipazione ai Consigli di Amministrazione. In questa sede, per
+facilitare la valutazione e la decisione finale degli organi preposti, vengono
+presentate le offerte supportate da alcuni modelli, nei quali si evidenzia l'impatto
+della cessione a livello di indicatori di bilancio e patrimoniali.
+      Definito il vincitore si passa alla stipula dei contratti di cessione.
+3.2.3. Strutturazione
+      La terza e ultima fase del processo di cessione prevede la strutturazione
+dell'operazione di cartolarizzazione. L'investitore che si è aggiudicato la gara,
+infatti, non interviene direttamente acquistando i crediti, ma l'acquisto avviene in
+modo indiretto tramite cartolarizzazione.
+      Strutturare un'operazione è un processo complesso che prevede diversi
+passaggi e l'interazione tra diversi soggetti. La Banca cede i crediti a un veicolo per
+la cartolarizzazione, il quale emette dei titoli che hanno come sottostante i crediti
+ceduti, titoli che verranno poi sottoscritti dall'investitore. Il prezzo di cessione alla
+
+                                                                                         39
+Banca viene conferito dalla Società Veicolo (SPV), nel momento in cui l'investitore
+conclude la sottoscrizione (tale fase mediamente dura un paio di settimane).
+     L'operazione viene portata a termine attraverso la collaborazione con diversi
+studi legali i quali si occupano, da un lato, di creare i contratti e di rilasciare alla
+Banca una legal opinion dove si attesti l'avvenuta cessione e, dall'altro, di rilasciare
+una consulenza di tipo fiscale, una tax opinion sull'operazione e sulla cessione del
+credito.
+     Ai soggetti sopra menzionati, si affiancano altri agenti che partecipano a vario
+titolo e con diverse competenze all'operazione di cartolarizzazione. In particolare i
+soggetti individuati sono:
+          Servicer, è il soggetto incaricato alla riscossione dei crediti ceduti. In
+genere queste società svolgono anche un'attività di due diligence che porta alla
+predisposizione di un business plan, in cui andranno a definire il cash flow atteso
+dell'operazione. Molti investitori negli ultimi anni hanno acquistato società di
+servicer, a cui affidano in via esclusiva questa attività.
+          Rappresentante portatore dei titoli, è il soggetto che rappresenta gli
+investitori e si occupa di monitorare l'andamento dell'operazione. Deve essere
+consultato e fornisce il proprio consenso in caso di specifiche decisioni attinenti
+alla cartolarizzazione, decisioni contrattuali o relative ai crediti.
+          Corporate Servicer, è la società nominata e incaricata della “fornitura” dei
+veicoli per la cartolarizzazione e di tutti i servizi necessari per la gestione
+amministrativa e societaria. Si occupa in particolare di tenere la contabilità, della
+redazione dei bilanci, ed effettua le segnalazioni dovute presso la Banca d'Italia.
+          Paying Agent, è il soggetto preposto a effettuare i pagamenti ai portatori
+dei titoli per conto della società veicolo.
+          Account Bank, è la banca presso la quale sono aperti i conti a nome della
+società veicolo, dove confluiscono gli incassi e dalla quale partono i pagamenti
+dovuti ai portatori dei titoli e agli altri soggetti che collaborano con la società
+veicolo.
+
+         Calculation Agent, è il soggetto incaricato di calcolare gli importi in linea
+capitale e interessi che a scadenze prestabilite la società veicolo dovrà conferire ai
+portatori dei titoli. Si occupa cioè della così detta “cascata dei pagamenti”.
+                                Fonte: Finanziaria Internazionale
+L'immagine n. 5 schematizza un'operazione di cessione di un portafoglio crediti
+mediante cartolarizzazione, in particolare mette in luce quali sono i soggetti che
+partecipano all'operazione e come questi interagiscono tra loro.
+     Finanziaria Internazionale assiste l'investitore in tutto il processo di
+cartolarizzazione e nella fase di gestione della società veicolo. In particolare si fa
+carico di costituire il veicolo per la cartolarizzazione, che dovrà poi essere iscritto
+nell'elenco delle SPV presso Banca d'Italia. Si tratta di una società a tutti gli effetti
+che verrà utilizzata solo come mero strumento ai fini della cartolarizzazione.
+     Inoltre, si occupa di costruire la struttura dell'investimento, secondo una
+formula che sia gradita all'investitore e seguendo tutti gli aspetti strutturali,
+finanziari, legali. Si va dalla richiesta dell'emissione dei codici ISIN, alla
+definizione della “cascata dei pagamenti”, ossia l'insieme dei flussi cedolari
+spettanti ai sottoscrittori dei titoli, oltre ai corrispettivi dovuti a tutti i soggetti che
+
+                                                                                           41
+partecipano al processo, gli agenti della cartolarizzazione. Spesso vengono previsti
+accantonamenti specifici come riserva spese, che andranno a coprire le spese della
+società veicolo per tutta la durata dell'operazione.
+     Nel caso di cartolarizzazione privata la struttura dei titoli Asset Backed
+Security (ABS), è abbastanza semplice, si tratta di titoli mono-tranche che
+prevedono l'emissione di cedole semestrali. Più complessa risulta la costruzione
+della struttura del titolo nel caso di operazioni pubbliche tramite GACS, dove si
+distinguono trance senior, mezzanine e junior, per permettere all'investitore di
+godere della garanzia dello Stato.
+     Sottoscritti i titoli e conclusa la vendita, i crediti verranno affidati agli special
+service per tutta l'attività di recupero. In capo a Finint rimane la gestione del
+veicolo fino a scadenza del titolo.
+3.3. Audit sul processo di cartolarizzazione
+     Descritto il processo di cessione tramite cartolarizzazione, è interessante capire
+come le strutture di audit si inseriscono nell'operazione e chi in particolare ha
+interesse a svolgere questa attività.
+     Chi cede, in genere l'Istituto Bancario, non ha più alcun presidio
+nell'operazione, in quanto i crediti ceduti pro-soluto sono definitivamente usciti
+dalla sua competenza, per essere “impacchettati” in titoli attraverso i veicoli per la
+cartolarizzazione ed essere successivamente gestiti tramite le società di servicer.
+     In questo contesto, il tema dell'audit viene portato avanti dagli investitori, che
+hanno tutto l'interesse a monitorare l'operatività, affinché il processo si svolga nella
+massima correttezza e trasparenza. Due sono i soggetti attorno ai quali gravita
+l'operazione di cartolarizzazione e che rivestono i ruoli più significativi:
+     le società veicolo
+     le società di servicing.
+Ne consegue che l'attività di audit sarà duplice, andando a presidiare e monitorare
+entrambe le strutture.
+
+      Si può quindi distinguere l'audit sulla fase di strutturazione dell'operazione di
+cartolarizzazione e l'audit sull'attività del servicer.
+      Nel primo caso l'audit coinvolge direttamente la società veicolo e come
+obiettivo principale ha quello di assicurarsi che la “macchina operativa” funzioni
+correttamente. L'attività di controllo si sofferma soprattutto su aspetti di carattere
+amministrativo, fiscale, normativo, propri del veicolo per la cartolarizzazione, oltre
+alle attività relative alla gestione del veicolo stesso.
+      Nel secondo caso, l'audit si concentra sull'attività svolta dagli special servicer,
+che, ricevuto il mandato per la gestione dei portafogli ceduti, si occupano di tutta
+l'attività di recupero.
+      Si tratta in genere di società esterne o comunque distaccate rispetto ai portatori
+dei titoli, sulle quali vengono svolti controlli a livello di processi e flussi di cassa.
+
+                                                                                        43
+                                     CONCLUSIONI
+     Il sistema bancario europeo sta attraversando un periodo di forti cambiamenti,
+in Italia il processo di cambiamento si rende ancora più complesso per le difficoltà
+legate alla consistenza dei crediti deteriorati. Gli ultimi due anni hanno visto
+rallentare la loro crescita, ma molti sforzi devono ancora essere fatti per
+raggiungere i livelli pre-crisi e allinearsi agli altri Paesi Europei.
+     Per intervenire in maniera decisiva sono necessari cambiamenti sia lato Banca
+che a livello legislativo. Le Banche in passato hanno peccato per leggerezza nella
+valutazione del problema, sia per quanto riguarda i volumi dei crediti deteriorati,
+che per quanto concerne la gestione di questi asset. In molti Istituti il processo di
+recupero e monitoraggio dei crediti è stato marginalizzato, affidando tale attività, di
+per sé complessa e articolata, a personale non adeguato per numero e competenze.
+Ad aggravare la situazione, si sono aggiunte le criticità del nostro sistema
+giudiziario, troppo lento e complicato, con procedure esecutive che si protraggono
+per anni.
+     Si tratta di problematiche che hanno pregiudicato in generale la gestione dei
+crediti non performing da parte delle Banche e in particolare la creazione di un
+vero e proprio mercato per le cessioni di NPL. Chi investe in crediti deteriorati
+valuta, come primo elemento, la qualità dei dati disponibili presso le Banche
+cedenti. Sistemi informativi disordinati e poco completi, sono causa di una
+sottovalutazione del portafoglio in cessione. Va detto inoltre che i prezzi di acquisto
+sono tanto più alti quanto più le prospettive di recupero sono brevi. Scontrarsi con
+sistemi giudiziari complessi, con prospettive di recupero che mediamente si
+aggirano attorno ai sette anni, incide in maniera rilevante sui prezzi di cessione.
+     La BCE attraverso le Linee Guida è intervenuta, promuovendo un
+cambiamento interno agli Istituti di carattere strutturale, volto a riorganizzare la
+“macchina operativa” e a sensibilizzare il management su queste tematiche. Più
+complesso appare il cambiamento a livello di sistema giudiziario, che necessita di
+norme ad hoc, finalizzate a snelline i processi e a uniformare l'operatività dei
+tribunali su tutto il territorio nazionale.
+
+     A livello legislativo qualcosa è stato fatto, si pensi alla Garanzia Pubblica sulle
+cartolarizzazioni - GACS o al Fondo Atlante, finalizzati ad agevolare le cessioni,
+sostenendo l'investimento in strumenti finanziari derivanti da cartolarizzazione.
+     Sarà solo il tempo a dire se i provvedimenti fin qui presi sono abbastanza
+efficaci per far fronte al problema. E' prematuro in questo momento fare delle
+valutazioni, le stesse Linee Guida hanno richiesto cambiamenti importanti alle
+Banche, che in molti casi hanno dovuto ripensare il proprio modello organizzativo.
+Cambiamenti di tale portata necessitano di tempo per entrare a regime e produrre
+effetti tangibili. Sta di fatto che la crescita degli NPL sembra essersi arrestata e le
+Banche sono ora rivolte a fare interventi massicci per liberare i bilanci dalle
+sofferenze. La stessa GACS, in principio accolta in maniera molto fredda dal
+mercato, oggi viene sempre più richiesta e si sta pensando a come implementarla.
+     Molto è stato fatto e sicuramente le Banche sono state messe di fronte
+profonde richieste di intervento. E' auspicabile che il processo di cambiamento
+continui andando a coinvolgere anche il sistema giudiziario, dove il nostro Paese
+risulta ancora deficitario.
+
+                                                                                     45
+                                  BIBLIOGRAFIA
+Albamonte D., Le nuove norme sulla cartolarizzazione dei crediti, Note di stabilità
+finanziaria e vigilanza N. 10 Luglio 2017, tratto da www.bancaditalia.it
+Banca d'Italia, Le Linee Guida per le banche Less Significant italiane in materia di
+gestione di crediti deteriorati, Gennaio 2018
+Banca d'Italia, Rapporto sulla stabilità finanziaria,Novembre 2017
+Barbagallo C., I crediti deteriorati delle banche italiane: problematiche e tendenze
+recenti, Giugno 2017
+BCE, Linee Guida per le Banche sui crediti deteriorati (NPL), Marzo 2017
+BCE, Linee Guida per le banche sui crediti deteriorati (NPL) Elementi principali,
+Settembre 2016
+BCE, Addendum alle Linee Guida BCE per le Banche sui crediti deteriorati: livelli
+minimi di accantonamento prudenziale per le esposizioni deteriorate, Ottobre 2017
+BCE, Rapporto annuale della BCE sulle attività di vigilanza, Marzo 2017
+BancaIfis, Market Watch NPL. The Italian scenario, Luglio 2017
+Dagnino F. e Agostini A., La garanzia dello stato sulla cartolarizzazione delle
+sofferenze (GACS): è legge il nuovo strumento per smaltire i crediti in sofferenza,
+Maggio 2016, tratto da www.diritto24.ilsole24ore.com
+Davi L., Banche “in coda” per la Gacs.Spunta l'ipotesi della proroga, Febbraio
+2018, tratto da www.ilsole24ore.com
+
+Domenegotti M., NPLs: disciplina oneri e rischi delle operazioni di cessione del
+credito, Maggio 2017, tratto da www.dirittobancario.it
+Il Sole24Ore, Le banche e le sfide del nuovo contesto: il 'nodo' degli NPL,VIII
+Forum Banca e Impresa, Maggio 2017
+Longo M., E Quaestio studia Atlante 3, Febbraio 2017, tratto da www.ilsole24ore.it
+Panetta F., Seminario istituzionale sulle tematiche legate ai non performing loans,
+Maggio 2017
+Pilati A., Le cartolarizzazioni problemi e opportunità, Convegno AIAF Novembre
+2017, tratto da www.bancaditalia.it
+Raimondo C., Le operazioni di investimento in sofferenze bancarie attraverso lo
+schema della cartolarizzazione, articolo rivista Maggio 2011, tratto da
+www.strumentifinanziariefiscalità.it
+Studio PwC, Linee Guida BCE per le Banche sui crediti deteriorati, Settembre
+2016, tratto da www.pwc.com
+Studio PwC, The Italian NPL market. The place to be, Luglio 2017, tratto da
+www.pwc.com/it/npl
+Studio PwC, The Italian NPL market, Ready for the breaktrough, Dicembre 2017,
+tratto da www.pwc.com/it/npl
+Tedeschi R., Crediti deteriorati, il nodo dei prezzi di mercato, Giugno 2016, tratto
+da www.ilsole24ore.com
+
+                                                                     47
+UNIREC, NPLs & debt collection's future, VII Rapporto Annuale UNIREC
+Maggio 2017
+www.finint.com
+

@@ -1,0 +1,228 @@
+Information Type:
+Company Name: NTT DATA Italia S.p.A
+Information Owner:
+                                    Pervasività dei dati in un mondo iperconnesso: opportunità e
+                                    rischi
+                                    Giorgio Scarpelli
+                                    CTO & Innovation - NTT DATA Italia
+                                                                                            © 2017 NTT DATA Corporation
+
+La rivoluzione tecnologica fondata sulla pervasività dei dati
+                                                       Robotica,
+           Intelligenza
+                               Realtà Sintetica   IoT Scienze della
+             artificiale
+                                                          Vita
+   © 2017 NTT DATA Corporation                  2
+
+   Tecnologie sempre di più vicine alle aree cognitive umane
+Tecnologie in grado di          Tecnologie cognitive che    Algoritmi in grado di   Sistemi che generano
+gestire dati provenienti da     auto-apprendono             riconoscere e           azioni, combinando schemi
+fonti diverse                   dall'esperienza             comprendere i dati      e competenze apprese in
+garantendone l’integrità        perfezionando la            proiettandoli sui       altri contesti, per risolvere i
+                                conoscenza                  comportamenti futuri    problemi e migliorare
+                                                                                    l'esperienza umana
+ Biometrics                                                   Machine Learning         NLP
+                                 Semantic Technology
+                                                              Deep Learning            Decision management
+ Image & Video analysis          Text analytics & Natural     AI-optimized hardware    Robotics
+                                 language processing NLP
+ Speech recognition                                           Swarm intelligence       Virtual agent
+    © 2017 NTT DATA Corporation                           3
+
+ Ambiti di applicabilità sempre più estesi
+                                            MACRO AREE                         AREE                 OUTPUT
+                                                                     RULES & ENGINE & BPM   AUTOMATE REPETITIVE
+                                 DETERMINISTIC RULES &                                      TASK
+                                 PROCESSES & DECISIONS               RPA
+                                                                     CHATBOT / VIRTUAL
+                                                                     AGENT                  ALERT
+                                       ROBOTICS
+                                                                     SIMPLE EVENT
+                                                                                            LIKELY ANSWERS
+                                                                     COMPLEX EVENT
+DATI
+                                   EVENT PROCESSING
+                                                                     DEEP Q&A SYSTEM
+                                                                                            AUTOMATED SPEECH
+                 AUTOMATION      PREDICTIVE KNOWLEDGE
+                                                                     TEXT TO SPEECH
+                                      MANAGEMENT
+                                                                     TRANSLATION
+                                                                                            AUTOMATED WRITING
+                                                                     SPEECH TO TEXT
+                                   NATURAL LANGUAGE
+                                    PROCESSING (NLP)                 IMAGE TO TEXT          AUTOMATED GROUPING
+                                                                     IMAGE RECOGNITION
+                                            UNSUPERVISE   DEEP
+                                            D LEARNING    LEARNING   CLASSIFY TEXT          PREDICTIVE
+                                MACHINE                                                     RECOMANDATION
+                                                                     NUMERIC PREDICTION     SCORE
+                                LEARNING
+                                                                                            ACTION
+                                            SUPERVISED    CLASSIC    PROBABILITY ASSESS.
+                INTELLIGENCE                LEARNING      MODELS
+                                                                                            RANKING
+                                                                                            FORECAST
+                                                                     OPTIMIZATION
+  © 2017 NTT DATA Corporation                                4
+
+Sono principalmente le aziende a percepire il valore dei dati
+e puntare sulla loro centralità
+ Executives                                            Consumers
+                                         NTT DATA and Oxford Economics survey
+© 2017 NTT DATA Corporation     5
+
+MA I DATI SEMBRANO TUTT’ALTRO
+CHE AL SICURO NEL CYBERSPAZIO
+ © 2017 NTT DATA Corporation Gemalto Breach Level Index 6
+
+… e lo scenario va peggiorando
+              RANSOMWARE                                                IoT BOTNET                                      FURTO DATI
+             (WannaCry, Petya)                                               (M irai)                                (Facebook, Aadhaar,
+                                                                                                                         Exactis, … )
+               +350%                                                       650                                       + 133%
+                                                                          Gbps
+                                                                    I 5 settori più colpiti
+                              Aziende sanitarie      Aziende             Aziende Finanziarie   Governo     Trasporti
+                                                manifatturiere e IT
+                                                                                             NTT SECURITY Global Threat Intelligence Report 2018
+  © 2017 NTT DATA Corporation                                                   7
+
+Nonostante il crescente valore degli investimenti in cybersecurity
+                      Global
+               Cybersecurity
+                      Market
+              2004 - $3.5     Bn
+              2017- $120 Bn
+                                                          Bloomberg 2018
+  © 2017 NTT DATA Corporation    8
+
+Il singolo: l’anello debole della catena
+                                                Tecnologia
+                             Le relazioni che   Fattori di      I comportamenti
+                             si intrattengono    rischio          della persona
+                                               Spazi in cui si
+                                              muove l’individuo
+ © 2017 NTT DATA Corporation                            9
+
+                                    La «Security Fatigue»
+                            Sensazione opprimente di inadeguatezza per il numero di azioni
+                            e decisioni che si dovrebbero prendere per vivere in sicurezza la
+                            propria cyber-experience
+                            Atteggiamento fatalista, come se subire attacchi rappresentasse
+                            la "nuova normalità". Questa logica porta ad un atteggiamento
+                            lassista nei confronti della sicurezza, in cui solo le esigenze di
+                            compliance normativa motivano l’adozione di contromisure.
+                                                                                   NTT SECURITY - NIST
+© 2017 NTT DATA Corporation                         10
+
+Il consumatore medio ha scarsa fiducia nella capacità delle
+aziende di proteggere i dati dei clienti …
+                                           NTT DATA and Oxford Economics survey
+ © 2017 NTT DATA Corporation  11
+
+Del resto le aziende pensano anzitutto a proteggere i
+propri dati
+                                          NTT DATA and Oxford Economics survey
+© 2017 NTT DATA Corporation 12
+
+… Ma le preoccupazioni degli end-users hanno scarso
+impatto sui loro comportamenti on-line
+                                        NTT DATA and Oxford Economics survey
+ © 2017 NTT DATA Corporation 13
+
+                            La tecnologia in sé è «laica»
+       MINACCE                                                OPPORTUNITÀ
+    Social engineering                                      Attack pattern understanding
+         Identity theft                                      Behavioural Trusted identity
+    Reputation attacks                                             Brand protection
+       Information theft           ARTIFICIAL INTELLIGENCE      Data exfiltration alert
+     “Hackable” objects                                       Unclonable Identity Token
+             Botnet                                            Cyber-Physical security
+      IoT Ransomware                                         Self-protecting environment
+                                     INTERNET OF THINGS
+            Bitcoins
+                                                           Blockchain as immutable ledger
+    Pervasive attacks                                          Resilient architectures
+   Malware distribution                                              Honeypots
+                                   DISTRIBUTED COMPUTING
+© 2017 NTT DATA Corporation                    14
+
+© 2017 NTT DATA Corporation 15
+                                       TASSO
+                                  DISOCCUPAZIONE
+                                      0%
+IL PROBLEMA OGGI SONO LE
+COMPETENZE E LE RISORSE
+                                     RUOLI NON
+                                      COPERTI
+                                  3.5Mln
+                                      NEL 2021
+                                                 NTT SECURITY
+   © 2017 NTT DATA Corporation 16
+
+                 FORTE DOMANDA E SCARSE RISORSE SPINGONO
+                             VERSO L’INNOVAZIONE E L’AUTOMAZIONE
+                                                        • Ridurre l’effort e quindi il costo nello svolgimento
+                                                          di attività più routinarie
+                                                        • Diminuire l’incidenza dell’errore umano
+PREDICTIVE                          ARTIFICIAL
+ANALYTICS                         INTELLIGENCE          • Incrementare la capacità di analizzare una
+                                                          grosse mole di dati
+                                                        • Accelerare in alcuni casi la capacità di rilevare
+                                                          nuove minacce
+                    PT
+            AUTOMATICI         10%                   IMPATTO
+                                                  AUTOMAZIONE        15% - 20%
+ © 2017 NTT DATA Corporation                   17
+
+                            So what:
+                            CAMBIARE APPROCCIO
+© 2017 NTT DATA Corporation            18
+
+Diventa fondamentale fare sistema
+  Il problema della Sicurezza non è risolvibile solo sul piano delle tecnologie o
+  richiamando ad una maggiore vigilanza
+  In altri settori, la società civile ha sviluppato modi di gestire e coesistere con i rischi
+  attraverso regolamenti governativi, responsabilità legale, modelli assicurativi, ecc. Lo stesso
+  dovrebbe avvenire nel Cyberspazio
+  La debolezza di un singolo componente o prodotto può compromettere la sicurezza di intere
+  nazioni e anche la sicurezza dei cittadini. In questo scenario, la responsabilità dell'industria
+  del software non può essere trascurata
+© 2017 NTT DATA Corporation                          19
+
+Proteggere il singolo: l’anello debole della catena
+                     Security USER EXPERIENCE e Security BY DESIGN come elementi centrali
+                     Regole SEMPLICI per mantenere COMPORTAMENTI SICURI:
+                            limitare il numero di decisioni sulla sicurezza che gli utenti devono prendere,
+                            semplificare la scelta della giusta azione di sicurezza, rendere difficile fare
+                            una cosa sbagliata e aiutarli a recuperare quando la cosa sbagliata accade
+© 2017 NTT DATA Corporation                                   20
+
+    Cyber Security Rating: un passaporto della Sicurezza
+La solidità dell’azienda di domani non si misurerà più solo sulla capacità di gestire
+il rischio finanziario, ma anche su quella di far fronte al rischio Cybersecurity
+    © 2017 NTT DATA Corporation            21
+
+5 linee guida che le aziende dev ono considerare
+        1) Avere una chiara strategia di Cyber Security;
+        2) Investire nella Cyber Security verificando l’efficacia delle soluzioni adottate;
+        3) Collaborare per aumentare lo scambio di informazioni;
+        4) Rendere capaci gli individui di gestire situazioni critiche;
+        5) Assicurarsi che i partner rispondano ad alti livelli di sicurezza, spingendo per la
+        «vendor liability»
+© 2017 NTT DATA Corporation                        22
+
+   NTT: the security company
+                                I nostro impegno sul tema cyber security
+1300 esperti di sicurezza        Collaborazione con           16 SOC gestiti     NTT Security Global Data
+       a livello mondiale                Governi               in tutto il mondo   Analysis Methodology
+                                Stretta collaborazione con                       Con visibilità sul 40% del traffico
+                               governo Giapponese, USA e                                 Internet mondiale,
+                                         Israeliano                               NTT Security riepiloga i dati da
+                                                                                   oltre 6,1 miliardi di log e 150
+                                                                                          milioni di attacchi
+   © 2017 NTT DATA Corporation                             23
+
+© 2017 NTT DATA Corporation

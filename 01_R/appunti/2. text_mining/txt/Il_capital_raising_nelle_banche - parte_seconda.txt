@@ -1,0 +1,1260 @@
+                                                                         1
+       Il Capital Raising nelle Banche
+                   - Parte Seconda -
+                      GIOVANNI PAPIRO
+ECONOMIA E GESTIONE DEGLI INTERMEDIARI FINANZIARI – UNIVERSITA’ DI SIENA
+
+                                                     2
+I meccanismi di risanamento e risoluzione degli enti
+     creditizi: Recovery Plan, Bail-in e Bail-out
+
+ BRRD - Bank Recovery and Resolution Directive: Razionale e Contenuti                                         3
+<U+F071> La direttiva definisce gli strumenti per gestire nella UE le situazioni di crisi e dissesto finanziario
+   bancarie al fine di:
+  • Prevenire gli stati di insolvenza e contribuire alla stabilità del sistema finanziario
+  • Minimizzare le ricadute negative ed i costi degli interventi, preservando la continuità dei servizi
+    essenziali delle banche in caso di dissesto e gestendo in modo ordinato la risoluzione di una banca
+  • Minimizzare l’onere a carico dei contribuenti derivante dagli interventi pubblici di salvataggio
+    bancario
+  • Fornire un impianto uniforme di gestione delle crisi a livello europeo, in modo armonizzare le forti
+    differenze dei vari sistemi nazionali ed evitare potenziali distorsioni competitive derivanti dai diversi
+    trattamenti (soprattutto sul costo del funding nei casi di interventi pubblici)
+<U+F071> Gli elementi fondamentali introdotti dalla direttiva sono i seguenti:
+  • Ogni stato individua un’autorità di risoluzione (in Italia è la Banca d’Italia) che ha il compito di
+    mettere in atto i processi di risoluzione; per le banche significative è il SRB a stabilire il resolution
+    plan, spetterà poi alle autorità di risoluzione nazionali dare attuazione al programma.
+  • Ogni banca deve predisporre periodicamente un piano di risanamento preventivo (recovery plan)
+  • L’autorità di risoluzione deve predisporre periodicamente un piano di risoluzione preventivo
+    (resolution plan)
+  • Viene introdotto un nuovo requisito minimo di detenzione di passività ammissibili per gli interventi
+    MREL
+  • Viene prevista la costituzione di un fondo di risoluzione per finanziare gli interventi di risoluzione
+
+ BRRD - Bank Recovery and Resolution Directive: Principi Generali                                                   4
+<U+F071> La risoluzione è un processo di ristrutturazione che mira a evitare interruzioni nella prestazione dei
+  servizi essenziali della banca (depositi, servizi di pagamento, etc.), ripristinando le condizioni di
+  sostenibilità economica della parte sana della banca (going concern) e liquidando le altre parti (gone
+  concern). La risoluzione è l’alternativa alla liquidazione in tutti quei casi in cui c’è un interesse pubblico
+  preminente per evitare la liquidazione.
+<U+F071> L’impianto normativo si basa sui seguenti principi:
+ • Il costo degli interventi e le perdite della banca devono in primo luogo scaricarsi sugli azionisti, in
+    secondo luogo sui detentori di titoli subordinati e solo dopo sugli altri creditori (bail-in), questo
+    meccanismo dovrebbe ridurre fenomeni di moral hazard (basati sul presupposto del salvataggio
+    pubblico) ed innescare un meccanismo di maggiore vigilanza da parte degli stakeholder ed in tal modo
+    contribuire a prevenire situazioni di crisi;
+ • Tramite il meccanismo del bail-in si punta a rafforzare la capacità della banca di rispristinare
+    autonomamente le risorse patrimoniali necessarie per continuare ad operare anche in caso di crisi
+ • La direttiva stabilisce che gli interventi non devono mai determinare per azionisti e creditori perdite
+    superiori a quelle che sosterrebbero se la banca fosse posta in liquidazione
+ • Gli interventi dovrebbero essere di carattere precoce in modo da porre rimedio al deterioramento
+    della situazione tramite recovery prima che questa degeneri al punto da necessitare la resolution
+ • L’intervento pubblico è consentito ma come estrema ratio in casi limitati (bail-out)
+ • Per i recovery plan si applica il principio di proporzionalità, per cui i contenuti ed il livello di analiticità
+    del piano deve essere adeguato alla rilevanza sistemica e alla complessità della banca
+
+Collegamenti tra SREP e BRRD                        5
+                             Supervisory Resolution
+                              Authority  Authority
+
+  Il Recovery Plan                                                                                             6
+• Prevede in anticipo gli interventi che la banca ipotizza di poter mettere in campo per rispristinare la
+   situazione patrimoniale e finanziaria in caso di un suo significativo deterioramento; tali misure non
+   devono prevedere il supporto pubblico
+• Deve essere aggiornato ogni anno o a seguito di eventi o cambimenti significativi della banca
+• Deve essere approvato dal CdA; il recovery plan è un documento di carattere riservato
+• Il piano viene sviluppato a livello consolidato in quanto punta alla stabilizzazione dell’intero gruppo,
+   ma deve prevedere le misure specifiche per ogni entità legale del gruppo; l’autorità di vigilanza può
+   tuttavia richiedere dei recovery plan anche su base individuale
+• Il piano deve descrivere dettagliatamente le azioni da porre in essere per rimediare agli impatti
+   derivanti da situazioni di stress severe, caratterizzate sia da rischi sistemici che idiosincratici
+• Nel piano devono essere forniti tutti gli indicatori rilevanti e le soglie che individuano le condizioni in
+   cui vengono attivate le procedure previste per la realizzazione del piano; tali indicatori devono poi
+   essere monitorati nel corso del tempo [è evidente lo stretto collegamento tra questa parte del
+   recovery plan ed il RAF]
+• L’autorità di vigilanza effettua una verifica del piano finalizzata a valutare la «ragionevole probabilità»
+   che le azioni previste dal piano siano effettivamente in grado di rispristinare condizioni di sostenibilità
+   economica e finanziaria e che possano essere realizzate in modo rapido ed efficace anche in condizioni
+   di stress;
+• L’autorità di vigilanza se lo ritiene opportuno può richiedere alla banca di modificare il piano
+
+           Contenuti del Recovery Plan                                                                                                   7
+Analisi Strategica
+• Descrizione del business model e della struttura della banca
+• Caratteristiche principali del modello di business adottato
+• Descrizione delle core business line
+• Lista delle «critical economic function» (attività la cui interruzione può generare tensioni a livello sistemico)
+• Framework di identificazione e valutazione delle interdipendenze legali, finanziarie e operative interne/esterne
+Governance e processi
+• Definizione della struttura di governance per la gestione del Recovery Plan (comitati, mandato, poteri decisionali) e integrazione con
+  l’organizzazione della banca
+• Integrazione del Recovery Plan con i principali processi di Risk Management
+• Descrizione del processo di attivazione del Recovery Plan (meccanismi di escalation, funzioni coinvolte, responsabilità e tempi decisionali)
+Indicatori di Recovery/Early warning
+• Recovery Plan Indicator e modalità di monitoraggio
+• Early Warning Signal e modalità di monitoraggio
+• Calibrazione dei trigger di attivazione del piano di recovery in coerenza con il RAF
+• Integrazione dei trigger di recovery e degli indicatori di early warning nel Risk Management Reporting
+Individuazione scenari avversi
+• Definizione degli scenari di stress «near-default» (scenari con rischi idiosincratico, sistemico, combinato)
+• Calcolo degli impatti su capitale, liquidità, profittabilità e operatività della Banca
+Azioni di recovery
+• Identificazione di una lista delle possibili azioni di recovery
+• Descrizione dettagliata delle azioni, inclusa analisi dei requisiti/ostacoli per l’implementazione delle azioni stesse
+• Identificazione delle opzioni di recovery applicabili alla realtà della banca
+Analisi degli impatti
+• Scelta della strategia (sequenza selezionata di azioni di recovery) applicabile a ciascuno scenario
+• Valutazione dell’impatto della strategia di recovery in ciascuno scenario
+Comunicazione
+• Piano complessivo di comunicazione agli stakeholder rilevanti
+• Specifiche azioni di comunicazione per ciascuna misura
+
+Recovery Plan: Processo di Escalation e Collegamento con il RAF 8
+ La Relazione tra ICAAP/ILAAP, SREP, Recovery Plan         9
+La banca sviluppa i                L’autorità di vigilanza
+    documenti                        valuta i documenti
+
+  Il Resolution Plan                                                                                          10
+• Viene sviluppato dall’autorità di risoluzione e rivisto ogni anno o anche prima in caso di eventi
+   rilevanti che possono influire sull’efficacia del piano
+• Prevede le varie possibili azioni e gli strumenti di risoluzione che si possono adottare in caso di
+   risoluzione della banca, nonchè la stima dei tempi per la loro relizzazione
+• Identifica gli eventuali ostacoli alla risoluzione e le modalità per rimuoverli
+• Identifica le funzioni essenziali della banca che devono essere preservate e le modalità di separazione
+   dalle altre funzione
+• Stabilisce le modalità di misurazione del valore delle attività della banca
+• Stabilisce il piano di comunicazione con i media e il pubblico
+• Definisce il requisito di MREL
+• Nella predisposizione del resolution plan non si considerano interventi pubblici di salvataggio o
+   assistenza di liquidità di emergenza fornita dalla banca centrale
+• Il resolution plan è relativo all’intero gruppo bancario, in caso di gruppi trans-nazionali le autorità di
+   risoluzione cooperano per lo sviluppo del piano
+• Il piano è un documento riservato e viene trasmesso dall’autorità di risoluzione all’autorità di vigilanza;
+   gli elementi principali sono tuttavia comunicati anche alla banca interessata insieme al requisito di
+   MREL
+
+ Le Misure di Intervento Precoce                                                                          11
+<U+F071> Le misure di intervento precoce sono finalizzate a prevenire situazioni di dissesto della banca, e sono
+  decise dall’autorità di vigilanza quando la banca non rispetta o è a rischio di violare nel prossimo
+  futuro i requisiti minimi regolamentari; tali interventi consistono in:
+     • Attuazione di una o più delle misure previste dal recovery plan
+     • Richiesta di predisposizione di un altro piano da parte della banca
+     • Convocazione dell’assemblea degli azionisti per l’approvazione delle azioni stabilite
+     • Richiedere la predisposizione di un piano di ristrutturazione del debito
+     • Richiedere cambiamenti della strategia della banca
+     • Richiedere cambiamenti nelle strutture giuridiche ed operative della banca
+     • Rimozione di uno o più alti dirigenti e amministratori, qualora non siano ritenuti idonei o si
+       siano verificate gravi irregolarità amministrative o violazioni della normativa; in questi casi la
+       nomina dei nuovi dirigenti e/o amministratori deve essere approvata anche dall’autorità di
+       vigilanza, che può addirittura nominare essa stessa un amministratore temporaneo
+<U+F071> L’autorità di vigilanza comunica prontamente all’autorità di risoluzione l’emergere di una situazione
+  che giustifica interventi precoci
+
+  La Risoluzione                                                                                                            12
+• La risoluzione è attivata dall’autorità di risoluzione quando la banca è in dissesto o è a rischio di dissesto, vi è un
+  interesse pubblico e non si ritiene che misure alternative siano praticabili in tempi ragionevoli, ovvero quando si
+  verificano, o vi sono elementi oggettivi per ritenere che nel prossimo futuro si verificheranno, una delle seguenti
+  situazioni:
+    a)   La banca non rispetta i requisiti minimi per l’autorizzazione
+    b)   Le attività sono inferiori alle passività
+    c)   La banca non è in grado di rimborsare il debito a scadenza
+    d)   La banca necessita di un intervento pubblico straordinario
+• I principi generali della risoluzione sono i seguenti:
+  • Garantire la continuità delle funzioni essenziali della banca
+  • Preservare la stabilità finanziaria del sistema
+  • Tutelare i depositanti e le attività dei clienti
+  • Minimizzare i costi della risoluzione ed il sostegno pubblico
+  • Ripartire le perdite con il seguente ordine: a) azionisti; b) detentori di passività subordinate; c) altri creditori
+  • Salvaguardare i depositi protetti
+  • Parità di trattamento dei creditori con lo stesso grado
+  • Nessun creditore deve sostenere perdite maggiori di quelle che avrebbe sostenuto in caso di liquidazione della banca
+• Prima di avviare un’azione di risoluzione è necessario far effettuare una valutazione indipendente delle attività e delle
+  passività della banca al fine di supportare la decisione sulle azioni più opportune da intraprendere e le condizioni di
+  svalutazione o conversione degli strumenti di capitale
+• In caso di risoluzione il CdA e l’alta dirigenza devono essere sostituiti
+
+  Le Misure di Risoluzione                                                                                      13
+L’autorità di risoluzione può utilizzare le seguenti misure, anche in combinazione tra loro, senza il consenso
+degli azionisti della banca e derogando dagli obblighi procedurali previsti dal diritto societario e dalla
+legislazione dei valori mobiliari:
+• Vendita dell’attività di impresa, consiste nella cessione della banca o di tutte o parte delle sue attività e
+   passività a terzi
+• Ente ponte, consiste nella cessione della banca o di tutte o parte delle sue attività e passività ad un
+   nuovo veicolo societario (bridge bank), di proprietà di una o più autorità pubbliche (ad es. l’autorità di
+   risoluzione, il SRF), in attesa di trasferire successivamente la proprietà delle azioni della bridge bank o
+   delle sue attività e passività a uno o più acquirenti privati; questa misura può risultare necessaria per
+   metttere in sicurezza in tempi rapidi la continuità delle attività essenziali della banca nei confronti dei
+   propri clienti
+• Separazione dell’attività, consiste nella cessione di parte delle attività e passività ad una o più società
+   veicolo; in genere si opera in modo da separare il ramo d’azienda che contiene le funzioni essenziali
+   della banca e la parte produttiva ancora in grado di generare reddito (good bank), dal peso delle attività
+   deteriorate (bad bank) che andranno liquidate in un’ottica di minimizzazione delle perdite
+• Bail-in, costituisce la vera innovazione della direttiva e consiste in un meccanismo con cui tramite
+   l’abbattimeno del valore delle azioni e delle passività e/o la conversione di quest’ultime in azioni, si
+   assorbono le perdite e si ricapitalizza la banca in misura sufficiente a ripristinare un’adeguata
+   capitalizzazione e la fiducia del mercato; in sostanza la banca si salva da sola utilizzando le risorse che
+   già sono nel suo bilancio, adeguando il loro valore e profilo di rischio alle esigenze patrimoniali che la
+   situazione impone. In questo modo si intende anche attivare un processo che mira ad aumentare gli
+   incentivi degli stakeholders a vigilare sulla corretta gestione della banca, prevenendo in tal modo i rischi
+   di dissesto [sulla reale efficacia del funzionamento di questo tipo di meccanismo preventivo tuttavia è
+   più che lecito dubitare]
+
+     Il Meccanismo del Bail-in                                                                                            14
+• Il bail-in può essere applicato solo se vi è una ragionevole prospettiva di risanamento della banca tramite il
+  ripristino della sua solidità patrimoniale
+• Dal bail-in sono escluse delle specifiche passività; ciò deriva dall’esigenza di tutelare alcune tipologie di
+  creditori e forme tecniche per le quali risulta essenziale garantire la certezza dell’esigibilità per il corretto
+  funzionamento del sistema:
+    -    i depositi protetti dal DGS (fino a 100.000 euro)
+    -    le passività garantite (covered bonds e altri strumenti garantiti)
+    -    le passività interbancarie (ad esclusione dei rapporti infragruppo) con durata originaria inferiore a 7
+         giorni
+    -    le passività derivanti dalla partecipazione ai sistemi di pagamento con una durata residua inferiore a 7
+         giorni
+    -    le passività verso i dipendenti, il fisco, il DGS, fornitori di servizi essenziale per la banca (IT, utenze,
+         locazioni, etc.)
+    -    le passività derivanti dalla detenzione di beni della clientela o in virtù di una relazione fiduciaria, come
+         ad esempio il contenuto delle cassette di sicurezza o i titoli detenuti in un conto apposito
+    -    in circostanze eccezionali (ad es. rischi per la stabilità finanziaria e la continuità di funzioni essenziali) le
+         autorità possono discrezionalmente escludere ulteriori passività; tali esclusioni sono soggette a limiti e
+         devono essere approvate dalla Commissione Europea
+•   Il meccanismo di bail-in serve anche ad abilitare l’intervento del sistema di finanziamento della risoluzione,
+    infatti è previsto che il SRF possa intervenire, fino ad un massimo del 5% del totale di bilancio (rilevato al
+    momento della risoluzione), solo se gli azionisti, i detentori di strumenti di capitale e delle altre passività
+    ammissibili abbiano contribuito ad assorbire perdite per almeno:
+    -    l’8% del totale di bilancio
+    -    Il 20% dei RWA, se la banca ha attività inferiori 900 miliardi di euro e a livello di stato di appartenenza
+         della banca si sia accantonato ex-ante nel SRF almeno il 3% del totale dei depositi protetti del paese
+
+      Il Funzionamento del Meccanismo di Bail-in                                                                                        15
+                1                                              2                                                    3
+         SITUAZIONE INIZIALE                       IMPATTO DELLE PERDITE                                   RIPRISTINO VIABILITY
+                                     Minimo
+                                 Regolamentare
+                                                                                                                  Nuovo Minimo
+                                                  Perdita           Svalutazione         Shortfall               Regolamentare
+                      Capitale                                                         Patrimoniale
+                                                                    Capitale                                                  Capitale
+                                                                                          Bail-in
+                                                                    Conversione                                                  Nuovo
+                                                                    Str. Ammiss.                                                 Equity
+   Attività
+                                                Attività                                                  Attività
+                      Passività                                     Passività
+                                                                                                                              Passività
+La banca è in una situazione normale     Per effetto di perdite sulle attività finanziarie si      La banca ritorna in una situazione di
+con dotazione patrimoniale superiore     registra un abbattimento del patrimonio che la            viability con una dotazione
+ai minimi regolamentari                  porta al di sotto dei minimi regolamentari; parte         patrimoniale superiore ai minimi
+                                         delle passività ammissibili sono convertite in            regolamentari e proporzionata al
+                                         capitale                                                  nuovo livello di attività della banca
+                                                                                                   post bail-in
+
+    Gli interventi Pubblici nell’Ambito della Risoluzione                                                                             16
+Interventi pubblici di salvataggio (bail-out) sono consentiti nell’ambito della BRRD, ma solo come soluzione di ultima istanza
+dopo aver valutato la possibilità di adottare le altre misure previste; più in particolare sono previste le seguenti due possibilità:
+<U+F071> Ricapitalizzazione Precauzionale [Art. 32 BRRD]; è una deroga alla procedura di risoluzione attivabile solo nei casi in cui
+     serva ad evitare gravi perturbazioni economiche e/o preservare la stabilità finanziaria di uno stato; consiste nei seguenti
+     interventi di natura cautelativa e temporanea:
+    • Garanzie dello stato a supporto di strumenti di liquidità forniti dalla banca centrale o su passività di nuova emissione
+    • Emissioni di strumenti di capitale (CET1, AT1 T2) limitatamente all’ammontare necessario a sopperire ad una carenza
+        patrimoniale determinata nell’ambito di uno stress test regolamentare o a verifiche di AQR
+    È inoltre necessario che vengano rispettate le seguenti condizioni:
+    • La banca è ancora in condizioni di solvibilità (lo stabilisce l’autorità di vigilanza)
+    • La Commissione Europea (DG Comp) li approva ai sensi della disciplina degli aiuti di stato, ciò implica che l’intervento
+        dello Stato può essere effettuato solo dopo la conversione in azioni delle obbligazioni subordinate (principio del burden
+        sharing)
+    • L’intervento non può essere finalizzato a coprire perdite già registrate o di cui la banca ha già consapevolezza
+<U+F071> Strumenti Pubblici di Stabilizzazione [Art. 56-58 BRRD]; è la possibilità di ricorrere ad interventi pubblici in casi eccezionali
+     di crisi sistemiche tramite i seguenti due tipi di interventi:
+    • Emissioni di strumenti di capitale (CET1, AT1 T2)
+    • Nazionalizzazione temporanea della banca
+    È inoltre necessario che vengano rispettate le seguenti condizioni:
+    • Le azioni e gli altri strumenti di capitale siano stati svalutati al fine di assorbire le perdite per un ammontare complessivo
+        di almeno l’8% del totale delle passività rilevate al momento della risoluzione
+    • La Commissione Europea (DG Comp) approvi la misura ai sensi della disciplina degli aiuti di stato
+<U+F071> Nei casi in cui la banca divenga di proprietà pubblica, lo Stato deve comunque riprivatizzarla non appena le circostanze lo
+    consentano
+
+                                                          17
+I nuovi requisiti patrimoniali previsti dai meccanismi di
+                  recovery: MREL e TLAC
+
+  Il Requisito Minimo di Passività Ammissibili al Bail-in                                                                      18
+• Affinchè il meccanismo del bail-in possa effettivamente funzionare nel momento del bisogno è essenziale che le banche
+  dispongano sempre di un ammontare adeguato di passività ammissibili al bail-in, in modo da essere in grado,
+  potenzialmente, di auto finanziare il proprio salvataggio
+• Dal momento che tali passività hanno un costo maggiore per le banche, risulta necessario evitare che le banche
+  strutturino la composizione del proprio passivo in modo da non compromettere l’efficacia del bail-in finanziandosi con un
+  ammontare eccessivo di strumenti non ammissibili
+• Nasce quindi l’esigenza di imporre un requisito minimo di detenzione di passività ammissibili al bail-in tramite
+  l’introduzione di:
+        <U+F0D8> MREL - Minimum Requirement of Eligible Liabilities, applicabile a tutte le banche della UE [disciplinato all’art. 45
+           della BRRD]; vincolante per banche significative a partire dal 2019
+                                          <U+0001D405><U+0001D428><U+0001D427><U+0001D41D><U+0001D422> <U+0001D40F><U+0001D42B><U+0001D428><U+0001D429><U+0001D42B><U+0001D422> + <U+0001D40F><U+0001D41A><U+0001D42C><U+0001D42C><U+0001D422><U+0001D42F><U+0001D422><U+0001D42D>à <U+0001D400><U+0001D426><U+0001D426><U+0001D422><U+0001D42C><U+0001D42C><U+0001D422><U+0001D41B><U+0001D422><U+0001D425><U+0001D422>
+                                <U+0001D40C><U+0001D411><U+0001D404><U+0001D40B> =
+                                              <U+0001D413><U+0001D428><U+0001D42D><U+0001D41A><U+0001D425><U+0001D41E> <U+0001D40F><U+0001D41A><U+0001D42C><U+0001D42C><U+0001D422><U+0001D42F><U+0001D422><U+0001D42D>à <U+0001D41E> <U+0001D405><U+0001D428><U+0001D427><U+0001D41D><U+0001D422> <U+0001D40F><U+0001D42B><U+0001D428><U+0001D429><U+0001D42B><U+0001D422>
+        <U+F0D8> TLAC - Total Loss Absorbing Capacity, applicabile solo alle banche G-SII di tutto il mondo; introdotto dal Financial
+           Stability Board come risposta al problema del too big to fail è in via di recepimento normativo nella prossima
+           versione della CRR; sarà vincolante a partire dal 2019
+                                             <U+0001D405><U+0001D428><U+0001D427><U+0001D41D><U+0001D422> <U+0001D40F><U+0001D42B><U+0001D428><U+0001D429><U+0001D42B><U+0001D422> + <U+0001D40F><U+0001D41A><U+0001D42C><U+0001D42C><U+0001D422><U+0001D42F><U+0001D422><U+0001D42D>à <U+0001D400><U+0001D426><U+0001D426><U+0001D422><U+0001D42C><U+0001D42C><U+0001D422><U+0001D41B><U+0001D422><U+0001D425><U+0001D422>
+                                                                <U+0001D411><U+0001D416><U+0001D400>
+                              <U+0001D413><U+0001D40B><U+0001D400><U+0001D402> =
+                                               <U+0001D405><U+0001D428><U+0001D427><U+0001D41D><U+0001D422> <U+0001D40F><U+0001D42B><U+0001D428><U+0001D429><U+0001D42B><U+0001D422> + <U+0001D40F><U+0001D41A><U+0001D42C><U+0001D42C><U+0001D422><U+0001D42F><U+0001D422><U+0001D42D>à <U+0001D400><U+0001D426><U+0001D426><U+0001D422><U+0001D42C><U+0001D42C><U+0001D422><U+0001D41B><U+0001D422><U+0001D425><U+0001D422>
+                                             <U+0001D404><U+0001D42C><U+0001D429><U+0001D428><U+0001D42C><U+0001D422><U+0001D433><U+0001D422><U+0001D428><U+0001D427><U+0001D41E> <U+0001D402><U+0001D428><U+0001D426><U+0001D429><U+0001D425><U+0001D41E><U+0001D42C><U+0001D42C><U+0001D422><U+0001D42F><U+0001D41A> <U+0001D40B><U+0001D41E><U+0001D42F><U+0001D41E><U+0001D42B><U+0001D41A><U+0001D420><U+0001D41E> <U+0001D411><U+0001D41A><U+0001D42D><U+0001D422><U+0001D428>
+          [Esposizione Complessiva = Totale Attivo – Deduzioni Tier 1 + Fuori Bilancio <U+F0B4> CCF + Rettifiche Derivati]
+
+  Le Passività Ammissibili al TLAC e MREL                                                                                     19
+           Criteri di Ammissibilità delle Passività                         Criteri di Esclusione delle Passività
+• Devono essere emesse e sottoscritte (capitale versato)       • Depositi garantiti (<100.000 euro)
+• L’acquisto non deve essere finanziato direttamente o         • Depositi a vista o con scadenza inferiore ad un anno
+  indirettamente dalla banca                                   • La quota eccedente dei depositi garantiti (>100.000
+• Non devono essere detenute dalla banca, da soggetti             euro) di persone fisiche e PMI
+  controllati o partecipati in misura pari o superiore al 20%  • Passività garantite
+• Devono avere durata residua superiore ad un anno o           • Passività risultanti da derivati o con derivati incorporati
+  essere perpetue
+                                                               • Passività verso i dipendenti, il fisco, fornitori di servizi
+• Non devono essere garantite                                     essenziali per la banca e il DGS
+• Non devono essere soggette                ad    accordi   di • Passività escluse dal bail-in
+  compensazione o diritti di netting
+• Non devono avere incentivi al rimborso o riacquisto                          DIFFERENZE TRA MREL E TLAC
+  anticipato, contenere opzioni put esercitabili da
+  sottoscrittore (eventuali opzioni call o di early             • Il TLAC richiede la subordinazione (grado di seniority
+  repayment devono poter essere esercitate unicamente a           inferiore) contrattuale e giuridica delle passività
+  discrezione dell’emittente)                                     ammissibili rispetto a tutte le passività escluse dal bail-
+                                                                  in, in pratica titoli di CET1, AT1, T2 [con eccezioni fino ad
+• Il rendimento non deve modificarsi in base all’evoluzione       un massimo del 3,5% dei RWA o 5% del TLAC di titoli
+  del merito creditizio dell’emittente (o della sua               senior]
+  capogruppo)                                                   • Il MREL non lo richiede necessariamente e quindi da la
+• Le disposizioni contrattuali prevedono che in caso di           possibilità di considerare anche titoli senior
+  risoluzione possano subire una riduzione permanente           • la nuova proposta di CRR tende ad allineare i criteri di
+  del loro valore nominale o la conversione in strumenti          ammissibilità tra MREL TLAC
+  di CET1
+
+         MREL: Minimum Requirement of Eligible Liabilities                                                                                   20
+ • Il requisito di MREL viene stabilito banca per banca dall’autorità di risoluzione, sentita l’autorità di vigilanza, in modo da
+    assicurare un’adeguata capacità di coperture delle perdite potenziali ed il ripristino di un coefficiente patrimoniale che consenta
+    alla banca di continuare ad operare sulla base di quanto stabilito nell’ambito del resolution plan
+ • Il requisito deve essere sempre soddisfatto, sia su base individuale che consolidata (sebbene a certe condizioni siano previste
+    alcune possibilità di deroga ai requisiti individuali), ed è espresso in termini percentuali rispetto al totale delle passività e dei fondi
+    propri (patrimonio di vigilanza) della banca
+          MREL = Loss Absorption Amount (LAA) + Recapitalization Amount (RCA) – Adjustment DGS
+• Ammontare minimo necessario alla                   • Ammontare pari al fabbisogno di              • Rettifiche eventuali determinate
+   copertura delle perdite; previsto per tutte         capitale (stimato) necessario alla banca        sulla base dello SREP
+   le banche e determinato in modo                     per ripristinare la viability e proseguire • In aumento: modello di business e
+   indipendente dallo strumento di gestione            la sua attività                                 rischiosità della banca (SREP);
+   della crisi                                       • Determinato in funzione della strategia         impedimenti alla risoluzione;
+• È dato dal massimo tra:                              di gestione della crisi e previsto solo         assorbimento perdite su passività
+   <U+F0A7> 8% RWA + CBR + Requisiti SREP                     per le banche sottoposte a risoluzione          MREL emesse da altre entità del
+   <U+F0A7> Requisito patrimoniale relativo al                (non quelle liquidate)                          gruppo
+     Leverage Ratio                                  • Determinato sulla base del livello di        • In diminuzione: requisiti di Pillar 2
+   <U+F0A7> Requisito minimo Basilea I [art.500 CRR]          patrimonializzazione "obiettivo" post           non idonei
+                                                       risoluzione stabilito nel resolution plan
+   MREL MIN = 8% Total Liabilities & Own Funds
+                                                       più un eventuale buffer aggiuntivo per
+                                                       ripristinare la fiducia del mercato
+
+  Determinazione del Recapitalization Amount: Esempi                                                           21
+L'importo della ricapitalizzazione [RCA] dipende dalla strategia di risoluzione stabilita nel resolution plan,
+ad esempio:
+    <U+F0D8> Continuità aziendale
+        <U+F0A7> Obiettivo: ripatrimonializzazione della banca
+        <U+F0A7> Ammontare: Commisurato al requisito patrimoniale minimo dell'8% RWA + buffer
+    <U+F0D8> Bridge Bank
+        <U+F0A7> Obiettivo: dotazione patrimoniale della Bridge Bank
+        <U+F0A7> Ammontare: Commisurato ai requisiti patrimoniali minimi reativi alle attività della bridge bank
+           + buffer
+    <U+F0D8> Vendita dell’Attività di Impresa
+        <U+F0A7> Obiettivo: in linea di massima nullo
+        <U+F0A7> Ammontare: solo capacità di assorbimento delle perdite stimate
+    <U+F0D8> Bad Bank
+        <U+F0A7> Obiettivo: dotazione patrimoniale della Bad Bank
+        <U+F0A7> Ammontare: Commisurato ai requisiti patrimoniali minimi relativi alle attività deteriorate
+           conferite
+
+      MREL: Minimum Requirement of Eligible Liabilities                                                                                   22
+• La BRRD specifica chiaramente che il requisito del MREL deve sempre essere rispettato, ma non è affatto chiaro cosa accadrà in
+  caso di mancato rispetto; questo è un limite della normativa.
+• Attualmente la normativa consente le seguenti azioni:
+    a) rimuovere gli impedimenti alla risoluzione [Art. 18-19 BRRD] ad es. richiedere alla banca di emettere passività ammissibili o
+       cambiare il profilo delle scadenze del passivo – tali azioni tuttavia hanno tempi di realizzazione lunghi, specialmente per le
+       banche cross-border in considerazione del numero di soggetti coinvolti: banca, autorità di risoluzione nazionali, autorità di
+       vigilanza
+    b) richiedere alla banca di sottoporre un piano per ripristinare il rispetto del requisito – incertezza sulla reale efficacia del piano
+    c) imporre sanzioni amministrative – incertezza giuridica sull’implementazione nelle varie giurisdizioni nazionali
+    d) attivare le azioni di early intervention previste dal recovery plan – possono essere attivate però solo dall’autorità di vigilanza
+    e) attivare la risoluzione – tuttavia solo nei casi di violazioni gravi e persistenti
+• L’EBA nel Final Report on MREL del 14-12-2016 propone di specificare meglio i seguenti poteri dell’autorità di risoluzione in caso
+  di violazione del MREL, da attivare progressivamente sulla base della gravità dell’infrazione:
+    a) richiedere alla banca di sottoporre un piano credibile ed adeguato di ripristino della sua «loss-absorbing capacity»
+       (restoration plan) quando la banca ha difficoltà a rinnovare il proprio debito in modo da rispettare il requisito, il piano
+       potrebbe prevedere azioni quali emissioni di passività ammissibili, rinegoziazione delle passività esistenti in modo da
+       renderle ammissibili, ristrutturazioni del bilancio in modo da consentire il rispetto del requisito (ad es. vendita di attività)
+    b) Prevedere tempi rapidi obbligatori per definire le azioni di rimozione degli impedimenti
+    c) Restrizioni sulla distribuzione dei dividendi, che non dovrebbero essere automatici ma predisposti dall’autorità di vigilanza su
+       proposta dell’autorità di risoluzione
+    d) predisposizione di piani congiunti tra autorità di vigilanza e autorità di risoluzione che individuino contemporaneamente
+       azioni per il ripristino del rispetto sia dei requisiti patrimoniali che di MREL
+• Il rispetto del requisito di MREL dovrebbe essere valutato in stretto collegamento con i requisiti patrimoniali prudenziali
+  dell'ente; e gli interventi da intraprendere devono essere valutati attentamente dalle autorità, in quanto determinate azioni
+  possono avere effetti diversi a seconda dei casi sulla capacità di una banca nel soddisfare contemporaneamente i requisiti di
+  MREL e patrimoniali; per es. imporre restrizioni alla distribuzione di dividendi se da un lato aiuta a preservare la dotazione
+  attuale di capitale, dall’altro può compromettere la capacità della banca di ripristinare in modo strutturale la loss-absorbing
+  capacity tramite emessione di nuovi strumenti sul mercato
+
+    TLAC – Total Loss Absorbing Capacity: Requisito Minimo                                                                               23
+                                                                                                          La proposta di revisione
+                                                                                                          della CRR anticipa al 2019 i
+                                                                                                          requisiti a regime del 18%
+           <U+0001D405><U+0001D428><U+0001D427><U+0001D41D><U+0001D422> <U+0001D40F><U+0001D42B><U+0001D428><U+0001D429><U+0001D42B><U+0001D422>+<U+0001D40F><U+0001D41A><U+0001D42C><U+0001D42C><U+0001D422><U+0001D42F><U+0001D422><U+0001D42D>à <U+0001D400><U+0001D426><U+0001D426><U+0001D422><U+0001D42C><U+0001D42C><U+0001D422><U+0001D41B><U+0001D422><U+0001D425><U+0001D422>                                                             RWA e del 6,75% Leverage
+                                                         = 16% (1-1-2019); 18% (1-1-2022)                 Exposure
+                              <U+0001D411><U+0001D416><U+0001D400>
+                                                                                                          Inoltre prevede che il
+<U+0001D413><U+0001D40B><U+0001D400><U+0001D402>
+                                                                                                          requisito minimo non si
+              <U+0001D405><U+0001D428><U+0001D427><U+0001D41D><U+0001D422> <U+0001D40F><U+0001D42B><U+0001D428><U+0001D429><U+0001D42B><U+0001D422>+<U+0001D40F><U+0001D41A><U+0001D42C><U+0001D42C><U+0001D422><U+0001D42F><U+0001D422><U+0001D42D>à <U+0001D400><U+0001D426><U+0001D426><U+0001D422><U+0001D42C><U+0001D42C><U+0001D422><U+0001D41B><U+0001D422><U+0001D425><U+0001D422>                                                          applichi nei primi tre anni in
+                                                              = 6% (1-1-2019); 6,75% (1-1-2022)
+           <U+0001D404><U+0001D42C><U+0001D429><U+0001D428><U+0001D42C><U+0001D422><U+0001D433><U+0001D422><U+0001D428><U+0001D427><U+0001D41E> <U+0001D402><U+0001D428><U+0001D426><U+0001D429><U+0001D425><U+0001D41E><U+0001D42C><U+0001D42C><U+0001D422><U+0001D42F><U+0001D41A> <U+0001D40B><U+0001D41E><U+0001D42F><U+0001D41E><U+0001D42B><U+0001D41A><U+0001D420><U+0001D41E> <U+0001D411><U+0001D41A><U+0001D42D><U+0001D422><U+0001D428>                                                         cui una banca viene
+                                                                                                          classificata some G-SII e nei
+                                                                                                          due anni successivi ad una
+                                                                                                          misura di risoluzione
+  • Il requisito di TLAC si configura come requisito di Pillar 1, ovvero il mancato rispetto del requisito minimo dovrebbe
+    essere considerato grave come il mancato rispetto dei requisiti minimi regolamentari sul patrimonio e comportare le
+    stesse conseguenze
+  • Le autorità di risoluzione potranno imporre anche requisiti addizionali
+  • Il linea generale il requisito si applica a livello delle entità legali del gruppo per le quali è previsto uno specifico piano
+    di risoluzione «resolution entity»
+  • Le controllate significative di un gruppo G-SII che opera all’interno dell’UE (con almeno il 5% dei RWA o risultato
+    operativo o esposizione al leverage), ma con capogruppo fuori dall’UE, saranno soggette ad un requisito pari al 90% dei
+    requisiti minimi previsti per la capogruppo
+
+            Gerarchia di Utilizzo delle Passività nel Meccanismo di Bail-in                                                                     24
+     Nel meccanismo di bail-in l’autorità di risoluzione provvede alla svalutazione e/o conversione in strumenti di CET1 delle passività
+     ammissibili procedendo nel seguente ordine:
+               Passività
+               Ammissibili                                                              Passività
+               al TLAC                                                                  Ammissibili
+                                                                                                          Probabile prossima introduzione di
+                                                                                        al MREL
+Da un punto di vista                                                                                      un nuovo tipo di titoli Senior non-
+gestionale sarebbe                                                                                        preferred bail-in-abili solo in caso di
+preferibile che anche il                                                                                  risoluzione; questi strumenti di
+requisito MREL venisse                                                                                    capitale saranno senior rispetto ai
+coperto da questi                                                                                         subordinati e junio rispetto algi altri
+strumenti; diversamente                                                                                   titoli senior
+il costo delle obbligazioni
+senior rischierebbe di
+allinearsi a quello molto
+più elevato dei prestiti
+subordinati
+                                Passività
+                                Escluse
+      Io meccanismo del bail-in è stato fortemente criticato, particolarmente in relazione agli aspetti che riguardano la mancata coerenza
+      tra i criteri di ammissibilità al MREL ed il ranking delle passività previsto dalla normativa in caso di insolvenza; in pratica ci sono
+      passività bail-in-abili che hanno lo stesso ranking di passività non ammissibili; ciò può determinare rischi di ricorsi da parte dei
+      detentori dei titoli oggetto di bail-in in quanto potrebbero considerare il loro trattamento peggiore rispetto a quello che avrebbero
+      avuto in caso di liquidazione. Ciò è particolarmente rilevante per i titoli già emessi e in circolazione. Da questo punt di vista sarebbe
+      stato preferibile adottare un periodo di transizione più esteso per i titoli emessi prima dell’entrata in vigore della BRRD.
+
+Evoluzione del Costo dei Titoli Subordinati                                                25
+In seguito alla crisi finanziaria il costo dei titoli subordinati è notevolmente aumentato
+
+Differenziale di Rendimenti tra Titoli Senior e Subordinati: 2015 – 2016 26
+                    Fonte: EBA – Final Report on MREL; 14 December 2016
+
+Differenziale di Rendimenti tra Titoli Senior e Subordinati: 2016 – 2017          27
+       Fonte: EBA; Risk Assessment of the European Banking System; November 2017.
+
+Differenziale di Rendimenti tra Titoli Senior e Subordinati             28
+                    Fonte: EBA – Final Report on MREL; 14 December 2016
+
+Il MREL nelle Banche Europee nel QIS 2015                                                29
+    • Le banche G-SII mostrano i livelli più bassi di copertura del MREL
+    • In particolare il requisito in percentuale del TLOF al 2016 sembrerebbe a rischio,
+      considerando un probabile livello minimo pari a 2x8%
+                          Average MREL ratio by systemic importance
+                                 Fonte: EBA – Final Report on MREL; 14 December 2016
+
+        Il MREL nelle Banche Europee nel QIS 2015                                30
+                          Composition of MREL by bank’s systemic importance
+   Le banche G-SII
+sembrerebbero non
+ riuscire a coprire il
+ fabbisogno dell’8%
+di MREL con equity
+    e subordinati
+                             Fonte: EBA – Final Report on MREL; 14 December 2016
+
+Banche Italiane Significant: Passività Ammissibili                                                                                31
+                      Own funds and liabilities eligible for the MREL
+                                               (June 2017; per cent)                                               Soglia minima
+                                                                                                               necessaria per il TLAC
+                                                                                                                   anche se sarà
+            Soglia minima                                                                                      vincolante solo per le
+        necessaria per il TLAC            Soglie MREL vincolanti                                                   banche G-SII,
+             anche se sarà                  per tutte le banche;                                              probabilmente rivestirà
+        vincolante solo per le               quella minima 8% e                                               un valore segnaletico al
+             banche G-SII,                quella presumibile per                                                mercato per tutte le
+       probabilmente rivestirà             la maggior parte delle                                               banche significative
+       un valore segnaletico al                banche 2x8%
+         mercato per tutte le
+         banche significative
+      Soglie minime attualmente ipotizzate nelle proposte di regolamentazione
+                       Fonte: Italian Significant Institutions Quaterly Report; October 2017; Banca d’Italia.
+
+            Stima del Fabbisogno Finanziario del MREL in Diverse Ipotesi                                                          32
+  Fabbisogno rispetto a tutte
+  le eligible liabilities
+Fabbisogno escludendo i
+depositi dalle eligible liabilities
+       LA Buffer Scenario                                                                            Buffer 8% Scenario
+         MREL Threshold =                                                                              MREL Threshold =
+         2 x (P1 + P2) + CBR                                                                    Max [2 x (P1+P2+CBR); 8%TLOF]
+                                                                                                L’EBA ha effettuato delle stime
+                                                                                                sul fabbisogno finanziario al
+                                                                                                2016 delle banche per
+                                                                                                soddisfare il requisito del MREL
+                                                                                                considerando 2 scenari: LA
+                                                                                                Buffer, ed uno più conservativo
+                                                                                                Buffer 9%. L’analisi evidenzia un
+                                                                                                significativo fabbisogno a livello
+                                                                                                sistemico per fronteggiare i
+                                                                                                probabili requisiti di MREL.
+                                                                                                Le esigenze sono concentrate
+                                                                                                per le banche G-SII e O-SII.
+                                                                                                Considerando l’ammontare delle
+                                                                                                risorse stimate è lecito
+                                                                                                interrogarsi sulla effettiva
+                                                                                                capacità del mercato nel
+                                                                                                soddisfare le esigenze delle
+                                                                                                banche
+                                           Tratto da: EBA – Final Report on MREL; 14 December 2016
+
+SRB MREL Policy for 2017: Estimated Outcome Across the Banking Union                                                    33
+                                                                     • Application of the SRB 2017 MREL Policy:
+                                                                      <U+F0A7> Sample of 76banks (larger than the assessment
+                                                                         conducted in 2016) representing approx. 80% of
+                                                                         total assets of SRB banks
+                                                                      <U+F0A7> Based on the application of the SRB 2017 MREL
+                                                                         Policy (bank-specific adjustments, subordination
+                                                                         and criteria for MREL eligible-instruments)
+                                                                     • Estimated MREL targets: on average 26% RWAs
+                                                                     • Estimated MREL shortfalls: aggregate EUR 117 bn of
+                                                                       which EUR 47 bn to be met with subordinated
+                                                                       instruments, based on reported data as of 31
+                                                                       December 2016
+     Fonte: SRB; 6th Industry Dialogue: 2017 MREL Policy; 21/11/2017
+
+       Analisi Costi-Benefici dell’Introduzione del MREL                                                                                 34
+                                                                                                      The benefits of introducing MREL on GDP
+Main Findings – Macroeconomic Impact Analysis of MREL
+MREL benefits
+In a baseline scenario, the benefits of introducing MREL range between 23 and 92 bps of annual GDP (median estimate is 47
+bps) depending on the length of the crisis, the discount rate and the initial probability of a crisis.
+MREL costs
+Under a partial subordination scenario for G-SIBs and O-SIIs, and partial recapitalisation assumption for Other banks (50%
+recapitalisation amount), the MREL costs are in the range of -0.6 to -6 bps (median estimate is -2.2 to -4.3 bps) based on the
+macroeconomic model used, the MREL calibration level and the funding costs assumptions.
+Overall impact of introducing MREL
+Under the assumption of full market capacity to absorb MREL funding needs, MREL calibration level and eligibility criteria (e.g.
+subordination), the overall net MREL benefits are positive and range between 17 and 91 bps of annual GDP. In the case of
+Member States’ economies assessed as most affected, the net MREL benefits are likely to remain positive, especially in the
+steady state.
+The actual impact of MREL introduction will depend on the capacity of markets to absorb the volumes of MREL issuances
+needed for the build-up of MREL, and the corresponding capacity of banks (especially deposit funded banks) to access markets,
+including access to deep, developed markets.
+ Fonte: EBA – Final Report on MREL; 14 December 2016
+
+    Fonti di Incertezza che Gravano sul MREL                                                                                         35
+Tra gli elementi di incertezza che le banche considerano pesare maggiormente sulla loro capacità di soddisfare i requisiti legati al
+MREL figurano principalmente i livelli minimi (discrezionali e ad hoc) che le autorità di vigilanza potranno imporre e l’ammissibilità
+degli strumenti di capitale.
+             Fonte: EBA; Risk Assessment of the European Banking System; November 2017.
+
+                                       36
+Gli strumenti di capitale di una banca
+
+       Le Azioni per Soddisfare le Esigenze del Fabbisogno di Capitale                                                               37
+            AZIONI CHE AGISCONO SULLE ATTIVITA’                                AZIONI CHE AGISCONO SULLE PASSIVITA’
+<U+F0D8> Cessione di attività [in caso di titoli quotati i tempi di       <U+F0D8> Retention di utili
+  esecuzione sono estremamente ridotti]                              Riduzione nella distribuzione dei dividendi, questa misura
+  <U+F0A7> Cessione di portafogli di impieghi finalizzata a ridurre i       implica che la banca generi utili a sufficienza e comuque è in
+     requisiti patrimoniali                                          grado di colmare in tempi ragionevoli solo fabbisogni contenuti
+  <U+F0A7> Vendita di titoli, immobili o società finalizzata a              di capitale
+     deconsolidare attività e relativi assorbimenti                <U+F0D8> Aumento di capitale
+     patrimoniale e/o generare capitale tramite plusvalenze          È la misura principale per soddisfare fabbisogni di capitale
+  <U+F0A7> Vendita di partecipazioni finanziarie dedotte dal                consistenti di CET1 in tempi ragionevoli (ma non rapidissimi) e
+     patrimonio di vigilanza per generare capitale                   migliorare il rating della banca
+     regolamentare                                                 <U+F0D8> Operazioni di liability management
+<U+F0D8> Ottimizzazione RWA                                                 In condizioni particolari (quotazione a forte sconto dei titoli
+  <U+F0A7> Riduzione RWA tramite l’introduzione di modelli interni          della banca) consentono di generare CET1 tramite le
+     A-IRB; tempi piuttosto lunghi legati allo sviluppo e            plusvalenze derivanti dal riacquisto di titoli AT1 e T2
+     soprattutto al processo di validazione dei modelli              (eccezionalmente anche di titoli senior); possono soddisfare
+  <U+F0A7> Riduzione RWA tramite azioni di CRM (raccolta garanzie           esigenze molto limitate di CET1 e comunque a scapito degli
+     reali o personali sugli impieghi, coperture dei rischi, etc.)   indicatori di Tier1 e Total Capital
+<U+F0D8> Modifica della composizione dei portafogli creditizi             <U+F0D8> Emissione titoli Additional Tier 1
+  <U+F0A7> Modifiche nella qualità dei clienti verso controparti con        Consente di soddisfare agevolmente esigenze di capitale che si
+     rating più elevati e delle forme tecniche per ridurre gli       manifestano a livello di AT1 o own fund (total capital), può
+     assorbimenti e modifiche della scadenza degli impieghi          contribuire a soddisfare anche i requisiti di MREL/TLAC e NSFR
+     finalizzata a migliorare gli indicatori di liquidità della    <U+F0D8> Emissione titoli Subordinati Tier 2
+     banca; questo tipo di interventi hano tempi piuttosto           Consente di soddisfare agevolmente esigenze di capitale che si
+     lunghi                                                          manifestano a livello di own fund (total capital), può
+                                                                     contribuire a soddisfare anche i requisiti di MREL/TLAC e NSFR
+                                                                   <U+F0D8> Emissione senior bond
+                                                                     Consente di soddisfare solo esigenze sugli indicatori di liquidità
+                                                                     (NSFR e LCR)
+                                                                   <U+F0D8> Depositi
+                                                                     Consentono di coprire esigenze di funding a costi generalmente
+                                                                     più contenuti ma non di soddisfare esigenze regolamentari
+
+     Le determinanti delle Politiche di Finanziamento e Struttura del Passivo                             38
+VINCOLI REGOLAMENTARI: tendono sempre ad aumentare il livello di strumenti
+<U+F0D8> Capital Ratios
+ • CET1 Ratio <U+F0F0>+ Equity
+ • Tier 1 Ratio <U+F0F0> + Strumenti AT1
+ • Total Capital Ratio <U+F0F0> + Strumenti T2 (titoli subordinati)
+                                                                                          Patrimonio
+ • Leverage Ratio <U+F0F0> + Equity + Strumenti AT1
+                                                                                             Titoli LT
+<U+F0D8> Liquidity Ratios
+ • NSFR <U+F0F0> + Equity + Strumenti AT1 + Strumenti T2 + Senior LT
+<U+F0D8> Eligible Liabilities                                                             Le tensioni maggiori si
+ • MREL <U+F0F0> + Equity + Strumenti AT1 + Strumenti T2 + Senior Non Preferred           hanno tra il rispetto dei
+ • TLAC <U+F0F0> + Equity + Strumenti AT1 + Strumenti T2 + Senior Non Preferred           vincoli regolamentari e il
+                                                                                   raggiungimento degli
+OBIETTIVI ECONOMICI: tendono sempre a ridurre il livello di strumenti              obiettivi di performance
+<U+F0D8> Performance Reddituali
+ • MINT <U+F0F0> <U+0336> Strumenti AT1 <U+0336> Strumenti T2 <U+0336> Senior Unpreferred <U+0336> Senior LT
+ • ROE <U+F0F0> <U+0336> Equity                                                                          Patrimonio
+ • RARORAC <U+F0F0> <U+0336> Equity                                                                         Titoli LT
+ • Dividend Yield <U+F0F0> <U+0336> Equity
+OBIETTIVI STRATEGICI: il segno sul livello di strumenti dipende dagli obiettivi
+<U+F0D8> Strategie di Dimensionamento
+ • Crescita impieghi/derisking <U+F0F0> ± Equity ± Strumenti AT1 ± Strumenti T2 ± Senior       Dipende dagli
+ • Acquisizioni/cessioni <U+F0F0>± Equity ± Strumenti AT1 ± Strumenti T2 ± Senior LT&BT            obiettivi e
+<U+F0D8> Risk Appetite Target
+                                                                                  ?          strategie
+                                                                                            aziendali
+ • Patrimonializzazione <U+F0F0>± Equity ± Strumenti AT1 ± Strumenti T2
+<U+F0D8> Rating Target
+ • Patrimonializzazione <U+F0F0>± Equity
+
+   Retroazione della Patrimonializzazione sugli Indicatori di Performance                                                         39
+<U+F071> Il livello di patrimonializzazione di una banca esercita un duplice effetto sugli indicatori di performance aziendali;
+ <U+F0A7> Da un lato un incremento agendo sui capital ratios/MREL e rating riduce il rischio della banca ed il suo costo del funding,
+    con positivi effetti sul risultato di esercizio e sullo stesso patrimonio
+ <U+F0A7> Dall’altro l’incremento del capitale aumenta il denominatore degli indicatori di performace riducendoli (a parità di risultato
+    econonico)
+<U+F071> L’allungamento delle scadenze della raccolta contribuisce a ridurre il rischio di liquidità della banca, tuttavia comporta (in
+  condizioni normali di pendenza della curva) un maggiore costo del funding e quindi un impatto negativo sugli indicatori di
+  performance
+                                                                                   Equity                LT Bond
+                                                                            Ratios/Rating/MREL
+                  Performance
+              ROE/Div.Yield/Rarorac
+                                                    Utile Netto
+                                                                                 Costo del Funding
+
+     Market Sentiment vs. Regulatory Uncertainty                                                                            40
+L’incertezza sul peso che possono avere i futuri cambiamenti della regolamentazione costituisce una delle maggiori fonti di
+preoccupazione delle banche che contribuiscono negativamente al market sentiment verso il settore bancario.
+              Fonte: EBA; Risk Assessment of the European Banking System; November 2017.
+
+       Il Commento dell’EBA sui Fattori che Influenzeranno il Funding delle Banche                                                    41
+• Possible changes in monetary policy could have an impact on EU banking sector balance sheets
+Banks should adequately reflect in their funding plans that large volumes of secured debt maturing until year-end 2018 may not
+easily be replaced by long-term central bank funding. As the asset side of the balance sheet is to a large extent long-term driven, the
+significant share in market instruments maturing in the short and medium-term raises some concerns about maturity mismatches.
+Banks should, therefore, aim to lengthen average maturity profiles of funding in relation to their average asset maturity.
+• Funding quality and the type of funding instruments have become extremely important for banks
+Banks are focusing in their funding strategies on building loss-absorbing capacity. However, most banks will nevertheless still have to
+issue further MREL eligible instruments with a view to meeting BRRD requirements. Supervisors should monitor the ability, in
+particular of banks with heightened risk perceptions, to issue higher volumes of such instruments going forward at a reasonable
+cost. An important element of the MREL framework will be the ability of markets to absorb the volumes of loss-absorbing
+instruments to be issued by banks in order to meet their MREL requirement at prices that do not affect medium-term viability.
+   Fonte: EBA; Risk Assessment of the European Banking System; November 2017.
+
+   Requisiti Regolamentari degli Strumenti di CET1                                                                                42
+<U+F071> Strumenti di Common Equity Tier 1 [art. 28 CRR]
+  • sono emessi direttamente dall'ente, con capitale interamente versato e non finanziato né direttamente né
+     indirettamente dall'ente
+  • sono classificati come patrimonio netto ai fini della normativa contabile e di insolvenza
+  • sono perpetui
+  • il loro valore nominale non può essere né ridotto né ripagato (tranne che in caso di liquidazione dell'ente o di operazioni
+     di riacquisto approvate preliminarmente dall'autorità di vigilanza)
+  • i dividendi possono provenire solo da elementi distribuibili del capitale e gli strumenti non prevedono diritti preferenziali
+     o particolari restrizioni per il pagamento dei dividendi
+  • l’ammontare dei dividendi non deve essere determinato sulla base dell'importo di acquisto all'emissione
+  • non ci deve essere alcun obbligo di distribuzione dei dividendi e il mancato pagamento dei dividendi non costituisce un
+     caso di default
+  • costituiscono la componente patrimoniale che per prima assorbe le perdite, che sono ripartite in modo uguale tra tutti
+     gli strumenti di CET1
+  • costituiscono la componente patrimoniale più junior in caso di insolvenza o liquidazione dell'ente, conferendo ai
+     possessori un credito residuale proporzionale all'importo (ovvero non soggetto a tetti massimi o valori prefissati) e non
+     sono oggetto di alcuna disposizione, contrattuale o di altro tipo, che ne aumenti il rango in caso di insolvenza o
+     liquidazione
+  • non sono coperti né garantiti dall’ente o sue filiazioni dirette o indirette
+
+   Requisiti Regolamentari degli Strumenti di AT1                                                                             43
+<U+F071> Strumenti di Additional Tier 1 [art. 52 CRR]
+  • sono emessi ed interamente versati
+  • il loro acquisto non è effettuato nè finanziato dall'ente e da sue filiazioni dirette o indirette
+  • hanno un grado di seniority inferiore agli strumenti di Tier 2 in caso di insolvenza dell'ente
+  • non sono coperti né garantiti dall’ente o sue filiazioni dirette o indirette
+  • non sono oggetto di alcuna disposizione, contrattuale o di altro tipo, che ne aumenti il rango in caso di insolvenza o
+     liquidazione
+  • sono perpetui e non prevedono alcun incentivo al rimborso
+  • eventuali opzioni call devono poter essere esercitate unicamente dall'emittente
+  • non deve essere contrattualmente previsto il loro rimborso anticipato e/o riacquisto; ciò può avvenire solo in caso di
+     liquidazione o autorizzazione preventiva dell’autorità di vigilanza, e non prima di 5 anni dall’emissione (salvo casi
+     eccezionali legati a cambiamenti nella normativa regolamentare o fiscale)
+  • gli interessi possono provenire solo da elementi distribuibili del capitale
+  • l’ammontare di interessi non deve modificarsi in funzione del merito creditizio dell'ente o della sua impresa madre
+  • non ci deve essere alcun obbligo di pagamento degli interessi ed il mancato pagamento non costituisce un caso di
+     default; ovvero piena discrezionalità dell’ente ad annullare il pagamento degli interessi per un periodo illimitato e su
+     base non cumulativa
+  • devono prevedere che al verificarsi di un evento attivatore (trigger) il capitale si riduca a titolo permanente o
+     temporaneo o che siano convertiti in strumenti di CET1
+
+   Requisiti Regolamentari degli Strumenti di T2                                                                           44
+<U+F071> Strumenti di Tier 2 [art. 63 CRR]
+  • sono emessi ed interamente versati
+  • il loro acquisto non è effettuato né finanziato dall'ente e da sue filiazioni dirette o indirette
+  • hanno un grado di seniority inferiore a tutti i crediti non subordinati
+  • non sono coperti né garantiti dall’ente o sue filiazioni dirette o indirette
+  • non sono oggetto di alcuna disposizione, contrattuale o di altro tipo, che ne aumenti il rango in caso di insolvenza o
+     liquidazione
+  • hanno una scadenza originaria di almeno 5 anni; quando gli strumenti di T2 emessi raggiungono una vita residua
+     inferiore ai 5 anni vengono computati in modo ridotto nei fondi propri in misura proporzionale alla vita residua
+     (cosiddetto ammortamento regolamentare), tramite la seguente formula: l'importo nominale degli strumenti diviso per
+     il numero dei giorni di durata contrattuale per il numero di giorni rimanenti alla scadenza [art. 64 CRR]
+  • non contengono alcun incentivo al rimborso anticipato ed eventuali opzioni call o di early repayment devono poter
+     essere esercitate unicamente dall'emittente
+  • non deve essere contrattualmente previsto il loro rimborso anticipato e/o riacquisto; ciò può avvenire solo in caso di
+     liquidazione o autorizzazione preventiva dell’autorità di vigilanza, e non prima di 5 anni dall’emissione (salvo casi
+     eccezionali legati a cambiamenti nella normativa regolamentare o fiscale)
+  • l’ammontare di interessi non deve modificarsi in funzione del merito creditizio dell'ente o della sua impresa madre
+
+Requisiti per l’Emissione, Computabilità e Riacquisto degli Strumenti di Capitale                                                        45
+ Regole per gli aumenti di capitale
+ • Per gli aumenti di capitale ai fini della computabilità nel patrimonio di vigilanza occorre richiedere la preventiva
+    autorizzazione dell’autorità di vigilanza (anche la computabilità degli utili di esercizio infra annuali va approvata) [art. 26 CRR]
+ • In caso di titoli quotati è necessaria l’approvazione del prospetto informativo da parte della Consob per tutti i tipi di
+    strumenti di capitale
+ Vincoli al riacquisto e rimborso anticipato [art. 77-78 CRR]
+ • Operazioni di riacquisto e di rimborso anticipato di strumenti di capitale di CET1, AT1, T2 devono essere preventivamente
+    autorizzati dall’autorità di vigilanza
+ • Riacquisti e rimborsi di AT1 e T2 non possono essere effettuati prima di 5 anni dall’emissione, salvo che nei seguenti casi
+    eccezionali :
+         a) Variazioni nella regolamentazione che ne escluderebbero la computabilità
+         b) Variazioni nel trattamento fiscale non prevedibili al momento dell’emissione
+ • L’autorizzazione viene concessa se:
+         a) La banca sostituisce gli strumenti con strumenti di qualità superiore, sempre che dimostri la sostenibilità economica
+             dell’operazione (i.e. se la banca sostituisce strumenti di T2 con AT1 l’autorità di viglanza valuta il maggior costo a
+             questi associato e se la banca è in grado di pagare i maggiori oneri finanziari)
+         b) La banca soddisfa i requisiti patrimoniali complessivi (Pillar 1, Pillar 2, CCB)
+
+   Gli Strumenti di Capitale di CET1 in Italia                                                                                                                                            46
+(1) Name of the              (2) Governing law of the instrument with            (3) Instrument        (4) Voting rights of (5) Instrument fully (6) State aid        (7)Instrument
+instrument in English        appropriate references (Relevant Article (or        issued in addition to the instrument       eligible under       instrument           grandfathered under
+and translation in           Articles) of the civil law/commercial               other CET1                                 Article 28 /         grandfathered        Article 484 of
+domestic language            law/banking law/cooperative law).                   instruments                                Instrument fully     under Article 483 of Regulation (EU)
+                                                                                                                            eligible under       Regulation (EU)      575/2013.
+                                                                                                                            Article 29 of        575/2013 (where
+                                                                                                                            Regulation (EU)      applicable).
+                                                                                                                            575/2013.
+   Ordinary shares (Azioni
+                                  Art. 2348 (1) of civil code (codice civile)               no                  full              Article 28               no                    no
+           ordinarie)
+ Privileged shares (Azioni                                                         yes, in addition to
+                                  Art. 2348 (2) of civil code (codice civile)                                   full                  no                   no                    yes
+         privilegiate)                                                              ordinary shares
+      Cooperative shares
+       issued by credit        Art. 2525 of civil code (codice civile) and artt.
+      cooperative banks           from 33 to 37 of the Legislative Decree
+                                                                                            no                  full              Article 29               no                    no
+     (Azioni cooperative      1.9.1993, n. 385 - Consolidated Law on Banking
+    emesse da banche di                    (Testo unico bancario)
+     credito cooperativo)
+      Cooperative shares
+                               Art. 2525 of civil code (codice civile) and artt.
+  issued by popular banks
+                                  from 29 to 32 of the Legislative Decree
+     (Azioni cooperative                                                                    no                  full              Article 29               no                    no
+                              1.9.1993, n. 385 - Consolidated Law on Banking
+      emesse da banche
+                                           (Testo unico bancario)
+           popolari)
+        New financial
+ instruments provided for
+   in art. 23-sexies of Law     Art. 23-sexies of Law Decree 6.7.2012, n. 95
+     Decree 95/12 (nuovi     converted into Law 7.8.2012, n. 135 and Decree        yes, in addition to
+                                                                                                               none                   no                  yes                    no
+     strumenti finanziari     of the Ministry for Economy and Finance as of         ordinary shares
+previsti dall'art. 23-sexies                       21.12.2012
+    del d.l. 95/12 "Monti
+            bond")
+                                                     Fonte: EBA; updates list of CET1 instruments; 17 novembre 2017
+                                                   Strumenti in grandfathering validi solo quelli emessi prima dell’entrata in
+                                                   vigore di Basilea 3; per cui ormai non sono più utilizzabili per nuove
+                                                   emissioni
+
+   CoCo Bonds: Contingent Convertible Bonds                                                                    47
+• Sono strumenti di capitale ibridi, che prevedono la loro conversione in equity e/o l’abbattimento del loro
+  valore nominale al verificarsi di un evento predeterminato, tipicamente quando il capitale di una banca
+  scende al di sotto di una soglia rilevante (trigger)
+• La loro finalità è quella di dotare le banche di strumenti che garantiscono automaticamente la
+  ricapitalizzazione della banca nei momenti di bisogno, in cui l’accesso al mercato potrebbe essere
+  problematico; di fatto anticipano il meccanismo del bail-in contrattualizzandolo
+• Si tratta di strumenti di capitale rischiosi, riservati ad investitori istituzionali
+• Dal punto di vista regolamentare possono essere computati come AT1 o T2 a seconda della rispondenza
+  delle loro caratteristiche ai requisiti della normativa (circa il 55% degli strumenti finora emessi sono
+  classificati come AT1 ed il restante come T2)
+• I CoCos tendono a ridurre il rischio di default o di breach regolamentare della banca e migliorare il pay-
+  off dei senior bond holders in quanto aumentano la capacità della banca di assorbire perdite (loss
+  absorption), gli effetti sul pay-off degli azionisti dipendono molto dalle caratteristiche tecniche
+  dell’emissione, in particolare dal meccanismo di loss absorption
+• Da un punto di vista teorico la elazione tra livello di patrimonializzazione ed incentivi ad emettere CoCos
+  è del tipo ad U rovesciata, ovvero le banche con elevata e bassa patrimonializzazione tenderanno a non
+  emettere tali strumenti (le prime per gli scarsi benefici che ne trarrebbero, le seconde per l’elevato costo
+  che tali strumenti richiederebbero); mentre le banche con una patrimonializzazione intermedia possono
+  beneficiarne in modo significativo per ridurre il loro profilo di rischio ed assolvere agli obblighi
+  regolamentari in modo più efficiente
+
+    CoCo Bonds: Key Features                                                                                                                      48
+                                                                                                                       Book Value
+                                                                   Automatici                           Finora tutte le emissioni effettuate si
+                                                                                                        basano su trigger contabili ad es. CET1
+                                                  Si attivano in modo automatico quando la              ratio; l’attivazione del trigger è legata
+                       Trigger                    banca scende sotto il valore soglia. La               alla frequenza di redazione dei bilanci,
+                                                  maggioranza delle emissioni prevedono                 tipicamente su base trimestrale
+                                                  trigger automatici; in genere tutte le
+             Sono i valori soglia che attivano
+             il meccanismo di assorbimento
+                                                  emissioni computate in AT1 li prevedono,                            Market Value
+                                                  con una soglia non inferiore a 5,125% di
+             delle perdite (tipicamente i
+                                                  CET1 ratio                                            Il trigger dipende da dinamiche di
+             capital ratios); possono essere
+             previsti uno o più trigger (ad es.                                                         mercato, ad es. un certo livello di
+             più ratios obbligatori) in tal caso
+                                                                  Discrezionali                         capitalizzazione; l’attivazione, non
+             il meccanismo di assorbimento                                                              essendo vincolata ai tempi di
+             delle perdite si attiva alla rottura Sono attivati dalle autorità di vigilanza             redazione dei bilanci, può quindi
+ CoCos       di uno qualsiasi dei trigger; più    quando ritengono che la banca abbia                   essere più reattiva, ma potrebbe
+Key Features elevati sono i trigger maggiori      toccato un punto di non-viability, quasi              essere inficiata dalla volatilità e da
+             sono le probabilità di               tutte le emissioni computate in AT1 e T2              fenomeni di irrazionalità dei mercati
+             attiviazione; Basilea 3 indica una   prevedono anche trigger discrezionali
+             soglia di 5,125% di CET1 ratio
+                                                                Conversione in
+                                                                       Equity
+                                                  Questo meccanismo dovrebbe spingere gli azionisti a
+                                                  controllare maggiormente i fenomeni di eccessivo risk-taking in
+                                                  quanto in caso di conversione risulterebbero danneggiati dalla
+                                                  diluzione. La conversione generalmente si basa sui prezzi di
+                Loss Absorption                   mercato al momento in cui scatta il trigger
+                   Mechanism
+             sono le modalità previste di
+                                                                 Abbattimento
+             assorbimento delle perdite                           del Capitale
+             della banca da parte dei             Questo meccanismo potrebbe incentivare comportamenti di
+             detentori dei titoli                 risk-taking in quanto le potenziali perdite si abbatterebbero sui
+                                                  detentori dei titoli e non sugli azionisti che invece
+                                                  beneficerebbero dei maggiori rendimenti attesi
+
+      Il Mercato dei CoCo Bonds                                                                                                            49
+• Il mercato dei CoCos si è sviluppato in modo significativo a livello globale negli ultimi anni, sulla spinta delle nuove normative di
+  vigilanza (Basilea 3, BRRD, TLAC) e del livello particolarmente basso dei tassi di interesse che spinge gli investitori a cercare titoli
+  con più elevati rendimenti
+• Dal 2009 al 2015 sono state effettuate circa 730 emissioni per un totale di 521 miliardi di dollari
+• La dimensione media di una emissione è di circa 700 millioni di dollari, ma la dimensione è molto variabile (da $ 2 milioni a $ 7
+  miliardi)
+• Gli emittenti europei coprono il 39% del mercato mondiale; le emissioni delle banche cinesi negli ultimi anni hanno assunto un
+  peso rilevante; da notare la mancanza di una significativa presenza di emissioni di banche USA
+                          Fonte: BIS Working Paper N. 678; «CoCo issuance and bank fragility»; November 2017
+
+    CoCo Bonds: Classificazione Regolamentare e Assorbimento delle Perdite                                                       50
+• Negli ultimi anni le emissioni non classificate come AT1 sono risultate maggiori rispetto a quelle con caratteristiche di AT1,
+  parimenti sono aumentati i CoCos con caratteristiche di abbattimento del valore del capitale rispetto a quelli che prevedono
+  la conversione automatica
+• Quest’ultimo aspetto è probabilmente dovuto a due fattori: a) la preferenza degli azionisti verso strumenti che non
+  diluiscono la loro partecipazione; b) la preferenza di molti investitori istituzionali verso obbligazioni pure (ad es. vincoli
+  statutari ad investire in strumenti che possono prevedere la conversione in azioni)
+                           Fonte: BIS Working Paper N. 678; «CoCo issuance and bank fragility»; November 2017
+
+       CoCo Bonds: BIS Working Paper                                                                               51
+• Un recente studio della Banca dei Regolamenti Internazionali ha effettuato delle analisi empiriche sul mercato
+  dei CoCos nei paesi sviluppati [2009-2015] evidenziando una serie di fenomeni [BIS Working Paper N. 678; «CoCo
+  issuance and bank fragility»; November 2017]
+• Le banche di maggiori dimensioni e meglio capitalizzate hanno una maggiore propensione ad emettere CoCo
+  bond rispetto alle banche minori o con problemi patrimoniali
+• Le emissioni di CoCo bond tendono a ridurre il rischio degli emittenti, i loro CDS ed il costo del funding
+  mediamente di 5 bps [range 2 – 20 bps]; più in particolare:
+  <U+F0A7> Trigger elevati (sopra la soglia di 5,125%) hanno un effetto maggiore rispetto a trigger bassi
+  <U+F0A7> CoCo bond con trigger automatici hanno un impatto significativo nel ridurre i CDS, mentre trigger
+      discrezionali non evidenziano effetti significativi, probabilmente a causa dell’incertezza circa la loro
+      attivazione da parte delle autorità di vigilanza
+  <U+F0A7> le emissioni che prevedono conversione in equity hanno un impatto maggiore rispetto a quelle che
+      prevedono un abbattimento del valore nominale
+  <U+F0A7> CoCo bond ammissibili come AT1 hanno un impatto maggiore, mentre quello di emissioni ammissibili solo
+      come T2 non hanno un effetto significativo
+  <U+F0A7> La riduzione dei CDS è stata proporzionalmente maggiore nelle emissioni di banche di meno grandi rispetto
+      alle banche G-SII
+• I CoCo bond non sembrano incidere in modo significativo sui prezzi dei titoli azionari, a parte il caso di
+  emissioni che prevedono meccanismi di abbattimento del valore nominale con trigger elevati, in cui si è
+  riscontrato un effetto annuncio positivo sui prezzi in quanto tali caratteristiche avvantaggiano particolarmente
+  gli azionisti (questi titoli di fatto risultano junior rispetto alle azioni)
+
+ Emissione di Strumenti di Additional Tier 1: il Caso Unicredit                                                                      52
+• Il 22 maggio 2017 UniCredit S.p.A. ha collocato un'emissione di strumenti Additional Tier 1 «Non-Cumulative Temporary
+  Write-Down Deeply Subordinated Fixed Rate Resettable Notes», l’emissione è parte degli EUR 3,5 miliardi di Additional
+  Tier 1 previsti nel piano strategico e contribuiranno a raggiungere il requisito del 1,50% di AT1 di UniCredit
+• Ammontare: EUR 1,25 miliardi
+• Maturity: perpetua (con scadenza legata alla durata statutaria di UniCredit S.p.A.)
+• Callable: (possono essere richiamati anticipatamente dall'emittente se la banca rispetta i requisiti regolamentari) a
+  partire dal 3 giugno 2023 (dopo 6 anni) e successivamente ad ogni data di pagamento cedola
+• Rendimento: cedola semestrale a tasso fisso pari a 6,625% all'anno per i primi 6 anni; in seguito il rendimento sarà
+  ridefinito il 3 giugno 2023 e successivamente a intervalli di 5 anni sulla base del tasso swap + 638,7 bps, calcolato su
+  base annuale, aggiornato su base semestrale; il pagamento delle cedole è discrezionale e potrà essere soggetto a
+  cancellazione in determinate circostanze
+• Trigger: 5,125% di CET1 (o altro livello minimo applicabile), lo sforamento del trigger comporterà che il valore nominale
+  dei titoli sarà ridotto dell'importo necessario a ripristinarne il livello di CET1 (tenendo conto anche degli altri strumenti
+  con caratteristiche similari di riduzione del valore nominale), qualsiasi interesse maturato sarà annullato. Il ripristino
+  (write up) discrezionale dell'importo nominale è consentito in determinate circostanze, soggette a determinati parametri
+• Rating: atteso è "B+" da parte di Fitch
+• Prezzo di emissione: 100%
+• Collocamento: le obbligazioni sono state distribuite a diverse categorie di investitori istituzionali quali fondi (80%),
+  banche/private banking (13%) e assicurazioni/fondi pensione (4%). La domanda è pervenuta principalmente dalle
+  seguente principali aree geografiche: UK/Irlanda (53%), Italia (12%), Francia (8%) e Svizzera (7%); il collocamento è stato
+  curato da UniCredit Corporate & Investment Banking insieme a BNP Paribas, Credit Suisse, Deutsche Bank e Goldman
+  Sachs International in qualità di Joint Lead Managers
+• La price guidance iniziale di prezzo era fissata in area 6,875%. A seguito del riscontro positivo dal mercato che ha visto la
+  partecipazione di oltre 200 investitori istituzionali con ordini totali per circa EUR 3 miliardi; la price guidance finale è stata
+  rivista al ribasso e la cedola fissata al 6,625% per i primi 6 anni,
+
+      Emissioni di Strumenti di Tier 2: Unicredit vs. Intesa                                                                   53
+• A giugno 2017 UniCredit ha emesso uno strumento                • A settembre 2017 Intesa Sanpaolo ha emesso titoli
+  subordinato di tipologia Tier 2 nell’ambito del nuovo            subordinati Tier 2
+  programma globale da US$ 30 miliardi, che contribuirà a
+  rafforzare il Total Capital Ratio
+• Ammontare: USD 1 miliardo                                      • Ammontare: EUR 750 milioni
+• Maturity: i titoli hanno una scadenza a 15 anni                • Maturity: 7 anni con rimborso del capitale in unica
+                                                                   soluzione alla scadenza
+• Callable: prevedono la possibilità di una sola call opzionale
+  dopo il decimo anno alla pari, previa autorizzazione da        • Callable: no
+  parte dell'autorità di vigilanza
+• Rendimento: cedola semestrale a tasso fisso pari al 5.861%     • Rendimento: cedola trimestrale a tasso variabile pari a
+  all'anno per i primi 10 anni; successivamente tasso swap         Euribor a 3 mesi + 190 bps per anno
+  USD a 5 anni + 370.3 bps
+                                                                 • Rating: Baa1 Moody’s / BBB- S&P / BBB Fitch / BBB DBRS
+• Rating: Ba1 Moody's / BB S&P / BBB- Fitch
+                                                                 • Prezzo di emissione: 100%
+• Prezzo di emissione: 100%
+                                                                 • Taglio minimo: EUR 100.000
+• Taglio minimo: USD 200.000
+                                                                 • Collocamento: investitori qualificati e high-net-worth
+• Collocamento: i titoli sono possono essere venduti solo ad       individuals sul mercato domestico; incaricati del
+  investitori istituzionali qualificati; il collocamento è stato   collocamento del titolo sono Intesa Sanpaolo Private
+  curato da BofAML, Citigroup, HSBC, JPMorgan, SG CIB and          Banking S.p.A. e Fideuram - Intesa Sanpaolo Private
+  UniCredit Bank AG in qualità di Joint Bookrunners                Banking S.p.A.
+• Grazie ad un riscontro molto positivo da parte del mercato     • Il titolo verrà negoziato su EuroTLX Sistema Multilaterale di
+  con un orderbook sopra i USD 3 miliardi, e ordini da circa       Negoziazione, mercato organizzato e gestito da EuroTLX
+  200 investitori provenienti da tutto il mondo, la price          SIM S.p.A.
+  guidance inizialmente fissata è stata ridotta ad uno spread
+  finale di 365bps rispetto al 10-year U.S. Treasury
+
+    Covered Bond                                                                                                                         54
+• Si tratta di obbligazioni che si differenziano da quelle ordinarie in quanto il loro rimborso, in caso di fallimento dell’emittente,
+  è garantito dalla possibilità di rivalersi su uno specifico portafoglio di attività finanziarie di elevata qualità, in genere prestiti
+  immobiliari, prestiti a imprese o enti pubblici; il meccanismo della doppia garanzia, offerta sia dal merito creditizio della
+  banca che da un portafoglio crediti appositamente segregato, permette di ridurre il rischio e di aumentare la marketability
+  dei titoli
+• La loro finalità è quella di migliorare le condizioni di raccolta delle banche riducendone i costi e allungando le scadenze,
+  offrendo agli investitori titoli a basso profilo di rischio e maggiore liquidità
+• I covered bond sono utilizzati in 22 paesi europei, in alcuni dei quali sono stati istituiti da oltre 100 anni; in Italia sono stati
+  introdotti dalla L. n. 80/2005 mediante il disposto dell’art. 7-bis L. n.130/1999
+• La normativa di vigilanza prevede che l'emissione di covered bond possa essere effettuata solo da banche con un patrimonio
+  non inferiore a 500 milioni di euro e un coefficiente di patrimonializzazione complessivo non inferiore al 9%
+• Da un punto di vista tecnico l’emissione di covered bond è molto simile ad una cartolarizzazione: generalmente viene
+  costituito un SPV che acquista i crediti a supporto dell’emissione attraverso un prestito erogato dalla stessa banca
+  subordinato rispetto al soddisfacimento dei crediti dei detentori dei covered bond; i crediti ceduti costituiscono un
+  patrimonio separato, non aggredibile da altri creditori della banca, sul quale l’SPV presta garanzia irrevocabile a «prima
+  richiesta» a favore dei detentori dei covered bond; la banca poi emette i covered bond.
+• A supporto della qualità di queste emissioni, le istruzioni di Banca d’Italia prevedono che con cadenza semestrale durante
+  tutta la durata dell’operazione la banca emittente deve verificare che:
+  a) il valore complessivo delle attività cedute non abbia subito svalutazioni
+  b) il valore complessivo degli assets sia almeno pari al valore complessivo delle obbligazioni garantite emesse sul mercato
+  c) gli interessi maturati dalle attività cedute costituenti patrimonio separato netto siano sufficienti a coprire gli interessi
+       dovuti dalla banca emittente sui covered bond
+
+   Dinamica Covered Bond delle Banche Italiane Significative                                                                    55
+All’indomani della crisi finanziaria che ha colpito il settore bancario le emissioni di covered bond hanno assunto una importanza
+crescente in considerazione sia dei loro minori costi che soprattutto della maggiore facilità di collocamento dei titoli
+                             Tratto da Italian Significant Institutions Quaterly Report; October 2017; Banca d’Italia.
+
+Evoluzione della struttura del Passivo di 2 Differenti Banche Italiane                       56
+  INTESA
+                                                          • I grafici mostrano l’incremento del
+                                                            peso relativo delle emissioni
+                                                            secured [verdi] rispetto alle
+                                                            emissioni unsecured [azzurre] e al
+                                                            totale per entrambe le banche
+                                                          • Tuttavia l’emissione di covered
+                                                            bond necessita anche di avere
+                                                            nell’attivo sufficienti crediti da
+                                                            mettere a supporto delle emissioni;
+                                                            fenomeni di deleverage e de-risking
+                                                            limitano     quindi     l’ammontare
+                                                            assoluto di emissioni secured
+    MPS
+
+    Non Preferred Senior Bond                                                                                                          57
+• A novembre 2017 è stata presentata una proposta di emendamento alla BRRD che introduce una nuova classe di titoli «Non
+  Preferred Senior» che sarà computabile sia ai fini del requisito di MREL che di quello TLAC
+• La finalità è di garantire maggiore certezza legale ai mercati in tutta L’Unione Europea in merito ai criteri di ammissibilità
+  degli strumenti finanziari per assolvere i requisiti di MREL e TLAC; infatti il differente ranking di alcune passività bail-in-abili
+  nei procedimenti di insolvenza tra i vari paese dell’Unione Europea, determina incertezza sull’efficacia del bail-in, in
+  particolare per le banche cross-border, e rischia di generare anche distorsioni competitive nel costo dei titoli
+• Nella graduatoria in caso di insolvenza questi titoli saranno senior rispetto ai titoli di CET1 e ai titoli subordinati, ma saranno
+  junior rispetto agli altri titoli e passività «senior»; in sostanza costituiranno una tipologia di titoli volta a soddisfare il
+  fabbisogno aggiuntivo di strumenti di capitale derivante dalla BRRD [MREL e TLAC]
+• I nuovi titoli Non Preferred Senior consentiranno alle banche di poter gestire meglio, dal punto dei vista dei costi finanziari, le
+  loro emissioni finalizzate al rispetto di tutti i requisiti regolamentari, evitando di dover emettere titoli subordinati per
+  soddisfare il MREL e il TLAC o in alternativa di vedersi salire il costo per tutte le emissioni senior
+• Le caratteristiche per la computabilità della nuova tipologia di strumenti sono:
+  - Scadenza iniziale di almeno un anno
+  - Assenza di componenti derivate
+  - Presenza di clausole contrattuali nel prospetto che specificano il loro grado di subordinazione in caso di insolvenza agli
+    altri titoli senior
+• Gli stati dell’Unione Europea dovranno poi impegnarsi affinché nei rispettivi ordinamenti nazionali i titoli Non Preferred
+  Senior abbiano un ranking inferiore ai senior in caso di insolvenza
+• Sono previste norme di transizione al fine di salvaguardare le prerogative delle emissioni già in circolarizzazione; infatti per i
+  titoli emessi prima della data di entrata in vigore della nuova norma, è previsto che continueranno a valere le normative
+  nazionali di insolvenza in vigore al 31-12-2016
+
+      Operazioni di Liability Management                                                                                             58
+• Con il termine Liability Management si intendono operazioni di riacquisto di titoli AT1 e T2 che possono avere varie finalità, ad
+  esempio richiamare titoli non più computabili ai fini regolamentari; sostituire vecchi titoli con nuove emissioni che sfruttando
+  condizioni di mercato migliori permettono di ridurne il loro costo; in determinate condizioni possono anche essere finalizzate a
+  ricomporre la struttura del patrimonio di vigilanza riducendo T1 e/o T2 ed aumentando il CET1
+• Più in particolare, in situazioni in cui la banca ha esigenze di aumentare il CET1 ed i suoi titoli AT1 e T2 quotano ad un sensibile
+  sconto (nei momenti di tensione generalizzata del comparto bancario o specifica di una singola banca in genere si verificano
+  contestualmente le due condizioni), è possibile effettuare operazioni di riacquisto di titoli AT1 e/o T2 che sfruttando le basse
+  quotazioni dei loro prezzi permettono alla banca di generare una plusvalenza (data dalla differenza tra il prezzo pagato per il
+  riacquisto ed il valore contabile che viene cancellato con il loro write-off dopo l’acquisto); la plusvalenza al netto degli effetti
+  fiscali genererà capitale computabile come CET1
+• Quanto maggiore è lo sconto e l’ammontare di titoli riacquistati, tanto maggiore sarà la plusvalenza; tuttavia questo tipo di
+  operazioni necessita della preventiva autorizzazione dell’autorità di vigilanza, che se è scontata nei casi in cui il riacquisto è
+  finalizzato ad una contestuale emissioni di nuovi strumenti di qualità analoga o superiore, oppure nei casi di banche molto ben
+  patrimonalizzate, lo è molto meno nelle situazioni di difficoltà patrimoniale di una banca, in cui la natura di rafforzamento
+  patrimoniale dell’operazione di liability management non è ovvia, ma necessita di una ponderata valutazione. Infatti se da un lato
+  comporta l’incremento del capitale di qualità primaria (CET1), dall’altro implica una riduzione della loss absorption capacity
+  complessiva della banca in misura maggiore (dal momento che la plusvalenza generata sarà sempre una frazione dell’ammontare
+  complessivo di strumenti riacquistati)
+• Pertanto questo tipo di operazioni potranno avvenire solo in condizioni particolari (ad es. quando i titoli ogggetto di riacquisto
+  sono solo parzialmente computabili per effetto dell’ammortamento regolamentare o del grandfathering) e prevedere una
+  generazione contenuta di CET1; pertanto in caso di fabbisogno patrimoniale importante le operazioni di liability management
+  potranno essere solo una delle varie azioni di rafforzamento previste dal piano
+• Una tipica operazione di liability management prevede le seguenti fasi: a) analisi dei prezzi di mercato (a sconto) e stima della
+  possibile adesione ad un’offerta di riacquisto sondando gli investitori (in particolare quelli istituzionali); b) istanza di
+  autorizzazione presso l’autorità di vigilanza per il riacquisto di specifici titoli fino ad un predeterminato importo massimo (deve
+  essere presentato un piano che descrive l’operazione, mostrando i possibili esiti in base alle percentuali di adesione e gli impatti
+  sulle varie componenti del patrimonio di vigilanza); c) offerta di riacquisto, che prevede un prezzo superiore a quello di mercato
+  (ma ovviamente sotto la pari), un ammontare massimo di titoli riacquistabili (per ogni specifica emissione) in funzione
+  dell’autorizzazione ricevuta ed un tempo massimo per l’adesione; d) esecuzione dell’operazione e write-off dei titoli riacquistati
+
+Composizione del Passivo delle Banche Europee                                                                            59
+  La quota maggiore di funding nei principali pasi dell’UE è costituita da depositi; in Italia la quota va oltre il 60%.
+                     Tratto da Italian Significant Institutions Quaterly Report; October 2017; Banca d’Italia.
+
+Banche Italiane Significative: Evoluzione della Composizione del Funding                                                60
+La quota di funding composta da depositi continua a crescere, in linea con le strategie ed i funding plan delle banche.
+                      Tratto da Italian Significant Institutions Quaterly Report; October 2017; Banca d’Italia.
+
+European Banks Funding Plan                                                                   61
+                   Fonte: EBA; Risk Assessment of the European Banking System; November 2017.
+
+       Composizione del Passivo delle Banche Europee                                                                                  62
+Mediamente la quota di funding coperta dai depositi varia tra il 50% e il 60%; i paesi dell’est Europa hanno un funding costituito in
+maniere pressoché totale da depositi, mentre i paesi scandinavi evidenziano percentuali molto elevate di funding coperto da
+emissioni di titoli.
+                                                     Fonte: EBA Risk Dashboard Q2 2017
+
+Dinamica del Funding delle Banche Italiane Significative                                                                      63
+                                                                                                          Effetti della crisi
+                                                                                               - Contrazione dei volumi di
+                                                                                                 nuove emissioni
+                                                                                               - Incremento del ricorso al
+                                                                                                 rifinanziamento presso la BCE
+               Tratto da: Italian Significant Institutions Quaterly Report; October 2017; Banca d’Italia.
+
+Evoluzione Tassi Risk Free                                                                                               64
+     All’indomani della crisi le politiche monetarie hanno determinato una forte riduzioni dei tassi di riferimento, che
+     perdura ancora oggi.
+                                                       Fonte: Bloomberg
+
+Evoluzione del Costo del Funding per Scadenze                                                                                     65
+ La sensibile riduzione dei tassi di interesse ha avuto ripercussioni sulla struttura del margine di interesse delle banca e sulla
+ loro redditività
+                                                          Fonte: Bloomberg
+
+Evoluzione MINT / Total Assets                                                                                         66
+  La dinamica del margine di interesse risente in modo evidente delle politiche monetarie di bassi tassi di interesse,
+  che determinano valori nettamente inferiori a quelli pre-crisi
+
+Evoluzione del ROA                                                                 67
+   Gli indicatori di redditività permangono su livelli pre-crisi a livello globale
+
+Evoluzione del ROI 68
+Dinamica del ROE                                                          69
+ • Il ROE del comparto bancario non è più ritornato sui livelli pre crisi
+ • Le banche USA hanno mostrato tuttavia un più rapido recupero parziale
+ • Le banche italiane ancora non hanno iniziato la fase di recupero
+
+European Banks ROE                                                                            70
+    La dinamica del ROE in Europa è stata abbastanza simile per tutte le tipologie di banche.
+
+        European Banks ROE & CET1                                                                                                      71
+• La riduzione del ROE in parte potrebbe essere dovuta alla maggiore patrimonializzazione delle banche, evidenziata dall’aumento del
+  CET1 ratio
+• Tuttavia analizzando la dinamica dei risk weights si evince come l’incremento dei ratios patrimoniali è imputabile più ad una
+  riduzione del livello di ponderazione media degli impieghi e per un certo periodo anche ad un fenomeno di deleverage, che
+  all’incremento assoluto della base patrimoniale
+• Pertanto le cause della riduzione del ROE vanno ricercate nella dinamica della redditività lorda e netta
+                                                                                                                          Risk Weights
+
+Evoluzione del ROE delle Banche Italiane Significative                                                     72
+ROE
+                                               Dal confronto tra i due grafici emerge chiaramente
+                                               come negli ultimi anni la dinamica della redditività
+                                               delle banche italiane sia stata fortemente
+                                               influenzata dalle perdite su crediti, in
+                                               corrispondenza dei picchi sulle rettifiche si
+                                               registrano le maggiori cadute del ROE
+                                                                   EU wide stress test exercise
+Provisioning
+                                                                  AQR – Asset Quality Review BCE
+                                               Tratto da Italian Significant Institutions Quaterly Report;
+                                               October 2017; Banca d’Italia.
+
+Dinamica del Cost of Equity                                                                                    73
+ • A partire dagli anni della crisi il COE delle banche è progressivamente aumentato in tutto il mondo, fino a
+   raggiungere un picco nel 2010; successivamente si è assistito ad una graduale riduzione
+ • Le banche europee tuttavia sembrerebbero registrare a partire dal 2017 una nuova risalita del COE
+
+   European Banks Cost of Equity                                                                                              74
+• I paesi caratterizzati da maggiori crisi sono anche quelli in cui il COE delle banche risulta maggiore
+• Anche l’analisi dell’EBA tuttavia evidenza una sensibile riduzione del COE in tutti i paesi europei rispetto ai livelli del
+  2011
+
+   Banks Cost of Equity Drivers: l’analisi dell’EBA                                                                           75
+• The gap between RoE and CoE appeared after the beginning of the global financial crisis, and has continued ever since. By
+  using the Capital Asset Pricing Model (CAPM), the CoE for the EU banks stood at around 11 % in the Q1 2017, which is
+  substantially higher compared to the same period last year, when it was 7.5 %.
+• Looking more closely into the CAPM a company’s CoE is seen to depend on the riskiness of its business, which is driven by
+  systemic factors, such as region of operation and industry sector, as well as idiosyncratic ones that include the company’s
+  strategy and its business model.
+• Systemic factors, which are the main reason for the recent rise in the CoE, are connected to the risk perception of the
+  whole banking sector compared to other sectors. Bank-specific factors such as the direct effect of low interest rates, a
+  more leveraged and procyclical business, ‘spill-over’ of notable conduct costs, opaqueness of some business models
+  together with complexity of their security holding structures, high stock of NPLs with potential systemic consequences and
+  regulatory uncertainty are the main reasons for higher systemic risk compared to other sectors.
+• On the other hand there are idiosyncratic factors, which are connected to individual enterprises.
+   Fonte: EBA; Risk Assessment of the European Banking System; November 2017.
+
+       European Banks COE vs. Business Model                                                                                      76
+• The sample includes 39 banks across the EU, of which 15 diversified lenders, six are Global Systemically Important Banks (G-SIBs), a
+  further six are G-SIB universal banks and 12 are universal banks.
+• According to the analysis, diversified lenders have the lowest CoE, followed by G-SIB universal banks and ‘ordinary’ universal
+  banks, at just above 11 %. The universal banks have the highest expected RoE, at 12 %. However, due to the more volatile nature
+  of their earnings the risk of not reaching the expected profitability is higher compared to diversified lenders.
+• Among systemically important banks, the ones with the universal business model have a higher expected RoE and lower CoE
+  compared to the rest of the G-SIBs. The G-SIBs’ CoE stands at around 7 % with an expected RoE below 1 %.
+• Many of the CoE developments can also be explained by the past performance. It seems the worst performance in the past 2 years
+  came from the G-SIBs (regardless of whether normal or universal). The best performing banks are those with a universal business
+  model, reaching RoEs of close to 12 % in June 2017.
+       Fonte: EBA; Risk Assessment of the European Banking System; November 2017.
+
+     Return on Equity vs. Cost of Equity                                                                                                 77
+Le banche continuano a mostrare livelli di redditività inferiori al cost of equity, le banche italiane in particolar modo; tale situazione
+implica mediamente:
+- Una più severa valutazione in ambito SREP della sostenibilità del business model delle banche da parte delle autorità di vigilanza,
+   con conseguenti possibili innalzamenti dei livelli di patrimonializzazione di alcune banche
+- Una maggiore difficoltà da parte di alcune banche a reperire equity sui mercati
+
+  European Banks: Expected COE vs. Expected ROE                                                                                 78
+• Il 90% delle banche europee si attende un COE > 8% ed il 30% prevede un COE > 10%
+• Il 30% di banche europee prevede un ROE < 10% ed il 90% un ROE < 12%
+• Pertanto la maggioranza di banche europee prevede nel prossimo futuro una redditività ancora inferiore o di poco
+  superiore al costo del capitale
+                      Expected COE                                                                    Expected ROE
+                                       7% ROE Mediano 2016
+                                                                                                                  10% COE Mediano 2016
+                               Tratto da: EBA; Risk Assessment of the European Banking System; November 2017.
+
+Price Book Value                                                                                                        79
+  • La riduzione della redditività delle banche e l’incremento del costo dell’equity al di sopra del ROE hanno
+    determinato una riduzione del valore di mercato delle banche
+  • Nella fase ante crisi le banche mediamente quotavano a forte premio rispetto al book value, successivamente
+    alla crisi hanno cominciato a quotare a sconto
+  • Le banche statunitensi negli ultimi anni hanno ricominciato a registrare capitalizzazione mediamente sopra il
+    book value, mentre le banche europee ed in particolare quelle italiane segnano ancora valori a sconto
+                                                                                                               Prezzi a
+                                                                                                               premio
+                                                                                                               Prezzi a
+                                                                                                               sconto
+
+Dinamica dei Prezzi di Mercato del Settore Bancario: Market Cap vs. CDS      80
+  Fonte: EBA; Risk Assessment of the European Banking System; November 2017.
+
+          81
+Appendici
+
+           Classificazione delle Banche: G-SII                                                                                                                                 82
+                                                                                                    Basel Committee on Banking Supervision; The G-SIB assessment methodology –
+                                                                                                    score calculation; November 2014
+Financial Stability Board; 2017 list of global systemically important banks (G-SIBs); 21 November 2017
+
+ Classificazione delle Banche: O-SII                                                           83
+Criteri di classificazione delle banche come “significant”:
+• The value of its assets exceeds €30 billion.
+• The value of its assets exceeds both €5 billion and 20% of the Gross Domestic Product of the
+  member state in which it is located.
+• The bank is among the three most significant banks of the country in which it is located.
+• The bank has large cross-border activities.
+• The bank receives, or has applied for, assistance from eurozone bailout funds (the European
+  Stability Mechanism or European Financial Stability Facility).
+
+       Acronimi                                                                                                        84
+AT1 additional tier 1                                         GDP gross domestic product
+BRRD Bank Recovery and Resolution Directive                   GDP: Gross domestic product
+CAPM capital asset pricing model                              IFRS International Financial Reporting Standard
+CCP central counterparty                                      IMF International Monetary Fund
+CDS credit default swap(s)                                    IRRBB interest rate risk in the banking book
+CEBS: Committee of European Banking Supervision               ITS implementing technical standard
+CET1 common equity tier 1                                     LCR liquidity coverage ratio
+CoCo contingent convertible instrument                        LCU local currency
+CoE cost of equity                                            MCD: Mortgage credit directive
+CRD IV: Capital requirements directive IV                     MDA maximum distributable amount
+CRE commercial real estate                                    MREL minimum requirement for own funds and eligible liabilities
+CRR: Capital requirements regulation                          NII net interest income
+EBA European Banking Authority                                NPL non-performing loan(s)
+EBA: European Banking Authority                               NSA: National supervisory authority
+ECB European Central Bank                                     NSFR net stable funding ratio
+ECB: European Central Bank                                    OCR overall capital requirements
+ECL expected credit loss(es)                                  P & L profit and loss
+EDF expected default frequencies                              PD probability of default
+EEA European Economic Area                                    RAQ risk assessment questionnaire
+EIOPA: European Insurance and Occupational Pensions Authority RoA return on assets
+ESFS: European System of Financial Supervision                RoE return on equity
+ESMA: European Securities and Markets Authority               SME small and medium-sized enterprises
+ESRB European Systemic Risk Board                             SRB: Single Resolution Board
+ESRB: European Systemic Risk Board                            SREP supervisory review and evaluation process
+EU: European Union                                            SRM: Single Resolution Mechanism
+Euribor Euro interbank offered rate                           SSM: Single Supervisory Mechanism
+EWS early warning system                                      TARP: The Troubled Asset Relief Programme
+FBL forborne loan(s)                                          TLAC total loss-absorbing capacity
+FED: Federal Reserve System (USA)                             TLTRO (targeted) long-term refinancing operation
+FICOD: Financial conglomerates directive                      TOI total operating income
+Finrep financial (supervisory) reporting
+FRTB fundamental review of the trading book
+FSB: Financial Stability Board
+

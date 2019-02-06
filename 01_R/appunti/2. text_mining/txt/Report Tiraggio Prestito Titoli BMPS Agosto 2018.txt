@@ -1,0 +1,157 @@
+Report di controllo tiraggio
+  Prestito Titoli BMPS
+  Resoconto dei controlli al 31.08.2018
+
+ Introduzione
+• Il presente report ha come oggetto il controllo giornaliero al livello di massimo dettaglio del “tiraggio” del prestito titoli.
+• Si intende per tiraggio l’effettivo prelievo dei titoli dalla custodia dei clienti che hanno aderito al prestito e che hanno disponibilità dei titoli utilizzabili per tale operatività.
+  Sul tiraggio sono impostati due limiti:
+<U+F0D8> Limite 80% a livello di ciascun saldo titolo prestato:
+  • Data l’ampiezza delle posizioni interessate dall’operatività, il controllo vaglia su base giornaliera tutte le posizioni “prestate” confrontandole con il limite di tiraggio
+      previsto a livello di saldo (80% o minore se così stabilito dal singolo cliente). L’algoritmo segnala in un report “grezzo” disponibile sulla Intranet aziendale tutte le
+      posizioni che violano la condizione di controllo, ma ad un check puntuale successivo, si vanno ad identificare i casi di sforamento “effettivo”: si tratta di situazioni in
+      cui l’operazione di prestito è da considerare nulla, o da rettificare, in quanto il prelievo eccede effettivamente il limite di tiraggio o, addirittura, la posizione
+      complessiva del titolo interessato. Tali situazioni si producono in generale quando la procedura del Prestito Titoli attinge da posizioni che al momento del tiraggio
+      non sono più capienti per la quantità tirata o, addirittura, non sono più nella disponibilità del cliente, per vari motivi di operazioni non recepite correttamente dalla
+      procedura PT, o che non danno luogo, come dovrebbero all’esclusione delle posizioni interessate dalla prestabilità. La spiegazione puntuale degli sforamenti
+      riscontrati, verificata con il Settore Titoli – Servizio Supporto ai Mercati, è riportata nella seguente slide Report Summary.
+  • A latere degli sforamenti effettivi, si riportano anche le segnalazioni che ad un successivo riscontro si sono rivelate come “apparenti”: si tratta di situazioni che
+      rientrano in sottocasistiche nelle quali l’algoritmo di controllo avrebbe rilevato una violazione del limite quantitativo impostato sull’operatività, ma che non
+      comportano da un punto di vista sostanziale una violazione del limite stabilito con il cliente. Ad esempio sono tali i casi in cui lo sforamento sia di entità irrilevante
+      (convenzionalmente inferiore all’1%) e il motivo è ascrivibile ad un motivo tecnico di “arrotondamento procedurale”. Un altro esempio è quello dei casi in cui in filiale
+      si è dato luogo ad una vendita o ad un trasferimento della parte “non disponibile” di un saldo. In tal caso il prestito è avvenuto prima dell’operazione disposta dal
+      cliente durante la giornata (azione che non si può, legittimamente impedire perché è sempre nella facoltà del cliente).
+  • Nelle slide finali sono riportate le tabelle con il resoconto puntuale giornaliero delle segnalazioni, i cui dettagli sono forniti in un foglio Excel allegato al Report.
+<U+F0D8> Limite a livello di controvalore del singolo dossier:
+  • A partire dal mese di Febbraio 2016 è entrata a regime la riduzione al 60% della percentuale di tiraggio rispetto al controvalore dossier, introdotta gradualmente a
+      partire da metà gennaio, al fine di non concentrare in un’unica giornata l’impatto sulla counterbalancing/liquidità.
+  • Basandosi sul controvalore e non direttamente su delle quantità, la procedura che mette in atto il limite in questione deve necessariamente lavorare su un
+      controvalore di dossier determinato in una giornata precedente a quella effettiva del prestito.
+  • Il controllo del limite a livello di dossier, per quanto osservato al punto precedente, è stato impostato tenendo conto delle quantità nel giorno effettivo del prestito (t)
+      e del prezzo in t-1, al fine di sterilizzare il controvalore al denominatore del controllo dalle variazioni di prezzo che si dovessero verificare fra t-1 e t.
+                                                                                                                                                                                           2
+
+Controllo limite 80%: Report summary – periodo 01/08/2018 – 31/08/2018
+Nella tabella che segue si riporta l’analisi dettagliata delle segnalazioni prodotte dal controllo relativo al limite dell’80% a livello di ciascun saldo titolo prestato,
+classificate in sforamenti effettivi (sfondo arancio) e segnalazioni risolte/non sostanziali (sfondo verde).
+           Analisi Casi di sforamento del limite percentuale di tiraggio PT Bmps - Agosto 2018
+   Codice                                                  Numero    Media %   Controvalore
+                         Descrizione casistica                                                                                                                                Note
+  anomalia                                                  casi    sforamento  sforamento
+                                                                                               Lo “sforamento” è avvenuto per trasferimento/scarico, presso la filiale, di titoli della componente “non disponibile”. Tale movimento, seppur sconsigliato
+            Scarico filiale con valuta odierna della parte
+ A.1                                                             18   15,56%            56.814 attraverso apposite istruzioni organizzative, non può essere impedito sulla componente di "margine" che rimane a disposizione del cliente. Dato però che al
+           "non disponibile per il prestito"
+                                                                                               momento del prestito la posizione era integra, di fatto si tratta di sforamenti solo apparenti.
+            Totale                                              18   15,56%          56.814
+• Si rilevano 18 segnalazioni di sforamento apparente, conseguenti allo smobilizzo con valuta immediata della parte non vincolata da Prestito Titoli del dossier.
+                                                                                                                                                                                            giugno            luglio          agosto            media
+                                                                                                                                             Riepilogo mese:
+                                                                                                                                                                                               2018            2018             2018           periodo
+                                                                                                                                   Controvalore medio prestato                  in € mln           1.343             1.479           1.458            1.427
+                                                                                                                                   Nr. medio saldi prestito                                       37.362            41.644         41.441           40.149
+• Il controvalore medio giornaliero dei saldi segnalati ammonta nel mese
+   di agosto 2018 a 18mila€ che, sul prestato medio giornaliero del mese                                                           Nr. saldi sforati totali                                             6               15              18                13
+   (1,458 €/mld), si traduce in un’incidenza dello 0,013‰, da considerarsi                                                         Nr. medio saldi sforati                                              0                 1              1               0,6
+   pertanto trascurabile.                                                                                                          Ctv medio saldi sforati                         in €           12.213            12.664         18.597           14.491
+                                                                                                                                   % media Ctv sforato su prestato                              0,0009%           0,0009%        0,0013%          0,0010%
+                                                                                                                                   Nr. dossier totali interessati da sforamento                         4                 8             13                 8
+                                                                                                                                   Nr. clienti interessati da sforamento                                4                 8             13                 8
+                                                                                                                                   Nr. titoli interessati da sforamento                                 6                 8             12                 9
+                                                                                                                                   Nr. saldi sforati "tecnici" (80-81%)                                  -                 -             4                 1
+                                                                                                                                                                                                                                                           3
+
+    Controllo limite 80%: Report giornaliero tiraggio Prestito Titoli – Agosto 2018 - 1
+ Periodo 01/08/2018 - 16/08/2018
+                                                               01ago18     02ago18     03ago18     06ago18     07ago18     08ago18     09ago18     10ago18     13ago18     14ago18     16ago18
+posizioni attivabili
+Nr. SALDI singolo titolo ATTIVABILI                              1.311.744   1.311.876   1.307.981   1.306.954   1.307.920   1.306.906   1.307.234   1.308.400   1.309.751   1.311.142   1.306.158
+Nr. DEPOSITI ATTIVABILI                                            243.672     243.629     243.619     243.657     243.706     243.698     243.756     243.439     243.464     243.520     243.462
+Nr. CLIENTI (NDC) ATTIVABILI                                       238.297     238.273     238.276     238.306     238.357     238.361     238.407     238.079     238.103     238.168     238.100
+Ctv totale saldi ATTIVABILI                           in €/mln      20.434      20.393      20.385      20.404      20.402      20.394      20.375      20.318      20.284      20.253      20.205
+posizioni con titoli prestabili
+Nr. SALDI sing. titolo con PRESTABILE > 0                           80.920      80.538      80.285      79.177      80.295      80.090      80.289      80.156      78.790      77.876      78.848
+Nr. DEPOSITI con PRESTABILE > 0                                     40.290      40.144      40.169      39.635      40.293      39.985      40.128      40.093      39.593      39.464      39.863
+Nr. CLIENTI (NDC) con PRESTABILE > 0                                40.338      40.173      40.193      39.670      40.327      40.020      40.173      40.140      39.635      39.507      39.899
+CTV totale TITOLI PRESTABILI                          in €/mln       2.499       2.482       2.479       2.470       2.484       2.483       2.476       2.460       2.430       2.420       2.429
+posizioni con titoli effettivamente prestati
+Nr. SALDI singolo titolo PRESTATI                                   40.841      40.711      40.627      39.991      42.510      42.525      42.599      42.345      42.023      41.594      41.858
+Nr. CLIENTI (NDC) con titoli PRESTATI                               19.980      19.935      19.915      19.818      20.999      21.002      21.048      20.987      20.936      20.815      20.950
+Nr. DEPOSITI con titoli PRESTATI                                    19.967      19.890      19.902      19.760      20.878      20.845      20.926      20.822      20.809      20.657      20.821
+CTV totale TITOLI PRESTATI                            in €/mln       1.456       1.445       1.444       1.436       1.494       1.494       1.493       1.482       1.464       1.465       1.460
+posizioni con titoli sforati
+Nr. SALDI singolo titolo PRESTATI SFORATI                                -           1           -           -           -           2           4           -           2           2            -
+Nr. DEPOSITI con titoli SFORATI                                          -           1           -           -           -           2           4           -           1           1            -
+CTV totale saldi TITOLI SFORATI                          in €            -      11.742           -           -           -      16.948     125.088           -      36.890      89.748            -
+CTV totale DEPOSITI con almeno un saldo SFORATO          in €            -   1.762.536           -           -           -   1.967.417   2.046.449           -      71.721     131.455            -
+% CTV SFORATI su TOTALE PRESTATO                                         -    0,0008%            -           -           -    0,0011%     0,0084%            -    0,0025%     0,0061%             -
+dati anomalie saldi
+Nr. SALDI SFORATI 80-81%                                                 -           -           -           -           -           -           4           -           -           -            -
+Nr. SALDI non CONTROLLABILI (di cui di SALDI SFORATI)                    -           -           -           -           -           -           -           -           -           -            -
+                                                                                                                                                                                                 4
+
+    Controllo limite 80%: Report giornaliero tiraggio Prestito Titoli – Agosto 2018 - 2
+ Periodo 17/08/2018 - 31/08/2018
+                                                               17ago18     20ago18     21ago18     22ago18     23ago18     24ago18     27ago18     28ago18     29ago18     30ago18     31ago18
+posizioni attivabili
+Nr. SALDI singolo titolo ATTIVABILI                              1.306.993   1.306.796   1.307.431   1.307.228   1.310.086   1.312.150   1.312.355   1.314.346   1.313.990   1.314.074   1.314.327
+Nr. DEPOSITI ATTIVABILI                                            243.543     243.521     243.631     243.574     243.563     243.679     243.685     243.723     243.677     243.691     243.732
+Nr. CLIENTI (NDC) ATTIVABILI                                       238.185     238.172     238.268     238.230     238.217     238.331     238.338     238.363     238.324     238.333     238.374
+Ctv totale saldi ATTIVABILI                           in €/mln      20.182      20.191      20.218      20.199      20.191      20.196      20.211      20.202      20.204      20.175      20.164
+posizioni con titoli prestabili
+Nr. SALDI sing. titolo con PRESTABILE > 0                           78.695      78.344      79.123      78.744      79.005      78.595      78.115      78.262      78.766      78.398      78.382
+Nr. DEPOSITI con PRESTABILE > 0                                     39.926      39.466      40.003      39.643      39.853      40.028      39.576      39.675      40.098      39.658      39.748
+Nr. CLIENTI (NDC) con PRESTABILE > 0                                39.962      39.499      40.029      39.678      39.882      40.053      39.597      39.689      40.117      39.665      39.743
+CTV totale TITOLI PRESTABILI                          in €/mln       2.415       2.426       2.447       2.438       2.435       2.428       2.424       2.423       2.430       2.419       2.414
+posizioni con titoli effettivamente prestati
+Nr. SALDI singolo titolo PRESTATI                                   41.385      41.561      41.291      41.826      41.631      41.169      41.055      41.138      41.006      41.148      40.863
+Nr. CLIENTI (NDC) con titoli PRESTATI                               20.833      20.845      20.814      20.916      20.868      20.895      20.870      20.903      20.891      20.896      20.811
+Nr. DEPOSITI con titoli PRESTATI                                    20.694      20.726      20.672      20.810      20.735      20.779      20.737      20.791      20.749      20.784      20.683
+CTV totale TITOLI PRESTATI                            in €/mln       1.450       1.455       1.465       1.466       1.460       1.449       1.444       1.440       1.443       1.435       1.428
+posizioni con titoli sforati
+Nr. SALDI singolo titolo PRESTATI SFORATI                                -           2           1           -           2           1           -           -           -           1            -
+Nr. DEPOSITI con titoli SFORATI                                          -           2           1           -           2           1           -           -           -           1            -
+CTV totale saldi TITOLI SFORATI                          in €            -      46.437      36.520           -      22.986      10.631           -           -           -      12.149            -
+CTV totale DEPOSITI con almeno un saldo SFORATO          in €            -      46.437      36.520           -      84.403      46.239           -           -           -      12.149            -
+% CTV SFORATI su TOTALE PRESTATO                                         -    0,0032%     0,0025%            -    0,0016%     0,0007%            -           -           -    0,0008%             -
+dati anomalie saldi
+Nr. SALDI SFORATI 80-81%                                                 -           -           -           -           -           -           -           -           -           -            -
+Nr. SALDI non CONTROLLABILI (di cui di SALDI SFORATI)                    -           -           -           -           -           -           -           -           -           -            -
+                                                                                                                                                                                                 5
+
+Controllo limite 60% sul controvalore del singolo dossier
+                                                                                 Controllo CTV dossier BMPS dal 01/08/2018 al 31/08/2018
+• Nella tabella riportata a lato sono evidenziati per ogni
+                                                                                                           Limite 60%
+  giorno del mese, relativamente al controllo del limite del
+  60% sul controvalore totale dossier, il controvalore totale                                         NR. DOSSIER
+                                                                 DATA REPORT   CTV PRESTATO SALDI                        NR. DOSSIER SFORATI  CTV SFORAMENTO
+  prestato, il numero dei dossier prestati, il numero totale dei                                       PRESTATI
+                                                                    01/08/2018          1.455.984.922              19967                    0                0
+  dossier che hanno presentato uno sforamento e il
+  controvalore sforato.                                             02/08/2018          1.445.395.904              19890                    0                0
+                                                                    03/08/2018          1.444.031.292              19902                    0                0
+                                                                    06/08/2018          1.436.481.956              19760                    0                0
+                                                                    07/08/2018          1.494.262.092              20878                    0                0
+                                                                    08/08/2018          1.494.382.677              20845                    0                0
+  <U+F0D8> Nel mese di agosto non sono stati riscontrati casi di
+                                                                    09/08/2018          1.492.544.020              20926                    0                0
+    sforamento del limite sul controvalore dossier.
+                                                                    10/08/2018          1.481.636.972              20822                    0                0
+                                                                    13/08/2018          1.464.296.009              20809                    0                0
+                                                                    14/08/2018          1.465.016.562              20657                    0                0
+                                                                    16/08/2018          1.459.744.339              20821                    0                0
+                                                                    17/08/2018          1.449.511.905              20694                    0                0
+                                                                    20/08/2018          1.455.395.944              20726                    0                0
+                                                                    21/08/2018          1.464.823.476              20672                    0                0
+                                                                    22/08/2018          1.466.197.567              20810                    0                0
+                                                                    23/08/2018          1.460.249.139              20735                    0                0
+                                                                    24/08/2018          1.449.489.872              20779                    0                0
+                                                                    27/08/2018          1.444.385.741              20737                    0                0
+                                                                    28/08/2018          1.440.228.732              20791                    0                0
+                                                                    29/08/2018          1.443.242.492              20749                    0                0
+                                                                    30/08/2018          1.435.272.314              20784                    0                0
+                                                                    31/08/2018          1.428.458.020              20683                    0                0
+                                                                                                                                                               6
+
+7

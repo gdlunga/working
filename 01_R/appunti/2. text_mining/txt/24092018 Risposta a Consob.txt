@@ -1,0 +1,64 @@
+AREA COMPLIANCE
+                                                                Siena, 24 settembre 2018
+                                                                Spett.le
+                                                                CONSOB
+                                                                Divisione Mercati
+                                                                Ufficio Vigilanza Infrastrutture di Mercato
+Inviata tramite pec all’indirizzo dme@pec.consob.it
+Vostro riferimento del 01/08/2018 – protocollo 0286389/18 – codice destinatario: 135417;
+Prot. Mps: Prot. N° 02243/2018 del 24/09/2018
+OGGETTO: Obblighi di cui all’art. 26 del Regolamento UE 2014/600 (MiFIR) e del
+                Regolamento Delegato UE 2017/590.
+        Ad integrazione della nota inviata dalla Scrivente in data 14/09/2018 in risposta alla richiesta
+di cui all’oggetto, si forniscono di seguito le informazioni richieste mancanti, riferite alla codifica di
+errore CON-412.
+Le anomalie riscontrate per questa casistica di errore sono riconducibili alle seguenti situazioni:
+    -   Errata valorizzazione, da parte del fornitore che alimenta l’applicativo di reporting della
+        Banca, del codice MIC relativo alla trading venue su cui è stata eseguita l’operazione (campo
+        36). Gli errori si riferiscono all’operatività sul mercato Equity MTF di Borsa Italiana, sia sul
+        segmento BIT GEM (codice MIC “MTAH” erroneamente codificato con “HMTF” dal nostro
+        fornitore), sia sul segmento Trading After Hour (codice MIC “MTAH” erroneamente
+        codificato con “MTAA” dal nostro fornitore).
+        Dalle verifiche effettuate sulle casistiche inerenti il codice di errore in esame, è emerso inoltre
+        che nelle segnalazioni effettuate:
+        (i)     il campo “Transmission of order indicator” (campo 25) viene erroneamente
+                valorizzato con “False” anziché “True” per tutti gli ordini che la Banca trasmette
+                all’intermediario esecutore di Gruppo (MPS Capital Services Banca per le Imprese
+                SpA), sebbene non siano rispettate le condizioni per la trasmissione di cui all'articolo
+                4 del Regolamento 590/2017;
+        (ii)    Il campo “Venue” (campo 36) viene erroneamente valorizzato con il codice MIC della
+                sede in cui l’operazione è stata eseguita – con le anomalie sopra evidenziate - anziché
+                con l’indicazione della venue “XOFF”, sebbene tali segnalazioni siano riferite ad
+                operazioni trasmesse dalla Banca all’intermediario Esecutore di Gruppo (MPS Capital
+                Services Banca per le Imprese SpA).
+        A tal proposito, si rappresenta che la Banca sta effettuando gli interventi necessari per la
+        sistemazione delle anomalie evidenziate ai punti (i) e (ii): sarà cura della Banca fornire
+        apposita comunicazione al completamento delle attività.
+                                                                                                          1
+
+        Nelle more di tali interventi, la Banca ha fatto comunque correggere al fornitore l’errata
+        valorizzazione del codice MIC (“HMTF” e “MTAA”), in modo tale da indicare - a partire
+        dalle segnalazioni del 14/09/18 per l’operatività sul segmento BIT GEM e del 19/09/18 per il
+        segmento Trading After Hour – il codice MIC corretto (“MTAH”).
+    -   Errata valorizzazione del codice MIC delle trading venues su cui sono state eseguite le
+        operazioni relative a strumenti azionari negoziati su sedi di negoziazione estere tramite
+        l’intermediario esecutore Goldman Sachs (che fornisce l’accesso indiretto su tali sedi
+        all’intermediario esecutore di Gruppo MPS Capital Services Banca per le Imprese SpA). Gli
+        errori si riferiscono a segnalazioni effettuate con il codice MIC presente nell’anagrafica titoli
+        del Gruppo e non coerente con il codice MIC della sede su cui è stata eseguita l’operazione.
+        Anche per tali operazioni, per le motivazioni esposte al punto precedente, le segnalazioni
+        riportano una errata valorizzazione del campo “Transmission of order indicator” (campo 25) e
+        del campo “Venue” (campo 36). La sistemazione della segnalazione di tali operazioni verrà
+        effettuata con il completamento degli interventi sopra richiamati.
+Si rappresenta che gli interventi rappresentanti nella presente comunicazione saranno effettuati con
+riferimento alle segnalazioni di Banca Monte dei Paschi di Siena, MPS Capital Services per le
+Imprese SpA e Widiba.
+Fatto salvo quanto sopra, al fine di migliorare la qualità delle segnalazioni la Banca sta
+implementando un controllo, preliminare all’invio delle segnalazioni all’ARM e da applicarsi solo
+nei casi in cui la Banca esegue operazioni su sedi di esecuzione, volto a verificare la presenza di
+ciascuna coppia codice ISIN – Codice MIC della sede di esecuzione dell’operazione nel database
+F.I.R.D.S. di ESMA.
+Distinti Saluti.
+                                                                     AREACOMPLIANCE
+                                                                                                       2
+

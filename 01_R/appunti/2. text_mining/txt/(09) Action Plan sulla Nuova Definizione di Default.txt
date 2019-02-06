@@ -1,0 +1,682 @@
+                                                                                                                                           13
+                                                                                                                                           O
+     FUNZIONI COMPILATRICI:
+     Area Lending Risk Officer - MPS
+                                                                           Proposta per:
+                                                                           Consiglio Di Amministrazione - MPS
+                                                                                                                            AT
+                                                                                                              Protocollo Sisifo: 6AF10E3476
+                                                                                                                       Siena, 10/12/2018
+     OGGETTO:
+     Action Plan sulla Nuova Definizione di Default
+                                                                                        CO
+                                                                                           MI
+      Indice degli allegati:
+      1) Allegato 1 - 20181218_Nuova DoD.pdf
+                                                                                              T
+      1. MOTIVAZIONE
+      Proporre al Consiglio di Amministrazione l’adozione dell’approccio “One-step” per
+      implementare la nuova definizione di default (DoD) nei sistemi interni del Gruppo MPS;
+      viene anche rappresentato l’action plan, che riguarda l’aggiornamento di tutti i sistemi per
+      la detection del default, l’adeguamento dei processi e delle normative interne, il piano di
+                                                            ON
+      formazione e la ristima dei modelli AIRB sulla base della nuova DoD. Tale action plan
+      dovrà essere oggetto di comunicazione formale a ECB entro il 30 giugno 2019.
+                                                              E
+      2. ELEMENTI CHIAVE DELLA DECISIONE DA ASSUMERE
+           Al fine di armonizzare gli approcci di applicazione della definizione di default e di
+            individuazione delle condizioni di inadempienze probabili tra le istituzioni finanziarie
+                                   TA
+            e le diverse giurisdizioni dei paesi dell’Unione, l’EBA ha emanato le Linee Guida
+            relative all’applicazione dell’Articolo 178(7) della CRR: tali linee guida permettono di
+            standardizzare, ad esempio, i criteri per l’identificazione dello scaduto, le modalità di
+      
+                                     ZI
+            gestione delle indicazioni di inadempienze probabili, gli aspetti specifici delle
+            esposizioni Retail, il trattamento dei dati esterni, la definizione dei criteri per il ritorno
+            di una posizione in uno stato di non default
+            Le Linee Guida EBA si applicheranno a partire dal 1° Gennaio 2021: considerando i
+            potenziali impatti a livello metodologico, gli intermediari finanziari interessati dalla
+          MEnuova regolamentazione sono dunque chiamati ad uno sforzo in termini di disegno
+            della soluzione funzionale e tecnologica da articolarsi in maniera più o meno rilevante
+            a seconda della complessità dell’intermediario e dell’utilizzo dei modelli interni per la
+             N
+            stima dei parametri del rischio di credito.
+           La Banca Centrale Europea ha proposto un approccio a 2 step (c.d. "Two-step
+            approach") al fine di minimizzare il rischio derivante dall'utilizzo di osservazioni di
+            default inaccurate e non allineate alla nuova definizione di default durante
+ CU   
+            l'implementazione degli interventi volti a garantire l'allineamento con le EBA
+            Guidelines
+            Occorre pertanto decidere se implementare il Two-Step Approach (non mandatory)
+            formalizzato dalla BCE il 26 giugno 2018, che prevede un self assessment sulla
+            definizione di default entro fine 2018 con contestuale istanza di material model
+DO   10/12/02018 - Proposta per Consiglio Di Amministrazione - MPS - Action Plan sulla Nuova Definizione di
+     Default
+                                                                                                                       Pagina 1 di 5
+
+                                                                                                                                          13
+                                                                                                                                          O
+            change (sulla nuova DoD) e l’implementazione della nuova DoD a partire dal 1°
+            luglio 2019 o se procedere con un approccio “One-Step”, come proposto dalle
+            funzioni firmatarie.
+                                                                                                                            AT
+                                                                                                              Protocollo Sisifo: 6AF10E3476
+                                                                                        CO
+           In caso di approccio “Two-Step” entro il 1° luglio 2019 dovranno essere adeguati i
+            processi gestionali; nel caso di approccio “One-Step” la scadenza è entro il
+            31/12/2020, sulla base delle Linee Guida relative all’applicazione dell’Articolo 178(7)
+            della CRR.
+      3. INFORMAZIONI RILEVANTI
+                                                                                           MI
+                                                                                              T
+      In considerazione della complessità di adeguamento alle nuove prescrizioni normative e le
+      implicazioni connesse alla stima dei modelli IRB, la BCE, con lettera del 26 giugno 2018,
+      ha richiesto alle Banche con sistemi IRB validati, tra cui Banca MPS, di avviare il processo
+      di migrazione alla nuova definizione di default attraverso l'adozione del cosiddetto Two-
+      Step Approach (non mandatory) ; l’approccio prevede un self assessment sulla
+      definizione di default entro fine 2018 con contestuale istanza di material model change
+                                                            ON
+      sulla nuova DoD (Step 1). Successivamente le banche devono procedere
+      all’implementazione della nuova DoD a partire dal 1° luglio 2019 e alla revisione delle
+      stime dei parametri PD e LGD con istanza di model change da inviare a fine secondo
+      trimestre 2020 (Step 2) in modo da avere i modelli in produzione, previa autorizzazione da
+      parte della BCE, entro il 31/12/2020.
+                                                              E
+      In alternativa, le banche possono seguire quanto previsto dalle Linee Guida EBA e
+      procedere all’attività di implementazione della nuova DoD contestualmente alla revisione
+                                   TA
+      dei modelli AIRB e inviare un’unica istanza di model change (sia per la definizione di
+      default che per la ristima dei modelli PD, LGD, EAD) entro la fine del 2° semestre del
+      2020 (One-Step Approach).
+                                     ZI
+      Banca MPS ha avviato un’attività progettuale a fine luglio 2018 sotto la direzione del CRO
+      con l’obiettivo di effettuare l’attività di self-assessment e verificare gli impatti della nuova
+      definizione di default al fine di fornire allo Steering Commitee prima e al Comitato
+      Direttivo poi le evidenze necessarie per la decisione su quale approccio adottare.
+          ME
+      I risultati più rilevanti emersi dalle attività di self-assessment qualitativo e quantitativo
+      sono risultati i seguenti:
+                 l’impatto contabile dell’applicazione di alcune componenti della nuova DoD
+             N
+           •
+                 (nuovo past due, probation period, propagazione del default dalla cointestazione
+                 ai contestatari, univocità di classificazione a NPE all’interno del gruppo bancario) è
+                 stato stimato pari a circa +150/200 mln (stima effettuata sulla base delle coperture
+ CU              e dei crediti in essere al 30/6/2018). La tempistica del Two-Step Approach non
+                 consente di aggiornare i modelli IFRS9 sulla base della nuova DoD e di mitigarne
+                 l’impatto (aumentano da una parte i tassi di default, diminuiscono dall’altra i tassi
+                 di lgd utilizzati per le valutazioni contabili data la maggior cura attesa sul nuovo
+DO   10/12/02018 - Proposta per Consiglio Di Amministrazione - MPS - Action Plan sulla Nuova Definizione di
+     Default
+                                                                                                                       Pagina 2 di 5
+
+                                                                                                                                          13
+                                                                                                                                          O
+           •
+                 deteriorato, ma questi effetti non saranno riflessi nella stima dell’Expected Credit
+                 Losses);
+                 in presenza di forbereance la nuova DoD introduce un trigger sulla variazione del
+                                                                                                                            AT
+                                                                                                              Protocollo Sisifo: 6AF10E3476
+                                                                                        CO
+                 Net Present Value che se, nel confronto fra pre e post forbereance, risulta
+                 superiore all’1%, porta obbligatoriamente alla classificazione a NPE del credito
+                 (anche in assenza di una difficoltà finanziaria); l’impatto di tale trigger non è stato
+                 simulato dato che la banca potrà valutare nelle future operazioni di rivedere le
+                                                                                           MI
+                 modalità di gestione di esse proprio al fine di minimizzare l’impatto sulla
+                 variazione dell’NPV e non dover così obbligatoriamente riclassificare il credito a
+                                                                                              T
+                 NPE. Il test della variazione del NPV non si applica allo stock in essere all’entrata in
+                 vigore della nuova definizione di default.
+           •     in considerazione della complessità delle novità introdotte dalla nuova DoD,
+                 l’implementazione dei nuovi processi per la gestione della nuova DoD risulta avere
+                 un impatto sul business e sui processi IT molto elevato e non facilmente
+                                                            ON
+                 realizzabile entro la tempistica del Two-Step Approach;
+           •     i tempi risultano ridotti anche per l’aggiornamento delle normative interne e per
+                 l’erogazione ai gestori di adeguata formazione sulle implicazioni gestionali
+                 conseguenti all’introduzione della nuova DoD;
+           •
+                                                              E
+                 i rischi operativi legati all’intero processo, fra i quali ad esempio quello di una
+                 nuova segnalazione a default della clientela (ad esempio sulla Centrali Rischi) per
+                 semplice ribaltamento del default all’interno dei Gruppi di Clienti Connessi e dei
+                                   TA
+                 Cointestatari risultano molto elevati e pertanto richiedono una approfondita
+                 analisi.
+                                     ZI
+      In data 3 dicembre 2018, sulla base di tali evidenze lo Steering Commitee ha optato per un
+      action plan basato sul One-Step Approach che prevede il passaggio alla nuova DoD nei
+      processi e nei modelli entro il 31/12/2020. In particolare i nuovi criteri di default saranno
+      implementati nei processi progressivamente a partire dall’1/1/2020, in parte come
+          ME
+      parametri a rilevanza alta e in parte come parametri binding per la classificazione a NPE, in
+      base alle seguenti modalità:
+      01/01/2020           Implementazione del motore di calcolo del nuovo past due e creazione di un
+                           parametro non vincolante a rilevanza alta per passaggio a Inadempienza
+             N             Probabile High Risk.
+                           Implementazione in PEF di un applicativo per la determinazione del trigger
+                           NPV>1% a supporto della valutazione delle forbearance.
+                           Definizione di un parametro vincolante per la propagazione del default (solo
+ CU                        in presenza di classificazione a UtoP o Sofferenza) fra cointestatari e gruppi
+                           di clienti connessi.
+                           Definizione di un parametro vincolante per la classificazione uniforme a
+                           livello di Gruppo MPS di una controparte.
+                           Attivazione del Cure Period per le posizioni classificate a UtoP e Sofferenza.
+DO   10/12/02018 - Proposta per Consiglio Di Amministrazione - MPS - Action Plan sulla Nuova Definizione di
+     Default
+                                                                                                                       Pagina 3 di 5
+
+                                                                                                                                          13
+                                                                                                                                          O
+      01/10/2020           Inizializzazione del contatore dei giorni di sconfino e passaggio in
+                           produzione del nuovo past due, con inclusione anche delle regole di
+                                                                                                                            AT
+                                                                                                              Protocollo Sisifo: 6AF10E3476
+                           propagazione da questo stato.
+      31/12/2020
+                                                                                        CO
+                           Attivazione del Cure Period per le posizioni classificate a Past Due.
+                           Passaggio in produzione del trigger NPV>1% come parametro vincolante
+                           per la classificazione a UTP da applicare alle nuove forbearance erogate a
+                                                                                           MI
+                           partire dal 31/12/2020.
+      In parallelo saranno avviate le attività di ristima dei modelli PD e LGD sulla base del
+                                                                                              T
+      nuovo past due ricostruito retroattivamente sulla serie storica di sviluppo. Le attività di
+      ristima e di validazione interna dei modelli che si baseranno sulla ricostruzione delle serie
+      storiche dei default che verranno rilasciate nel corso del primo semestre del 2019 si
+      dovrebbero concludere entro il secondo trimestre del 2020 con successivo invio di istanza
+      di model change. L’obiettivo sarà quindi quello di mettere i modelli in produzione entro il
+      31/12/2020, previa autorizzazione da parte della BCE.
+      4. CONDIVISIONI/PARERI PREVENTIVI:
+                                                            ON
+      Secondo le previsioni normative vigenti, la presente memoria è stata sottoposta al parere
+      preventivo dei seguenti organi:
+       Comitato Rischi
+                                                              E
+                                   TA
+                                     ZI
+          ME
+             N
+ CU
+DO   10/12/02018 - Proposta per Consiglio Di Amministrazione - MPS - Action Plan sulla Nuova Definizione di
+     Default
+                                                                                                                       Pagina 4 di 5
+
+                                                                                                                                          13
+                                                                                                                                          O
+                                                    L' Amministratore Delegato
+                                                                                                                            AT
+                                                                                                              Protocollo Sisifo: 6AF10E3476
+                                                                PROPONE
+                                                                                        CO
+                         al Consiglio Di Amministrazione di adottare la seguente delibera:
+             il Consiglio Di Amministrazione esaminata la proposta del 10 Dicembre 2018
+                       redatta dal l'Area Lending Risk Officer avente ad oggetto:
+                                                                                           MI
+       " Action Plan sulla Nuova Definizione di Default ", riposta agli atti con il n. ____/2018, su
+                                proposta dell' Amministratore Delegato,
+                                    raccolto il parere favorevole del Comitato Rischi,
+                                                                DELIBERA
+                                                                                              T
+                                                            ON
+                                 di procedere con l'adozione del "One step Approach".
+                                                              E
+                                   TA
+      Allegato File: 20181218_Nuova DoD.pdf
+                                     ZI
+          ME
+             N
+ CU
+DO   10/12/02018 - Proposta per Consiglio Di Amministrazione - MPS - Action Plan sulla Nuova Definizione di
+     Default
+                                                                                                                       Pagina 5 di 5
+
+     SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 1 di 10
+                                                                                                  13
+                                                IO
+                                                   NE
+                        NT
+                          AZ                                        Nuova Definition of Default
+ CU                                                                        Siena, 18/12/2018
+   ME
+DO
+
+          SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 2 di 10
+                                                                                                                                                                                                                   13
+  Premesse e obiettivi
+                                                       IO
+                                  ¦
+                                                          NE
+                                    Al fine di armonizzare gli approcci di applicazione della definizione di default e di individuazione delle condizioni di inadempienze probabili tra le istituzioni finanziarie e
+                                    le diverse giurisdizioni dei paesi dell’Unione, dopo un periodo di consultazione di tre mesi, l’EBA ha emanato le Linee Guida relative all’applicazione dell’Articolo
+                                    178(7) della CRR: tali linee guida permettono di standardizzare, ad esempio, i criteri per l’identificazione dello scaduto, le modalità di gestione delle indicazioni di
+                                    inadempienze probabili, gli aspetti specifici delle esposizioni Retail, il trattamento dei dati esterni, la definizione dei criteri per il ritorno di una posizione in uno stato di
+                                    non default
+Contesto regolamentare            ¦ Le Linee Guida EBA si applicheranno a partire dal 1° Gennaio 2021: considerando i potenziali impatti a livello metodologico, gli intermediari finanziari interessati dalla
+                             NT     nuova regolamentazione sono dunque chiamati ad uno sforzo in termini di disegno della soluzione funzionale e tecnologica da articolarsi in maniera più o meno
+                                    rilevante a seconda della complessità dell’intermediario e dell’utilizzo dei modelli interni per la stima dei parametri del rischio di credito.
+                                  ¦ La Banca Centrale Europea propone un approccio a 2 step (c.d. "Two-step approach") al fine di minimizzare il rischio derivante dall'utilizzo di osservazioni di
+                               AZ   default inaccurate e non allineate alla nuova definizione di default durante l'implementazione degli interventi volti a garantire l'allineamento con le EBA
+                                    Guidelines
+                                  ¦   Decidere se implementare il Two-Step Approach (non mandatory) formalizzato dalla BCE il 26 giugno 2018, che prevede un self assessment sulla definizione di
+    CU
+                                      default entro fine 2018 con contestuale istanza di material model change (sulla nuova DoD) e l’implementazione della nuova DoD a partire da giugno 2019
+      Obiettivi
+                                  ¦   Adeguare i processi gestionali, contabili e regolamentari alla nuova definizione di default (DoD), mandatory entro il 31.12.2020, sulla base delle Linee Guida
+                                      relative all’applicazione dell’Articolo 178(7) della CRR
+      ME
+ Principali interventi
+                                       ¦
+                                       ¦
+                                           Assessment Qualitativo in merito al posizionamento del Gruppo MPS rispetto alle nuove regole EBA e individuazione dei relativi gap da colmare
+                                           Assessment Quantitativo in relazione agli impatti delle nuove regole EBA sulla stima dei modelli IRB
+        2018                           ¦   Definizione dell'Action Plan per la risoluzione dei gap in termini di interventi su dati, processi e sistemi
+DO                                     ¦   Predisposizione dell'Application Package per ECB (31.12.2018), solo nel caso in cui la Banca decide di implementare il Two-Step Approach.
+                                                                                                                                                                                                                          2
+
+     SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 3 di 10
+Le nuove regole EBA sulla Definition of Default                                                                                                                                             13
+                                                IO
+                                                   NE
+                                               Soglie di materialità
+                                                                       ¦
+                                                                       ¦
+                                                                                                                 Nuova Definizione di Default
+                                                                           Assoluta: 100€ per Retail e 500€ per Corporate
+                                                                           Relativa: 1% sia per Retail sia per Corporate
+                        NT                     Conteggio dei giorni
+                                                       di
+                                                    Past Due
+                                                                       ¦   Il contatore dei giorni di Past Due dovrà essere attivato quando entrambe le soglie, assoluta e relativa,
+                                                                           sono state superate simultaneamente per 90 giorni consecutivi
+            della CRR per
+                          AZ
+        L’EBA ha emanato le
+        Linee Guida relative
+           all’applicazione
+         dell’Articolo 178(7)
+                                                Past Due Tecnici/
+                                                 Compensazione
+                                                                       ¦
+                                                                       ¦
+                                                                           I default tecnici dovranno essere limitati a errori relativi a dati e sistemi IT
+                                                                           Non è più consentito compensare gli importi scaduti con i margini non utilizzati su ulteriori linee di credito
+                                                                           del debitore
+        l'identificazione dei
+ CU
+                                                                       ¦   Si identificano le fattispecie per le potenziali attivazioni di trigger di Unlikely To Pay (<U+2206>NPV>1%) e in
+                default                       Unlikely to Pay (UTP)
+                                                                           particolare per i casi di cessione del credito e di ristrutturazione onerosa del debito
+         (EBA/GL/2016/07)
+   ME
+                                                    Ritorno in         ¦   Il cure period per il ritorno ad uno stato performing non deve essere inferiore ai 3 mesi (1 anno in caso di
+                                                      Bonis                ristrutturazione onerosa del credito)
+                                                                       ¦   La Banca deve classificare in maniera univoca un debitore a livello di gruppo
+                                                Propagazione del
+                                                    default            ¦   Nuove regole di propagazione/contagio dello stato di default (e.g. obbligazione creditizia congiunta,
+DO
+                                                                           legame coniugale in regime di comunione dei beni, gruppi di rischio – holding vs controllate, etc.)
+                                                                                                                                                                                                 3
+
+                SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 4 di 10
+ Outcome Gap Analysis                                                                                                                                                                                                     13
+                             1
+                                                           IO
+                                 Soglia di materialità assoluta e relativa     <U+F0A7> La Banca prevede soglie di materialità assolute (1€) e relative (5%) a livello di singola legal entity e non di gruppo bancario,
+Criterio dello scaduto
+nell'identificazione del
+        default
+                             2
+                             3
+                                            Giorni di sconfino
+                                                              NE
+                                  Tempestiva identificazione del default
+                                                                                 differenti da quanto previsto nella nuova normativa
+                                                                               <U+F0A7> Il conteggio dei giorni di sconfino è calcolato a livello di singola legal entity (e non di gruppo) e non è subordinato al
+                                                                                 superamento delle soglie assoluta/relativa
+                                                                               <U+F0A7> La frequenza di classificazione delle controparti a Past Due (PD) risulta essere mensile e non giornaliera (i.e. uno sconfino sopra
+                                                                                 soglia regolarizzato infra-mese non comporta la classificazione a PD)
+       RTS: 1-2; 5
+      DoD: 16 - 34           4       Situazioni tecniche di arretrato          <U+F0A7> Le situazioni tecniche di arretrato vengono gestite tramite un sistema di ticketing IT (aperti manualmente dal gestore), non
+                                   NT
+                                                                                 sono previsti automatismi di rilevazione/controllo
+                             5          Factor: cessioni pro soluto            <U+F0A7> In caso di cessione di un credito commerciale pro soluto (senza notifica al debitore ceduto) non è previsto da parte della Banca,
+                                                                                 un processo volto al blocco dei giorni di sconfino per il mancato "rigiro" delle somme da parte del cedente
+    Identificazione
+      improbabile
+     adempimento
+      DoD: 35 - 65
+                             6
+                             7       AZ         Trigger NPL
+                                      Cessioni obbligazioni creditizie
+                                                                               <U+F0A7> Necessità per la Banca di incrementare l'attuale catalogo di trigger NPL sulla base della nuova normativa EBA (e.g. rinuncia alla
+                                                                                 contabilizzazione degli interessi, etc.)
+                                                                               <U+F0A7> La normativa EBA richiede l'inserimento nelle policy interne di nuove definizioni riguardanti le cessioni delle obbligazioni
+                                                                                 creditizie e soglie per definire la significatività della perdita economica correlata alla cessione (e.g. classificazione a default se
+                                                                                 soglia > 5% e cessione finalizzata al trasferimento del rischio di credito)
+                             8       Ridotta obbligazione finanziaria
+                                                                               <U+F0A7> L'attuale perimetro dei trigger di individuazione del forborne non performing non prevede la verifica della riduzione di NPV>1%
+       CU
+Criteri per il ritorno ad
+   uno stato di non-
+         default
+      DoD: 71 - 78
+                             9                Rientri in bonis
+                                                                               <U+F0A7> La normativa introduce un periodo di "osservazione" (sempre in stato di non performing) pari ad almeno 3 mesi per le posizioni
+                                                                                 oggetto di rientro in bonis
+         ME
+      Uniformità
+     applicazione           10         Uniformità di classificazione           <U+F0A7> La Banca classifica la posizione a default per controparte/debitore a livello di singola legal entity e non di gruppo
+ definizione di default
+      DoD: 79 - 85
+     Applicazione
+definizione default per 11                                                     <U+F0A7> La normativa EBA richiede nuove regole di propagazione/contagio dello stato di default (e.g. obbligazione creditizia congiunta,
+                                      Propagazione stato di default
+esposizione al dettaglio                                                         legame coniugale in regime di comunione dei beni, gruppi di rischio – holding vs controllate, etc.)
+     DoD: 86 - 105
+DO
+Documentazione policy
+      interne         12               Registro definizioni default            <U+F0A7> Non risulta presente un registro che storicizzi tutte le definizioni di default previste dalla banca
+     DoD: 104 - 114
+                                                                                                                                                                                                                               4
+
+     SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 5 di 10
+Scenari Action Plan – Pro vs Contro                                                                                                                                                                      13
+                                                IO
+                                                   NE               •   Attese BCE rispettate (go live unico al 2019)                      •   Rilevante impatto contabile in quanto la tempistica non consente
+                                                                    •   Attese Bankit rispettate (allineamento tra                             di aggiornare i modelli IFRS9 sulla base della nuova DoD. Al terzo
+                        NT
+                                                                        segnalazione contabile e regolamentare)                                trimestre 2019 si prevede un impatto aggiuntivo sul costo di circa
+                                                                                                                                               200 mln. L’impatto è atteso incrementarsi nel tempo per la
+                                                                                                                                               classificazione a NPE delle forbereance future con Delta NPV>1%.
+    Two Steps Approach                                                                                                                     •   Complessa gestione dei processi da parte del Gruppo di Lavoro
+                                                                                                                                           •   Tempi ridotti per gestire il passaggio a nuova DoD (aggiornamento
+                          AZ                                                                                                               •
+                                                                                                                                           •
+                                                                                                                                               normativa, adeguata formazione su new Dod)
+                                                                                                                                               Rischi operativi elevati
+                                                                                                                                               Impatto addendum più severo atteso per fine 2021
+ CU One Step Approach
+                                                                    •
+                                                                    •
+                                                                        Mancato anticipo impatti contabili rispetto alla scadenza
+                                                                        binding
+                                                                        Tempistiche adeguate per formare le risorse e mitigare
+                                                                                                                                           •
+                                                                                                                                           •
+                                                                                                                                           •
+                                                                                                                                               Non in linea con le attese BCE (go live unico al 2021)
+                                                                                                                                               Assenza di uno storico dati di almeno un anno in produzione per
+                                                                                                                                               backtesting sui parametri di rischio
+   ME
+                                                                        impatti nuova DoD                                                      Rischio limitation nel caso di variazioni significative osservate nei
+                                                                    •   Tool adeguato per l’utilizzo di prodotti che consentano di             nuovi parametri di PD e LGD
+                                                                        ottenere un Delta NPV < 1%
+                                                                                                            Scenario proposto dallo Steering Committe del 3/12/2018
+DO                                                                                                                                                                                                                     5
+
+             SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 6 di 10
+Scenari Action Plan                                                                                                                                                                                   13
+                          Two Steps Approach
+                                                           IO                                                                          One Steps Approach
+                                                              NE
+                                                                                                                 MODELLI                                                          PROCESSI
+                    Attività                              Timeline                                Attività                        Timeline                          Attività                        Timeline
+          Application Package ECB                        31.12.2018                  Predisposizione serie storiche              31.01.2019              Motore Past Due gestionale                01.01.2020
+                                                                                                                                                      Creazione parametro non vincolante
+   Consegna documentazione al regulator e                                         Estrazione serie storica per la ristima dei                         a rilevanza alta per passaggio a IP HR
+       attivazione Two Steps Approach                                                       parametri PD e LGD
+                                                                                                                                                         Tool NPV gestionale in PEF
+           Inizializzazione motori
+                                     NT
+ Inizializzazione del motore parallelo di calcolo
+                   del Past Due
+                                                         31.03.2019
+                                                                                Determinazione dei nuovi stati di default        30.06.2019
+                                                                                                                                                       Nuovi trigger per passaggio a IP
+                                       AZ
+                                                                                                                                                   Regole di propagazione per passaggio IP
+                                                                                Rilascio dei dati andamentali per la stima dei
+             Go live produzione                          01.07.2019                                                                                      Uniformità di classificazione
+                                                                                   parametri di rischio inclusivi della nuova
+      Utilizzo nei sistemi/processi creditizi                                                definizione di default                                Ribaltamento IP / Sofferenza fra legal entity
+                                                    Impatto contabile stimato
+                 della nuova DoD                       fra 150-200 € mln
+                                                                                     Inizio ristima modelli PD e LGD             01.07.2019
+    CU
+                                                                                                                                                       Motore Past Due in produzione               30.09.2020
+          Segnalazione di vigilanza                      30.09.2019              Ristima parametri di rischio su nuova DoD
+Prima segnalazione di vigilanza con nuove regole                                                                                                      Contatore giorni di osservazione
+                      DoD                                                                                                                                   (UTP e Sofferenza)
+                                                                                Chiusura ristima e convalida dei modelli         30.06.2020
+      ME
+  Implementazione nuovi modelli, previa                                                                                                                Situazioni tecniche di arretrato
+                                                         31.12.2020
+          autorizzazione BCE
+   Ristima parametri di rischio su nuova DoD
+                                                                                          Istanza model change                   01.07.2020           Contatore giorni di osservazione             31.12.2020
+                                                                                                                                                                (Past Due)
+                                                                                                                                                     Tool NPV con effetto delta > 1% a IP
+DO       Effective Date Nuova DoD                      31.12.2020                       Effective Date Nuova DoD                 31.12.2020               Effective Date Nuova DoD                 31.12.2020
+                                                                                                                                                                                                                6
+
+       SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 7 di 10
+Annex 1: Azioni di remediation                                                                                                                                                                           13
+                                                  IO
+                                                     NE
+                                         IPOTESI DI IMPATTO
+   AMBITO DI REMEDIATION                    SUI PROCESSI                             TIPOLOGIA IMPATTO                                                              NOTE
+                                                                         Nuovo           Nuova fase su        Volumi di
+                                                                        processo          processo già       lavorazione
+                                                                                            presente
+ NUOVO MOTORE DI CALCOLO
+      DEL PAST DUE                                                                                             <U+F0FC>           •   Previsto incremento del numero delle posizioni oggetto di passaggio a past due
+                                                                                                                               in seguito all'applicazione delle nuove soglie assoluta e relativa
+   SITUAZIONI TECNICHE DI
+        ARRETRATO         NT                                                                                   <U+F0FC>           •   In valutazione la realizzazione di un algoritmo per bonificare le propagazioni
+                                                                                                                               dello stato di default dovuto a situazioni 'tecniche' di arretrato
+     NUOVI TRIGGER NPL
+                            AZ                                                                                 <U+F0FC>           •
+                                                                                                                           •
+                                                                                                                               Previsti nuovi trigger per suggerire una valutazione di passaggio a non
+                                                                                                                               performing (UTP)
+                                                                                             <U+F0FC>                 <U+F0FC>
+                                                                                                                               Nuova fase di valutazione del delta NPV, preventiva alla concessione della misura
+ TOOL DI CALCOLO DELTA NPV                                                                                                     di forbearance, al fine di guidare la classificazione della posizione a forborne
+                                                                                                                               performing ovvero forborne non perfoming
+  CU
+ RIENTRI IN BONIS: PERIODO DI
+        OSSERVAZIONE                                                                                           <U+F0FC>           •   Previsto aumento del tempo medio di permanenza delle posizioni in stato di non
+                                                                                                                               performing, in seguito all'introduzione dei 3 mesi di osservazione
+    ME                                                                                                         <U+F0FC>
+       UNIFORMITA' DI                                                                                                      •   Previsto incremento del numero di posizioni oggetto di passaggio a default
+       CLASSIFICAZIONE                                                                                                         dovuto all'introduzione del nuovo stato di 'default trascinato' (i.e. contagio fra
+                                                                                                                               entity del gruppo)
+                                                                                                                           •   Possibilità di aumento dell'interazione fra gestori delle diverse entity del gruppo
+  REGOLE DI PROPAGAZIONE
+                                                                                                               <U+F0FC>           •   Previsto incremento del numero di posizioni oggetto di passaggio a default
+                                                                                                                               dovuto all'introduzione delle nuove regole di propagazione
+DO                                                           Legenda:       : alto     : medio     : basso
+                                                                                                                                                                                                                     7
+
+             SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 8 di 10
+Annex 2: simulazioni d’impatto Nuove Regole EBA (non comprendono stime su Delta NPV>1% e sul contagio all’interno dei GCC)                                                                                                       13
+¦                                                       IO
+  L'applicazione delle nuove regole è stata effettuata a livello di Gruppo MPS (includendo MPS Banca, Leasing &Factoring, MPS Capital Services, Widiba)
+                                                           NE
+¦ L'incremento degli importi di EAD in default è riconducibile alle seguenti cause di variazione dello stato di default:
+         ¦ Effetto margine: effetto dovuto all’eliminazione della compensazione degli sconfinamenti con margini inutilizzati su altri rapporti, facoltà prevista nella attuale DoD
+         ¦ Effetto nuove soglie: è legato all'introduzione delle nuove soglie di materialità assoluta (€100/€500) e relativa (1%)
+         ¦ Effetto probation period: è legato all'introduzione delle regole per il rientro in bonis (tre mesi di probation); in simulazione il probation period è stato applicato solamente al past due
+         ¦ Effetto contagio: in base alle nuove regole di propagazione dello stato di default dalla cointestazione ai singoli cointestatari
+                                 NT
+                                Osservazioni al 30 Giugno 2018
+                                 Valori espressi in miliardi €.                                                                                  Stato       Stato
+                                                                                                                                                                        Margine
+                                                                                                                                                                                   Nuove
+                                                                                                                                                                                                Osservabile 3 mesi
+                                                                                                                                                                                                  dopo il go live
+                                                                                                                                                                                                   Probation
+                                                                                                                                                                                                                     Contagio
+                                                                                                                                                                                                                                 Impatto
+                                   AZ
+                                                                                                                                                iniziale     finale                soglie           period                      contabile *
+                                                                                                                                                                                            +563 mln
+                                                                                                                                                           Past Due
+                                                                                                                                                                        +72 mln   +237 mln         +231 mln          +23 mln    +164,7 mln
+                                                                                                                                                Bonis
+                                                                                                                                                              UTP          -         -                  -            +23 mln     +9,1 mln
+                                                                                                                                                           Sofferenze      -         -                  -            +0,4 mln    +0,3 mln
+    CU                                        10.47
+                                                              10,5
+                                                                                            10,037              10,04
+                                                                                                                                                             Bonis         -      -23 mln               -               -        -4,3 mln
+      ME
+                                                                                                                                           Past Due           UTP          -         -                  -            +5,5 mln     +1 mln
+         +543 mln
+                                                                                                                                                           Sofferenze      -         -                  -            +0,4 mln        -
+                      0,95
+      0,41
+                                                                                                                                                 UTP       Sofferenze      -         -                  -             +2 mln     +0,4 mln
+DO           Past Due
+                        Stato iniziale
+                                                       UTP
+                                                              Stato finale
+                                                                                                Sofferenze
+                                                                  Nota: (*) Stima contabile effettuata con livelli di copertura al 30.06.2018
+                                                                                                                                                                                                                                + 171,2 mln
+                                                                                                                                                                                                                                              8
+
+                SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 9 di 10
+Annex 3: simulazioni d’impatto Nuove Regole EBA sui requisiti patrimoniali                                                                                                                                                                 13
+                                                              IO
+                                                                 NE
+                                                                   AS-IS                                                         STEP 2 (OLD MODELS – NEW DEFAULT)                                        STEP 3 (NEW MODELS - NEW DEFAULT)
+ Legal Entity            Status            EAD          EL           PD             LGD           RWA*                EAD              EL             PD            LGD            RWA*          EAD          EL         PD         LGD        RWA*
+                       Performing        61,8 mld       0,4        2,16%          26,2%         25,5 mld           61,2 mld         0,3 mld         2,04%          26,2%          25 mld       61,2 mld    0,3 mld      2,7%       21,3%      23,1 mld
+                                    NT
+    AIRB                                  42 mld                                                                   42,6 mld
+                     Non performing                  21,3 mld         -           50,5%              -                             21,4 mld            -           50,1%              -        42,6 mld    21,4 mld       -        50,2%         -
+   (noSL)
+                                                                                                                                                                                                103,8
+                                          103,8      21,7 mld         -            36%          25, 5mld             103,8         21,7 mld            -            36%           25 mld                   21,7 mld       -        33 %       23,1 mld
+                                                                                                                                                                                                 mld
+    MPS
+                       Performing
+                     Non performing
+                                      AZ  56 mld
+                                         33,6 mld
+                                                      0,3 mld
+                                                     17,4 mld
+                                                                   2,96%
+                                                                      -
+                                                                                  25,6%
+                                                                                  51,7%
+                                                                                                21,1 mld
+                                                                                                     -
+                                                                                                                   55,5 mld
+                                                                                                                   34,1 mld
+                                                                                                                                    0,3 mld
+                                                                                                                                   17,5 mld
+                                                                                                                                                    1,93%
+                                                                                                                                                       -
+                                                                                                                                                                   25,6%
+                                                                                                                                                                   51,2%
+                                                                                                                                                                                 20,8 mld
+                                                                                                                                                                                      -
+                                                                                                                                                                                               55,5 mld
+                                                                                                                                                                                               34,1 mld
+                                                                                                                                                                                                           0,3 mld
+                                                                                                                                                                                                           17,5 mld
+                                                                                                                                                                                                                       2,57%
+                                                                                                                                                                                                                          -
+                                                                                                                                                                                                                                    21%
+                                                                                                                                                                                                                                   51,3%
+                                                                                                                                                                                                                                              19,7 mld
+                                                                                                                                                                                                                                                 -
+                                         89,6 mld    17,7 mld         -           35,4%         21,1 mld           89,6 mld        17,8 mld            -           35,4%         20,8 mld      89,6 mld    17,8 mld       -        32,5%      19,7 mld
+    CU
+     CS
+                       Performing
+                     Non performing
+                                          2,7 mld
+                                          5,8 mld
+                                                     0,03 mld
+                                                      2,4 mld
+                                                                   3,67%
+                                                                      -
+                                                                                  32,2%
+                                                                                  40,9%
+                                                                                                 2,4 mld
+                                                                                                     -
+                                                                                                                    2,7 mld
+                                                                                                                    5,8 mld
+                                                                                                                                   0,03 mld
+                                                                                                                                    2,4 mld
+                                                                                                                                                    3,51%
+                                                                                                                                                       -
+                                                                                                                                                                   32,3%
+                                                                                                                                                                   40,8%
+                                                                                                                                                                                  2,3 mld
+                                                                                                                                                                                      -
+                                                                                                                                                                                               2,7 mld
+                                                                                                                                                                                               5,8 mld
+                                                                                                                                                                                                           0,02 mld
+                                                                                                                                                                                                           2,4 mld
+                                                                                                                                                                                                                       4,45%
+                                                                                                                                                                                                                          -
+                                                                                                                                                                                                                                   21,8%
+                                                                                                                                                                                                                                   40,6%
+                                                                                                                                                                                                                                              1,7 mld
+                                                                                                                                                                                                                                                 -
+      ME               Performing
+                                          8,5 mld
+                                          3,1 mld
+                                                      2,4 mld
+                                                     0,03 mld
+                                                                      -
+                                                                   2,68%
+                                                                                  38,1%
+                                                                                  32,2%
+                                                                                                 2,4 mld
+                                                                                                  2 mld
+                                                                                                                    8,5 mld
+                                                                                                                     3 mld
+                                                                                                                                    2,4 mld
+                                                                                                                                   0,02 mld
+                                                                                                                                                       -
+                                                                                                                                                    2,6%
+                                                                                                                                                                   38,1%
+                                                                                                                                                                   32,3%
+                                                                                                                                                                                  2,3 mld
+                                                                                                                                                                                  1,9 mld
+                                                                                                                                                                                               8,5 mld
+                                                                                                                                                                                               3,1 mld
+                                                                                                                                                                                                           2,4 mld
+                                                                                                                                                                                                           0,03 mld
+                                                                                                                                                                                                                          -
+                                                                                                                                                                                                                       3,36%
+                                                                                                                                                                                                                                   34,7%
+                                                                                                                                                                                                                                   26,2%
+                                                                                                                                                                                                                                              1,7 mld
+                                                                                                                                                                                                                                              1,7 mld
+     LF              Non performing       2,6 mld     1,5 mld         -           56,5%              -              2,7 mld         1,5 mld            -           56,3%              -        2,6 mld     1,5 mld        -        56,5%         -
+DO                                        5,7 mld     1,5 mld         -           43,4%           2 mld             5,7 mld         1,5 mld            -           43,4%          1,9 mld
+                                                                   *La simulazione è stata condotta con i modelli in essere a fine 2017 che prevedono RWA pari a zero per i defaulted assets
+                                                                                                                                                                                               5,7 mld     1,5 mld        -        40,2%      1,7 mld
+                                                                                                                                                                                                                                                      9
+
+     SISIFO - Prot. n° 6AF10E3476, Allegato n° 1 - Pagina 10 di 10
+                                                                     13
+                                                IO
+                                                   NE
+                        NT
+                          AZ
+ CU
+   ME
+DO
+

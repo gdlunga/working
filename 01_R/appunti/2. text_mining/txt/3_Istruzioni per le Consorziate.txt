@@ -1,0 +1,622 @@
+         \
+Single Customer View (SCV)
+Istruzioni per le consorziate
+    La segnalazione della posizione aggregata per depositante
+    da parte delle banche consorziate al FITD
+    Versione 1.2
+
+2
+   SCV - Istruzioni per le Consorziate
+  Sommario
+       Il decreto legislativo n. 30 del 15 febbraio, che ha recepito nel nostro
+       ordinamento la direttiva sui sistemi di garanzia dei depositi (2014/49/UE –
+       DGSD), ha confermato la tutela dei depositanti fino a 100.000 euro e
+       ridotto i tempi per il rimborso a 7 giorni lavorativi.
+       Per effettuare il rimborso nei tempi previsti dalla normativa, è necessario
+       disporre della posizione aggregata per depositante (SCV) e di una
+       procedura definita in modo dettagliato e chiaro, in cui siano pianificate in
+       modo ordinato le attività dei vari soggetti coinvolti nell’attività di rimborso.
+       La tempestività delle azioni e la completezza delle informazioni sono
+       elementi essenziali per minimizzare il rischio operativo a carico del Fondo,
+       riconducibile al non rispetto della tempistica per il payout.
+       In base alle nuove norme, le banche consorziate, in caso di rimborso dei
+       depositanti, devono essere in grado di produrre e rendere prontamente
+       disponibile al Fondo un flusso informativo con le posizioni aggregate per
+       depositante, in base alle Istruzioni fornite dal Fondo.
+       È, altresì, disposto che i sistemi di garanzia dei depositi possano richiedere
+       tale flusso informativo alle banche, ogni qual volta sia necessario per
+       l’effettuazione di prove di stress della propria capacità di effettuare le
+       operazione di rimborso
+       L’invio della posizione aggregata per depositante, pertanto, non deve
+       avvenire secondo una prestabilita frequenza. Resta fermo, in ogni caso,
+       l’obbligo delle banche di inviare al Fondo la base contributiva con cadenza
+       trimestrale, secondo l’attuale sistema delle scadenze definito dallo Statuto.
+       Le presenti Istruzioni operative hanno lo scopo di disciplinare, sulla base di
+       regole standard e di un tracciato uniforme per tutte le consorziate, la
+       segnalazione della SCV al FITD, che dovrà avvenire attraverso un sistema
+       stabile di estrazione dei dati ed essere sempre sottoponibile a controlli per
+       la verifica della conformità alle Istruzioni.
+                                                                                        2
+
+ 3
+               SCV - Istruzioni per le Consorziate
+Indice
+1.   La Single Customer View ........................................................................................................ 4
+   1.1 Premessa .............................................................................................................................. 4
+   1.2 La segnalazione al Fondo ..................................................................................................... 5
+2.   Istruzioni operative ................................................................................................................ 7
+   2.1 La definizione di deposito .................................................................................................... 8
+   2.2 Le esclusioni dalla garanzia .................................................................................................. 8
+   2.3 Le regole di aggregazione dei dati ....................................................................................... 9
+     2.3.1       Depositi ammissibili ................................................................................................ 9
+     2.3.2       Ente senza personalità giuridica ............................................................................. 9
+     2.3.3       Conti congiunti ........................................................................................................ 9
+     2.3.4       Impresa individuale ................................................................................................. 9
+     2.3.5       Computo degli interessi .......................................................................................... 9
+     2.3.6       Assegni circolari .................................................................................................... 10
+     2.3.7       Depositi in pegno .................................................................................................. 10
+     2.3.8       Grande impresa..................................................................................................... 10
+     2.3.9       Fattispecie soggette a differimento del termine di rimborso .............................. 10
+     2.3.10      Schema riepilogativo delle regole......................................................................... 17
+   2.4 Il tracciato standard del flusso informativo relativo alla SCV ............................................ 18
+   2.5 Trasferimento dei file......................................................................................................... 18
+   2.6 Annullamento file SCV ....................................................................................................... 18
+   2.7 Annullamento di singole Istruzioni di pagamento ............................................................. 19
+                                                                                                                                               3
+
+ 4
+           SCV - Istruzioni per le Consorziate
+1. La Single Customer View (SCV)
+         1.1 Premessa
+         In base a quanto previsto dalla normativa, i tempi per il rimborso dei depositanti,
+         nel limite dei 100.000 euro per depositante e per banca, si riducono da 20 a 7 giorni
+         lavorativi, decorrenti dalla data in cui si producono gli effetti del provvedimento di
+         liquidazione coatta amministrativa della banca consorziata1.
+         Il rispetto del termine di rimborso implica un’ordinata e pianificata azione di tutti i
+         soggetti coinvolti nel processo e, ove necessario, una pronta raccolta delle risorse
+         presso le consorziate.
+         La normativa dispone che, su richiesta del sistema di garanzia dei depositanti, le
+         banche consorziate trasmettano tempestivamente le informazioni su depositi e
+         depositanti (art. 96-bis.2, comma 1 del TUB) necessarie ai fini del rimborso (art. 96-
+         bis.4, comma 1 del TUB), classificando i depositi in modo da consentirne
+         l’immediata identificazione.
+         Tale flusso informativo esprime la cosiddetta posizione aggregata per depositante,
+         o Single Customer View.
+         Le presenti Istruzioni per le consorziate, corredate da specifiche tecniche, hanno lo
+         scopo di disciplinare la modalità di produzione del flusso informativo contenente la
+         posizione aggregata per depositante.
+         Le Istruzioni entrano in vigore a decorrere dal 1 gennaio 2017.
+         1
+           Ai sensi dell’art. 85 del TUB, gli effetti della liquidazione coatta amministrativa si producono dalla data
+         di insediamento degli organi liquidatori.
+                                                                                                                      4
+
+5
+    SCV - Istruzioni per le Consorziate
+  1.2 La segnalazione al Fondo
+  Le banche consorziate segnalano attualmente al FITD il totale dei Fondi
+  Rimborsabili (FR), ai sensi dell’articolo 28, comma 1, lettera b) dello Statuto del
+  Fondo.
+  L’ammontare complessivo dei fondi rimborsabili (depositi protetti) della banca
+  individua l’aggregato denominato Base Contributiva (BC) sul quale sono effettuati i
+  calcoli per le quote di contribuzione ordinarie, straordinarie e aggiuntive (artt. 21-
+  23 dello Statuto), nonché per le quote relative alle spese di funzionamento (art. 25
+  dello Statuto).
+  In virtù delle citate previsioni statutarie e dell’apposito Glossario, le consorziate
+  segnalano al Fondo l’ammontare complessivo dei propri fondi rimborsabili con
+  cadenza trimestrale, fornendo altresì il dato relativo alla raccolta complessiva e
+  l’insieme delle esclusioni (Cfr. Figura 1).
+                                                                                         Figura 1
+                                                                    DEPOSITI
+           RACCOLTA                    ESCLUSIONI                 AMMISSIBILI
+                                   Segnalazione                 Aggregazione per
+                                Base Contributiva              singolo depositante
+                               (Secondo il Glossario)        (Secondo le Istruzioni SCV)
+  Le Istruzioni per effettuare la segnalazione sono contenute nel “Manuale delle
+  segnalazioni statutarie” e, per gli aspetti tecnici connessi all’interfaccia operativa
+  per la produzione dei dati, nel “Manuale del WebSacc”. Entrambi i documenti sono
+  a disposizione delle banche consorziate sul sito web del Fondo e mantenuti
+  costantemente aggiornati.
+  Con il recepimento della nuova direttiva sui sistemi di garanzia dei depositi, alla
+  segnalazione dei fondi rimborsabili prodotta dalle consorziate si aggiunge
+  obbligatoriamente la produzione della posizione aggregata per depositante.
+  Il totale delle posizioni aggregate non coincide necessariamente con il totale dei
+  fondi rimborsabili, in quanto le Istruzioni per la produzione della SCV differiscono in
+  taluni aspetti da quelle per la segnalazione dei fondi rimborsabili.
+  La SCV deve essere messa prontamente a disposizione del Fondo nel caso di
+  liquidazione coatta amministrativa della banca, ai fini del rimborso dei depositanti,
+                                                                                                5
+
+6
+    SCV - Istruzioni per le Consorziate
+  nonché in qualunque momento, nel corso dell’ordinaria gestione, su richiesta del
+  Fondo. Tali flussi informativi sono caratterizzati da un medesimo tracciato e da un
+  analogo contenuto informativo.
+  Le banche dovranno produrre la SCV, nel formato standard conforme alle
+  Istruzioni, almeno trimestralmente in corrispondenza con le scadenze segnaletiche
+  della base contributiva. L’invio al Fondo della SCV non deve, però, avere luogo con
+  la stessa periodicità della BC, ma solo su richiesta.
+                                                                                    6
+
+ 7
+           SCV - Istruzioni per le Consorziate
+2. Istruzioni operative
+         La segnalazione della SCV prevede:
+              a) la determinazione della posizione aggregata per depositante, secondo
+                   regole standard;
+              b) la produzione del flusso informativo, secondo un tracciato uniforme
+                   determinato dal FITD;
+              c) l’invio al FITD dell’insieme delle posizioni aggregate per depositante, nei
+                   tempi e con le modalità stabiliti dal Fondo.
+         Con riferimento, in particolare, alla segnalazione in itinere, non sono previsti una
+         frequenza e dei termini di invio fissi. Il flusso informativo può essere richiesto dal
+         Fondo in qualunque momento, ove necessario per l’effettuazione delle prove di
+         stress2 previste dalla normativa.
+         Il flusso informativo deve essere prodotto attraverso un sistema di estrazione dei
+         dati stabile e sempre assoggettabile a controlli per la verifica della conformità alle
+         Istruzioni.
+         La capacità delle consorziate di produrre, almeno trimestralmente, la SCV in
+         conformità alle Istruzioni del Fondo deve essere accertata dalla funzione di internal
+         audit della banca ogni anno, che ne dà evidenza in apposito rapporto da sottoporre
+         al consiglio di amministrazione, secondo le consuete procedure di audit. Ove
+         vengano accertate anomalie, copia del rapporto deve essere trasmessa al Fondo.
+         Una volta realizzato, il sistema di estrazione dei dati deve essere tenuto
+         costantemente aggiornato dalle consorziate, sulla base dell’evoluzione della
+         regolamentazione in materia e delle Istruzioni fornite dal FITD.
+         Ai fini delle segnalazioni relative alla base contributiva e alla SCV, il Fondo ha messo
+         a disposizione delle consorziate un nuovo Glossario, comprendente le voci della
+         matrice dei conti necessarie per la segnalazione, in linea con le previsioni dell’art.
+         96-bis.1 del TUB.
+         In caso di liquidazione coatta amministrativa della banca, il rimborso dei
+         depositanti avviene attraverso l’invio al Fondo della SCV entro 5 giorni dalla data di
+         insediamento dei liquidatori (primo invio), comprensivo dei depositi protetti al
+         netto delle fattispecie rimborsabili in una fase successiva e da un invio “a saldo”,
+         2
+           L’articolo 96-bis.3, comma 1, lettera b), del TUB dispone che i DGS effettuino prove di stress dei loro
+         sistemi almeno ogni tre anni; le informazioni richieste a tal fine alle banche consorziate sono conservate
+         per il tempo strettamente necessario allo svolgimento degli stress test.
+                                                                                                                  7
+
+8
+         SCV - Istruzioni per le Consorziate
+       entro 2 mesi dalla data di insediamento dei liquidatori (secondo invio). Ulteriori
+       invii intermedi o successivi al secondo possono essere previsti in caso di fattispecie
+       specifiche (es. assegni circolari, saldi temporanei elevati).
+  2.1 La definizione di deposito
+       Ai fini dell’individuazione dei fondi rimborsabili, l’art. 96-bis.1 del TUB stabilisce che
+       sono ammissibili (eligible) al rimborso i “crediti che possono essere fatti valere nei
+       confronti della banca in liquidazione coatta amministrativa, relativi ai fondi
+       acquisiti dalla banca con obbligo di restituzione, sotto forma di depositi o sotto
+       altra forma, nonché agli assegni circolari e agli altri titoli di credito ad essi
+       assimilabili”. Costituiscono depositi i certificati di deposito, purché non
+       rappresentati da valori mobiliari emessi in serie.
+       Da detto aggregato vanno dedotte le fattispecie soggettive e oggettive escluse dal
+       rimborso.
+       Ogni banca consorziata al FITD è chiamata ad aggregare, per ciascun depositante,
+       tutti gli strumenti oggetto di garanzia al medesimo intestati.
+  2.2 Le esclusioni dalla garanzia
+       Per quanto riguarda le esclusioni dalla garanzia, il TUB individua le seguenti
+       fattispecie:
+           a) i depositi effettuati in nome e per conto proprio da banche, enti finanziari
+                come definiti dall’articolo 4, paragrafo 1, punto 26, del Regolamento (UE) n.
+                575/2013 del Parlamento Europeo e del Consiglio del 26 giugno 2013,
+                imprese di investimento, imprese di assicurazione, imprese di
+                riassicurazione, organismi di investimento collettivo del risparmio, fondi
+                pensione, nonché enti pubblici;
+           b) i fondi propri come definiti dall’articolo 4, paragrafo 1, punto 118, del
+                Regolamento (UE) n. 575/2013 del Parlamento Europeo o del Consiglio del
+                26 giugno 2013;
+           c) i depositi derivanti da transazioni in relazione alle quali sia intervenuta una
+                condanna definitiva per i reati previsti dagli articoli 648-bis e 648-ter del
+                codice penale;
+           d) i depositi i cui titolari, al momento dell’avvio della procedura di liquidazione
+                coatta amministrativa, non risultano identificati ai sensi della disciplina in
+                materia di prevenzione dell'utilizzo del sistema finanziario a scopo di
+                riciclaggio dei proventi di attività criminose e di finanziamento del
+                terrorismo;
+                                                                                                8
+
+9
+         SCV - Istruzioni per le Consorziate
+           e) le obbligazioni e i crediti derivanti da accettazioni, pagherò cambiari e
+               operazioni in titoli.
+  2.3 Le regole di aggregazione dei dati
+       La determinazione della posizione aggregata per depositante richiede
+       l’identificazione dei depositi ammissibili riconducibili al medesimo depositante e
+       l’applicazione del livello di copertura di 100.000 euro.
+       L’insieme delle posizioni aggregate per depositante determina l’importo dei fondi
+       rimborsabili della banca, con la relativa ripartizione per scaglioni di importo definita
+       per la segnalazione della base contributiva.
+       Nell’aggregazione si deve tenere conto dei seguenti aspetti:
+       2.3.1 Depositi ammissibili
+       È necessario che le banche contrassegnino i depositi per consentirne l’immediata
+       identificazione (art. 96-bis.4 del TUB) ai fini dell’ammissibilità alla garanzia del
+       Fondo.
+       2.3.2 Ente senza personalità giuridica
+       I depositi di cui due o più soggetti sono titolari come partecipanti di un ente senza
+       personalità giuridica sono trattati come se fossero effettuati da un unico
+       depositante (art. 96-bis.1, comma 5, lett. a) del TUB).
+       2.3.3 Conti congiunti
+       L’ammontare del conto congiunto deve essere ripartito in parti uguali tra tutti i
+       cointestatari (art. 96-bis.1, comma 5, lett. b) del TUB).
+       2.3.4 Impresa individuale
+       La posizione aggregata per depositante deve tener conto nel cumulo anche delle
+       giacenze su conti relativi a imprese individuali riferibili al medesimo depositante.
+       2.3.5 Computo degli interessi
+       Gli interessi maturati al momento dell’insediamento dei commissari liquidatori non
+       devono confluire nel primo invio della posizione aggregata per depositante, ma
+       vanno inclusi nel secondo invio, rispettando i formati dei tracciati standard.
+       Gli interessi devono essere computati in caso di rimborso dei depositanti e non
+       vanno inseriti nelle segnalazioni periodiche della SCV.
+                                                                                              9
+
+1
+    SCV - Istruzioni per le Consorziate
+0
+  2.3.6 Assegni circolari
+  Gli assegni circolari non devono confluire nel primo invio della posizione aggregata
+  per depositante in caso di liquidazione né nelle segnalazioni periodiche.
+  In base al dettato normativo (art. 96-bis.1 del TUB), gli assegni circolari devono
+  considerarsi ammissibili al rimborso chiunque sia il “portatore”, che deve rivolgersi
+  al liquidatore e così ottenere il rimborso del Fondo fino a 100.000 euro.
+  Il liquidatore, effettuati i controlli, in caso di esito positivo è tenuto a inviare al
+  Fondo l’istruzione (singola) di pagamento per il rimborso dell’assegno circolare,
+  rispettando il tracciato standard (nazionale o estero). Nel caso in cui il depositante
+  abbia anche passività, invece, il rimborso dell’assegno circolare avviene nel
+  secondo invio.
+  2.3.7 Depositi in pegno
+  In caso di produzioni periodiche della SCV, i depositi in pegno a favore della banca
+  non devono confluire nella posizione aggregata per depositante, mentre devono
+  confluire nelle produzioni periodiche della BC.
+  In caso di liquidazione coatta sono soggetti a valutazione ad hoc.
+  2.3.8 Grande impresa
+  Le banche sono tenute ad aggiungere un contrassegno laddove il deposito è
+  riferibile a una grande impresa, ai fini dell’applicazione delle regole relative alla
+  depositor preference di cui all’art. 91, comma 1-bis del TUB.
+  Al riguardo, in relazione alle classificazioni specificate nel D.M. del 18 aprile 20053
+  “Adeguamento alla disciplina comunitaria dei criteri di individuazione di piccole e
+  medie imprese”, si richiede alla banca di porre un contrassegno in caso di grande
+  impresa, che si caratterizza dal numero di dipendenti superiore a 250.
+  2.3.9 Fattispecie soggette a differimento del termine di rimborso
+  Ai sensi dell’art. 96-bis.2, comma 2 del TUB, il sistema di garanzia dei depositi può
+  differire il termine di rimborso in taluni casi specifici.
+  Di seguito si riportano le fattispecie da non includere nel primo invio della SCV
+  predisposta per il rimborso dei depositanti, poiché soggette a sospensione del
+  rimborso e, ove necessario, ad accertamenti successivi.
+  3
+    Cfr. Raccomandazione della Commissione europea 2003/361.
+                                                                                       10
+
+1
+    SCV - Istruzioni per le Consorziate
+1
+  a. Incertezza sul diritto del titolare a ricevere il rimborso
+  Il Fondo può differire il rimborso “se vi è incertezza sul diritto del titolare a ricevere
+  il rimborso o il deposito è oggetto di una controversia in sede giudiziale o presso un
+  organismo di risoluzione stragiudiziale delle controversie, la cui definizione incide su
+  tale diritto o sull’ammontare del rimborso”.
+  In questo ambito rientrano il tema della compensazione, dei depositi delle banche,
+  degli altri intermediari e degli enti pubblici “in nome e per conto proprio” e i
+  depositi al portatore.
+  a.1) Compensazione (set-off)
+  L’art. 96-bis.1, comma 5, lettera c) del TUB, dispone che, nella determinazione
+  dell’importo rimborsabile, “si tiene conto della compensazione di eventuali debiti
+  del depositante nei confronti della banca, se esigibili alla data in cui si producono gli
+  effetti del provvedimento di liquidazione ai sensi dell’articolo 83, comma 1, nella
+  misura in cui la compensazione è possibile a norma delle disposizioni di legge o di
+  previsioni contrattuali applicabili”.
+  Passività esigibili
+  Ai fini dell’applicazione della compensazione, la banca deve aggiungere un
+  contrassegno laddove sia presente una qualunque passività riferibile al depositante
+  e inserirne l’importo totale nel file di SCV.
+  Nella estrazione (“produzione”) periodica della base contributiva e della SCV non si
+  deve tener conto della compensazione delle passività esigibili. Pertanto, occorre
+  includere nel calcolo tutte le posizioni indipendentemente dalla presenza del
+  contrassegno delle passività in questione. Nel caso specifico dell’estrazione della
+  SCV bisogna riportare, oltre al contrassegno, anche l’importo totale delle passività
+  all’interno del tracciato.
+  In caso di liquidazione, invece, tutte le posizioni che presentano tale contrassegno
+  sono escluse dal primo invio della SCV. Il liquidatore deve valutare tali posizioni
+  singolarmente, per l’applicazione della compensazione in caso di passività esigibili
+  alla data dell’indisponibilità dei depositi, per poi includerle nel secondo invio.
+  Inoltre, sempre in caso di liquidazione, si dovranno escludere dal primo invio anche
+  le posizioni che presentano eventuali interessi debitori. Se non si dispone di tali
+  informazioni alla data di calcolo, si dovranno considerare quelle alla fine del mese
+  precedente.
+  In caso di passività cointestate è utilizzata la stessa regola applicata ai depositi (vedi
+  paragrafo 2.3.3).
+  Tra le passività non vanno ricomprese quelle riferite ad attività (es. crediti) cedute e
+  non cancellate (es. con operazioni di cartolarizzazione o covered bond).
+                                                                                          11
+
+1
+    SCV - Istruzioni per le Consorziate
+2
+  Nel corso degli stress test può essere richiesto di produrre il file al netto oppure al
+  lordo delle passività:
+       1. file lordo: tutti i depositanti, ivi compresi quelli con qualunque passività;
+       2. file netto: tutti i depositanti senza passività e quelli con unica passività
+           riferita alle carte di credito.
+  Carte di credito
+  La banca deve aggiungere un contrassegno laddove siano presenti carte di credito.
+  In caso di liquidazione coatta, nel primo invio devono confluire tutte le posizioni
+  sulle quali è presente solo il contrassegno riferito alle carte di credito. All’importo
+  da rimborsare in 7 giorni deve essere sottratto il massimale della carta di credito (o
+  la somma dei massimali in caso di più carte di credito), per poi effettuarne il saldo
+  al secondo invio.
+  Se oltre alle carte di credito sono presenti anche altre passività, la posizione
+  aggregata del depositante non confluisce nel file del primo invio, ma nel secondo.
+  In caso di produzioni periodiche della base contributiva e della SCV, non si richiede
+  alcuna compensazione delle passività relative alle carte di credito.
+  Esempi:
+  1) Il depositante possiede un deposito di € 10.000 e una carta di credito con
+       massimale di € 2.000.
+       Le istruzioni di pagamento includono le seguenti informazioni:
+                                               1° invio:
+                               Importo passività         Fondi rimborsabili   Fondi oggetto
+  Passività Carte di
+                                (massimale mensile)        (importo rimborso)  della tutela
+                credito
+      No           Si                 2.000                     8.000            10.000
+                                               2° invio:
+     viene verificato che la passività della carta di credito è di € 500; al depositante è
+                        rimborsata la parte non utilizzata del massimale
+                                                       Fondi rimborsabili     Fondi oggetto
+  Passività Carte di          Importo passività
+                                                          (importo rimborso)   della tutela
+                credito
+      No           Si                  500                     1.500             10.000
+                                                                                            12
+
+1
+    SCV - Istruzioni per le Consorziate
+3
+                               Produzione periodica BC e SCV:
+                                                    Fondi rimborsabili      Fondi oggetto
+  Passività Carte di        Importo passività
+                                                      (importo rimborso)      della tutela
+               credito
+      No          Si              2.000                    10.000                10.000
+  2) Il depositante possiede un deposito di € 10.000, una carta di credito con
+      massimale di € 2.000 e un finanziamento di € 7.000
+      Le istruzioni di pagamento includono le seguenti informazioni:
+                1° invio: la posizione non confluisce nel file del primo invio
+                                            2° invio:
+   viene verificato che la passività reale della carta di credito è di € 500 e che una rata
+  del finanziamento da € 500 è esigibile. Pertanto, alla passività di € 7.000 si aggiunge
+     quella ulteriore di € 500. La parte esigibile è pari a € 1.000 e i fondi rimborsabili
+                     sono dati dalla differenza di € 10.000 meno € 1.000.
+                                                    Fondi rimborsabili      Fondi oggetto
+  Passività Carte di        Importo passività
+                                                      (importo rimborso)      della tutela
+               credito
+      Si          Si              7.500                    9.000                 10.000
+                               Produzione periodica BC e SCV:
+                                                    Fondi rimborsabili      Fondi oggetto
+  Passività Carte di        Importo passività
+                                                      (importo rimborso)      della tutela
+               credito
+      Si          Si              9.000                    10.000                10.000
+  a.2) Depositi delle banche, degli altri intermediari e degli enti pubblici “in nome e
+  per conto proprio” ai sensi dell’art.96-bis.1, comma 2, lett.a) del Testo Unico
+  Bancario
+  La nuova disciplina estende il novero degli enti cui la previsione è applicabile,
+  rispetto a quanto stabilito dalla Direttiva 2014/49/UE che si riferisce solo alle
+  banche. Pertanto, sono da considerarsi oggetto di tutela i depositi effettuati dai
+  soggetti citati dalla norma in nome proprio ma per conto di un depositante
+                                                                                           13
+
+1
+     SCV - Istruzioni per le Consorziate
+4
+  ammissibile alla garanzia. Ciò rileva nell’ipotesi di liquidazione coatta
+  amministrativa, nell’ambito della quale tali fattispecie saranno comunque oggetto
+  di: i) differimento del rimborso ai fini dell’identificazione degli aventi diritto e ii)
+  valutazione specifica da parte del commissario liquidatore.
+  In caso di produzioni periodiche della base contributiva e SCV, sono trattati come
+  fattispecie escluse dalla tutela.
+  a.3) Depositi al portatore
+  Ai sensi della nuova disciplina, ai fini della tutela, tutti i depositi devono essere
+  identificati, ivi inclusi i depositi al portatore.
+  I depositi al portatore emessi prima della nuova regolamentazione, per i quali la
+  banca non abbia ancora provveduto all’identificazione dei titolari, sono oggetto di
+  differimento del rimborso.
+  b. Conti dormienti
+  Ai sensi dell’art. 96-bis.2, comma 2, lettera c) del TUB, il Fondo può differire il
+  rimborso “se non è stata effettuata alcuna operazione relativa al deposito nei
+  ventiquattro mesi precedenti la data di cui al comma 1; in questo caso il rimborso è
+  effettuato entro sei mesi dalla data di cui al comma 1, fermo restando che non è
+  dovuto alcun rimborso se il valore del deposito è inferiore ai costi amministrativi che
+  il sistema di garanzia sosterrebbe per effettuare il rimborso medesimo”.
+  Ai fini dell’identificazione dei conti dormienti, la banca è tenuta ad apporre un
+  contrassegno, indipendentemente dal loro importo.
+  L’ importo dei costi amministrativi, al di sotto del quale il deposito dormiente non è
+  rimborsato, è stabilito in 100 euro4.
+  Nell’eventualità in cui il depositante abbia un conto dormiente e anche un conto
+  attivo, non bisogna apporre il contrassegno in questione. La posizione aggregata
+  terrà conto, pertanto, di entrambi i depositi.
+  c. Saldi temporanei elevati (temporary high balances - THB)
+  Ai sensi dell’art. 96-bis.1, comma 4) del TUB, per saldi temporanei elevati si
+  intendono i depositi di persone fisiche cui è accordata una tutela oltre i 100.000
+  euro per un periodo di 9 mesi successivi al loro accredito o al momento in cui
+  diventano disponibili, qualora relativi a specifiche fattispecie5.
+  4
+    Cfr D.P.R. n.116 del 22 giugno 2007 in materia di depositi dormienti.
+  5
+    Tale disposizione si applica ai “depositi di persone fisiche aventi a oggetto importi derivanti da: a)
+  operazioni relative al trasferimento o alla costituzione di diritti reali su unità immobiliari adibite ad
+  abitazione; b) divorzio, pensionamento, scioglimento del rapporto di lavoro, invalidità o morte; c) il
+                                                                                                         14
+
+1
+     SCV - Istruzioni per le Consorziate
+5
+  Non si richiede l’apposizione del contrassegno per i THB. Pertanto, non sono inclusi
+  nel primo invio della posizione aggregata per depositante in caso di liquidazione o
+  nelle segnalazioni periodiche.
+  Ai sensi dell’art. 96-bis.2, comma 2, lett. d) del TUB, il rimborso dei THB, per la
+  parte eccedente i 100.000 euro, è soggetto a differimento ed è effettuato entro sei
+  mesi dalla data in cui si producono gli effetti del provvedimento di liquidazione
+  coatta amministrativa della banca.
+  I commissari liquidatori, ricevuta la richiesta da parte del depositante, effettuano
+  l’istruttoria e trasmettono la proposta, unitamente alla relativa documentazione, al
+  Fondo per le decisioni. Il Fondo informa il depositante dell’esito dell’istruttoria e
+  della decisione assunta e provvede al rimborso decorsi 15 giorni dalla
+  comunicazione.
+  In ogni caso, qualora il depositante abbia anche passività, il rimborso del THB non
+  può avvenire prima che sia stato effettuato il secondo invio della SCV.
+  d. Succursali comunitarie
+  Nel caso in cui la banca abbia succursali in un altro paese dell’Unione europea6, è
+  necessario predisporre un tracciato specifico.
+  Secondo l’art. 96-quater.2 del TUB, il rimborso dei depositanti delle succursali
+  italiane di banche comunitarie è effettuato dal Fondo per conto del sistema di
+  garanzia dello Stato membro di origine, sulla base delle istruzioni fornite dal
+  medesimo e dopo che questi ha messo a disposizione del Fondo le risorse
+  necessarie.
+  L’art. 96-bis.2, comma 2, lett. e) del TUB, dispone che il termine di 7 giorni
+  lavorativi per il rimborso dei depositanti decorra, in tal caso, dalla data in cui il
+  sistema di garanzia italiano ha ricevuto dal DGS del paese di origine le risorse
+  necessarie a provvedervi.
+  Le norme sulla cooperazione tra sistemi di garanzia dei depositi, introdotte dalla
+  DGSD e recepite in Italia, implicano che il rimborso dei depositanti delle succursali
+  di banche italiane in paesi comunitari avvenga, in modo analogo, attraverso il
+  sistema di garanzia del paese ospitante.
+  I tracciati, le comunicazioni e i trasferimenti di file tra i vari DGS sono basati su
+  standard tecnici specifici, ricompresi nel framework di cooperazione internazionale
+  definito dall’EFDI (European Forum of Deposit Insurers).
+  pagamento di prestazioni assicurative, di risarcimenti o di indennizzi in relazione a danni per fatti
+  considerati dalla legge come reati contro la persona o per ingiusta detenzione”.
+  6
+    I 28 paesi membri dell’Unione europea sono: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca,
+  Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta,
+  Paesi Bassi, Polonia, Portogallo, Regno Unito, Repubblica ceca, Romania, Slovacchia, Slovenia, Spagna,
+  Svezia, Ungheria.
+                                                                                                     15
+
+1
+   SCV - Istruzioni per le Consorziate
+6
+  La banca, per la costruzione del tracciato estero, deve tenere conto dei seguenti
+  elementi:
+     <U+F0B7> nel caso in cui il depositante abbia più conti in diversi Stati, il rimborso deve
+         avvenire nello Stato di residenza e la posizione aggregata deve confluire nel
+         tracciato corrispondente (nazionale o estero);
+     <U+F0B7> nel caso in cui il depositante abbia più conti in diversi Stati e la residenza in
+         un ulteriore Stato, il rimborso deve avvenire in Italia, facendo confluire la
+         posizione aggregata nel tracciato nazionale;
+     <U+F0B7> la valuta di rimborso è l’euro;
+     <U+F0B7> il file del tracciato estero è unico. Nel caso in cui siano coinvolti sistemi di
+         garanzia di più Stati, il Fondo provvede alla suddivisione del tracciato in tanti
+         file quanti sono gli Stati coinvolti;
+     <U+F0B7> i depositi delle succursali stabilite in Paesi extracomunitari non confluiscono
+         nella posizione aggregata per depositante.
+                                                                                       16
+
+   1
+                     SCV - Istruzioni per le Consorziate
+   7
+                  2.3.10 Schema riepilogativo delle regole
+                                   Segnalazione             Produzione
+                                                                                          SCV                    SCV
+                                periodica della BC      periodica della SCV
+                                                                                      primo invio          secondo invio
+                                    (trimestrale)           (trimestrale)
+                                               Segnalazione BC                                   Liquidazione
+  Depositi ammissibili                    Si                      Si                       Si                     Si
+        Ente senza
+                                          Si                      Si                       Si                     Si
+ personalità giuridica
+      Conti congiunti                     Si                      Si                       Si                     Si
+  Impresa individuale                     Si                      Si                       Si                     Si
+      Computo degli
+                                          Si                     No                        No                     Si
+          interessi
+     Assegni circolari                    Si                     No                        No                  Si/No(1)
+    Depositi in pegno                     Si                     No                        No                  Si/No(2)
+     Grande impresa                       Si                      Si                       Si                     Si
+      Compensazione                      No                      No                        No                     Si
+Posizioni con qualunque
+ passività (eccetto carte                 Si                      Si                       No                     Si
+         di credito)
+  Posizioni con passività
+     relative a carte di                  Si                      Si                    Si/No(3)                  Si
+            credito
+    Depositi in nome e
+                                         No                      No                        No                   No(4)
+    per conto proprio
+      Conti dormienti                    Si(5)                   Si(5)                    Si(5)                  Si(5)
+     Saldi temporanei
+                                         No                      No                        No                  Si/No(6)
+       elevati (THB)
+         Succursali
+       comunitarie                        Si                      Si                      Si(7)                  Si(7)
+        (se presenti)
+(1)
+            Il rimborso avviene solo a seguito della richiesta del depositante e il dato può essere inviato al Fondo
+            singolarmente oppure confluire nel secondo invio.
+(2)
+            Il rimborso avviene solo dopo una valutazione ad hoc da parte del liquidatore.
+(3)
+            La posizione è inclusa se presente solo la passività relativa a carte di credito ed è esclusa se abbinata ad altri
+            tipi di passività.
+(4)
+            Sono rimborsabili solo i depositi dei soggetti di cui all’art. 96-bis.1, comma 2, lett. a) del TUB, effettuati per
+            conto di soggetti aventi diritto al rimborso.
+(5)
+            Se superiori alla soglia dei 100 euro.
+(6)
+            Il rimborso del THB avviene a seguito della richiesta del depositante e accertata dal liquidatore. Il dato può
+            essere inviato al Fondo singolarmente o può confluire nel secondo invio.
+(7)
+           Il termine del rimborso è differito.
+                                                                                                                           17
+
+1
+          SCV - Istruzioni per le Consorziate
+8
+  2.4 Il tracciato standard del flusso informativo relativo alla SCV
+        Ai fini della piena funzionalità del sistema, in coerenza con il dettato normativo, le
+        banche consorziate sono chiamate a standardizzare la produzione della posizione
+        aggregata per depositante, in conformità alle istruzioni fornite dal Fondo.
+        Al riguardo, in base alle esigenze emerse, sono stati definiti due tracciati contenenti
+        una serie di informazioni atte a soddisfare la procedura di rimborso.
+        Il primo tracciato viene utilizzato per rimborsare i depositanti con conti presso filiali
+        nazionali, mentre il secondo tracciato viene utilizzato per il rimborso dei
+        depositanti presso le filiali in un altro paese comunitario.
+        In entrambi i casi, i tracciati rappresentano Istruzioni di pagamento.
+        Inoltre, relativamente al tracciato nazionale, ogni file può contenere un massimo di
+        100.000 Istruzioni di pagamento; nell’eventualità che si superi il limite massimo,
+        sarà necessario generare più file.
+        Nel caso della segnalazione in itinere, su richiesta del Fondo, i dati personali devono
+        essere oscurati, fatta eccezione per la matricola del beneficiario. Nello specifico,
+        ciascuna banca consorziata deve essere in grado di produrre un file secondo
+        quanto specificato in Appendice.
+  2.5 Trasferimento dei file
+        Il liquidatore è tenuto a inviare al Fondo i file delle Istruzioni di pagamento tramite
+        protocollo SFTP (SSH File Transfer Protocol).
+        Il collegamento al server del Fondo può avvenire attraverso un programma client di
+        trasmissione file SFTP.
+        Per l’accesso al server è necessario che il liquidatore invii al Fondo un messaggio di
+        posta elettronica (preferibilmente certificata) contenente l’indirizzo IP del
+        computer di invio dei file e che il Fondo invii al liquidatore, con lo stesso mezzo, le
+        credenziali di accesso (se non già in suo possesso).
+        I file accettati sono quelli con estensione .TXT e .CSV .
+  2.6 Annullamento file SCV
+        Il liquidatore può richiedere l’annullamento di un file SCV già consegnato al Fondo,
+        se la banca tesoriera non ha già messo in circolarità le disposizioni di pagamento.
+                                                                                              18
+
+1
+         SCV - Istruzioni per le Consorziate
+9
+       Il liquidatore deve inviare tempestivamente la richiesta tramite PEC (Posta
+       Elettronica Certificata), specificando il “titolo del flusso” contenuto nel file SCV o il
+       nome del file da annullare.
+  2.7 Annullamento di singole Istruzioni di pagamento
+       Il liquidatore può richiedere l’annullamento di alcune disposizioni di pagamento
+       contenute nel file di SCV inviando al Fondo, tramite PEC, la lista dei “Codici univoci
+       di pagamento”.
+       Il buon esito dell’annullamento dipende dalla tempestività della richiesta del
+       liquidatore.
+                                                                                             19
+

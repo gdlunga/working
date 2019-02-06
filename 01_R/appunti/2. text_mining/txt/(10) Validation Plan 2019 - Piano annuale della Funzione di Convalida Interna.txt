@@ -1,0 +1,888 @@
+                                                                                                                                        19
+                                                                                                                         AT
+                                                                                                           Protocollo Sisifo: 45B7352119
+     FUNZIONI COMPILATRICI:
+     Servizio Validazione Sistemi di Rischio - MPS
+                                                                           Proposta per:
+                                                                           Consiglio Di Amministrazione - MPS
+                                                                                                                            O
+                                                                                                                    Siena, 24/01/2019
+     OGGETTO:
+     Validation Plan 2019 - Piano annuale della Funzione di Convalida Interna                              MI
+      Indice degli allegati:
+      1) Allegato 1 – Validation Plan 2019                                                                    T
+      1. MOTIVAZIONE
+      <U+F0A7> Le Disposizioni di Vigilanza vigenti prevedono che l’Organo con funzione di    CO
+          supervisione strategica approvi il processo di convalida dei sistemi interni di
+          misurazione dei rischi, compresi quelli non utilizzati ai fini regolamentari.
+      <U+F0A7>     Al fine di definire la pianificazione delle attività e dei controlli che la Funzione di
+                                                                             E
+            Convalida Interna propone di svolgere nell’anno corrente, si sottopone al CdA per
+            l’approvazione il Validation Plan 2019 allegato.
+                                                     ZI
+      <U+F0A7>     Prima di essere sottoposto all’approvazione del CdA, il Validation Plan è stato
+            esaminato dal Comitato Rischi e dal Collegio Sindacale.
+      2. ELEMENTI CHIAVE DELLA DECISIONE DA ASSUMERE
+                                                       ON
+      <U+F0A7> Ai sensi di quanto previsto dalla Circolare 285 della Banca d’Italia, l’Organo con
+           funzione di supervisione strategica “… con cadenza almeno annuale, approva il
+           programma di attività (…) ed esamina le relazioni annuali predisposte dalle funzioni
+                    EN
+           aziendali di controllo”.
+      <U+F0A7>     Il Piano delle attività della Funzione di Convalida Interna (Validation Plan) per l’anno
+            2019 è sottoposto per formale approvazione. Il perimetro 2019 ricomprende i Sistemi
+            di misurazione del rischio di credito (SRI – AIRB), dei rischi operativi (AMA), del Tasso
+                      TA
+            di Interesse del Banking Book nonché dei modelli di impairment IFRS9 in ambito
+            Credito. La validazione del Sistema di misurazione del Rischio Liquidità è sospesa
+            garantendo solo le analisi a presidio dei Model Change mentre si sviluppa il
+            complesso delle nuove attività connesse al Model Risk Management.
+ CU   3. INFORMAZIONI RILEVANTI
+      La Funzione di Convalida Interna di Capogruppo presidia l’insieme formalizzato di attività,
+      strumenti e procedure volti a valutare l’accuratezza delle stime di tutte le componenti
+    M
+      rilevanti di rischio ed esprime un giudizio in merito al regolare funzionamento, alla
+      capacità predittiva e alla performance dei sistemi interni di misurazione dei rischi.
+      Il piano di Convalida 2019 ricomprende così gli elementi obbligatori richiesti dalla
+      normativa di vigilanza (Regolamento UE 575/2014, Circolare 285 della Banca d’Italia e
+DO   24/01/2019 - Proposta per Consiglio Di Amministrazione - MPS - Validation Plan 2019 - Piano annuale
+     della Funzione di Convalida Interna
+                                                                                                                    Pagina 1 di 5
+
+                                                                                                                                       19
+                                                                                                                         AT
+                                                                                                           Protocollo Sisifo: 45B7352119
+      normativa EBA) per i rischi in perimetro nonché gli adempimenti formali necessari per il
+      continuo contributo al miglioramento dei modelli interni di misurazione, ivi comprese le
+      indicazioni per lo sviluppo e l’evoluzione dei sistemi IT a supporto.
+      In particolare, le attività ed i controlli da condurre nell’esercizio 2019 perseguono
+                                                                                                                            O
+      l’obiettivo di valutare la coerenza dei Sistemi di misurazione del rischio di credito (SRI –
+      AIRB), dei rischi operativi (AMA), del Tasso di Interesse del Banking Book nonché dei                MI
+      modelli di impairment IFRS9 in ambito Credito, rispetto alle policy aziendali ed alla
+      regolamentazione delle Autorità di Vigilanza. Relativamente al Sistema di misurazione del
+      Rischio di Liquidità sono previste esclusivamente le analisi dei Model Change che
+      potranno essere apportati.
+                                                                                                              T
+                                                                                       CO
+      Facendo seguito ad un rilievo dell’Autorità di Vigilanza, nell’anno sarà sviluppato il
+      complesso delle attività connesse al Model Risk Management, per quanto di competenza
+      della Funzione di Convalida Interna e della Funzione MRM che sono entrambe erogate dal
+      Servizio scrivente, motivo per cui il Responsabile della Funzione di Convalida Interna è
+      Responsabile anche della Funzione di Model Risk. Tra queste rilevano, in particolare, le
+      analisi dei Model Change ai sistemi di misurazione in perimetro, le analisi circa alcune
+      tipologie di documenti relativi ai modelli, la redazione dell’Inventario dei Modelli Interni
+                                                                             E
+      nonché la predisposizione di un report periodico circa la performance dei modelli validati.
+      Con riferimento alla validazione del Sistema dei Rating Interni SRI-AIRB sono previste le
+                                                  ZI
+      analisi di Convalida propedeutiche per l’istanza di Model Change materiale, da presentare
+      a BCE entro il primo semestre 2019, e che include la ricalibrazione dei modelli di PD, la
+                                                    ON
+      ristima dei modelli di LGD, la stima specifici modelli di calcolo dell’ELBE (Expected
+      Losses Best Estimates) e degli RWA sui defaulted assets.
+      Il Piano alloca, inoltre, le attività necessarie per il superamento delle criticità e delle
+      decision evidenziate dall’Autorità di Vigilanza (decision IMI40 del 14 Giugno 2018
+      nonché i rilievi TRIM General Topics del 15 Gennaio 2018 e TRIM Investigation 2017). In
+      particolare, la BCE ha previsto per la funzione di Convalida Interna attività di analisi su
+                   EN
+      ambiti specifici, quali l’eliggibilità delle garanzie nell’ambito del framework CRM e le
+      modalità di trattamento delle posizioni beneficiarie di moratoria nonché, per taluni findings
+      in carico ad altre funzioni aziendali, l’espressione di un parere in merito alla rispondenza
+      delle soluzioni implementate. Inoltre, l’Autorità ha richiesto un potenziamento delle analisi
+                     TA
+      di Convalida anche mediante la predisposizione di metodologie e componenti modellistiche
+      “challenging” con cui sfidare le assunzioni dei modelli implementati dalla funzione di
+      sviluppo. Sempre originata da BCE, ma in ambito Rischi Operativi, è prevista una specifica
+      serie di analisi da formalizzare nel Report on Validation of Operational Risk Model.
+      Il Piano prevede, inoltre, l’impegno richiesto a supporto degli accessi ispettivi dell’Autorità
+      di Vigilanza, in particolare per la TRIM Investigation in ambito AIRB (TRIM3917)
+ CU
+      attualmente in corso, seguita da On Site Inspection in ambito Rischio Tasso di Interesse del
+      Banking Book con avvio atteso nel secondo trimestre 2019 e dall’accesso connesso
+      all’istanza di Model Change materiale suddetta che è stato comunicato prenderà avvio nel
+      terzo trimestre.
+    M Il Framework di riferimento per la Convalida si sviluppa in tre ambiti: Processi, Modelli e
+      Dati. Tra questi, il principale è quello connesso all’analisi dei modelli di misurazione e
+      delle relative performance. La componente Processi valuta il design e, laddove possibile, la
+      performance di quei processi da cui dipende l’entità delle misurazioni ottenute con i
+DO   24/01/2019 - Proposta per Consiglio Di Amministrazione - MPS - Validation Plan 2019 - Piano annuale
+     della Funzione di Convalida Interna
+                                                                                                                    Pagina 2 di 5
+
+                                                                                                                                       19
+                                                                                                                         AT
+                                                                                                           Protocollo Sisifo: 45B7352119
+      Modelli. Nell’ambito Dati è analizzato il processo di individuazione e di risoluzione delle
+      anomalie rilevate dai Data Owner mediante controlli documentati e con esito tracciabile
+      nella procedura IRION DQ.                                                                                             O
+      I Framework specifici dei rischi regolamentari validati sono oggetto di manutenzione e le
+      modifiche degne di nota verranno documentate e comunicate all’Autorità di Vigilanza
+      secondo le modalità previste, tenuto conto anche di quanto rilevato da BCE nell’ambito               MI
+      della TRIM 2017.
+      Specifiche analisi sono dedicate alle Società MPS Capital Services Banca per le Imprese
+      SpA e MPS Leasing & Factoring SpA per le quali , essendo autorizzate all’utilizzo dei
+      modelli avanzati in ambito AIRB e AMA, sono in essere contratti di esternalizzazione delle
+                                                                                                              T
+                                                                                       CO
+      attività operative alla Funzione di Convalida di Capogruppo. Inoltre, nel 2019 è previsto
+      anche il roll-out di Widiba incrementando così il complesso delle attività svolte per le
+      controllate.
+      Come previsto dalla Direttiva di Gruppo in materia di Convalida Interna il Responsabile
+      della Funzione di Convalida Interna ha definito le linee guida per lo sviluppo del
+      Validation Plan. In particolare, trattasi di #14 linee guida, molte delle quali fanno espresso
+                                                                             E
+      riferimento ad attività prescrittive nei confronti dell’Autorità di Vigilanza.
+      Il Validation Plan è sviluppato sulla base del dimensionamento medio atteso del Servizio di
+                                                  ZI
+      14 risorse full-time, pari al dimensionamento attuale. Rispetto al Validation Plan 2018
+      aumenta l’impegno previsto in ambito Rischio di Credito – Sistema dei Rating Interni
+      (AIRB - SRI) e Tasso di Interesse del Banking Book (IRRBB), in previsione anche degli
+                                                    ON
+      accessi dell’Autorità di Vigilanza, mentre si riduce quello sugli altri rischi in perimetro
+      tenuto conto anche delle risorse allocate per l’erogazione delle attività di Model Risk
+      Management.
+      Da un punto di vista IT le nuove previste verranno svolte con strumenti estemporanei
+      predisposti dalla Funzione. I soli interventi ricompresi nel Piano Progetti 2019 riguardano
+      l’aggiornamento della struttura delle basi dati di Convalida nonché il completamento di
+                   EN
+      parte degli interventi che, pur ricompresi nel Piano Progetti 2018, non sono stati completati
+      entro l’anno di riferimento. È prevista, infine, una consulenza metodologica per il supporto
+      alla validazione dei nuovi modelli AIRB ed IFRS9.
+      Per far fronte alle suddette iniziative progettuali di carattere straordinario la Funzione di
+                     TA
+      Convalida Interna della Capogruppo stima di utilizzare i seguenti stanziamenti di spesa per
+      l’anno 2019:
+          - Interventi ICT Capex: 100 k€;
+          - Interventi ICT Opex: 270 k€;
+          - Consulenze Opex: 100 k€;
+      per un ammontare complessivo di 470 k€ (di cui 370 k€ Opex), previsto nel Budget di
+ CU
+      Gruppo 2019.
+      Il Piano dettagliato è riportato nell’ambito del documento allegato.
+    M
+      4. CONDIVISIONI/PARERI PREVENTIVI:
+      Prima di essere sottoposto all’approvazione del CdA, il Validation Plan è stato esaminato
+      dal Comitato Rischi e dal Collegio Sindacale.
+DO   24/01/2019 - Proposta per Consiglio Di Amministrazione - MPS - Validation Plan 2019 - Piano annuale
+     della Funzione di Convalida Interna
+                                                                                                                    Pagina 3 di 5
+
+                                                                                                                                       19
+                                                                                                                         AT
+                                                                                                           Protocollo Sisifo: 45B7352119
+                                                                                                                            O
+                                                                                                           MI
+                                                                                                              T
+                                                                                       CO
+                                                                             E
+                                                  ZI
+                                                    ON
+                   EN
+                     TA
+ CU
+    M
+DO   24/01/2019 - Proposta per Consiglio Di Amministrazione - MPS - Validation Plan 2019 - Piano annuale
+     della Funzione di Convalida Interna
+                                                                                                                    Pagina 4 di 5
+
+                                                                                                                                       19
+                                                                                                                         AT
+                                                                                                           Protocollo Sisifo: 45B7352119
+                                   Il Responsabile della Direzione Chief Risk Officer
+                                                                                                                            O
+                                                                PROPONE
+                                                                                                           MI
+                         al Consiglio Di Amministrazione di adottare la seguente delibera:
+              il Consiglio Di Amministrazione esaminata la proposta del 24 Gennaio 2019
+                  redatta dal Servizio Validazione Sistemi di Rischio avente ad oggetto:
+                                                                                                              T
+                                                                                       CO
+       " Validation Plan 2019 - Piano annuale della Funzione di Convalida Interna ", riposta agli
+       atti con il n. ____/2019, su proposta del Responsabile della Direzione Chief Risk Officer,
+          preso atto che il Comitato Rischi ha esaminato, preventivamente, la proposta citata in
+                                     premessa della presente delibera
+                                                               DELIBERA
+                                                                             E
+                                                  ZI
+     -) di approvare il Validation Plan 2019 secondo quanto dettagliato nella documentazione
+     allegata alla presente Proposta;
+                                                    ON
+     -) di approvare lo stanziamento a valere sulle previsioni di spesa per l’anno 2019 pari a
+     complessivi 470 k€, di cui interventi ICT Capex pari a circa 100 k€, ICT Opex 270 k€ e
+     Consulenze Opex 100 k€.
+                   EN
+      Allegato File: Validation Plan_2019.pdf
+                     TA
+ CU
+    M
+DO   24/01/2019 - Proposta per Consiglio Di Amministrazione - MPS - Validation Plan 2019 - Piano annuale
+     della Funzione di Convalida Interna
+                                                                                                                    Pagina 5 di 5
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 1 di 11
+                                                                                    19
+                                                                          AT
+                                                                             O
+                                                                        MI
+     Siena, 23 Gennaio 2019
+                                                                           T
+                                                                    CO
+                                                                    E
+                         VALIDATION PLAN 2019   IO
+                                                   N
+                               TA
+                                  Z
+                  EN
+ CU
+    M
+DO   GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                      Pag. 1 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 2 di 11
+                                                                                                                                                                              19
+                                                                                                                                                            AT
+                                                                                                                                         VALIDATION PLAN 2019
+     Indice
+                                                                                                                                                               O
+        Indice .................................................................................................................................................................... 2
+        1. Contesto di riferimento ................................................................................................................................ 3
+                                                                                                                                   MI
+           1.1 Introduzione .............................................................................................................................................. 3
+           1.2 Assetto organizzativo della Funzione di Convalida ....................................................................... 4
+        2. Linee guida per la pianificazione delle attività 2019 .......................................................................... 4
+                                                                                                                                      T
+           2.1 Linee Guida di riferimento .................................................................................................................... 4
+           2.2 Framework di Convalida ....................................................................................................................... 6
+        3. Validation Plan 2019 ..................................................................................................................................... 7
+                                                                                                             CO
+                                                                                                E
+                                                                      IO
+                                                                         N
+                                           TA
+                                              Z
+                       EN
+ CU
+    M
+DO   GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                                                                                        Pag. 2 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 3 di 11
+                                                                                                      19
+                                                                                          AT
+                                                                                VALIDATION PLAN 2019
+     1. Contesto di riferimento
+     1.1 Introduzione
+                                                                                             O
+     La Funzione di Convalida Interna di Capogruppo è una delle Funzioni Aziendali di Controllo
+                                                                            MI
+     previste dalla normativa di Vigilanza. Tale Funzione è assolta dal Servizio Validazione Sistemi
+     di Rischio (SVSR) a riporto diretto del Chief Risk Officer.
+                                                                               T
+                                                                    CO
+                                                                    E
+     La Funzione verifica nel continuo l’affidabilità dei risultati dei Sistemi di misurazione dei rischi
+     regolamentari autorizzati dall’Autorità di Vigilanza e di taluni di quelli gestionali rientranti nel
+                                                IO
+     perimetro di validazione nonché la coerenza di tali Sistemi rispetto alle prescrizioni normative.
+     Il Validation Plan 2019 ricomprende gli elementi obbligatori richiesti dalla normativa di vigilanza
+                                                   N
+     (Regolamento UE 575/2013, Circolare 285 della Banca d’Italia e normativa EBA) per i rischi in
+     perimetro nonché gli adempimenti necessari per il miglioramento dei modelli interni esistenti di
+     misurazione e di convalida, ricomprendendo anche l’evoluzione dei sistemi IT a supporto.
+     Il Validation Plan ricomprende, inoltre, quanto in carico alla scrivente Funzione nell’ambito delle
+                               TA
+     recenti verifiche BCE e relativi findings (IMI40, TRIM General Topics e TRIM Investigation
+     2017). Diverse Obligation individuate da BCE richiedono interventi diretti da parte della
+                                  Z
+     Funzione di Convalida Interna mentre altre richiedono specifiche analisi a conferma della validità
+     degli interventi risolutivi predisposti da altre Funzioni. Il Piano di risoluzione è oggetto di
+     monitoraggio periodico nell’ambito di apposito Steering Committee e di informativa al CdA.
+     Inoltre, è utile evidenziare l’introduzione di attività specifiche di Model Risk secondo quanto
+                  EN
+     disciplinato dalla Direttiva in materia di Gestione del Rischio Modello che vede un ruolo centrale
+     della scrivente Funzione. Tra queste rientra anche la gestione in Rigam dei GAP BCE, nello stato
+     di Decision, connessi ai modelli validati.
+     Il Framework attuale di Convalida si sviluppa in tre ambiti: Processi, Modelli e Dati. Tra questi,
+     il principale è quello connesso all’analisi dei modelli di misurazione e delle relative performance.
+ CU  La componente Processi valuta il design e, laddove possibile, la performance di quei processi da
+     cui dipende l’entità delle misurazioni ottenute con i Modelli. Nell’ambito Dati è analizzato il
+     processo di individuazione e di risoluzione delle anomalie rilevate dai Data Owner mediante
+    M
+     controlli documentati e con esito tracciabile all’interno della procedura IRION DQ. In tal modo
+     il presidio non si sovrappone con le responsabilità attribuite al Chief Data Officer o ad altre
+     Funzioni di Gruppo né con il complessivo processo di Data Governance di Gruppo.
+DO   GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                      Pag. 3 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 4 di 11
+                                                                                                                                                19
+                                                                                                                                 AT
+                                                                                                                  VALIDATION PLAN 2019
+     1.2 Assetto organizzativo della Funzione di Convalida
+     Con la ristrutturazione della Direzione Chief Risk Officer la Funzione di Convalida Interna è
+     adesso inquadrata nel Servizio Validazione Sistemi di Rischio. Tale Servizio è composto da 14
+     risorse ed è articolato nelle seguenti strutture:                                                                              O
+          <U+25AA>     Settore Validazione Sistemi di Rischio Regolamentari (7 FTE) con la responsabilità di
+                validare il Sistema dei Rating Interni del modello AIRB (Rischio di Credito) e di supporto
+                per quella dei modelli contabili IFRS9 di calcolo degli impairment sui crediti;              MI
+          <U+25AA>     Settore Validazione Sistemi di Rischio Gestionali (6 FTE) con la responsabilità di validare
+                il Sistema di misurazione AMA (Rischi Operativi), il Sistema di misurazione del Rischio
+                Tasso di Interesse del Portafoglio Bancario nonché i modelli contabili IFRS9 di calcolo
+                                                                                                                T
+                                                                                           CO
+                degli impairment sui crediti. Inoltre, per il 2019 il Settore garantisce l’analisi
+                esclusivamente dei Model Change apportati al Sistema di misurazione del Rischio di
+                Liquidità.
+     Trasversalmente ai 2 Settori verranno svolte le attività di Model Risk Management in carico alla
+     Funzione così come le attività da erogare alle Società controllate1 nell’ambito dei contratti di
+     esternalizzazione. Atteso che l’onere per le sole attività nei confronti delle 2 Società controllate
+                                                                                E
+     assorbe circa 2,15 FTE, le risorse che rimangono disponibili per la validazione del Sistema dei
+     Rating Interni del modello AIRB della Capogruppo sono appena superiori a quelle presenti nel
+     2015 in occasione dell’ispezione BCE IMI40. Infatti, da tale ispezione è scaturito un finding BCE
+                                                           IO
+     con relativa obligation per l’adeguamento del dimensionamento della Funzione di Convalida
+     Interna necessario per poter garantire alla Funzione un’azione ancor più pervasiva e la
+                                                              N
+     predisposizione di metodologie e/o componenti modellistiche alternative, c.d. “modelli
+     challenging”, con cui sfidare i modelli di produzione ed analizzarne in modo critico le differenze.
+     Peraltro, nel corso del 2019 è previsto il roll-out anche di Widiba incrementando così il complesso
+     delle attività svolte per le controllate.
+                                     TA
+     2. Linee guida per la pianificazione delle attività 2019
+     2.1 Linee Guida di riferimento
+                                        Z
+      1. Le attività e i controlli da condurre nell’esercizio in corso perseguono l’obiettivo di valutare
+          la coerenza dei Sistemi di misurazione del rischio di credito – Sistema dei Rating Interni
+          (AIRB - SRI), Operativi (AMA), di Tasso di Interesse del Banking Book nonché le
+          evoluzioni apportate ai modelli contabili IFRS9 di calcolo degli impairment sui crediti,
+                     EN
+          rispetto alle policy aziendali ed alla regolamentazione delle Autorità di Vigilanza. Sono,
+          inoltre, garantite le analisi relative ai Model Change che verranno proposti anche in ambito
+          Rischio Liquidità. Rimangono escluse attività di validazione connesse ai complessivi
+          framework ICAAP ed ILAAP;
+      2. Le attività di verifica previste nel Validation Plan si svilupperanno, in continuità con quanto
+ CU       avvenuto nel 2018, prevalentemente nei primi 10 mesi del 2019, prevedendo
+          successivamente l’emanazione dei Rapporti di Convalida per i rischi oggetto di validazione.
+          La proposta di approvazione della Relazione di Convalida 2019 è atteso potrà essere
+          sottoposta al CdA della Capogruppo entro Marzo 2020;
+    M
+      3. Tali analisi verranno svolte sia per la Capogruppo che per le Società MPS Capital Services
+          Banca per le Imprese SpA e MPS Leasing & Factoring SpA che, essendo autorizzate
+          all’utilizzo dei modelli avanzati in ambito AIRB e AMA, dal 2016 hanno esternalizzato le
+     1
+       Trattasi delle controllate autorizzate all’utilizzo dei modelli interni di misurazione di rischi sulla base di quanto regolato dai contratti di
+DO   esternalizzazione vigenti: MPS Capital Services Banca per le Imprese SpA (MPSCS) e MPS Leasing & Factoring SpA (MPSLF).
+     GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                                                             Pag. 4 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 5 di 11
+                                                                                                                                             19
+                                                                                                                               AT
+                                                                                                                VALIDATION PLAN 2019
+              attività operative alla Funzione di Convalida di Capogruppo. Inoltre, è previsto anche il roll-
+         4.
+              out di Widiba incrementando così il complesso delle attività svolte per le controllate;
+              I Framework di Convalida relativi ai rischi regolamentari validati verranno rivisti per
+              adeguare il complesso degli strumenti di analisi predisposti. Peraltro, stante quanto indicato
+              da BCE, verranno documentate eventuali modifiche apportate ai Framework dei rischi
+                                                                                                                                  O
+         5.
+              regolamentari, in fase di revisione annuale, e comunicate all’Autorità di Vigilanza;
+              Con riferimento specifico alla validazione del Sistema dei Rating Interni SRI-AIRB è
+              indirizzata la predisposizione dell’istanza di validazione entro il primo semestre 2019, con MI
+              invio della documentazione entro fine Aprile 2019, relativa alla ricalibrazione dei modelli di
+              PD (sia andamentali che di erogazione) e alla ristima dei modelli di LGD di produzione.
+              Nell’ambito di tale istanza è prevista l’estensione delle serie storiche utilizzate,
+              l’introduzione di un MOC per le controparti in forborne2, l’ampliamento della definizione di
+                                                                                                              T
+         6.
+                                                                                         CO
+              default in modo tale da comprendere anche i past due tecnici, l’introduzione di uno specifico
+              trattamento dei default multipli, l’inclusione totale dell’incomplete workout nella stima della
+              LGD, la stima specifici modelli di calcolo dell’ELBE e degli RWA sui defaulted assets;
+              Nell’esercizio è stato quantificato ed allocato l’impegno necessario per il superamento delle
+              criticità e delle decision evidenziate dall’Autorità di Vigilanza (decision IMI40 del 14
+              Giugno 20183 nonché i rilievi TRIM General Topics del 15 Gennaio 20184 e TRIM
+              Investigation 2017). In particolare, la Funzione è coinvolta nella valutazione delle linee guida
+                                                                               E
+              risolutive per le criticità relative ai Sistemi di misurazione in perimetro, nell’espressione di
+              un parere in merito alla rispondenza delle relative soluzioni implementate nonché nel rilascio
+                                                          IO
+              dell’autorizzazione al passaggio in produzione delle modifiche ai modelli di misurazione.
+              Nello specifico tra gli interventi volti al superamento delle criticità connesse all’ispezione
+              IMI 40 è prevista una specifica Verifica di Convalida sull’eliggibilità delle garanzie
+                                                             N
+              nell’ambito del framework CRM (Finding #16), la predisposizione di modelli challeging per
+              sfidare le assunzioni fatte dalla funzione di sviluppo(Finding #19) e un approfondimento
+              specifico sulle modalità di trattamento delle posizioni beneficiarie di moratoria che verrà
+              condotto nell’ambito delle verifiche sulla calibrazione dei modelli di PD per cui è prevista la
+         7.
+                                    TA
+              presentazione di istanza entro il primo semestre 2019;
+              Sempre con riferimento ad attività che originano da rilievi dell’Autorità di Vigilanza rileva
+              il complesso delle attività connesse al Model Risk Management in carico al Servizio
+                                       Z
+              Validazione Sistemi di Rischio ai sensi di quanto previsto nella Direttiva sulla gestione del
+              Rischio Modello. Tra queste rilevano, in particolare, le analisi dei Model Change ai sistemi
+              di misurazione in perimetro, le analisi circa alcune tipologie di documenti relativi ai modelli,
+              la redazione dell’Inventario dei Modelli Interni nonché la predisposizione, con strumenti non
+         8.         EN
+              consolidati, di un report periodico per il Comitato Gestione Rischi circa la performance dei
+              modelli validati;
+              Un’ulteriore attività derivante da BCE, in ambito Rischi Operativi - modello AMA, è
+              connessa alla predisposizione del Report on Validation of Operational Risk Model. Tale
+              rilevazione, svolta sempre con strumenti estemporanei, deve essere trasmesse all’Autorità di
+              Vigilanza congiuntamente alla Relazione Annuale di Convalida cui fa riferimento;
+ CU      9.   Nell’esercizio sono attese alcuni accessi ispettivi dell’Autorità di Vigilanza: dapprima la
+              TRIM Investigation in ambito AIRB “Corporate - Other” seguita da On Site Inspection in
+              ambito Rischio Tasso di Interesse del Banking Book. Inoltre, nel secondo semestre è atteso
+              accesso ispettivo connesso all’istanza di Model Change di cui al precedente punto 5;
+    M2
+       I primi due interventi erano già stati oggetto di notifica ex-ante alla BCE nel corso del 2018 ma poiché quest’ultima li ha considerati come
+     materiali essi verranno ripresentati sotto forma di istanza nel corso del 2019.
+     3
+       Lettera BCE del 14 Giugno 2018 “2018-06-14 – ITMPS – Decision on the use o internal models – ECB-SSM-ITMPS”
+DO     Lettera BCE del 15 Gennaio 2018 “2018-01-15 - ITMPS - TRIM - General Topics feedback letter”.
+     4
+     GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                                                           Pag. 5 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 6 di 11
+                                                                                                        19
+                                                                                            AT
+                                                                                  VALIDATION PLAN 2019
+      10. Per i modelli di impairment IFRS9 in ambito Credito, a valle della First Time Adoption
+                                                                                               O
+          avvenuta nello scorso anno, le analisi si concentreranno solo sulle modifiche apportate al
+          design dei modelli e su talune analisi di backtesting. In particolare, in ambito IFRS9 rileva
+          solo la componente Modello del framework complessivo di Convalida;
+      11. Da un punto di vista IT parte delle analisi già svolte e molte delle analisi nuove che si rendono
+                                                                              MI
+          necessarie per effetto della progettualità 2019 verranno svolte con strumenti estemporanei
+          predisposti e manutenuti dalla Funzione (query, programmi R, file Excel, ecc.). I soli
+          interventi ricompresi nel Piano Progetti 2019 riguardano l’aggiornamento delle basi dati di
+                                                                                 T
+          Convalida per effetto prevalentemente dei Model Change introdotti nonché il completamento
+          di parte degli interventi che, pur ricompresi nel Piano Progetti 2018, non sono stati completati
+          entro l’anno di riferimento. È prevista, infine, una consulenza metodologica per la
+          validazione nuovi modelli AIRB ed IFRS9 di importo molto contenuto;
+                                                                    CO
+      12. Il presidio sul Sistema di misurazione dei Rischi Operativi è previsto su livelli minimali in
+          relazione al fatto che non sono previste evoluzioni di rilievo e l’assenza di GAP.
+          Analogamente la validazione del Sistema di misurazione del Rischio Liquidità è sospesa per
+          il 2019 garantendo solo le analisi a presidio dei Model Change. Tali misure sono volte a
+          liberare risorse necessarie per la conduzione di talune nuove attività di Model Risk
+          Management;
+      13. Le Funzioni di Convalida Interna e di Model Risk sono entrambe erogate dal Servizio
+                                                                    E
+          Validazione Modelli di Rischio ed il Responsabile della Funzione di Convalida Interna è
+          Responsabile anche della Funzione di Model Risk;
+                                                IO
+      14. Il piano di Convalida è sviluppato sulla base del dimensionamento medio atteso del Servizio
+          di 14 risorse full-time, pari al dimensionamento attuale. Rispetto al Validation Plan 2018,
+          basato su una risorsa in meno dell’attuale, aumenta l’impegno previsto in ambito Rischio di
+                                                   N
+          Credito – Sistema dei Rating Interni (AIRB - SRI) e Tasso di Interesse del Banking Book
+          (IRRBB), in previsione anche degli accessi dell’Autorità di Vigilanza, e si riduce
+          marginalmente quello sugli altri rischi in perimetro.
+     2.2 Framework di Convalida
+                               TA
+     Il framework metodologico della Funzione Convalida prevede l’esecuzione di verifiche e
+     controlli di validazione differenziati sulle tre principali componenti di ogni sistema di
+                                  Z
+     misurazione dei rischi. Le attività di validazione prevedono che la struttura di convalida sia
+     affiancata e supportata dalla funzione di controllo owner del sistema di misurazione dei rischi in
+     esame, al fine di poter accertare se il modello di misurazione è conforme alla normativa ed alle
+     previsioni degli Organi di Vigilanza ed alle disposizioni del Consiglio di Amministrazione della
+                  EN
+     Banca, nonché di acquisire periodicamente relazioni ed informazioni di dettaglio dalle funzioni
+     coinvolte nella gestione dei sistemi di misurazione in convalida.
+     In particolare, il framework prevede:
+         • Attività di First Time Adoption per le quali il Servizio Validazione Sistemi di Rischio
+             deve essere affiancato dalle Funzioni owner e/o operative in occasione della convalida
+ CU          iniziale di nuovi modelli di rischio o di modifiche rilevanti ai sistemi esistenti;
+         • Attività di controllo continuative, svolte sia mediante controlli indipendenti da parte della
+             Funzione di Convalida sia attraverso l’utilizzo di check list predisposte dal Servizio
+             Validazione Sistemi di Rischio e da valorizzare da parte delle Funzioni Owner dei sistemi
+    M        di misurazione e/o delle altre Funzioni coinvolte nella loro gestione o nell’esecuzione di
+             attività di controllo specialistico sia mediante relazioni richieste dalla Convalida Interna
+             alle suddette Funzioni su specifici temi da approfondire;
+         • Attività di controllo periodiche, svolte dalla Funzione di Convalida e per le quali può
+DO           essere richiesto il supporto della funzione owner del sistema di misurazione.
+     GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                        Pag. 6 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 7 di 11
+                                                                                                                         19
+                                                                                                             AT
+                                                                                                VALIDATION PLAN 2019
+     3. Validation Plan 2019
+     La tabella seguente dettaglia le attività di Convalida previste per l’Esercizio 2019 del Servizio
+     Validazione Sistemi di Rischio.
+     Le risorse previste, considerate per 12 mesi full time, al netto di ferie, festività, permessi, malattie,
+                                                                                                                O
+                                                                                            MI
+     solidarietà, ecc. ammontano ad un totale netto di 2.856 gg/uomo5. Di questi circa 440 gg/uomo
+     sono allocati per attività nei confronti delle 2 Società Controllate MPSCS e MPSLF ed
+     un’ulteriore impegno è previsto per il roll-out di Widiba.
+                                                                                               T
+     Per ogni iniziativa prevista viene data indicazione delle attività pianificate nonché delle scadenze
+     indicative.
+     Il Piano riporta anche il complesso dei giorni uomo previsti per i singoli ambiti con evidenza, in
+     corsivo tra parentesi, anche di quanto previsto nel Validation Plan 2018.
+                                   Ambito / Attività di Convalida
+         Attività di convalida del Rischio di Credito (SRI)
+                                                                             CO                       Scadenza /
+                                                                                                      periodicità
+                                                                                                      31-12-2019
+                                                                                                                      Totale
+                                                                                                                       gg/u
+                                                                                                                        824
+         Adeguamento framework di convalida                                                           31-03-2019       (769)
+            • Convalida dei Processi di Capogruppo e trasversali
+               • Rapporti di convalida                              E
+                                                  IO
+                  o    Processo di assegnazione del rating Retail                                     30-11-2019
+                  o    Processo di assegnazione del rating SB                                         30-11-2019
+                  o    Processo di assegnazione del rating PMI                                        31-12-2019
+                  o
+                                                     N
+                       Processo di assegnazione del rating LC                                         31-12-2019
+               • Verifiche di convalida
+                  o    Eleggibilità garanzie nel framework di Credir Risk Mitigation                  31-03-2019
+                  o    Processo di assegnazione del rating Banche                                     30-06-2019
+                  o    Funzionamento processo SL                                                      31-10-2019
+                  o
+                  o
+                  o
+                  o             TA
+                       Utilizzo rating AIRB ai fini ECAF
+                       Backtesting Rating controparti classificate High Risk
+                       Estensione processi di assegnazione del rating a Widiba
+                       Backtesting qualitativo LC
+                                                                                                      28-02-2019
+                                                                                                      30-06-2019
+                                                                                                      31-12-2019
+                                                                                                      Trimestrale
+                  o
+                  o
+                  o
+                  o
+                                   Z
+                       Backtesting qualitativo Corporate
+                       Backtesting qualitativo NBFI
+               • Reportistica di convalida
+                       Report di sintesi sui processi di assegnazione del rating
+                                                                                                      Trimestrale
+                                                                                                      Trimestrale
+                                                                                                       Mensile
+                   EN
+                       Report di dettaglio sui processo di assegnazione del rating LC                 Semestrale
+                  o    Report di dettaglio sui processo di assegnazione del rating PMI                Semestrale
+                  o    Report di dettaglio sui processo di assegnazione del rating SB                 Semestrale
+                  o    Report di dettaglio sui processo di assegnazione del rating Retail             Semestrale
+                  o    Report di dettaglio sui processo di assegnazione del rating NBFI               Semestrale
+                  o    Report di dettaglio sui processo di assegnazione del rating Banche             Semestrale
+                  o    Report di dettaglio su Specialised Lending                                     Trimestrale
+ CU         • Convalida dei Processi delle Controllate
+               • Verifiche di convalida MPSCS
+                  o    Funzionamento processo SL                                                      30-11-2019
+    M
+                  o    Processo di assegnazione del rating                                            30-09-2019
+               • Reportistica di convalida MPSCS
+                  o    Report di sintesi sui processi di assegnazione del rating                      Semestrale
+     5
+      Dal 2019 sono previsti 204gg/u per anno per risorsa full time, al netto di ferie, festività, malattie, solidarietà, ecc.
+DO   per coerenza anche con i contratti di esternalizzazione. Precedentemente tale base prevedeva 220 gg/u per anno.
+     GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                                         Pag. 7 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 8 di 11
+                                                                                                                 19
+                                                                                                     AT
+                                                                                           VALIDATION PLAN 2019
+                                  Ambito / Attività di Convalida                               Scadenza /     Totale
+                                                                                                        O
+                                                                                               periodicità     gg/u
+                 o    Report di dettaglio su Specialised Lending                               Semestrale
+               • Verifiche di convalida MPSLF
+                 o    Processo di assegnazione del rating                                      30-09-2019
+               • Reportistica di convalida MPSLF
+                 o    Report di sintesi sui processi di assegnazione del rating
+          • Convalida dei Modelli di Capogruppo e trasversali                       MI         Semestrale
+             • Verifiche di convalida
+                o
+                o
+                o
+                o
+                     Backtesting modelli PD in produzione
+                     Backtesting modelli LGD in produzione
+                     Backtesting modelli EAD in produzione
+                                                                                       T       Semestrale
+                                                                                               Semestrale
+                                                                                               Semestrale
+                                                                         CO
+                     Ricalibrazione modelli PD (istanza BCE)                                   30-04-2019
+                o    Ricalibrazione modelli PD di erogazione (istanza BCE)                     30-04-2019
+                o    Ristima modelli LGD (istanza BCE)                                         30-04-2019
+                o    Revisione questionari qualitativi                                         31-10-2019
+                o    Estensione modelli AIRB a Widiba                                          31-12-2019
+             • Reportistica di convalida
+                o    Report sul default                                                        Trimestrale
+                o    Report di sintesi sui modelli di PD                                       Semestrale
+                o
+                o
+                o
+                                                                    E
+                     Report di dettaglio sui modelli di PD famiglia Corporate
+                     Report di dettaglio sui modelli di PD famiglia Finanziarie e Banche
+                     Report di dettaglio sui modelli di PD famiglia PMI
+                                                                                               Semestrale
+                                                                                               Semestrale
+                                                                                               Semestrale
+                                                IO
+                o    Report di dettaglio sui modelli di PD famiglia SB                         Semestrale
+                o    Report di dettaglio sui modelli di PD famiglia Retail                     Semestrale
+                o    Report sui modelli LGD                                                    Semestrale
+                                                   N
+                o    Report sui modelli EAD                                                    Semestrale
+            • Convalida dei Modelli delle Controllate
+              • Verifiche di convalida MPSCS
+                o    Backtesting modelli LGD in produzione                                     Semestrale
+                               TA
+              • Reportistica di convalida MPSCS
+                o
+                o
+                     Report di sintesi sui modelli di PD
+                     Report sui modelli LGD
+              • Verifiche di convalida MPSLF
+                                                                                               Semestrale
+                                                                                               Semestrale
+                o
+                o
+                o
+                                  Z
+                     Backtesting modelli LGD in produzione
+              • Reportistica di convalida MPSLF
+                     Report di sintesi sui modelli di PD
+                     Report sui modelli LGD
+                                                                                               Semestrale
+                                                                                               Semestrale
+                                                                                               Semestrale
+                  EN
+            • Convalida del Data Quality di Capogruppo
+              • Rapporti di convalida
+                o    Esecuzione ed esito dei controlli di DQ da parte dei Data Owner
+              • Reportistica di convalida
+                                                                                               31-12-2019
+                o    Report trimestrale sul data quality                                       Trimestrale
+ CU   Attività di convalida dei modelli di impairment crediti IFRS9
+          • Adeguamento Framework di Convalida
+                                                                                               31-12-2019
+                                                                                               30-11-2019
+                                                                                                               391
+                                                                                                               (656)
+    M     • Convalida dei Modelli di Capogruppo e trasversali
+             • Rapporti di convalida
+                o
+                o
+                     Modello di Impairment Crediti IFRS9
+             • Verifiche di convalida
+                     Follow up GAP
+                                                                                               31-12-2019
+                                                                                               31-08-2019
+DO   GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                                 Pag. 8 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 9 di 11
+                                                                                                                    19
+                                                                                                        AT
+                                                                                              VALIDATION PLAN 2019
+                                  Ambito / Attività di Convalida                                   Scadenza /    Totale
+                                                                                                           O
+                                                                                                   periodicità    gg/u
+                   o    Analisi modifiche apportate al design dei modelli di PD nella              31-10-2019
+                        ricalibrazione di fine 2018
+                   o    Analisi modifiche apportate al design dei modelli di LGD nella             15-11-2019
+                        ricalibrazione di fine 2018
+                   o
+                   o
+                   o
+                        Calcolo ECL su un sottoinsieme di operazioni
+                        Backtesting modelli PD lifetime
+                        Backtesting modelli LGD lifetime
+                                                                                          MI       30-09-2019
+                                                                                                   30-11-2019
+                                                                                                   30-11-2019
+      Attività di convalida del Rischio Operativo (AMA)
+          • Predisposizione ed analisi delle check list da compilare a carico del SERO, dei
+            gestori locali e delle altre Funzioni coinvolte nella gestione del Sistema di
+                                                                                             T     31-12-2019
+                                                                                                   Semestrali
+                                                                                                                  144
+                                                                                                                  (173)
+            misurazione
+          • Adeguamento Framework di Convalida
+          • Convalida dei Processi di Capogruppo e trasversali
+             • Rapporto di convalida ambito Processi
+                                                                           CO                      31-03-2019
+                                                                                                   31-12-2019
+             • Verifiche di convalida ambito Processi
+                o    Verifica di Backtesting Analisi di Scenario con evidenza della                31-05-2019
+                                                                    E
+                     rispondenza delle stime qualitative alle effettive realizzazioni di
+                     perdita
+          • Convalida dei Processi delle Controllate
+                                                 IO
+          • Verifiche di convalida ambito Processi per MPSCS
+                o Verifica di Backtesting Analisi di Scenario 2018 con evidenza della              30-08-2019
+                                                    N
+                     rispondenza delle stime qualitative alle effettive realizzazioni di perdita
+          • Verifiche di convalida ambito Processi per MPSLF
+                o Verifica di Backtesting Analisi di Scenario 2018 con evidenza della              30-08-2019
+                     rispondenza delle stime qualitative alle effettive realizzazioni di perdita
+                               TA
+          • Convalida del Modello unico
+             • Rapporto di convalida ambito Modello
+             • Verifiche di convalida ambito Modello
+               o Predisposizione Report BCE su AMA Validation al 31.12.2018
+                                                                                                   31-12-2019
+                                                                                                   30-06-2019
+                                  Z
+               o Verifica Sensitivity connessa a Report BCE
+               o Verifica di Backtesting del modello di calcolo del Requisito rispetto
+                   alle perdite registrate nel semestre annualizzate
+          • Convalida del Data Quality della Capogruppo
+             • Rapporto di convalida ambito Data Quality
+                                                                                                   30-06-2019
+                                                                                                   31-08-2019
+                  EN
+      Attività di convalida del Sistema di misurazione del Rischio Liquidità
+          • Convalida del Modello unico
+             • Eventuale verifica di convalida su Model Change ai modelli
+                                                                                                   31-12-2019
+                                                                                                                   27
+                                                                                                                  (209)
+ CU
+             • Follow up GAP e richieste di approfondimento
+      Attività di convalida del Sistema di misurazione del Rischio Tasso di Interesse del          31-12-2019     295
+      Banking Book
+                                                                                                                  (210)
+    M
+           •   Eventuale predisposizione delle check list da compilare a carico delle               Annuale
+               Funzioni Owner e delle altre Funzioni coinvolte nella gestione del Sistema di
+               misurazione
+           •   Adeguamento Framework di Convalida                                                  31-03-2019
+DO
+      Convalida dei Processi di Capogruppo e trasversali
+     GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                                    Pag. 9 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 10 di 11
+                                                                                                                19
+                                                                                                     AT
+                                                                                            VALIDATION PLAN 2019
+                                  Ambito / Attività di Convalida                                Scadenza /    Totale
+                                                                                                        O
+                                                                                                periodicità    gg/u
+          • Rapporto di convalida ambito Processi                                               31-12-2019
+             • Verifiche di convalida ambito Processi
+                 o Verifica di compliance normativa rispetto alle nuove linee guida             31-05-2019
+                      EBA
+      Convalida del Modello unico
+        • Rapporto di convalida ambito Modello                                          MI      31-12-2019
+             • Verifiche di convalida ambito Modello
+                 o Backtesting del modello comportamentale delle poste a vista
+                 o Design del nuovo modello comportamentale di prepagamento dei
+                     mutui residenziali a tasso fisso
+                 o Backtesting del nuovo modello comportamentale di prepagamento
+                                                                                           T    30-04-2019
+                                                                                                30-06-2019
+                                                                         CO
+                                                                                                30-06-2019
+                     dei mutui
+                 o Design del modello comportamentale per stimare le estinzioni                 31-10-2019
+                     anticipate dei CID
+                 o Valutazione esigenza modello comportamentale per i prodotti Fixed            31-07-2019
+                     Rate Loan Commitment in base a volumi determinati dal SERL
+      Convalida del Data Quality della Capogruppo
+        • Rapporto sull’esecuzione e l’esito del processo di individuazione e risoluzione
+           delle anomalie di data quality
+                                                                E                               31-12-2019
+                                                IO
+                         Altre Attività trasversali di Convalida
+          • Adeguamento normativa interna su convalida, model change e framework                31-12-2019      48
+            change                                                                                             (52)
+                                                   N
+          • Seguimento accessi BCE e findings dell’Autorità in essere
+          • Evoluzione strumenti IT di Convalida
+                                                                                                31-12-2019
+                                                                                                31-12-2019
+                                                                                                               265
+                                                                                                              (110)
+                                                                                                                94
+                               TA
+                                                                                                              (140)
+          • RIGAM: Esecuzione verifiche volte a certificare il superamento dei GAP              31-12-2019      38
+                                                                                                               (47)
+                                  Z
+          • Predisposizione Relazione di Convalida
+                         Attività connesse a Model Risk Management
+                                                                                                31-12-2019     208
+                                                                                                              (218)
+                  EN
+      Attività connesse a Model Risk Management (MRM)
+          • Analisi documentazione sui modelli soggetta a parere della Funzione MRM e
+            della metodologia di definizione e quantificazione dei MOC
+                                                                                                31-12-2019
+                                                                                                31-12-2019
+                                                                                                               342
+                                                                                                                (0)
+          • Predisposizione Inventario Modelli                                                  31-12-2019
+ CU       • Formulazione valutazione annuale circa la rilevanza del Rischio Modello per i
+            rischi in perimetro
+          • Predisposizione della reportistica semestrale relativa al Rischio Modello
+                                                                                                31-12-2019
+                                                                                                31-08-2019
+    M     • Presidio Model Change per i rischi in perimetro                                     31-12-2019
+DO   GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                                 Pag. 10 di 11
+
+     SISIFO - Prot. n° 45B7352119, Allegato n° 1 - Pagina 11 di 11
+                                                                                                             19
+                                                                                                  AT
+                                                                                          VALIDATION PLAN 2019
+     Di seguito il riepilogo dell’allocazione degli FTE disponibili nel 2019 sulla base del suddetto
+     Validation Plan.                                                                                O
+                                     TIPOLOGIA ATTIVITÀ
+                                                                                      MI           gg/u
+         ATTIVITÀ PROGRAMMABILI
+         ATTIVITÀ PIANIFICATE
+         Convalida del Rischio di Credito (SRI)
+                                                                                         T                  824
+         Convalida del Rischio Operativo (AMA)
+         Convalida del Rischio di Liquidità
+         Convalida del Rischio Tasso del Portafoglio Bancario
+         Convalida modelli IFRS 9
+                                                                        CO                                  144
+                                                                                                              27
+                                                                                                            295
+                                                                                                            391
+         Predisposizione Relazione di Convalida                                                             208
+         Seguimento accessi Bankit/BCE ed adeguamento normativa regolamentare                               313
+         Evoluzione strumenti IT di Convalida
+         RIGAM: Validazione proposte di chiusura dei GAP
+                                                                E                                             94
+                                                                                                              38
+         Model Risk Management
+                                                  IO       Sub Totale Attività di Convalida               2.334
+                                                                                                            342
+         ATTIVITÀ DIREZIONALE E COMITATI
+         FORMAZIONE
+                                                     N      Sub Totale Attività di Controllo              2.568
+                                                                                                            127
+                                                                                                              45
+                               TA
+         ATTIVITÀ DI VERIFICA NON PROGRAMMABILI
+                                    TOTALE COMPLESSIVO
+                                                        Sub Totale Attività Programmabili                 2.848
+                                                                                                               8
+                                                                                                           2.856
+                                  Z
+                  EN
+ CU
+    M
+DO   GRUPPOMONTEPASCHI – Direzione Chief Risk Officer                                              Pag. 11 di 11
+

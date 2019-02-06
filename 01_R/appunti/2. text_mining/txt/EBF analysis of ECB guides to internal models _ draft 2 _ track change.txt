@@ -1,0 +1,1754 @@
+EBF analysis of ECB guides to internal models
+Credit risk
+                                              1
+
+Please follow these instructions:
+• Fill in the column “Section” only with one of the following options:
+            <U+25AA> 1 for Scope of the credit risk chapter
+            <U+25AA> 2 for Data maintenance for the IRB approach
+            <U+25AA> 3 for Data requirements
+            <U+25AA> 4 for Probability of default
+            <U+25AA> 5 for Loss given default
+            <U+25AA> 6 for Conversion factors
+            <U+25AA> 7 for Model-related MoC
+            <U+25AA> 8 for Review of estimates
+            <U+25AA> 9 for Calculation of maturity for non-retail exposures
+• Fill in the column “Type of comment” only with one of the following options:
+            <U+25AA> Amendment
+            <U+25AA> Clarification
+            <U+25AA> Deletion
+                                                                               2
+
+#  Section Paragraph Page Type of comment         Detailed comment           Concise statement as to why your
+                                                                               comment should be taken on
+                                                                                             board
+  Foreword     3      3      Amendment    The ECB should specify that the    The ECB Guide refers to several EBA
+                                          draft guidelines and non-voted      mandates to develop level 2 texts,
+                                          RTS will not apply until they are    which are not yet in final version.
+                                          finalised.                         Therefore banks are not expected to
+                                                                             be compliant with articles which are
+                                                                                      not legally binding.
+                                                                                                                     Formatted: (none)
+                                          We are wondering how the TRIM                                              Formatted: Left
+                                          guide articulate relative to the
+                                          regulatory texts. When the TRIM                                            Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                                                                                                     color: Auto, English (Ireland)
+                                          guide goes beyond regulatory
+  Foreword                                texts, it can brought both                                                 Formatted Table
+                                          clarifications and additional                                              Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                          requirements. Institutions have                                            color: Auto, English (Ireland)
+                                          difficulties to know which text is                                         Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                          the reference one.                                                         color: Auto, English (Ireland)
+     2.4     14-29    5      Amendment    Data Quality : the general         The general framework is considered
+                                                                                                                     Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                          framework is considered as very      as very burdensome. Besides we        color: Auto, English (Ireland)
+                                          burdensome. Besides we suggest      suggest more alignment wih BCBS
+                                                                                                                     Formatted: English (Ireland)
+                                          more alignment with BCBS 239.          239 requirements to ensure
+                                          More specifically, a new            consistent implementation of data      Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                          paragraph should be inserted                 quality standards.            color: Auto, English (Ireland)
+                                          (before §14) spécifying that all
+                                          requirements only apply to
+                                          Critical Data Element (CDE).
+                                                                                                                   3
+
+1 2.2.1 Item 6 6 Clarification/deletion The ECB expectation that Banks       It is not relevant to require banks to
+                                        should keep a register that           save all current and past version of
+                                        include all current and past           elements of a rating system. This
+                                        version of elements of a rating       should be harmonized with EBA PD
+                                        system, among others a) models          and LGD GL and IRB assessment
+                                        data flow /from data entry to                     methodology.
+                                        reporting and for both historical
+                                        and current data….
+                                        It seems not relevant to save data
+                                        unlimited back in time. Data
+                                        storage etc. could alternatively be
+                                        harmonised with general and
+                                        absolute limits or requirements as
+                                        in accounting? (10 years max), IRB
+                                        assessment methodology (page
+                                        12) only states 3 years for register
+                                        of rating systems that includes
+                                        documentation on the design and
+                                        operational details of the rating
+                                        system. It should not be required
+                                        to save or maintain a register
+                                        longer than necessary for the
+                                        purpose, besides rating models
+                                        may also be replaced to more
+                                        updated from time to time. There
+                                        should be a distinction between
+                                        well-documented, as described in
+                                        the assessment methodology
+                                        (page 17), and unlimited. Ref also
+                                        CRD IV article 109.2 ….data and
+                                        information relevant to the
+                                        purpose of supervision 2can be
+                                                                                                                    4
+
+                                produced…. (guess this is not
+                                related to length of data series,
+                                ref. DT estimates)
+2 2.2.2  Item 7 7 amendment     …. The implementation of the            Errorfree should be amended to
+                                models is successful and                   “substantively errorfree “ to
+                                errorfree……Banks will follow           harmonise the wording with EBA.
+                                rules related to accuracy and
+                                completeness there will not be
+                                complete errorfree models,
+                                instead it should include the
+                                wording substantively error-free,
+                                as e.g. stated in the GL
+                                assessment methododoly article
+                                76. Banks measures e.g. MoCs or
+                                make other measures in
+                                accordance with EBA GL og PD
+                                and LGD, if errors. The same
+                                terminology as EBA should be
+                                mentioned.
+3  2.3  Item 13 8 clarification The term “IT-owner” is not            GL11 does only list all various types
+                                mentioned in IRB assessment          of risks, but not how banks in details
+                                methodology, or CRR or PD, LGD       should organize. It should be clarified
+                                GL. Does banks have a clear           if “IT-owner” is the correct term to
+                                opinion on this definition – Is this                   use.
+                                definition needed? There may be
+                                system owners, data-owners,
+                                …Banks should use the
+                                appropriate definition according
+                                to internal structures and their
+                                defined split of responsibilities.
+                                                                                                             5
+
+4     2     15a, 17, 18 9-10 Clarification   In paragraphs 15a and 17 it is     Establishing an independent unit just
+                                                  stated that data quality       for data quality management would
+                                             management activities shall be         provoke unproportionally high
+                                            independent of data processing        administrative burdens and is not
+                                           activities. According to Paragraph      required in the referenced legal
+                                           18 it is considered “good practice                background.
+                                                  […] to have a dedicated
+                                              independent unit […] for the
+                                            management of data quality”. It
+                                                 should be clarified that a
+                                           completely independent unit with
+                                            exclusively dedicated staff etc. is
+                                                       not obligatory.
+5 2.4.2 and   11 and         clarification     «Data quality management         The term must be narrowed to what
+    more     following                         framework», this definition      is in scope, data quality with regards
+               pages                       should be more precise – assume      to rating models, parameters etc….or
+                                              this relates to internal model       does it mean with regards to the
+                                            parameters? Such a “framework                    whole bank.
+                                           requirement” is not mentioned in
+                                            GL 11 (?). The GL on PD and LGD,
+                                                  and the IRB assessment
+                                             methodology for IRB set clear
+                                              expectations to accuracy and
+                                              completeness and more, but
+                                                gueass that is then maybe
+                                                  aggregated to a quality
+                                                management framework.
+                                                                                                                       6
+
+                       Vetting data inputs to the model implies to
+                                                                                                                   Formatted Table
+                           get access to the data which could be
+                        extremely difficult and expensive. Rating
+                          agencies disclose a description of their
+                                                                      The details of external scores and implied
+  36 15  Amendment     approach (inc main hypothesis). However
+                                                                         models are not publicly disclosed.
+                      they do not provide pubilc with the detailed
+                         formula. Therefore the ECB should take
+                          into account this limitation and limit the
+                           reference to controls on external data.
+                      The previous comments regarding                 Requirements on external scores
+                          the level of disclosure required           might compromise their adoption in
+3                              for external data apply in                            the future
+                        particular in the case of external
+                        credit bureau scores. In addition
+                       information on the structure and
+  37 16 Clarification       nature of external scores and
+                        their key drivers are required by
+                        par. 37(b)-(e) but are usually not
+                              reported by credit bureau.
+                      This would hinder the recourse to
+                        a typically powerful data source
+                        for risk differentiation purposes,
+                       limiting, in violation of regulatory
+                         requirements themselves, both
+                      accuracy of the estimates and the
+                       information completeness of the
+                        rating system (the Credit Bureau
+                        are usually relevant information
+                      for rating assignment especially in
+                                the “through-the-door”
+                         evaluation for new clients/new
+                        applications on Retail segment).
+                         Therefore we suggest to better
+                      clarify and describe in the detail a
+                       minimum set of information that
+                           are necessary to be disclosed,
+                                                                                                                 7
+
+                                                      eventually foreseeing on this a
+                                                     dedicated Guidelines subject to a
+                                                       consultation process target to
+                                                      both banking system and Credit
+                                                               Bureaus itself.
+6   3.3. Item 37 f)  16         clarification         Use of external scores/ratings –    Clarification, how the replication is
+                                                    why should external scores not be    espected implemented in relation to
+                                                     replicated( in an internal format),    possible other factors included.
+                                                        should it always add internal
+                                                                   factors ?
+7 3      34,35Par.  1516 ClarificationClarification Generally speaking, we deem that     11Requirements on external bureau
+            3.3                                     the analyses requested in section        data might compromise their
+                                                    3.2 for the use of external data             adoption in the future
+                                                    might be likely not sustainable,
+                                                    since they entails a level of
+                                                    disclosure closed to the one
+                                                    available for internal data (for
+                                                    example representativeness
+                                                    analysis of par. 35). This
+                                                    disclosure level is usually not
+                                                    possible for data providers. In
+                                                    practice, these requirements, if
+                                                    read as for the current
+                                                    formulation reported in the draft
+                                                    Guide, might lead to the
+                                                    impossibility of adopting external
+                                                    data (unless with the systematic
+                                                    introduction of a material Margin
+                                                    of Conservativism not linked to a
+                                                    model deficiency, but only to the
+                                                    limited disclosure of external
+                                                    providers). In particular, for
+                                                                                                                                8
+
+shadow rating models, the
+external data, which are the
+target of the estimation, are
+expected to be structurally not
+perfectly representative of the
+application portfolio (because
+rating agencies cover more US
+companies than EU ones).
+  Moreover, inconsistency arises
+    with the top down approach
+ foreseen in EBA/CP/2018/10 (on
+       the conditions to allow
+  institutions to calculate KIRB in
+  accordance with the purchased
+    receivables approach under
+ Article 255 of CRR), in which the
+methodological approach is based
+ on the use of external data, due
+to the impossibility to leverage on
+    internal ones. Therefore the
+      analyses required by ECB
+   guidelines jeopardize the new
+ securitization framework aiming
+  at revamping the securitization
+         business in Europe.
+   Moreover inconsistency arises
+    with the top down approach
+ foreseen in EBA/CP/2018/10 (on
+       the conditions to allow
+  institutions to calculate KIRB in
+  accordance with the purchased
+    receivables approach under
+ Article 255 of CRR), in which the
+                                    9
+
+methodological approach will rely
+  predominantly on external data,
+given the impossibility to leverage
+      on internal ones being not
+    representative of the scope of
+      this model. Therefore the
+       analyses required by ECB
+   guidelines might likely limit the
+        workability of the new
+  securitization framework aiming
+      at revamping, as for Basel
+     Committee intendments, the
+        securitization business.
+Generally speaking, we deem that
+ the analyses requested in section
+    3.2-3.3 for the use of external
+     data/scores/ratings might be
+  likely not sustainable, since they
+entails a level of disclosure closed
+   to the one available for internal
+          data (for example
+    representativeness analysis of
+   par. 35). This disclosure level is
+     usually not possible for data
+     providers. In practice, these
+   requirements, if read as for the
+   current formulation reported in
+ the draft Guide, might lead to the
+ impossibility of adopting external
+  data (unless with the systematic
+introduction of a disproportionate
+    Margin of Conservativism not
+                                      10
+
+                 linked to a model deficiency, but
+                  only to the limited disclosure of
+                   external providers). This would
+                 hinder the recourse to a typically
+                     powerful data source for risk
+                differentiation purposes, limiting,
+                        in violation of regulatory
+                  requirements themselves, both
+                accuracy of the estimates and the
+                 information completeness of the
+                 rating system (the Credit Bureau
+                  are usually relevant information
+                for rating assignment especially in
+                         the “through-the-door”
+                  evaluation for new clients/new
+                  applications on Retail segment).
+                Therefore we suggest to 88better
+                clarify and describe in the detail a
+                 minimum set of information that
+                    are necessary to be disclosed,
+                   eventually foreseeing on this a
+                 dedicated Guidelines subject to a
+                    consultation process target to
+                  both banking system and Credit
+                              Bureaus itself.
+                 Vetting data inputs to the model implies to
+                                                                                                            Formatted Table
+                    get access to the data which could be
+                 extremely difficult and expensive. Rating
+                   agencies disclose a description of their
+                                                              The details of external scores and implied
+36 15 Amendment  approach (inc main hypothesis). However
+                                                                 models are not publicly disclosed.
+                they do not provide pubilc with the detailed
+                  formula. Therefore the ECB should take
+                   into account this limitation and limit the
+                    reference to controls on external data.
+                                                                                                         11
+
+8   3  42c  18     Amendment       Point c of paragraph 42 requires    In general, this requirement goes far
+                                 institutions participating in a pool    beyond an assessment of internal
+                                  model to align their processes for    models. We do not see a legal basis
+                                 managing distressed obligors. This             for such a provision.
+                                 would constitute an intrusion into
+                                  the business operations of these
+                                 institutions. Moreover, the link to
+                                      PD estimations is not clear
+                                                 anyway.
+                                 This requirement should be
+                                 deleted.
+9 3   42(d) 18 DeletionAmendment    In our opinion the extract “[…]     Validation requirement on gGroup-     Formatted: English (Belgium)
+                                     Validation of the pool model,       wide models not consistent with
+                                 including testing of discriminatory    gGroup-wide nature of the models
+                                     power and predictive power,                     themselves
+                                       should be applied by each
+                                 institution on its own portfolio.” if
+                                  read in connection with footnote
+                                  21 should be removed. Indeed in
+                                   the case of pooled model across
+                                 legal entities of the same banking
+                                    group (i.e. Groupwide models)
+                                    the perimeter of application is
+                                 related to the entire group/group
+                                    of entities. As such it should be
+                                     estimated (and consequently
+                                       validated) on a groupwide
+                                          perimeter. Thus the
+                                    measurement of rank ordering
+                                    and predictive power at single
+                                  legal entity level would provide a
+                                    partial (and potentially biased)
+                                   view. We propose the following
+                                                                                                           12
+
+                    amendment of footnote 21:”The
+                         paragraphs below are also
+                           relevant in cases where
+                    institutions use pooled data that
+                      are generated from institutions
+                      belonging to the same banking
+                    group, with exception of models
+                    developed and applied at overall
+                       group level, on perimeters for
+                     which the geographical location
+                       of the booking is not relevant.
+3.7 48 19 Amendment  We suggest to delete the end of       The application of MoC is fully
+                        the paragraph "To this end,     detailed in the EBA Guidelines on PD-
+                    where human judgement is used       LGD estimation and the treatment of
+                     to greater extent because of the        defaulted exposures. These
+                    low number of available internal     Guidelines do not mention "human
+                    observations, institutions should   judgement used to a greater extent"
+                        apply a higher MoC to their         in the identified deficiencies
+                          estimates to account for
+                        additional uncertainty". The
+                         application of MoC is fully
+                    detailed in the EBA Guidelines on
+                        PD-LGD estimation and the
+                           treatment of defaulted
+                     exposures. The chapter 4.4.1 of
+                        these Guidelines especially
+                     paragraph 37 does not mention
+                       "human judgement used to a
+                     greater extent" in the identified
+                    deficiencies. Also, institutions do
+                      not consider the use of human
+                    judgement as a deficiency but an
+                     additional input to complement
+                                                                                            13
+
+                                          modelling effort. Therefore, we
+                                         consider the ECB's proposition as
+                                         unduly justified, not in respect of
+                                                the Single Rulebook.
+10   4        52     21   Amendment      The required model validation on    These requirements are not included
+                                          sub-portfolio level would create     in the existing legal background.
+                                         massive additional burdens while      Furthermore, the added value of
+                                              the gain of knowledge is           these provisions is rather low
+                                           questionable. For example, we       compared to the huge additional
+                                           doubt that splitting portfolios         efforts to be made by the
+                                             geographically is not really                  institutions.
+                                         meaningful in the case of globally
+                                                 active borrowers.
+                                        Model validation on sub-portfolio
+                                        level should therefore not be
+                                        considered obligatory.
+11 4.1.1     Risk   21-22 clarification Minimum risk drivers are set by      Risk drivers should be harmonized to
+           drivers,                     ECB, while EBA GLs state that risk   a common value range in EBA GL PD
+         item 50-52                     drivers may vary in points of time                   and LGD
+                                        and that they should be
+                                        adequate, however, lists some in
+                                        5.2.2 (PD, LGD GL). Hope there
+                                        are expert comments from
+                                        members here if there are
+                                        material differences.
+                                                                                                                 14
+
+12 4 54 – 56 22, 23 Amendment      The definition of a grade or pool    Banks use grades/pools to manage
+                                         fails to account for the           risk and to manage individual
+                                   behavioural element of grade or               borrowers/facilities.
+                                    pool assignment. For example,
+                                   the credit management process        Risk is characterised not only by PD
+                                       may distinguish between           (for example) in a given economic
+                                        ‘Satisfactory’ grades and          scenario but also its direction,
+                                  ‘Criticised’ grades. It may be the           procyclicality and type of
+                                  case that a satisfactory grade and       management best applied to it.
+                                  a criticised grade share the same
+                                   or similar LRA. Notwithstanding      The wording of paragraphs 54 – 56
+                                       this, these grades are not        may be interpreted to restrict the
+                                    homogeneous with each other.         use of masterscales and/or credit
+                                      The behaviour of each class             management techniques.
+                                   (satisfactory or criticised) can be
+                                   expected to be different over an    The wording of paragraphs 54 – 56 is
+                                             economic cycle.            inconsistent with similar PDs being
+                                                                            arrived at via different rating
+                                          The principles of risk                       systems.
+                                       differentiation need to be
+                                    broader than only numerically
+                                                  defined.
+13 4  55(a)   22    Clarification “Separate targets and tolerances
+                                       may be defined for initial
+                                       development and ongoing
+                                  performance”: please clarify that
+                                   this permits lower standards for
+                                      ongoing performance post-
+                                               development.
+                                                                                                            15
+
+14       4       55(a)  22   Clarification   Clarify that different targets and
+                                               tolerances may be applied to
+                                                different models/portfolios.
+   4.1 Structure 58-59 23-24 Clarification   With regard to the homogeneity
+   of PD models                                 within rating grades and the
+                                                differentiation across rating
+                                             grades or pool tests, we expect
+                                            additional clarifications about the
+                                             analysis to be performed in case
+                                             of Low Default Portfolios (LDPs).
+                                           Indeed, if the number of observed
+                                              defaults is too low, the results
+                                              could lead to counterintuitive
+                                            outcomes. Moreover, in order to
+                                             obtain more robust results, one
+                                                 could decide to aggregate
+                                                adjacent rating grades with
+                                               potential problems arising in
+                                            terms of excessive concentration
+                                            or in terms of stability across the
+                                                             years.
+15       4        59    24   Amendment          As with comment 1 above:        Grades/pools may represent more
+                                                                                than just a numerical PD. Examples
+                                             The definition of a grade or pool include: (1) obligors/facilities with
+                                                   fails to account for the     different risk drivers, assessed by
+                                             behavioural element of grade or different rating systems but assigned
+                                             pool assignment. For example,      to the same PD grade. (2)
+                                             the credit management process Obligors/facilities subject to the
+                                                 may distinguish between        same rating system but with
+                                                  ‘Satisfactory’ grades and     additional behavioural characteristics
+                                            ‘Criticised’ grades. It may be the influencing their credit management
+                                                                                                                     16
+
+                      case that a satisfactory grade and   and/or affecting their expected
+                       a criticised grade share the same   future behaviour such as
+                       or similar LRA. Notwithstanding     ‘satisfactory’ vs. ‘criticised’.
+                            this, these grades are not
+                        homogeneous with each other.
+                          The behaviour of each class
+                       (satisfactory or criticised) can be
+                       expected to be different over an
+                                  economic cycle.
+                               The principles of risk
+                           differentiation need to be
+                        broader than only numerically
+                                     defined.
+4 61 24 Clarification    It is not clear the meaning of                                        Formatted: English (Ireland)
+                           "including drivers that are                                         Formatted: Font: 11 pt, Not Bold, English (Ireland)
+                         predictive over a longer time
+                         horizon" as requested by par.                                         Formatted: Font: 11 pt, English (Ireland)
+                          61(a) and how the 2/3 year                                           Formatted: English (Ireland)
+                        horizon indicated in par. 61(b)                                        Formatted: English (Ireland)
+                          should be embedded in the
+                                                                                               Formatted: English (Ireland)
+                       modelling framework. Moreover
+                           if this paragraph has to be                                         Formatted: English (Ireland)
+                      interpreted as requirement to set
+                        as development target a multi-
+                             year default status, the
+                       interactions of this requirement
+                        with model validation and with
+                             IFRS 9 models (in which
+                      regulatory PDs are used as input)
+                             are not clear. Given this
+                          interpretation, a significant
+                              increase in the model
+                                                                                            17
+
+                                    development complexity with
+                                     respect to the requirements
+                                     stated in EBA/GL/2017/16 is
+                                                expected.
+16 4 61(b) 24 Amendment/Deletion   The proposed horizon of 2 to 3        Formatted: English (Belgium)
+                                       years is provided without
+                                       justification. Instead the
+                                   underlying desired property or
+                                     principle should be required.
+                                   What criteria should be used to
+                                      determine the appropriate
+                                                horizon?
+                                 The choice of a two to three years
+                                    horizon is not duly justified. It
+                                     might depend on the type of
+                                     portfolio which is modelled.
+                                  We suggest deleting bullet point
+                                                   (b).
+17 4  61   24    Amendment        Paragraph 61 appears to limit or
+                                  prescribe a model philosophy. Is
+                                         this the ECB’s intent?
+                                    If so, can this intent be stated
+                                          more clearly and the
+                                   characteristics of an acceptable
+                                        rating system provided?
+                                                                      18
+
+18 4  64   25 Clarification  Please clarify the treatment of a
+                                 guaranteed party, entering
+                                   financial difficulty, whose
+                              obligations are met in full by its
+                                guarantor. Is the guaranteed
+                            party deemed to have defaulted?
+19 4 78(b) 29 Amendment        No clarification is provided for
+                            cases where the portfolio in scope
+                             of the rating system is volatile in
+                               its composition. For example,
+                              exposures to other banks or to
+                            sovereigns. As even facilities with     Formatted: English (Ireland)
+                              no exposures where there is no        Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                              commitment at reference date          color: Auto, English (Ireland)
+                              may default during the year, an
+                            exclusion of those exposures may
+                             seem in some cases inapropriate        Formatted: English (Belgium)
+20 4  80   30 Clarification       Paragraph 80 requires the
+                                  institutions to analyse any
+                            differences between external and
+                            internal observed average default
+                              rates. It is mentioned that this
+                                 analysis should include the
+                                 adequacy of the Margin of
+                             Conservatism (MoC). We do not
+                               see the link here. It should be
+                             clarified that diverging observed
+                              default rates do not necessarily
+                                give reason to raise an MoC.
+                                                                 19
+
+21       4         83   31 Clarification    The intent of this paragraph is
+                                               unclear. Is a specific model
+                                         philosophy being prescribed? Is a
+                                           specific test for grade PDs being
+                                                        prescribed?
+    4.2 PD risk   85-86 32 Clarification     Some clarifications should be
+   quantification                             provided about the mapping
+                                            between internal and external
+                                             ratings. Indeed, the following
+                                            aspects should be considered:
+                                             - no full disclosure is available
+                                             about the criteria used by the
+                                                 external organizations;
+                                            - the set of "common obligors"
+                                             could be very small: the rated
+                                             counterparties by an external
+                                           organization (e.g. rating agency)
+                                            are usually a small share of the
+                                         specific Institutions' portfolio (e.g.
+                                           Large Corporate or Institutions);
+                                          - the sample of common obligors
+                                            could be non representative of
+                                              the application portfolio (for
+                                         example, for the reason described
+                                                 at the previous point);
+                                             Moreover, it is not clear if the
+                                            mapping should be based on a
+                                                comparison between the
+                                             observed default rates for the
+                                           internal and the external rating
+                                           grades or according to a general
+                                              coherence between the two
+                                                                                20
+
+                    evaluations (e.g. determine which
+                      is the prevailing internal rating
+                       grade for each external rating
+                    grade). However, in such analysis,
+                          a certain degree of human
+                           judgment (expert-based
+                     approach) should be allowed, in
+                       particular if the sample under
+                      evaluation is small or with few
+                                    defaults.
+                     Finally, ECB should clarify if this
+                    section (e.g. article 85-86) should
+                       also be applied if the mapping
+                      between internal and external
+                         rating classes is used by the
+                          Institutions not for the PD
+                    quantification but for managerial
+                        purposes or process-related
+                       phase (e.g. override process).
+4.2 87 34 Amendment   Overally, the requirements are     The calculation of default rates on
+                      deemed overly conservative. In      sub-ranges of application is not
+                     particular, bullet point (f) should              justified
+                       be deleted. The calculation of
+                       default rates on sub-ranges of
+                       application is not justified for
+                      several reasons. For modelling
+                     reasons, institutions may gather
+                       several portfolios in the same
+                     model (for example a model on
+                        Large Corporate). Therefore,
+                      some sub-range portfolios may
+                        suffer from low volumetry of
+                                    defaults.
+                                                                                             21
+
+                                                                            Formatted Table
+5.1 Realised                         The wording “exceptional cases”        Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+             96  37   Clarification
+    LGD                                        is not clear enough          color: Auto, English (Ireland)
+                                                                            Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                                                            color: Auto, English (Ireland)
+                                     The guide refers to the “artificial    Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                    cash flow” method of the EBA GL,        color: Auto, English (Ireland)
+                                       which were indeed included in        Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                     the final EBA GL, but not present      color: Auto, English (Ireland)
+                                        in the consultative paper. The
+                                                                            Formatted: Font color: Blue
+                                          ‘artificial cash flow’ method
+                                      should be applied as described        Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                    only when economically justified.       color: Auto, English (Ireland)
+                                      It should be allowed in justified
+5.1 Realised                                                                Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+             97  38   Clarification        cases to use a realised loss
+    LGD                                                                     color: Auto, English (Ireland)
+                                         (before costs) of 0 for cured
+                                     cases. For example in the case of      Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                    mortgage loans that are in default      color: Auto, English (Ireland)
+                                      due to contagion from another         Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                    loan and that are repaid normally       color: Auto, English (Ireland)
+                                       there is no economic loss. The       Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                         ‘artificial cash flow’ method,     color: Auto, English (Ireland)
+                                        however, would mechanically
+                                         imply such an economic loss
+5.1 Realised 96 37-38 Amendment       The LGD computation at facility       Formatted: Font color: Auto, English (Ireland)
+    LGD                                level is a general principle that
+                                                                            Formatted: Font color: Auto, English (Ireland)
+                                         can be shared. Nevertheless,
+                                    there can be some cases where a         Formatted: Font color: Auto, English (Ireland)
+                                     more aggregated computation is         Formatted: Font color: Auto, English (Ireland)
+                                          necessary not only due to a       Formatted: Font color: Auto, English (Ireland)
+                                         legally enforceable recovery
+                                          process but also for the mix
+                                                                         22
+
+                                         effects of the cash flows
+                                  recorded. This is in particular the
+                                      case of Short-Term products
+                                  where often the effects recorded
+                                   on the current account are also
+                                   the result of the combination of
+                                    other short term facilities (i.e.
+                                 self-liquidating invoices where the
+                                       effects are reflected in the
+                                    current account) and is not an
+                                       exceptional deviation but a
+                                     "structural" practice. For this
+                                   reason a separate computation
+                                 for those cases would result in an
+                                      incorrect economic loss. An
+                                        amendment to the Article
+                                    proposed could include among
+                                         the cases where a more
+                                       aggregated computation is
+                                  allowed also the cases where the
+                                   bank can demonstrate that LGD
+                                     by facility would not correctly
+                                     reflect the real economic loss
+                                  observed and therefore illustrate
+                                       that it is not an exceptional
+                                       deviation but a "structural"
+                                                  practice.
+5.1 Realised 97 - a 38 Amendment    It should be clearly underlined
+    LGD                           that a coherent approach has to
+                                 be adopted between LGD and CCF
+                                      on the additional drawings.
+                                     Therefore if it is requested to
+                                   discount additional drawings in
+                                                                      23
+
+the LGD, the same approach has
+    to be applied for CCF. The
+       following paragraph:
+   "Where institutions include
+  additional drawings after the
+  moment of default to estimate
+ CCFs, these additional drawings
+  discounted to the moment of
+     default are added to the
+outstanding amount at default in
+  the denominator (paragraphs
+139-142 of the EBA GL on PD and
+LGD). In other words, institutions
+should ensure that the exposure
+    used for CCF estimation is
+consistent with the denominator
+            of the LGD."
+                with
+   "Where institutions include
+  additional drawings after the
+  moment of default to estimate
+ CCFs, these additional drawings
+  discounted to the moment of
+     default are added to the
+outstanding amount at default in
+  the denominator (paragraphs
+139-142 of the EBA GL on PD and
+ LGD). The discounted additional
+drawings have to be included as
+  well in the CCF calculation. In
+                                   24
+
+                               other words, institutions should
+                             ensure that the exposure used for
+                              CCF estimation is consistent with
+                                 the denominator of the LGD."
+    5.1.3    98 39 Amendment     It should be clarified that the
+Realised LGD                       restructuring involves only
+                              previously defaulted facilities or
+                                   cases where the measures
+                              granted determine the default of
+                             the customer and not commercial
+                                    practices where the bank
+                                    modifies the contractual
+                             conditions without classifying the
+                               client as a default. For example
+                              the renegotiation of the interest
+                              rate with a Performing customer
+                             does not determine automatically
+                             the default and therefore must be
+                                out of the scope of this Article.
+                              Given this premise, the following
+                              section "where institutions open
+                             new facilities to replace previously
+                                  defaulted facilities as part of
+                                 restructuring or for technical
+                              reasons, the realised loss should
+                             reflect the decrease in the degree
+                                 of financial obligation arising
+                               from changes in the contractual
+                                     conditions (i.e. material
+                               forgiveness or postponement of
+                              payment of principal, interest, or
+                                                                  25
+
+                              fees). The amount by which the
+                                   financial obligation has
+                              diminished should be calculated
+                           under paragraph 51 of the EBA GL
+                                 on the definition of default."
+                            seems to contradict the principle
+                                of economic loss. In fact, the
+                            changes in contractual conditions
+                              are not reflected in a cash flow
+                                 but are related to a financial
+                           concept which is in general out of
+                                the LGD scope. It is therefore
+                              requested to amend this Article
+                                  to be compliant with the
+                                  economic loss definition.
+                                       On PD and LGD GL               Formatted Table
+                           (EBA/GL/2017/16), paragraph 14 says
+                           that for the purpose of quantification
+                              of various risk parameters within a
+                               rating system, institutions should
+                             apply the same definition of default
+5  100   39  Clarification   for the same historical observations
+                            used in different models. Institutions
+                                  should also apply the same
+                            treatment of multiple defaults of the
+                                same obligor or exposure across
+                              internal, external and pooled data
+                                            sources.
+5 100(a) 39 Amendment           We consider that setting the
+                                period length at 9 months is
+                               arbitrary but is a long enough
+                                 period to collect connected
+                                   defaults. We think that
+                               considering a longer period of
+                                                                   26
+
+                           time without any given time
+                               horizon is not relevant.
+                        Moreover, these requirements go
+                         beyond what is required by CRR
+                                     and EBA GL
+22 5 100(b) 40 Deletion       The analyses required on          Overlap of independence period
+                                independence period              appropriateness with probation
+                            appropriateness, based on         period one. In case that deletion is
+                           analysis related to the curing     not accepted, we would like to ask
+                        process, are basically overlapped           the following clarification:
+                            with the same analysis and              “For historical data where         Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                              monitoring foreseen for          institutions have not adopted the       color: Auto, English (Ireland)
+                        probation period, on top of which         minimum 12-month probation
+                         the independence period should        period on distressed restructured
+                        be applied, within the EBA GL on      facilities under paragraph 72 of the
+                                 Definition of Default        EBA GL on the definition of default,
+                           (EBA/GL/2016/07 - par. 76).          they should consider a 21-month
+                           Therefore requiring a further           period for the application of
+                         analysis on this, considering also   paragraph 101 of the EBA GL on PD
+                                the critical and highly        and LGD. The 12-month probation
+                             questionable asymmetric        period is a peculiar approach applied
+                              treatment introduced by              for Unlikely to pay Forborne
+                             independence period (i.e.             positions; nevertheless, the
+                         relevant for LGD but not for PD),  identification of Forborne positions is
+                        would result in a low value added      quite recent in the IT systems as a
+                           effort required to the Banks.    consequence of regulatory principles
+                                                                 and does not coincide with the
+                                                                 former distressed restructured
+                                                             facilities. It is therefore requested to
+                                                             clarify how the pro-forma correction
+                                                               has to be applied on the historical
+                                                              series: has the 21-month period for
+                                                                                                    27
+
+                                                                     the default windows grouping to be
+                                                                         applied for all the customers
+                                                                      classified as "Restructured" even if
+                                                                      they are a larger sample compared
+                                                                         to currently Forborne rules?
+   5.2                                 We suggest to delete this                                              Formatted: Font color: Red, English (United States)
+                                  paragraph. The performance of
+                                                                                                              Formatted: English (United States)
+                                 models should be assessed on the
+                                 full range of application of rating                                          Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                                                                                              color: Red, English (United States)
+                                        systems. Assessing the
+                                   performance on sub-ranges of                                               Formatted Table
+                                   application could lead to hasty
+                                 conclusions as the portfolio used
+                                                                      The calculation of default rates on     Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                     in the calibration will not be
+           103     41   Deletion                                        sub-ranges of application is not      color: Red, English (United States)
+                                    replicated on the backtesting
+                                                                                     justified                Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                    exercises. Also, for modelling
+                                  reasons, institutions may gather                                            color: Red, English (United States)
+                                    several portfolios in the same                                            Formatted: English (United States)
+                                  model (for example a model on                                               Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                    Large Corporate). Therefore,                                              color: Red, English (United States)
+                                   some sub-range portfolios may
+                                                                                                              Formatted: English (United States)
+                                    suffer from low volumetry of
+                                                defaults.                                                     Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                                                                                              color: Red, English (United States)
+ 5.2 LGD  105 - b 42-43 Deletion The model component approach
+structure                         is designed to capture different                                            Formatted: English (United States)
+                                  aspects of the recovery process                                             Formatted: Font color: Red, English (United States)
+                                      and allows to obtain a LGD
+                                   estimate which is the result of
+                                       both losses observed and
+                                     dynamics of cure/migrations
+                                      within default statuses and
+                                 between default and non-default.
+                                                                                                           28
+
+                                     The request to demonstrate
+                                      independence among the
+                                 components is not clear and not
+                                  coherent with other regulatory
+                                    prescriptions. The goal of the
+                                  model components is different
+                                and also the drivers tested are, in
+                                 general, different; the burden of
+                                  proof for institutions to provide
+                                      empirical evidence of their
+                                 independence has to be deleted
+                                          from the document.
+  5.3 Risk     108 44 Amendment §108 indicates that the minimum        Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+quantification                   period of time during which the       color: Red, English (United States)
+                                    default should be observed in
+                                   order for it to be considered in
+                                  the calculation of the observed
+                                average LGD should not be longer
+                                       than 12 months. We are
+                                      wondering why 12 months
+                                Moreover this requirement leads
+                                   to taking into account defaults
+                                 with immature recovery profiles,
+                                  increasing the uncertainty of th
+                                   efinal outcome and potentially
+                                         leads to higher LGDs.
+                                    Since for recent defaults only
+                                  limited information is available
+                                      regarding the full recovery
+                                       process, the treatment of
+                                  incomplete recovery processes
+                                envisaged in paragraph 158 of the
+                                                                    29
+
+   EBA GL on PD and LGD is more
+         complex and could add
+uncertainty to the LGD estimates;
+ to mitigate this risk, institutions
+ may establish a minimum period
+ of time during which the default
+should be observed in order for it
+         to be considered in the
+      calculation of the observed
+   average LGD (with a maximum
+ period equal to 12 months). This
+ principle is correct but should be
+  specified as well for institutions
+    applying a model component
+approach: in this case the analysis
+    should be replicated not only
+ from the entrance in default but
+ as well from the entrance in the
+    litigation process. In fact, in a
+   standard approach where the
+LGD is equal to Pcure*LGDcured +
+(1-Pcure)*LGDnoncured, the LGD
+ of non cured facilities (litigation
+   process) includes as well open
+facilities and the open inferenced
+      cases are estimated on the
+      sample of non cured cases.
+ Therefore, even in these cases it
+    should be allowed to exclude
+positions with limited information
+       from the beginning of the
+  litigation phase. Finally, the 12-
+month period should be extended
+                                      30
+
+                                        for the secured facilities where
+                                      the realisation of the collateral at
+                                       the end of the recovery process
+                                             determines an even less
+                                       significant contribution of young
+                                                     positions.
+23 5 109 44, 45      Clarification    We understand the the maximum         Banks in many Member States have
+                                        period of the recovery "time to     high volumes of NPLs. As these are
+                                       workout" has to be duly justified   worked out, the time-to-workout can
+                                        and supported by studies. Can      be expected to extend (supported by
+                                            this "time to workout" be               empirical evidence).
+                                       modified over a model life cycle
+                                        considering the regulatory text
+                                       n°529/2014?In principle, can the
+                                         ‘time-to-workout’ be revised
+                                           (subject to material change
+                                          procedures) within a model?
+24 5 110  45         Clarification       Is vintage defined by year-of-
+                                        observation-as-in-default or by
+                                                 year-of-default?
+25 5 111  46           Deletion        The introduction of a concept of          Risk of double counting of
+                ClarificationDeletion   MRP and the adoption of 100%       conservative effect for Repossessions
+                                      haircut for repossessed assets not
+                                       yet sold is deemed as potentially
+                                         over-conservative. Indeed We
+                                          interpret this paragraph as a
+                                            requirement to perform a
+                                         sensitivity analysis in order to
+                                              evaluate the impact of
+                                                                                                               31
+
+   repossessed asset on the LRA
+     LGD. If this is the case, the
+purpose of the analysis should be
+    made explicit. Indeed, the
+   adoption of 100% haircut for
+  repossessed assets not yet sold
+     (after the MRP) would be
+ potentially over-conservative. As
+a matter of fact the repossession,
+as defined also within the EBA GL
+     on PD-LGD, would entail a
+ reduction of the credit exposure
+in force of the value of the assets.
+   Although a haircut should be
+   applied on repossessed asset
+     value in order to factorize
+uncertainty of the collateral value
+ and level of liquidity, it should be
+kept in mind that the repossessed
+  assets will be booked on Bank’s
+ balance sheet and risk weighted
+    accordingly. Thus in case of
+   repossession of assets falling
+      under “other non credit-
+    obligation assets” category
+    pursuant to CRR Article 156
+  would be 100% risk-weighed in
+    most of the cases. In case of
+repossession of equity assets (e.g.
+  due to debt to equity swap, not
+      infrequent in context of
+  restructuring measure) the risk
+   weight would be even higher
+                                      32
+
+ (especially in view of the future
+      Basel 4 context where only
+Standardized Approach would be
+admitted). Therefore envisaging a
+     treatment like substantially
+ realized incomplete workout for
+ the repossessed assets that can
+      take time for realization as
+    similarly to ordinary cases of
+      collateral execution would
+    introduce a double counting
+     conservative effect limiting
+  therefore the rationale and the
+    recourse of the repossession
+technique. Indeed the more time
+ a repossessed assets will remain
+in the balance sheet of the Bank,
+  instead of having cash in-flows,
+  the more time the Bank should
+pay RWA on it. Thus the adoption
+    of haircut equal to 100% for
+  repossessed assets not yet sold
+  would end up in an increase of
+   LGD (and RWA) on the credit
+obligations reference portfolio as
+           well, doubling the
+penalization.The introduction of a
+concept of MRP and the adoption
+ of 100% haircut for repossessed
+ assets not yet sold is deemed as
+   potentially over-conservative.
+     Indeed the repossession, as
+defined also within the EBA GL on
+                                   33
+
+ PD-LGD, would entail a reduction
+ of the credit exposure in force of
+ the value of the assets. Although
+   a haircut should be applied on
+ repossessed asset value in order
+    to factorize uncertainty of the
+      collateral value and level of
+liquidity, it should be kept in mind
+  that the repossessed assets will
+    be booked on Bank’s balance
+        sheet and risk weighted
+      accordingly. Thus in case of
+     repossession of assets falling
+        under “other non credit-
+      obligation assets” category
+      pursuant to CRR Article 156
+   would be 100% risk-weighed in
+     most of the cases. In case of
+repossession of equity assets (e.g.
+  due to debt to equity swap, not
+        infrequent in context of
+   restructuring measure) the risk
+     weight would be even higher
+  (especially in view of the future
+      Basel 4 context where only
+ Standardized Approach would be
+admitted). Therefore envisaging a
+      treatment like substantially
+  realized incomplete workout for
+  the repossessed assets that can
+      take time for realization as
+     similarly to ordinary cases of
+       collateral execution would
+                                     34
+
+                                            introduce a double counting
+                                             conservative effect limiting
+                                          therefore the rationale and the
+                                            recourse of the repossession
+                                        technique. Indeed the more time
+                                         a repossessed assets will remain
+                                        in the balance sheet of the Bank,
+                                          instead of having cash in-flows,
+                                          the more time the Bank should
+                                        pay RWA on it. Thus the adoption
+                                            of haircut equal to 100% for
+                                          repossessed assets not yet sold
+                                          would end up in an increase of
+                                           LGD (and RWA) on the credit
+                                        obligations reference portfolio as
+                                          well, doubling the penalization.
+                                        We are in favour of maitening the      Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                           optionality as it allows to take    color: Red, English (United States)
+                                             into account differences in       Formatted Table
+ 6.2 Realised                                 approach to typical retail
+                113    46 Clarification                                        Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+     CCFs                                portfolios (rather facility based)
+                                                                               color: Red, English (United States)
+                                           and SME/corporate portfolios
+                                         (rather based on aggregation of       Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                                      facilities)”             color: Red, English (United States)
+   5.3 Risk    113 - a 46 Clarification For the cases where two or more        Formatted: English (United States)
+quantification                          facilities (for example mortgages)     Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                         of the same obligor are assigned      color: Red, English (United States)
+                                        to the same facility grade or pool     Formatted: English (United States)
+                                        we deem appropriate to have two
+                                              options as compliant for         Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                                                               color: Red, English (United States)
+                                         calculating the average. The first
+                                             is to compute the average         Formatted: English (United States)
+                                         weighted by the total number of       Formatted: English (United States)
+                                                                            35
+
+                                    facilities within that facility grade.
+                                        The second is to first take the
+                                         exposure-weighted average
+                                      realised LGD at the obligor level
+                                        and then take the arithmetic
+                                        average LGD weighted by the
+                                        number of defaulted obligors
+                                    within the LGD grade. Institutions
+                                        should demonstrate that the
+                                         approach they use does not
+                                      distort the actual observed loss.
+  5.3 Risk     113 - c 47 Amendment       The proposed treatment of
+quantification                            outliers is not symmetrical
+                                       between the two tails. On one
+                                     hand paragraph 113 (b) requires
+                                      to floor the left tail to 0, on the
+                                          other hand this paragraph
+                                          requires the right tail to be
+                                         treated with an appropriate
+                                         treatment (data quality, risk
+                                     drivers, assignment to grades or
+                                    pools or assignment to calibration
+                                          segments) without capping
+                                     realised LGD values. The practice
+                                    widespread among institutions to
+                                      replace the observed value by a
+                                         pre-defined value when the
+                                     observed value is above the pre-
+                                        defined one already partially
+                                         safeguards the symmetrical
+                                      approach between the two tails
+                                        and definitely allows to avoid
+                                       further biases in the estimated
+                                                                           36
+
+                                       LGDs. It is not always possible to
+                                          assign these outliers to one
+                                      bucket or grade because they can
+                                      pertain to different combinations
+                                       of the risk drivers used to model
+                                        the loss rates. The unintended
+                                         consequence of the proposed
+                                       practice could be an increase of
+                                          the facilities excluded in the
+                                      sample definition. We suggest to
+                                           replace the proposal of the
+                                          inclusion of raw data with a
+                                      percentile treatment of the right
+                                                        tail.
+  5.3 Risk     115 - b/c 47 Amendment Same amendment and comment
+quantification                            as for paragraph 105-b. The
+                                        model component approach is
+                                         designed to capture different
+                                       aspects of the recovery process
+                                           and allows to obtain a LGD
+                                        estimate which is the result of
+                                            both losses observed and
+                                          dynamics of cure/migrations
+                                           within default statuses and
+                                      between default and non-default.
+                                          The request to demonstrate
+                                            independence among the
+                                       components is not clear and not
+                                        coherent with other regulatory
+                                         prescriptions. The goal of the
+                                        model components is different
+                                      and also the drivers tested are, in
+                                       general, different; the burden of
+                                                                          37
+
+                               proof for institutions to provide
+                                  empirical evidence of their
+                              independence has to be deleted
+                                      from the document.
+                                                                                                          Formatted Table
+                              Paragraph 118 suggests to take into
+                                   account "any changes to the
+   5  118   48 Clarification    structure of the portfolio that are
+                                    expected to happen in the
+                                       foreseeable future".
+26 5 118(c) 49  Deletion          Past economic and market           The LRA LGD should represent the
+                              conditions only characterise part        long run behaviour of the LGD
+                                   of an economic cycle and            parameter. Estimation of this
+                                 therefore may not provide a          parameter will be biased if past
+                               representative set of economic       economic and market conditions are
+                               conditions for the evaluation of        not representative of the LRA.
+                                             the LRA.                Adjustments should be permitted
+                                                                         (supported by arguments).
+27 5 120(a) 49  Deletion      The prescribed 20 year period is          Contributes to unwarranted
+                             arbitrary and does not provide for              variability in RWAs.
+                                 a level-playing field between
+                                        Member States.
+                             We note that this is subject to a
+                             separate EBA consultation.
+                                                                                                       38
+
+28        5       120(a)     49   Clarification    Is the 20 year period a rolling
+                                                 period, an extending period or a
+                                                            fixed period?
+29        5        124       51   Clarification An increase in LGD to account for        This maintains consistency of
+                                                     data that does not include       language with the section on MoC
+                                                 adverse economic conditions is       and also allows banks to compute
+                                                 not MoC. It should be properly       the adjustment using econometric
+                                                be described as an adjustment as                  modelling.
+                                                      the desired estimate is a
+                                                downturn estimate of LGD. MoC
+                                                will also be required in addition to
+                                                  this adjustment to account for
+                                                possible error in this adjustment.
+30        5      Par. 5.3.5 49-51   Deletion    As long as the EBA RTS and GL on       Downturn GL still in draft in EBA
+                                                downturn will not be closed, and
+                                                considering the strong debate on
+                                                this on several critical points (e.g.
+                                                adoption of the Reference Value),
+                                                   this section should be, for the
+                                                  time being, removed from the
+                                                    current version of the Guide
+         5.4       126       52   Clarification        The possibility to reflect
+   Estimation of                                downturn conditions in the ELBE,
+   ELBE and LGD                                   if and only if current economic
+     in-default                                 conditions are in a downturn or a
+                                                  downturn is expected over the
+                                                period of the recovery process, is
+                                                      shared by the institution.
+                                                Nevertheless, we do not perceive
+                                                  this approach in the inspection
+                                                                                                                         39
+
+                              practices; indeed it's a quite
+                           common feeling that, until now,
+                         ECB preference has been towards
+                          an ELBE associated with long-run
+                             average or, at most, long run
+                            average corrected to take into
+                               account positive economic
+                           outlook and an entire downturn
+                          assigned to LGD in-default not to
+                         lower RWA on defaulted facilities.
+                          Otherwise we deem appropriate
+                           to reduce RWA (at least for the
+                           Downturn share, the MoC is the
+                             other one) in case of current
+                             economic conditions already
+                           embedded in the Expected Loss
+                                     Best Estimate.
+                                 We therefore ask for a
+                           clarification on how to interpret
+                          this issue and for more details on
+                           the approach to be applied. We
+                          highlight that an important issue
+                            is to avoid as much as possible
+                             the excessive volatility in the
+                                RWAs and therefore the
+                          correction to ELBE should not be
+                          based on an excessively PIT logic.
+31 6 132 55-56 Amendment    A strict link of the aggregation Facility aggregation rule for CCF not
+                           logics of CCF to the LGD ones is     necessarily similar to LGD one
+                           not fully meaningful. Indeed the
+                           aggregation logic on LGD might
+                            be driven by the level at which
+                                 the recovery process is
+                                                                                                  40
+
+                                   performed, whereas on CCF side
+                                    the aggregation logic should be
+                                         driven more by potential
+                                         interconnections among
+                                      elementary facilities affecting
+                                     each other the behavior of the
+                                   drawing of the unused credit line
+                                      (e.g as in the cases of current
+                                  account with connected advances
+                                      facilities, multipurpose credit
+                                    lines where a credit limit can be
+                                        shared among more credit
+                                   facilities, etc). As a consequence
+                                    of this not necessarily the same
+                                   level of aggregation adopted on       Formatted: Left
+                                   LGD might fully work on CCF and
+                                                                         Formatted Table
+                                  vice versa. Thus we would suggest
+                                     to amend the wording making         Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                  reference to possible aggregation      color: Auto, English (Ireland)
+                                  according to the characteristics of    Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                  the facilities rather than adopting    color: Auto, English (Ireland)
+                                     aggregations valid on LGD side.     Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                                                         color: Auto, English (Ireland)
+                                     We understand that regulatory
+                                                                         Formatted: Font color: Auto, English (Ireland)
+                                    texts set rules regarding PD and
+6.2 Realised                                                             Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+             133 56 Clarification  LGD calculation whereas there is
+    CCFs                                                                 color: Auto, English (Ireland)
+                                  none as far as the CCF parameter
+                                                is concerned             Formatted: Font color: Auto, English (Ireland)
+                                                                         Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                                                                         color: Auto, English (Ireland)
+                                                                         Formatted: Font color: Auto, English (Ireland)
+                                                                         Formatted: Font color: Auto, English (Ireland)
+                                                                         Formatted: Font color: Auto, English (Ireland)
+                                                                      41
+
+6.2 Realised 133 - b 56 Amendment            Refer to amendment to
+    CCFs                                     paragraph 97-a on LGD.
+  6.3 CCF    134 - b 57 Clarification Clarification is requested between
+ structure                                fixed horizon approach and
+                                             cohort approach: Basel
+                                             Committee on Banking
+                                       Supervision has indicated the 12
+                                      months fixed horizon approach as
+                                       the preferred one, while, both in
+                                      inspections and in this Guide, the
+                                        cohort approach is requested as
+                                          well. More details should be
+                                             provided on this topic.
+     6.3      134c   57 Clarification We understand that changes (i.e.
+                                       increase) in the value of the limit
+                                       for example may have an impact
+                                        on the CCF. How do institutions
+                                      have to consider this changes? Do
+                                         they have to be considered as
+                                                new credit lines?
+     6.4      136    58 Amendment     The rules mentioned in article 136
+                                         are additional ones to the CRR
+                                      and add requirements. However,
+                                         we consider that they are not
+                                        sufficiently precise and they are
+                                             open to interpretation
+                                                                           42
+
+    6.4 CCF risk  136 - b 58 - 59 Amendment    As for paragraph 113 - c about
+   quantification                             LGD, we deem not appropriate
+                                             the proposal not to cap the right
+                                                  tail of the distribution. An
+                                                 appropriate treatment (i.e.
+                                               interquartile range) has to be
+                                                performed in order to avoid
+                                                biases coming from raw CCF.
+32       6        136(c)    59    Amendment  it appears not immediately clear     Calculation of realized LRA CCF
+                                                    the reasons behind the        seems not fully in line with CRR
+                                              calculation of the LRA CCF as an      Article 182, par 1, letter a)
+                                                arithmetic average of yearly
+                                             average of observed CCF. Indeed
+                                                  this approach results self-
+                                             explaining on PD side where it is
+                                               necessary to have performing
+                                            obligor at the different reference
+                                            dates and observing default rates
+                                             on one-year horizon. But on CCF
+                                            side, as for LGD, a calibration to a
+                                                  default weighted long run
+                                            average of all observed defaults is
+                                             required by the CRR (Article 182,
+                                              par. 1, letter a) “(a) institutions
+                                            shall estimate conversion factors
+                                               by facility grade or pool on the
+                                                basis of the average realised
+                                                conversion factors by facility
+                                              grade or pool using the default
+                                             weighted average resulting from
+                                              all observed defaults within the
+                                               data sources;”). Therefore we
+                                                   suggest to keep a proper
+                                                                                                                   43
+
+                        alignment with CRR requirement,
+                              by amending the wording
+                            accordingly, in order to avoid
+                         create potential inconsistency in
+                              the interpretation of the
+                                     requirement.
+                         In addition, The rules mentioned
+                         in article 136 are additional ones
+                        to the CRR and add requirements.
+                          However, we consider that they
+                           are not sufficiently precise and
+                          they are open to interpretation
+33 6 136(d) 59 Deletion  we deem that this paragraph is a     Calibration concept of CCF linkage to
+                        replication of the criteria valid for               PD ones
+                        LRA default rate quantification on
+                        PD side. However CCF, as for LGD,
+                        should be calibrated at downturn
+                         level (if higher than the long run)
+                            thus the availability of a long
+                           enough LRA CCF covering both
+                             good and bad years is more
+                           relevant for a sound downturn
+                            estimation leveraging on the
+                           availability of downturn period
+                         within the time series of internal
+                          data (i.e. adopting the approach
+                         based on observed impact as for
+                        the draft of EBA GL on downturn)
+                           rather than for a calibration at
+                          LRA representative of the likely
+                            range of variability of default
+                               which is relevant for PD.
+                                                                                                  44
+
+                                           Therefore this paragraph appears
+                                              redundant and might create
+                                                     confusion in the
+                                           operationalization of the CCF risk
+                                                      quantification.
+34       6        General    Amendment      The section on CCFs is a cut and     It is not appropriate to choose
+                                              paste of the section on LGD.    different downturn periods for LGD
+                                                However, following the        and CCF for the same set of facilities
+                                             prescribed guidance, one may       as there is a correlation between
+                                              arrive at a downturn period                   LGD and CCF.
+                                           different to the one used for LGD
+                                               for a given set of facilities. Credit management measures could
+                                                                                  be taken to reduce the CCF of
+                                                                              facilities even as their LGD increases
+                                                                                   during a period of economic
+                                                                                 adversity. E.g. revolving credit.
+                                                                                 The text should be amended to
+                                                                              prescribe the same downturn period
+                                                                                       for both LGD and CCF.
+    6.4 CCF risk   138    60 Clarification Since this paragraph refers to the
+   quantification                            Downturn LGD comments are
+                                            reported above for paragraphs
+                                                        119-124.
+                                                                                                                   45
+
+5 for Loss  Section     49-    Deletion    As long as the EBA RTS and GL on      Downturn GL still in draft in EBA
+           5.3.5, Par. 51,60                downturn will not be closed, and
+  given       138                          considering the strong debate on
+ default                                   this on several critical points (e.g.
+                                           adoption of the Reference Value),
+                                             all the references to this topic,
+                                           extended also to CCF, should be,
+                                           for the time being, removed from
+                                            the current version of the Guide
+     7        142       61   Clarification  Margin of conservatism have to
+                                           be integrated into models in case
+                                              of statistical weaknesses. Do
+                                            institutions have to consider the
+                                           uncertainty surrounding volatility
+                                              in a Margin of conservatism
+                                              whereas the involved models
+                                                predict it in a satisfactory
+                                                          manner?
+                                           Wording is not clear regarding the
+                                            proposed calculation framework
+                                            for statistical weaknesses as the
+                                             MoC seems to depend only on
+                                            observed values. It seems that a
+                                              model that perfectly follows
+                                              observed volatility would be
+                                                penalised only because of
+                                             volatility in the observations. It
+                                           could be expected that rather the
+                                            difference between observation
+                                            and prediction is targeted by the
+                                                            MoC.
+                                                                                                                   46
+
+    35         7          142   61 Clarification     It should be clarified that the
+                                                  intent of this paragraph is not to
+                                                     prescribe a model philosophy
+                                                                 (PiT, TtC).
+                                                     It should be clarified that the
+                                                     intent of this paragraph is to
+                                                    require a quantification of the
+                                                     error in determining the LRA
+                                                     based upon the length of the
+                                                       timeseries from which it is
+                                                               determined.
+                                                         To this end, it should be
+                                                   recognised that different banks
+                                                   will adopt different approaches
+                                                   unless a common approach can
+                                                   be agreed. Examples would be
+                                                                   useful.
+36 si;ilqr
+message                                                 The request to reflect the
+  than                                                 dispersion of the statistical
+following                                           estimator at grade level might
+                                                  produce the following effects (in
+                       7 Model-                            particular for LDP):
+                        related                      - inversion of PD ordering for
+           Credit Risk          61 Amendment
+                       MoC §142                              adjacent classes
+                          -a                     - incentive to use totally PIT rating
+                                                     systems in order to minimize
+                                                     variability of default rates for
+                                                    each class. On the other hand,
+                                                 this would increase RWA volatility
+                                                    - incentive to use less granular
+                                                                                       47
+
+    Master Scale, penalizing the
+     models risk differentiation
+Some of the described effects are
+illustrated on a practical example
+     in the attached document.
+    Furthermore, the request to
+  consider each year's variability
+    might produce the following
+   effects (in particular for LDP):
+ - incentive to use shorter LRA, in
+  order to avoid variability of DR
+ due to full covering of economic
+                  cycles
+- potential contradiction with the
+       necessity to cover "likely
+  variability of the default rates".
+      It is suggested to replace:
+      " to account for statistical
+         uncertainty/sampling
+ error affecting the LRA estimate
+at grade level stemming from the
+ variability of each year’s default
+       rate and from the period
+             considered. This
+   MoC should be defined on the
+   basis of the distribution of the
+              estimator, i.e.
+  the average default rate across
+     time, and therefore reflect
+            sensitivity to the
+           period considered"
+                                     48
+
+                                                with:
+                                    "to account for statistical
+                                       uncertainty/sampling
+                                 error potentially affecting the
+                               model estimation at least at the
+                              level of calibration segment. The
+                                  MOC should account for the
+                                potential variability of default
+                                    rates and the number of
+                              observations available for model
+                                            estimation"
+36 7 142 61-62 Clarification        It is unclear if the "other  Not clear explanation on MoC    Formatted: Font: (Default) +Body (Calibri), 11 pt, Font
+                               estimates" refers to parts of the category C for PD parameter     color: Auto, English (Ireland)
+                             model that due to the estimation
+                               complexity might be considered
+                                self-standing models or to any
+                                parameter which represent an
+                             input to the model (i.e. Downturn
+                                component, indirect costs). In
+                                  particular, it is unclear what
+                             should measure the materiality of
+                                   the uncertainty (quality of
+                              parameter estimation, relevance
+                                of the parameter in the model,
+                                 marginal changes that a MOC
+                                   might produce). Due to the
+                                  complexity of the correlated
+                                   effects and the undesired
+                               possibility to disproportionately
+                                     increase the MoC C, it is
+                             requested to specify that "one for
+                               all" MoC C should be computed
+                              and the latter should encompass
+                                                                                              49
+
+                       all the model's estimation errors.                                              Formatted: Font color: Auto
+                        we deem that the wording “[…]
+                         estimate a MoC to account for
+                        statistical uncertainty/sampling
+                        error affecting the LRA estimate
+                           at grade level […]” should be
+                       better clarified. Indeed, in case of
+                      adoption of a calibration by grade
+                       or pools, the calculation of a MoC
+                      for each grade, which seems to be
+                        what required in this paragraph,
+                      would be basically not sustainable
+                             since it might end up in a
+                         potentially high MoC the more
+                         the estimation is risk sensitive
+                       (and therefore the more granular
+                          is the grading). Furthemore it
+                       should be clarified what intended
+                             for LGD and CCF with the
+                            statement “[…] and, when
+                            material, for the statistical
+                        uncertainty that can arise from
+                      the estimates used in the LGD LRA
+                       and CCF LRA estimation process”
+7 142(a) 61 Amendment It should be clarified that the MoC     MoC C should be independent from
+                      “to account for statistical             the yearly default rate volatility and
+                      uncertainty/sampling              error    should depend on number of
+                      affecting the LRA estimate” should                  observations
+                      be based on the number of
+                      observation available rather than
+                      the variability of one year DRs.
+                      Indeed considering the volatility of
+                      the DR as key driver in the
+                                                                                                    50
+
+computation of the MoC would
+lead to the following drawbacks:
+      - model with a longer
+          historical time series (and
+          hence an expected higher
+          variability in the DR) will
+          be penalised with an
+          higher MoC although the
+          statistical
+          uncertainty/sampling
+          error would be smaller
+          due to the huge number
+          of counterparties in the
+          sample for the CT
+          computation;
+      - inconsistency             with
+          framework for the CT
+          computation designed in
+          the EBA/GL/2017/16, that
+          requires a CT which is
+          representative of the
+          likely range of variability;
+      Therefore we suggest the
+     following amendment: “ to
+        account for statistical
+     uncertainty/sampling error
+  potentially affecting the LRA DR
+  estimate at least at the level of
+   calibration segment. The MoC
+  should be based on the level of
+   the LRA DR and the number of
+    observations available for its
+              estimation”.
+                                       51
+
+8 146 63 Clarification   The requirements of full model      Not clear explanation regarding the
+                        review seem to be independent        additional analyses to be performed
+                        from the deterioration evidence     in order to evaluate if a model has to
+                        in terms of model performance,                 be re-estimated
+                         that are already covered within
+                           the regular annual review of
+                            estimates, since additional
+                        analyses are required in order to
+                          evaluate if the inclusion of the
+                         most recent data would lead to
+                              different material model
+                                     outcomes.
+                             However poor details are
+                       provided regarding the additional
+                       analyses to be performed in order
+                         to evaluate if a model has to be
+                        re-estimated, not fully clarifying
+                          the requirements of articles of
+                           EBA Guidelines related to full
+                        review (i.e. article 220 that asks
+                             for review of existing and
+                             potential risk drivers and
+                          modelling overall framework).
+                       The lack of clear guidelines on this
+                            can determine difficulty in
+                         interpretation and consequent
+                        operationalization with potential
+                       increase of the operative effort in
+                            Model maintenance phase.
+                       The risk of an excessive operative
+                       effort is also linked to the request
+                          of three-yearly basis (or more
+                              often depending on the
+                                                                                                 52
+
+                                   materiality) model review,
+                               considering that paragraph 218 of
+                               EBA/GL/2017/16 already requires
+                               an (at least) annually regular cycle
+                                     of review of estimates.
+                                    Paragraph 146 mentions
+                               "material models". This wording is
+                                  not mentioned in regulatory
+                                               texts.
+                               Could you please explain what are
+                                 material models and for what
+                               purpose they have to be defined?
+37 8 147, 148 63 Clarification          Typographic error.
+38 9   151    65 Clarification   Are exemptions from the one-
+                                year maturity floor permitted?
+39 5 General     Clarification   It would be helpful if the ECB
+                                  would clarify that no specific
+                                model philosophy is prescribed
+                                              for PD.
+                                                                    53
+
+40     5     General Clarification     It would be helpful if the ECB
+                                       would clarify its expectations
+                                             regarding the use of
+                                                Masterscales.
+                                    It would be useful for the industry if    Formatted Table
+                                      ECB issued a policy regarding the
+                                         timeline for a model change,
+                                     included the timing it will takes to
+                                      send the decision (or draft letter)
+   All Risks General Clarification after an application. In this way, with
+                                   a deadline, banks could plan properly
+                                     IT interventions, business impacts,
+                                      etc ... and industry could manage
+                                   updates of time series or remediation
+                                            plans in timely manner.
+                                                                           54
+
+55
+56
+57
+58

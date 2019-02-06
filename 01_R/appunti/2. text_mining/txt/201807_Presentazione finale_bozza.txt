@@ -1,0 +1,808 @@
+      Evoluzione del Sistema TIT
+              Presentazione dei risultati
+                        Siena, luglio 2018
+BOZZA
+
+    OBIETTIVO                                                                                     BOZZA
+    Obiettivo del documento è la presentazione dei risultati del progetto. In particolare verranno condivise:
+    •     evidenze emerse dall’analisi di benchmarking;
+    •     proposte del GdL di evoluzione metodologiche sul modello TIT.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.   Siena, luglio 2018 2
+
+    AGENDA                                                                                        BOZZA
+                                ANALISI DI BENCHMARKING
+                                EVIDENZE ANALISI DI ASSESSMENT
+                                PROPOSTE EVOLUTIVE
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.   Siena, luglio 2018 3
+
+    PERIMETRO DI ASSESSMENT                                                                               BOZZA
+    Nel corso dell’assessment sono stati analizzati i principali aspetti del modello TIT nel sistema di Controllo
+    di Gestione con riferimento a:
+            1           Perimetro di applicazione dell’attuale modello dei TIT, in termini di operatività, business unit e
+                        legal entity del gruppo;
+            2           Ambiti di applicazione, in termini di integrazione con altri sistemi di gestione delle informazioni
+                        relative al TIT e di processo attuativo;
+            3           Perimetro dei rischi considerati e metodologia/metriche di calcolo utilizzate.
+Evoluzione del sistema TIT – Presentazione dei risultati  © 2018 Montepaschi. All rights reserved.              Siena, luglio 2018 4
+
+    EVIDENZE ANALISI DI ASSESSMENT                                                                         BOZZA
+    Di seguito sono riportati i principali risultati dell’attività di assessment condotta sull’attuale modello di TIT
+    utilizzato nell’ambito del controllo di gestione, con riferimento ai tre assi di analisi precedentemente
+    illustrati.
+    Come richiesto dal gruppo MPS, il campione è costituito da un gruppo di 6 banche italiane significant di
+    carattere nazionale e internazionale con forte radicamento sul territorio domestico che, per dimensione e
+    modello di business, sono confrontabili con il Gruppo MPS.
+    Le evidenze grafiche sono relative al campione di banche sopra riportato, mentre le scelte di MPS sono
+    rappresentate mediante la label                      , in modo da evidenziare il posizionamento relativo della banca
+    rispetto ai competitors.
+Evoluzione del sistema TIT – Presentazione dei risultati      © 2018 Montepaschi. All rights reserved.          Siena, luglio 2018 5
+
+                                                                                                                              1
+    PERIMETRO DI APPLICAZIONE - AREE DI REVISIONE DEL MODELLO DEI TIT                                       BOZZA             2
+                                                                                                                              3
+    Delle 6 banche intervistate, solo una non ha attualmente in corso un progetto di revisione del modello TIT.
+                                                           Aree di revisione del modello TIT
+                                       Poste a vista
+                     Costo indiretto liquidità (LBC)
+                                   Portafoglio Titoli
+                         Definzione curva blended
+    Liquidity adjustment (per attivi rifinanziabili)
+                                         Patrimonio
+                                         Sofferenze
+                                                Altro
+                               Aspetti organizzativi
+                                                         0         1                         2            3  4                    5
+    Nelle categorie «aspetti organizzativi» ed «altro» rientrano:
+    •     Revisione policy TIT
+    •     Estensione alle controllate
+Evoluzione del sistema TIT – Presentazione dei risultati         © 2018 Montepaschi. All rights reserved.      Siena, luglio 2018   6
+
+                                                                                                                                                     1
+    PERIMETRO DI APPLICAZIONE | BU E PRODOTTI                                                                                 BOZZA                  2
+                                                                                                                                                     3
+    Come evidenziato dai grafici, solo due banche rendicontano tutte le unità organizzative della
+    banca/gruppo e, di conseguenza, tutti i prodotti, seppur con modalità differenti.
+                                     Applicazione modello TIT                                           Unità organizzative oggetto di
+                                                                                                        rendicontazione in base ai TIT
+                        PO retail
+              Raccolta clientela
+              Impieghi clientela                                                                                    2              2
+           Portafoglio Bancario
+                 PO istituzionali
+                                                                                                                            2
+                   Interbancario
+                      Sofferenze
+                                                                                                        Tutte le BU   Rete e ALM&Tesoreria      Rete
+    Portafoglio di Negoziazione
+                      Patrimonio
+                  Partecipazioni
+                                  0         1            2 3 4         5         6             7
+Evoluzione del sistema TIT – Presentazione dei risultati       © 2018 Montepaschi. All rights reserved.                               Siena, luglio 2018 7
+
+                                                                                                                                                1
+    AMBITI DI APPLICAZIONE | INTEGRAZIONE TRA PROCESSI GESTIONALI                                                        BOZZA                  2
+                                                                                                                                                3
+    Analogamente a MPS, il modello dei TIT utilizzato nei diversi processi gestionali è unico per 4 banche del
+    campione.
+                                                                                                 Relativamente alle modalità di applicazione
+                                      Finalità modello TIT
+                                                                                                 del TIT alle diverse società del gruppo, il
+    Rendicontazione (Controllo di Gestione)
+                                                                                                 modello    è   generalmente       unico,           ad
+                                          Budget
+                                                                                                 eccezione di due realtà a forte vocazione
+                      Pricing prodotti clientela
+                                                                                                 internazionale che si sono orientate verso
+                          Politiche commerciali
+                                                                                                 un modello organizzativo differente.
+                       Misure di Rischio (ALM)
+                                                                                                 Una banca del campione ha attualmente in
+                                     Calcolo EVA
+                                                                                                 corso     un     progetto    di        revisione
+                     Pricing prodotti finanziari
+                                                                                                 metodologica che ha come obiettivo anche
+                                                      0  1 2 3   4     5      6        7
+                                                                                                 l’estensione del modello TIT alle società del
+                                                                                                 gruppo.
+Evoluzione del sistema TIT – Presentazione dei risultati       © 2018 Montepaschi. All rights reserved.                          Siena, luglio 2018    8
+
+                                                                                                                    1
+    AMBITI DI APPLICAZIONE | STRUMENTI                                                            BOZZA             2
+                                                                                                                    3
+    Stante le finalità di utilizzo dei TIT sintetizzate nella slide precedente, è emerso che tre banche si sono
+    dotate di software per il calcolo dei TIT prodotti da IT Vendor, mentre le restanti tre hanno adottato una
+    soluzione sviluppata «in house», scelta condivisa, quest’ultima, anche da MPS.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 9
+
+                                                                                                                                                             1
+    AMBITI DI APPLICAZIONE | FUNZIONI, RUOLI, PROCESSI                                                                              BOZZA                    2
+                                                                                                                                                             3
+    Il modello dei TIT e la relativa policy sono aggiornati con cadenza almeno annuale da tutte le banche del
+    campione, soluzione adottata anche da MPS.
+    In generale emerge che in almeno 3 realtà bancarie vengono coinvolte più funzioni ad ogni step
+    decisionale, diversamente da quanto avviene in MPS come evidenziato nella tabella seguente. Più nel
+    dettaglio, le responsabilità nella definizione del modello sono attribuite alle diverse funzioni/organi
+    aziendali come indicato di seguito:
+            FUNZIONE/ORGANO                        DEFINIZIONE VALIDAZIONE      APPROVAZIONE                 Le funzioni/organi coinvolte nel
+     Consiglio di Amministrazione                        0          0                      4
+                                                                                                             processo di calcolo dei TIT sono:
+     Finanza/Tesoreria                                   3          1                      0
+     Pianificazione & Controllo                          6          1                      0                                 FUNZIONE
+     Risk Management                                     0          4                      0                      Pianificazione & Controllo *                 6
+     Direzione Commerciale                               0          1                      0
+     Comitato ALM                                        0          1                      2
+                                                                                                              * In alcune realtà la funzione Risk
+     Comitato Rischi                                     0          2                      1                  Management partecipa al processo di calcolo
+     Altro                                               0          0                      1                  di specifici item (p.e. funding spread titoli)
+Evoluzione del sistema TIT – Presentazione dei risultati            © 2018 Montepaschi. All rights reserved.                                  Siena, luglio 2018 10
+
+                                                                                                                                                            1
+    AMBITI DI APPLICAZIONE | DEROGHE, PROCESSO E AUTOMATISMI                                                                         BOZZA                  2
+                                                                                                                                                            3
+                     Le deroghe sono definite da:                                      Anche quando previste, le deroghe al modello dei TIT
+    Pianificazione & Controllo                                                         non sono sempre definite in base ad un processo
+                              CFO
+                                                                                       «strutturato». In una sola realtà le deroghe sono
+       Direzione Commerciale
+                                                                                       strutturali e definite in sede di budget, a carico della
+             Finanza/Tesoreria
+                  Comitato ALM                                                         funzione Pianificazione e Controllo. Anche MPS
+                                    0             1         2          3          4    prevede deroghe strutturali definite in sede di budget,
+                                                                                       esplicitamente approvate dal comitato ALM.
+                     L'effetto economico delle deroghe definite rispetto a singole
+                                                                                                                     Tutte le banche del campione
+                             operazioni/prodotti della Rete sono allocate come
+                                                     contropartita a:                                                prevedono almeno una tipologia di
+                                                              dalla Rete Commerciale alla Direzione
+                                                              Commerciale                                            deroga strutturale e, in particolare,
+                                                              dalla Rete o Direzione Commerciale al Corporate
+                                                              Center
+                                                                                                                     due gruppi coprono, come nel caso
+                                                              dalla Rete o Direzione Commerciale alla                di MPS, tutte e tre le casistiche di
+                                                              Finanza/Tesoreria
+     0         1        2        3        4          5     6                                                         deroghe.
+Evoluzione del sistema TIT – Presentazione dei risultati                    © 2018 Montepaschi. All rights reserved.                         Siena, luglio 2018 11
+
+                                                                                                                                                1
+    PERIMETRO DEI RISCHI | TRASFERIMENTO                                                                                    BOZZA               2
+                                                                                                                                                3
+    Il trasferimento dei rischi riguarda solo i rischi finanziari (tasso, cambio e liquidità); relativamente al
+    rischio di credito, normalmente, viene attribuito alla Rete il costo del credito, mentre non ne viene
+    trasferito il rischio.
+    La gestione dei rischi finanziari avviene secondo modelli organizzativi differenti, sia per quanto riguarda
+    la rendicontazione separata tra gestione del rischio di tasso e rischio di liquidità, sia per quanto riguarda la
+    gestione del rischio di tasso che in alcune realtà (2) è differenziata per segmento curva.
+    Analogamente alle banche del benchmark, MPS trasferisce il rischio di tasso e di liquidità, che vengono
+    gestiti da un’unità unica.
+             Tipologie di rischio ricomprese nel                                                      Trasferimento dei rischi
+                                  modello TIT
+                                                                                Unità unica per tutti i rischi finanziari
+    Liquidità
+        Tasso
+                                                                               Unità specifica per tipologia di rischio
+     Cambio
+                 0          1         2           3      4 5    6                                                         0 1  2           3        4
+Evoluzione del sistema TIT – Presentazione dei risultati     © 2018 Montepaschi. All rights reserved.                            Siena, luglio 2018   12
+
+                                                                                                                      1
+    METODOLOGIA DI CALCOLO | CURVA RISK FREE (1/2)                                                BOZZA               2
+                                                                                                                      3
+    Cinque banche, come MPS, utilizzano:
+              •      una curva di riferimento risk free distinta per divisa; solo una utilizza invece una curva di
+                     riferimento unica, indipendentemente dalla divisa di riferimento;
+              •      una curva risk free pari ai tassi Libor/Euribor per la parte a breve termine e tassi IRS per la
+                     scadenza oltre l’anno.
+    Una sola banca utilizza tassi swap per tutte le scadenze (curva IRS vs Euribor 1M), scelta dettata
+    dall’esigenza di distinguere in modo puntuale il costo del rischio di tasso da quello di liquidità implicito
+    nelle quotazioni Euribor, coerentemente con quanto previsto dalla propria policy.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.      Siena, luglio 2018 13
+
+                                                                                                                                                                1
+    METODOLOGIA DI CALCOLO | CURVA RISK FREE (2/2)                                                                                      BOZZA                   2
+                                                                                                                                                                3
+             La curva risk free di riferimento è la                                                         Quotazioni di riferimento della curva
+                 stessa utilizzata in ambito ALM?                                                                               risk free
+                                                                                                                                          Bid-Ask
+                                                                                                                                             1
+                             No
+                              2
+                                                                                                                     Mid
+                                                                                                                      5
+                                                         Si
+                                                         4
+           Curva di riferimento risk free per                                                                   Frequenza di aggiornamento dei
+                      scadenze oltre 1 anno                                                                          parametri della curva
+                        IRS vs EUR 1M
+                               1
+                                                         IRS vs EUR 6M
+                                                                3                                                   Giornaliera
+                   IRS vs EUR 3M                                                                                         6
+                          2
+Evoluzione del sistema TIT – Presentazione dei risultati               © 2018 Montepaschi. All rights reserved.                                  Siena, luglio 2018 14
+
+                                                                                                                                    1
+    METODOLOGIA DI CALCOLO | CALCOLO TIT BASE                                                                     BOZZA             2
+                                                                                                                                    3
+    La metodologia di calcolo dei TIT per le operazioni a scadenza, a tasso fisso e tasso variabile, è:
+                           PER OPERAZIONI A TASSO VARIABILE
+                                             Frequenza Revisione
+           Indicizzazione (margine di contribuzione costante)
+                                 PER OPERAZIONI A TASSO FISSO
+    tasso per scadenza in base alla Duration/maturity media
+     tasso Par Yield (sulla base del piano di ammortamento)
+                                                                 0        1               2                 3 4 5     6
+    Tutte le banche del campione considerano quale curva risk free la curva di mercato, senza introdurre
+    floor a 0 per depurare «l’effetto tassi negativi» (coerenza con principio di copertura nozionale).
+    Una sola realtà bancaria applica un floor a 0 sul tasso base per le operazioni di raccolta e impieghi
+    commerciali.
+    MPS, in linea con il benchmark, non applica nessun floor sulla curva risk free ma per le sole operazioni a
+    tasso fisso applica un floor pari a 0 sul TIT complessivo (TIT base + funding spread).
+Evoluzione del sistema TIT – Presentazione dei risultati           © 2018 Montepaschi. All rights reserved.          Siena, luglio 2018 15
+
+                                                                                                                                 1
+    METODOLOGIA DI CALCOLO | COMPONENTI OPZIONALI (1/2)                                                        BOZZA             2
+                                                                                                                                 3
+    Il TIT delle operazioni con opzione di rimborso anticipato viene calcolato come rappresentato di seguito:
+                                         sul piano contrattuale
+         sul piano contrattuale + spread adj. Judgmental
+                                                 sul piano atteso
+                  sul piano atteso + spread adj. judgmental
+    sul piano atteso + spread adj. da modello finanziario
+                                                                  0                  1                       2  3
+    Solo tre banche, come MPS, applicano uno spread adjustment al TIT delle operazioni con opzione di
+    prepayment anche se con modalità differenti (judgmental / modello finanziario).
+Evoluzione del sistema TIT – Presentazione dei risultati            © 2018 Montepaschi. All rights reserved.      Siena, luglio 2018 16
+
+                                                                                                                                     1
+    METODOLOGIA DI CALCOLO | COMPONENTI OPZIONALI (2/2)                                                           BOZZA              2
+                                                                                                                                     3
+    Il rischio di base derivante dall’operatività a tasso variabile non viene sempre trasferito alla finanza,
+    determinando quindi una variabilità del margine di contribuzione della BU commerciale.
+    la volatilità del differenziale parametro/base rate è trasferito alla
+                                       Finanza
+     la volatilità del differenziale parametro/base rate rimane in capo
+                                        alla BU
+                                                                          0                   1               2 3   4
+    Quando trasferito alla finanza, lo spread adjustment a fronte del costo del basis risk viene misurato
+    secondo metodologie differenti (differenziale tra il parametro dell’indicizzazione e il tasso base vs stime
+    basis swap).
+    MPS, in particolare, trasferisce la volatilità del differenziale parametro/base rate alla finanza, quotando
+    uno spread adjustment calcolato come costo della copertura tramite basis swap.
+Evoluzione del sistema TIT – Presentazione dei risultati             © 2018 Montepaschi. All rights reserved.         Siena, luglio 2018 17
+
+                                                                                                                                                1
+    METODOLOGIA DI CALCOLO| CURVA DI FUNDING SPREAD (1/2)                                                               BOZZA                   2
+                                                                                                                                                3
+                                                                                   Le banche che adottano la curva blended
+                          curva blended
+                                                                                   considerano approcci differenti:
+    curva wholesale esclusivamente                                                 •      4 banche considerano, nella costruzione della
+                  unsecured
+                                                                                          curva, il costo della raccolta a clientela sia a
+                                             0         1 2 3 4      5       6
+                                                                                          scadenza sia a vista;
+                                                                                   •      1 banca, analogamente a MPS, considera solo
+                                                                                          il costo della raccolta a clientela a scadenza.
+    Per l’operatività in divisa molte realtà,                                Si utilizza la medesima curva di FS
+                                                                                    dell'operatività in Euro
+    così come avviene nel Gruppo MPS, non
+    differenziano la curva di FS; solo in due,                   Si utilizza il funding spread euro maggiorato
+                                                                       per il differenziale del relativo CCS
+    attualmente, si utilizza un FS quotato a
+    richiesta su base CCS.                                                                                       0 1     2      3          4        5
+Evoluzione del sistema TIT – Presentazione dei risultati     © 2018 Montepaschi. All rights reserved.                            Siena, luglio 2018   18
+
+                                                                                                                      1
+    METODOLOGIA DI CALCOLO | CURVA DI FUNDING SPREAD (2/2)                                        BOZZA               2
+                                                                                                                      3
+     In particolare, per le banche intervistate, emerge che:
+    •     2 banche applicano la curva blended solo per gli impieghi mentre per la raccolta utilizzano TIT
+          differenziati definiti in funzione di:
+              •     tipologie di mercato;
+              •     tipologie prodotto (scadenza determinata / a vista);
+    •     le altre banche del campione adottano una curva unica, utilizzata sia per la raccolta sia per gli impieghi.
+    Come altre banche del campione, MPS utilizza un’unica curva blended per gli impieghi, mentre per la
+    raccolta sono previste tre differenti curve di FS riferite a tre diverse tipologie di prodotti: emissioni senior
+    unsecured, depositi privilegiati e depositi protetti.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.      Siena, luglio 2018 19
+
+                                                                                                                                          1
+    METODOLOGIA DI CALCOLO | AGGIORNAMENTO PARAMETRI CURVA FS                                                           BOZZA             2
+                                                                                                                                          3
+    La frequenza di aggiornamento dei parametri e dei fattori di ponderazione della curva FS sono sintetizzati
+    nelle tabelle seguenti:
+                                                         TIPOLOGIA     GIORNALIERA SETTIMANALE MENSILE SEMESTRALE ALTRO
+                                                   RACCOLTA WHOLESALE        0                   0             4 1  1
+                                                   RACCOLTA RETAIL           0                   0             3 1  1
+                                                   RACCOLTA A VISTA          0                   0             2 1  1
+                                                         TIPOLOGIA     GIORNALIERA SETTIMANALE MENSILE SEMESTRALE ALTRO
+                                                   RACCOLTA WHOLESALE        0                   0             2 1  1
+                                                   RACCOLTA RETAIL           0                   0             2 1  1
+                                                   RACCOLTA A VISTA          0                   0             1 1  1
+    MPS aggiorna con frequenza mensile le curve di FS utilizzate, differenziate per tipologia di raccolta e non
+    in funzione della tipologia di controparte, come per tutte le banche del campione.
+    I parametri di ponderazione, definiti in funzione della composizione del flusso di raccolta previsto a fine
+    periodo di budget, sono aggiornati in base alla periodicità di revisione del budget medesimo.
+Evoluzione del sistema TIT – Presentazione dei risultati              © 2018 Montepaschi. All rights reserved.             Siena, luglio 2018 20
+
+                                                                                                                                                  1
+    METODOLOGIA DI CALCOLO | LIQUIDITY ADJUSTMENT                                                                               BOZZA             2
+                                                                                                                                                  3
+    Il modello di riferimento per la determinazione dell’adjustment non è uniforme in quanto alcune banche
+    considerano uno spread unico, altre costruiscono una curva di spread adjustment differenziato per
+    scadenze e per tipologia di prodotti.
+    MPS adotta una curva di spread adjustment differenziato per scadenze.
+                                                              Impieghi abacabili
+                          Impieghi ammissibili per programmi di Covered Bond
+                                                         Impieghi cartolarizzabili
+                                                Impieghi ammissibili per TLTRO
+                                                 Impieghi con funding dedicato
+                                                                                   0                 1                      2 3  4
+    Con riferimento al tema TLTRO, in generale, il minor costo di questa forma di raccolta non impatta nella
+    costruzione della curva blended e nella maggior parte dei casi non determina alcun liquidity adjustment
+    sugli impieghi, ad eccezione di un unico gruppo bancario che attribuisce il beneficio del minore costo della
+    raccolta agli impieghi.
+Evoluzione del sistema TIT – Presentazione dei risultati                           © 2018 Montepaschi. All rights reserved.        Siena, luglio 2018 21
+
+                                                                                                                                           1
+    METODOLOGIA DI CALCOLO | RINEGOZIAZIONI                                                                              BOZZA             2
+                                                                                                                                           3
+    Le tipologie di rinegoziazioni gestite dalle banche intervistate sono l’allungamento della maturity e lo
+    switch tipo tasso (tra tasso fisso e tasso variabile, o viceversa). Le regole applicate sono differenziate in
+    funzione della tipologia di rischio:
+                                                                 Allungamento della maturity
+                                            FUNDING SPREAD
+                                     Ricalcolo ex-novo del FS
+                                 Mantenimento FS originario
+                                                        TIT BASE
+                               Ricalcolo ex-novo del TIT base
+                          Mantenimento TIT base originario
+                                                                 0      1         2         3             4        5 6 7
+                                                                       Switch tipo tasso
+                                            FUNDING SPREAD
+                                     Ricalcolo ex-novo del FS
+                                 Mantenimento FS originario
+                                                        TIT BASE
+                               Ricalcolo ex-novo del TIT base
+                          Mantenimento TIT base originario
+                                                                 0      1         2         3             4        5 6 7
+Evoluzione del sistema TIT – Presentazione dei risultati                  © 2018 Montepaschi. All rights reserved.          Siena, luglio 2018 22
+
+                                                                                                                                                     1
+    METODOLOGIA DI CALCOLO | POSTE A VISTA (1/2)                                                                                   BOZZA             2
+                                                                                                                                                     3
+    Ai fini della determinazione del rischio di tasso per le poste a vista, cinque banche stimano un TIT
+    comportamentale calcolato come media rolling per le scadenza mentre solo una applica un TIT di breve
+    termine.
+                            TIT comportamentale calcolato come media rolling
+                                                  per le scadenze
+                                                                   TIT breve termine
+                                                                                        0         1           2        3   4   5 6
+    Per quanto riguarda il rischio di liquidità, il Funding Spread viene calcolato secondo le modalità seguenti:
+                            FS comportamentale calcolato come media rolling per
+                                                     le scadenze
+                                                                             FS nullo
+                                                                  FS a breve termine
+                            FS comportamentale calcolato come media ponderata
+                                                  per le scadenze
+                                                                                      0           1              2       3   4   5
+Evoluzione del sistema TIT – Presentazione dei risultati                      © 2018 Montepaschi. All rights reserved.                Siena, luglio 2018 23
+
+                                                                                                                      1
+    METODOLOGIA DI CALCOLO | POSTE A VISTA (2/2)                                                  BOZZA               2
+                                                                                                                      3
+    Relativamente alle modalità di applicazione del TIT comportamentale alle diverse unità organizzative /
+    prodotti / clienti le banche adottano scelte eterogenee. In dettaglio:
+    •     2 banche applicano il TIT comportamentale fino alla singola filiale / rapporto;
+    •     le restanti 4 banche intervistate riconoscono il TIT comportamentale solo a livello di Direzione
+          Commerciale, mentre alla rete viene attribuito un TIT a breve termine maggiorato di uno spread,
+          scelta adottata anche da MPS.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.      Siena, luglio 2018 24
+
+                                                                                                                    1
+    METODOLOGIA DI CALCOLO | TRADING BOOK                                                         BOZZA             2
+                                                                                                                    3
+    Per le banche che determinano un TIT per i titoli del trading book, l’approccio generalmente seguito ai fini
+    di rendicontazione prevede l’applicazione di un tasso a breve termine (Eonia).
+    Il funding spread viene prevalentemente definito in base ad una maturity convenzionale posta pari
+    all’orizzonte di investimento.
+    MPS adotta metodologie in linea con quelle adottate dalle banche del campione.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 25
+
+                                                                                                                    1
+    METODOLOGIA DI CALCOLO | BANKING BOOK                                                         BOZZA             2
+                                                                                                                    3
+    Relativamente ai titoli del banking book, 3 banche dichiarano di non applicare alcun TIT, a fronte sia del
+    rischio di tasso che del costo del funding.
+    Quando misurato, il TIT a fronte del rischio di tasso è applicato secondo metodologie differenti:
+    •     Tasso a breve (Eonia);
+    •     Tasso a scadenza in funzione della durata residua del titolo alla data di acquisto.
+    Nel gruppo MPS, in ambito Risk Management il TIT calcolato è un tasso a scadenza coerentemente con la
+    metodologia descritta al secondo punto, mentre ai fini di rendicontazione, la funzione CdG calcola il TIT
+    come se l’operazione fosse a tasso variabile.
+    Quando misurato, il funding spread viene definito in base all’orizzonte d’investimento per la parte eligible
+    ed in base alla durata residua del titolo per la quota non eligible, metodologia adottata anche da MPS.
+    In generale, tale tema rappresenta un’area di revisione per molte delle banche intervistate come
+    evidenziato nella parte iniziale della presentazione.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 26
+
+                                                                                                                             1
+    METODOLOGIA DI CALCOLO | POSTE IN SOFFERENZA                                                     BOZZA                   2
+                                                                                                                             3
+    SOFFERENZE:
+    •     2 banche non applicano alcun TIT sulle sofferenze.
+    •     4 banche applicano un TIT alle posizioni in sofferenza a fronte del solo rischio di tasso in base a:
+              •     tasso a scadenza riferito ad una maturity convenzionale per una realtà;
+              •     tasso a scadenza, pari alla media rolling dei tassi relativi alle scadenze del modello di stima del
+                    tempo medio di recupero per una realtà;
+              •     Euribor 3M maggiorato dello spread di liquidità quotato sul nodo corrispondente alla durata
+                    media del piano di rientro atteso per due realtà.
+    MPS tratta i crediti in sofferenza come poste a tasso fisso con scadenza pari al tempo medio di recupero,
+    stimato statisticamente sulla base dei piani attesi di rientro (sia per quanto riguarda il TIT base sia per il
+    costo del funding).
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.             Siena, luglio 2018 27
+
+                                                                                                                              1
+    METODOLOGIA DI CALCOLO | POSTE NON INTEREST BEARING                                                BOZZA                  2
+                                                                                                                              3
+    Altre poste NON INTEREST BEARING (Patrimonio, Partecipazioni, Immobilizzazioni):
+    •     3 banche al momento non applicano alcun TIT alle posizioni non interest-bearing.
+    •     3 banche applicano un TIT alle posizioni non interest-bearing a fronte del solo rischio di tasso secondo
+          modelli differenti:
+              •     tasso a breve pari al TIT a vista;
+              •     tasso a scadenza, riferito ad una maturity convenzionale, ipotizzando che l’operazione figurativa
+                    sia a tasso fisso, con profilo del capitale bullet (tasso pari al tasso corrispondente alla scadenza) o
+                    amortizing (tasso calcolato come media rolling dei tassi alle diverse scadenze)
+    MPS per le voci di patrimonio, riserve, fondi, immobilizzazioni materiali ed immateriali, partecipazioni ed
+    altre attività e passività applica un TIT pari all’Euribor 1 M + Spread Basis Risk + FS blended 10 anni.
+    Per le altre poste patrimoniali/non onerose che rappresentano raccolta o impiego di liquidità a
+    brevissimo termine, il TIT è pari all’Euribor 1 M + FS blended 1 mese.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.              Siena, luglio 2018 28
+
+    AGENDA                                                                                        BOZZA
+                                ANALISI DI BENCHMARKING
+                                EVIDENZE ANALISI DI ASSESSMENT
+                                PROPOSTE EVOLUTIVE
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 29
+
+    EVIDENZE ANALISI DI ASSESSMENT                                                                     BOZZA
+    Dall’analisi del modello dei TIT adottato da MPS emerge che il gruppo ha effettuato scelte orientate a
+    garantire una coerenza con:
+    •     modalità di misurazione e gestione del rischio di tasso:
+            •      adozione di una curva risk free pari a quella utilizzata dal gestore ALM per effettuare le strategie di
+                   copertura;
+            •      adozione, laddove presenti, degli stessi modelli di valutazione del rischio (poste a vista, posizioni
+                   in sofferenza) o delle stesse ipotesi gestionali utilizzate dal risk management nell’ambito della
+                   misurazione del rischio di tasso;
+    •     rendicontazione dell’attività di gestione del rischio liquidità:
+            •      adozione di liquidity adjustment su tutti i prodotti attivi che possono generare una liquidità
+                   secured;
+            •      attribuzione dei costi indiretti per alcuni prodotti di raccolta alla BU a fronte dell’attività di
+                   gestione del rischio di liquidità effettuata da Tesoreria.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.               Siena, luglio 2018 30
+
+    EVIDENZE ANALISI DI ASSESSMENT                                                                BOZZA
+    Nelle slides successive viene proposta una sintesi dell’analisi di assessment effettuata. In particolare, per
+    ciascun aspetto indagato viene riportata una valutazione di allineamento rispetto alle scelte adottate dal
+    campione di banche analizzato, una valutazione di compliance rispetto a quanto previsto sul tema dal
+    Regulator ed infine una valutazione Prometeia in merito al grado di priorità con cui sottoporre a revisione
+    il singolo tema analizzato.
+    Inoltre, per ciascuna tematica, viene sintetizzato l’obiettivo definito al termine della fase di assessment
+    che ha guidato la conseguente proposta evolutiva.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.       Siena, luglio 2018 31
+
+    EVIDENZE ANALISI DI ASSESSMENT                                                                                           BOZZA
+    Ambiti                                               Confronto Benchmark                 Confronto Regulator          Valutazione Prometeia
+    Perimetro di applicazione TIT                                                                                                           -
+    Perimetro applicazione ITP                                                                                                              -
+    Integrazione tra processi gestionali                                                                                                Bassa
+    Trasferimento rischi                                                                                                                Bassa
+    Curva per il calcolo del TIT Base                                                                                                   Bassa
+    Calcolo del TIT Base                                                                                                                Bassa
+    Curva di Funding Spread                                                                                                            Media
+    Frequenza di aggiornamento curva                                                                                                        -
+    Funding Spread
+    Liquidity adjustment                                                                                                                    -
+                                                                                                         LEGENDA:            LEGENDA:
+                                                                                                                             - : Nessuna evolutiva
+                                                                                                             conforme
+                                                                                                                             Alta: evolutiva priorità «Alta»
+                                                                                                             non conforme    Media: evolutiva priorità «Media»
+                                                                                                                             Bassa: evolutiva priorità «Bassa»
+Evoluzione del sistema TIT – Presentazione dei risultati        © 2018 Montepaschi. All rights reserved.                                   Siena, luglio 2018  32
+
+    EVIDENZE ANALISI DI ASSESSMENT                                                                                           BOZZA
+    Ambiti                                               Confronto Benchmark                 Confronto Regulator          Valutazione Prometeia
+    TIT operatività a vista                                                                                                                 -
+    TIT operatività con opzionalità                                                                                                Media/Alta
+    implicita
+    Gestione basis risk                                                                                                                     -
+    Trattamento rinegoziazioni                                                                                                           Alta
+    TIT Sofferenze                                                                                                                      Bassa
+    TIT portafoglio titoli trading book                                                                                                     -
+    TIT portafoglio titoli banking book                                                                                                Media
+    TIT poste non interest bearing                                                                                                      Bassa
+    Costi Indiretti                                                                                                                      Alta
+    Funzione, ruoli e processo                                                                                                              -
+                                                                                                         LEGENDA:            LEGENDA:
+                                                                                                                             - : Nessuna evolutiva
+                                                                                                             conforme
+                                                                                                                             Alta: evolutiva priorità «Alta»
+                                                                                                             non conforme    Media: evolutiva priorità «Media»
+                                                                                                                             Bassa: evolutiva priorità «Bassa»
+Evoluzione del sistema TIT – Presentazione dei risultati        © 2018 Montepaschi. All rights reserved.                                   Siena, luglio 2018  33
+
+    EVIDENZE ANALISI DI ASSESSMENT - OBIETTIVI                                                                                                BOZZA
+    Ambiti                                                        Valutazione Prometeia                                      Evolutiva proposta
+    Trattamento rinegoziazioni                                                 Alta                         Ridefinizione modalità di calcolo del TIT nel caso di
+                                                                                                            rinegoziazione con allungamento della maturity
+    Costi indiretti                                                            Alta                         Definizione del modello di riferimento in base al
+                                                                                                            quale misurare i costi indiretti della liquidità per
+                                                                                                            prodotti del passivo
+                                                                                                            Individuazione dei prodotti (di bilancio e fuori
+                                                                                                            bilancio) ai quali attribuire tali componenti
+                                                                                                            economiche
+    TIT operatività con opzionalità                                       Media / Alta                      Calcolo di uno spread adjustment a fronte
+    implicita                                                                                               dell’operatività con opzione implicita di
+                                                                                                            pagamento anticipato in base al modello
+                                                                                                            comportamentale di prepayment utilizzato dal
+                                                                                                            Risk Management per la misurazione del rischio di
+                                                                                                            tasso
+                                                                                                            Calcolo del TIT base e del FS sulla base del piano
+                                                                                                            comportamentale atteso da parte del cliente
+                                                                                     LEGENDA:
+                    - : Nessuna evolutiva Alta: evolutiva priorità «Alta» Media: evolutiva priorità «Media» Bassa: evolutiva priorità «Bassa»
+Evoluzione del sistema TIT – Presentazione dei risultati                  © 2018 Montepaschi. All rights reserved.                                  Siena, luglio 2018 34
+
+    EVIDENZE ANALISI DI ASSESSMENT - OBIETTIVI                                                                                                BOZZA
+    Ambiti                                                       Valutazione Prometeia                                      Evolutiva proposta
+    Curva di Funding Spread                                                  Media                         Revisione del modello di definizione della curva
+                                                                                                           blended, relativamente ai seguenti aspetti:
+                                                                                                           •     introduzione della raccolta a vista
+                                                                                                           •     modalità di costruzione della curva per
+                                                                                                                 scadenze superiori ai 15 anni
+                                                                                                           •     introduzione requisito MREL
+    TIT portafoglio titoli banking book                                      Media                         Revisione delle attuali regole di TIT a scadenza
+    TIT Sofferenze                                                            Bassa                        Valutazione modalità di calcolo del TIT e
+                                                                                                           (eventuale) aggiornamento
+    TIT poste non interest bearing                                            Bassa                        Valutazione modalità di calcolo del TIT e
+                                                                                                           (eventuale) aggiornamento
+    Curva per il calcolo del TIT Base                                         Bassa                        (eventuale) Individuazione / ridefinizione della
+                                                                                                           curva risk free di riferimento per il calcolo del TIT
+                                                                                                           Base
+                                                                                     LEGENDA:
+                    - : Nessuna evolutiva Alta: evolutiva priorità «Alta» Media: evolutiva priorità «Media» Bassa: evolutiva priorità «Bassa»
+Evoluzione del sistema TIT – Presentazione dei risultati                  © 2018 Montepaschi. All rights reserved.                                 Siena, luglio 2018 35
+
+    EVIDENZE ANALISI DI ASSESSMENT - OBIETTIVI                                                                                                BOZZA
+    Ambiti                                                       Valutazione Prometeia                                      Evolutiva proposta
+    Calcolo del TIT Base                                                      Bassa                        Valutazione dell’applicazione del floor a 0 sul TIT
+                                                                                                           dei prodotti di impiego
+    Integrazione processi gestionali                                          Bassa                        Valutazione del grado di integrazione con i
+                                                                                                           processi di budget e di consuntivo per le Business
+                                                                                                           Unit non commerciali e (eventuale) ridefinizione
+                                                                                     LEGENDA:
+                    - : Nessuna evolutiva Alta: evolutiva priorità «Alta» Media: evolutiva priorità «Media» Bassa: evolutiva priorità «Bassa»
+Evoluzione del sistema TIT – Presentazione dei risultati                  © 2018 Montepaschi. All rights reserved.                               Siena, luglio 2018 36
+
+    AGENDA                                                                                        BOZZA
+                                ANALISI DI BENCHMARKING
+                                EVIDENZE ANALISI DI ASSESSMENT
+                                PROPOSTE EVOLUTIVE
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 37
+
+    PROPOSTE EVOLUTIVE                                                                            BOZZA
+    Nelle slides successive sono presentate le proposte evolutive del Gruppo di Lavoro (GdL) relative alle
+    diverse tematiche oggetto di approfondimento.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 38
+
+    PROPOSTE EVOLUTIVE – MODELLO DI GESTIONE DEI RISCHI FINANZIARI                                BOZZA
+    Per il Gruppo MPS, attualmente, le funzioni Tesoreria, Centro ALM e Corporate Center sono tutte
+    aggregate in un unico centro generalmente definito Corporate Center.
+    Il GdL, alla luce degli attuali assetti organizzativi e in considerazione dei limitati impatti IT, ha condiviso di
+    confermare l’attuale modello di governo dei rischi finanziari unico, in cui risultano centralizzate sia la
+    gestione del rischio tasso che quella del rischio di liquidità.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.        Siena, luglio 2018 39
+
+    PROPOSTE EVOLUTIVE – CURVA RISK FREE                                                          BOZZA
+    Coerentemente alla prassi di mercato, il GdL propone di continuare ad utilizzare, quale curva per il calcolo
+    del TIT base la curva pari a:
+    •     EURIBOR per le scadenze fino a 12 mesi;
+    •     IRS vs EURIBOR 6M per le scadenze successive.
+    Nonostante tale curva incorpori un liquidity spread, poiché il Gruppo ha scelto di confermare la gestione
+    del rischio tasso e liquidità accentrata in un’unica unità organizzativa, è stato scelto di mantenere la curva
+    attuale perché è la curva di riferimento di diversi processi gestionali (politiche di hedging, gestione del
+    rischio di tasso, pricing infragruppo, misurazione dell’esposizione al rischio di tasso da parte del Risk
+    Management).
+    Il GdL ha inoltre deciso di non introdurre, al momento, il «bid-ask spread» continuando quindi a fare
+    riferimento alla curva «mid» in considerazione degli impatti IT e del fatto che, essendo l’accesso al
+    mercato esterno molto limitato, i prezzi bid-ask non rappresentano i veri prezzi negoziati dal gestore del
+    rischio tasso. È stato comunque condiviso di monitorare tale spread che fornisce una misura della
+    potenziale sottostima che si commette nel considerare la curva mid, al fine di valutarne, in futuro,
+    l’eventuale introduzione.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 40
+
+    PROPOSTE EVOLUTIVE – CALCOLO DEL TIT BASE                                                     BOZZA
+    Il GdL ha deciso di seguire il principio di copertura nozionale e pertanto ha condiviso di rimuovere
+    l’applicazione del floor a 0 sul TIT complessivo qualora questo risulti negativo.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 41
+
+    PROPOSTE EVOLUTIVE - CURVA DI FUNDING SPREAD (1/2)                                            BOZZA
+    Le attività di integrazione e validazione della curva blended del Gruppo MPS hanno riguardato
+    principalmente tre punti:
+    1. Introduzione del costo della raccolta a vista;
+    2. Valutazione dei possibili impatti in seguito all’introduzione del requisito MREL;
+    3. Modalità di estensione della curva per i nodi > 15Ys.
+    Con riferimento al punto 1., il GdL ha validato l’attuale modello di costruzione della curva blended utile
+    per la misurazione del margine di contribuzione degli impieghi. Il GdL, inoltre, ha verificato che le attuali
+    modalità di attribuzione del funding spread alle poste a vista (calcolato a partire dalle curve dei prodotti
+    «depositi privilegiati» e «depositi protetti» secondo % definite dal CdG per i singoli modelli di servizio)
+    sono coerenti con un approccio di determinazione della curva blended calcolata in base alle seguenti
+    ipotesi:
+    •     considerazione di tutta la raccolta, a scadenza e a vista
+    •     determinazione dei pesi di composizione della raccolta in base all’approccio flussi riferito al periodo di
+          budget. Nel caso della raccolta a vista, il servizio Risk Management fornisce l’indicazione
+          dell’ammontare dei flussi relativi al periodo di budget, distinti per singolo modello di servizio.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.        Siena, luglio 2018 42
+
+    PROPOSTE EVOLUTIVE - CURVA DI FUNDING SPREAD (2/2)                                                     BOZZA
+    Con riferimento al punto 2. è stato condiviso che in futuro la curva blended dovrà essere «aggiornata» per
+    tenere conto delle emissioni di obbligazioni senior non preferred, in seguito all’applicazione della
+    regolamentazione relativa all’indicatore MREL. L’effetto dell’introduzione di tale operatività comporterà un
+    incremento del costo della raccolta e determinerà:
+    •     introduzione di una nuova curva di credit spread - curva emissioni senior non preferred - nel caso in cui
+          si consideri una curva ad hoc per tale tipo di operatività;
+    •     incremento della curva senior unsecured, nel caso si consideri il costo «complessivo» delle emissioni
+          obbligazionarie, preferred e non.
+    Con riferimento al punto 3. il GdL ha valutato diverse metodologie per «modellizzare» la curva del funding
+    spread per scadenze superiori a 15 anni e propone di adottare il seguente modello:
+                                          Curva Blended t = Curva BTP t + (Curva Blended 15 - Curva BTP 15 )
+    dove lo spread è costante e calcolato come differenza puntuale nel nodo 15Y tra la curva blended e la
+    curva BTP.
+Evoluzione del sistema TIT – Presentazione dei risultati       © 2018 Montepaschi. All rights reserved.       Siena, luglio 2018 43
+
+    PROPOSTE EVOLUTIVE - TIT OPERATIVITÀ CON OPZIONALITÀ IMPLICITA (1/2)                          BOZZA
+    Il GdL propone di introdurre uno spread adjustment per l’operatività con opzionalità implicita, calcolando
+    il TIT a fronte del rischio di tasso come somma tra TIT base e spread adjustment.
+    Lo spread adjustment da misurare riguarda le seguenti tipologie di opzionalità:
+    •     Cap / floor / collar;
+    •     Altre opzioni di tipo finanziario;
+    •     Opzione implicita di pagamento anticipato, da calcolare in base al modello di prepayment utilizzato dal
+          Risk Management per la misurazione del rischio di tasso.
+    Al momento, nel Gruppo MPS è rilevante l’operatività con opzione di rimborso anticipato.
+    Si sottolinea come, nel momento in cui altre opzionalità di tipo finanziario dovessero assumere rilevanza,
+    è stato condiviso che la Funzione Finanza fornirà i dati relativi allo spread adjustment a fronte di opzioni
+    cap, floor, etc.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 44
+
+    PROPOSTE EVOLUTIVE - TIT OPERATIVITÀ CON OPZIONALITÀ IMPLICITA (2/2)                          BOZZA
+    Il GdL, con specifico riferimento al rischio di prepayment, ha condiviso di adottare un modello che preveda
+    la copertura del prepayment inatteso tramite flexi-swap. In particolare:
+    •     Tasso base: TIT calcolato sul piano comportamentale + spread prepayment pari al costo per la
+          copertura figurativa;
+    •     Funding spread: determinato in corrispondenza della scadenza del profilo comportamentale.
+    È stato sottolineato come la calibrazione e l’applicazione di tale modello avverrà una volta che sia stato
+    stimato il modello comportamentale per le operazioni con prepayment e adottato nelle misure di rischio.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 45
+
+    PROPOSTE EVOLUTIVE - TIT BANKING BOOK (1/2)                                                   BOZZA
+    Per i titoli del banking book, per i quali il rischio di tasso deve essere trasferito al Centro ALM, il GdL
+    propone di rivedere le attuali regole di TIT adottate nell’ambito della rendicontazione in quanto non
+    consentono di trasferire completamente il rischio di tasso e di liquidità generato da queste posizioni.
+    Per trasferire correttamente il rischio di tasso generato si può procedere secondo due differenti modalità
+    operative:
+    • definizione di operazioni figurative con profilo finanziario pari a quello delle operazioni effettive e
+          tasso pari al TIT. Il TIT, in particolare, sarà dato da:
+              • tasso base calcolato in base alla scadenza dei singoli movimenti di acquisto dei titoli (vita residua
+                    calcolata alla data di acquisto), se a tasso fisso, o in base alla durata di repricing, se a tasso
+                    variabile
+              • funding spread a scadenza, calcolato in base alla scadenza dei singoli movimenti alla data di
+                    acquisto
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.        Siena, luglio 2018 46
+
+    PROPOSTE EVOLUTIVE - TIT BANKING BOOK (2/2)                                                   BOZZA
+    • costruzione di operazioni effettive (internal deals) con profilo finanziario pari a quello del rischio di
+          tasso e di liquidità che si intende coprire tra il book titoli e il book gestore tasso. In particolare, gli
+          internal deals saranno pari a:
+              • un’operazione a tasso variabile, con tasso pari al tasso corrispondente alla gamba a tasso
+                    variabile dello swap, se il titolo al momento dell’acquisto è oggetto di copertura tramite
+                    un’operazione di swap;
+              • un’operazione a tasso fisso, con tasso pari al nodo della curva risk free corrispondente alla
+                    scadenza dell’operazione, se il titolo al momento dell’acquisto non è oggetto di copertura tramite
+                    un’operazione di swap.
+         Nel caso in cui il titolo venga coperto in un momento successivo alla data di acquisto del titolo stesso si
+         dovranno originare due operazioni effettive:
+              • Si chiude la posizione originaria in cui era stato attribuito un TIT a scadenza;
+              • Si apre una nuova posizione che prevede l’attribuzione di un TIT variabile.
+    Con riferimento al funding spread, il GdL ha confermato l’attuale modalità di calcolo.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.        Siena, luglio 2018 47
+
+    PROPOSTE EVOLUTIVE - TRATTAMENTO RINEGOZIAZIONI                                               BOZZA
+    Il Gruppo MPS si colloca in linea con le best practices nel caso di switch tipo tasso (ricalcolo ex novo del
+    TIT base e mantenimento FS originario), mentre evidenzia un disallineamento nel caso di allungamento
+    della maturity (mantenimento del TIT base e ricalcolo ex novo del FS).
+    A tal riguardo occorre verificare con la funzione Controllo di Gestione la fattibilità tecnica dell’attribuzione
+    di un nuovo funding spread in seguito alla rinegoziazione che rifletta la nuova struttura finanziaria
+    dell’operazione.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.      Siena, luglio 2018 48
+
+    PROPOSTE EVOLUTIVE - COSTI INDIRETTI DI LIQUIDITÀ (1/3)                                       BOZZA
+    Il costo indiretto della liquidità è pari al costo che la banca deve sopportare per costituire un buffer di
+    liquidità per fare fronte a improvvise uscite di liquidità.
+    Il GdL propone di misurare tale costo per i seguenti prodotti:
+    1. margine non utilizzato mutui, secondo la metodologia già adottata (approccio gestionale);
+    2. c/c passivi, depositi a risparmio e depositi a tempo, secondo una nuova metodologia , sinteticamente
+           presentata nelle slide che seguono (approccio regolamentare).
+    Tali costi saranno attribuiti alle singole Direzioni Commerciali (Dir. Corporate, Dir. Retail e Dir. Wealth
+    Management) e ai singoli modelli di servizio che hanno in carico le operazioni. Tale ripartizione viene
+    determinata dal Controllo di Gestione in base alla distribuzione dei volumi dei prodotti tra i diversi modelli
+    di servizio / direzioni.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 49
+
+    PROPOSTE EVOLUTIVE - COSTI INDIRETTI DI LIQUIDITÀ (2/3)                                                  BOZZA
+    Il costo indiretto è pari al prodotto di due componenti:
+                                                  Costo indiretto = liquidità assorbita * costo opportunità
+    •     liquidità assorbita è pari a una percentuale dell’ammontare della posizione esposta al rischio di uscita
+          inattesa di liquidità (ipotesi di stress). Il GdL propone di calcolare tale % secondo due approcci
+          differenti:
+          • Margini disponibili e non utilizzati (approccio gestionale): è applicato ai prodotti riportati di seguito
+              una % calcolata in base a modelli interni comportamentali o, in mancanza, in base a coefficienti della
+              segnalazione LCR dell’Atto Delegato:
+              •      linee di credito a breve termine in c/c per la differenza tra l’ammontare del fido accordato e
+                     l’importo effettivamente utilizzato (scoperto di conto, sbf, GOF, etc), come rilevato dal controllo
+                     di gestione,
+              •      prodotti ad erogazione rateale per la quota non erogata
+              •      linee di fido a m/l termine in c/c per la differenza tra il credito accordato e quello effettivamente
+                     utilizzato (sovvenzioni in c/c ), come rilevato dal controllo di gestione,
+Evoluzione del sistema TIT – Presentazione dei risultati            © 2018 Montepaschi. All rights reserved.    Siena, luglio 2018 50
+
+    PROPOSTE EVOLUTIVE - COSTI INDIRETTI DI LIQUIDITÀ (3/3)                                        BOZZA
+          • Prodotti di raccolta (approccio regolamentare): nuovo perimetro di misurazione di tale componente
+              economica.
+    •     costo opportunità è pari al costo che la banca deve sostenere per mantenere il liquidity buffer
+          richiesto. Il GdL propone di mantenere l’attuale definizione del costo opportunità, che risulta essere
+          pari al differenziale tra il tasso della raccolta a 2 mesi (TIT + Funding Spread) e quello del deposit facility
+          con scadenza overnight.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.         Siena, luglio 2018 51
+
+    PROPOSTE EVOLUTIVE - COSTI INDIRETTI DI LIQUIDITÀ : APPROCCIO REGOLAMENTARE                           BOZZA
+    Per i prodotti di raccolta (c/c passivi, depositi a risparmio e depositi a tempo) la liquidità assorbita viene
+    calcolata a partire dalla segnalazione dell’indicatore LCR dell’Atto Delegato, secondo il processo di seguito
+    descritto:
+    •     a partire dall’ammontare ponderato della segnalazione LCR degli outflows relativi ai prodotti di
+          raccolta sopra evidenziati (rilevazione trimestrale), viene calcolato l’ammontare ponderato relativo
+          all’operatività del perimetro corrispondente alla Rete Commerciale e al Large Corporate;
+    •     viene calcolata la % di ponderazione, pari al rapporto tra ammontare ponderato e volume medio dei
+          prodotti e delle unità organizzative sopra riportate del controllo di gestione del prodotto (relativo al
+          perimetro individuato);
+    •     la liquidità assorbita per ogni mese del trimestre t è pari a:
+              •     Volume medio del mese del controllo di gestione * % di ponderazione (calcolata sul trimestre t-1,
+                    in base alla segnalazione di vigilanza).
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.       Siena, luglio 2018 52
+
+    PROPOSTE EVOLUTIVE - TIT SOFFERENZE                                                                BOZZA
+    Il GdL ha validato l’attuale modello di calcolo del TIT per le poste in sofferenza basato su un approccio che
+    prevede la modellizzazione a partire dai piani attesi di recupero della banca stimati dal Risk Management.
+    Il TIT di tali poste viene calcolato secondo le regole seguenti:
+    •     Tasso base = nodo Curva Tasso base corrispondente al tempo medio di recupero stimato;
+    •     Funding Spread = nodo Curva Funding Spread blended corrispondente al tempo medio di recupero
+          stimato.
+    A tal riguardo occorre verificare con la funzione Controllo di Gestione le modalità di attribuzione del TIT:
+              •     tempo medio di recupero di tutto lo stock delle sofferenze: il TIT varia di periodo in periodo per
+                    effetto dell’introduzione di nuove operazioni, aggiornamenti della stima del tempo medio di
+                    recupero, etc…
+              •     tempo medio di recupero delle singole sofferenze: il TIT viene attribuito alla data di inizio
+                    dell’operazione, in base al tempo medio di recupero della singola, e non viene modificato per
+                    tutta la durata dell’operazione stessa, secondo gli stessi criteri utilizzati per le operazioni a tasso
+                    fisso.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.             Siena, luglio 2018 53
+
+    PROPOSTE EVOLUTIVE - TIT POSTE NON INTEREST BEARING                                           BOZZA
+    Il GdL ha deciso di validare l’attuale metodologia di calcolo del TIT per le poste patrimoniali, la quale
+    prevede:
+    •     per le voci di patrimonio, riserve, fondi, immobilizzazioni materiali ed immateriali, partecipazioni ed
+          altre attività e passività applica un TIT pari all’Euribor 1M + Spread Basis Risk + FS Blended a 10 anni;
+    •     per le altre poste patrimoniali/non onerose che rappresentano raccolta o impiego di liquidità a
+          brevissimo termine, il TIT è invece pari all’Euribor 1M + FS blended ad 1 mese.
+Evoluzione del sistema TIT – Presentazione dei risultati © 2018 Montepaschi. All rights reserved.       Siena, luglio 2018 54
+

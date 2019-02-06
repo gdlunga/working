@@ -1,0 +1,1886 @@
+Guida della BCE sul
+processo interno di
+valutazione dell’adeguatezza
+patrimoniale (ICAAP)
+ Novembre 2018
+
+Indice
+1      Introduzione                                                                        2
+       1.1     Finalità                                                                    3
+       1.2     Ambito di applicazione e proporzionalità                                    4
+2      Principi                                                                            6
+       Principio 1: l’organo di amministrazione è responsabile della solida
+       governance dell’ICAAP                                                               6
+       Principio 2: l’ICAAP è parte integrante del quadro complessivo di
+       gestione                                                                            8
+       Principio 3: l’ICAAP fornisce un contributo fondamentale alla continuità
+       dell’ente assicurandone l’adeguatezza patrimoniale da prospettive
+       diverse                                                                            14
+       Principio 4: tutti i rischi rilevanti sono identificati e considerati
+       nell’ICAAP                                                                         26
+       Principio 5: il capitale interno è di qualità elevata e chiaramente definito       30
+       Principio 6: le metodologie di quantificazione dei rischi nell’ambito
+       dell’ICAAP sono adeguate, coerenti e convalidate in maniera
+       indipendente                                                                       32
+       Principio 7: lo svolgimento di prove di stress periodiche è teso ad
+       assicurare l’adeguatezza patrimoniale in condizioni avverse                        37
+3      Glossario                                                                          41
+Siglario                                                                                  46
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Indice                                                                                     1
+
+1 Introduzione
+  1.      La profondità e la gravità degli shock finanziari sono spesso amplificate
+          dall’inadeguatezza e dalla bassa qualità del capitale nel settore bancario.
+          Questa circostanza si è verificata anche nella recente crisi finanziaria, che ha
+          visto le banche costrette a ricostruire le proprie basi patrimoniali in una fase
+          particolarmente ardua. Al tempo stesso, molti rischi non erano adeguatamente
+          coperti da un ammontare commisurato di capitale, a seguito delle carenze nei
+          processi di identificazione e valutazione dei rischi delle banche 1. È quindi
+          indispensabile rafforzare la capacità di tenuta dei singoli enti creditizi nei periodi
+          di stress cercando di migliorare i processi interni di valutazione prospettica
+          dell’adeguatezza patrimoniale (Internal Capital Adequacy Assessment Process,
+          ICAAP), includendo anche esaustive prove di stress e pianificazione del
+          capitale.
+  2.      L’ICAAP riveste pertanto un ruolo fondamentale nella gestione dei rischi degli
+          enti creditizi. Per quanto concerne gli enti significativi nell’ambito del
+          Meccanismo di vigilanza unico (MVU), la BCE si attende che, in conformità al
+          disposto dell’articolo 73 della quarta direttiva sui requisiti patrimoniali (Capital
+          Requirements Directive, CRD IV) 2, l’ICAAP sia elaborato in maniera prudente e
+          conservativa 3. La BCE ritiene che ICAAP solidi, efficaci ed esaustivi
+          comprendano una chiara valutazione dei rischi di capitale nonché un governo
+          dei rischi ben strutturato, ivi compresi processi di segnalazione alla gerarchia
+          superiore (procedure di escalation) basati su una strategia di gestione dei rischi
+          ben ponderata in tutti i suoi aspetti, che si traduca in un efficace sistema di limiti
+          all’assunzione dei rischi.
+  3.      La BCE è dell’avviso che un ICAAP solido, efficace ed esaustivo poggi su due
+          pilastri: la prospettiva economica e la prospettiva normativa. Le due prospettive
+          dovrebbero completarsi e fornirsi informazioni reciprocamente.
+  4.      L’ICAAP fornisce anche un contributo importante al processo di revisione e
+          valutazione prudenziale (Supervisory Review and Evaluation Process, SREP)
+          dell’MVU. Esso alimenta tutte le valutazioni dello SREP e il processo di
+          determinazione del capitale nell’ambito del secondo pilastro conformemente
+  1
+       Cfr. ad esempio, La risposta del Comitato di Basilea alla crisi finanziaria: rapporto al G20, Comitato di
+       Basilea per la vigilanza bancaria, ottobre 2010.
+  2
+       Direttiva 2013/36/UE del Parlamento europeo e del Consiglio, del 26 giugno 2013, sull’accesso
+       all’attività degli enti creditizi e sulla vigilanza prudenziale sugli enti creditizi e sulle imprese di
+       investimento, che modifica la Direttiva 2002/87/CE e abroga le Direttive 2006/48/CE e 2006/49/CE
+       (GU L 176 del 27.6.2013, pag. 338).
+  3
+       Articolo 73 della CRD IV: “Gli enti dispongono di strategie e processi validi, efficaci e globali per
+       valutare e mantenere su base continuativa gli importi, la composizione e la distribuzione del capitale
+       interno che essi ritengono adeguati per coprire la natura e il livello dei rischi a cui sono o potrebbero
+       essere esposti”.
+  Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+  Introduzione                                                                                                   2
+
+            agli Orientamenti dell’ABE sulle procedure e sulle metodologie comuni per il
+            processo di revisione e valutazione prudenziale (SREP) 4.
+    5.      Nel quadro dello SREP è noto che un ICAAP efficace riduce l’incertezza degli
+            enti creditizi e delle autorità di vigilanza riguardo ai rischi a cui sono o possono
+            essere esposti e accresce la fiducia delle autorità di vigilanza nella capacità
+            degli enti di continuare a operare attraverso il mantenimento di livelli
+            patrimoniali adeguati e un’efficace gestione dei rischi. Ciò richiede agli enti
+            creditizi di assicurare, in un’ottica prospettica, che tutti i rischi rilevanti siano
+            identificati, efficacemente gestiti (mediante un’appropriata combinazione di
+            quantificazioni e controlli) e coperti da un livello sufficiente di capitale di qualità
+            elevata.
+1.1 Finalità
+    6.      Lo scopo della presente guida è rendere pubblicamente nota, a fini di
+            trasparenza, la visione della BCE in merito ai requisiti dell’ICAAP in base
+            all’articolo 73 della CRD IV. La guida mira ad assistere gli enti creditizi nel
+            rafforzare i rispettivi ICAAP e a incoraggiare il ricorso alle migliori prassi
+            spiegando in maggiore dettaglio le aspettative della BCE sull’ICAAP, in vista di
+            una più coerente ed efficace attività di vigilanza.
+    7.      Dalle disposizioni della CRD IV sull’ICAAP, la guida attinge sette principi che
+            saranno, fra l’altro, considerati per la valutazione degli ICAAP di ciascun ente
+            creditizio nel quadro dello SREP. Tali principi saranno richiamati anche
+            nell’ambito del dialogo di vigilanza intrattenuto con i singoli enti.
+    8.      La guida non intende sostituire né inficiare alcuna disposizione legislativa
+            relativa al recepimento dell’articolo 73 della CRD IV. Qualora la guida non fosse
+            in linea con la normativa vigente, prevale quest’ultima. La guida è concepita
+            come uno strumento pratico che sarà regolarmente aggiornato per tenere conto
+            dei nuovi sviluppi e delle esperienze acquisite. Di conseguenza, i principi e le
+            aspettative enunciati in questa sede evolveranno nel tempo. La guida sarà
+            riesaminata alla luce dei continui sviluppi nelle prassi e nelle metodologie di
+            vigilanza bancaria europea nonché nella regolamentazione a livello
+            internazionale ed europeo e, ad esempio, delle nuove autorevoli interpretazioni
+            delle direttive e dei regolamenti pertinenti da parte della Corte di giustizia
+            dell’Unione europea.
+    9.      La guida si basa sulla definizione di una serie di principi, dedicando particolare
+            attenzione ad alcuni aspetti cruciali dal punto di vista della vigilanza; essa non
+            intende fornire indicazioni esaustive su tutti gli aspetti che contribuiscono alla
+            solidità dell’lCAAP. Spetta a ciascun ente applicare un ICAAP che sia adeguato
+    4
+         Cfr. ABE/GL/2014/13, del 19 luglio 2018, paragrafi 349-350 e 354. Ai sensi del paragrafo 349, le
+         autorità competenti “dovrebbero stabilire requisiti aggiuntivi in materia di fondi propri in base a ciascun
+         rischio, utilizzando il giudizio di vigilanza” supportato da diverse fonti di informazione.
+    Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+    Introduzione                                                                                                    3
+
+            alle proprie particolari circostanze. La BCE valuta gli ICAAP degli enti creditizi
+            procedendo caso per caso.
+    10. In aggiunta alla presente guida e al diritto nazionale e dell’Unione pertinente, gli
+            enti sono incoraggiati ad avvalersi degli altri documenti rilevanti ai fini
+            dell’ICAAP pubblicati dall’ABE 5 e da istanze internazionali quali il Comitato di
+            Basilea per la vigilanza bancaria (CBVB) e il Financial Stability Board (FSB). Gli
+            enti dovrebbero inoltre tenere conto di tutte le raccomandazioni relative
+            all’ICAAP a essi rivolte, ad esempio le raccomandazioni risultanti dallo SREP,
+            che possono riguardare solidi assetti di governance, la gestione dei rischi e i
+            controlli.
+1.2 Ambito di applicazione e proporzionalità
+    11. La presente guida è rivolta a tutti gli enti creditizi designati come soggetti vigilati
+            significativi ai sensi dell’articolo 2, paragrafo 16, del regolamento quadro
+            sull’MVU 6. L’ambito di applicazione dell’articolo 73 della CRD IV concernente
+            l’ICAAP è determinato dall’articolo 108 della citata direttiva. Poiché l’articolo 73
+            della CRD IV rappresenta una disposizione di armonizzazione minima, recepita
+            in maniera differente nei vari Stati membri dell’UE, esiste un’ampia varietà di
+            prassi e requisiti relativi all’ICAAP per la vigilanza degli enti creditizi negli Stati
+            membri partecipanti.
+    12. La BCE, insieme alle autorità nazionali competenti (ANC), ha elaborato i
+            principi sull’ICAAP con l’obiettivo di assicurare elevati standard prudenziali
+            promuovendo lo sviluppo di metodologie comuni in questo importante ambito
+            della vigilanza.
+    13. L’ICAAP è soprattutto un processo interno e la responsabilità della sua
+            attuazione, in modo proporzionale e credibile, resta in capo ai singoli enti. Ai
+            sensi dell’articolo 73 della CRD IV, l’ICAAP deve essere proporzionato alla
+            natura, all’ampiezza e alla complessità delle attività dell’ente.
+    14. I principi elaborati nella presente guida costituiscono soltanto un punto di
+            partenza per il dialogo di vigilanza con gli enti creditizi. Non andrebbero
+            pertanto intesi come riferimenti comprensivi di tutti gli aspetti necessari per
+            l’attuazione e l’impiego di un ICAAP solido, efficace e completo. È
+            responsabilità degli enti assicurare che l’ICAAP rimanga completo e
+            proporzionato alla natura, all’ampiezza e alla complessità delle loro attività,
+    5
+         In particolare, rilevano a tale riguardo gli Orientamenti sulla governance interna (ABE/GL/2017/11), gli
+         orientamenti sulle prove di stress degli enti (ABE/GL/2018/04) e gli orientamenti esposti in Guidelines
+         on the management of concentration risk under the supervisory review process (GL31) del Comitato
+         delle autorità europee di vigilanza bancaria (Committee of European Banking Supervisors, CEBS).
+    6
+         Regolamento (UE) n. 468/2014 della Banca centrale europea, del 16 aprile 2014, che istituisce il
+         quadro di cooperazione nell’ambito del Meccanismo di vigilanza unico tra la Banca centrale europea e
+         le autorità nazionali competenti e con le autorità nazionali designate (regolamento quadro sull’MVU)
+         (BCE/2014/17) (GU L 141 del 14.5.2014, pag. 1).
+    Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+    Introduzione                                                                                                  4
+
+      tenendo presente che la proporzionalità non va applicata in modo tale da
+      compromettere l’efficacia dell’ICAAP stesso.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Introduzione                                                                              5
+
+2 Principi
+  Principio 1: l’organo di amministrazione è responsabile
+  della solida governance dell’ICAAP
+  (i)     Data l’importanza che l’ICAAP riveste per l’ente, l’organo di amministrazione
+          dovrebbe approvarne tutti gli elementi fondamentali. Ci si attende che ciò trovi
+          riscontro nei meccanismi di governance interna riguardanti l’organo di
+          amministrazione, stabiliti conformemente alle norme nazionali e in linea con la
+          legislazione dell’UE e gli orientamenti dell’ABE in materia. L’organo di
+          amministrazione, l’alta dirigenza e i relativi comitati dovrebbero discutere
+          l’ICAAP e sottoporlo a un esame critico in maniera efficace.
+  (ii)    Ogni anno l’organo di amministrazione dovrebbe produrre una valutazione
+          dell’adeguatezza patrimoniale dell’ente corroborata dai risultati dell’ICAAP e da
+          qualsiasi altra informazione rilevante, redigendo e sottoscrivendo una
+          dichiarazione chiara e concisa, la dichiarazione sull’adeguatezza patrimoniale
+          (capital adequacy statement, CAS).
+  (iii) L’organo di amministrazione, che è complessivamente responsabile
+          dell’attuazione dell’ICAAP, dovrebbe approvarne il quadro di governance con
+          una chiara e trasparente assegnazione delle competenze nel rispetto del
+          principio di separazione delle funzioni. Il quadro di governance dovrebbe
+          contemplare un chiaro approccio di revisione interna e convalida periodica
+          dell’ICAAP.
+  L’organo di amministrazione approva gli elementi fondamentali
+  dell’ICAAP
+  15. Ci si attende che l’organo di amministrazione rediga e sottoscriva la CAS, e
+          approvi gli elementi fondamentali dell’ICAAP, fra i quali:
+          •     il quadro di governance;
+          •     il quadro della documentazione interna;
+          •     il perimetro dei soggetti considerati, il processo di identificazione dei rischi,
+                nonché l’inventario e la tassonomia dei rischi interni, che riflettono la
+                portata dei rischi rilevanti e la loro copertura patrimoniale;
+          •     le metodologie di quantificazione dei rischi 7, compresi i parametri e le
+                ipotesi generali per la misurazione dei rischi (ad esempio orizzonte
+  7
+       La presente guida non prescrive una specifica metodologia per la quantificazione dei rischi. Per
+       maggiori dettagli al riguardo si rimanda alla sezione “Scelta delle metodologie di quantificazione dei
+       rischi” nel principio 6.
+  Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+  Principi                                                                                                    6
+
+               temporale, ipotesi di diversificazione, livelli di confidenza), con il supporto
+               di dati affidabili e sistemi solidi di aggregazione dei dati;
+       •       l’approccio impiegato per valutare l’adeguatezza patrimoniale (inclusi il
+               quadro di riferimento per le prove di stress e una definizione ben articolata
+               di adeguatezza patrimoniale).
+16. L’organo di amministrazione comprende una funzione di supervisione e una
+       funzione di gestione che possono essere esercitate dallo stesso organo oppure
+       da due organi separati. La designazione degli elementi chiave dell’ICAAP, e
+       delle rispettive funzioni incaricate della loro approvazione, dipende dalle
+       disposizioni di governance interna dell’ente, interpretate dalla BCE
+       conformemente alle norme nazionali e in linea con la legislazione dell’UE
+       applicabile e gli orientamenti dell’ABE 8.
+Revisione interna e convalida
+17. Ai sensi dell’articolo 73 della CRD IV, l’ICAAP è “oggetto di periodiche revisioni
+       interne”, che secondo la BCE dovrebbero riguardare gli aspetti sia qualitativi sia
+       quantitativi (ivi compresi ad esempio l’utilizzo dei risultati dell’ICAAP, il quadro di
+       riferimento delle prove di stress, la rilevazione dei rischi e il processo di
+       aggregazione dei dati), includendo commisurati processi di convalida delle
+       metodologie interne adottate per la quantificazione dei rischi.
+18. A fini di revisione interna l’ente dovrebbe dotarsi di politiche e processi
+       adeguati. Le revisioni dovrebbero essere svolte dalle tre linee di difesa,
+       costituite dai rami di attività e dalle funzioni di controllo interno indipendenti
+       (gestione dei rischi, conformità alle norme e internal audit), in base ai rispettivi
+       ruoli e competenze 9.
+19. La BCE si attende che gli enti siano dotati di un processo definito che assicuri
+       un adeguamento proattivo dell’ICAAP a qualunque cambiamento rilevante
+       verificatosi, ad esempio l’ingresso in nuovi mercati, l’offerta di nuovi servizi o
+       prodotti ovvero le variazioni della struttura del gruppo 10 o conglomerato
+       finanziario.
+20. I risultati e le ipotesi dell’ICAAP dovrebbero essere soggetti a una revisione
+       interna adeguata, in relazione ad esempio alla pianificazione patrimoniale, agli
+       scenari e alla quantificazione dei rischi. Il carattere più o meno quantitativo
+       oppure qualitativo che ci si attende da tale verifica dipende dalla natura
+       dell’elemento valutato. La revisione dovrebbe tenere debito conto dei limiti e dei
+8
+    Cfr. il considerando 56 e l’articolo 3, paragrafo 1, punti 7-9, della CRD IV, nonché il titolo II degli
+    Orientamenti dell’ABE sulla governance interna (ABE/GL/2017/11).
+9
+    I rispettivi ruoli delle funzioni coinvolte sono descritti negli Orientamenti dell’ABE sulla governance
+    interna (ABE/GL/2017/11).
+10
+    Ai fini della presente guida il termine “ente” designa anche gruppi, conglomerati o sottogruppi, come
+    applicabile ai sensi dell’articolo 108 della CRD IV.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                    7
+
+        vincoli derivanti dalle metodologie adottate, dalle ipotesi sottostanti e dai dati
+        utilizzati nella quantificazione dei rischi.
+21. Lo scopo della revisione è verificare se i processi interni, le metodologie e le
+        ipotesi prescelte abbiano condotto a risultati solidi (“test retrospettivi”) e se
+        continuino a essere adeguati alla luce della situazione corrente e degli
+        andamenti futuri. Ci si attende che l’esito della revisione sia valutato in maniera
+        approfondita, documentato e comunicato all’alta dirigenza e all’organo di
+        amministrazione. Ove siano individuate debolezze, i relativi rilievi dovrebbero
+        essere corretti rapidamente tramite azioni successive efficaci.
+Dichiarazione sull’adeguatezza patrimoniale
+22. Nella dichiarazione sull’adeguatezza patrimoniale (CAS) l’organo di
+        amministrazione fornisce la propria valutazione dell’adeguatezza patrimoniale
+        dell’ente ed espone le principali argomentazioni a sostegno, corroborate da
+        informazioni che considera rilevanti, quali i risultati dell’ICAAP. La BCE ritiene
+        che una CAS solida dimostri la buona conoscenza da parte dell’organo di
+        amministrazione dell’adeguatezza patrimoniale dell’ente e delle sue principali
+        determinanti e vulnerabilità, dei più importanti input e output dell’ICAAP, dei
+        parametri e processi sottostanti, nonché della coerenza dell’ICAAP con i piani
+        strategici.
+23. L’autorità di sottoscrivere la CAS per conto dell’organo di amministrazione
+        dovrebbe essere stabilita dall’ente alla luce della normativa nazionale nonché
+        dei requisiti e degli orientamenti prudenziali applicabili 11.
+Principio 2: l’ICAAP è parte integrante del quadro
+complessivo di gestione
+(i)     Ai sensi dell’articolo 73 della CRD IV, l’ente dovrebbe disporre di strategie e
+        processi validi, efficaci e globali per valutare e mantenere il capitale che esso
+        ritiene adeguato per coprire la natura e il livello dei rischi a cui è o potrebbe
+        essere esposto.
+(ii)    Oltre a un quadro quantitativo idoneo per la valutazione dell’adeguatezza
+        patrimoniale, è necessario che un quadro qualitativo ne assicuri la gestione
+        attiva. Ciò include fra l’altro il monitoraggio degli indicatori dell’adeguatezza
+        patrimoniale mirato a individuare e valutare tempestivamente i rischi potenziali,
+        traendo conclusioni pratiche e avviando misure di prevenzione affinché sia i
+        fondi propri sia il capitale interno siano sempre adeguati 12.
+11
+     Gli Orientamenti dell’ABE sulla governance interna (ABE/GL/2017/11) descrivono in maggiore dettaglio
+     la distribuzione dei compiti e delle competenze fra le funzioni di supervisione strategica e di gestione
+     dell’organo di amministrazione.
+12
+     Cfr. il principio 5 per una descrizione del concetto di capitale interno.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                      8
+
+(iii) Gli aspetti quantitativi e qualitativi dell’ICAAP dovrebbero essere coerenti tra
+        loro, con la strategia imprenditoriale e con la propensione al rischio dell’ente.
+        L’ICAAP andrebbe integrato nei processi operativi, decisionali e di gestione dei
+        rischi dell’ente. L’ICAAP dovrebbe essere coerente e integrato a livello di
+        gruppo.
+(iv) Ci si attende che gli enti mantengano una solida ed efficace architettura
+        complessiva dell’ICAAP e che documentino l’interazione fra gli elementi
+        dell’ICAAP e l’integrazione dello stesso nel quadro complessivo di gestione
+        dell’ente.
+(v)     L’ICAAP dovrebbe sostenere il processo decisionale strategico e, al tempo
+        stesso, mirare ad assicurare sul piano operativo che l’ente mantenga un livello
+        di capitalizzazione adeguato nel continuo, favorendo così un’appropriata
+        relazione tra rischi e benefici. Tutti i metodi e i processi applicati dall’ente per
+        orientare l’adeguatezza patrimoniale, nell’ambito del processo di gestione
+        operativa o strategica di quest’ultima, dovrebbero essere approvati, rivisti con
+        attenzione e opportunamente inclusi nell’ICAAP e nella relativa
+        documentazione.
+L’ICAAP quale parte integrante del quadro di gestione dell’ente
+24. Al fine di valutare e mantenere un livello patrimoniale adeguato a coprire i rischi
+        di un ente 13, i processi e le disposizioni interne dovrebbero far sì che l’analisi
+        quantitativa dei rischi, riflessa nell’ICAAP, confluisca in tutte le decisioni e le
+        attività imprenditoriali rilevanti.
+25. Questo obiettivo può essere raggiunto, ad esempio, utilizzando l’ICAAP per il
+        processo di pianificazione strategica a livello di gruppo, monitorando gli
+        indicatori dell’adeguatezza patrimoniale per individuare e valutare
+        tempestivamente i rischi potenziali, pervenendo a conclusioni pratiche e
+        avviando misure di prevenzione, stabilendo l’allocazione del capitale e
+        assicurando la continua efficacia del quadro di riferimento per la
+        determinazione della propensione al rischio (risk appetite framework, RAF).
+26. Gli indicatori di performance corretti per il rischio basati sull’ICAAP 14
+        dovrebbero essere utilizzati nel processo decisionale e, ad esempio, nella
+        determinazione della remunerazione variabile e nelle discussioni riguardanti
+        l’operatività e i rischi a tutti i livelli dell’ente, comprese fra l’altro le riunioni dei
+        comitati di gestione delle attività e delle passività, dei comitati per il rischio e
+        dell’organo di amministrazione.
+13
+     Le aspettative generali riguardo alla parte quantitativa dell’ICAAP sono introdotte nel principio 3.
+14
+     Esempi di tali indicatori sono reperibili negli Orientamenti dell’ABE su sane politiche di remunerazione
+     ai sensi dell’articolo 74, paragrafo 3, e dell’articolo 75, paragrafo 2, della direttiva 2013/36/UE e
+     sull’informativa ai sensi dell’articolo 450 del regolamento (UE) n. 575/2013 (ABE/GL/2015/22).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                      9
+
+L’architettura complessiva dell’ICAAP
+27. L’organo di amministrazione è responsabile del mantenimento di un’architettura
+      complessiva dell’ICAAP solida ed efficace, assicurando che i diversi elementi
+      dell’ICAAP interagiscano in modo organico e che l’ICAAP sia parte integrante
+      del quadro complessivo di gestione dell’ente. Quest’ultimo dovrebbe avere una
+      visione chiara di come tali elementi siano coerentemente integrati in un
+      processo complessivo efficace che consenta di preservare nel continuo
+      l’adeguatezza patrimoniale.
+28. A tal fine, ci si attende che l’ente includa nella propria documentazione
+      sull’ICAAP una descrizione della sua architettura complessiva, compresa una
+      sintesi degli elementi fondamentali dell’ICAAP e di come questi interagiscano
+      fra loro, spiegando le modalità di integrazione dell’ICAAP nel funzionamento
+      dell’ente e come i suoi risultati siano utilizzati all’interno dell’ente. La
+      descrizione dell’architettura dovrebbe illustrare la struttura generale dell’ICAAP,
+      come i suoi risultati siano utilizzati nel processo decisionale e
+      l’interconnessione, ad esempio, fra le strategie aziendali e di rischio, i piani
+      patrimoniali, i processi di individuazione dei rischi, la dichiarazione sulla
+      propensione al rischio, i sistemi di limiti, le metodologie per la quantificazione
+      dei rischi, il programma delle prove di stress e la reportistica gestionale.
+Reportistica gestionale
+29. L’ICAAP è un processo continuo. L’ente dovrebbe incorporare con adeguata
+      frequenza i risultati dell’ICAAP (ad esempio il modo in cui evolvono rischi
+      rilevanti, indicatori principali ecc.) nella reportistica interna destinata ai diversi
+      livelli dirigenziali. Ci si attende che la periodicità della reportistica diretta
+      all’organo di amministrazione sia almeno trimestrale; tuttavia, se richiesto dalle
+      dimensioni, dalla complessità, dal modello imprenditoriale e dalle tipologie di
+      rischio dell’ente, potrebbe dover essere maggiore per assicurare il tempestivo
+      intervento della dirigenza.
+30. I risultati dell’ICAAP sulla quantificazione dei rischi e sull’allocazione del
+      capitale, una volta approvati, dovrebbero rappresentare un parametro di
+      riferimento e un obiettivo di performance chiave rispetto ai quali misurare i
+      risultati finanziari e di altra natura di ciascuna area organizzativa interessata
+      dall’assunzione di rischi. Ciò dovrebbe essere favorito dall’attuazione di una
+      solida architettura e un valido quadro per la governance dell’ICAAP, come
+      descritto nel principio 1.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                     10
+
+L’ICAAP e il quadro di riferimento per la determinazione della
+propensione al rischio 15
+31. Il RAF dell’ente dovrebbe formalizzare l’interazione fra lo stesso RAF e gli altri
+      processi strategici, quali l’ICAAP, l’ILAAP, il piano di risanamento e la politica di
+      remunerazione, in linea con la Nota dell’MVU sulla governance e sulla
+      propensione al rischio. Un RAF ben sviluppato, articolato tramite la
+      dichiarazione sulla propensione al rischio, dovrebbe essere strettamente
+      interconnesso all’ICAAP e cardine di una sana gestione dei rischi e del capitale.
+32. Nella dichiarazione sulla propensione al rischio l’ente dovrebbe definire sia una
+      visione chiara e univoca sui rischi sia le misure previste riguardo a questi ultimi
+      in linea con la strategia aziendale. In particolare, la dichiarazione dovrebbe
+      illustrare le motivazioni che giustificano l’assunzione o meno di certe tipologie di
+      rischio, prodotti o regioni.
+33. Il profilo di rischio complessivo dell’ente dovrebbe in definitiva essere limitato e
+      determinato dal RAF a livello di gruppo e dalla sua attuazione. Il RAF è inoltre
+      un elemento critico del processo di sviluppo e attuazione della strategia
+      dell’ente. Collega, in modo strutturato, i rischi assunti all’adeguatezza
+      patrimoniale e agli obiettivi strategici dell’ente. Nell’ambito del RAF l’ente
+      dovrebbe determinare le proprie riserve gestionali e tenerne conto.
+34. Ci si attende che l’ente esprima con chiarezza come l’attuazione e il
+      monitoraggio della strategia e della propensione al rischio siano sostenuti
+      dall’ICAAP e come ciò gli consenta efficacemente di attenersi ai limiti di rischio
+      stabiliti nella dichiarazione sulla propensione al rischio. Per agevolare una
+      gestione dei rischi sana ed efficace, l’ente dovrebbe ricorrere ai risultati
+      dell’ICAAP nel predisporre un efficace sistema di monitoraggio e segnalazione
+      dei rischi e un sistema di limiti adeguatamente granulare (comprendente efficaci
+      procedure di segnalazione alla gerarchia superiore) che attribuisca limiti
+      specifici, ad esempio, ai singoli rischi, alle sottocategorie di rischio, alle entità e
+      alle aree organizzative, contribuendo a rendere operativa la dichiarazione sulla
+      propensione al rischio del gruppo.
+Coerenza fra l’ICAAP e i piani di risanamento
+35. Il piano di risanamento è volto a fornire le misure che l’ente deve adottare per
+      ripristinare la propria posizione finanziaria a seguito di un deterioramento
+      significativo. Poiché un livello insufficiente di capitalizzazione rappresenta una
+      delle minacce principali per la sostenibilità e la continuità economica, l’ICAAP e
+      il piano di risanamento dovrebbero articolarsi come fasi diverse dello stesso
+      processo di gestione dei rischi. Se l’ICAAP ha lo scopo di mantenere la
+15
+    Ulteriori indicazioni e orientamenti sono reperibili nella Nota dell’MVU sulla governance e sulla
+    propensione al rischio, BCE, giugno 2016, e in Principles for An Effective Risk Appetite Framework,
+    Financial Stability Board, novembre 2013.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                11
+
+       continuità operativa dell’ente (in base alla strategia e al modello imprenditoriale
+       prescelto), i piani di risanamento stabiliscono le misure (comprese quelle
+       straordinarie) tese a ripristinare la sua posizione finanziaria a seguito di un
+       deterioramento significativo.
+36. L’ente dovrebbe pertanto assicurare coerenza e omogeneità tra l’ICAAP, da un
+       lato, e il piano e i meccanismi di risanamento dall’altro (ad esempio soglie per i
+       segnali preliminari di allerta, indicatori di risanamento, procedure di
+       segnalazione alla gerarchia superiore e possibili interventi di gestione 16).
+       Inoltre, gli eventuali interventi di gestione dell’ICAAP con impatto rilevante
+       dovrebbero essere riflessi tempestivamente nel piano di risanamento, e
+       viceversa, al fine di assicurare che le informazioni e i processi inclusi nei relativi
+       documenti siano coerenti e aggiornati.
+Coerenza e omogeneità all’interno dei gruppi
+37. L’ICAAP dovrebbe assicurare l’adeguatezza patrimoniale ai pertinenti livelli di
+       consolidamento e per le entità del gruppo ove applicabile, come richiesto
+       dall’articolo 108 della CRD IV. Per poter efficacemente valutare e mantenere
+       l’adeguatezza patrimoniale nelle varie entità, le strategie, i processi di gestione
+       dei rischi, il processo decisionale e le metodologie e le ipotesi applicate nella
+       quantificazione del capitale devono essere omogenei all’interno del perimetro
+       considerato.
+38. Ove le disposizioni o gli orientamenti nazionali in materia di ICAAP differiscano
+       per determinate entità o sottogruppi, la loro attuazione a tali livelli del gruppo o
+       del sottogruppo potrebbe richiedere approcci in certa misura divergenti.
+       Tuttavia, gli enti dovrebbero assicurare che tali approcci non interferiscano con
+       l’efficacia e la coerenza dell’ICAAP a ogni livello pertinente, con particolare
+       riguardo al livello di gruppo. L’ente dovrebbe valutare anche i possibili
+       impedimenti alla trasferibilità del capitale all’interno del gruppo in maniera
+       prudente e cauta e tenerne conto nell’ICAAP.
+Esempio 2.1
+Coerenza fra l’ICAAP e il piano di risanamento
+Per assicurare la piena omogeneità fra i dispositivi di risanamento e quelli
+dell’ICAAP, ci si attende che gli enti definiscano coerentemente lo spettro degli effetti
+potenziali sul capitale e degli interventi gestionali corrispondenti nell’ambito
+dell’ICAAP e dei piani di risanamento. Pertanto, più nello specifico, ci si attende ad
+esempio che gli indicatori patrimoniali utilizzati nel piano di risanamento per
+individuare i deterioramenti significativi reali o potenziali della quantità e della qualità
+del capitale siano coerentemente considerati nell’ICAAP. Più in particolare, in
+16
+    Tuttavia, in caso di discrepanze nei principi alla base dell’ICAAP e del piano di risanamento, gli
+    interventi di gestione previsti possono differire.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                               12
+
+circostanze normali, i livelli di capitale dovrebbero essere gestiti tramite l’ICAAP in
+modo tale da mantenere un margine di prudenza superiore rispetto alle soglie degli
+indicatori patrimoniali 17 del piano di risanamento.
+Analogamente, anche gli interventi gestionali nell’ambito dell’ICAAP e del piano di
+risanamento dovrebbero essere coerenti: l’ipotesi da parte dell’ente di interventi
+analoghi nel piano di risanamento e nell’ICAAP potrebbe portare alla sovrastima
+dell’efficacia delle opzioni di risanamento ai fini del calcolo della capacità di
+risanamento complessiva nel caso in cui alcune di queste siano già state impiegate
+nell’ICAAP. Pertanto, al fine di evitare sovrapposizioni tra le opzioni di risanamento e
+gli interventi gestionali dell’ICAAP, con il rischio del “doppio conteggio”, agli interventi
+gestionali rilevanti adottati nell’ambito dell’ICAAP dovrebbe corrispondere la
+tempestiva rivalutazione della fattibilità e dell’efficacia delle opzioni previste dal piano
+di risanamento 18.
+Ad esempio, la capacità di un ente di reperire capitale in una situazione di
+risanamento può essere gravemente compromessa se l’ente ha già raccolto capitale
+in base all’ICAAP in una situazione non prevista dal piano di risanamento. Ciò
+potrebbe avere un impatto sulle tipologie e sul volume del capitale aggiuntivo che
+potrebbe essere reperito nonché sulle caratteristiche delle condizioni di emissione.
+Un ulteriore esempio è costituito dagli interventi gestionali relativi alla riduzione del
+rischio. Se ad esempio determinate attività sono cedute secondo quanto previsto
+dall’ICAAP in una situazione che non sia di risanamento, tali attività non potranno poi
+essere cedute nuovamente, ossia l’intervento non potrà più costituire un’opzione di
+risanamento fattibile.
+Un ulteriore legame tra l’ICAAP e il piano di risanamento è rappresentato dalle prove
+inverse di stress. Gli enti dovrebbero ricorrere a tale strumento nell’ambito del
+proprio ICAAP per valutare gli scenari suscettibili di determinare una situazione che
+comprometterebbe la loro capacità di operare secondo il modello imprenditoriale
+prescelto (e dunque gli obiettivi del proprio ICAAP). Nel contesto del piano di
+risanamento “le prove inverse di stress dovrebbero essere considerate un punto di
+partenza per lo sviluppo di soli scenari di dissesto imminente (“near-default”), nel
+senso che determinerebbero la non sostenibilità del modello operativo di un ente o di
+un gruppo, a meno che non siano efficacemente attuate azioni di risanamento.” 19
+Inoltre, sia nell’ICAAP sia nel piano di risanamento gli scenari dovrebbero basarsi
+sugli eventi di particolare rilevanza per gli enti e cogliere le loro principali
+vulnerabilità.
+17
+     Cfr. per maggiori dettagli gli Orientamenti dell’ABE sull’elenco minimo degli indicatori qualitativi e
+     quantitativi dei piani di risanamento (ABE/GL/2015/02).
+18
+     Cfr. anche per maggiori informazioni Report on recovery plans, BCE, luglio 2018.
+19
+     Cfr. il paragrafo 11 degli Orientamenti dell’ABE sulla serie di scenari da utilizzare nei piani di
+     risanamento (ABE/GL/2014/06).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                    13
+
+Principio 3: l’ICAAP fornisce un contributo fondamentale
+alla continuità dell’ente assicurandone l’adeguatezza
+patrimoniale da prospettive diverse
+(i)     L’ICAAP riveste un ruolo cruciale nel preservare la continuità dell’ente
+        assicurandone un’adeguata capitalizzazione. Al fine di garantire tale contributo
+        alla propria continuità, l’ente dovrebbe adottare un ICAAP proporzionato,
+        prudente e conservativo che integri le due prospettive interne complementari.
+(ii)    L’ente dovrebbe attuare una prospettiva normativa che rappresenti una
+        valutazione pluriennale della propria capacità di soddisfare tutte le richieste e
+        tutti i requisiti patrimoniali regolamentari e di vigilanza, nonché di far fronte ad
+        altri vincoli finanziari esterni, su base continuativa nel medio termine. Questo
+        implica la valutazione di uno scenario di base credibile e di adeguati scenari
+        avversi specifici per l’ente, come riflesso nella pianificazione pluriennale del
+        capitale e in linea con gli obiettivi generali di pianificazione dell’ente.
+(iii) La prospettiva normativa dovrebbe essere integrata dalla prospettiva
+        economica, in base alla quale l’ente dovrebbe individuare e quantificare tutti i
+        rischi rilevanti suscettibili di generare perdite economiche e ridurre il capitale
+        interno. In conformità alla prospettiva economica, l’ente dovrebbe assicurare
+        l’adeguata copertura dei rischi con capitale interno in linea con il concetto
+        interno di adeguatezza patrimoniale.
+(iv) Le due prospettive dovrebbero fornirsi informazioni reciprocamente ed essere
+        incorporate in tutte le attività e le decisioni imprenditoriali rilevanti, come
+        descritto nel principio 2.
+Obiettivo: contribuire alla continuità dell’ente
+39. L’obiettivo dell’ICAAP è contribuire alla continuità dell’ente dalla prospettiva
+        patrimoniale assicurando che disponga di capitale sufficiente a sostenere i
+        propri rischi, assorbire le perdite e perseguire una strategia sostenibile, anche
+        durante un prolungato periodo di andamenti sfavorevoli. L’ente dovrebbe far sì
+        che l’obiettivo della continuità sia riflesso nel RAF (come precisato nel principio
+        2) e utilizzare il quadro dell’ICAAP per riesaminare la propensione al rischio e le
+        soglie di tolleranza nell’ambito dei propri vincoli patrimoniali complessivi,
+        considerati il profilo di rischio e le vulnerabilità.
+40. Ci si attende che, entro tali vincoli patrimoniali, l’ente valuti e definisca 20 riserve
+        gestionali superiori ai requisiti minimi regolamentari e di vigilanza 21 e al
+20
+     In questa guida le riserve gestionali non si riferiscono al capitale disponibile (“margine”), ma riflettono la
+     visione dell’ente sul capitale necessario per seguire il proprio modello imprenditoriale su base durevole.
+21
+     Il concetto di riserva gestionale non prevede di fatto nuovi coefficienti patrimoniali obbligatori al di sopra
+     dei requisiti minimi vigenti. In genere ci si attende che le riserve gestionali siano superiori a zero, ma in
+     teoria un ente può anche riuscire ad argomentare che, a seconda dello scenario analizzato, una riserva
+     gestionale pari a zero gli consentirebbe comunque di seguire il proprio modello imprenditoriale su base
+     durevole.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                        14
+
+         fabbisogno di capitale interno in modo tale da consentirgli di perseguire la
+         propria strategia in modo duraturo. Riguardo alla costituzione di sufficienti
+         riserve gestionali nel medio periodo, l’ente dovrebbe tenere conto, ad esempio,
+         delle aspettative dei mercati, degli investitori e delle controparti, delle possibili
+         restrizioni alla distribuzione derivanti dall’ammontare massimo distribuibile
+         (AMD), nonché della correlazione tra modello imprenditoriale e capacità
+         dell’ente di corrispondere incentivi, dividendi e pagamenti su strumenti di
+         capitale aggiuntivo di classe 1 (Additional Tier 1, AT1). Oltre a tali vincoli
+         esterni, le riserve gestionali dovrebbero, ad esempio, fornire un margine per le
+         incertezze circa le proiezioni sui coefficienti patrimoniali, e circa le eventuali
+         oscillazioni di tali coefficienti, per riflettere la propensione al rischio dell’ente e
+         consentire una certa flessibilità nelle decisioni imprenditoriali.
+Figura 1
+L’ICAAP contribuisce alla continuità dell’ente
+ Contesto economico
+                                                                Capitale
+                                                               adeguato
+                                                                (ICAAP)
+ Strategia aziendale                               CONTINUITÀ DELL’ENTE       Posizione concorrenziale
+                                                                Liquidità
+                                                               adeguata
+                                                                 (ILAAP)
+Le cifre e le dimensioni vanno considerate solo a fini illustrativi.
+Prospettiva normativa interna
+41. La prospettiva normativa è una valutazione pluriennale della capacità dell’ente
+         di soddisfare tutte le richieste e tutti i requisiti patrimoniali quantitativi
+         regolamentari e di vigilanza, nonché di far fronte ad altri vincoli finanziari
+         esterni, su base continuativa.
+42. In aggiunta ai requisiti concernenti ad esempio il coefficiente di leva finanziaria,
+         le grandi esposizioni e, una volta applicabile, il livello minimo di passività
+         ammissibili (minimum requirement for own funds and eligible liabilities, MREL),
+         l’ente dovrebbe tenere presente in particolare i requisiti di capitale di primo
+         pilastro (Pillar 1 capital requirements, P1R) e di secondo pilastro (P2R), il
+         quadro definito dalla CRD IV in materia di riserve e gli orientamenti di capitale
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                            15
+
+        di secondo pilastro (Pillar 2 capital guidance, P2G), come illustrato nella
+        figura 2.
+43. La prospettiva normativa dovrebbe considerare tutti i rischi rilevanti che
+        incidono sui coefficienti regolamentari, compresi i fondi propri e gli importi
+        dell’esposizione al rischio, per il periodo di pianificazione. Pertanto, sebbene i
+        risultati siano espressi in metriche regolamentari, la prospettiva normativa non
+        si limita ai rischi di primo pilastro rilevati nei requisiti patrimoniali regolamentari.
+        Nel valutare l’adeguatezza patrimoniale dalla prospettiva normativa, ci si
+        attende che l’ente consideri tutti i rischi rilevanti che ha quantificato nell’ambito
+        della prospettiva economica e analizzi se e in quale misura tali rischi possano
+        concretizzarsi nel periodo di pianificazione, a seconda dello scenario applicato.
+44. L’ente dovrebbe mantenere un piano patrimoniale solido e aggiornato che sia
+        compatibile con le strategie, la propensione al rischio e le risorse patrimoniali.
+        Ci si attende che il piano patrimoniale comprenda scenari di base e avversi e
+        copra un orizzonte prospettico di almeno tre anni 22. L’ente dovrebbe inoltre
+        tenere conto dell’impatto di imminenti cambiamenti ad assetti giuridici,
+        regolamentari e contabili 23 e prendere una decisione informata e motivata su
+        come considerarli ai fini della pianificazione della liquidità e del finanziamento.
+        Per quanto riguarda i livelli futuri di P2R e P2G, gli enti dovrebbero considerare
+        tutte le informazioni sulle future variazioni di queste posizioni 24.
+22
+    È responsabilità degli enti scegliere l’orizzonte di pianificazione adeguato; tre anni costituiscono
+    l’orizzonte minimo che un piano patrimoniale dettagliato dovrebbe coprire. Inoltre, nella pianificazione
+    strategica gli enti dovrebbero tenere conto, in misura proporzionale, degli andamenti su un periodo più
+    lungo di questo orizzonte minimo, se avranno un impatto rilevante.
+23
+    A seconda della probabilità e del potenziale impatto di determinate modifiche, l’ente può applicare un
+    trattamento diverso. Ad esempio, per quanto molto improbabili, alcuni cambiamenti avrebbero un
+    impatto enorme sull’ente, che dovrebbe quindi predisporre misure di emergenza. Altri mutamenti
+    regolamentari più probabili dovrebbero, tuttavia, essere colti nello stesso piano patrimoniale. Fra gli
+    esempi recenti di nuova regolamentazione vi sono il principio internazionale di rendicontazione
+    finanziaria IFRS 9 (International Financial Reporting Standard), la direttiva sul risanamento e sulla
+    risoluzione delle banche (Bank Recovery and Resolution Directive, BRRD) e il metodo standardizzato
+    per il rischio di controparte (standardised approach for counterparty credit risk, SA-CCR).
+24
+    I livelli di P2R e P2G sono stabiliti dalla BCE. Nella pianificazione del capitale gli enti dovrebbero
+    trattare questi livelli patrimoniali come importi fissati esternamente. In assenza di informazioni
+    specifiche che indicano il contrario, i futuri livelli di P2R e P2G utilizzati nella pianificazione del capitale
+    dovrebbero essere almeno altrettanto elevati di quelli correnti.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                          16
+
+Figura 2
+Riserve gestionali e altri vincoli patrimoniali nella prospettiva normativa
+ Scenari di base:
+ proiezioni su tre anni                                              Riserva gestionale
+                                                                         oltre i P2G
+                                               Orientamenti              Minimo di base
+ Soglia di attivazione
+ dell’AMD                                  di secondo pilastro
+                                    Requisito di riserva combinato
+                                                 Requisito
+                OCR
+                                           di secondo pilastro
+                                                                       TSCR
+                                                 Requisito
+                                             di primo pilastro
+                                       Fabbisogno di fondi propri                          Dotazione di
+                                                                                           fondi propri
+ Scenari avversi:
+ proiezioni su tre anni
+ Soglia di attivazione                         Orientamenti
+ dell’AMD                                  di secondo pilastro
+                                                                        Riserva gestionale
+                                                                            oltre il TSCR
+                                                                         Minimo assoluto
+                                                 Requisito
+                OCR
+                                           di secondo pilastro
+                                                                       TSCR
+                                                 Requisito
+                                             di primo pilastro
+                                       Fabbisogno di fondi propri                          Dotazione di
+                                                                                           fondi propri
+Le cifre e le dimensioni vanno considerate solo a fini illustrativi.
+45. Per le considerazioni che non si fondano su scenari di stress, compresi gli
+         scenari di base delle proiezioni per il piano patrimoniale, l’ente dovrebbe tenere
+         presente non solo il requisito patrimoniale SREP complessivo (total SREP
+         capital requirement, TSCR) ma anche il proprio requisito combinato di riserva di
+         capitale (combined buffer requirement, CBR), vale a dire il requisito
+         patrimoniale complessivo (overall capital requirement, OCR), e i P2G. Ci si
+         attende che l’ente consideri tali elementi al fine di determinare riserve gestionali
+         adeguate e attuare un piano patrimoniale che gli assicuri, nel medio periodo, il
+         rispetto dell’OCR e dei P2G nelle condizioni di base attese (cfr. figura 3).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                               17
+
+Figura 3
+Proiezione del coefficiente patrimoniale con scenari di base nella prospettiva
+normativa
+    OCR
+    P2G
+    Riserva gestionale
+    Minimo di base
+    Scenario di base (risultato)
+                                                          Riserva gestionale
+                                                                   P2G
+                                                                  OCR
+                                                       (= P1R + P2R + CBR)
+                t=0                            t+1                           t+2         t+3
+Le cifre e le dimensioni vanno considerate solo a fini illustrativi.
+46. Ci si attende che l’ente si prefigga di rispettare il proprio TSCR in ogni
+         momento, anche in prolungati periodi di andamenti sfavorevoli che comportino
+         una grave riduzione del capitale primario di classe 1 (Common Equity Tier 1,
+         CET1). In scenari sufficientemente avversi 25 potrebbe essere ammesso che
+         l’ente non soddisfi i propri P2G e CBR. Tuttavia, l’ente dovrebbe stabilire riserve
+         gestionali adeguate superiori al TSCR per tenere conto delle suddette
+         considerazioni; dovrebbe altresì metterle in atto in un piano patrimoniale tale da
+         consentirgli di mantenersi al di sopra del TSCR e di soddisfare, ad esempio, le
+         aspettative di mercato anche in condizioni avverse su un orizzonte di medio
+         termine (cfr. figura 4).
+47. Se l’ente ipotizza interventi di gestione nel piano patrimoniale, ci si attende che
+         ne valuti anche la fattibilità e l’effetto atteso a fronte dei rispettivi scenari e che
+         operi con trasparenza riguardo all’impatto quantitativo di ciascun intervento
+         sulle proiezioni. Se pertinente, le ipotesi adottate dovrebbero essere coerenti
+         con il piano di risanamento.
+25
+      La gravità degli scenari avversi è trattata più approfonditamente nel principio 7.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                       18
+
+Figura 4
+Proiezioni del coefficiente patrimoniale con scenari avversi nella prospettiva
+normativa 26
+    TSCR
+    Riserva gestionale
+    Scenario di base (risultato)
+    Scenario avverso 1 (risultato)
+    Scenario avverso 2 (risultato)
+    Scenario avverso n (risultato)
+    Minimo nello scenario avverso
+                                                          Riserva gestionale
+                                                                  TSCR
+                                                             (=P1R + P2R)
+                t=0                            t+1                           t+2                  t+3
+Le cifre e le dimensioni vanno considerate solo a fini illustrativi.
+Prospettiva economica interna
+48. Ci si attende che l’ente gestisca l’adeguatezza patrimoniale dalla prospettiva
+         economica assicurando l’idonea copertura dei rischi con capitale interno
+         tenendo conto delle aspettative del principio 5. L’adeguatezza economica del
+         capitale richiede che il capitale interno dell’ente sia sufficiente a coprire i suoi
+         rischi e sostenere la sua strategia nel tempo.
+49. In questa prospettiva, la valutazione dell’ente dovrebbe estendersi a tutto
+         l’insieme dei rischi suscettibili di esercitare un impatto rilevante sulla posizione
+         patrimoniale dalla prospettiva economica. Per poter cogliere la reale situazione
+         economica, questa prospettiva non si fonda su disposizioni contabili o
+         regolamentari. Dovrebbe invece tenere conto delle considerazioni del valore
+         economico 27 per tutti gli aspetti economicamente rilevanti, ivi compresi attività,
+         passività e rischi 28. Quindi, sebbene l’ICAAP si fondi sull’ipotesi della continuità
+26
+      A titolo esemplificativo è riportata la stessa riserva gestionale per tutti gli scenari, anche se la riserva
+      effettiva dipende dallo scenario analizzato.
+27
+      Cfr. il glossario per maggiori indicazioni su questo concetto. Per quanto riguarda il capitale interno,
+      maggiori indicazioni sono fornite nel principio 5; quanto ai rischi, gli enti dovrebbero tenere conto di
+      ogni elemento che potrebbe incidere sul loro valore economico, ossia sul capitale interno. Maggiori
+      indicazioni sulle aspettative della BCE in merito all’identificazione e alla quantificazione dei rischi e alle
+      prove di stress nella prospettiva economica sono fornite nei principi 4, 6 e 7.
+28
+      Il concetto di adeguatezza economica del capitale, compreso ad esempio il concetto di valore attuale
+      netto, dipende dalla definizione e dai criteri applicati dall’ente. Il concetto sottostante a tale prospettiva
+      dovrebbe essere in linea con il concetto di “valore economico” descritto negli orientamenti dell’ABE
+      sulla gestione del rischio di tasso di interesse derivante da attività non comprese nel portafoglio di
+      negoziazione (trading book) (ABE/GL/2018/02) (indicato anche come rischio di tasso di interesse sul
+      portafoglio bancario, ossia interest rate risk in the banking book, IRRBB). Tuttavia, la presente guida
+      non stabilisce l’applicazione di una metodologia specifica per quantificare i rischi o il capitale interno.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                          19
+
+      dell’ente e sia intesa ad assicurarla, l’ente dovrebbe gestire la propria
+      adeguatezza economica del capitale sulla base delle considerazioni del valore
+      economico. L’ente dovrebbe gestire e valutare adeguatamente i rischi
+      economici e il capitale interno nel quadro delle prove di stress e nel
+      monitoraggio e nella gestione dell’adeguatezza patrimoniale.
+50. Ci si attende che l’ente ricorra ai propri processi e alle proprie metodologie per
+      individuare, quantificare e accantonare capitale interno a fronte delle perdite
+      attese (per quanto esse non siano considerate nella determinazione del
+      capitale interno) e le perdite inattese in cui potrebbe incorrere, tenendo
+      presente il principio di proporzionalità. Ci si attende che l’ente esegua una
+      quantificazione puntuale dei rischi insiti nella situazione corrente alla data di
+      riferimento. A complemento dovrebbe essere valutato a medio termine l’impatto
+      dei futuri sviluppi rilevanti che non sono integrati nella valutazione della
+      situazione corrente, fra i quali gli eventuali interventi di gestione, le modifiche
+      del profilo di rischio o i mutamenti del contesto esterno 29.
+51. Ci si attende che l’ente utilizzi i risultati e le metriche della valutazione
+      dell’adeguatezza economica del capitale nella gestione strategica e operativa e
+      nella revisione della propensione al rischio e delle strategie aziendali. In
+      aggiunta a una definizione prudente di capitale interno 30 e alla quantificazione
+      dei rischi, l’ente dovrebbe adottare un concetto di adeguatezza economica del
+      capitale che gli consenta di preservare la sostenibilità economica e perseguire
+      la propria strategia. Ciò comprende processi di gestione atti a individuare in
+      maniera tempestiva la necessità di intervento per colmare le carenze di capitale
+      interno emerse e per assumere misure efficaci (ad esempio incremento
+      patrimoniale, riduzione dei rischi).
+52. L’adeguatezza economica del capitale dell’ente richiede un monitoraggio e una
+      gestione attivi. Per questo motivo l’ente dovrebbe predisporre e pianificare le
+      procedure e gli interventi di gestione da attuare per far fronte a situazioni che
+      potrebbero portare a una capitalizzazione insufficiente.
+29
+    Fra gli interventi di gestione vi sono anche le misure patrimoniali, l’acquisizione o la cessione di linee di
+    attività e le modifiche del profilo di rischio. Cfr. anche la sezione “Interazione fra prospettiva economica
+    e prospettiva normativa”.
+30
+    Le aspettative concernenti il capitale interno sono introdotte nel principio 5.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                      20
+
+Figura 5
+Considerazioni di gestione nella prospettiva economica
+   Livello del capitale interno
+   osservato (copertura dei rischi)
+                                - Interventi per invertire la tendenza e
+                                  mantenere l’adeguatezza patrimoniale
+   “Individuazione di
+   una tendenza
+   al ribasso”
+                                                                                                               Soglia di adeguatezza
+                                                                                                              economica del capitale
+                                                         “Gravi incertezze per
+                                                              l’adeguatezza
+                                                              patrimoniale”
+                                                                              - Interventi per ripristinare l’adeguatezza patrimoniale
+                                                                              - Rivedere la strategia e la propensione al rischio
+                                                                 Tempo
+Va osservato che il grafico non dovrebbe essere inteso come la proiezione di una situazione economica in un dato momento.
+Rappresenta il deterioramento dei livelli del capitale economico che può verificarsi nel tempo al di là del normale ciclo congiunturale.
+L’ente dovrebbe disporre di una strategia per ovviare a tale deterioramento e gestire attivamente l’adeguatezza patrimoniale. Inoltre, la
+quantificazione dei rischi e quella del capitale interno disponibile dovrebbero confluire nelle proiezioni elaborate nell’ambito della
+prospettiva normativa.
+53. Quando l’ente individua una tendenza significativamente al ribasso della
+         posizione del capitale economico, dovrebbe considerare delle misure volte a
+         mantenere una capitalizzazione adeguata, invertire la tendenza e rivedere la
+         propria strategia e propensione al rischio, come illustrato indicativamente nella
+         figura 5. Pertanto, quando l’ente si trova al di sotto della soglia di adeguatezza
+         del capitale interno, dovrebbe poter prendere le misure necessarie e spiegare
+         come l’adeguatezza patrimoniale sia assicurata nel medio termine.
+Interazione fra prospettiva economica e prospettiva normativa
+54. Nella prospettiva economica, gli effetti dei rischi e delle perdite economici si
+         estendono pienamente e immediatamente al capitale interno. La prospettiva
+         economica offre dunque una visione molto ampia dei rischi 31. Alcuni di essi, o i
+         rischi connessi, possono anche manifestarsi in seguito, appieno o in parte,
+         nell’ambito della prospettiva normativa tramite perdite contabili, riduzioni dei
+         fondi propri o accantonamenti prudenziali.
+55. L’ente pertanto dovrebbe valutare dalla prospettiva normativa in quale misura i
+         rischi identificati e quantificati nell’ambito della prospettiva economica possano
+         incidere in futuro sui fondi propri e sull’importo complessivo dell’esposizione al
+         rischio (total risk exposure amount, TREA). Le proiezioni della futura posizione
+         patrimoniale secondo la prospettiva normativa dovrebbero quindi essere
+         debitamente alimentate dalle valutazioni della prospettiva economica.
+31
+      Ad esempio, un impatto negativo dell’IRRBB sul valore economico (ossia la variazione del valore
+      attuale dei flussi di cassa netti attesi dell’ente) dà una visione dei potenziali effetti di lungo periodo sulle
+      esposizioni complessive dell’ente. Nella prospettiva normativa tale rischio può concretizzarsi, ad
+      esempio, attraverso una diminuzione degli utili o un’operazione concernente il rispettivo portafoglio.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                                               21
+
+56. Più specificamente, dovrebbero essere considerati rischi ed effetti che non
+       sono necessariamente evidenti focalizzandosi solo sui requisiti patrimoniali
+       contabili/regolamentari, ma che potrebbero manifestarsi e influire sul valore
+       futuro dei fondi propri regolamentari o del TREA.
+57. Per contro, l’ente dovrebbe inoltre utilizzare i risultati della prospettiva
+       normativa per informare 32 le quantificazioni dei rischi nella prospettiva
+       economica e correggere o integrare tali quantificazioni qualora non colgano
+       adeguatamente i rischi emersi dallo scenario o dagli scenari avversi considerati.
+       Le due prospettive dovrebbero dunque fornirsi informazioni reciprocamente.
+58. Dato che le definizioni e i livelli di capitale, le tipologie di rischio e i relativi
+       importi, nonché i coefficienti patrimoniali obbligatori, in genere differiscono a
+       seconda della prospettiva e dato che, in funzione del tempo e degli enti, una
+       prospettiva non è sistematicamente più stringente dell’altra, una gestione dei
+       rischi efficace richiede l’attuazione di entrambe le prospettive 33.
+32
+    Questo aspetto è particolarmente rilevante per i rischi che sono più difficili da quantificare. Gli
+    aggiustamenti alla quantificazione dei rischi nella prospettiva economica andrebbero motivati e
+    documentati in maniera esaustiva.
+33
+    La logica generale sottostante a questa affermazione è la stessa di quella esposta per l’IRRBB negli
+    orientamenti dell’ABE sulla gestione del rischio di tasso di interesse derivante da attività non comprese
+    nel portafoglio di negoziazione (trading book) (ABE/GL/2018/02): “Gli enti dovrebbero misurare
+    l’esposizione all’IRRBB in termini di variazioni potenziali sia del valore economico sia degli utili. Essi
+    dovrebbero ricorrere agli elementi complementari di entrambi gli approcci per cogliere la complessa
+    natura dell’IRRBB su orizzonti di breve e di lungo periodo.”
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                       22
+
+Figura 6
+Panoramica delle prospettive dell’ICAAP e delle caratteristiche principali
+                                                               ICAAP
+                                          Finalizzato al mantenimento dell’adeguatezza
+                                          patrimoniale su base continuativa nel medio
+                                             termine secondo due prospettive interne
+                                                          complementari.
+  Prospettiva normativa interna                                                 Prospettiva economica interna
+  • Rispetto continuo di tutti i requisiti                                      • Copertura con capitale interno dei rischi
+    regolamentari e vincoli esterni pertinenti.                                   che possono causare perdite
+                                                                                  economiche.
+  • Proiezioni di medio termine di almeno tre
+    anni:                                                                       • Concetto di adeguatezza patrimoniale
+                                                                                  basato su considerazioni del valore
+    • assicura il rispetto continuo di                                            economico (ad esempio approccio del
+      OCR+P2G nello scenario di base e del                                        valore attuale netto).
+      TSCR nello scenario avverso;
+                                                                                • Definizione interna di capitale.
+    • tiene conto di tutti i rischi rilevanti (non
+      solo quelli di primo pilastro);                                           • La quantificazione puntuale dei rischi
+                                                             Reciproca            della situazione attuale alimenta una
+    • considera cambiamenti imminenti ad                 integrazione delle       valutazione di medio termine sugli
+      assetti giuridici, regolamentari e                    informazioni          andamenti futuri.
+      contabili.
+                                                                                • Metodi interni di quantificazione dei rischi
+  • Metodi interni adeguati e coerenti per la                                     adeguati e coerenti.
+    quantificazione degli effetti sui coefficienti
+    di primo pilastro.                                                          • Indicatori, soglie e riserve gestionali
+                                                                                  interni.
+  • Ulteriori riserve gestionali determinate
+    dall’ente.
+  • Governance solida                                             • Solidità nella qualità dei dati, nell’aggregazione dei dati
+                                                                    e nell’architettura IT
+  • Integrazione nei processi decisionali, nelle strategie        • Soggetto a revisione interna periodica, ivi compresa la
+    e nella gestione dei rischi                                     convalida indipendente
+Esempio 3.1
+Riserve gestionali
+Quanto più debole è la base patrimoniale di un ente, tanto più difficile e oneroso
+diventa per esso seguire il modello imprenditoriale prescelto. Ad esempio, se
+investitori, controparti e clienti percepiscono livelli inferiori di capitale come un
+incremento del rischio di default dell’ente, richiederanno premi per il rischio più
+elevati. Ciò influirà in maniera negativa sulla redditività dell’ente, mettendone
+potenzialmente a repentaglio la continuità, benché i suoi livelli patrimoniali
+permangano al di sopra dei requisiti minimi regolamentari e di vigilanza.
+Un altro esempio è rappresentato dai dividendi e dai pagamenti su strumenti di AT1.
+Se la strategia dell’ente è basata sull’emissione di strumenti di capitale sul mercato,
+livelli patrimoniali inferiori possono determinare una perdita di fiducia degli investitori.
+Ciò può ostacolare l’accesso dell’ente al mercato dei capitali e, di conseguenza, la
+capacità di perseguire la propria strategia aziendale.
+Tenuto conto di queste considerazioni, ci si attende che l’ente determini i livelli di
+capitale necessari ad assicurare la propria continuità operativa. Nella pianificazione
+del capitale l’ente dovrebbe fare in modo di poter mantenere le proprie riserve
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                                     23
+
+gestionali sia in condizioni di normalità che in condizioni avverse. Le riserve
+gestionali possono differire in grande misura da un ente all’altro e dipendono dagli
+andamenti esterni, come riflesso in diversi scenari. Ad esempio, è potenzialmente
+rilevante se uno scenario avverso riflette una situazione di stress idiosincratico o di
+stress generalizzato del mercato, in quanto ciò può influire sulle aspettative di
+investitori, clienti, controparti ecc. riguardo alla capitalizzazione dell’ente. Le riserve
+gestionali inoltre possono variare nel tempo anche in uno stesso scenario, in quanto
+momenti diversi riflettono condizioni interne ed esterni differenti.
+Esempio 3.2
+La prospettiva economica fornisce informazioni alla prospettiva
+normativa
+Ci si attende che l’ente quantifichi l’impatto a conto economico dei rischi di tasso di
+interesse sul portafoglio bancario (banking book) secondo la prospettiva normativa,
+anche se tali rischi non sono considerati nei requisiti patrimoniali di primo pilastro.
+Mentre l’effetto economico delle variazioni dei tassi di interesse sulle posizioni del
+banking book è tempestivamente ravvisabile interamente nella prospettiva
+economica, possono trascorrere diversi anni finché l’impatto complessivo degli effetti
+a conto economico si manifesti sui coefficienti patrimoniali di primo pilastro nella
+prospettiva normativa. In quest’ultima prospettiva, in particolare nelle proiezioni
+basate su scenari avversi, l’ente pertanto dovrebbe tenere conto delle perdite
+potenziali derivanti da tutti i rischi che sono colti dalla prospettiva economica,
+compresi i rischi non considerati dal primo pilastro.
+A titolo di esempio, nella prospettiva economica l’ente potrebbe giungere alla
+conclusione che il proprio valore economico si ridurrebbe di 100 milioni di euro
+nell’anno successivo se i tassi di interesse aumentassero di 200 punti base. Negli
+scenari della prospettiva normativa l’ente dovrebbe valutare il rispettivo impatto sul
+conto economico e, in definitiva, sui fondi propri e sui coefficienti di primo pilastro
+nell’orizzonte del piano patrimoniale, ad esempio attraverso una riduzione del conto
+economico di 15 milioni di euro nel primo anno, 13 milioni nel secondo anno e
+10 milioni nel terzo.
+Un ulteriore esempio è costituito dalle perdite occulte. Se da un lato nella prospettiva
+economica le attività sono concettualmente considerate al valore economico/valore
+attuale netto, dall’altro la prospettiva normativa si basa su valori contabili e
+prudenziali. Le perdite occulte diventano evidenti quando si raffrontano i valori
+contabili e i valori economici. Dopo aver determinato l’importo complessivo delle
+perdite occulte, l’ente deve decidere in quale misura tali perdite possano
+concretizzarsi anche nello stato patrimoniale / nel conto economico e dovrebbe
+quindi tenerne conto nell’ambito della prospettiva normativa.
+Se, ad esempio, un ente detiene un portafoglio in titoli di Stato soggetto a perdite
+occulte per un totale di 100 milioni di euro, dovrebbe determinare quale parte di tali
+perdite possa incidere sui fondi propri regolamentari, in base ai rispettivi scenari di
+medio termine. In questo esempio l’ente può concludere che si verificherebbero
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                  24
+
+perdite contabili pari a 10 e 20 milioni di euro negli anni 1 e 2, rispettivamente, per
+effetto di una riduzione del valore nominale dei titoli sottostanti. Tali perdite
+andrebbero considerate nelle proiezioni elaborate nell’ambito della prospettiva
+normativa.
+Un altro esempio è rappresentato dal rischio di migrazione. Nella prospettiva
+economica l’ente valuta in quale misura il proprio valore economico si ridurrebbe
+nell’anno successivo se il merito di credito delle sue esposizioni si deteriorasse,
+ovvero passasse a probabilità di default più elevate. Tale deterioramento non
+confluirebbe nella prospettiva normativa attraverso il conto economico (diversamente
+dal rischio di default) per le esposizioni non contabilizzate al fair value (ad esempio
+nella categoria dei prestiti e crediti); tuttavia, potrebbe avere un impatto: le più alte
+probabilità di default individuate nella prospettiva economica determinano attività
+ponderate per il rischio più elevate e, quindi, coefficienti di primo pilastro inferiori
+nelle proiezioni del piano patrimoniale. Questa trasmissione dalla prospettiva
+economica a quella normativa non rappresenta solitamente un utilizzo biunivoco
+degli importi della prospettiva economica. L’ente dovrebbe piuttosto valutare
+l’importo dell’aumento del TREA nel rispettivo scenario, facendo salvo il metodo di
+quantificazione del rischio di credito utilizzato dall’ente nell’ambito del primo pilastro
+e applicando le disposizioni del regolamento sui requisiti patrimoniali (Capital
+Requirements Regulation, CRR) su come le attività ponderate per il rischio
+dipendono dalle probabilità di default (PD), dalla LGD e dall’EAD.
+In sintesi, vi sono diversi canali attraverso i quali i rischi individuati e quantificati nella
+prospettiva economica influiscono sulle proiezioni nella prospettiva normativa: effetti
+negativi sul conto economico, riduzioni dirette dei fondi propri, accantonamenti più
+elevati e aumento del TREA. Ad ogni modo ci si attende che gli enti assumano un
+approccio differenziato nel traslare i rischi alle proiezioni dei coefficienti di primo
+pilastro. In genere i rischi nella prospettiva economica non hanno un impatto
+biunivoco sulle proiezioni nell’ambito del primo pilastro. Quanto i rischi si
+ripercuotano su tali proiezioni dipende, ad esempio, dallo scenario considerato e
+dalle regole contabili e disposizioni regolamentari applicate.
+Esempio 3.3
+La prospettiva normativa fornisce informazioni alla prospettiva
+economica
+Le valutazioni a medio termine della prospettiva normativa interna e dei rispettivi
+scenari sottostanti dovrebbero fornire informazioni alla visione di lungo periodo della
+prospettiva economica interna, nella misura in cui tali variazioni non siano riflesse
+nella quantificazione puntuale dei rischi alla rispettiva data di riferimento. Gli
+interventi di gestione previsti nella prospettiva normativa, ad esempio le misure
+patrimoniali, la distribuzione dei dividendi, l’acquisizione o la cessione di linee di
+attività, dovrebbero essere valutati per stabilirne l’impatto sulla sostanza economica
+dell’ente. Tale valutazione andrebbe fatta nella visione di lungo periodo della
+prospettiva economica interna, affinché gli interventi di gestione non mettano a
+repentaglio l’adeguatezza economica del capitale. Per contro, le variazioni attese
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                    25
+
+delle curve dei tassi di interesse e gli interventi di gestione già decisi che avverranno
+durante l’orizzonte di rischio (generalmente di almeno un anno) sono di solito
+considerati nella valutazione puntuale a breve termine della prospettiva economica.
+Le proiezioni basate su scenari avversi della prospettiva normativa dovrebbero
+simulare le vulnerabilità specifiche dell’ente. Se tali proiezioni evidenziano un
+impatto rilevante connesso a una particolare tipologia di rischio, ad esempio il rischio
+di migrazione, l’ente dovrebbe far sì che tale rischio sia adeguatamente quantificato
+nel calcolo puntuale o nelle valutazioni complementari (prove di stress) della
+prospettiva economica.
+Ad esempio, un ente con un rilevante portafoglio azionario fa fronte all’esposizione al
+rischio ipotizzando una grave contrazione dei mercati azionari nella prospettiva
+normativa. Un consistente impatto sull’adeguatezza patrimoniale nella prospettiva
+normativa informa la prospettiva economica: l’ente dovrebbe analizzare che effetto
+avrebbe questo evento grave ma plausibile sull’adeguatezza economica del capitale
+e se l’analisi nella prospettiva economica colga in maniera appropriata quello
+scenario e consenta all’ente di gestire efficacemente quel rischio.
+In pratica, se l’ente applica il metodo del valore a rischio (value-at-risk, VaR) per
+quantificare il rischio di mercato nella prospettiva economica e i dati utilizzati a
+questo fine si riferiscono solo ad andamenti regolari dei mercati azionari, tale
+quantificazione sottostima il rischio di mercato. L’ente può correggere le ipotesi di
+quantificazione o destinare ulteriore capitale interno al rischio di mercato che non è
+colto dalla quantificazione del rischio o ancora adottare altre misure per assicurare
+capitale sufficiente a copertura del rischio. In linea con il concetto di prudenza
+menzionato in questa guida, ciò non implica necessariamente che l’ente debba
+modificare la quantificazione VaR, che ad esempio può essere utilizzata anche ai fini
+della determinazione del prezzo. Lo stesso ente decide come far sì che il rischio sia
+efficacemente gestito e coperto da capitale interno in maniera prudente.
+Principio 4: tutti i rischi rilevanti sono identificati e
+considerati nell’ICAAP
+(i)   L’ente è responsabile di attuare un regolare processo di identificazione di tutti i
+      rischi rilevanti ai quali è o potrebbe essere esposto nella prospettiva economica
+      e in quella normativa. Tutti i rischi ritenuti rilevanti dovrebbero essere
+      considerati in tutte le parti dell’ICAAP in base a una tassonomia dei rischi
+      definita internamente.
+(ii)  Adottando un approccio globale, che comprenda il complesso delle linee di
+      attività, delle esposizioni e dei soggetti giuridici significativi, l’ente dovrebbe
+      identificare con frequenza almeno annuale i rischi rilevanti, applicando la
+      propria definizione interna di rilevanza. Il processo di identificazione dei rischi
+      dovrebbe dar luogo a un inventario interno dei rischi esaustivo.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                  26
+
+(iii) In presenza di partecipazioni finanziarie e non finanziarie, entità controllate e
+        altri soggetti collegati, l’ente dovrebbe individuare i rischi significativi sottostanti
+        ai quali è, o potrebbe essere esposto, e tenerne conto nell’ICAAP.
+(iv) Ci si attende che l’ente allochi capitale a fronte di tutti i rischi ritenuti rilevanti o
+        che documenti le ragioni della mancata allocazione.
+Processo di identificazione dei rischi
+59. Ci si attende che l’ente metta in atto un regolare processo di identificazione di
+        tutti i rischi rilevanti e li compili in un inventario interno dei rischi esaustivo.
+        Applicando la propria definizione interna di rilevanza, l’ente dovrebbe
+        assicurare che l’inventario sia sempre aggiornato. Oltre agli aggiornamenti
+        periodici (con frequenza almeno annuale), l’ente dovrebbe adeguare l’inventario
+        qualora non riflettesse più i rischi rilevanti, ad esempio perché è stato introdotto
+        un nuovo prodotto o sono state ampliate alcune linee di attività.
+60. L’identificazione dei rischi dovrebbe essere esaustiva e considerare sia la
+        prospettiva normativa sia quella economica. Oltre ai rischi correnti, ci si attende
+        che l’ente consideri nella propria valutazione prospettica dell’adeguatezza
+        patrimoniale tutti i rischi, e tutte le concentrazioni all’interno di quei rischi e fra di
+        essi 34, che possono emergere dal perseguimento delle proprie strategie o da
+        mutamenti rilevanti del contesto operativo.
+61. Il processo di identificazione dei rischi dovrebbe seguire un “approccio lordo”,
+        cioè tralasciando le tecniche specifiche volte a mitigare i rischi sottostanti.
+        L’ente dovrebbe valutare successivamente l’efficacia delle azioni di
+        mitigazione 35.
+62. In linea con gli Orientamenti dell’ABE sui limiti delle esposizioni verso soggetti
+        del sistema bancario ombra (ABE/GL/2015/20), l’ente dovrebbe, nell’ambito
+        dell’approccio all’identificazione dei rischi, individuare le proprie esposizioni a
+        tali soggetti, tutti i rischi potenziali derivanti, nonché il loro eventuale impatto.
+63. L’organo di amministrazione ha il compito di decidere quali tipologie di rischio
+        sono da ritenere rilevanti e quali dei rischi rilevanti debbano avere copertura
+        patrimoniale. Occorre quindi giustificare perché un determinato rischio cui l’ente
+        è esposto non sia considerato rilevante.
+34
+     Si fa riferimento alle concentrazioni intra-rischio e infra-rischi.
+35
+     L’“approccio lordo” illustrato in questa sede si riferisce al processo di identificazione dei rischi. Non ci si
+     attende dagli enti che prescindano dalle azioni di mitigazione nel determinare il capitale necessario alla
+     copertura dei rischi.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                        27
+
+Inventario dei rischi
+64. Nell’elaborare l’inventario interno dei rischi l’ente è responsabile di definire la
+      propria tassonomia interna dei rischi e non semplicemente adottare una
+      tassonomia regolamentare.
+65. Ci si attende che nell’inventario dei rischi l’ente consideri i rischi sottostanti, se
+      rilevanti, che scaturiscono dalle proprie partecipazioni finanziarie e non
+      finanziarie, entità controllate e altri soggetti collegati (ad esempio rischi di step-
+      in e di gruppo, rischi reputazionali e operativi, rischi derivanti da lettere di
+      patronage ecc.).
+66. Ci si attende che l’ente, in misura proporzionale, guardi oltre i rischi derivanti
+      dalle partecipazioni e individui, comprenda e quantifichi i rischi significativi
+      sottostanti per poi tenerne conto nella propria tassonomia indipendentemente
+      dal fatto che i soggetti interessati siano inclusi o meno nel perimetro
+      prudenziale. La profondità dell’analisi dei rischi sottostanti dovrebbe essere
+      commisurata all’attività imprenditoriale e all’approccio alla gestione dei rischi.
+Esempio 4.1
+Inventario dei rischi
+L’elenco dei rischi e la corrispondenza tra tipologie e sottocategorie di rischio
+presentati in questo esempio non sono né vincolanti, né esaurienti. Alcuni dei rischi
+inclusi nell’elenco potrebbero non essere rilevanti per determinati enti; in tal caso,
+occorrerebbe fornire una motivazione. Al tempo stesso vi potranno essere dei rischi
+non citati nell’elenco che sono rilevanti. Ciascun ente dovrebbe decidere
+internamente se e come combinare tipologie e sottocategorie di rischio:
+•     rischio di credito, ad esempio rischio paese, rischio di migrazione e rischio di
+      concentrazione;
+•     rischio di mercato, ad esempio rischio di differenziale creditizio, rischio di
+      cambio strutturale e rischio di aggiustamento della valutazione del credito
+      (credit valuation adjustment, CVA);
+•     IRRBB, ad esempio rischio di asimmetria delle scadenze, rischio di base,
+      rischio di opzione e ipotesi comportamentali come quelle sul ricorso all’opzione
+      di rimborso anticipato;
+•     rischio operativo, ad esempio interruzioni dell’operatività e disfunzioni dei
+      sistemi, rischio legale e rischio di modello;
+•     altri rischi, compresi ad esempio il rischio assicurativo, il rischio di impresa, il
+      rischio di step-in, il rischio da fondi pensione, il rischio da partecipazioni, il
+      rischio di costo della provvista, il rischio reputazionale ecc.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                   28
+
+Resta in capo all’ente determinare tutti i rischi rilevanti, nonché tutte le
+concentrazioni all’interno di tali rischi e fra di essi, indipendentemente dal fatto che
+siano riportati nel presente elenco o meno.
+Esempio 4.2
+Identificazione dei rischi in base all’approccio lordo
+In base all’approccio lordo i rischi vengono anzitutto identificati senza tenere conto di
+tecniche di mitigazione specificamente concepite. Un rischio può essere ritenuto
+rilevante quando, nel caso in cui si concretizzasse, venisse omesso o fosse rilevato
+in modo inesatto, altererebbe o influenzerebbe in misura significativa l’adeguatezza
+patrimoniale, la redditività o la continuità dell’ente dalla prospettiva economica, a
+prescindere dal trattamento contabile applicato.
+Un ente, ad esempio, può osservare che, in base al profilo di scadenze del banking
+book, i rischi derivanti dalle variazioni dell’inclinazione e della conformazione della
+curva dei rendimenti (rischio di asimmetria delle scadenze) dovrebbero essere
+considerati rilevanti.
+In tal caso, il rischio di asimmetria delle scadenze dovrebbe essere anzitutto
+individuato, valutato e riportato nell’inventario dei rischi senza tenere conto di
+eventuali azioni di gestione volte alla loro mitigazione. Spetta quindi all’organo di
+amministrazione stabilire se l’IRRBB (compreso il rischio di asimmetria delle
+scadenze) sia di fatto rilevante e se debba avere copertura patrimoniale.
+L’ente può decidere di attenuare il rischio tramite una combinazione di derivati e
+accordi contrattuali e di non coprirlo con accantonamenti di capitale. Benché in
+questo caso vi sia una copertura, l’IRRBB dovrebbe comunque essere considerato
+un rischio rilevante e incluso nell’inventario dei rischi; l’ente dovrebbe valutare
+l’efficacia di tali azioni e individuare l’emergere di nuovi rischi (ad esempio rischi
+legali, di controparte o residui).
+Esempio 4.3
+Identificazione dei rischi in caso di controllata non finanziaria
+Se un ente è l’impresa madre di una controllata non finanziaria, il trattamento
+prudenziale di quest’ultima si basa sui suoi importi delle esposizioni al rischio.
+Nell’ICAAP l’ente dovrebbe stabilire e applicare processi coerenti e omogenei in tutto
+il gruppo per poter guardare oltre i valori contabili e gli importi delle esposizioni al
+rischio. In particolare, l’ente dovrebbe impiegare metodologie commisurate per
+individuare se le operazioni e le esposizioni della controllata pongono rischi superiori
+al suo valore contabile o un rischio da partecipazioni.
+L’ente, ad esempio, può osservare che il profilo della clientela e gli investimenti di
+una controllata significativa dovrebbero essere considerati nella concentrazione a
+livello di gruppo e nelle ipotesi sulla dipendenza. Inoltre, l’ente può osservare che i
+rischi legali della controllata accrescono il proprio rischio operativo. Pertanto, l’ente
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                  29
+
+può concludere che, attraverso i rischi di reputazione e di step-in e la maggiore
+concentrazione, i rischi sottostanti della controllata eccedono in misura significativa il
+rischio associato con il valore contabile.
+Esempio 4.4
+Identificazione dei rischi in caso di esternalizzazione
+Qualora esternalizzi operazioni a un fornitore di servizi, un ente dovrebbe essere in
+grado di individuare, valutare e quantificare i rischi sottostanti all’accordo di
+esternalizzazione come se l’ente stesso svolgesse quelle operazioni.
+L’individuazione, la valutazione e la quantificazione andrebbero effettuate prima che
+le operazioni siano esternalizzate, tenendo conto delle specificità connesse al fatto
+che i servizi sono prestati all’esterno dell’ente. In generale, l’esternalizzazione di
+un’attività non deve esimere l’ente dall’obbligo di gestire i rischi associati e quindi
+non può dar luogo a una delega di responsabilità al fornitore esterno.
+Principio 5: il capitale interno è di qualità elevata e
+chiaramente definito
+(i)    L’ente dovrebbe definire, valutare e preservare il capitale interno nella
+       prospettiva economica. La definizione di capitale interno dovrebbe essere
+       coerente con il concetto di adeguatezza economica del capitale e con la
+       quantificazione interna dei rischi dell’ente.
+(ii)   Il capitale interno dovrebbe essere qualitativamente solido ed essere
+       determinato in modo conservativo e prudente. Ci si attende che l’ente dimostri
+       in maniera chiara, presupponendo la continuità operativa, come il capitale
+       interno sia disponibile per la copertura dei rischi, pur assicurando tale
+       continuità.
+Definizione di capitale interno
+67. Finalità del capitale interno è fungere da componente per l’assunzione dei rischi
+       nella prospettiva economica. Pertanto, la definizione di capitale interno
+       dovrebbe essere in linea con il concetto di adeguatezza economica del capitale
+       adottato dall’ente 36 e con le considerazioni del valore economico, ovvero in
+       relazione alle proprie attività e passività. Assumendo un approccio conservativo
+       e prudente, la definizione dovrebbe consentire all’ente di produrre una
+       valutazione coerente e fondata dell’adeguatezza economica del proprio capitale
+       nel tempo, come illustrato nel principio 3.
+36
+     Le aspettative riguardo al mantenimento dell’adeguatezza economica del capitale sono introdotte nel
+     principio 3.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                               30
+
+68. L’ente dovrebbe riconoscere che, per effetto delle diverse metodologie e ipotesi
+      per la valutazione di attività, passività e transazioni, il capitale interno
+      disponibile nella prospettiva economica può differire in misura significativa dai
+      fondi propri nella prospettiva normativa. Ci si attende che l’ente adotti un
+      approccio prudente per la definizione del capitale interno disponibile. Tale
+      prudenza si applica a tutte le ipotesi e metodologie sottostanti alla
+      quantificazione del capitale interno.
+69. È responsabilità dell’ente applicare una definizione e una metodologia
+      adeguate per il capitale interno. La presente guida non prescrive né limita di per
+      sé il ricorso a particolari definizioni o metodologie. L’ente potrebbe, ad esempio,
+      servirsi come punto di partenza di un vero e proprio modello del valore attuale
+      netto oppure dei fondi propri regolamentari.
+70. Se l’ente ricorre come punto di partenza ai fondi propri regolamentari per
+      definire il capitale interno, gran parte delle sue componenti saranno espresse
+      nel CET1. Inoltre, occorre operare aggiustamenti da un punto di vista
+      concettuale per pervenire a un capitale che sia in linea con il concetto di valore
+      economico sottostante alla prospettiva economica. Gli aggiustamenti sarebbero
+      apportati, ad esempio, alle perdite occulte e agli elementi patrimoniali aventi
+      capacità di assorbimento delle perdite solo in caso di cessazione dell’attività
+      dell’ente.
+71. Ove la definizione di capitale interno sia slegata dai fondi propri regolamentari,
+      la capacità di assunzione dei rischi di una parte consistente del capitale interno
+      dovrebbe comunque essere in generale coerente con la capacità di
+      assorbimento delle perdite del CET1. In particolare, un ente che applichi un
+      approccio del valore attuale netto basato su un modello dovrebbe utilizzare solo
+      metodologie e ipotesi comprensibili, delineate con chiarezza e motivate,
+      seguendo il criterio della prudenza. Gli elementi patrimoniali aventi capacità di
+      assorbimento delle perdite solo in caso di cessazione dell’attività dell’ente
+      dovrebbero essere trattati come passività in tale approccio di calcolo del valore
+      attuale netto.
+72. Dall’ente ci si attende trasparenza riguardo al capitale interno e, per quanto
+      possibile, una riconciliazione, ossia un raffronto delle differenze e delle
+      analogie, tra fondi propri nella prospettiva normativa e capitale interno
+      disponibile nella prospettiva economica.
+Esempio 5.1
+Definizione del capitale interno in base ai fondi propri regolamentari
+Un ente che adotti, ad esempio, una definizione regolamentare quale base per
+determinare il capitale interno deve apportare aggiustamenti ai fondi propri
+regolamentari qualora le posizioni di bilancio non riflettano il concetto di valore
+economico sottostante alla prospettiva economica. Riprendendo l’esempio 3.2, il
+portafoglio in titoli di Stato che è soggetto a una perdita occulta (netta) totale di
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                  31
+
+100 milioni di euro dovrebbe dar luogo a una deduzione di 100 milioni di euro dai
+fondi propri regolamentari.
+Tali aggiustamenti dovrebbero essere trattati in maniera coerente sia nella
+determinazione del capitale interno sia nella quantificazione dei rischi. L’ente
+potrebbe, ad esempio, dedurre la perdita occulta dal capitale interno e
+dall’esposizione al rischio oppure mantenere l’importo nel capitale interno e
+quantificare il rischio come perdita attesa. Analogamente, se l’ente decide di
+includere le riserve occulte – operazione che andrebbe fatta come ultima ratio solo in
+modo cauto e conservativo – l’esposizione al rischio dovrebbe essere incrementata
+in linea con l’inclusione delle riserve occulte nel capitale interno.
+È responsabilità dell’ente definire adeguatamente il capitale interno in linea con la
+propria prospettiva economica interna. Tuttavia, le voci di bilancio che non possono
+essere considerate disponibili per coprire le perdite presupponendo la continuità
+operativa dell’ente (compresi gli strumenti di capitale di classe 2 e le attività fiscali
+differite 37) dovrebbero in genere essere dedotte dai fondi propri regolamentari.
+Inoltre, si dovrebbe riconoscere che le partecipazioni in controllate detenute da terzi
+(interessi di minoranza) possono in genere coprire solo i rischi di quella controllata.
+Esempio 5.2
+Definizione di capitale interno in base al valore attuale netto
+Un ente può osservare che il valore economico del proprio debito diminuisce
+unitamente a un declassamento del merito di credito. Non sarebbe considerato
+prudente per l’ente aumentare il capitale interno disponibile di conseguenza.
+Principio 6: le metodologie di quantificazione dei rischi
+nell’ambito dell’ICAAP sono adeguate, coerenti e
+convalidate in maniera indipendente
+(i)     L’ente è responsabile dell’attuazione di metodologie di quantificazione dei rischi
+        adeguate alle proprie circostanze specifiche sia nella prospettiva economica sia
+        in quella normativa. Inoltre, l’ente dovrebbe utilizzare metodologie adeguate per
+        la quantificazione delle potenziali variazioni future dei fondi propri e del TREA
+        negli scenari avversi della prospettiva normativa. Ci si attende che l’ente adotti
+        un elevato livello di prudenza in entrambe le prospettive affinché gli eventi a
+        bassa probabilità ed elevato impatto siano considerati in maniera adeguata.
+(ii)    I parametri e le ipotesi fondamentali dovrebbero essere coerenti in tutto il
+        gruppo e tra le diverse tipologie di rischio. Tutte le metodologie di
+        quantificazione dei rischi dovrebbero essere oggetto di convalida interna
+37
+     Attività fiscali differite (deferred tax assets, DTA) ad eccezione delle DTA ai sensi dell’articolo 39 del
+     CRR, se le posizioni sottostanti sono trattate in maniera coerente sia nella quantificazione del capitale
+     interno sia nella misurazione del rischio.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                        32
+
+       indipendente. L’ente dovrebbe stabilire e attuare un efficace quadro di
+       riferimento per la qualità dei dati.
+Quantificazione dei rischi esaustiva
+73. L’ICAAP dovrebbe assicurare che i rischi ai quali l’ente è/potrebbe essere
+       esposto siano quantificati adeguatamente. Ci si attende che l’ente applichi
+       metodologie di quantificazione dei rischi idonee alle proprie circostanze
+       specifiche, ossia in linea con la propensione al rischio, le aspettative di
+       mercato, il modello imprenditoriale, il profilo di rischio, le dimensioni e la
+       complessità.
+74. Non andrebbero esclusi dalla valutazione i rischi difficilmente quantificabili o per
+       i quali non sono disponibili i dati rilevanti 38. In tal caso, l’ente dovrebbe produrre
+       dati sui rischi sufficientemente prudenti tenendo in considerazione tutte le
+       informazioni rilevanti e assicurando adeguatezza e coerenza nella scelta delle
+       metodologie di quantificazione 39.
+75. Nei parametri e nelle ipotesi fondamentali rientrano, fra l’altro, i livelli di
+       confidenza, le ipotesi di correlazione e le ipotesi per la definizione degli scenari.
+Livello di prudenza
+76. Le metodologie e le ipotesi di quantificazione dei rischi utilizzate nelle
+       prospettive economica e normativa dovrebbero essere robuste,
+       sufficientemente stabili, sensibili al rischio nonché abbastanza prudenti da
+       quantificare le perdite che si verificano raramente. Le incertezze derivanti dalle
+       metodologie di quantificazione dei rischi dovrebbero essere affrontate con
+       maggiore prudenza.
+77. La BCE è del parere che in generale un ICAAP solido sia caratterizzato da un
+       livello di prudenza complessivo nelle ipotesi della prospettiva economica pari
+       almeno a quello relativo alle metodologie di quantificazione dei rischi dei
+       modelli interni di primo pilastro 40. Tale livello è determinato dalla combinazione
+       delle ipotesi e dei parametri sottostanti, piuttosto che da ciascuno di essi
+       singolarmente. In pratica, un approccio può comunque essere sufficientemente
+38
+    Per i rischi difficili da quantificare (ad esempio a causa di mancanza di dati o metodologie consolidate
+    di quantificazione) ci si attende che l’ente definisca metodologie adeguate per la quantificazione delle
+    perdite inattese, anche tramite il ricorso al giudizio dell’esperto.
+39
+    La misurazione dei rischi difficili da quantificare deve essere coerente e confrontabile, per quanto
+    possibile, con il complesso delle ipotesi di quantificazione. L’ente dovrebbe fare in modo che tali rischi
+    siano adeguatamente considerati nei relativi processi di gestione e controllo, indipendentemente dal
+    fatto che siano quantificati con modelli tradizionali o analisi di scenario oppure con altre stime.
+40
+    I requisiti patrimoniali di primo pilastro non dovrebbero peraltro essere considerati come limite inferiore
+    nelle quantificazioni interne dei rischi effettuate dall’ente.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                     33
+
+       prudente anche se alcune ipotesi sono meno conservative, sempre che il livello
+       complessivo di prudenza resti elevato 41.
+78. Anziché considerare meccanicamente obiettivi esterni di merito creditizio e
+       livelli di confidenza statistici, l’ente dovrebbe calibrare le proprie metodologie di
+       quantificazione sulla base della sua propensione al rischio. A tal fine,
+       andrebbero considerate le possibili perdite che è disposto ed è in grado di
+       assorbire nel tempo. Sulla scorta di quest’analisi, l’ente dovrebbe stabilire e
+       mantenere metodologie di quantificazione dei rischi, compresa la valutazione
+       degli eventi di stress, tali da assicurare con un livello di confidenza sufficiente
+       che le proprie strategie e propensione al rischio considerino le possibili perdite
+       derivanti da eventi a bassa probabilità ed elevato impatto o da andamenti futuri
+       negativi, e che tali perdite non eccedano il rischio quantificato.
+79. L’ente può considerare svariati livelli di prudenza per produrre una serie di
+       quantificazioni del rischio, al fine di informare in maniera organica le decisioni
+       strategiche, la determinazione del prezzo e la gestione del capitale. Un ente
+       può, ad esempio, decidere di applicare un livello inferiore di prudenza nella
+       determinazione del prezzo di alcuni prodotti, purché vi siano dei processi che
+       assicurano una gestione efficace e una copertura patrimoniale sufficiente degli
+       eventi a bassa probabilità ed elevato impatto e degli andamenti futuri negativi.
+80. Per facilitare il confronto tra le quantificazioni dei rischi nell’ambito dell’ICAAP e
+       del primo pilastro, indipendentemente dal metodo utilizzato in quest’ultimo caso
+       (ad esempio, metodo standardizzato o basato sui rating interni per il rischio di
+       credito), l’ente dovrebbe essere in grado di seguire quanto indicato dalla BCE
+       nel documento Technical implementation of the EBA Guidelines on ICAAP and
+       ILAAP information collected for SREP purposes. Ove emergano differenze tra
+       le due quantificazioni, l’ente dovrebbe spiegarne le principali determinanti.
+Scelta delle metodologie di quantificazione dei rischi
+81. L’ente ha la responsabilità di mettere in atto metodologie adeguate sia per la
+       quantificazione dei rischi sia per la determinazione delle proiezioni. La presente
+       guida non definisce di per sé alcuna aspettativa rispetto all’utilizzo o al non
+       utilizzo di particolari metodologie di quantificazione; non stabilisce pertanto che,
+       per quantificare i rischi a cui è o può essere esposto, l’ente debba utilizzare, ad
+       esempio, le metodologie (modificate) di primo pilastro (ad esempio per tenere
+       conto dei rischi di concentrazione), i modelli per il calcolo del capitale
+       economico, i risultati delle prove di stress o altre metodologie quali gli scenari
+       multipli.
+41
+    A seconda del profilo di rischio i parametri interni potrebbero essere ritenuti complessivamente più
+    prudenti di quelli di primo pilastro anche in presenza, ad esempio, di un livello di confidenza inferiore al
+    99,9% in ragione della sua combinazione con i fattori di rischio applicati, le ipotesi di distribuzione, i
+    periodi di detenzione, le ipotesi di correlazione, gli altri parametri e le altre ipotesi. Ove utilizzi una serie
+    di scenari di stress, la banca dovrebbe adottare metodi coerenti per la loro integrazione al fine di
+    pervenire a un livello di prudenza complessivo che sia confrontabile, ad esempio, con il concetto di
+    confidenza del 99,9% nell’ambito della prospettiva economica del capitale.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                          34
+
+82. Le metodologie applicate dovrebbero essere coerenti tra loro, con la prospettiva
+      considerata e con la definizione di capitale. Dovrebbero cogliere in modo
+      adeguato e sufficientemente prudente i rischi a cui l’ente è esposto, tenendo
+      conto del principio di proporzionalità. Pertanto ci si attende, ad esempio, che
+      enti più grandi o più complessi, anche in termini di rischi a cui sono esposti,
+      adottino metodologie di quantificazione più sofisticate per l’adeguata rilevazione
+      dei rischi.
+83. Non ci si attende tuttavia che l’ente applichi metodologie che non comprende
+      appieno e che quindi non utilizza internamente a fini decisionali e di gestione
+      dei rischi. L’ente dovrebbe essere in grado di dimostrare l’adeguatezza delle
+      metodologie rispetto alla situazione e al profilo di rischio specifici. Nel caso di
+      utilizzo di modelli dei fornitori, ci si attende altresì che questi non siano applicati
+      in maniera meccanicistica, ma vengano compresi appieno dall’ente e siano
+      rispondenti e adeguati al suo contesto operativo e al suo profilo di rischio.
+Qualità dei dati
+84. Ci si attende che l’ente ricorra a processi e meccanismi di controllo adeguati
+      per garantire la qualità dei dati 42. Il quadro di riferimento per la qualità dei dati
+      dovrebbe assicurare informazioni affidabili sui rischi a sostegno di un solido
+      processo decisionale e includere tutti i dati pertinenti ai rischi e tutte le
+      dimensioni della qualità dei dati.
+Effetti di diversificazione dei rischi
+85. Ci si attende che l’ente assuma un approccio prudente ove ipotizzi l’esistenza di
+      effetti di diversificazione dei rischi. Ci si attende che l’ente sia consapevole del
+      fatto che, conformemente agli orientamenti dell’ABE sullo SREP 43, l’autorità di
+      vigilanza in linea di principio non terrà conto della diversificazione tra rischi nel
+      quadro dello SREP. Tale aspetto andrà tenuto presente dall’ente, che dovrebbe
+      altresì esercitare cautela nell’applicare la diversificazione tra rischi nell’ambito
+      dell’ICAAP.
+86. L’ente dovrebbe essere pienamente trasparente riguardo agli effetti ipotizzati di
+      diversificazione dei rischi e, almeno nel caso della diversificazione tra rischi,
+      segnalare sia i dati lordi prima della diversificazione sia i dati netti. Ci si attende
+      che l’ente assicuri l’adeguata copertura patrimoniale dei rischi anche in periodi
+      di stress quando gli effetti da diversificazione possono venir meno o avere un
+42
+    La qualità dei dati riguarda, ad esempio, la loro completezza, accuratezza, coerenza, tempestività,
+    unicità, validità e tracciabilità. Cfr. per ulteriori informazioni il progetto di guida della BCE Guide for the
+    Targeted Review of Internal Models (TRIM), febbraio 2017.
+43
+    Orientamenti dell’ABE sulle procedure e sulle metodologie comuni rivedute per il processo di revisione
+    e valutazione prudenziale (SREP) e le prove di stress prudenziali (ABE/GL/2018/03), del 19 luglio
+    2018. Per ulteriori dettagli cfr. Opinion of the EBA on the interaction of Pillar 1, Pillar 2 and combined
+    buffer requirements and restrictions on distributions (EBA/Op/2015/24), del 16 dicembre 2015.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                          35
+
+        andamento non lineare (anche rafforzandosi a vicenda in uno scenario
+        estremo) 44.
+87. L’ente dovrebbe affrontare gli effetti di diversificazione nel proprio quadro di
+        riferimento per le prove di stress, includendo ad esempio correlazioni e
+        diversificazione intra-rischio e infra-rischi tra i soggetti del gruppo.
+Convalida indipendente
+88. Le metodologie di quantificazione dei rischi dell’ICAAP dovrebbero essere
+        periodicamente oggetto di convalida interna 45 indipendente, osservando in
+        misura proporzionale i principi alla base dei rispettivi standard fissati per i
+        modelli interni di primo pilastro e tenendo conto della rilevanza dei rischi
+        quantificati nonché della complessità della metodologia di quantificazione.
+89. A seconda delle dimensioni e della complessità dell’ente possono essere
+        adottate varie soluzioni organizzative per assicurare l’indipendenza tra le
+        funzioni di sviluppo e di convalida delle metodologie di quantificazione.
+        Nondimeno, andrebbero rispettati i concetti sottostanti le varie linee di difesa,
+        ossia la convalida indipendente non dovrebbe essere condotta dalla funzione di
+        internal audit.
+90. Ci si attende che le conclusioni complessive del processo di convalida siano
+        comunicate all’alta dirigenza e all’organo di amministrazione, che siano
+        utilizzate ai fini della revisione periodica e dell’aggiustamento delle metodologie
+        di quantificazione e che vengano considerate nella valutazione
+        dell’adeguatezza patrimoniale.
+Esempio 6.1
+Organizzazione della convalida indipendente
+Per assicurare la convalida indipendente e proporzionale delle metodologie di
+quantificazione dei rischi dell’ICAAP, l’ente dovrebbe prendere in considerazione la
+versione preliminare della Guida della BCE sui modelli interni – Capitolo sui temi
+generali.
+A seconda di natura, entità, portata e complessità dei rischi l’ente può adottare, ad
+esempio, una delle seguenti strutture organizzative che assicurino l’indipendenza
+della funzione di convalida dal processo di sviluppo della metodologia (ossia
+progettazione, sviluppo, applicazione e monitoraggio delle metodologie di
+quantificazione dei rischi):
+44
+    Ad esempio, sommare le componenti di rischio stimate separatamente può non risultare così prudente
+    come spesso ritenuto, in quanto interazioni non lineari possono determinare effetti di aggravio. Cfr.
+    “Findings on the interaction of market and credit risk”, BCBS Working Paper, n. 16, Comitato di Basilea
+    per la vigilanza bancaria, maggio 2009.
+45
+    “Interna” non significa che a svolgere ogni attività di convalida debba essere l’ente. Come per
+    l’“internal” audit, si riferisce al fatto che l’ente è responsabile di questo processo.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                  36
+
+•       presenza di due unità distinte che fanno capo a esponenti diversi dell’alta
+        dirigenza;
+•       presenza di due unità distinte che fanno capo allo stesso esponente dell’alta
+        dirigenza;
+•       separazione del personale all’interno della stessa unità.
+Principio 7: lo svolgimento di prove di stress periodiche è
+teso ad assicurare l’adeguatezza patrimoniale in
+condizioni avverse
+(i)     La BCE si attende che, su base annua o con maggiore frequenza a seconda
+        delle singole circostanze, l’ente svolga un esame mirato e approfondito delle
+        proprie vulnerabilità tenendo conto, a livello di ente nel suo complesso, di tutti i
+        rischi rilevanti che derivano dal modello imprenditoriale e dal contesto operativo
+        in condizioni macroeconomiche e finanziarie di stress. Sulla scorta di questo
+        esame, l’ente dovrebbe definire un programma adeguato per lo svolgimento di
+        prove di stress nella prospettiva normativa ed economica.
+(ii)    Nell’ambito del programma per le prove di stress, ci si attende che l’ente
+        definisca gli scenari avversi da utilizzare nella prospettiva normativa, tenendo
+        conto degli altri esercizi di stress che conduce. L’applicazione di ipotesi
+        macroeconomiche gravi ma plausibili e la particolare attenzione alle principali
+        vulnerabilità dovrebbero determinare un impatto rilevante sul capitale interno e
+        regolamentare dell’ente, ad esempio in termini di coefficiente di CET1. L’ente
+        dovrebbe inoltre condurre prove inverse di stress in misura proporzionale.
+(iii) L’ente dovrebbe monitorare e individuare nel continuo l’emergere di nuove
+        minacce, vulnerabilità e mutamenti del contesto. L’obiettivo è verificare, almeno
+        con frequenza trimestrale, che gli scenari delle prove di stress siano sempre
+        adeguati, provvedendo eventualmente ad adattarli alle nuove circostanze.
+        L’impatto degli scenari andrebbe aggiornato periodicamente, ad esempio su
+        base trimestrale. In caso di modifiche rilevanti, l’ente dovrebbe valutarne i
+        potenziali effetti sulla propria adeguatezza patrimoniale nel corso dell’anno.
+Definizione del programma delle prove di stress
+91. Ci si attende che il programma delle prove di stress includa sia la prospettiva
+        normativa sia la prospettiva economica 46. Nella definizione interna dell’insieme
+46
+     Come indicato nel principio 3, non ci si attende che gli esercizi di stress nella prospettiva economica
+     includano proiezioni basate su scenari pluriennali. A seconda dell’approccio adottato dall’ente, le prove
+     di stress nella prospettiva economica sono utilizzate, ad esempio, per valutare la sensibilità della
+     quantificazione dei rischi alle ipotesi di modellizzazione e ai fattori di rischio oppure per valutare
+     l’impatto delle variazioni delle condizioni esterne, soprattutto degli andamenti avversi, sull’adeguatezza
+     economica del capitale.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                     37
+
+       degli scenari di stress e delle sensibilità, l’ente dovrebbe utilizzare un’ampia
+       gamma di informazioni su eventi di stress storici e ipotetici, incluse le prove di
+       stress prudenziali. Benché queste ultime andrebbero tenute in considerazione,
+       è tuttavia responsabilità dell’ente definire scenari e sensibilità nel modo che
+       meglio riflette la situazione specifica e tradurli in dati di rischio, di perdita e di
+       capitale.
+92. Nella definizione degli scenari delle prove di stress, ad esempio per le
+       proiezioni nella prospettiva normativa, gli enti dovrebbero cogliere le proprie
+       vulnerabilità rilevanti, tenuto conto rispettivamente del modello imprenditoriale,
+       del profilo di rischio e delle condizioni esterne alle quali sono esposti. Le altre
+       prove di stress condotte, ad esempio le analisi di sensibilità, dovrebbero
+       informare gli scenari utilizzati evidenziando le vulnerabilità rilevanti dell’ente.
+Livello di gravità degli scenari avversi nella prospettiva normativa
+93. Nella valutazione dello scenario di base, l’ente dovrebbe considerare gli
+       andamenti che ipotizzerebbe in circostanze attese, tenendo conto della
+       strategia aziendale, comprese ipotesi credibili dei ricavi, dei costi, del
+       concretizzarsi dei rischi ecc.
+94. Ci si attende che, negli scenari avversi nell’ambito della prospettiva normativa,
+       l’ente ipotizzi andamenti eccezionali ma plausibili con un adeguato grado di
+       gravità in termini di impatto sui coefficienti patrimoniali regolamentari, in
+       particolare sul coefficiente di CET1. Il livello di gravità dovrebbe corrispondere a
+       quello di andamenti che siano tanto gravi, ma tuttavia plausibili, dal punto di
+       vista dell’ente quanto qualunque andamento osservabile in una situazione di
+       crisi nei mercati, nei fattori o negli ambiti di maggiore rilievo per l’adeguatezza
+       patrimoniale dell’ente.
+95. L’insieme degli scenari avversi dovrebbe considerare in maniera adeguata
+       recessioni economiche e shock finanziari gravi, vulnerabilità specifiche
+       dell’ente, esposizioni verso le principali controparti nonché le loro plausibili
+       combinazioni 47.
+Coerenza rispetto alle principali vulnerabilità
+96. In relazione alle prove di stress ci si attende che l’ente si focalizzi sulle proprie
+       vulnerabilità principali per definire scenari avversi plausibili. Le prove di stress
+       condotte nel quadro dell’ICAAP e dell’ILAAP dovrebbero fornirsi informazioni
+       reciprocamente; ossia andrebbero prese in considerazione in entrambi i
+       processi le ipotesi sottostanti, i risultati e gli interventi di gestione previsti.
+47
+    Il numero adeguato di scenari dipende, fra l’altro, dal profilo di rischio specifico dell’ente. In genere,
+    dovrebbero essere necessari vari scenari avversi per riflettere adeguatamente le diverse combinazioni
+    plausibili dei rischi.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                       38
+
+Prove inverse di stress
+97. In aggiunta agli esercizi di stress, che valutano l’impatto di determinate ipotesi
+       sui coefficienti patrimoniali, ci si attende che l’ente conduca prove inverse di
+       stress. Tali valutazioni dovrebbero avere come punto di partenza
+       l’individuazione di un risultato predeterminato, quale la non sostenibilità del
+       modello imprenditoriale 48 (ad esempio la violazione del TSCR o delle riserve
+       gestionali).
+98. Le prove inverse di stress andrebbero impiegate per verificare la completezza e
+       il grado di prudenza delle ipotesi applicate nel quadro dell’ICAAP, con
+       riferimento a entrambe le prospettive interne, quella normativa e quella
+       economica. Le prove inverse di stress dovrebbero essere condotte almeno una
+       volta all’anno. A seconda della probabilità degli scenari risultanti, può essere
+       necessario farvi fronte immediatamente adottando o preparando gli interventi di
+       gestione nell’ambito dell’ICAAP, al fine di ovviare a una situazione di
+       risanamento che si verificherebbe se uno o più scenari delle prove inverse di
+       stress analizzati nell’ICAAP si realizzassero. Inoltre, nel contesto dell’ICAAP, le
+       prove inverse di stress potrebbero essere considerate un punto di partenza per
+       lo sviluppo degli scenari del piano di risanamento 49. Maggiori dettagli sono
+       reperibili nei relativi orientamenti dell’ABE e del CBVB.
+Esempio 7.1
+Interazione fra le prove di stress in ambito ICAAP e ILAAP
+Ci si attende che l’ente valuti l’impatto potenziale degli scenari rilevanti, integrando
+gli effetti sul capitale e sulla liquidità nonché i potenziali effetti di retroazione, tenendo
+conto in particolare delle perdite derivanti dalla liquidazione di attività o dagli
+incrementi dei costi di finanziamento in periodi di stress.
+Gli enti, ad esempio, dovrebbero valutare l’impatto del deterioramento dei livelli di
+capitale, in base alle proiezioni dell’ICAAP, sulla situazione di liquidità. Ad esempio,
+un declassamento del rating da parte di un’agenzia esterna potrebbe avere
+implicazioni dirette sulla capacità dell’ente di finanziarsi. Per contro, le condizioni e il
+fabbisogno di finanziamento valutati nei piani di liquidità e finanziamento possono
+avere un impatto rilevante sui costi di provvista, che a loro volta inciderebbero
+sull’adeguatezza patrimoniale.
+48
+    Cfr. gli orientamenti dell’ABE sulle prove di stress degli enti (ABE/GL/2018/04).
+49
+    Come indicato negli Orientamenti dell’ABE sulla serie di scenari da utilizzare nei piani di risanamento
+    (ABE/GL/2014/06), dovrebbero essere impiegati scenari di prossimità al default, ovvero scenari nei
+    quali si determinerebbe la non sostenibilità del modello imprenditoriale di un ente o di un gruppo, in
+    assenza di efficaci interventi di risanamento.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                                   39
+
+Esempio 7.2
+Interazione tra le prove di stress della prospettiva economica e della
+prospettiva normativa
+Gli scenari delle prove di stress con il maggiore impatto sull’adeguatezza
+patrimoniale non sono necessariamente gli stessi per le due prospettive. Tuttavia, gli
+scenari avversi definiti per la prospettiva normativa e per le prove di stress della
+prospettiva economica riflettono, in entrambi i casi, andamenti gravi ma plausibili.
+Poiché questi ultimi possono, per definizione, realisticamente accadere, è importante
+per l’ente comprendere l’impatto che avrebbero sull’adeguatezza patrimoniale in
+ciascuna delle due prospettive. Il concetto della reciproca integrazione informativa
+non implica che le proiezioni della prospettiva normativa siano automaticamente
+riprese nella prospettiva economica.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Principi                                                                                  40
+
+3 Glossario
+  Adeguatezza patrimoniale
+  Grado di copertura dei rischi offerto dal capitale. L’obiettivo dell’ICAAP è preservare
+  un livello di capitalizzazione adeguato su base continuativa, sia nella prospettiva
+  economica sia nella prospettiva normativa, contribuendo alla continuità dell’ente nel
+  medio termine.
+  Approccio lordo nell’identificazione dei rischi
+  In base all’approccio lordo i rischi vengono anzitutto identificati senza tenere conto di
+  azioni di attenuazione specificamente concepite.
+  Architettura dell’ICAAP
+  Diversi elementi dell’ICAAP e relative interconnessioni. L’architettura complessiva
+  dell’ICAAP dovrebbe assicurare che i suoi diversi elementi interagiscano in modo
+  organico e che l’ICAAP sia parte integrante del quadro complessivo di gestione
+  dell’ente. Nella propria documentazione sull’ICAAP l’ente dovrebbe includere una
+  descrizione di tale architettura che illustri come l’ICAAP sia integrato e come i suoi
+  risultati siano utilizzati dall’ente.
+  Concetto di adeguatezza economica del capitale
+  Concetto interno inteso ad assicurare, nella prospettiva economica, la capacità
+  dell’ente di coprire con le proprie risorse finanziarie (capitale interno) i rischi a cui è
+  soggetto e di preservare la propria continuità operativa nel tempo. L’adeguatezza
+  economica del capitale tiene conto delle considerazioni del valore economico 50.
+  Considerazioni del valore economico
+  Il concetto di valore economico si basa sul valore delle attività, delle passività, dei
+  rischi e dello stesso ente dalla prospettiva economica. Il valore economico non si
+  fonda su disposizioni contabili o regolamentari. Tuttavia, a seconda dei criteri
+  contabili adottati, tale concetto può essere analogo a quello del fair value sottostante
+  alla valutazione di alcune attività e passività di determinate categorie contabili. In
+  linea con questi criteri, il valore economico/fair value può essere definito come la
+  stima del prezzo al quale un’attività potrebbe in teoria essere venduta a una parte
+  terza oppure una passività estinta in un’operazione ordinaria alle condizioni del
+  mercato pertinente 51. In ambito regolamentare il concetto di valore economico trova
+  riscontro, ad esempio, nel metodo del valore economico del patrimonio netto
+  (economic value of equity, EVE) descritto negli orientamenti dell’ABE sulla gestione
+  del rischio di tasso di interesse derivante da attività non comprese nel portafoglio di
+  negoziazione (trading book).
+  50
+      È responsabilità degli enti stessi attuare metodologie adeguate per la quantificazione dei rischi; non vi
+      è alcuna aspettativa generale che gli enti utilizzino “modelli per il calcolo del capitale economico” per
+      assicurarne l’adeguatezza.
+  51
+      L’esempio 5.2 illustra le aspettative riguardo al fair value delle passività alla luce del merito di credito
+      dello stesso ente.
+  Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+  Glossario                                                                                                       41
+
+Il ricorso al termine “considerazioni” indica che la BCE non prescrive una
+metodologia particolare per la determinazione del valore economico, ma è
+responsabilità degli enti applicare le metodologie adeguate per identificare e
+quantificare i rischi economici e il capitale interno, in linea con le considerazioni del
+valore economico.
+Dichiarazione sull’adeguatezza patrimoniale
+Dichiarazione formale dell’organo di amministrazione che presenta la propria
+valutazione dell’adeguatezza patrimoniale dell’ente ed espone le principali
+argomentazioni a sostegno.
+Dichiarazione sulla propensione al rischio
+Dichiarazione formale in cui l’organo di amministrazione esprime il proprio parere
+sugli importi e sulle tipologie di rischio che l’ente intende assumere per realizzare i
+propri obiettivi strategici.
+Effetto di diversificazione
+Riduzione della quantificazione complessiva dei rischi di un ente derivante
+dall’ipotesi che i rischi stimati singolarmente non si concretizzeranno appieno in
+modo simultaneo (assenza di correlazione perfetta).
+ICAAP
+Processo interno di valutazione dell’adeguatezza patrimoniale definito all’articolo 73
+della CRD IV: “Gli enti dispongono di strategie e processi validi, efficaci e globali per
+valutare e mantenere su base continuativa gli importi, la composizione e la
+distribuzione del capitale interno che essi ritengono adeguati per coprire la natura e il
+livello dei rischi a cui sono o potrebbero essere esposti”.
+Interventi gestionali
+Interventi assunti dalla dirigenza, quali incrementi patrimoniali, per mantenere i livelli
+di capitale adeguati, ossia nel rispetto della propensione al rischio 52.
+Inventario dei rischi
+Elenco dei rischi individuati e delle loro caratteristiche. È il risultato del processo di
+identificazione dei rischi.
+Orizzonte di medio termine
+Orizzonte temporale che copre il breve e il medio periodo. Dovrebbe cogliere la
+posizione patrimoniale dei prossimi tre anni almeno.
+Orizzonte di rischio
+Periodo di tempo ipotizzato in base al quale è valutato il rischio. Nella prospettiva
+economica l’orizzonte di rischio è in genere di un anno.
+52
+     Cfr. per ulteriori indicazioni la sezione 4.8.2, interventi della dirigenza, degli orientamenti dell’ABE sulle
+     prove di stress degli enti (ABE/GL/2018/04).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Glossario                                                                                                       42
+
+Perdite attese e inattese
+La perdita attesa è la perdita statistica media che l’ente si aspetta in un dato periodo
+di tempo. La perdita inattesa è la perdita totale che supera la perdita media derivante
+da un evento sfavorevole a bassa probabilità ed elevato impatto.
+Perdite e riserve occulte
+Differenze di valutazione tra valore contabile e valore economico delle posizioni di
+bilancio.
+Pianificazione del capitale
+Processo interno multidimensionale nell’ambito della prospettiva normativa per la
+definizione di un piano patrimoniale che presenta una proiezione pluriennale del
+fabbisogno e della dotazione di capitale dell’ente, tenendo conto degli scenari di
+base e avversi, della strategia e dei piani operativi. Sebbene l’ente possa non
+“programmare” di trovarsi in condizioni sfavorevoli, la valutazione degli scenari
+avversi è un elemento fondamentale della pianificazione del capitale in quanto
+contribuisce a che gli enti continuino a operare anche in un prolungato periodo di
+stress.
+Piano di risanamento
+Piano preparato e aggiornato da un ente a norma dell’articolo 5 della BRRD 53.
+Processo di identificazione dei rischi
+Regolare processo messo in atto dall’ente per individuare i rischi che sono o
+potrebbero essere rilevanti per lo stesso ente.
+Proporzionalità
+Principio di cui all’articolo 73 della CRD IV, in base al quale l’ICAAP deve essere
+proporzionato alla natura, all’ampiezza e alla complessità delle attività dell’ente in
+oggetto.
+Prospettiva economica interna
+Prospettiva dell’ICAAP in base alla quale l’ente gestisce l’adeguatezza economica
+del proprio capitale assicurando che i rischi economici siano coperti in misura
+sufficiente mediante il capitale interno disponibile.
+Prospettiva normativa interna
+Prospettiva pluriennale dell’ICAAP in base alla quale l’ente gestisce l’adeguatezza
+patrimoniale assicurando che sia in grado di soddisfare tutti i requisiti normativi e le
+richieste di vigilanza relativi al capitale e di far fronte agli altri vincoli patrimoniali
+interni ed esterni nel tempo.
+53
+    Direttiva 2014/59/UE del Parlamento europeo e del Consiglio, del 15 maggio 2014, che istituisce un
+    quadro di risanamento e risoluzione degli enti creditizi e delle imprese di investimento e che modifica la
+    Direttiva 82/891/CEE del Consiglio, e le Direttive 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE,
+    2007/36/CE, 2011/35/UE, 2012/30/UE e 2013/36/UE e i Regolamenti (UE) n. 1093/2010 e (UE)
+    n. 648/2012, del Parlamento europeo e del Consiglio (GU L 173 del 12.6.2014, pag. 190).
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Glossario                                                                                                  43
+
+Prova inversa di stress
+Prova di stress che parte dall’individuazione di un risultato predefinito
+(l’insostenibilità economica del modello imprenditoriale) per poi esplorare gli scenari
+e le circostanze suscettibili di determinare quel risultato.
+Quantificazione dei rischi
+Processo che consiste nel quantificare i rischi individuati sviluppando e applicando le
+metodologie atte a produrre dati sui rischi e a consentire un raffronto tra i rischi e il
+capitale disponibile dell’ente.
+Revisione interna e convalida
+La revisione interna comprende un’ampia gamma di controlli, valutazioni e rapporti
+volti ad assicurare che le strategie, i processi e le metodologie dell’ICAAP rimangano
+solidi, esaustivi, efficaci e commisurati.
+La convalida, in quanto parte della revisione interna, include i processi e le attività
+tesi a valutare se le metodologie di quantificazione dei rischi e i dati sui rischi
+dell’ente colgano adeguatamente gli aspetti rilevanti del rischio. In misura
+proporzionale, la convalida delle metodologie di quantificazione dovrebbe essere
+condotta in maniera indipendente e osservare i principi soggiacenti i rispettivi
+standard definiti per i modelli interni di primo pilastro.
+Rischio economico
+Rischio suscettibile di incidere sul valore economico dell’ente e quindi
+sull’adeguatezza economica del capitale. Nell’individuare, analizzare e quantificare
+tali rischi l’ente dovrebbe tenere conto delle considerazioni del valore economico.
+Rischio rilevante
+Rischio al ribasso connesso al capitale che, in base alle definizioni interne dell’ente,
+ha un impatto rilevante sul suo profilo di rischio complessivo e che pertanto può
+incidere sull’adeguatezza patrimoniale.
+Riserva gestionale
+Importo di capitale superiore ai requisiti minimi regolamentari e di vigilanza e alle
+soglie del capitale interno che l’ente ritiene necessario al fine di perseguire su base
+durevole il proprio modello aziendale e rimanere flessibile riguardo alle possibili
+opportunità imprenditoriali, senza compromettere la propria adeguatezza
+patrimoniale.
+Risultati dell’ICAAP
+Ogni informazione che derivi dall’ICAAP e conferisca valore aggiunto al processo
+decisionale.
+Scenario avverso
+Combinazione di andamenti ipotetici avversi (anche macroeconomici e finanziari) di
+fattori interni ed esterni che si utilizza per valutare la capacità di tenuta
+dell’adeguatezza patrimoniale di un ente rispetto a potenziali sviluppi avversi in un
+orizzonte di medio termine. Dovrebbe coprire un orizzonte temporale di almeno tre
+anni. Gli andamenti ipotetici di fattori interni ed esterni andrebbero combinati in modo
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Glossario                                                                                 44
+
+coerente e risultare gravi ma plausibili dal punto di vista dell’ente, riflettendo i rischi e
+le vulnerabilità ritenuti le minacce più pertinenti per l’ente.
+Scenario di base
+Combinazione di andamenti attesi (anche macroeconomici e finanziari) di fattori
+interni ed esterni che si utilizza per valutarne l’impatto sull’adeguatezza patrimoniale
+di un ente in un orizzonte di medio termine. Lo scenario di base dovrebbe essere
+coerente con i fondamenti del piano industriale e del bilancio di previsione dell’ente e
+considerare un orizzonte temporale di almeno tre anni.
+Sistema di limiti
+Sistema gerarchico di limiti documentato, stabilito in linea con la strategia
+complessiva e la propensione al rischio dell’ente per far sì che i rischi e le perdite
+possano essere efficacemente arginati in linea con il concetto di adeguatezza
+patrimoniale. Il sistema di limiti dovrebbe fissare una demarcazione efficace per
+l’assunzione dei rischi, ad esempio per tipologie di rischio, aree funzionali, prodotti e
+soggetti del gruppo.
+Tassonomia dei rischi
+Classificazione delle varie tipologie / dei vari fattori di rischio in base al quale l’ente
+può valutare, aggregare e gestire i rischi in maniera coerente mediante un linguaggio
+e una mappatura comuni degli stessi.
+Tolleranza al rischio
+Tipologie di rischio e rispettivi livelli ai quali l’ente non si espone intenzionalmente,
+ma che accetta/tollera.
+Guida della BCE sul processo interno di valutazione dell’adeguatezza patrimoniale (ICAAP)
+Glossario                                                                                  45
+
+Siglario
+ABE              Autorità bancaria europea                                     IRB         internal ratings-based (basato sui rating interni)
+AMD              ammontare massimo distribuibile                               IRRBB       interest rate risk in the banking book (rischio di
+                                                                                           tasso di interesse sul portafoglio bancario)
+ANC              autorità nazionale competente
+                                                                               LGD         loss given default (perdita in caso di default)
+AT1              Additional Tier 1 (capitale aggiuntivo di
+                 classe 1)                                                     LSI         less significant institution (ente meno significativo)
+BCE              Banca centrale europea                                        MREL        minimum requirement for own funds and eligible
+                                                                                           liabilities (requisito minimo di fondi propri e passività
+BRRD             Bank Recovery and Resolution Directive
+                                                                                           ammissibili)
+                 (direttiva sul risanamento e sulla risoluzione
+                 delle crisi nel settore bancario)                             MVU         Meccanismo di vigilanza unico
+CAS              capital adequacy statement (dichiarazione                     OCR         overall capital requirement (requisito patrimoniale
+                 sull’adeguatezza patrimoniale)                                            complessivo): TSCR+CBR
+CBR              combined buffer requirement (requisito di                     P1R         Pillar 1 capital requirement (requisito patrimoniale di
+                 riserva combinato)                                                        primo pilastro)
+CBVB             Comitato di Basilea per la vigilanza bancaria                 P2G         Pillar 2 capital guidance (orientamenti di capitale di
+                                                                                           secondo pilastro)
+CET1             Common Equity Tier 1 (capitale primario di
+                 classe 1)                                                     P2R         Pillar 2 capital requirement (requisito patrimoniale di
+                                                                                           secondo pilastro)
+CRD IV           Capital Requirements Directive (direttiva sui
+                 requisiti patrimoniali)                                       RAF         risk appetite framework (quadro di riferimento per la
+                                                                                           determinazione della propensione al rischio)
+CVA              credit valuation adjustment (aggiustamento
+                 della valutazione del credito)                                SI          significant institution (ente significativo)
+DTA              deferred tax assets (attività fiscali differite)              SREP        Supervisory Review and Evaluation Process
+                                                                                           (processo di revisione e valutazione prudenziale)
+EAD              exposure at default (esposizione al momento
+                 del default)                                                  TREA        total risk exposure amount (importo complessivo
+                                                                                           dell’esposizione al rischio)
+FSB              Financial Stability Board
+                                                                               TRIM        Targeted Review of Internal Models (analisi mirata dei
+ICAAP            internal capital adequacy assessment process
+                                                                                           modelli interni)
+                 (processo interno di valutazione
+                 dell’adeguatezza patrimoniale)                                TSCR        total SREP capital requirement (requisito patrimoniale
+                                                                                           SREP complessivo): P1R+P2R
+ILAAP            internal liquidity adequacy assessment process
+                 (processo interno di valutazione
+                 dell’adeguatezza della liquidità)
+© Banca centrale europea, 2018
+Recapito postale                       60640 Frankfurt am Main, Germany
+Telefono                               +49 69 1344 0
+Internet                               www.ecb.europa.eu
+Tutti i diritti riservati. È consentita la riproduzione a fini didattici e non commerciali, a condizione che venga citata la fonte.
+

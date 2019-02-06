@@ -1,0 +1,661 @@
+                                                        A ESCLUSIVO USO INTERNO
+                                                                                                                 CAPOGRUPPO BANCARIA
+  VERIFICA MONITORAGGIO MODELLI LGD                                                                  Servizio Validazione Sistemi di Rischio
+  Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                                        20 Settembre 2017
+1. Executive summary
+La Verifica, prevista nell’ambito del Validation Plan 2017 per la convalida del Sistema dei Rating Interni del
+modello avanzato AIRB (SRI), riporta le principali evidenze risultanti dai controlli svolti dalla Funzione di
+Convalida (Servizio Validazione Sistemi di Rischio) per monitorare nel continuo le performance e
+l’accuratezza dei modelli interni di calcolo della Loss Given Default (LGD).
+Le analisi, relative al periodo Giugno 2016 – Giugno 2017, si riferiscono ai modelli interni di LGD ristimati nel
+primo semestre 2015 e passati in produzione con decorrenza 30 Giugno 2015 che, coerentemente con le
+previsioni del Regolamento UE 575/2013 (CRR), sono basati su medie di lungo periodo.
+Focus principale delle analisi è il backtesting della LGD sofferenza ma, al tempo stesso, viene verificata sia
+la coerenza della popolazione utilizzata per la calibrazione della LGD sofferenza sul bonis rispetto alla
+                                                                                                                            1
+popolazione più recente su cui il modello è stato applicato che la tenuta dei danger rate dei portafogli
+analizzati su finestre di osservazione più recenti e di durata decrescente.
+Nella tabella seguente sono riepilogati i giudizi osservati su tutti gli ambiti analizzati con l’evidenza degli
+stessi, calcolati sulla medesima versione dei modelli, anche sul periodo di backtesting precedente (Dicembre
+2015 – Dicembre 2016).
+Tabella 1: Riepilogo giudizi (confronto rispetto al periodo Dicembre 2015 – Dicembre 2016)
+                                                                                                                    Calibrazione    Danger
+      Modello        Rappresentatività        Performance2         Monotonicità    Prudenza       Accuratezza           bonis         rate
+  Banche gen.              C (C)                    A (A)              B (C)         A (A)           C (C)               A (A)       D (D)
+  MPS CS                   C (C)                    A (A)              B (B)         A (A)           C (D)              B (C)        C (C)
+  MPS L&F                  C (C)                   C (C)               D (C)         C (B)           C (D)               B (A)       D (C)
+Le analisi sulla LGD sofferenza evidenziano, in primo luogo, l’aumento del numero di pratiche chiuse
+nell’ultimo anno (circa 7.000 a livello di Gruppo) rispetto al numero di pratiche chiuse tra Dicembre 2015 e
+Dicembre 2016 (circa 6.000), mantenendosi comunque ampiamente al di sotto della media annua osservata
+sui 10 anni della popolazione di sviluppo 2015 (circa 17.000).
+Le caratteristiche delle controparti il cui processo di recupero è stato chiuso di recente si confermano
+diverse, prevalentemente in termini di durata del periodo di recupero, rispetto alle posizioni chiuse presenti
+nella popolazione di stima del parametro. Si assiste, infatti, ad un generalizzato allungamento della durata
+media del processo di recupero rispetto a quanto osservato in sviluppo, particolarmente accentuata per MPS
+Leasing & Factoring.
+Tale durata del processo di recupero si accorcia, tuttavia, rispetto al backtesting precedente, per i modelli
+relativi alla Banche generaliste e a MPS Capital Services, a causa prevalentemente dell’incremento delle
+pratiche chiuse entro un anno (nel primo caso dal 28% al 35% e nel secondo dal 17% al 26%).
+Gli esiti delle analisi di prudenza e accuratezza sulla LGD sofferenza delle Banche generaliste si
+confermano positivi, e sostanzialmente invariati rispetto al precedente backtesting, con la LGD assegnata
+che si mantiene al di sopra della LGD osservata.
+Per MPS Capital Services si allarga il divario tra LGD assegnata e LGD osservata, a causa prevalentemente
+della riduzione di quest’ultima, con il rapporto tra le due LGD che sale dal 148% al 156%. Per tale entità
+legale, inoltre, i valori di LGD assegnata e LGD osservata si confermano sensibilmente più bassi rispetto a
+quelli delle Banche generaliste.
+La distanza tra LGD assegnata e LGD osservata si riduce, invece, per MPS Leasing & Factoring, a causa
+prevalentemente del significativo aumento di quest’ultima a fronte di un incremento contenuto della LGD
+1
+  Inteso come probabilità che un default osservato si trasformi, alla fine del periodo di analisi considerato, in sofferenza.
+2
+  A partire dalla presente Verifica il giudizio di sintesi sulle performance è calcolato tenendo conto congiuntamente dei test sul Tasso di
+Corretta Classificazione a livello complessivo e per singolo driver.
+GRUPPOMONTEPASCHI                                                                                                      PAG.     1 di 13
+
+                                           A ESCLUSIVO USO INTERNO
+                                                                                          CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                              Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                 20 Settembre 2017
+assegnata. Come conseguenza di tali dinamiche, la LGD assegnata scende di poco al di sotto delle LGD
+osservata (rapporto tra la prima e la seconda pari al 99%), continuando ad evidenziare comunque una
+sostanziale prudenza del modello.
+Tabella 2: Confronto LGD stimata vs LGD osservata
+                                   Dicembre 2015 – Dicembre 2016               Giugno 2016 – Giugno 2017
+           Modello               LGD           LGD          LGD ass /     LGD              LGD            LGD ass /
+                              assegnata      osservata      LGD oss     assegnata       osservata         LGD oss
+  Banche generaliste             62,8%          58,7%          107%        62,9%            58,8%             107%
+  MPS Capital Services           32,0%          21,6%          148%        31,4%            20,2%             156%
+  MPS Leasing & Factoring        78,9%          74,2%          106%        79,3%            80,2%              99%
+Le caratteristiche del flusso di default dell’ultimo anno si confermano sostanzialmente allineate rispetto a
+quelle della popolazione di calibrazione della LGD sul bonis per le Banche generaliste, anche se nell’ultimo
+periodo di backtesting rileva un non trascurabile incremento del peso delle sofferenze. Sia su MPS Leasing
+& Factoring che, analogamente a quanto osservato in passato, su MPS Capital Services cresce rispetto alla
+popolazione di calibrazione il peso degli incagli a svantaggio dei past due, anche se per MPS Capital
+Services tale disallineamento risulta parzialmente attenuato rispetto al backtesting precedente.
+Le analisi sul danger rate evidenziano come lo shift di due anni della serie storica rispetto allo sviluppo e,
+soprattutto, lo spostamento della data di osservazione finale a Giugno 2017 determinino un sostanziale
+peggioramento delle evidenze su tutti i segmenti delle Banche Generaliste e di MPS Leasing & Factoring.
+In particolare sui segmenti più significativi del modello Banche generaliste, lo shift di due anni della serie
+storica determina un rilevante incremento dei danger rate (Corporate sopra 3.000 € da 57,6% a 75,1% e
+Retail sopra 3.000 € da 34,2% a 55,7%), risentendo in particolare del sostanziale peggioramento dei danger
+rate dei past due (che raggiunge e in alcuni casi supera quello degli incagli) nonché dell’aumento
+complessivo del peso degli incagli negli ultimi 5/7 anni.
+La riduzione della durata della serie storica non ha, invece, un impatto chiaro andando esclusivamente ad
+incrementare la variabilità dei danger rate.
+GRUPPOMONTEPASCHI                                                                               PAG.      2 di 13
+
+                                               A ESCLUSIVO USO INTERNO
+                                                                                           CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                               Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                  20 Settembre 2017
+2. Introduzione
+Le verifiche di backtesting della LGD implementate dalla Funzione di Convalida sono riconducibili ai seguenti
+ambiti:
+<U+F0A7>    Backtesting LGD Sofferenza: verifica del comportamento dei modelli interni di LGD sulle pratiche a
+     sofferenza chiuse nell’ultimo anno relativamente ai seguenti ambiti:
+     <U+F0D8>     Rappresentatività: verifica del grado di rappresentatività della popolazione work-out utilizzata per la
+           stima della LGD sofferenza rispetto alle sofferenze chiuse nel periodo di backtesting;
+     <U+F0D8>     Performance: verifica del potere discriminante del modello di LGD in termini di capacità di
+           assegnare LGD elevate a esposizioni arrivate alla chiusura con pochi recuperi e viceversa;
+     <U+F0D8>     Monotonicità: verifica della monotonicità dei livelli di LGD osservati al crescere delle LGD
+           assegnate;
+     <U+F0D8>     Prudenza: verifica della conservatività dei livelli di LGD assegnati rispetto a quelli effettivamente
+           osservati;
+     <U+F0D8>     Accuratezza: verifica del mantenimento della distanza tra LGD assegnate e LGD osservate
+           all’interno di intervalli di confidenza prestabiliti;
+<U+F0A7>    Calibrazione bonis: verifica del grado di rappresentatività della popolazione utilizzata per la
+     calibrazione della LGD sul bonis rispetto alla popolazione più recente su cui il modello è stato applicato;
+<U+F0A7>    Danger rate: verifica della tenuta dei danger rate osservati su finestre di osservazione più recenti e di
+     durata decrescente.
+In particolare sono monitorate le performance dei 4 modelli sviluppati dal Servizio Rischi di Credito (Struttura
+di sviluppo) in base alla seguente aggregazione:
+<U+F0A7>    Banche generaliste: 1 modello stimato nel 2015 a partire dalle esposizioni in sofferenza di Banca MPS
+     ed ex Banca Antonveneta;
+<U+F0A7>    MPS Capital Services: 1 modello stimato nel 2015 a partire dalle esposizioni in sofferenza di MPS
+     Capital Services;
+<U+F0A7>    MPS Leasing & Factoring: 2 modelli stimati nel 2015 a partire rispettivamente dalle esposizioni
+     Factoring pro-solvendo e dalle esposizioni Leasing di MPS Leasing & Factoring. Data la scarsa
+     numerosità delle esposizioni Factoring nel periodo di backtesting, le stesse sono state analizzate
+     congiuntamente a quelle Leasing.
+GRUPPOMONTEPASCHI                                                                                PAG.      3 di 13
+
+                                                       A ESCLUSIVO USO INTERNO
+                                                                                                             CAPOGRUPPO BANCARIA
+  VERIFICA MONITORAGGIO MODELLI LGD                                                                Servizio Validazione Sistemi di Rischio
+  Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                                    20 Settembre 2017
+3. Perimetro
+Il perimetro analizzato ricomprende le esposizioni di Banca Monte dei Paschi, MPS Capital Services e MPS
+Leasing & Factoring.
+Per quanto riguarda la LGD sofferenza, i campioni utilizzati per il backtesting sono costituiti dalle pratiche
+                                                       3
+chiuse tra Giugno 2016 e Giugno 2017 ; tali campioni sono stati messi a confronto con i campioni delle
+pratiche chiuse presenti nelle popolazioni work-out utilizzate per la ristima 2015.
+I campioni di backtesting della LGD sofferenza sono stati costruiti in maniera autonoma dalla Funzione di
+Convalida utilizzando direttamente le informazioni disponibili sulle tabelle di produzione residenti nel
+Datawarehouse del Credito (DWHC).
+Nella costruzione dei campioni sono state comunque seguite le stesse logiche adottate dalla Struttura di
+sviluppo in sede di stima; in particolare, sono state selezionate solo le pratiche con data di passaggio a
+sofferenza dal 1 Gennaio 1999 per Banca MPS, MPS Capital Services e MPS Leasing & Factoring e dal 1
+                                                        4
+Gennaio 2001 per ex Banca Antonveneta .
+                                                                                                                                 5
+Il campione di backtesting relativo alle Banche generaliste è costituito da circa 6.400 pratiche chiuse
+nell’ultimo anno, in significativa riduzione rispetto al numero medio annuo osservato sui 10 anni utilizzati per
+la stima del modello (circa 16.700 pratiche) ma in aumento rispetto al numero di pratiche chiuse tra
+Dicembre 2015 e Dicembre 2016 (circa 5.500 pratiche).
+Si conferma, invece, scarsa la numerosità dei campioni relativi a MPS Capital Services (144 pratiche chiuse
+tra Giugno 2016 e Giugno 2017) e a MPS Leasing & Factoring (222 pratiche chiuse tra Giugno 2016 e
+Giugno 2017, di cui solo 5 relative al Factoring), rendendo statisticamente poco significative le analisi per tali
+entità legali.
+Rispetto al backtesting precedente, si riduce la numerosità del campione relativo a MPS Capital Services
+mentre aumenta quella del campione di MPS Leasing & Factoring, risentendo nel primo caso dell’uscita
+dall’orizzonte di analisi di circa 50 pratiche chiuse nel solo mese di Giugno 2016 e nel secondo dell’ingresso
+di circa 70 pratiche chiuse nel solo mese di Marzo 2017.
+Tabella 3: LGD sofferenza - Numerosità campioni di sviluppo e di backtesting (nr partite)
+                                                                  Media annua su          Dicembre 2015 –             Giugno 2016 –
+             Modello                        Sviluppo
+                                                                      Sviluppo             Dicembre 2016               Giugno 2017
+  Banche generaliste                       166.834                     16.683                  5.480                      6.395
+  MPS Capital Services                         889                         89                    182                        144
+  MPS Leasing & Factoring                    4.951                        495                    159                        222
+              di cui Factoring                 157                         16                       3                          5
+Per quanto riguarda la calibrazione della LGD sul bonis, il campione di backtesting è costituito dal flusso di
+default del periodo Giugno 2016 – Giugno 2017; tale campione è stato messo a confronto con l’intera
+popolazione utilizzata nel 2015 per la calibrazione della LGD sul bonis.
+3
+  In particolare vengono considerate le pratiche chiuse dal 1 Luglio 2016 al 30 Giugno 2017.
+A tal proposito è stata rilevata un’anomalia nella storicizzazione dei dati relativi alle pratiche in sofferenza chiuse di MPS Capital
+Services: tutti i record relativi a tali pratiche erano stati infatti chiusi a Gennaio 2017 per poi essere riaperti il 1 Luglio 2017. Tale
+anomalia è stata segnalata alla Struttura di sviluppo che si è attivata con le competenti strutture IT al fine di implementare specifici
+controlli di data quality sulla corretta alimentazione dei DB interessati.
+Nella costruzione dei DB di backtesting, per ovviare a tale anomalia, è stato necessario considerare i record in validità al 1 Luglio 2017
+e non al 30 Giugno 2017.
+4
+  Nell’Allegato 2 viene evidenziato l’impatto di un eventuale allargamento del perimetro di analisi a tutte le pratiche chiuse nell’ultimo
+anno indipendentemente dalla data di passaggio a sofferenza.
+5
+  Le numerosità indicate tengono conto delle singole partite in cui vengono suddivise le pratiche in sofferenza.
+GRUPPOMONTEPASCHI                                                                                                  PAG.       4 di 13
+
+                                               A ESCLUSIVO USO INTERNO
+                                                                                                CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                                    Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                       20 Settembre 2017
+Tabella 4: LGD bonis - Numerosità campioni di calibrazione della LGD del bonis e campioni di backtesting
+            Modello                Pop. Calibrazione    Dicembre 2015 – Dicembre 2016       Giugno 2016 – Giugno 2017
+  Banche generaliste                 5.105.391                       786.523                            775.188
+  MPS Capital Services                  38.796                         3.089                               2.876
+  MPS Leasing & Factoring              139.734                        14.885                             14.298
+Per quanto riguarda, infine, le verifiche sulla tenuta dei danger rate, il campione di backtesting è stato
+ottenuto shiftando in avanti di due anni la popolazione di stima dei cure rate, escludendo le due coorti più
+vecchie ed includendo le due coorti annuali più recenti, e recuperando lo stato di default finale aggiornato a
+Giugno 2017.
+I valori del danger rate ottenuti sul campione di backtesting sono stati confrontati, prima, con quelli ottenuti
+sulla serie storica utilizzata in sviluppo a parità di numero di anni considerati (7 anni per le Aziende e 5 per il
+Retail) e poi con quelli ottenuti escludendo volta per volta l’anno meno recente fino ad arrivare al campione
+comprensivo dei soli ultimi 4 anni.
+Tabella 5: Danger rate - Numerosità campioni di stima dei cure rate e campioni di backtesting
+                                        Sviluppo                      Ultimi 7 anni                    Ultimi 4 anni
+  Modello
+                             Incagli     Past due    Ristr.  Incagli     Past due   Ristr.    Incagli     Past due      Ristr.
+  Banche generaliste         118.847        88.148     189   141.493        88.015    169      84.828         46.609        76
+  MPS Capital Services          2.188        2.591       26    2.054          1.914    22       1.106            902         3
+  MPS Leasing & Factoring       6.214        5.479       24    5.764          4.422    19       3.117          2.301         7
+4. Analisi di backtesting
+Nei seguenti paragrafi sono riportate le principali evidenze riscontrate sulla base delle analisi svolte
+rispettivamente sulla LGD sofferenza, sulla popolazione di calibrazione della LGD bonis e sul danger rate,
+rimandando al report allegato per un maggior dettaglio.
+4.1 LGD Sofferenza
+Di seguito vengono presentate le principali evidenze osservate per ogni requisito analizzato con riferimento
+al backtesting della LGD sofferenza.
+Rappresentatività: il confronto tra le caratteristiche delle esposizioni utilizzate in sviluppo con le
+caratteristiche delle esposizioni presenti nei campioni di backtesting continua ad evidenziare, sul modello
+Banche generaliste per il quale la numerosità del campione di backtesting garantisce analisi maggiormente
+significative, una riduzione rispetto allo sviluppo del peso delle esposizioni unsecured, delle esposizioni
+Retail e di quelle inferiori a 20.000 euro con un contestuale allungamento del tempo medio di chiusura delle
+pratiche.
+Rispetto al backtesting precedente rileva comunque una crescita dell’incidenza delle pratiche chiuse entro
+un anno che sale dal 27,9% al 35,4%, sostanzialmente in linea rispetto a quanto osservato in sviluppo
+(34,7%).
+Evidenze sostanzialmente analoghe si osservano sui modelli relativi a MPS Capital Services e MPS Leasing
+& Factoring, per quanto fortemente influenzate dalla scarsa numerosità delle posizioni analizzabili.
+Per MPS Leasing & Factoring rileva, in particolare, il miglioramento del giudizio per il driver Tipologia di
+Servizio, riconducibile principalmente alla crescita dell’incidenza delle pratiche di leasing targato che
+passano dal 16% del backtesting precedente all’attuale 39%, in linea con quanto osservato in sviluppo.
+Continua di contro a peggiorare il giudizio sulla rappresentatività per durata del processo di recupero a
+GRUPPOMONTEPASCHI                                                                                     PAG.       5 di 13
+
+                                                       A ESCLUSIVO USO INTERNO
+                                                                                                               CAPOGRUPPO BANCARIA
+  VERIFICA MONITORAGGIO MODELLI LGD                                                                  Servizio Validazione Sistemi di Rischio
+  Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                                      20 Settembre 2017
+seguito del significativo allungamento del tempo medio di chiusura delle pratiche: la quota delle pratiche
+chiuse nell’ultimo anno con durata oltre i 7 anni si colloca oltre il 50%, rispetto a circa il 5% osservato in
+sviluppo e a meno del 30% rilevato sul precedente periodo di backtesting.
+In generale, le suddette evidenze confermano la difficoltà a chiudere le pratiche, in particolare quelle per le
+quali in passato, in un contesto congiunturale diverso, erano ottenuti recuperi medi sensibili se il processo di
+recupero era stato attivato tempestivamente (pratiche Retail unsecured).
+                                                                                                             6
+Tabella 6: Riepilogo rappresentatività (confronto rispetto a Dicembre 2015 – Dicembre 2016)
+                                                              Durata
+                                              Tipologia                     Area         Entità                                  Giudizio
+           Modello               Segmento                    processo                                Dimensione Servizio
+                                              garanzia                   geografica      Legale                                    totale
+                                                             recupero
+  Banche generaliste                C (C)         C (C)         C (C)        B (B)         A (A)        D (D)            -         C (C)
+  MPS Capital Services              B (B)         D (C)         E (E)        C (B)           -           A (A)           -         C (C)
+  MPS Leasing & Factoring           A (A)         A (A)         E (D)        C (B)           -           B (B)         B (D)       C (C)
+Nella tabella seguente sono riepilogate le evidenze di dettaglio dell’analisi di rappresentatività per ciascuno
+dei singoli driver analizzati: segmento, tipologia di garanzia risultante dalle informazioni anagrafiche
+storicizzate sulle singole posizioni, durata del processo di recupero, area geografica, dimensione
+dell’esposizione, entità legale e tipologia di servizio di MPS Leasing & Factoring.
+Tabella 7: Analisi rappresentatività – Dettaglio per driver
+                                                      Banche generaliste                  MPS CS                         MPS L&F
+                     Driver                                        Giu 2016 –                    Giu 2016 –                    Giu 2016 –
+                                                    Sviluppo                       Sviluppo                      Sviluppo
+                                                                    Giu 2017                      Giu 2017                      Giu 2017
+                       Corporate                        47,1%           58,2%          82,3%          90,3%           96,4%          99,1%
+    Segmento
+                       Retail                           52,9%           41,8%          17,7%           9,7%            3,6%           0,9%
+                      Unsecured                         65,5%           47,5%           7,2%           1,6%           43,9%          45,9%
+                      Personali                         19,8%           27,3%           9,0%           3,2%
+                      Confidi                            2,1%            4,0%           6,1%           2,4%
+    Tipologia di
+                      Ipotecarie                         6,5%            5,3%           0,0%           0,0%
+     garanzia                                                                                                         56,1%          54,1%
+                      Ipotecarie 100 -140                0,3%            0,2%
+                                                                                       28,1%          21,0%
+                      Ipotecarie 140 - 200               1,9%            3,7%
+                      Ipotecarie >200                    4,0%           11,8%          49,6%          71,8%
+                      entro 1 anno                      34,7%           35,4%          33,9%          25,8%           51,8%           7,7%
+       Durata         da 2 a 4 anni                     38,7%           22,3%          36,3%          15,3%           27,7%          16,2%
+     processo         da 5 a 7 anni                     19,8%           14,8%          18,9%          15,3%           15,4%          22,1%
+     recupero         da 8 a 10 anni                     5,0%           13,7%           9,2%          12,1%            4,1%          18,9%
+                      oltre 10 anni                      1,8%           13,8%           1,7%          31,5%            1,0%          35,1%
+                      Nord Ovest                        15,6%           15,2%          12,4%           6,5%           17,8%          28,4%
+                      Nord Est                          17,0%           19,1%           4,1%           4,8%            9,3%           7,2%
+        Area
+                      Centro                            35,8%           32,4%          42,9%          38,7%           41,2%          31,1%
+    Geografica
+                      Sud e Isole                       31,5%           33,0%          39,6%          50,0%           31,7%          33,3%
+                      Estero                             0,1%            0,2%           1,0%           0,0%            0,0%           0,0%
+                      Banca MPS                         97,7%          100,0%
+   Entità Legale
+                      BAV                                2,3%            0,0%
+                      0 - 20.000                        55,9%           35,3%           5,4%           3,2%
+                                                                                                                      94,1%          86,0%
+   Dimensione         20.000 - 100.000                  30,9%           36,0%          24,4%          24,2%
+                      oltre 100.000                     13,3%           28,7%          70,2%          72,6%            5,9%          14,0%
+6
+  Ai fini della valutazione di dettaglio assumono rilevanza sia l’entità della maggiore differenza osservata sulle singole modalità di
+ciascun driver sia la presenza di variazioni nell’ordine delle singole modalità tra campione di sviluppo e popolazione di backtesting.
+GRUPPOMONTEPASCHI                                                                                                    PAG.      6 di 13
+
+                                                        A ESCLUSIVO USO INTERNO
+                                                                                                                  CAPOGRUPPO BANCARIA
+  VERIFICA MONITORAGGIO MODELLI LGD                                                                     Servizio Validazione Sistemi di Rischio
+  Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                                         20 Settembre 2017
+                                                       Banche generaliste                    MPS CS                          MPS L&F
+                      Driver                                        Giu 2016 –                       Giu 2016 –                   Giu 2016 –
+                                                     Sviluppo                       Sviluppo                         Sviluppo
+                                                                     Giu 2017                         Giu 2017                     Giu 2017
+                      Factoring                                                                                            2,9%           2,3%
+       Servizio       Leasing immobiliare                                                                                  1,3%           9,0%
+      MPS L&F         Leasing mobiliare                                                                                  58,1%          50,0%
+                      Leasing targato                                                                                    37,7%          38,7%
+Performance: in coerenza con quanto previsto per i modelli di PD, la valutazione delle performance dei
+modelli di LGD avviene utilizzando il Tasso di Corretta Classificazione che, nel caso della LGD, permette di
+                                                                                                                                               7
+comprendere la capacità del modello di assegnare LGD alte a controparti su cui si osservano recuperi bassi
+e viceversa.
+Per il modello Banche generaliste il valore del TC sull’attuale campione di backtesting (64,7%), anche se in
+lieve diminuzione rispetto a quello ottenuto sul periodo di backtesting precedente (65,1%), si mantiene di
+poco inferiore a quello osservato in stima (66,1%), confermando le buone evidenze sulle performance.
+Relativamente agli altri due modelli, che risentono significativamente della scarsa numerosità delle posizioni
+analizzate, il valore del TC diminuisce rispetto al backtesting precedente per MPS Capital Services ma
+rimanendo comunque a di sopra di quello osservato in sviluppo; il TC rimane, invece, sostanzialmente
+stabile per MPS Leasing & Factoring, confermandosi al di sotto di quello di sviluppo.
+                                        8
+Tabella 8: Riepilogo performance
+                                                       Dicembre 2015 – Dicembre 2016                       Giugno 2016 – Giugno 2017
+                                       TC
+            Modello                                                Variazione                                      Variazione
+                                   Sviluppo             TC                          Giudizio            TC                         Giudizio
+                                                                     vs Svil.                                         vs Svil.
+  Banche generaliste                 66,1%                65,1%          -0,9%         A                  64,7%           -1,3%         A
+  MPS Capital Services               54,4%                60,1%         +5,7%          A                  57,8%          +3,4%          A
+  MPS Leasing & Factoring            75,6%                66,9%          -8,7%         C                  67,1%           -8,5%         C
+Monotonicità: è stato verificato l’andamento monotono crescente della LGD osservata in corrispondenza di
+                                              9
+classi di LGD assegnate crescenti .
+La monotonicità non è soddisfatta per 2 classi del modello Banche generaliste, in riduzione rispetto al
+backtesting precedente (3 classi non monotone) con conseguente miglioramento del relativo giudizio.
+Con riferimento ai restanti modelli, le cui evidenze risentono comunque della scarsa numerosità di
+controparti analizzabili, il giudizio sulla monotonicità di MPS Capital Services rimane invariato (si conferma 1
+classe non monotona), mentre peggiora quello di MPS Leasing & Factoring, a causa dell’aumento delle
+classi non monotone da 3 a 4.
+7
+  Di seguito i passi per la costruzione del Tasso di Corretta Classificazione:
+     <U+F0B7> a ciascuna partita sono stati assegnati i seguenti attributi:
+         - Osservato BAD: LGD osservata superiore alla media delle LGD osservate sul perimetro di riferimento;
+         - Osservato GOOD: LGD osservata inferiore alla media delle LGD osservate sul perimetro di riferimento;
+         - Assegnato BAD: LGD assegnata superiore alla media delle LGD assegnate sul perimetro di riferimento;
+         - Assegnato GOOD: LGD assegnata inferiore alla media delle LGD assegnate sul perimetro di riferimento;
+     <U+F0B7> per ciascun cluster il TC è stato calcolato come rapporto tra il totale delle partite classificate contemporaneamente osservato good
+       e assegnato good e osservato bad e assegnato bad e il totale delle partite del cluster.
+8
+  Ai fini della valutazione di dettaglio rileva la variazione del TC calcolato sul campione di backtesting rispetto a quello rilevato in
+sviluppo. Nel confronto vengono utilizzati intervalli di confidenza costruiti in funzione della numerosità dei BAD osservati (al ridursi della
+numerosità aumenta l’ampiezza dell’intervallo di confidenza).
+A partire dalla presente Verifica il giudizio di sintesi tiene congiuntamente conto dei test relativi al TC a livello complessivo e per singolo
+driver. Per garantire il confronto tra dati omogenei, sono stati ricalcolati anche i giudizi sulle performance relativi al precedente periodo
+di backtesting (Dicembre 2015 – Dicembre 2016) che, solo per MPS Leasing & Factoring, differisce da quello riportato nella Verifica di
+Convalida “Backtesting modelli LGD 2015 (Dicembre 2015 – Dicembre 2016)” del 20 Febbraio 2017 (da D a C).
+9
+  La Funzione di Convalida, ai fini dell’analisi, ha suddiviso in 10 classi equidistribuite la popolazione analizzata: la classe 1 corrisponde
+al primo decimo di popolazione con LGD più bassa mentre la classe 10 corrisponde all’ultimo decimo di popolazione con LGD più alta.
+GRUPPOMONTEPASCHI                                                                                                        PAG.     7 di 13
+
+                                                   A ESCLUSIVO USO INTERNO
+                                                                                                          CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                                              Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                                 20 Settembre 2017
+Si evidenzia inoltre che per MPS Capital Services la riduzione, rispetto al backtesting precedente, della già
+scarsa numerosità campionaria genera una diminuzione del numero di classi analizzabili da 6 a 5.
+Tabella 9: Riepilogo monotonicità
+                                       Dicembre 2015 – Dicembre 2016                          Giugno 2016 – Giugno 2017
+            Modello                 Classi        Classi non                             Classi        Classi non
+                                                                    Giudizio                                              Giudizio
+                                  popolate10      monotone                              popolate        monotone
+  Banche generaliste                  10              3                 C                  10                2                B
+  MPS Capital Services                6               1                 B                  5                 1                B
+  MPS Leasing & Factoring             10              3                 C                  10                4                D
+Tabella 10: Analisi monotonicità – Dettaglio per classi di LGD assegnata
+   Classe LGD            Banche generaliste                    MPS Capital Services                   MPS Leasing & Factoring
+    assegnata      LGD osservata           check         LGD osservata             check         LGD osservata            check
+               1            27,4%                                                                          59,4%
+               2            39,7%            V                                                             79,4%             V
+               3            52,4%            V                                                             67,2%             X
+                                                                  18,9%
+               4            59,3%            V                                                             65,3%             X
+               5            56,6%            X                                                             70,8%             V
+               6            70,8%            V                                                             68,3%             X
+               7            71,5%            V                     8,2%               X                    90,7%             V
+               8            67,9%            X                    14,0%               V                   100,0%             V
+               9            71,3%            V                    28,6%               V                    88,0%             X
+             10             71,1%            V                    37,7%               V                    98,1%             V
+         Totale             58,8%                                 20,2%                                    80,2%
+Grafico 1: Analisi monotonicità per classi di LGD assegnata
+Prudenza: per il modello Banche generaliste le evidenze sulla prudenza si confermano positive, e
+sostanzialmente invariate rispetto al backtesting precedente, sia a livello complessivo (LGD assegnata
+maggiore della LGD osservata) sia per singole classi di LGD assegnata (tutte soddisfano il requisito di
+prudenza).
+Il giudizio si mantiene positivo anche su MPS Capital Services per cui si evidenzia una riduzione della LGD
+osservata più che proporzionale rispetto a quella osservata sulla LGD assegnata (il rapporto tra LGD
+assegnata e LGD osservata sale dal 148% al 156%).
+Per MPS Leasing & Factoring si rileva, invece, un aumento significativo della LGD osservata (da 74,2% del
+precedente backtesting all’attuale 80,2%) a fronte di un aumento contenuto della LGD assegnata (da 78,9%
+10
+   In caso di scarsa numerosità campionaria, può succedere che non tutte le classi di LGD assegnata siano popolate.
+GRUPPOMONTEPASCHI                                                                                               PAG.      8 di 13
+
+                                                         A ESCLUSIVO USO INTERNO
+                                                                                                                  CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                                                    Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                                         20 Settembre 2017
+a 79,3%), con la prima che sale al di sopra della seconda, generando un abbassamento del rapporto tra
+LGD assegnata e LGD osservata dal 106% al 99%. Se tale evidenza conferma la sostanziale prudenza del
+modello a livello complessivo, a livello di singole classi di LGD assegnata si assiste ad un aumento da 2 a 3
+del numero di quelle che non rispettano il requisito di prudenza, con conseguente peggioramento del
+giudizio espresso.
+Tabella 11: Riepilogo prudenza
+                                        Dicembre 2015 – Dicembre 2016                            Giugno 2016 – Giugno 2017
+          Modello                                             Classi                                                     Classi
+                                LGD       LGD      ass /                              LGD        LGD        ass /
+                                                               non       Giudizio                                          non       Giudizio
+                                ass       oss       oss                                ass       oss         oss
+                                                            prudenti                                                    prudenti
+  Banche generaliste           62,8%     58,7%     107%      0 su 10        A         62,9%     58,8%        107%        0 su 10        A
+  MPS CS                       32,0%     21,6%     148%       0 su 6        A         31,4%     20,2%        156%         0 su 5        A
+  MPS L&F                      78,9%     74,2%     106%      2 su 10        B         79,3%     80,2%         99%        3 su 10        C
+Tabella 12: Analisi prudenza – Dettaglio per classi di LGD assegnata
+   Classe                  Banche generaliste                      MPS Capital Services                     MPS Leasing & Factoring
+     LGD          LGD         LGD       ass /                LGD      LGD       ass /                  LGD         LGD        ass /
+      ass                                        check                                    check                                        check
+                   ass         oss       oss                 ass       oss       oss                   ass          oss        oss
+        1         26,1%      27,4%        95%       V                                                 48,5%        59,4%        82%      X
+        2         36,9%      39,7%        93%       V                                                 63,3%        79,4%        80%      X
+        3         54,0%      52,4%       103%       V                                                 69,1%        67,2%       103%      V
+                                                            27,9%     18,9%     147%        V
+        4         63,1%      59,3%       106%       V                                                 72,0%        65,3%       110%      V
+        5         66,8%      56,6%       118%       V                                                 73,1%        70,8%       103%      V
+        6         69,2%      70,8%        98%       V                                                 83,2%        68,3%       122%      V
+        7         71,9%      71,5%       101%       V       30,3%      8,2%     372%        V         95,1%        90,7%       105%      V
+        8         76,7%      67,9%       113%       V       33,7%     14,0%     240%        V         96,4%       100,0%        96%      X
+        9         81,3%      71,3%       114%       V       33,9%     28,6%     119%        V         97,1%        88,0%       110%      V
+       10         83,3%      71,1%       117%       V       49,7%     37,7%     132%        V         97,2%        98,1%        99%      V
+      Totale      62,9%      58,8%       107%       V       31,4%     20,2%     156%        V         79,3%        80,2%        99%      V
+Accuratezza: le analisi sull’accuratezza evidenziano un generalizzato aumento, rispetto al precedente
+backtesting, del peso delle classi per cui la LGD osservata cade all’interno dell’intervallo di confidenza
+costruito intorno alla LGD assegnata (classi entro la soglia), con contestuale riduzione del peso delle classi
+conservative per tutti i modelli e da un aumento di quelle non conservative solo per MPS Leasing &
+Factoring.
+Tali dinamiche sono risultate di entità tale da migliorare il giudizio espresso sul requisito di accuratezza solo
+per MPS Capital Services e MPS Leasing & Factoring mentre rimane invariato il giudizio relativo alle Banche
+generaliste.
+                                           11
+Tabella 13: Riepilogo accuratezza
+                                            Dicembre 2015 – Dicembre 2016                          Giugno 2016 – Giugno 2017
+             Modello                              Entro la       Non                                    Entro la         Non
+                                     Conserv.                              Giudizio     Conserv.                                    Giudizio
+                                                   soglia      Conserv.                                  soglia       Conserv.
+  Banche generaliste                   49,9%        50,1%         0,0%         C          40,0%           60,0%           0,0%         C
+  MPS Capital Services                 88,8%        11,2%         0,0%         D          80,6%           19,4%           0,0%         C
+  MPS Leasing & Factoring              50,3%        29,6%        20,1%         D          29,7%           39,6%          30,6%         C
+11
+   Il giudizio di sintesi sull’accuratezza è calcolato tenendo congiuntamente conto dei test relativi alla verifica che la LGD osservata cada
+all’interno di un intervallo di confidenza costruito intorno alla LGD assegnata e del confronto tra LGD osservata e LGD assegnata per
+singolo driver.
+GRUPPOMONTEPASCHI                                                                                                      PAG.       9 di 13
+
+                                               A ESCLUSIVO USO INTERNO
+                                                                                             CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                                 Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                    20 Settembre 2017
+Nella tabella seguente è riportato, infine, il confronto tra LGD assegnata e LGD osservata per singoli driver.
+Le evidenze confermano nella sostanza quanto già rilevato a livello complessivo; in particolare, risulta
+rilevante come quasi tutti i sottoportafogli relativi ai modelli Banche generaliste e MPS Capital Services
+presentino una LGD assegnata più alta di quella osservata. Al tempo stesso, per buona parte dei
+sottoportafogli di MPS Leasing & Factoring si rileva invece una LGD assegnata più bassa di quella
+osservata.
+Le eccezioni più rilevanti sono relative, sul modello Banche Generaliste, alle pratiche con durata del
+processo di recupero oltre i 10 anni (circa il 14% del totale) e alle pratiche garantite da ipoteca con LTV tra
+140 e 200 (circa 4% del totale) per cui il modello risulta aver sottostimato le perdite realmente osservate.
+Tabella 14: Analisi accuratezza – Dettaglio per driver
+                                          Banche generaliste             MPS CS                        MPS L&F
+                Driver                 LGD       LGD      Ass. / LGD       LGD      Ass /     LGD        LGD        Ass /
+                                        ass      oss       Oss    ass      oss      Oss        ass        oss        Oss
+                Corporate              65,2%     62,5%     104%  31,3%     20,9%     149%     79,3%      80,4%        99%
+    Segmento
+                Retail                 59,7%     53,6%     111%  32,4%     13,0%     249%     80,9%      59,4%       136%
+                Unsecured              74,5%     68,2%     109%  62,1%     93,2%      67%     95,3%      95,5%       100%
+                Personali              65,4%     61,0%     107%  51,7%     35,7%     145%
+                Confidi                53,4%     49,6%     108%  53,5%     26,7%     201%
+   Tipologia di
+                Ipotecarie             54,8%     57,9%      95%        -        -         -
+     garanzia                                                                                 65,7%      67,2%        98%
+                Ipotecarie 100-140     33,5%     33,7%      99%
+                                                                 34,0%     20,7%     164%
+                Ipotecarie 140-200     32,2%     39,3%      82%
+                Ipotecarie >200        27,9%     26,2%     106%  28,3%     17,4%     162%
+                entro 1 anno           61,5%     42,6%     144%  29,5%     12,5%     235%     87,8%      70,1%       125%
+                da 2 a 4 anni          60,1%     60,5%      99%  31,3%     34,0%      92%     72,5%      75,7%        96%
+      Durata
+    processo    da 5 a 7 anni          62,2%     63,2%      98%  31,8%     14,2%     224%     83,3%      86,4%        96%
+    recupero
+                da 8 a 10 anni         69,0%     70,9%      97%  32,7%     21,2%     155%     79,4%      74,2%       107%
+                oltre 10 anni          65,9%     80,8%      82%  32,2%     22,2%     145%     78,0%      83,7%        93%
+                Nord Ovest             62,3%     58,2%     107%  34,4%     23,8%     145%     80,3%      71,5%       112%
+                Nord Est               64,3%     58,7%     110%  33,2%     29,6%     112%     78,5%      79,6%        99%
+       Area
+                Centro                 63,7%     57,5%     111%  30,4%     17,2%     176%     77,7%      80,9%        96%
+   Geografica
+                Sud e Isole            61,7%     60,5%     102%  31,6%     21,0%     150%     80,1%      87,0%        92%
+                Estero                 49,2%     39,8%     123%        -        -         -         -         -            -
+                0-20.000               74,0%     64,1%     116%  28,8%     17,1%     168%
+                                                                                              81,1%      82,9%        98%
+   Dimensione   20.000 -100.000        58,8%     61,0%      96%  33,6%     17,7%     190%
+                oltre 100.000          54,4%     49,5%     110%  30,7%     21,1%     146%     68,2%      63,4%       107%
+                Factoring                                                                     74,7%      42,2%       177%
+     Servizio   Leasing immobiliare                                                           63,8%      74,1%        86%
+    MPS L&F     Leasing mobiliare                                                             82,3%      77,3%       106%
+                Leasing targato                                                               79,3%      87,5%        91%
+4.2 Calibrazione LGD sul bonis
+Le caratteristiche del flusso di default osservato nel periodo Giugno 2016 – Giugno 2017 risultano
+sostanzialmente coerenti con quelle relative alla popolazione di calibrazione utilizzata nel 2015.
+Sulle Banche generaliste si riscontra una crescita del peso delle sofferenze, in aumento anche rispetto al
+backtesting precedente, a scapito di una riduzione dei past due.
+Evidenze analoghe si osservano anche su MPS Leasing & Factoring, per cui risultano in incremento anche
+gli incagli e pertanto il giudizio risulta in peggioramento rispetto al backtesting precedente.
+GRUPPOMONTEPASCHI                                                                                  PAG.      10 di 13
+
+                                                          A ESCLUSIVO USO INTERNO
+                                                                                                                     CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                                                         Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                                            20 Settembre 2017
+Per MPS Capital Services si rileva un maggiore allineamento con la distribuzione di sviluppo rispetto a
+quanto osservato nel backtesting precedente, anche se l’incidenza degli incagli continua ad essere doppia
+rispetto a quella osservata in sviluppo.
+Tabella 15: LGD bonis – Composizione del default
+                                                             Dicembre 2015 – Dicembre 2016                    Giugno 2016 – Giugno 2017
+                                              %
+      Modello               Stato                                         Variazione                                     Variazione
+                                          Sviluppo             %                            Giudizio          %                          Giudizio
+                                                                            vs Svil.                                      vs Svil.
+                      Incaglio                 44,0%           42,3%            -1,7%                         44,2%            +0,2%
+  Banche              Past due                 53,1%           52,2%            -0,9%                         48,5%            -4,6%
+                                                                                               A                                            A
+  generaliste         Ristrutturato             0,1%            0,0%            -0,1%                          0,0%            -0,1%
+                      Sofferenza                2,8%            5,5%            +2,8%                          7,3%            +4,5%
+                      Incaglio                 21,1%           41,7%          +20,6%                          40,4%          +19,2%
+  MPS Capital         Past due                 74,8%           55,9%           -18,8%                         58,4%           -16,3%
+                                                                                               C                                            B
+  Services            Ristrutturato             0,8%            0,0%            -0,8%                          0,0%            -0,8%
+                      Sofferenza                3,3%            2,4%            -1,0%                          1,2%            -2,1%
+                      Incaglio                 33,9%           32,5%            -1,4%                         38,1%            +4,2%
+  MPS Leasing         Past due                 63,3%           64,5%            +1,2%                         57,7%            -5,6%
+                                                                                               A                                            B
+  & Factoring         Ristrutturato             0,3%            0,0%            -0,3%                          0,0%            -0,3%
+                      Sofferenza                2,5%            3,0%            +0,5%                          4,2%            +1,7%
+4.3 Danger rate
+Per quanto riguarda la verifica della tenuta dei danger rate, la popolazione di stima dei cure rate è stata
+shiftata in avanti di due anni, escludendo le due coorti più vecchie (Gennaio 2008 e Gennaio 2009 per le
+Aziende; Gennaio 2010 e Gennaio 2011 per il Retail) ed includendo le due coorti annuali più recenti
+(Dicembre 2014 e Dicembre 2015). Lo stato finale della controparte è stato analizzato all’ultima data
+disponibile (Giugno 2017).
+                                        12
+L’evoluzione del danger rate viene analizzata confrontando il valore ottenuto sui campioni di backtesting
+con quello osservato in stima a parità di lunghezza della serie storica e con quello ottenuto riducendo
+progressivamente il numero di anni considerati all’interno della serie storica, fino ad arrivare ai 4 più recenti.
+In generale si assiste ad una elevata variabilità dei danger rate al ridursi della durata della serie storica
+mentre lo shift di due anni ha un impatto peggiorativo non trascurabile su tutti i segmenti delle Banche
+generaliste e di MPS Leasing & Factoring.
+Tale impatto risente principalmente del sostanziale peggioramento dei danger rate di incagli e past due
+determinato dalla dinamica osservata negli ultimi due anni con riferimento allo svuotamento degli
+indeterminati: la gran parte di questi, infatti, è stata classificata entro Giugno 2017 in sofferenza, con
+conseguente peggioramento dei danger rate dei singoli stati e di quello complessivo, come dettagliato nella
+Reportistica di cui all’Allegato 1.
+In particolare sui segmenti più significativi del modello Banche generaliste, lo shift di due anni della serie
+storica, a parità di durata, determina un rilevante incremento dei danger rate (Corporate sopra 3.000 € da
+57,6% a 75,1% e Retail sopra 3.000 € da 34,2% a 55,7%).
+12
+   Al fine del calcolo del danger rate complessivo a livello di portafoglio analizzato, viene ponderato il danger rate osservato sui singoli
+stati di default per la distribuzione degli stessi all’interno del flusso di default relativo all’orizzonte temporale analizzato. Per i danger rate
+dei singoli stati vengono utilizzate le medesime logiche previste per il calcolo dei cure rate polarizzati calcolati in fase di sviluppo.
+GRUPPOMONTEPASCHI                                                                                                          PAG.      11 di 13
+
+                                                        A ESCLUSIVO USO INTERNO
+                                                                                                                 CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                                                     Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                                        20 Settembre 2017
+Tabella 16: Danger rate – Evoluzione
+                                                                                         Danger rate
+       Modello           Segmento             Soglia                  13
+                                                                                                                                    Giudizio
+                                                            Sviluppo        5 anni+2       4 anni+2     3 anni+2       2 anni+2
+                                          Sopra 3000 €          57,6%         75,1%            76,9%       76,8%         74,6%        E
+                       Corporate
+  Banche                                  Sotto 3000 €          12,5%         16,6%            15,9%       14,0%         11,9%        D
+                                                                                                                                           D
+  generaliste                             Sopra 3000 €          34,2%                                      55,7%         55,0%        E
+                       Retail
+                                          Sotto 3000 €            9,9%                                     13,8%         13,0%        C
+  MPS Capital          Corporate          Unica                 78,9%         75,8%            75,5%       73,7%         67,7%       C
+                                                                                                                                           C
+  Services             Retail             Unica                 67,3%                                      46,8%         48,4%       D
+  MPS Leasing &
+                       Unica              Unica                 59,3%         63,1%            63,9%       64,6%         60,9%          D
+  Factoring
+13
+   Si ricorda che la serie storica di sviluppo è di 7 anni per il Corporate e di 5 anni per il Retail.
+GRUPPOMONTEPASCHI                                                                                                      PAG.      12 di 13
+
+                                               A ESCLUSIVO USO INTERNO
+                                                                                                 CAPOGRUPPO BANCARIA
+ VERIFICA MONITORAGGIO MODELLI LGD                                                     Servizio Validazione Sistemi di Rischio
+ Backtesting Modelli 2015 (Giugno 2016 – Giugno 2017)
+                                                                                                        20 Settembre 2017
+Allegato 1: Reportistica di Convalida Periodica utilizzata per le analisi
+  20170919 Report
+modelli LGD 2015 Giu17.pdf
+Allegato 2: Impatto allargamento campione di backtesting sulla prudenza delle
+stime
+La Funzione di Convalida ha testato l’impatto, in termini di prudenza delle LGD assegnate, dell’inclusione
+all’interno dei campioni di backtesting di tutte le pratiche chiuse nel periodo analizzato, indipendentemente
+dalla loro data di passaggio a sofferenza (perimetro allargato).
+L’eliminazione del filtro, applicato dalla Struttura di sviluppo in sede di stima, per cui la data di passaggio a
+sofferenza sia successiva al 1 Gennaio 1999 per Banca MPS, MPS Capital Services e MPS Leasing &
+Factoring e al 1 Gennaio 2001 per ex Banca Antonveneta, comporta un aumento del tutto marginale del
+numero di pratiche includibili nei campioni di backtesting.
+Per le Banche generaliste le pratiche chiuse tra Giugno 2016 e Giugno 2017 passano da 6.395 del perimetro
+standard a 6.678 del perimetro allargato, con l’ingresso di poco meno di 300 pratiche. Il divario tra i due
+perimetri si mantiene, pertanto, decisamente più contenuto rispetto a quello rilevato negli anni precedenti a
+conferma della progressiva riduzione dello stock di pratiche con vintage elevato determinatasi a seguito delle
+cessioni di portafogli di NPL eseguite dal Gruppo negli ultimi anni.
+Per le altre due entità legali, gli impatti dell’allargamento del perimetro risultano ancora più irrilevanti (19
+pratiche in più per MPS Capital Services e 26 per MPS Leasing & Factoring), anche se in lieve aumento
+rispetto a quanto osservato per il precedente backtesting.
+Tabella 17: Impatto allargamento perimetro sui campioni di backtesting
+                                         Dicembre 2015 – Dicembre 2016                  Giugno 2016 – Giugno 2017
+              Modello
+                                     Standard       Allargato        delta        Standard       Allargato           delta
+  Banche generaliste                     5.480           5.774          +294          6.395           6.678             +283
+  MPS Capital Services                     182             197           +15            144              163              +19
+  MPS Leasing & Factoring                  159             177           +18            222              248              +26
+Le pratiche che verrebbero incluse nel perimetro allargato determinerebbero impatti limitati sui tassi di LGD.
+Per le Banche generaliste, le cui numerosità garantiscono analisi maggiormente robuste, aumenterebbero
+lievemente sia la LGD osservata sia la LGD assegnata, con il rapporto tra le due che rimarrebbe invariato.
+Tabella 18: Confronto LGD stimata vs LGD osservata (perimetro standard vs perimetro allargato)
+                                               Dicembre 2015 – Dicembre 2016               Giugno 2016 – Giugno 2017
+          Modello            Perimetro         LGD           LGD        LGD ass /       LGD           LGD         LGD ass /
+                                            assegnata      osservata    LGD oss      assegnata      osservata      LGD oss
+  Banche                   Standard             62,8%         58,7%        107%          62,9%         58,8%           107%
+  generaliste              Allargato            63,0%         59,0%        107%          63,1%         59,1%           107%
+  MPS Capital              Standard             32,0%         21,6%        148%          31,4%         20,2%           156%
+  Services                 Allargato            31,8%         23,1%        138%          31,3%         22,1%           142%
+  MPS Leasing &            Standard             78,9%         74,2%        106%          79,3%         80,2%             99%
+  Factoring                Allargato            78,2%         75,1%        104%          78,8%         79,7%             99%
+GRUPPOMONTEPASCHI                                                                                      PAG.      13 di 13
+

@@ -1,0 +1,259 @@
+                            Gap IA_2018_00022
+Effetti Inflazionistici sul Calcolo del Requisito per il Rischio Operativo
+                      Area Operating Risk Officer
+                        Servizio Rischi Operativi
+                            Siena, Settembre 2018
+                                                                           1
+
+In risposta alla richiesta del Servizio Financial and Model Audit contenuta nel rapporto di Revisione
+Convalida AMA 187/2017: “Effettuare un’analisi per determinare l’impatto degli effetti del tasso di
+inflazione in termini di soglie EVT applicate, di VaR Integrato per Event Type e di requisito patrimoniale.
+Qualora tale impatto risultasse materiale è opportuno considerare la possibilità di introdurre fattori
+correttivi per rivalutare i valori di perdita in base al tasso di inflazione come previsto dalla normativa (art.
+35 par. 7 Final Draft RTS on AMA)” è stata svolta un’analisi per determinare l’impatto dei dati rivalutati al
+tasso di inflazione.
+Importi di perdita rivalutati per effetto dell’inflazione
+Al fine di stimare i dati di perdita del database dei rischi operativi rivalutati al tasso inflativo è stato
+utilizzato l’Indice dei Prezzi al Consumo per le Rivalutazioni Monetarie Istat. L’indice fornisce dei valori
+mensili e dei valori annuali, calcolati come media di quelli mensili.
+                 Jan    Feb      Mar         Apr        May        Jun       Jul    Aug       Sep     Oct  Nov   Dec
+    …              …      …         …           …          …         …        …       …         …      …     …     …
+    2008       425.2   426.1    428.4       429.4      431.6     433.5     435.5   435.8     434.8  434.8 433.2 432.6
+    2009       431.6   432.6    432.6       433.5      434.5     435.1     435.1   436.8     435.5  435.8 436.1 436.8
+    2010       437.4   438.0    439.0       440.6      440.9     440.9     442.5   443.5     442.2  443.2 443.5 445.1
+    2011       446.9   448.2    450.0       452.2      452.6     453.1     454.4   455.7     455.7  457.5 457.9 459.2
+    2012       461.0   462.8    464.5       466.7      466.3     467.2     467.6   469.8     469.8  469.8 469.0 470.3
+    2013       471.2   471.2    472.0       472.0      472.0     472.9     473.4   475.1     473.4  472.9 471.6 472.9
+    2014       473.8   473.4    473.4       474.3      473.8     474.3     473.8   474.7     472.9  473.4 472.5 472.5
+    2015       470.3   471.6    472.5       472.9      473.4     473.8     473.4   474.3     472.5  473.4 472.5 472.5
+    2016       471.5   470.6    471.0       471.0      471.5     472.5     472.9   473.9     472.9  472.9 472.9 474.3
+    2017       475.8   477.7    477.7       479.1      478.1     477.7     477.7   479.5     478.1  477.2 476.7 478.1
+                             Tabella 1: : Indici di rivalutazione mensili e medie annuali 2008-2017
+Come prescritto nelle istruzioni dell’Istat, per rivalutare un importo ad una data successiva è sufficiente
+moltiplicare il valore nominale dell’importo per il rapporto tra gli indici di rivalutazione.
+Esempio. Supponiamo di aver contabilizzato una perdita di 10.000 euro a Giugno 2008 e di voler calcolare
+l’importo corrispondente a Dicembre 2017. Usando gli indici riportati in Tabella 1 otteniamo: 10.000 *
+478.1 / 433.5 = 11,028.62 euro
+Per tutti gli eventi interni che potenzialmente rientrano nel calcolo del requisito, ad esclusione di Dubbi
+Esiti e Sospesi Contabili, sono disponibili gli importi di perdita e le date di contabilizzazione dei singoli
+movimenti. Per questi eventi è possibile ricostruire la perdita totale lorda rivalutata (PTLR) sommando i
+valori rivalutati movimento per movimento in base al mese di contabilizzazione.
+Per gli eventi esterni (eventi DIPO) invece non sono disponibili informazioni sui movimenti contabili e anche
+la data di prima contabilizzazione dell’evento è disponibile solo per una piccola parte del totale (meno del
+20%). L’unica data disponibile uniformemente per tutti gli eventi è quella di rilevazione.
+Date queste considerazioni, a partire dalla base dati utilizzata per il calcolo del requisito di Dicembre 2017,
+abbiamo rivalutato la perdita totale lorda prima per i soli dati interni e successivamente per i dati interni ed
+esterni; a tal fine abbiamo utilizzato gli indici mensili, rivalutando le perdite alla data del calcolo di
+riferimento (Dicembre 2017).
+                                                                                                                      2
+
+Di seguito si riporta la PTL degli eventi interni ed esterni inclusi nella base dati del modello AMA e la
+corrispondente PTLR. Si osserva che la PTL dei dati esterni rivalutata sulla base della data di rilevazione è
+incrementata di oltre l’8%, mentre la PTL dei dati interni rivalutata sulla base dei movimenti contabili
+incrementa del 3%. Questo conferma che la rivalutazione effettuata sulla base della data di rilevazione
+comporta una sovrastima della PTLR effettiva e verosimilmente potrebbe anche comportare una
+sovrastima del VaR.
+                     PTL vs PTLR - Dati Interni (mln €)                           PTL vs PTLR - Dati Esterni (mln €)
+                                                                                        2017-Q4
+                           2017-Q4      Rival per                                                     Rival per
+                                                     Diff         Diff %                     (Dati                 Diff Diff %
+                       (Dati interni)  data cont                                                       data ril
+                                                                                          esterni)
+               ET1              293         300       7            2.5%      ET1           1,008        1,107      99    9.8%
+               ET2              129         136       7            5.4%      ET2           1,225        1,349     125   10.2%
+               ET3               67           69      2            3.6%      ET3              475         520      45    9.4%
+               ET4              796         815      19            2.4%      ET4           2,252        2,433     182    8.1%
+               ET5                 2           2      0            3.8%      ET5               61           66      5    8.2%
+               ET6                 8           9      0            4.7%      ET6              121         130       9    7.1%
+               ET7              387         400      13            3.4%      ET7           2,096        2,253     158    7.5%
+               Totale         2,994       3,083      89            3.0%      Totale       12,809       13,894   1,085    8.5%
+                                 Tabella 2: PTL rivalutata degli eventi inclusi nella base dati di stima
+Rivalutando la PTL dei dati esterni solo a partire dal 2008, in coerenza con l’intervallo temporale dei dati
+interni, l’incremento osservato è del 5%, confermando quindi una sovrastima rispetto alla rivalutazione
+effettuata movimento per movimento sui dati interni.
+                                            PTL vs PTLR - Dati Esterni 2008-2017 (mln €)
+                                                        2017-Q4
+                                                                      Rival per
+                                                             (Dati                   Diff       Diff %
+                                                                       data ril
+                                                          esterni)
+                                            ET1               665         699        34         5.1%
+                                            ET2               761         802        41         5.4%
+                                            ET3               329         347        18          5.5%
+                                            ET4            1,671        1,751        80          4.8%
+                                            ET5                44           46        2         4.6%
+                                            ET6                94           98        3         3.6%
+                                            ET7            1,694        1,781        86         5.1%
+                                            Totale         9,386        9,859       473          5.0%
+         Tabella 3: PTL degli eventi esterni inclusi nella base dati di stima rivalutata sull’orizzonte temporale 2008-2017
+                                                                                                                               3
+
+Variazione in termini di VaR
+Partendo dalla base dati utilizzata per il calcolo ufficiale di Dicembre 2017 sono state effettuate le seguenti
+simulazioni :
+    I.   Rivalutazione per movimento dei dati interni e nessuna rivalutazione dei dati esterni, calcolo del
+         VaR sia utilizzando la copula stimata per il calcolo ufficiale di Dicembre 2017 sia stimando la copula
+         sui dati interni rivalutati;
+   II.   Rivalutazione per movimento dei dati interni e per data di rilevazione dei dati esterni, calcolo del
+         VaR sia utilizzando la copula stimata per il calcolo ufficiale di Dicembre 2017 sia stimando la copula
+         sui dati interni ed esterni rivalutati.
+                                                           NET VaR INT
+                                                                                  Rival per data cont (dati interni) e
+                                       Rival per data cont (dati interni)
+                                                                                    data rilevazione (dati esterni)
+                             2017-Q4
+                                         (base dati)     (base dati + copula)          (base dati)   (base dati + copula)
+                   ET1           231            238                       239                  242                   236
+                   ET2            39              42                        40                  42                     43
+                   ET3            24              25                        24                  25                     25
+                   ET4           378            379                       391                  393                   395
+                   ET5             2             2.3                       2.7                   2                      3
+                   ET6            14              14                        15                  16                     16
+                   ET7           100            100                       105                  105                   113
+                   Totale        788            800                       817                  826                   829
+                                               NET VaR INT          (variazione relativa)
+                                          Rival per data cont (dati               Rival per data cont (dati interni) e
+                            2017-Q4                  interni)                             data ril (dati esterni)
+                                      (base dati)      (base dati + copula)             (base dati)   (base dati + copula)
+                 ET1            231           3.1%                     3.4%                    4.9%                   2.1%
+                 ET2             39           9.7%                     2.7%                    8.7%                  10.4%
+                 ET3             24           3.5%                     2.8%                    4.2%                   4.0%
+                 ET4            378           0.2%                     3.4%                    4.0%                   4.4%
+                 ET5              2           0.8%                    20.0%                    9.4%                  14.1%
+                 ET6             14           0.5%                     6.6%                  13.2%                   10.1%
+                 ET7            100          -0.3%                     5.5%                    5.5%                  12.8%
+                 Totale         788           1.5%                     3.7%                    4.9%                   5.2%
+                                         Tabella 4: Var INT Netto con PTL rivalutata
+La rivalutazione delle perdite interne per effetto dell’inflazione ha un impatto limitato in termini di
+requisito complessivo. Si osserva infatti un incremento inferiore al 2% (+12 €/MLN di requisito) nel caso si
+considerino i soli dati interni rivalutati ed inferiore al 4% (+29 €/MLN di requisito) nel caso in cui si
+considerino i dati interni rivalutati e si proceda anche alla stima della matrice di correlazione utilizzando i
+dati interni rivalutati. Nel si considerino i soli dati interni rivalutati, si osserva inoltre un incremento del VaR
+Integrato per l’ET2 (+10%) originato dalla concentrazione di perdite contabilizzate tra il 2008 ed il 2010,
+che comportano un incremento della PTLR superiore al 5%. Nel caso in cui si considerino i dati interni
+rivalutati anche nella stima della matrice di correlazione, si osserva un incremento di correlazione tra l’ET5
+                                                                                                                           4
+
+e gli altri Event Types, in particolare con l’ET3 e con l’ET7 che comporta una leggera flessione dell’effetto
+diversificazione. Il VaR integrato netto per l’ET5 incrementa di circa il 20% (+0.4 €/MLN in termini di
+requisito) rispetto a dicembre 2017.
+                                                Matrice di corr. lineare (Dicembre 2017)
+                                       ET1         ET2         ET3        ET4       ET5      ET6       ET7
+                            ET1                  23.0%      74.8%      56.1%      28.1%    14.7%    26.9%
+                            ET2     23.0%                   36.4%      82.8%      64.4%    26.6%    34.9%
+                            ET3     74.8%        36.4%                 80.6%      14.2%    19.1%    77.7%
+                            ET4     56.1%        82.8%      80.6%                 37.8%    19.1%    63.3%
+                            ET5     28.1%        64.4%      14.2%      37.8%               36.4%    15.2%
+                            ET6     14.7%        26.6%      19.1%      19.1%      36.4%             54.4%
+                            ET7     26.9%        34.9%      77.7%      63.3%      15.2%    54.4%
+                                 Matrice di corr. Lineare (rivalutazione dati interni per movimento)
+                                       ET1         ET2         ET3        ET4       ET5      ET6       ET7
+                            ET1                  26.2%      65.7%      59.6%      31.9%    35.8%    26.9%
+                            ET2     26.2%                   38.8%      74.0%      70.9%    22.3%    37.2%
+                            ET3     65.7%        38.8%                 81.8%      60.7%    43.8%    85.1%
+                            ET4     59.6%        74.0%      81.8%                 56.5%    22.8%    75.9%
+                            ET5     31.9%        70.9%      60.7%      56.5%               22.8%    38.0%
+                            ET6     35.8%        22.3%      43.8%      22.8%      22.8%             45.8%
+                            ET7     26.9%        37.2%      85.1%      75.9%      38.0%    45.8%
+                               Matrice di corr. Lineare (rivalutazione dati interni per movimento e dati
+                                                     esterni per data di rilevazione)
+                                       ET1         ET2         ET3        ET4       ET5      ET6       ET7
+                            ET1                  26.2%      65.6%      49.8%      21.7%    23.6%    26.0%
+                            ET2     26.2%                   43.7%      84.5%      57.6%    26.4%    37.4%
+                            ET3     65.6%        43.7%                 82.6%      41.2%    25.2%    85.0%
+                            ET4     49.8%        84.5%      82.6%                 47.8%    19.2%    72.9%
+                            ET5     21.7%        57.6%      41.2%      47.8%               22.9%    16.6%
+                            ET6     23.6%        26.4%      25.2%      19.2%      22.9%             37.4%
+                            ET7     26.0%        37.4%      85.0%      72.9%      16.6%    37.4%
+Tabella 5: Matrice di correlazione lineare tra Even Types a confronto, prima e dopo la rivalutazione dei dati interni per
+movimento
+Similmente anche la rivalutazione delle perdite esterne ha impatti trascurabili, peraltro va considerata
+anche la sovrastima generata dalla rivalutazione delle perdite per data rilevazione a causa dell’impossibilità
+per questi eventi di procedere ad una stima sulla base delle date di contabilizzazione. L’effetto complessivo
+si attesta intorno al 5% (+40 €/MLN circa di requisito).
+Le variazioni a livello di Event Types sono coerenti con quanto riscontrato in precedenza. Per quasi tutti gli
+ET si osserva infatti un aumento superiore a quello dello scenario precedente. Alcuni ET aumentano in
+modo più significativo come l’ET6, che registra un aumento non trascurabile del numero di eventi di coda, e
+l’ET7, che contiene numerosi eventi esterni con anni di rilevazione non recenti per i quali l’effetto di
+rivalutazione pesa particolarmente. Rivalutando i dati esterni anche in fase di stima della matrice di
+correlazione notiamo un calo del requisito sull’ET1, dovuto ad un coefficiente di correlazione con l’ET4 più
+basso rispetto a dicembre, ed un aumento sull’ET7, sempre per una variazione del coefficiente di
+correlazione con l’ET4 ma di segno opposto.
+                                                                                                                       5
+
+Variazione delle soglie EVT delle distribuzioni di perdita
+Dopo aver esaminato e confrontato i test diagnostici dell                e distribuzioni di perdita pre e post rivalutazione
+                                                                     delle
+                     seguenti cambiamenti, applicabili aad entrambe le simulazioni:
+abbiamo rilevato i segue
+    •   ET 2AFE: il processo di rivalutazione ha modificato leggermente la distribuzione del parametro <U+03BE>
+        (vedi Figura 1)), pertanto la soglia EVT att                uale (150k) non è più ottimale
+                                                                attuale                                       a soglia ottimale
+                                                                                                   ottimale. La
+        dovrebbe essere riposizionata nell’intervallo 160 - 200k.
+    •   ET 7P: peggioramento del test KS di GOF, il pp-value         value si riduce a valori inferiori allo 0.05 (vedi Figura
+        22).. Si configura la necessità di riposizionare la soglia dal valore attuale (30k) ad un valore
+        leggermente inferiore (ad esempio 28k).
+Seppur le variazioni non siano significative, per complet             ezza di analisi abbiamo provveduto ad effettuare le
+                                                            completezza
+                                       soglie
+simulazioni anche modificando le soglie:
+    •   ET 2AFE: soglia cambiata da 150k euro a 170k euro
+    •   ET 7P: soglia cambiata da 30k euro a 28k euro
+                                              Int) al variare della soglia EVT (post
+      Figura 1: ET 2AFE - Distribuzione di <U+03BE> (Int)                                   rivalutazione per movimento contabile
+                                                                               (post-rivalutazione               contabile)
+                                                                                                                              6
+
+                                                                                   (post-rivalutazione
+        Figura 2: ET 7P - Test di GOF (dati interni) al variare della soglia EVT (post    rivalutazione per movimento contabile)
+Le tabelle seguenti riportano i risultati delle simulazioni  simulazioni, in termini di VaR integrato netto, relative alla
+rivalutazione delle perdite interne ed esterne rientranti nel database di stima,                 stima , utilizzando la copula stimata
+per il calcolo ufficiale di dicembre 2017. Le soglie EVT sono state modificate per                       per la classe di rischio ET2AFE
+e per la classe di rischio ET7P                       specificato:
+                               ET7P,, come sopra specificato
+                                            NET VaR INT (effetto cambiamento soglie)
+                                                                                                    Rival per data cont (dati
+                               Rival per data cont                     Rival per data cont (dati
+        Rival per data cont                               Variazione                                 interni) e data ril (dati Variazione
+                                  (dati interni)                        interni) e data ril (dati
+           (dati interni)                                    relativa                                        esterni)            relativa
+                                Nuove soglie EVT                                esterni)
+                                                                                                        Nuove soglie EVT
+ET1                       238                    238           -0.1%                          242                          240     -0.9%
+ET2                        42                     40           -5.4%                           42                           39     -6.1%
+ET3                        25                     25            0.2%                           25                           25     -0.4%
+ET4                       379                    379            0.0%                          393                          394      0.1%
+ET5                       2.3                      2           -0.3%                            2                            2     -1.1%
+ET6                        14                     14            0.8%                           16                           16      1.4%
+ET7                       100                    101            1.3%                          105                          107      1.0%
+Totale                    800                    799           -0.1%                          826                          823     -0.4%
+                                     Tabella 6: VaR netto con soglie EVT modificate e variazione
+La modifica delle soglie EVT comporta variazioni non significative e l’incremento generato dalla
+           one delle perdite per effetto dell’inflazione rimane trascurabile.
+rivalutazione
+                                                                                                                                          7
+
+Conclusioni
+Per valutare l’effetto inflazionistico sul requisito di capitale occorrerebbero informazioni su tutti i
+movimenti di perdita degli eventi inclusi nel calcolo. La rivalutazione può essere effettuata in modo
+corretto sui dati interni di perdita, mentre i dati esterni forniti dal DIPO hanno come unica informazione la
+data di rilevazione.
+Abbiamo comunque provveduto ad effettuare le analisi considerando l’effetto inflattivo sia sui dati interni
+(sulla base dei movimenti contabilizzati) che sui dati esterni (sulla base della data di rilevazione). Si precisa
+comunque che la rivalutazione delle Perdite Totali Lorde per i dati esterni a partire dalla data di rilevazione
+comporta una sovrastima della perdita e quindi del requisito.
+Dalle analisi effettuate abbiamo osservato che:
+     •    La sola rivalutazione dei dati interni per data contabile dei singoli movimenti di perdita non
+          comporta variazioni significative di requisito (+1.5%), anche nel caso di utilizzare le perdite interne
+          rivalutate per la stima della matrice di correlazione tra Event Type (+3.7%);
+     •    La rivalutazione dei dati interni per data contabile delle singole perdite e dei dati esterni per data di
+          rilevazione, nonostante sconti un effetto distorsivo al rialzo, comporta una variazione non
+          significativa (+5%) sul requisito netto;
+     •    Modificando le soglie EVT per renderle ottimali, non comporta alcuna variazione significativa.
+     Dagli approfondimenti effettuati possiamo concludere che l’utilizzo dell’importo di perdita rivalutato
+     per tener conto dell’inflazione ha un impatto trascurabile sul requisito, pertanto non è necessario
+     considerare la possibilità di introdurre fattori correttivi per tener conto del tasso di inflazione
+     nell’ambito del modello AMA.
+                                                                                                                 8
+

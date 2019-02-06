@@ -1,0 +1,1389 @@
+Pillar 2 – Focus su rischio IRRBB
+Rapporto n. 2018_054
+Siena,
+          Direzione Chief Audit Executive
+          Area Revisione Specialistica
+          Servizio Financial & Risk Model Audit
+
+La presente revisione, prevista nell’ambito della pianificazione annuale, è indirizzata a
+valutare la consistenza e l’efficacia del processo di controllo e misurazione del Rischio Tasso
+sul Banking Book (di seguito IRRBB).
+Le analisi sono state orientate, inoltre, ad esaminare le azioni di mitigazione poste in essere
+in seguito alle evidenze emerse dal processo di valutazione SREP 2017, anche in
+considerazione dell’attività di vigilanza prevista per la seconda metà del 2018 (OSI-2018-
+ITBMPS-3834).
+Nello specifico, gli approfondimenti hanno riguardato la verifica, in coerenza con la
+normativa aziendale e la normativa esterna, del corretto svolgimento delle attività poste in
+essere da:
+- Il Servizio Rischi di Liquidità e ALM, relativamente alle fasi di monitoraggio e misurazione
+    del rischio IRRBB;
+- il Servizio Validazione Sistemi di Rischio, riguardo le attività di convalida svolte in
+    particolare sulla componente modellistica.
+L’intervento è stato effettuato attraverso interviste in loco con i referenti delle struttura
+interessata ed analisi a distanza effettuate tramite l’esame della documentazione
+metodologica e delle elaborazioni effettuate dalla stessa struttura.
+La revisione si colloca nell’ambito del Terzo Pilastro SREP - Risk to Capital.
+                                                                                                2
+
+  Overview
+                                                                                 ANAGRAFICA INTERVENTO
+Intervento: Revisione Pillar2 – Focus sul rischio IRRBB
+                                                                                                       Responsabile Audit Team: Boffa Cristina
+Obbligatorietà: No
+Unità auditate: - Servizio Rischi di liquidità e ALM / Area Financial Risk Officer /
+                   Direzione Chief Risk Officer                                                        Audit Team:
+                 - Servizio Validazione Sistemi di Rischio/ Direzione Chief Risk Officer               » Barone Claudio
+Tipologia di intervento: Ordinario                                                                     » Spampani Francesco
+Data open meeting: 20/02/2018 e 05/03/2018
+Data exit meeting: 04/07/2018
+                                                                                     ESITO INTERVENTO
+                           GRADE COMPLESSIVO INTERVENTO                                                FATTORE          DISTRIBUZIONE  DEI GAP PER RILEVANZA
+                                                                                                       CAUSALE          ALTA            MEDIA          BASSA
+         Rating 1             Rating 2                Rating 3                 Rating 4             <U+F080> Risorse
+        (VERDE)              (GIALLO)             (ARANCIONE)                 (ROSSO)
+                                                                                                    <U+F044> Processi            1                2             2
+                                                                                                    <U+F03D> Sistemi
+     La scala di valutazione si articola su quattro livelli a criticità crescente: Rating 1
+     (VERDE), Rating 2 (GIALLO), Rating 3 (ARANCIONE), Rating 4 (ROSSO).                                Totale
+              PRECEDENTI   INTERVENTI DI REVISIONE (SE ESISTENTI)                                              ORGANI DESTINATARI DEL PRESENTE AUDIT
+                                PERIODO     DELLA           N.              GRADE                    LEGAL ENTITY                     ORGANO DESTINATARIO
+    AMBITO INTERVENTO
+                                     VERIFICA         RAPPORTO           INTERVENTO
+                                                                                             BMPS                         Presidente del CdA
+   Revisione rischio tasso        04/04/2016 –                             Rating 3
+                                                       279/2016                              BMPS                         Amministratore Delegato
+       banking book                 28/06/2016                           (Arancione)
+                                                                                             BMPS                         Collegio Sindacale
+                                                                                             BMPS                         Comitato Rischi
+                                                                                                                                                             3
+
+Overview SREP
+                           DISTRIBUZIONE DEGLI OBIETTIVI DI CONTROLLO SREP PER PILLAR E RATING
+                                                                 Numero Obiettivi di
+               Pillar                       Processo                                  A      B C D NA
+                                                                    controllo
+ Business Model                 NA                                       -
+                                Governo/Risk Management/
+                                Gestione del rischio di tasso di         5
+ Internal Governance & SCI                                                            5
+                                interesse del Banking Book
+                                (IRRBB)
+                                Governo/Risk Management/
+                                Gestione del rischio di tasso di
+ Risk To Capital                                                         8            5      2 1
+                                interesse del Banking Book
+                                (IRRBB)
+ Risk To Liquidity              NA                                       -            -
+              TOTALE                                                    13           10      2 1
+                                                                                                      4
+
+Organigramma Strutture Auditate
+                    Direzione CRO
+          Bellucci Leonardo
+                                                           Settore Validazione
+                                   Servizio Validazione
+                                                            Sistemi di Rischio
+                                     Sistemi di Rischio
+                                                                Gestionali
+                                   Moni Stefano         Iacaruso Marilisa
+                 Area Financial Risk
+                         Officer
+               Vadi Giacomo
+                                     Servizio Rischi di
+                                                           Settore Rischi ALM
+                                      Liquidità e ALM
+                                  Valente Fabio Massimo De Giorgi Letizia
+Direzione
+  Area
+Servizio
+ Settore
+                                                                               5
+
+ Executive Summary (1/2)
+           Assetto organizzativo e principali processi
+           L’assetto organizzativo aziendale garantisce un chiaro riporto gerarchico delle funzioni coinvolte nella gestione dell’IRRBB, sia dal punto di
+           vista operativo che di controllo e misurazione del rischio. La responsabilità di ogni attività è univoca o attribuita rispettando il principio di
+           separatezza dei ruoli ed è garantita l’indipendenza delle funzioni di controllo di secondo e terzo livello dalla Funzione di Business.
+           Le capacità professionali delle risorse del Settore Rischi ALM sono ritenute più che adeguate a garantire il presidio del rischio. Pur
+GOVERNANCE rilevando nel corso della revisione una sempre maggiore consapevolezza sulle tematiche legate ai modelli quantitativi utilizzati nel
+           processo di misurazione, si auspica, tuttavia, una maggiore condivisione delle competenze specifiche. La cultura del rischio è ampiamente
+           diffusa e garantita da una significativa attività di formazione.
+           Le verifiche condotte sui controlli posti in essere sui limiti di rischio hanno fornito un esito positivo. La gestione dei 3 sconfinamenti rilevati
+           sulle Controllate è stata tempestiva e conforme al quadro normativo interno. In data 20/02/2018 è stato modificato il meccanismo di
+           escalation delle Controllate, i cui sconfinamenti sono approvati direttamente dall’AD e non più dal CdA della Controllata stessa.
+           Documentazione metodologica
+FRAMEWORK  Si valuta positivamente la creazione di un Framework IRRBB di Gruppo, non presente nell’ambito del precedente audit su rischio tasso
+           svolto nel 2016. Si segnala tuttavia la necessità di integrare opportunamente il documento metodologico D02184 (GAP 1) con la
+           descrizione dettagliata delle metodologie, dei test e dei controlli applicati.
+           Presidio dei modelli quantitativi
+           A marzo 2018 è stato rilasciato il nuovo approccio sulla stima dei volumi delle Poste a Vista (PAV – Volumi) che è esteso anche alla
+           gestione del rischio di liquidità. Per il comparto Raccolta le assunzioni poste alla base di tale nuovo modello (Random Walk) sono
+           rispettate per i cluster Persone Fisiche, Enti e Depositi a Risparmio (75% dei volumi complessivi) mentre per i restanti cluster è stato
+           richiesto un trattamento della serie (Gap 3). Relativamente agli Impieghi, invece, l’assunzione di Random Walk non è rispettata per i
+           cluster Key Clients, PMI, Private e Small Business (95% dei volumi complessivi), pertanto le stime non sono consistenti e si richiede
+           pertanto di individuare metodologie statistiche robuste per il trattamento di tali cluster (GAP 2) anche alla luce della particolare
+           attenzione posta dall’AdV sul tema del model risk. ECB enfatizza l’importanza di definire un appropriato framework che tenga sotto
+           controllo, fra l’altro, la consistenza delle ipotesi poste alla base dei modelli quantitativi. Si rilevano alcune carenze nell’ambito dello
+ MODELLI
+           svolgimento dei controlli sulle assunzioni di Random Walk, sul trattamento degli outlier e sulle assunzioni di normalità delle serie storiche.
+           In particolare, si tiene necessario che la Funzione Risk Management formalizzi la redazione di un documento che sintetizzi l’esito
+           delle analisi eseguite nella fase di calibrazione dei parametri (GAP 1). Relativamente al modello Tassi i test statistici sulla verifica dei
+           requisiti necessari all’adozione del modello (ECM) hanno dato esito positivo. I diagnostici delle stime sono ottimali ad eccezione del cluster
+           Key Clients – Impieghi per il quale è opportuno ristimare il modello escludendo i parametri non significativi (GAP 4). Per quanto
+           attiene il modello comportamentale di Prepayment sui mutui si condivide quanto già evidenziato dalla Funzione di Convalida. L’attuale
+           modello basato sul Constant Prepayment Rate non è adeguato in quanto l’approccio non tiene conto di variabili (macroeconomiche e
+           categoriali) ritenute rilevanti per stimare adeguatamente il fenomeno osservato e previste anche dagli standard di Basilea (GAP
+           CV_2017_00010). Il nuovo modello statistico basato sulla Survival Analysis Theory è in una fase iniziale di sviluppo metodologico.
+                                                                                                                                                               6
+
+  Executive Summary (2/2)
+            Adeguatezza dei flussi informativi
+            La reportistica prodotta rappresenta adeguatamente il profilo di rischio del Gruppo e delle Controllate fornendo misure di sensitivity sul
+            margine di interesse e sul valore economico che risultano essere correttamente integrate nel sistema dei limiti operativi in essere. I flussi
+            informativi sono correttamente veicolati alle strutture previste da normativa. La granularità delle informazioni, diversificata in funzione dei
+            destinatari, permette la comprensione dei fenomeni aggregati. Gli errori marginali riscontrati nei report di base, non veicolati all’Alta
+            Direzione, sono stati segnalati e prontamente indirizzati in corso di revisione.
+            A partire da marzo 2018 l’IRRBB Risk Management Report è stato aggiornato inserendo nei diversi template utilizzati anche l’informazione
+REPORTING   sulle nuove classificazioni contabili in ambito IFRS9.
+            Si apprezza il contributo informativo fornito dalla Funzione Risk Management all’Area Finanza, Tesoreria e Capital Management ai fini
+            della redazione dell’IRRBB Strategy. Le informazioni in tale documento sono chiare e dettagliate, ma si segnalano alcuni disallineamenti,
+            sul livello di copertura e sull’ammontare dei titoli non coperti relativamente alle operazioni TLTRO II, motivati dal fatto che l’IRRBB Strategy
+            è stata approvata successivamente al RAS (vedi Rapporto di audit n. 224/2017 - Processo RAF). La gestione del rischio e le strategie
+            IRRBB sono adeguatamente riportate ai vertici aziendali e risultano complessivamente coerenti con il Risk Appetite di Gruppo.
+            L’analisi dell’evoluzione del profilo delle sensitivities ha confermato un’inversione del profilo di rischio del Gruppo che da un
+            posizionamento corto su tasso nel primo semestre 2017 è passato ad una strategia lunga (ovvero aumento del valore economico in caso
+            di rialzo dei tassi) in linea con quanto definito dall’IRRBB Strategy.
+            Processo di elaborazione delle metriche
+            L’elevata manualità riscontrata nella produzione delle metriche genera un significativo rischio operativo nell’utilizzo dei file, una difficile
+            auditabilità, nonché un elevato sforzo in termini di risorse per l’elaborazione. Al fine di recuperare efficienza e di mitigare i rischi operativi si
+METRICHE DI richiede un intervento ICT sulle misure delta EVE, che includa sia la storicizzazione degli output ERMAS sia l’attuale fase di
+MISURAZIONE gestione dei dati categoriali propedeutici alla creazione dei report (GAP 5). Sarà competenza della Funzione Risk Management di
+            valutare con la Funzione IT l’implementazione della soluzione ottimale in base alle proprie esigenze. Si apprezza il trattamento dei
+            portafogli NPL in dismissione la cui valutazione è coerente con le ipotesi di piano industriale e, successivamente, con la pubblicazione
+            della prima trimestrale del 2018.
+            Attività di First Time Adoption
+            Il presidio sull’IRRBB si è rafforzato nel corso del 2017 grazie alla prima validazione del sistema di misurazione da parte della Funzione di
+            Convalida (First Time Adoption) le cui verifiche hanno riguardato gli ambiti Processi, Modello e Dati come previsto nel proprio Framework.
+            Data la scarsa automazione dei controlli svolti, si condivide la richiesta di integrare la documentazione interna con i controlli previsti
+            (CV_2018_00001). Inoltre, poiché il processo di controllo sulla qualità dei dati non è integrato nel processo di Data Governance di Gruppo,
+ CONVALIDA  è opportuno che la Funzione Risk Management individui, insieme alla Funzione Chief Data Owner, i controlli di Data Quality da migrare
+            prioritariamente nella procedura IRION DQ.
+            Al fine di migliorare la replicabilità del processo di elaborazione delle metriche di misurazione di rischio, caratterizzato da elevata
+            manualità, la Funzione di Convalida ha effettuato una richiesta di approfondimento alla Funzione Risk Management circa l’opportunità di
+            predisporre un manuale operativo che descriva gli adempimenti da seguire. A rafforzamento di tale ambito si richiede il già citato
+            intervento ICT (GAP 5).
+                                                                                                                                                                  7
+
+Audit findings
+                                                                         RILEVANZA  FATTORE                                                        STRUTTURA    SCADENZA
+N.          PROCESSO                            GAP                                                           RACCOMANDAZIONE
+                                                                          (A/M/B)   CAUSALE                                                          OWNER     (GG/MM/AA)
+   Governo/Risk            Framework (RC 4.1)
+   Management/ Gestione    Il documento metodologico (D02184) non                           E’ necessario integrare il documento D02184 con Servizio
+1
+   del rischio di tasso di
+   interesse del Banking
+                           descrive adeguatamente le metodologie
+                           adottate, i test effettuati e i controlli
+                                                                             B        <U+F044>     la descrizione dettagliata delle metodologie, dei Rischi di
+                                                                                            test, dei controlli applicati e con la formalizzazione Liquidità e
+                                                                                                                                                               31/12/2018
+   Book (IRRBB)            applicati.                                                       degli esiti delle analisi svolte in fase di               ALM
+                                                                                            calibrazione.
+   Governo/Risk            PAV modello Volumi Impieghi (RC 4.10)
+   Management/ Gestione    L’assunzione alla base del modello                               Per i cluster degli Impieghi per cui le assunzioni
+   del rischio di tasso di statistico non è rispettata per i cluster                        alla base del modello non sono rispettate si Servizio
+   interesse del Banking
+2 Book (IRRBB)
+                           KC, PMI, PRIVATE ed SB, che
+                           rappresentano il 95% dei volumi                   A        <U+F044>     richiede di individuare metodologie statistiche Rischi di
+                                                                                            consistenti e robuste.                                 Liquidità e 31/12/2018
+                           complessivi degli Impieghi (di cui SB                                                                                      ALM
+                           incide per circa il 43%).
+   Governo/Risk            PAV modello Volumi Raccolta (RC 4.10)
+   Management/ Gestione    L’assunzione alla base del modello                               Per i cluster della Raccolta (KC, PMI e SB) per cui
+   del rischio di tasso di statistico non è rigorosamente rispettata                        le assunzioni alla base del modello non sono Servizio
+                                                                                            rispettate si richiede un trattamento delle serie che Rischi di
+   interesse del Banking
+3 Book (IRRBB)
+                           per ii 25% dei volumi complessivi (KC,
+                           PMI, Private e SB). Nel caso del cluster          M        <U+F044>     consenta di accettare tali ipotesi. Per il cluster Liquidità e
+                                                                                                                                                               31/12/2018
+                           Private l’approssimazione può essere                             Private si richiede un attento monitoraggio               ALM
+                           comunque ritenuta accettabile.                                   dell’assunzione di Random Walk.
+   Governo/Risk            PAV modello Tassi (RC 4.10)
+   Management/ Gestione    Il modello ECM utilizzato per il cluster                                                                                 Servizio
+   del rischio di tasso di KC-Impieghi          non       si      adatta                    Ristimare il modello per il cluster KC-Impieghi Rischi di
+                                                                                                                                                               31/12/2018
+4 interesse del Banking
+   Book (IRRBB)
+                           adeguatamente al fenomeno osservato,
+                           dal momento che include un parametro
+                                                                             B        <U+F044>     senza l’intercetta.                                    Liquidità e
+                                                                                                                                                      ALM
+                           non significativo (intercetta).
+   Governo/Risk            Elaborazione delle metriche (RC 4.10)
+   Management/ Gestione    Inefficienza nella produzione delle
+   del rischio di tasso di metriche di rischio dovuta ad un’elevata
+   interesse del Banking   manualità, con un ricorrente uso di file                         Si richiede un intervento ICT sulle misure delta Servizio
+5
+   Book (IRRBB)            excel al cui interno sono impostate
+                           numerose funzioni e collegamenti ad altri         M       <U+F03D>      EVE, che includa sia la storicizzazione degli output Rischi di
+                                                                                            ERMAS sia l’attuale fase di gestione dei dati Liquidità e
+                                                                                                                                                               31/12/2018
+                           file. Tale impostazione genera un                                categoriali propedeutici alla creazione dei report.       ALM
+                           significativo rischio operativo nell’utilizzo
+                           dei file, una difficile auditabilità, nonché
+                           un elevato sforzo in termini di risorse per
+                           l’elaborazione.
+                                                         <U+F03D>     Sistemi     <U+F044>    Processi <U+F080> Risorse
+                                                                                                                                                                          8
+
+Agenda
+       1 Contesto di riferimento
+       2 Attività svolta
+       3 Audit findings
+         Allegati
+                                 9
+
+  1
+          Contesto di riferimento                                                                                                           (1/2)
+ Il Gruppo ha una posizione lunga sull’IRRBB, cioè un’eventuale rialzo dei tassi di interesse comporterebbe un aumento del valore economico. Negli
+ scenari in cui si ipotizza un ribasso dei tassi, infatti, si verifica una diminuzione di valore delle metriche di misurazione.
+ Il calcolo del capitale interno IRRBB è di competenza del Servizio Rischio di Liquidità e ALM ed è determinato come worst case delle metriche
+ <U+0394>EVE e <U+0394>NII ottenute per gli scenari di tasso previsti dal quadro normativo europeo (8 scenari <U+0394>EVE e 2 scenari <U+0394>NII).
+ A marzo 2018 il capitale interno IRRBB è pari a 162 €mln, corrispondente ad uno shock parallelo di -100bps sulle misure di margine di interesse.
+ A partire da febbraio 2018, in controtendenza rispetto al passato, il <U+0394>NII è la metrica che determina il capitale interno.
+                                                        Risk Profile
+                   IRRBB Indicators
+Entity                                                  31/3/2018     Risk Limit
+        Metrics                Scenario            Value Limits Check
+                  pa ra l l el s hi ft (+100 bps )  135
+                  pa ra l l el s hi ft (-100 bps )  -69
+                  s teepeni ng                        0
+                  fl a tteni ng                     -25
+         <U+2206>EVE
+                  l ong ra te up                     87
+Group                                                      -162          -178
+                  l ong ra te down                  -92
+                  s hort ra te up                    42
+                  s hort ra te down                 -23
+                  pa ra l l el s hock (+100 bps )   172
+         <U+2206>NII
+                  pa ra l l el s hock (-100 bps )  -162
+ Il profilo di rischio del Gruppo risulta entro i
+ limiti operativi.
+ Sulle Controllate, invece, si è verificato lo
+ sconfinamento di Widiba (3,7%) dovuto
+ principalmente alle dinamiche commerciali
+ (produzione mutui a tasso fisso). Le azioni
+ di rientro sono già indirizzate.
+                                                                                                                                                   10
+
+  1        Contesto di riferimento                                                                                                                       (2/2)
+ Il modello di replica delle Poste a Vista (PAV)
+ Le Poste a Vista, per loro natura, non hanno una data di scadenza predefinita. La relazione che lega i tassi di remunerazione ai tassi di mercato, non è
+ diretta, tanto che ad una variazione di questi ultimi, corrisponde un adeguamento parziale e ritardato dei tassi applicati dalla banca. Tale caratteristica
+ (vischiosità o stickiness) riflette sia aspetti legati alla relazione commerciale tra cliente e banca (politiche di pricing e capacità di negoziazione tra le parti)
+ sia aspetti di carattere prettamente comportamentali dei clienti, difficilmente individuabili a priori.
+ Il modello adottato dal Gruppo è il Bond Portfolio Replica, la cui finalità è rappresentare la Raccolta a Vista (Depositi di Risparmio e Conti Correnti
+ Passivi) e gli Impieghi a Vista (Conti Corrente Attivi) come strumenti di raccolta/impiego a medio lungo termine, con profilo di liquidità ammortizzato ed
+ indicizzazione parziale e ritardata ai tassi di mercato.
+ L'approccio sviluppato da BMPS si articola secondo due profili:
+ » l’Analisi Tassi: stima la relazione tra i tassi di mercato e quelli di remunerazione individuando i parametri necessari alla determinazione delle Regole
+      di Indicizzazione Empirica. Quest’analisi è condotta tramite la metodologia ECM (Error Correction Model) che si fonda su due relazioni di equilibrio:
+              •  di lungo termine (Long) che misura quanto le variazioni delle variabili di mercato si riflettano nelle variazioni dei tassi delle poste;
+              •  di breve periodo (Short), che descrive la stickiness del tasso applicato alla clientela;
+ » l’Analisi Volumi: stima il grado di persistenza dei volumi nel tempo, la consistenza del portafoglio ed il relativo "piano di ammortamento".
+  Nella tabella sottostante è riportata la persistenza dei volumi di
+  ogni cluster. A partire da tale valore, secondo uno specifico
+  profilo di decalage ed un data di cut-off stimata (non superiore a
+  180 mesi, come da normativa) viene definito il «Bond Replica»
+  sul quale verranno poi calcolate le sensitivity.
+  Cluster Raccolta    Volumi "Persistenti"   Cluster Impieghi Volumi "Persistenti"
+Enti                          1.034.489.909 Enti                         62.750.666
+Key Client                      247.541.880 Key Client                  129.864.291
+Persone Fisiche             20.008.747.303 Persone Fisiche              815.848.047
+                                                                                       €/mln
+PMI                           2.953.611.720 PMI                       1.572.639.293
+Private                       1.018.378.477 Private                     165.499.567 La componente PAV (NMDs – Non Maturity Deposits) ha un impatto significativo
+Small Business                2.978.220.005 Small Business            2.007.367.747
+                                                                                    sulle metriche <U+0394>EVE (167 €mln +25bps e – 171 €mln -25bps).
+Depositi a Risparmio            815.008.598                                         Il nuovo modello volumi su NMDs, in produzione a partire da marzo 2018,
+ TOTALE RACCOLTA          29.055.997.892 TOTALE IMPIEGHI           4.753.969.611    evidenzia uno scostamento di circa 18 €mln rispetto a febbraio 2018.
+                                                                                                                                                                      11
+
+     2       Attività svolta: Divisione dei poteri e delle responsabilità
+                       OBIETTIVO                                               PERIMETRO/ METODOLOGIA                                                    RISCHI IMPATTATI
+     Verificare ruoli e responsabilità.                     Perimetro: Gruppo MPS
+                                                                                                                                            Rischio operativo
+                                                            Metodologia: analisi della documentazione di riferimento
+     Obiettivo di controllo SREP – IG 1.2
+                                                            (Regolamento 1, Direttive D01508, D02225, D02092,
+                                                            D00754)
+                   VERIFICHE      SVOLTE                                                                                  ESITI
+     Analisi delle responsabilità assegnate per             La documentazione di processo (D02225 – Gestione del Rischio di Tasso di Interesse del Banking Book)
+     ogni Fase/Attività previste dalla normativa            risulta adeguata in quanto norma nel dettaglio gli adempimenti relativi al processo di gestione IRRBB e al
+     interna                                                processo di gestione operativa del rischio di tasso, esplicitando i ruoli e le responsabilità connesse alle
+                                                            singole fasi previste nei processi ed identificando un unico responsabile per ognuno di esse.
+     Verifica      della      separatezza        delle      Per tutte le 14 Fasi/Attività complessive dei processi Gestione IRRBB (D02225) e Gestione Operativa
+     responsabilità per ogni Fase/Attività                  (D02092) è rispettato il principio di separatezza dei ruoli. In entrambi i processi la maggior parte delle
+                                                            attività (9/14) è in carico ad una sola struttura, quella di competenza. La presenza di più ruoli di
+                                                            responsabilità, inoltre, è anch’essa coerente sia con la tipologia di attività (sottoposta a più livelli di
+                                                            controllo) sia con la tipologia di funzione responsabile (es. COG e Comitati). È necessario aggiornare la
+                                                            Direttiva IRRBB e il documento D02092 di processo collegati, affinché vi sia coerenza tra le denominazioni
+                                                            di tutte le funzioni coinvolte1 .
+     Verifica della coerenza della normativa                La definizione di ruoli e responsabilità all’interno dell’assetto organizzativo della Direttiva di Gruppo in
+     interna                                                ambito IRRBB (D01508) è risultata in linea con i relativi documenti di processo (D02225 e D02092). Le
+                                                            responsabilità identificate nella Direttiva di Gruppo, non direttamente riconducibili ad attività normate nei
+                                                            documenti di processo (13 su 61), sono coerenti con le attese, in quanto responsabilità riferite a funzioni
+                                                            apicali e regolarmente disciplinate dal Regolamento n.1 o dalle Policy in materia di SCI e di Risk
+                                                            Management (D00793 e D01114).
+     Verifica degli incarichi di responsabilità             I Responsabili di Area/Servizio facenti parte dell’Area Finanza, Tesoreria e Capital Management e
+     assegnati                                              dell’Area Financial Risk Officer sono identificabili e definiti nell’ultima versione (16/04/2018) degli incarichi
+                                                            di responsabilità (D00754), ad esclusione del Responsabile dell’Area Financial Risk che è stato nominato
+                                                            ma è in attesa di formalizzazione nel documento D00754 .
+1 Il controllo si è basato sulla versione n.1 del documento. Successivamente è stata emanata una nuova versione aggiornata in base al più recente assetto organizzativo, con alcune
+modifiche sulle attività di passaggio in produzione dei modelli, di gestione degli sconfinamenti e dell’esecuzione dei test di efficacia. Le modifiche apportate non hanno avuto impatti sulle
+conclusioni dell’analisi di audit.
+                                                                                                                                                                                          12
+
+2      Attività svolta: Linee di riporto e collocamento gerarchico
+                 OBIETTIVO                                  PERIMETRO/ METODOLOGIA                                       RISCHI IMPATTATI
+Analisi Organigramma / Regolamento 1       Perimetro: strutture organizzative Gruppo MPS                     Rischio Operativo
+                                           Metodologia: analisi della normativa interna (Regolamento
+Obiettivo di controllo SREP – IG 1.2
+                                           n.1)
+            VERIFICHE    SVOLTE                                                               ESITI
+Verifica     della     separatezza   delle Il Regolamento n. 1 identifica un chiaro riporto gerarchico delle funzioni coinvolte sia nella gestione IRRBB
+responsabilità                             sia nella relativa gestione operativa.
+                                           La struttura organizzativa garantisce l’indipendenza delle funzioni di controllo dalla funzione di business
+                                           (Servizio Governo Strategico del Rischio/Area Finanza, Tesoreria e Capital Management).
+                                           Sempre sul tema dell’indipendenza delle funzioni, dal 2017, il Chief Risk Officer ha accesso diretto ed
+                                           incondizionato al CdA ed al Comitato Rischi senza la contestuale presenza dell’Amministratore Delegato.
+                                           Questa modifica del Regolamento n.1 è stata effettuata recependo il finding #3 del JST nell’ambito della
+                                           Thematic Review on Risk Governance and Appetite (RIGA) ed è stata valutata positivamente
+                                           nell’assessment svolto nel 2017 dalla società di consulenza KPMG sul tema.
+                                                                                                                                                      13
+
+  2      Attività svolta: Analisi Seniority e Skills Professionali
+                   OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                        RISCHI IMPATTATI
+Analisi della composizione del Servizio         Perimetro: Servizio Rischi di Liquidità e ALM/Settore Rischi        Rischio Operativo
+Rischi di Liquidità & ALM in termini di         ALM
+risorse (numero, skills, anzianità di servizio)
+                                                Metodologia: analisi documentale e interviste con i
+Obiettivo di controllo SREP – IG 1.2            Responsabili del Servizio Rischi di Liquidità e ALM e del
+                                                Settore Rischi ALM
+               VERIFICHE  SVOLTE                                                                       ESITI
+  Analisi della composizione dell’organico e    L’organico del Settore si compone di n. 5 unità, incluso il responsabile in carica dal 2017 e con una
+  anzianità di servizio                         esperienza di 19 anni nella Direzione Chief Risk Officer. Il livello medio di anzianità nel ruolo (4.2 anni) e
+                                                le precedenti esperienze professionali delle risorse sono sufficientemente consolidate e tali da garantire
+                                                un adeguato presidio del rischio.
+  Analisi dell’adeguatezza delle risorse in     Il livello di formazione del Settore risulta adeguato con le attività svolte. Tutte le risorse hanno infatti
+  termini di formazione                         partecipato a corsi specifici sul Risk Management e le risorse con minore anzianità nel settore hanno
+                                                conseguito la certificazione ABI di Percorso professionalizzante Risk Management.
+                                                Le capacità professionali di ogni risorsa sono eterogenee, ben bilanciate e permettono di presidiare
+                                                adeguatamente i rischi collegati all’attività del settore.
+                                                                                                                                                              14
+
+2       Attività svolta: Cultura del rischio
+                   OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                          RISCHI IMPATTATI
+Intervista al Responsabile di Area/Servizio    Perimetro: Servizio Rischi di Liquidità e ALM/Settore Rischi         Rischio Operativo
+per verificare: il livello di conoscenza della ALM
+cultura del rischio, delle normative vigenti
+e delle prassi operative da parte del          Metodologia: interviste con i Responsabili del Servizio
+personale della struttura attraverso           Rischi di Liquidità e ALM, del Settore Rischi ALM e della
+interviste         e        verifica     della Segreteria Tecnica CRO
+frequenza/partecipazione a corsi di
+formazione interna/esterna.
+Verifica, a livello di Senior Management,
+dell'effettuazione di una Board Induction al
+nuovo CdA.
+Obiettivo di controllo SREP – IG 2.3
+             VERIFICHE     SVOLTE                                                                      ESITI
+Intervista al Responsabile del Servizio        Il livello di conoscenza della cultura del rischio, delle normative vigenti e delle prassi operative da parte del
+Rischi di Liquidità e ALM                      personale del Settore Rischi ALM risulta adeguato.
+                                               L’ingresso come Responsabile di Settore (avvenuto ad inizio 2017) di una risorsa senior con comprovata
+                                               esperienza in ambito Risk Management (precedentemente responsabile Settore Rischio Controparte) ha
+                                               fornito un ulteriore contributo sul tema della conoscenza e comprensione delle tematiche del rischio. Si fa
+                                               presente inoltre che sempre nel 2017 il Settore è stato rafforzato con l’ingresso di una risorsa junior
+                                               attualmente impiegata nelle attività di produzione delle metriche di misurazione.
+Analisi dei corsi di formazione frequentati    Gli addetti del settore hanno seguito numerosi corsi di formazione confermando l’attenzione posta dalla
+dalle risorse                                  Direzione Chief Risk Officer in merito all’aggiornamento professionale sul tema della cultura del rischio (il
+                                               99% delle risorse ha partecipato ad attività formative per 40 ore pro-capite contro una media di 25 ore
+                                               media delle risorse delle altre Direzioni).
+Analisi dell’attività di Board Induction       La Direzione Chief Risk Officer pone in essere iniziative sistematiche di informazione/formazione rivolte ai
+                                               membri del CdA su tematiche specifiche aziendali al fine di fornire il maggior numero di elementi per
+                                               facilitare la comprensione degli argomenti più strettamente tecnici in merito alle quali all’Organo di
+                                               Governance viene richiesto di deliberare.
+                                               Le iniziative che hanno visto coinvolto il nuovo CdA sono relative al processo RAF, al Processo di Budget
+                                               e ai processi ICAAP e ILAAP. Relativamente al rischio tasso l’ultima Board Induction è quella svolta nel
+                                               2016 e pertanto si suggerisce un’iniziativa sul tema.
+                                                                                                                                                               15
+
+2       Attività svolta: Controllo limiti di rischio
+                  OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+Verificare che i Responsabili delle diverse    Perimetro: portafoglio Banking Book GMPS (periodo luglio               Rischio operativo
+linee di business pongano in essere dei        2017- marzo 2018)
+controlli efficaci ad identificare, monitorare
+e segnalare il superamento dei limiti di       Metodologia: esame degli IRRBB Report ed analisi dei
+rischio loro assegnati, agendo in maniera      risultati della recente revisione "Finanza Proprietaria" (n.
+tempestiva nei casi di sforamento dei limiti   211/2017) in virtù dell'immutato contesto operativo.
+di rischio assegnati.
+Obiettivo di controllo SREP – IG 2.6
+              VERIFICHE  SVOLTE                                                                       ESITI
+                                               Si esprime in giudizio positivo in merito al presidio della gestione degli sconfinamenti dei limiti di rischio
+Verifica del processo sconfinamenti su         tasso. Nel periodo osservato (luglio 2017 – marzo 2018) si sono verificati 3 sconfinamenti, tutti sulle
+IRRBB                                          Controllate come riepilogato nella tabella seguente.
+                                                                                Inizio        Fine         Risk profile
+                                                              Legal Entity                                                    Limite
+                                                                           sconfinamento sconfinamento   (media periodo)
+                                                             MPS CS            giu-17       nov-17           10.6%            2,5%
+                                                             Widiba            feb-17        dic-17          22.4%            2,5%
+                                                             Widiba           mar-18                          3.7%            2,5%
+                                               Gli sconfinamenti sono stati analizzati per tipologia e per entità e correttamente segnalati nella reportistica
+                                               mensile “IRRBB Risk Management Report”, il cui contenuto confluisce nel “Risk Management Report”
+                                               redatto per il Comitato Gestione Rischi.
+                                               Si valuta positivamente il processo di comunicazione tra Capogruppo e Controllate dei piani di rientro
+                                               concordati.
+                                               Nel caso delle controllate il meccanismo di escalation tra Funzioni ed Alta Direzione è stato ulteriormente
+                                               rafforzato mediante l’approvazione diretta dello sconfinamento da parte dell’AD della Capogruppo (e non
+                                               più del CdA della Controllata). Tale modifica di processo è stata correttamente recepita in normativa con
+                                               l'aggiornamento del documento di processo D02225 in data 20/02/2018.
+                                                                                                                                                              16
+
+2       Attività svolta: Reporting
+                   OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                         RISCHI IMPATTATI
+Analisi della struttura, della frequenza e       Perimetro: IRRBB Risk         Management       Report,   Risk       Rischio operativo
+del livello di dettaglio dei flussi informativi. Management Report
+Obiettivo di controllo SREP – IG 2.11            Metodologia: analisi documentale
+             VERIFICHE    SVOLTE                                                                      ESITI
+                                                 L’IRRBB Risk Management Report è adeguatamente strutturato e codificato, inoltre confluisce in maniera
+Analisi della struttura, della frequenza e
+                                                 sintetica nel Risk Management Report, indirizzato a CEO, CRO, ed ai comitati (Comitato Direttivo,
+dei destinatari dei flussi informativi
+                                                 Comitato Gestione Rischi).
+                                                 Come previsto nel Regolamento n.1 il Servizio Rischi Liquidità e ALM produce mensilmente l’IRRBB Risk
+                                                 Management Report. Il flusso informativo è trasmesso al Servizio Integrazione Rischi e Reporting, owner
+                                                 del processo di “Integrated Risk Reporting”, che elabora la complessiva informativa sui rischi (Risk
+                                                 Management Report) e la indirizza alle Funzioni ed agli Organi di Governo previsti dalla Direttiva di
+                                                 Gruppo in materia di Integrated Risk Reporting (D02291).
+                                                 In linea con la normativa interna il Servizio Rischi Liquidità e ALM fornisce ulteriori flussi informativi. In
+                                                 dettaglio:
+                                                 • segnala gli sconfinamenti alle funzioni di business e all’Alta Direzione (D02225);
+                                                 • contribuisce in ambito IRRBB all’Executive Risk Management Report per Comitato Rischi
+                                                     endoconsiliare e JST (D02291);
+                                                 • fornisce misure sul posizionamento rispetto alla IRRBB Strategy e sull’operatività connessa (ad es.
+                                                     coperture) per Comitato Finanza e Liquidità (D02291);
+                                                 • calcola le misure di rischio tasso attuali e prospettiche utilizzate nel documento IRRBB Strategy
+                                                     (D02092).
+Analisi del livello di dettaglio dei flussi      La struttura dell’IRRBB Risk Management Report presenta una buona capacità di sintesi ed un’adeguata
+informativi (IRRBB Report dal 31/10/17 al        rappresentazione sia del profilo di rischio del Gruppo sia del posizionamento dello stesso rispetto ai limiti.
+31/01/18)                                        La granularità delle informazioni permette la comprensione dei fenomeni aggregati.
+                                                 Le informazioni del Risk Management Report sono coerenti sia con quanto riportato nell’IRRBB Risk
+Analisi della corretta rappresentazione del      Management Report, sia con i dati elementari utilizzati per il calcolo delle metriche di misurazione Delta EVE
+profilo di rischio nei flussi informativi        e Delta NII.
+prodotti - Risk Management Report e              L’analisi degli IRRBB Report ha evidenziato l’errata rappresentazione di alcuni dati, ma comunque non
+IRRBB Report (del 31/12/17 e 31/01/18)           rappresentati nel Risk Management Report. In particolare sulla label identificativa degli Stock e sugli importi
+                                                 a questi attribuiti sono state rilevate delle discordanze, avvenute in occasione di una revisione del report
+                                                 avvenuta a novembre 2017, imputabili alla gestione manuale del report. Le evidenze sono state esaminate e
+                                                 condivise con la struttura auditata che ha uniformato i dati nei report successivi.
+                                                 .
+                                                                                                                                                               17
+
+2       Attività svolta: Modalità di condivisione delle informazioni
+                 OBIETTIVO                                    PERIMETRO/ METODOLOGIA                                         RISCHI IMPATTATI
+Verifica delle modalità di condivisione      Perimetro: Servizio Rischi di Liquidità e ALM/Settore Rischi        Rischio operativo
+delle informazioni strategiche e di quelle   ALM
+legate alla gestione del rischio all'interno
+della Banca (es. conoscenza della            Metodologia: analisi documentale e interviste con i
+normativa sui Rischi, corsi di formazione    Responsabili del Servizio Rischi di Liquidità e ALM e del
+interna: verifica frequenza e passaggio      Settore Rischi ALM
+con test finale dei corsi specifici sul
+rischio)
+Obiettivo di controllo SREP – IG 2.12
+            VERIFICHE   SVOLTE                                                                      ESITI
+Modalità di condivisione e di scambio        La condivisione e lo scambio delle informazioni strategiche e di quelle legate alla gestione del rischio
+delle informazioni                           risulta adeguata e tale da consentire alle risorse di svolgere le proprie attività in maniera consapevole. In
+                                             particolare, è stato riscontrato che il Settore Rischi ALM si avvale di:
+                                               • server per la condivisione delle informazioni con accesso controllato a livello di Direzione/Area;
+                                               • accesso controllato a livello di singole utenze per applicativi e database specifici;
+                                               • email di settore “Settore Rischi ALM” rischi.alm@mps.it”;
+                                               • allineamento mensile sulle elaborazioni delle misure di rischio tra addetti e capo settore;
+                                               • riunioni mensili di condivisone delle misure di rischio IRRBB convocate dal capo servizio (invitati: capi
+                                                   settore e capo area);
+                                               • riunioni di allineamento/condivisione con frequenza non regolare sulla base delle singole esigenze sui
+                                                   vari temi di interesse;
+                                               • pubblicazione della normativa in materia di IRRBB (Direttiva di Gruppo, Normativa di processo,
+                                                   Documento Metodologico) nell’intranet aziendale in modo da renderla disponibile/accessibile a tutti.
+                                                                                                                                                          18
+
+  2      Attività svolta: Framework IRRBB
+                  OBIETTIVO                                   PERIMETRO/ METODOLOGIA                                          RISCHI IMPATTATI
+Verificare l'esistenza di un framework     Perimetro: D01508, D02225, D02184, D02092 e D01518.                   Rischio operativo
+IRRBB che definisca la governance, valuti
+la strategia IRRBB e il Risk Appetite.     Metodologia: analisi documentale
+Obiettivo di controllo SREP – RC 4.1
+              VERIFICHE  SVOLTE                                                                   ESITI
+  Analisi del Framework IRRBB             Si valuta positivamente la creazione di un Framework IRRBB di Gruppo, non definito nel precedente audit
+                                          su rischio tasso (2016) ed attualmente composto dalla Direttiva di Gruppo (D01508), dal documento di
+                                          processo (D02225) e dal documento metodologico (D02184). Fanno inoltre parte del sistema aziendale di
+                                          controllo interno sia il documento di gestione operativa (D02092) sia il regolamento interno dell’AFTCM
+                                          (D01518).
+                                          Si segnala tuttavia la necessità di integrare opportunamente il documento metodologico D02184 (Gap
+                                          1) con la descrizione dettagliata delle metodologie, dei test e dei controlli applicati, con particolare riguardo
+                                          a:
+                                          •   calcolo del Capitale Interno IRRBB;
+                                          •   criteri di selezione delle relazioni di lungo e breve periodo del modello ECM;
+                                          •   scelte metodologiche sui bucket del portafoglio sofferenze;
+                                          •   criteri di verifica dell’assunzione Random Walk ;
+                                          •   calibrazione modello Volumi Poste A Vista – test di normalità e trattamento outlier;
+                                          •   scenari di stress;
+                                          •   trattamento delle posizioni in valute diverse e verifica soglie di materialità;
+                                          •   formalizzazione della redazione di un documento che sintetizzi l’esito delle analisi eseguite nella fase di
+                                              calibrazione dei parametri;
+                                          •   refuso sulla composizione del portafoglio Banking Book (sui bond subordinati).
+                                          La verifica della coerenza dei documenti strategici di attuazione del piano con quanto approvato nel RAF ha
+                                          dato esito positivo. La gestione del rischio e le strategie IRRBB sono adeguatamente riportate ai vertici
+                                          aziendali e risultano coerenti con il Risk Appetite. Per la definizione del RAS è stata correttamente utilizzata
+                                          l’IRRBB Strategy, anche se l’approvazione di quest’ultima si è formalmente conclusa solo dopo la delibera
+                                          del CdA del RAS. Il Front ha infatti ritenuto opportuno apportare delle variazioni sul livello di coperture sulle
+                                          operazioni TLTRO II (vedi “Processo RAF” – Rapporto n. 224/2017).
+                                                                                                                                                          19
+
+2       Attività svolta: Valutazione esposizione al rischio di tasso
+                 OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                              RISCHI IMPATTATI
+Analisi     preliminare       finalizzata a Perimetro: portafoglio Banking Book Gruppo MPS                           Rischio operativo
+determinare l’entità dell’esposizione al
+rischio tasso, attraverso la valutazione    Metodologia: analisi documentale
+degli impatti sia sul valore economico
+(shock standard) sia sugli earnings
+(variazioni dei tassi di interesse).
+Obiettivo di controllo SREP – RC 4.1
+            VERIFICHE     SVOLTE                                                                      ESITI
+Analisi degli impatti sul valore economico  Il livello di rischio IRRBB è determinato in base all’applicazione di specifiche metriche di misurazione:
+e sul margine di interesse                  analisi di sensitivity sul margine di interesse (Delta NII) e sul valore economico (Delta EVE) calcolate per
+                                            specifici scenari e confrontati con:
+                                            •     i Limiti Operativi Gestionali (LOG): misure di sensitivity sul Delta NII e sul Delta EVE, calcolate
+                                                  rispettivamente per 2 scenari paralleli (±100bps) e 8 scenari (6 previsti dagli standard di Basilea e 2
+                                                  paralleli ±100bps);
+                                            •     i Limiti Delta NII: misure di sensitivity sul Delta NII per shift paralleli (± 25bps);
+                                            •     l’Outlier Test: shock parallelo standard (±200bps) previsto dall’art. 98 (5) della Direttiva 2013/36/EU da
+                                                  confrontare con i fondi propri (15% Tier 1).
+                                            Le metriche sono integrate nel sistema dei limiti in essere e il profilo di rischio è chiaro e correttamente
+                                            riportato all’interno dei diversi flussi informativi (IRRBB Risk Report, Risk Management Report, IRRBB
+                                            Strategy).
+                                                                                                                                                            20
+
+ 2       Attività svolta: Capitale allocato su rischio tasso
+                    OBIETTIVO                                                PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+Analisi del capitale allocato dovuto alla                   Perimetro: ICAAP 2017 e ICAAP 2018                                    Rischio operativo
+componente IRRBB. Confronto tra ICAAP
+2017 e ICAAP 2018.                                          Metodologia: analisi documentale
+Obiettivo di controllo SREP – RC 4.1
+               VERIFICHE       SVOLTE                                                                              ESITI
+ Analisi della metodologia di calcolo del                    Il calcolo del capitale interno è conforme al quadro normativo europeo1 ed è determinato come il worst
+ capitale                                                    case delle metriche <U+0394>EVE e <U+0394>NII risultante da specifici scenari di tasso e dalla evoluzione dinamica dello
+                                                             stato patrimoniale coerente con le ipotesi di Piano Industriale.
+                                                             La metodologia di calcolo del capitale interno non è descritta nell’attuale versione del documento
+                                                             metodologico D02184, per cui è richiesto un aggiornamento (Gap 1).
+ Confronto tra ICAAP 2017 e ICAAP 2018                      Nel documento ICAAP 2017 Outcomes il capitale IRRBB stimato al 31/12/2016 ammonta a 216 €mln
+                                                            (equivalenti a 2.705 €mln di Internal RWA, pari al 3,4% del totale) e il capitale prospettico previsto per il
+                                                            2017 è circa 352 €mln (equivalenti a 4.400 €mln di Internal RWA, pari al 4,9% del totale). Tale previsione è
+                                                            stata determinata:
+                                                            • applicando uno shock parallelo al ribasso dei tassi (come worst scenario);
+                                                            • attuando gli interventi previsti dal piano di ristrutturazione, in particolare: cessione NPL e riduzione della
+                                                                 duration del portafoglio AFS.
+                                                            Nell’ICAAP 2018 Outcomes la stima del capitale interno al 31/12/2017 ammonta a 157 €mln (1.959 di
+                                                            RWA equivalenti, pari al 2,7% del totale), riportando quindi una differenza di 195 €mln rispetto al dato di
+                                                            capitale previsto nell’ICAAP 2017 Outcomes. Tale differenza tra il dato di capitale previsto e quello effettivo
+                                                            è in parte imputabile al fatto che la cessione degli NPL non è stata realizzata entro il 31/12/2017 come,
+                                                            invece, ipotizzato nelle analisi che hanno portato alla redazione del documento ICAAP 2017 Outcomes.
+                                                            A livello prospettico, nel documento ICAAP 2018 Outcomes si prevede per il 2018 un lieve incremento
+                                                            degli RWA (che da 1.959 €mln passano a 1.964 €mln, pari al 2,6% del totale). In generale, l'evoluzione
+                                                            degli RWA nel periodo 2018-2020 è principalmente riconducibile all'effetto congiunto relativo all’attuazione
+                                                            del Piano di Ristrutturazione (cessioni di NPL), con un impatto significativo sull’attivo dello stato
+                                                            patrimoniale, e alle strategie di copertura previste a livello di Gruppo, mirate ad un posizionamento asset
+                                                            sensitive/steepening.
+ 1 Standards - Interest rate risk in the banking book – Basel Committee on Banking Supervision (aprile 2016).
+                                                                                                                                                                            21
+
+  2       Attività svolta: Modello dati e flussi informativi
+                   OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                        RISCHI IMPATTATI
+Analisi del modello dati e dei flussi           Perimetro: IRRBB Report                                             Rischio operativo
+informativi di dettaglio di tutte le componenti
+dell'attivo/passivo soggette a rischio tasso    Metodologia: analisi documentale
+verificando la presenza delle informazioni
+relative alle date di scadenza/repricing, le
+assunzioni comportamentali, i flussi di
+interessi e i prodotti senza scadenza con e
+senza opzionalità.
+Obiettivo di controllo SREP – RC 4.2 e RC
+4.3
+              VERIFICHE    SVOLTE                                                                     ESITI
+  Verifica esistenza flusso informativo di      L’analisi dell’IRRBB Risk Management Report ha evidenziato che tale flusso informativo:
+  dettaglio (IRRBB Report del 31/12/2017 e      • rappresenta adeguatamente la posizione del Gruppo e delle Controllate rispetto ai Limiti Operativi;
+  del 30/03/18)                                 • formalizza correttamente la struttura di attività, di passività e delle esposizioni fuori bilancio,
+                                                   permettendo, al tempo stesso, un’adeguata valutazione degli impatti su oscillazione di +/- 25bps nei
+                                                   tassi di interesse sul margine di interesse e sul valore economico;
+                                                • fornisce, in termini di misure di sensitivity al valore economico, un’approfondita view degli impatti che
+                                                   uno scenario di rialzo dei tassi (+ 25bps) potrebbe avere sul Gap Risk, sull’Option Risk (sia
+                                                   componente comportamentale sia opzionale), sulle posizioni in valuta e sulle diverse maturity del
+                                                   portafoglio (a tasso fisso e variabile).
+                                                La Funzione Risk Management ha adeguato la produzione dell’IRRBB Risk Management Report al fine di
+                                                inserire nei diversi template utilizzati anche l’informazione sulle nuove classificazioni contabili in ambito
+                                                IFRS9, a partire dal report di marzo 2018. Il report è stato integrato tenendo in considerazione le categorie
+                                                FVOCI, FVTPL e Costo Ammortizzato, così come definite anche nel documento relativo alla Strategia di
+                                                gestione dei Portafogli Finanziari (approvato dal CdA).
+                                                                                                                                                             22
+
+2      Attività svolta: Composizione del Banking Book
+                OBIETTIVO                                PERIMETRO/ METODOLOGIA                                         RISCHI IMPATTATI
+Analizzare la corretta composizione del   Perimetro: portafoglio Banking Book Gruppo MPS                   Rischio operativo
+Banking Book (identificazione rispetto al
+Consultation Paper EBA di dicembre        Metodologia: analisi documentale
+2017, alla normativa interna e a IFRS9).
+Obiettivo di controllo SREP – RC 4.2 e RC
+4.3
+            VERIFICHE   SVOLTE                                                               ESITI
+Analisi della corretta composizione del   Il quadro normativo esterno (EBA/GL/2015/08, EBA/CP/2017/19 , CRR, CRDIV) identifica il perimetro di
+Banking Book                              applicazione del rischio di tasso di interesse per differenza rispetto al portafoglio di negoziazione. Tale
+                                          approccio risulta recepito in modo coerente nella normativa interna in tema di IRRBB (Direttiva di Gruppo
+                                          D01508, D02184), nella quale vengono specificate le componenti principali del portafoglio bancario
+                                          (Banking Book) rappresentate da tutte le operazioni finanziarie non rientranti nel Trading Book.
+                                          Nel corso delle attività è stata rilevata una discrepanza tra la Direttiva di Gruppo (D01508) e il
+                                          documento metodologico (D02184) riguardante i bond subordinati, indicati nel primo caso inclusi e
+                                          nel secondo esclusi dal perimetro IRRBB. Si richiede pertanto un aggiornamento del D02184 (Gap
+                                          1).
+                                                                                                                                                     23
+
+2      Attività svolta: Valutazione del rischio tasso per valute diverse                                                                            (1/2)
+                 OBIETTIVO                                    PERIMETRO/ METODOLOGIA                                          RISCHI IMPATTATI
+Verificare nella documentazione interna e    Perimetro: portafoglio Banking Book Gruppo MPS                        Rischio Operativo
+negli applicativi (ERMAS) come sono
+gestite le posizioni in valute diverse.      Metodologia: analisi documentale
+Obiettivo di controllo SREP – RC 4.5
+            VERIFICHE     SVOLTE                                                                      ESITI
+Verifica della documentazione interna        L’analisi della documentazione relativa al Framework IRRBB ha evidenziato che non sono presenti
+                                             riferimenti precisi al trattamento delle posizioni del Banking Book denominate in valute diverse. La gestione
+                                             della divisa viene effettuata all’interno di ERMAS, dove nella sezione “Market and Macroeconomic Data”
+                                             sono storicizzati i vari tassi di cambio, mentre le viste estratte dalla Funzione Risk Management
+                                             dall’applicativo espongono i dati al controvalore in euro.
+                                             Al riguardo si suggerisce di introdurre in normativa qualche indicazione in merito alla soglia di
+                                             materialità (Gap 1) sulla base di quanto previsto dalla normativa esterna (BCBS – Standards IRRBB,
+                                             EBA/GL/2015/08 del 22/5/2015, EBA/CP/2017/19 del 31/10/2017), nell’ambito della quale viene definito
+                                             che gli enti dovrebbero calcolare la variazione di EVE per ciascuna valuta nel caso in cui le attività o
+                                             passività denominate in tale valuta:
+                                             • siano maggiori o uguali al 5% delle attività (o passività) finanziarie totali non comprese nel portafoglio di
+                                                 negoziazione (esclusi asset tangibili);
+                                             • siano inferiori al 5% nel caso che la somma complessiva sia inferiore al 90% (livello minimo di
+                                                 copertura) del totale delle attività (o passività) finanziarie non comprese nel portafoglio di negoziazione
+                                                 (esclusi asset tangibili).
+Verifica del     rispetto   della  soglia di La verifica della materialità delle esposizioni (data di riferimento 31.12.2017) nelle singole valute ha
+materialità                                  confermato che la soglia di materialità del 5% prevista dal quadro normativo (BCBS, EBA) non viene mai
+                                             superata. Il Gruppo opera prevalentemente in € e solo in minima parte in US$. È inoltre rispettata anche la
+                                             soglia minima di copertura del calcolo rispetto a tutte le valute (90% del Banking Book) indicata nel
+                                             Consultation Paper EBA (EBA/CP/2017/19).
+                                                                                                                                                            24
+
+2       Attività svolta: Valutazione del rischio tasso per valute diverse                                                                         (2/2)
+                 OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                         RISCHI IMPATTATI
+Verificare nella documentazione interna e    Perimetro: portafoglio Banking Book Gruppo MPS                      Rischio Operativo
+negli applicativi (ERMAS) come sono
+gestite le posizioni in valute diverse.      Metodologia: analisi documentale e replica del calcolo
+Obiettivo di controllo SREP – RC 4.5
+             VERIFICHE   SVOLTE                                                                         ESITI
+Ricalcolo dei dati raggruppati per valuta al A partire dai template forniti dalla Funzione Risk Management è stato possibile ricalcolare, alla data del
+31/12/2017                                   31/12/2017, il dato del portafoglio bancario e il valore delle sensitivities (±25 bps) per valuta ottenendo
+                                             risultati identici a quelli calcolati dalla struttura auditata.
+                                             Le analisi dei file utilizzati per elaborare le metriche confermano le evidenze riguardanti la manualità e i
+                                             rischi operativi del processo rilevati anche nella verifica sul calcolo delle sensitivities. In particolare
+                                             l’integrazione della vista prodotta da ERMAS avviene mediante query ed elaborazioni manuali su file
+                                             excel; in tale analisi sono emerse operazioni infragruppo, inserite manualmente nel template, prive
+                                             dell’informazione “divisa”, la cui assenza tuttavia non produce errori nel calcolo complessivo in quanto
+                                             trattandosi di operazioni infragruppo (dato “Subsidiary” del report) il valore finale del dato disaggregato per
+                                             valuta non è rilevante a livello di sensitivities.
+Verifica della correttezza dei dati          La verifica della correttezza dei dati storicizzati in ERMAS relativi al cambio Euro/Dollaro al 31/12/2017 ha
+storicizzati in ERMAS relativi al cambio     dato esito positivo, avendo riscontrato che il dato ricavato dall’applicativo corrisponde al dato ufficializzato
+Euro/Dollaro                                 dalla Banca d’Italia per quella data.
+                                                                                                                                                             25
+
+2      Attività svolta: Analisi di Scenario e Prove di stress
+                 OBIETTIVO                                  PERIMETRO/ METODOLOGIA                                           RISCHI IMPATTATI
+Analisi di Scenario e Prove di stress.      Perimetro: portafoglio Banking Book GMPS                            Rischio operativo
+Obiettivo di controllo SREP – RC 4.6        Metodologia: analisi documentale
+            VERIFICHE    SVOLTE                                                                   ESITI
+Analisi della documentazione in materia     La normativa interna (D02184) definisce in maniera adeguata il set di scenari di tasso utilizzato per
+di scenari e di prove di stress             rappresentare i possibili movimenti paralleli della curva dei rendimenti (per differenti magnitudini) e i
+                                            possibili cambiamenti nella forma della curva dei rendimenti. Le Analisi di Scenario sono, quindi, in linea
+                                            con quanto declinato dalla normativa regolamentare che, ai fini del monitoraggio dell’esposizione al rischio
+                                            IRRBB, prevede l’applicazione di un’appropriata gamma di differenti scenari, prendendo in considerazione
+                                            sia la natura e la complessità del rischio al tasso di interesse delle loro attività sia il proprio profilo di
+                                            rischio.
+                                            Relativamente alle prove di stress, invece, la normativa interna D02184 deve essere integrata sulla
+                                            base delle attività effettuate sul margine prospettico a 3 anni (Gap 1) descritte, in maniera chiara e
+                                            comprensibile, nella nota metodologica predisposta nell’ambito del package ICAAP 2017-2018.
+Analisi delle modalità di costruzione degli Si esprime un giudizio positivo sul processo di calcolo che porta alla costruzione degli scenari utilizzati
+scenari di tasso                            nella produzione delle misure gestionali IRRBB mensili. In particolare:
+                                            • la metodologia è descritta in maniera adeguata nel documento metodologico D02184;
+                                            • le serie storiche dei tassi di interesse utilizzati per la costruzione degli scenari vengono aggiornate
+                                                annualmente in occasione della produzione degli scenari RAF;
+                                            • il processo di calcolo è tracciabile avendo verificato che il file utilizzato per la costruzione degli scenari
+                                                permette la replica delle fasi previste dalla metodologia e descritte nel documento D02184.
+Analisi delle Prove di Stress               Le analisi non hanno evidenziato criticità. Le prove di stress sul margine di interesse vengono svolte
+                                            annualmente utilizzando gli scenari forniti da Prometeia coerentememente con il RAF di Gruppo oppure ad
+                                            evento nel caso di stress regolamentari. Lo scopo è quello di valutare la stima della adeguatezza del
+                                            patrimonio considerando la potenziale contrazione del margine di interesse dovuta, oltre che alla
+                                            evoluzione dei tassi base (reference rate), anche alle variazioni sfavorevoli del costo del funding, ai pass–
+                                            through parziali sui nuovi impieghi erogati alla clientela e alle dinamiche connesse ad un potenziale
+                                            deterioramento della qualità creditizia del portafoglio.
+                                                                                                                                                           26
+
+2      Attività svolta: Analisi IRRBB Strategy                                                                                                   (1/2)
+                OBIETTIVO                                 PERIMETRO/ METODOLOGIA                                         RISCHI IMPATTATI
+Analisi dell’IRRBB Strategy.             Perimetro: IRRBB Strategy nel periodo 2016- 2018                    Rischio operativo
+Obiettivo di controllo SREP – 4.7        Metodologia: analisi documentale
+             VERIFICHE  SVOLTE                                                                 ESITI
+Analisi della documentazione e delle     Si esprime complessivamente un giudizio positivo in merito alla chiarezza e all’esaustività delle
+tempistiche di aggiornamento della IRRBB informazioni riportate nella documentazione prodotta nel periodo 2016-2018 dall’Area Finanza, Tesoreria e
+Strategy                                 Capital Management per definire ed aggiornare il Piano Strategico dell’IRRBB.
+                                         Le informazioni riportate in tale documentazione sono ritenute sufficientemente chiare ed esaustive in
+                                         quanto affrontano in maniera organica le seguenti tematiche:
+                                         • analisi dell’attuale posizionamento del Gruppo su IRRBB;
+                                         • riepilogo della strategia precedente;
+                                         • aggiornamento delle attività svolte e dei risultati conseguiti (con analisi dell’impatto sui limiti);
+                                         • analisi sull’andamento dei mercati e confronto forecast/actual;
+                                         • attività future previste con l’impatto in termini di misure di sensitivity sia attuali che prospettiche dei
+                                             portafogli con hegde e senza hedge.
+                                         L’IRRBB Strategy 2018-2010 è stata formalmente approvata dal CdA di fine marzo 2018, successivamente
+                                         all’approvazione del RAS 2018-2020. La nuova strategia, quindi, è stata approvata in ritardo rispetto al
+                                         normale iter procedurale, che prevede un aggiornamento contestuale all’approvazione del RAS e degli altri
+                                         documenti ad esso connessi (Funding Plan, Contingency Funding Plan), attesi per i mesi di
+                                         ottobre/novembre (vedi slide n. 18 - Framework IRRBB).
+                                                                                                                                                       27
+
+2      Attività svolta: Analisi IRRBB Strategy                                                                                                   (2/2)
+                  OBIETTIVO                                  PERIMETRO/ METODOLOGIA                                             RISCHI IMPATTATI
+Analisi dell’IRRBB Strategy.               Perimetro: IRRBB Strategy nel periodo 2016- 2018                       Rischio operativo
+Obiettivo di controllo SREP – 4.7          Metodologia: analisi documentale
+             VERIFICHE    SVOLTE                                                                   ESITI
+Analisi dello specifico documento IRRBB    I documenti IRRBB Strategy prodotti nel periodo 2016-2018 riportano in maniera comprensibile la strategia
+Strategy,      riepilogativo   dei criteri definita che prevede di privilegiare azioni che proteggono da un rialzo dei tassi di interesse, nel rispetto dei
+metodologici per l'individuazione delle    limiti operativi e con attenzione a limitare il più possibile impatti negativi rilevanti sul NII.
+strategie sul rischio tasso                La Funzione Risk Management contribuisce alla redazione del documento IRRBB Strategy, principalmente
+                                           per quanto riguarda le misure di sensitivity sia attuali che prospettiche dei portafogli con e senza copertura.
+                                           Al riguardo si precisa che nelle proiezioni dell’IRRBB Strategy 2018 i valori al 31/12/2017 differiscono da
+                                           quelli riportati nell’IRRBB Risk Management Report perché sono stati ricalcolati al fine di tenere conto della
+                                           nuova metodologia di calcolo delle Poste a Vista in produzione dal primo trimestre del 2018.
+                                           Si evidenziano, infine, alcuni disallineamenti nei documenti IRRBB Strategy 2018 e RAS 2018 approvati
+                                           dal CdA motivati dal fatto che l’IRRBB Strategy, come già detto, è stata approvata successivamente al
+                                           RAS. In particolare, le differenze riguardano sia il livello di copertura del TLTRO 2 (nel RAS si riporta 100%
+                                           di copertura dei rimanenti 6 €mld mentre nell’IRRBB Strategy, in virtù del rimborso previsto già dal 2019, la
+                                           copertura prevista è del 65% riservando successivamente la possibilità di effettuare una copertura totale)
+                                           sia l’ammontare dei titoli non coperti TLTRO 2 (pari a 8 €mld nel RAS 2018 anziché 6 €mld su IRRBB
+                                           Strategy).
+                                                                                                                                                          28
+
+2      Attività svolta: Verifica coerenza IRRBB Strategy con operatività
+                OBIETTIVO                                    PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+Verificare la coerenza tra        strategia Perimetro: portafoglio Banking Book Gruppo MPS (periodo                 Rischio operativo
+approvata e attività condotte.              marzo 2017- febbraio 2018)
+Obiettivo di controllo SREP – 4.7           Metodologia: analisi documentale
+            VERIFICHE   SVOLTE                                                                      ESITI
+Verifica della coerenza tra       strategia Le azioni di copertura e di posizionamento del portafoglio Banking Book nel corso dell’ultimo anno (marzo
+approvata e attività condotte               2017- febbraio 2018) sono state indirizzate in modo coerente rispetto a quanto definito nell’IRRBB
+                                            Strategy.
+                                            L’analisi dell’evoluzione del profilo delle sensitivities (a fronte di scenari paralleli di ±25 bps del delta EVE)
+                                            ha evidenziato un’inversione del trend che da un posizionamento corto su tasso nel primo semestre 2017
+                                            passa ad una strategia lunga (ovvero aumento del valore economico in caso di rialzo dei tassi). Ciò è in
+                                            linea con quanto definito dall’IRRBB Strategy che prevede di assumere una posizione netta come
+                                            pagatore di tasso variabile e ricevitore di tasso fisso nel breve periodo e viceversa nel medio lungo termine
+                                            (oltre 5 anni), prefigurando una situazione di tassi bassi nel breve termine e attendendo un loro rialzo in
+                                            futuro.
+                                            Dal punto di vista degli impatti di breve periodo sul conto economico (delta NII +25bps) si nota come le
+                                            azioni intraprese abbiano portato ad una stabilizzazione della redditività prevista in caso di rialzo dei tassi.
+                                            La bucket sensitivity analysis, in cui l’esposizione ad uno shock dei tassi di interesse viene scomposta sui
+                                            vari bucket temporali, mostra come uno shock parallelo di +25 bps al rialzo dei tassi aumenti il valore
+                                            economico del portafoglio bancario i cui effetti maggiori si notano sulle poste con scadenza/repricing a
+                                            partire da 7 anni.
+                                                                                                                                                              29
+
+2      Attività svolta: Verifica attività di Convalida                                                                                          (1/2)
+                  OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                           RISCHI IMPATTATI
+Analisi dell'attività svolta dalla funzione di Perimetro: Verifiche, Rapporti e Relazione di Convalida              Rischi operativi
+Convalida nell'ambito del rischio tasso di     2017
+interesse.
+                                               Metodologia: analisi documentale
+Obiettivo di controllo SREP – 4.8
+             VERIFICHE    SVOLTE                                                                      ESITI
+Analisi del rispetto delle attività previste   Nel corso dell’2017 la Funzione di Convalida ha effettuato la prima validazione di rilievo del Sistema di
+dal Validation Plan sul tema IRRBB             Misurazione dell’IRRBB (First Time Adoption) con verifiche che hanno riguardato gli ambiti Processi,
+                                               Modello e Dati, in coerenza con l’attuale Framework di Convalida e con quanto previsto dal Validation
+                                               Plan. Per quest’ultimo si evidenzia che alcune verifiche previste non sono state effettuate in
+                                               considerazione della sopraggiunta necessità di avviare le attività di convalida dei modelli impairment
+                                               IFRS9 - Credito, a seguito della regolamentazione emanata a maggio 2017 dall’EBA.
+Analisi delle attività svolte in ambito Dati   Le verifiche hanno riguardato l’esame dei controlli svolti dalla Funzione Risk Management sulla qualità dei
+                                               dati in input ai modelli comportamentali per le poste a vista e per il prepagamento dei mutui nonché sui
+                                               dati di output al processo di elaborazione delle metriche gestionali di misurazione del Rischio IRRBB.
+                                               Data l’elevata manualità dei controlli svolti, si valuta positivamente la richiesta della Funzione di Convalida
+                                               di integrare il manuale metodologico con i controlli previsti (CV_2018_00001). Inoltre, poiché il processo di
+                                               controllo sulla qualità dei dati non è integrato nel processo di Data Governance di Gruppo, è opportuno
+                                               che la Funzione Risk Management individui, insieme alla Funzione Chief Data Owner, i controlli di Data
+                                               Quality da migrare nella procedura IRION DQ.
+Analisi delle attività svolte in ambito        Le verifiche svolte sulla revisione della normativa interna emanata dalla Funzione Risk Management in
+Processi                                       ambito Rischio IRRBB e sul processo di elaborazione delle metriche gestionali non hanno fatto emergere
+                                               gap. E’ stata riscontrata una sostanziale adeguatezza del design del processo di elaborazione delle
+                                               metriche di misurazione rispetto alla normativa regolamentare (Regolamento UE 575/2013 e Circ.
+                                               285/2013 della Banca d’Italia) e alle linee guida internazionali (documentazione Comitato Basilea).
+                                               Al fine di migliorare la replicabilità del processo di elaborazione delle metriche di misurazione di rischio,
+                                               caratterizzato da elevata manualità, la Funzione di Convalida ha effettuato una richiesta di
+                                               approfondimento alla Funzione Risk Management circa l’opportunità di predisporre un manuale operativo
+                                               che descriva gli adempimenti da seguire. Tuttavia si ritiene tale soluzione non sufficiente in un’ottica di
+                                               mitigazione del rischio nella fase di produzione delle misure, per la quale si richiede un intervento ICT
+                                               strutturale (vedi slide n. 18 - Framework IRRBB) (Gap 5).
+                                                                                                                                                              30
+
+2      Attività svolta: Verifica attività di Convalida                                                                                         (2/2)
+                  OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                        RISCHI IMPATTATI
+Analisi dell'attività svolta dalla funzione di Perimetro: Verifiche, Rapporti e Relazione di Convalida            Rischi operativi
+Convalida nell'ambito del rischio tasso di     2017
+interesse.
+                                               Metodologia: analisi documentale
+Obiettivo di controllo SREP – 4.8
+             VERIFICHE    SVOLTE                                                                    ESITI
+Analisi delle attività svolte in ambito        Le attività di convalida svolte sul design del complessivo modello comportamentale delle poste a vista e
+Modelli                                        del prepagamento dei mutui hanno evidenziato la sostanziale conformità metodologica ancorché sia
+                                               emersa, in entrambi i casi, l’esigenza di una progressiva evoluzione dei modelli in modo da renderli più
+                                               robusti. Per entrambi i modelli, comunque, è stato richiesto alla Funzione Risk Management di svolgere
+                                               analisi di backtesting per verificare nel tempo la correttezza delle scelte metodologiche adottate (GAP
+                                               CV_2018_00002).
+                                               Relativamente al modello di Prepayment dei mutui residenziali a tasso fisso, è stato appurato che la
+                                               Funzione Risk Management si è attivata con il COG per integrare la base dati con le informazioni
+                                               necessarie allo sviluppo di un modello in grado di cogliere la correlazione tra l'evento di prepagamento e le
+                                               variabili macroeconomiche che possono influenzare la decisione di estinzione anticipata (GAP
+                                               CV_2017_00010).
+                                               Le anomalie riscontrate sulla procedura di scaling dei tassi di prepagamento, sulla convenzione per il
+                                               calcolo degli intervalli temporali nonché sulla determinazione del debito residuo (GAP CV_2017_00009)
+                                               sono state risolte. Tuttavia il gap è stato ripianificato al 31/12/2018 poiché devono essere concluse le
+                                               valutazioni da parte della Funzione Risk Management in merito ad una diversa modellizzazione (analoga a
+                                               quella in uso per le sofferenze) delle posizioni deteriorate, per le quali non risultava prudenziale
+                                               l’applicazione di un profilo comportamentale di prepagamento.
+                                                                                                                                                            31
+
+2      Attività svolta: Calcolo delle sensitivities
+                 OBIETTIVO                                 PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+Verifica del calcolo delle sensitivities. Perimetro: portafoglio Banking Book Gruppo MPS                        Rischio operativo
+Obiettivo di controllo SREP – 4.10
+                                          Metodologia: affiancamento con le risorse del Settore
+                                          Rischi ALM
+            VERIFICHE    SVOLTE                                                                   ESITI
+Verifica del processo di produzione delle Si rileva un’elevata manualità nella produzione delle metriche di rischio, con un ricorrente uso di file excel
+metriche delta EVE e delta NII            al cui interno sono impostate numerose funzioni e collegamenti ad altri file. Tale impostazione genera un
+                                          significativo rischio operativo nell’utilizzo dei file, una difficile auditabilità, nonché un elevato sforzo in
+                                          termini di risorse per l’elaborazione.
+                                          Questa impostazione operativa si è resa necessaria sia per l’assenza in ERMAS di una procedura di
+                                          backup dei dati mensili delle viste prodotte dall’applicativo stesso sia per la necessità di arricchimento dei
+                                          dati mediante variabili categoriali finalizzate alla produzione dei report (IRRBB Risk Management Report).
+                                          Inoltre la Funzione Risk Management calcola il delta NII autonomamente al di fuori dell’applicativo ERMAS
+                                          in quanto quest’ultimo non ha la capacità di gestire adeguatamente il reinvestimento delle poste in
+                                          scadenza nel periodo di riferimento (3 anni). Infatti per la componente “new business” l’attuale
+                                          clusterizzazione dei portafogli in ERMAS non permette di reinvestire le poste scadute in un prodotto con le
+                                          stesse caratteristiche del prodotto iniziale.
+                                          Da un punto di vista operativo l’impegno messo in atto dalla struttura in tali lavorazioni manuali è rilevante
+                                          e, secondo una stima interna, assorbe mensilmente circa 2,5 FTE per attività routinarie effettuate con
+                                          cadenza prefissata.
+                                          Al fine di recuperare efficienza e di mitigare i rischi operativi si richiede un intervento ICT sulle
+                                          misure delta EVE, che includa sia la storicizzazione degli output ERMAS sia l’attuale fase di
+                                          gestione dei dati categoriali propedeutici alla creazione dei report (Gap 5). Sarà competenza della
+                                          Funzione Risk Management di valutare con la funzione IT l’implementazione della soluzione ottimale in
+                                          base alle proprie esigenze.
+                                                                                                                                                         32
+
+2        Attività svolta: Assunzioni metodologiche                                                                                                                (1/3)
+                    OBIETTIVO                                           PERIMETRO/ METODOLOGIA                                            RISCHI IMPATTATI
+Valutazione         sulle    assunzioni    delle       Perimetro: portafoglio Banking Book Gruppo MPS                         Rischio operativo
+metodologie interne (PAV, Prepayment e
+altre opzionalità alla clientela) anche in             Metodologia: analisi degli script R e analisi documentale
+riferimento al quadro normativo.
+Obiettivo di controllo SREP – 4.10
+               VERIFICHE    SVOLTE                                                                            ESITI
+Poste a Vista – Analisi del modello Volumi             L’assunzione sul modello Volumi (Random Walk) per il comparto Raccolta è rispettata per i cluster
+                                                       Persone Fisiche, Enti e Depositi a Risparmio, che rappresentano il 75% dei volumi complessivi della
+                                                       Raccolta (il cluster Persone Fisiche da solo incide per circa il 69%). Le stime dei parametri necessari
+                                                       all’individuazione della componente Core stabile dei volumi risultano pertanto consistenti e correttamente
+                                                       calcolate. Per i restanti cluster (Key Clients, PMI, Private e Small Business), in cui le assunzioni alla
+                                                       base del modello non sono rigorosamente rispettate, si richiede un trattamento delle serie che
+                                                       consenta di accettare tali ipotesi. Per il cluster Private, la cui approssimazione invece può essere
+                                                       ritenuta comunque accettabile, si richiede un attento monitoraggio dell’assunzione di Random
+                                                       Walk (Gap 3). L’assunzione sul modello Volumi per gli Impieghi (Random Walk) non è rispettata per i
+                                                       cluster Key Clients, PMI, Private e Small Business, che rappresentano il 95% dei volumi
+                                                       complessivi degli Impieghi, di cui Small Business da solo incide per circa il 43%). Le stime dei parametri
+                                                       non sono quindi consistenti e si richiede di individuare metodologie statistiche robuste per il
+                                                       trattamento di tali cluster (Gap 2) anche in funzione dell’attenzione posta dall’AdV sul tema del model
+                                                       risk1. In particolare ECB enfatizza l’importanza di definire un appropriato framework per il model risk che
+                                                       tenga sotto controllo, fra l’altro, la consistenza delle ipotesi poste alla base dei modelli. Relativamente allo
+                                                       spettro di applicazione delle norme, nel documento TRIM si specifica esplicitamente che: «…this
+                                                       document focuses of internal models, but institutions are expected to implement an effective model risk
+                                                       management framework for all models».
+                                                       Si condivide sia l’esclusione di outlier relativi a fenomeni eccezionali (AUCAP 2016, ricapitalizzazione
+                                                       precauzionale 2017, ecc.) nella verifica della normalità della distribuzione, sia l’inclusione nelle stime di
+                                                       volatilità. Tale scelta, oltre ad essere conservativa, permette di osservare la variabilità dei volumi nella sua
+                                                       totalità.Tuttavia si rilevano alcune carenze nell’ambito dello svolgimento dei controlli sulle assunzioni di
+                                                       Random Walk, sul trattamento degli outlier e sulle assunzioni di normalità delle serie storiche. È
+                                                       necessario quindi che la Funzione Risk Management fornisca un documento di riepilogo su tali
+                                                       tipologie di analisi (Gap 1).
+(1) ref. «ECB Guide to internal models – General topics chapter» Marzo 2018; «Guide for the Targeted Review of Internal Models» Febbraio 2017; «Instructions for reporting the
+validation of internal models» Aprile 2017
+                                                                                                                                                                              33
+
+2      Attività svolta: Assunzioni metodologiche                                                                                                    (2/3)
+                 OBIETTIVO                                    PERIMETRO/ METODOLOGIA                                             RISCHI IMPATTATI
+Valutazione     sulle    assunzioni   delle Perimetro: portafoglio Banking Book Gruppo MPS                           Rischio operativo
+metodologie interne (PAV, Prepayment e
+altre opzionalità alla clientela) anche in  Metodologia: analisi degli script R e analisi documentale
+riferimento al quadro normativo.
+Obiettivo di controllo SREP – 4.10
+            VERIFICHE   SVOLTE                                                                        ESITI
+Poste a Vista – Analisi del modello Tassi   I test statistici sulla verifica dei requisiti necessari all’adozione del modello tassi (ECM) hanno dato esito
+                                            positivo. Si suggerisce di condurre test più estesi (ipotizzando la presenza di trend o costante, e una
+                                            componente di correlazione tra elementi della serie) e documentarne opportunamente i risultati.
+                                            I diagnostici delle stime (valori di R2 e significatività dei parametri) sono ottimali sui cluster della raccolta e
+                                            degli impieghi con un’unica eccezione. Infatti sul cluster Key Clients – Impieghi si osserva l’inclusione
+                                            nel modello di un parametro (intercetta) non significativo. A tal proposito, per questo cluster si
+                                            richiede di ristimare il modello senza l’intercetta (Gap 4).
+                                            Si valuta positivamente la simulazione condotta dalla Funzione Risk Management sul modello Bond
+                                            Portfolio Replica utilizzando le serie storiche (tassi e volumi) dei dati di sistema a partire dal 2003 in modo
+                                            da includere uno scenario di tassi in aumento. Tale analisi rafforza il presidio sulla componente
+                                            modellistica consentendo di ipotizzare, in caso di aumento futuro dei tassi di riferimento, una diminuzione
+                                            di elasticità in termini di relazione tra tassi applicati alla clientela e parametri di mercato.
+Replica del calcolo delle stime del modello Il modello sulle Poste a Vista “Bond Portfolio Replica” è replicabile ed i risultati ottenuti sono coerenti con
+Tassi e del modello Volumi                  quelli forniti dalla Funzione Risk Management.
+Analisi del modello comportamentale di      Si condivide quanto evidenziato dalla Funzione di Convalida nella verifica sul “Design del modello
+Prepayment                                  comportamentale di prepagamento dei mutui residenziali a tasso fisso” nel mese di ottobre 2017 (GAP
+                                            CV_2017_00010, scadenza 31/12/2018). L’attuale modello adotta il Constant Prepayment Rate, calcolato
+                                            come media semplice su un set di dati che però non tengono conto di variabili (macroeconomiche e
+                                            categoriali) previste anche dagli standard di Basilea e rilevanti per stimare adeguatamente il fenomeno
+                                            osservato.
+                                            La Funzione Risk Management sta sviluppando un nuovo modello statistico basato sulla survival analysis
+                                            theory, la cui implementazione tecnica sarà effettuata attraverso l’utilizzo dell’applicativo ERMAS. La
+                                            conclusione delle attività, che permetteranno la chiusura dei gap della Funzione di Convalida, è prevista
+                                            per settembre 2018 per la parte metodologica, mentre per l’implementazione tecnica a fine 2018 (BR n.
+                                            70848 “FRO - Modello di Prepayment per IRRBB”).
+                                                                                                                                                               34
+
+2      Attività svolta: Assunzioni metodologiche                                                                                                 (3/3)
+                 OBIETTIVO                                     PERIMETRO/ METODOLOGIA                                         RISCHI IMPATTATI
+Valutazione     sulle    assunzioni     delle Perimetro: Revisione qualitativa della gestione e                   Rischio Modello
+metodologie interne (PAV, Prepayment e        valutazione della componente opzionale nel portafoglio
+altre opzionalità alla clientela) anche in    mutui.
+riferimento al quadro normativo.
+                                              Metodologia: Analisi della documentazione ed interviste
+Obiettivo di controllo SREP – 4.10            con il personale interessato.
+            VERIFICHE    SVOLTE                                                                    ESITI
+Analisi del processo di valutazione delle     Dall’analisi della documentazione raccolta, in particolare dal manuale metodologico (documento D02184),
+opzioni finanziarie su tasso di interesse.    si evince che le tematiche relative alla valutazione delle opzioni finanziarie sono da considerarsi risolte dal
+                                              punto di vista metodologico, come peraltro già evidenziato nella precedente revisione (Rapp. n.
+                                              279_2016). In tale contesto furono analizzate le modifiche ai modelli di pricing indotte dalla presenza di
+                                              tassi negativi (introduzione del modello dispaced diffusion) e le relative procedure di calibrazione a partire
+                                              dai dati di mercato. Non risultando variazioni metodologiche di alcun genere si conferma il giudizio positivo
+                                              espresso a suo tempo.
+                                              Rileva tuttavia segnalare come, da un punto di vista puramente operativo, nei moduli di pricing delle
+                                              swaption di tipo bermuda di ERMAS persistano errori di calcolo (modello utilizzato non corretto) che
+                                              costringono la Funzione Risk Management ad utilizzare, per questo specifico tipo di prodotti finanziari, le
+                                              procedure di calcolo di Murex. Stante la contezza del problema da parte dell’unità operativa e la piena
+                                              disponibilità della procedura Murex da parte della stessa si ritiene il problema non rilevante pur
+                                              auspicandone una risoluzione in un contesto ovviamente di basso rapporto costi/benefici.
+                                                                                                                                                            35
+
+2      Attività svolta: Rappresentazione portafoglio Sofferenze
+                 OBIETTIVO                                 PERIMETRO/ METODOLOGIA                                       RISCHI IMPATTATI
+Analisi sulla bontà della rappresentazione Perimetro: portafoglio sofferenze Gruppo MPS                      Rischio operativo
+del portafoglio sofferenze.
+                                           Metodologia: analisi documentale
+Obiettivo di controllo SREP – 4.10
+            VERIFICHE   SVOLTE                                                                 ESITI
+Analisi sul trattamento del portafoglio    Si condivide l’approccio utilizzato per il calcolo delle sensitivity al valore economico del portafoglio
+sofferenze nelle metriche di misurazione   Sofferenze trattato come n zero coupon bond con scadenze definite dai tempi medi di recupero (TMR)
+delta EVE                                  delle pratiche. Queste permettono di determinare, per ogni scadenza la percentuale di recupero dopo 1
+                                           anno, 2 anni,…16 anni. Il prodotto tra le 16 percentuali ed il valore complessivo delle sofferenze nette
+                                           definisce i 16 Cash Flow che scontati all’euribor 6 mesi (per la maturity corrispondente) determinano il
+                                           valore economico.
+                                           Si suggerisce di descrivere adeguatamente nel documento D02184 le scelte metodologiche
+                                           riguardanti il trattamento dei bucket del portafoglio sofferenze (bucket NA e 16) (Gap 1).
+                                           Si valuta positivamente il trattamento dei portafogli in dismissione Valentine (4,4 €mld netti) e Leasing &
+                                           Small Tickets (720 €mln netti), ricondotti coerentemente nella voce “Poste Patrimoniali – altre poste non
+                                           interest bearing” dell’aggregato gestionale e trattati quindi come un bond con un'unica scadenza, quella
+                                           della presunta data di cessione.
+                                           Negli IRRBB Risk Management Report di gennaio e febbraio 2018 il trattamento di Valentine è in linea con
+                                           quanto riportato nel Bilancio 2017, nel quale è prevista la data di scadenza del 30/06/2018. Per quanto
+                                           riguarda Leasing e Small Tickets, la data di cessione (31/12/2018) è stata definita, ufficialmente, con la
+                                           pubblicazione della prima trimestrale 2018, e recepita correttamente nel report di marzo 2018. Nei report
+                                           precedenti la rappresentazione dei due portafogli è stata fatta in coerenza con le ipotesi di piano
+                                           industriale (cessione entro giugno 2018).
+                                                                                                                                                      36
+
+2       Attività svolta: Conoscenza delle assunzioni sottostanti ai sistemi di
+                                         misurazione
+                  OBIETTIVO                                   PERIMETRO/ METODOLOGIA                                      RISCHI IMPATTATI
+Verificare che il personale rilevante                                                                        Rischio operativo
+                                            Perimetro: Servizio Rischi di Liquidità e ALM/Settore Rischi
+conosca le assunzioni sottostanti ai
+                                            ALM
+sistemi di misurazione, con particolare
+riferimento alle posizioni senza scadenza
+                                            Metodologia: analisi documentale e interviste con i
+e alle opzioni (implicite o esplicite).
+                                            Responsabili del Servizio Rischi di Liquidità e ALM e del
+                                            Settore Rischi ALM
+Obiettivo di controllo SREP – 4.10
+            VERIFICHE     SVOLTE                                                                   ESITI
+Analisi della conoscenza delle assunzioni   Gli scambi informativi (email, colloqui) hanno evidenziato alcune difficoltà, da parte del Settore, nel dare
+sottostanti ai sistemi di misurazione       spiegazioni e fornire risposte su alcuni aspetti metodologici relativi al modello comportamentale delle
+                                            Poste a Vista, a causa dell’assenza temporanea di una risorsa che si è occupata in maniera prevalente
+                                            delle attività di sviluppo e calibrazione dei modelli.
+                                            Si auspica, pertanto, una maggiore condivisione delle assunzioni metodologiche sottostanti ai modelli di
+                                            misurazione in modo da migliorare il presidio su tali tematiche.
+                                                                                                                                                        37
+
+2        Attività svolta: Flussi informativi (assunzioni sottostanti il sistema di
+                                                 misurazione e rischi di modello)
+                    OBIETTIVO                                               PERIMETRO/ METODOLOGIA                                                  RISCHI IMPATTATI
+Verificare l’esistenza di adeguati flussi                Perimetro: Servizio Rischi di Liquidità e ALM/Settore Rischi                  Rischio operativo
+informativi       relativi   alle     assunzioni         ALM
+sottostanti il sistema di misurazione, e dei
+relativi rischi di modello, acquisendo                   Metodologia: analisi documentale e interviste con i
+verbali e presentazioni nei comitati.                    Responsabili del Servizio Rischi di Liquidità e ALM e del
+                                                         Settore Rischi ALM
+Obiettivo di controllo SREP – 4.10
+               VERIFICHE    SVOLTE                                                                                    ESITI
+Verifica dei flussi informativi intervenuti in           La Funzione Risk Management ha presentato al Comitato Operativo Basilea1 del 26/10/2017 la proposta di
+occasione dell’approvazione del nuovo                    evoluzione metodologica delle poste a vista per il rischio di liquidità e IRRBB, prima del passaggio in
+modello Volumi                                           Comitato Gestione Rischi e la necessaria approvazione da parte del CdA.
+                                                         Il documento presentato in Comitato illustra le assunzioni metodologiche alla base del nuovo modello
+                                                         comportamentale di persistenza dei volumi nell’ambito del IRRBB (approccio Volumi) con la relativa
+                                                         adozione anche ai fini del Rischio di Liquidità, specificando che non sono previste variazioni sul modello
+                                                         comportamentale di stima dei coefficienti di indicizzazione ai tassi di interesse.
+                                                         Dalla lettura del verbale del Comitato Operativo Basilea si evince che la Funzione Risk Management ha
+                                                         illustrato ai partecipanti al Comitato la proposta di evoluzione della stima della componente volumi sulla
+                                                         base del sopracitato documento e che la Funzione Convalida Interna ha dato il nulla osta all’adozione delle
+                                                         modifiche metodologiche proposte.
+                                                         La proposta di delibera presentata in CdA a novembre 2017 contiene le principali informazioni riguardanti
+                                                         l’evoluzione metodologica del modello Volumi delle poste a vista e contiene in allegato il documento e il
+                                                         verbale del Comitato Operativo Basilea.
+                                                         Pertanto si ritiene che in occasione dell’introduzione del nuovo modello Volumi i flussi informativi relativi
+                                                         alle assunzioni sottostanti il sistema di misurazione siano stati adeguati e correttamente veicolati alle
+                                                         funzioni coinvolte nel processo di approvazione del change model.
+1A  partire dal mese di gennaio 2018 il Comitato Operativo Basilea è stato soppresso e la responsabilità della discussione e dell’approvazione di variazioni metodologiche sui modelli è
+stata assegnata direttamente al Comitato Gestione Rischi.
+                                                                                                                                                                                        38
+
+    3      Audit findings: gap alti
+                                                                        Alti               Medi              Bassi
+                                                    GAP
+                                                                         1                   2                 2
+  La tabella riepiloga i gap a rilevanza alta emersi nel corso della revisione e le relative raccomandazioni.
+                                                                                                                                                            FATTORE
+                               GAP ALTI                                                                   RACCOMANDAZIONI                                   CAUSALE
+      Modello Volumi Impieghi - Posta a Vista
+      L’assunzione alla base del modello statistico non è                    Per i cluster degli Impieghi per cui le assunzioni alla base del modello non
+1
+      rispettata per i cluster Key Clients, PMI, Private e Small             sono rispettate si richiede di individuare metodologie statistiche consistenti  <U+F044>
+      Business, che rappresentano il 95% dei volumi                          e robuste.
+      complessivi degli Impieghi (di cui Small Business incide
+      per circa il 43%).
+                                                                                                                                                                39
+
+    3       Audit findings: gap medi
+                                                                      Alti               Medi               Bassi
+                                                      GAP
+                                                                       1                   2                  2
+  La tabella riepiloga i gap a rilevanza media emersi nel corso della revisione e le relative raccomandazioni.
+                                                                                                                                                           FATTORE
+                                GAP MEDI                                                                 RACCOMANDAZIONI                                   CAUSALE
+      Modello Volumi Raccolta - Posta a Vista
+      L’assunzione alla base del modello statistico non è                   Per i cluster della Raccolta (Key Clients, PMI e Small Business) per cui le
+1
+      rigorosamente rispettata per ii 25% dei volumi                        assunzioni alla base del modello non sono rispettate si richiede un             <U+F044>
+      complessivi (Key Clients, PMI, Private e Small                        trattamento delle serie che consenta di accettare tali ipotesi. Per il cluster
+      Business).        Nel     caso      del    cluster    Private         Private si richiede un attento monitoraggio dell’assunzione di Random
+      l’approssimazione può essere comunque ritenuta                        Walk.
+      accettabile.
+      Elaborazione metriche di misurazione
+      Inefficienza nella produzione delle metriche di rischio
+      dovuta ad un’elevata manualità, con un ricorrente uso di              Si richiede un intervento ICT sulle misure delta EVE, che includa sia la
+2     file excel al cui interno sono impostate numerose                     storicizzazione degli output ERMAS sia l’attuale fase di gestione dei dati       <U+F03D>
+      funzioni e collegamenti ad altri file. Tale impostazione              categoriali propedeutici alla creazione dei report.
+      genera un significativo rischio operativo nell’utilizzo dei
+      file, una difficile auditabilità, nonché un elevato sforzo in
+      termini di risorse per l’elaborazione.
+                                                                                                                                                               40
+
+    3       Audit findings: gap bassi
+                                                                      Alti                Medi                Bassi
+                                                  GAP
+                                                                       1                    2                    2
+  La tabella riepiloga i gap a rilevanza bassa emersi nel corso della revisione e le relative raccomandazioni.
+                                                                                                                                                          FATTORE
+                               GAP BASSI                                                                   RACCOMANDAZIONI                                CAUSALE
+      Framework – documento metodologico (D02184)
+                                                                            E’ necessario integrare il documento D02184 con la descrizione dettagliata
+1
+      Il documento metodologico (D02184) non descrive                       delle metodologie, dei test, dei controlli applicati e con la formalizzazione  <U+F044>
+      adeguatamente le metodologie adottate, i test effettuati              degli esiti delle analisi svolte in fase di calibrazione.
+      e i controlli applicati.
+      Modello Tassi - Posta a Vista
+2     Il modello ECM utilizzato per il cluster Key Clients-
+      Impieghi non si adatta adeguatamente al fenomeno
+      osservato, dal momento che include un parametro non
+                                                                            Ristimare il modello per il cluster KC-Impieghi senza l’intercetta.
+                                                                                                                                                            <U+F044>
+      significativo (intercetta).
+                                                                                                                                                              41
+
+Firme e destinatari del rapporto
+                                 Ruolo                                                  Cognome e Nome           Firma
+Responsabile Audit Team                                                    Boffa Cristina
+                                                                           Barone Claudio
+Auditors
+                                                                           Spampani Francesco
+V° Responsabile del Settore Risk Model Audit                               Boffa Cristina
+V° Responsabile del Servizio Financial & Model Risk Audit                  Della Lunga Giovanni
+V° Responsabile dell’Area Revisione Specialistica                          Furlani Andrea
+V° Responsabile della Direzione Chief Audit Executive                      Cocco Pierfrancesco
+                                      Organi destinatari BMPS                                          Selezione
+Presidente del CdA                                                                                         x
+Amministratore Delegato                                                                                    x
+Collegio Sindacale                                                                                         x
+Comitato Rischi                                                                                            x
+OdV 231
+                                                             Altri organi destinatari
+      Legal Entity                                                          Organo destinatario
+                                                                                                                       42
+
+Elenco allegati
+» Allegato 1: Tabella dei gap
+» Allegato 2: Descrizione Obiettivi di controllo SREP
+» Allegato 3: Valutazione Obiettivi di controllo SREP
+                                                      43
+
+     Allegato 1: Tabella dei gap
+                                                                          RILEVANZA            FATTORE                                              STRUTTURA SCADENZA CODICE
+N.        PROCESSO                             GAP                                  RISCHIO                      RACCOMANDAZIONE
+                                                                           (A/M/B)             CAUSALE                                                OWNER (GG/MM/AA) OB SREP
+                           Framework                                                                    E’      necessario       integrare      il
+   Governo/Risk            Il documento metodologico (D02184)                                           documento        D02184       con      la
+   Management/ Gestione non         descrive      adeguatamente        le                               descrizione       dettagliata      delle Servizio Rischi
+   del rischio di tasso di metodologie adottate, i test effettuati e i               Rischio            metodologie, dei test, dei controlli di Liquidità e
+1                                                                             B                Processi                                                                 RC 4.1
+   interesse del Banking controlli applicati.                                       Operativo           applicati e con la formalizzazione               ALM
+   Book (IRRBB                                                                                          degli esiti delle analisi svolte in fase
+                                                                                                        di calibrazione.
+                           PAV modello Volumi Impieghi                                                  Per i cluster degli Impieghi per cui le
+   Governo/Risk            L’assunzione alla base del modello                                           assunzioni alla base del modello
+   Management/ Gestione statistico non è rispettata per i cluster                                       non sono rispettate si richiede di Servizio Rischi
+   del rischio di tasso di Key Clients, PMI, Private e Small                        Rischio di Processi individuare metodologie statistiche di Liquidità e
+2                                                                             A                                                                                         RC 4.10
+   interesse del Banking Business, che rappresentano il 95% dei                      Modello            consistenti e robuste.                           ALM
+   Book (IRRBB             volumi complessivi degli Impieghi (di cui
+                           Small Business incide per circa il 43%).
+                           PAV modello Volumi Raccolta                                                  Per i cluster della Raccolta (Key
+                           L’assunzione alla base del modello                                           Clients, PMI e Small Business) per
+   Governo/Risk            statistico non è rigorosamente rispettata                                    cui le assunzioni alla base del
+   Management/ Gestione per ii 25% dei volumi complessivi (Key                                          modello non sono rispettate si Servizio Rischi
+   del rischio di tasso di Clients, PMI, Private e Small Business).                 Rischio di Processi richiede un trattamento delle serie di Liquidità e              RC 4.10
+3 interesse del Banking                                                       M                         che consenta di accettare tali
+                           Nel      caso     del     cluster     Private             Modello                                                             ALM
+   Book (IRRBB             l’approssimazione può essere comunque                                        ipotesi. Per il cluster Private si
+                           ritenuta accettabile.                                                        richiede un attento monitoraggio
+                                                                                                        dell’assunzione di Random Walk.
+                           PAV modello Tassi
+   Governo/Risk            Il modello ECM utilizzato per il cluster                                     Ristimare il modello per il cluster
+                                                                                                                                                   Servizio Rischi
+   Management/ Gestione KC-Impieghi            non       si       adatta                                KC-Impieghi senza l’intercetta.
+                                                                                    Rischio di Processi                                             di Liquidità e      RC 4.10
+4 del rischio di tasso di adeguatamente al fenomeno osservato,                B
+                                                                                     Modello                                                             ALM
+   interesse del Banking dal momento che include un parametro
+   Book (IRRBB             non significativo (intercetta).
+                           Elaborazione delle metriche
+                           Inefficienza nella produzione delle                                          Si richiede un intervento ICT sulle
+   Governo/Risk            metriche di rischio dovuta ad un’elevata                                     misure delta EVE, che includa sia la
+   Management/ Gestione manualità, con un ricorrente uso di file                                        storicizzazione degli output ERMAS
+                                                                                                                                                   Servizio Rischi
+   del rischio di tasso di excel al cui interno sono impostate                                          sia l’attuale fase di gestione dei dati
+                                                                                     Rischio                                                        di Liquidità e      RC 4.10
+5 interesse del Banking numerose funzioni e collegamenti ad altri             M                 Sistemi categoriali      propedeutici        alla
+                                                                                    Operativo                                                            ALM
+   Book (IRRBB             file. Tale impostazione genera un                                            creazione dei report.
+                           significativo rischio operativo nell’utilizzo
+                           dei file, una difficile auditabilità, nonché
+                           un elevato sforzo in termini di risorse per
+                           l’elaborazione.
+                                                                                                                                                                              44
+
+Allegato 2: Descrizione Obiettivi di Controllo SREP (1/2)
+Codice                                                                                Obiettivi di controllo
+        Verificare la presenza una chiara divisione dei poteri e delle responsabilità a tutti i livelli, dalle singole unità organizzative agli organi aziendali. Accertare inoltre
+IG 1.2  che siano chiaramente definite le linee di riporto e il collocamento gerarchico dell'intera struttura organizzativa, nel rispetto del principio di «segregation of duties»
+        e dei vincoli normativi esistenti (es: collocamento gerarchico delle Funzioni Aziendali di Controllo)
+IG 2.3  Verificare che le strategie e le politiche adottate siano comunicate a tutto il personale interessato e che la cultura del rischio sia applicata a tutti i livelli dell’ente
+        Verificare che i Responsabili delle diverse linee di business pongano in essere dei controlli efficaci ad identificare, monitorare e segnalare il superamento dei limiti
+IG 2.6
+        di rischio loro assegnati, agendo in maniera tempestiva nei casi di sforamento dei limiti di rischio assegnati.
+IG.2.11 Verificare l'esistenza di adeguati e strutturati flussi informativi sia verticali sia orizzontali e che gli stessi siano opportunamente codificati
+IG.2.12 Verificare che vi sia un'adeguata condivisione delle informazioni strategiche ovvero di quelle legate alla gestione del rischio all'interno della Banca
+        Verificare che il Gruppo/la Banca valuti adeguatamente il rischio di tasso nel banking book prendendo in considerazione:
+        - la definizione della governance di gestione del rischio tasso, incluse le principali strategie di IRRBB e il risk appetite in relazione al rischio tasso d'interesse;
+        - la valutazione dell'impatto dello shock standard, così come definito dall'art. 98 della Direttiva 2013/36/EU, sul valore economico come porzione dei Fondi Propri;
+        - impatto sui margini lordi dato da variazioni nei tassi di interesse secondo le metodologie usate dall'Istituto;
+RC 4.1  - il capitale interno allocato su IRRBB, sia a livello totale e sia come porzione del capitale interno totale dell'Istituto secondo quanto definitio nell'ICAAP, incluso il
+        trend storico e prospettico;
+        - eventuali variazioni significative, intercorse nel tempo, delle stategie IRRBB, delle policy e dei limiti definiti;
+        - il potenziale impatto che queste variazioni possono avere sul profilo di rischio dell'istituto;
+        - i trend più significativi nei mercati.
+        Verificare che il Gruppo/la Banca formalizzi correttamente la struttura delle attività, passività e delle esposizioni fuori bilancio al fine di valutare gli impatti delle
+        variazioni nei tassi di interesse sul margine e valore economico (valore corrente dei flussi di cassa attesi) sia nel breve che nel lungo termine e i possibili impatti
+        sull'adeguatezza patrimoniale, con riferimento a:
+RC 4.2  - le diverse posizioni nel banking book, le loro scadenze o le date di re-pricing e le assunzioni comportamentali per tali posizioni;
+        - i flussi di cassa degli interessi, se disponibili;
+        - i prodotti con scadenze non definite ed i prodotti con opzioni esplicite o incorporate;
+        - le strategie di copertura dell'Istituto e l'ammontare ed uso dei derivati.
+        Verificare che il Gruppo/la Banca valuti le principali caratteristiche delle attività, passività e delle esposizioni fuori bilancio, con particolare riferimento a:
+        - portafoglio loan (ad. Esempio volumi senza scadenza, volumi con opzioni di pre-pagamento, ecc.);
+RC 4.3  - portafoglio bond (ad esempio volume degli investimenti con ozpioni, possibili concentrazioni);
+        - conti deposito (es. tasso di sensitività dei depositi base rispetto alle variazioni nei tassi d'interesse);
+        - derivati (es. complessità dei derivati usati per copertura o trading).
+        Verificare che il Gruppo/la Banca documenti le metodologie interne adottate per la misurazione del rischio tasso. Nel caso in cui l'Istituto operi in differenti valute,
+RC 4.4  le valutazioni del rischio tasso sono eseguite per ogni valuta.
+        Inoltre verificare che i risultati derivanti sia dall'impatto dello shock standard che dalle metodologie interne, vengono valutati sia per il periodo corrente che per il
+        trend storico.
+                                                                                                                                                                                     45
+
+Allegato 2: Descrizione Obiettivi di Controllo SREP (2/2)
+Codice                                                                                    Obiettivi di controllo
+        Verificare che il Gruppo/la Banca conduca analisi di scenario e prove di stress test come attività periodica del processo di gestione interno al fine di valutare il
+RC 4.6
+        rischio di tasso di interesse.
+        Verificare che il Gruppo/la Banca formuli chiaramente e documenti la strategia sul rischio di tasso di interesse, approvata dal board. In particolare verificare che:
+        - gli organi aziendali si esprimono sulla IRRBB strategy e risk appetite, nonché sui processi per la loro review;
+        - l'Alta Direzione assicura l'implementazione e monitoraggio della strategia approvata, assicurandosi che le attività aziendali siano coerenti con quelle definite
+        nella strategia e che le procedure scritte siano redatte ed implementate e che siano definiti ruoli e responsabilità;
+        - le strategie di rischio di tasso riflettono il livello di risk appetite dell'azienda per il rischio di tasso e se sono coerenti con il risk appetite complessivo;
+RC 4.7
+        - la strategia è appropriata rispetto al business model, risk appetite complessivo, contesto di mercato e ruolo nel sistema finanziario e all'adeguatezza del
+        patrimonio;
+        - la strategia copre in linea di massima tutte le attività dove il rischio di tasso può essere significativo;
+        - la strategia prende in considerazione aspetti ciclici dell'economia e i relativi cambiamenti nella composizione del portafoglio di rischio di tasso;
+        - l'adozione di un adeguato framework in grado di assicurare che la strategia sia efficacemente comunicata a tutto il personale pertinente.
+        Verificare che il Gruppo/la Banca adotti un'appropriata struttura organizzativa a supporto delle attività di assunzione, misurazione, monitoraggio e reporting del
+        rischio di tasso di interesse. In particolare:
+        - chiara identificazione di ruoli e responsabilità per l'assunzione, monitoraggio, controllo e reporting del rischio di tasso;
+RC 4.8
+        - le aree di gestione e controllo del rischio di tasso sono soggette a review indipendente, sono chiaramente identificate nella struttura organizzativa e sono, a
+        livello funzionale e gerarchico, indipendenti dalle aree di business;
+        - la funzione che si occupa di rischio di tasso di interesse (nelle aree di business e in aree di gestione e controllo) ha competenze ed esperienze adeguate.
+        Verificare che il Gruppo/la Banca adotti un adeguato Framework per l'individuazione, comprensione e misurazione del rischio di tasso di interesse, con particolare
+        riferimento a:
+        - sistemi informativi e tecniche di misurazione che consentono di misurare i rischi di tasso relativi alle esposizioni rilevanti in bilancio e fuori bilancio, compresi sia
+        l'internal hedging che il portafoglio banking book;
+        - adeguate funzioni e metodologie di valutazione del rischio di tasso (coerentemente alle Linee Guida EBA su IRRBB), sulla base delle dimensioni e complessità
+        delle esposizioni a rischio tasso d'interesse;
+        - le assunzioni sottostanti alle metodologie interne prendono in considerazione le linee guida EBA. In particolare le assunzioni prese per le posizioni senza
+        scadenza contrattuale e con opzioni incorporate sono prudenti. Inoltre se i valori di Equity sono inclusi nel calcolo dell'economic value e se sono valutati gli
+        impatti della rimozione dell'Equity dal calcolo stesso.
+RC 4.10 - il sistema di misurazione dei rischi prende in considerazione tutti i fattori di rischio materiali collegati alle esposizioni di rischio di tasso di interesse; in caso di
+        esclusioni indicarne la materialità e le motivazioni;
+        - descrizione della qualità, dettagli e tempistiche delle informazioni fornite dai sistemi informativi e la composizione del perimetro delle società, attività e portafogli
+        ricompresi in tale analisi; Il sistema informativo è compliant con le linee guida EBA su IRRBB;
+        - controlli di integrità e tempestività dei dati utilizzati dai processi di misurazione del rischio che sono compliant con le linee guida EBA su IRRBB;
+        - il sistema identifica possibili concentrazioni di rischio di tasso;
+        - risk manager e Direzione conoscono le assunzioni sottostanti ai sistemi di misurazione, con particolare riferimento alle posizioni senza scadenza o alle opzioni
+        implicite o esplicite, come anche per le assunzioni sul capitale azionario;
+        - risk manager e Direzione sono informati sui rischi di modello relativi alle tecniche di misurazione dei rischi.
+        Verificare inoltre che il Framework preveda l'implementazione e conduzione di prove di stress test sul rischio di tasso di interesse, compliant con le linee guida
+        EBA
+                                                                                                                                                                                     46
+
+ Allegato 3: Valutazione Obiettivi di Controllo SREP (1/2)
+                                                                                 Percentuale di
+ Codice                 Obiettivi di controllo                   Processo                       Rating              Note/ GAP
+                                                                                completamento
+        Verificare che il Gruppo/la Banca valuti
+        adeguatamente il rischio di tasso nel banking
+        book prendendo in considerazione:
+        - la definizione della governance di gestione
+        del rischio tasso, incluse le principali strategie
+        di IRRBB e il risk appetite in relazione al rischio
+        tasso d'interesse;
+        - la valutazione dell'impatto dello shock
+        standard, così come definito dall'art. 98 della
+        Direttiva 2013/36/EU, sul valore economico            Governo/Risk
+        come porzione dei Fondi Propri;                       Management/
+        - impatto sui margini lordi dato da variazioni nei     Gestione del
+IG. 4.1 tassi di interesse secondo le metodologie           rischio di tasso di      100 %        B    Cfr. Gap N. 1 come da tabella dei gap
+        usate dall'Istituto;                                   interesse del
+        - il capitale interno allocato su IRRBB, sia a        Banking Book
+        livello totale e sia come porzione del capitale           (IRRBB)
+        interno totale dell'Istituto secondo quanto
+        definito nell'ICAAP, incluso il trend storico e
+        prospettico;
+        - eventuali variazioni significative, intercorse
+        nel tempo, delle strategie IRRBB, delle policy e
+        dei limiti definiti;
+        - il potenziale impatto che queste variazioni
+        possono avere sul profilo di rischio dell'istituto;
+        - i trend più significativi nei mercati.
+                                                              Governo/Risk
+        Verificare che il Gruppo/la Banca conduca             Management/
+        analisi di scenario e prove di stress test come        Gestione del
+IG. 4.6 attività periodica del processo di gestione         rischio di tasso di      100%         B    Cfr. Gap N. 1 come da tabella dei gap
+        interno al fine di valutare il rischio di tasso di     interesse del
+        interesse                                             Banking Book
+                                                                  (IRRBB)
+                                                                                                                                             47
+
+ Allegato 3: Valutazione Obiettivi di Controllo SREP (2/2)
+                                                                                                           Percentuale di
+ Codice                                  Obiettivi di controllo                               Processo                    Rating   Note/ GAP
+                                                                                                          completamento
+         Verificare che il Gruppo/la Banca adotti un adeguato Framework per
+         l'individuazione, comprensione e misurazione del rischio di tasso di interesse,
+         con particolare riferimento a:
+         - sistemi informativi e tecniche di misurazione che consentono di misurare i
+         rischi di tasso relativi alle esposizioni rilevanti in bilancio e fuori bilancio,
+         compresi sia l'internal hedging che il portafoglio banking book;
+         - adeguate funzioni e metodologie di valutazione del rischio di tasso
+         (coerentemente alle Linee Guida EBA su IRRBB), sulla base delle dimensioni
+         e complessità delle esposizioni a rischio tasso d'interesse;
+         - le assunzioni sottostanti alle metodologie interne prendono in
+         considerazione le linee guida EBA. In particolare le assunzioni prese per le
+         posizioni senza scadenza contrattuale e con opzioni incorporate sono
+         prudenti. Inoltre se i valori di Equity sono inclusi nel calcolo dell'economic
+         value e se sono valutati gli impatti della rimozione dell'Equity dal calcolo       Governo/Risk
+         stesso.                                                                            Management/
+         - il sistema di misurazione dei rischi prende in considerazione tutti i fattori di Gestione del
+                                                                                                                                 Cfr. Gap N.
+         rischio materiali collegati alle esposizioni di rischio di tasso di interesse; in    rischio di
+                                                                                                                                 2,3,4,5 come
+IG. 4.10 caso di esclusioni indicarne la materialità e le motivazioni;                         tasso di        100%         C
+                                                                                                                                 da tabella dei
+         - descrizione della qualità, dettagli e tempistiche delle informazioni fornite dai interesse del
+                                                                                                                                 gap
+         sistemi informativi e la composizione del perimetro delle società, attività e      Banking Book
+         portafogli ricompresi in tale analisi; Il sistema informativo è compliant con le      (IRRBB)
+         linee guida EBA su IRRBB;
+         - controlli di integrità e tempestività dei dati utilizzati dai processi di
+         misurazione del rischio che sono compliant con le linee guida EBA su
+         IRRBB;
+         - il sistema identifica possibili concentrazioni di rischio di tasso;
+         - risk manager e Direzione conoscono le assunzioni sottostanti ai sistemi di
+         misurazione, con particolare riferimento alle posizioni senza scadenza o alle
+         opzioni implicite o esplicite, come anche per le assunzioni sul capitale
+         azionario;
+         - risk manager e Direzione sono informati sui rischi di modello relativi alle
+         tecniche di misurazione dei rischi.
+         Verificare inoltre che il Framework preveda l'implementazione e conduzione
+         di prove di stress test sul rischio di tasso di interesse, compliant con le linee
+         guida EBA.
+                                                                                                                                                48
+

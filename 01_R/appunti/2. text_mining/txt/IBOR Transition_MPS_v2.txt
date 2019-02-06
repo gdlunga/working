@@ -1,0 +1,1291 @@
+IBOR Transition
+Milano, 30 novembre 2018
+
+                              Indice
+       <U+25BA> La Riforma dell’IBOR
+       <U+25BA> IBOR Impact Assessment
+       <U+25BA> Annex
+Pag. 2
+
+La Riforma dell’IBOR
+La Riforma dell’IBOR
+Premessa
+ Gli Interbank Offered Rates (IBORs) sono alla base di centinaia di miliardi di dollari di strumenti finanziari
+ commercializzati in tutto il mondo. Diversi casi di manipolazione, da parte delle banche, dei principali benchmark ed
+ indici, tra cui gli IBORs, hanno determinato l’inizio di una riforma da parte dei Regulator a livello globale per ripristinare
+ la fiducia nell’affidabilità e nella solidità dei benchmark di riferimento.
+                                                               Drivers alla base della riforma degli IBOR
+        Rischio sistemico dovuto                             Diminuzione della liquidità                       Riluttanza da parte delle                   Accuse di tentativi di
+        all’incertezza sulla durata degli                    sui mercati interbancari                          banche del panel di LIBOR e                 manipolazione e false
+        IBOR                                                 unsecured                                         EURIBOR a contribuire le                    segnalazioni
+                                                                                                               quotazioni
+                                        Iniziative principali da parte dei Regulator mondiali e primi risultati
+            Review di Wheatley su LIBOR
+                                                                         <U+25BA>   Il risultato di queste revisioni è stata una raccomandazione a migliorare gli IBOR esistenti
+            G20 chiede all’FSB di riformare I                                e promuovere lo sviluppo e l’adozione di tassi risk free alternativi (RFRs)
+            principali benchmark
+                                                                         <U+25BA>   Sono stati istituiti appositi Working Groups in diverse giurisdizioni per comprendere
+            Istituzione dell’OSSG                                            meglio le sfide e proporre tassi di riferimento alternativi
+            Pubblicazione Principi IOSCO
+                                                                         <U+25BA>   Sulla base delle proposte, i partecipanti al mercato hanno iniziato a mobilitare programmi
+            Istituzione MPG                                                  per valutare l’impatto sulle loro organizzazioni
+                                                                            Perché occorre accelerare?
+          EU Benchmark Regulation (BMR), che                                  Nel Luglio 2017, Andrew Bailey ha                         Data la riluttanza2 delle banche a
+          è pienamente applicabile dal 1 Gennaio                              annunciato che FCA non userà I suoi                       contribuire al LIBOR, è probabile che in
+          2018 e copre il LIBOR, non permette                                 poteri per convincere o costringere le                    futuro ci sarà un gran numero di ritiri, di
+          alla FCA di obbligare le banche del                                 banche a contribuire al LIBOR dopo la                     conseguenza la pubblicazione del
+          panel a contribuire al LIBOR a tempo                                fine del 2021.                                            LIBOR nella sua forma attuale non può
+          indeterminato1.                                                                                                               essere garantita oltre il 2021.
+        IBA ha proposto la possibilità, su base volontaria da parte dei singoli contributori, di continuare la pubblicazione IBOR dopo il 2021
+             1 Source: Interest rate benchmark reform – transition to a world without LIBOR
+             2 Source: Opening Statement of Chairman J. Christopher Giancarlo before the Market Risk Advisory Committee Meeting, Washington, D.C.
+Pag. 4
+
+La Riforma dell’IBOR
+Essere proattivi e non attendere
+ I Regulator di tutto il mondo stanno svolgendo un ruolo attivo nel comunicare l‘urgenza di una transizione più rapida
+ dagli IBORs. In incontri e discorsi in tutto il mondo, hanno fatto pressione sulle istituzioni per limitare le nuove attività
+ che fanno riferimento agli IBOR e per sviluppare un piano per ridurre l’esposizione agli IBOR in funzione delle
+ esposizioni e dei rischi dell’azienda.
+                                                                      “It is important that we find ways to make                   “The transition away from LIBOR represents a
+ “I hope it is already clear that the discontinuation
+                                                                              it as easy as possible to use SOFR                    significant risk event for firms of all sizes, and
+ of LIBOR should not be considered a remote
+                                                                         because the risks to LIBOR are, at this                        they should actively manage this transition
+ probability 'black swan' event. Firms should treat
+                                                                                         stage, quite considerable.”                           through their existing frameworks for
+ it is as something that will happen and which
+ they must be prepared for.                                                                                                          identification, management, and mitigation of
+                                                                          - FRB: Randal Quarles, July 19, 20185                 risk. Supervisors should continue to support this
+ Firms that we supervise will need to be able to                                                                                  objective by ensuring that all firms are aware of
+ demonstrate to FCA supervisors and their PRA                                                                                    the transition and that LIBOR-related issues are
+ counterparts that they have plans in place to                                                                                  being addressed in a way that is commensurate
+ mitigate the risk and to reduce dependencies on                                                                                                  with a firm’s exposures and risks.”
+ LIBOR.”
+                                                                                      Messaggi                                            - FRB NY: William Dudley May 24, 20183
+ - FCA: Andrew Bailey, July 12 20181
+                                                                                               dai                                     “For market participants transition to RFRs,
+                                                                                                                                  much work lies ahead. Each firm must develop
+ The discontinuation of LIBOR is not a possibility.
+ It is a certainty. We must anticipate it, we must
+                                                                                     Regulator                                   its own individual implementation plan including
+                                                                                                                                    assessing its exposures tied to LIBOR-based
+ accommodate it and we must adapt to it.                                                                                         products and determining how to amend legacy
+                                                                                                                                            contracts to reflect an alternative RFR.”
+ - CFTC: J. Christopher Giancarlo, July 12 20182
+                                                                                                                                            - CFTC: Brian Quintenz, July 12, 20184
+ <U+25BA>    Il 19 Settembre 2018 Bank of England/PRA e FCA hanno inviato lettere ai CEO a tutte le principali banche ed assicurazioni
+ <U+25BA>    Le istituzioni finanziarie che non hanno ricevuto tali lettere sono invitate a leggerle e riflettere su quanto richiesto da esse
+ <U+25BA>    Le lettere mirano a garantire che senior manager e CdA capiscano i rischi associate alla transizione LIBOR e adottino da subito le appropriate
+      misure in modo che l’azienda possa passare ai tassi risk free alternativi prima della fine del 2021
+ <U+25BA>    In ogni istituzione finanziaria devono essere identificate le figure di riferimento (senior manager) che supervisioneranno la predisposizione
+      della risposta dell’azienda alla lettera e alla definizione ed implementazione dei piano di transizione <U+F0E0> risposte richieste entro 14 Dicembre
+               3 Source: The Transition to a Robust Reference Rate Regime
+               4 Source: Opening Statement of Commissioner Brian Quintenz before the CFTC Market Risk Advisory Committee Meeting
+               5 Source: Opening statement of Vice Chairman for Supervision Randal Quarles at the ARRC roundtable
+Pag. 5
+
+La Riforma dell’IBOR
+Definizione IBOR e ambiti di applicazione
+               Definizione IBOR                       Ambiti di applicazione IBOR               Impatto sui mercati internazionali
+ Gli attuali tassi IBORs sono tassi medi ai       I tassi IBOR sono usati dai vari operatori
+ quali alcune banche possono teoricamente         finanziari per una vasta gamma di prodotti.
+ contrarre prestiti sul mercato; i tassi
+ includono uno spread che riflette il rischio di
+ credito insito nell’attività di short term money
+ lending tra le principali banche.
+                                                                                              <U+25BA>  Il LIBOR (USD) e l’EURIBOR.
+                                                                                                 Rappresentano circa l’80% (>$370TN) di
+                                                                      Prodotti
+       EURIBOR (Euro Interbank Offered                                                           tutte le esposizioni di mercato indicizzate ai
+       Rate):                                                                                    tassi IBOR.
+       Tasso offerto nel mercato interbancario                                                <U+25BA>  Derivati (derivati OTC e ETDs). I derivati
+       dell’area Euro                                                                            OTC e gli ETD costituiscono più dell’80%
+                                                                                                 (>$300TN) dei prodotti indicizzati ai tassi
+                                                                                                 IBOR.
+                                                                                              <U+25BA>  Prestiti Erogati. Il 97% dei $3,4TN di
+       LIBOR (London Interbank Offered
+       Rate):                                                                                    finanziamenti erogati nel mercato
+       Tasso offerto nel mercato interbancario                                                   statunitense è indicizzato al tasso LIBOR
+       inglese sulle principali divise                                                           (USD). In Europa, il 90% dei $535BN dei
+                                                                                                 finanziamenti è indicizzato all’EURIBOR.
+                                                                                              <U+25BA>  Obbligazioni a tasso variabile. L’84% dei
+                                                                                                 $1,5TN di obbligazioni a tasso variabile
+        TIBOR (Tokyo Interbank Offered                                                           emesse nel mercato statunitense è
+        Rate): Tasso offerto nel mercato                                                         indicizzato al tasso LIBOR (USD). Il 70%
+                                                                        Attori
+        interbancario giapponese                                                                 dei $2,6TN di obbligazioni a tasso variabile
+                                                                                                 emesse nel mercato europeo è indicizzato
+                                                                                                 all’EURIBOR.
+                                                                                              <U+25BA>  Durata. Il tasso a 3 mesi, in termini di
+        …..
+                                                                                                 volumi, è quello maggiormente impiegato
+                                                                                                 per tutte le valute (seguito dal tasso a 6
+                                                                                                 mesi).
+Pag. 6
+
+    La Riforma dell’IBOR                                                                                                               I Paesi dell’UE risultano in ritardo
+                                                                                                                                         nelle attività propedeutiche alle
+                                                                                                                                       transizione ai nuovi tassi risk free
+    Roadmap                                                                                                                                           (EU BMR)
+                                                                                                             Nov 2017
+                                                                                                             Agreement for panels to
+                                                                                                             support to LIBOR until 2021
+                                                                    June 2016                                                                              Jan 2020
+                                                                                                                                                           End of EU Benchmark
+June 2012                           Jul 2014                        The European Benchmarks                                      April 2018                Regulation transitional
+                                                                    Regulation was published in                                                            provisions. Deadline for
+First FCA fine                      FSB OSSG report                 the Official Journal                                         SOFR and Reformed
+issued for                          on reforming                                                            Sep 2017             SONIA start to be         EONIA/EURIBOR
+                                    interest rate                                                          EU RFR Working        published                 transition
+manipulating
+                                    benchmarks                                                             group established
+LIBOR
+                                                                                                                                             Dec 2018
+                                                        May 2015                            June 2017                                        FCA deadline for UK
+                                                        US creates adoption                SOFR selected as                                  banks of plans to
+                                                        plan                               preferred USD                                     mitigate risk
+                                                                                           alternative RFR
+        2012/13                          2014/15                                                   2016/17                                   2018/19                     2020/21
+    Sep 2012                  Mar 2014                                                                     Jul 2017 Dec 2017
+       Wheatley’s                                                                                          FCA speech SONIA
+                              MPG report on
+                                                                                                           on future of Futures
+ review of LIBOR              reforming interest
+                                                                                                           LIBOR          launched
+                                                                                                                                                                         End 2021
+                              rate benchmarks                                                                                                                            Deadline for
+                                                                                                                                          May 2018                       LIBOR transition
+                  Jul 2013                                                                                                                SOFR
+IOSCO principles forfinancial
+                                                                                      Apr 2017                                            Futures
+                                                                                                                                                            October 2018
+        benchmarks published                                                                                                              launch
+                                     Nov 2014                                         Reformed SONIA                      Feb 2018                          ISDA Consultation
+                                                                                      selected as                         EUR RFR WG                        fall-back language
+                            FRB convened the                                          GBP preferred                       first meeting                     derivatives
+                            ARRC                                                      alternative RFR
+                                                  Mar 2015
+                                                  The GBP RFR Working Group                                                                        September 2018
+                                                  was established                                                                                  EUR RFR WG
+                                                                                                                                                   recommends ESTER
+    Pag. 7
+
+La Riforma dell’IBOR
+Inquadramento della riforma e processo di transizione
+           Jurisdiction
+                                                                                      EURIBOR,                                   JPY LIBOR, JPY TIBOR,
+           IBOR                GBP LIBOR                  USD LIBOR                                         CHF LIBOR
+                                                                                      EUR LIBOR                                      EUROYEN TIBOR
+           Rate              Bank of England            Federal Reserve                   ECB           SIX Swiss Exchange              Bank of Japan
+           administrator                               Bank of New York
+                            Working Group on                                                            The National Working
+                                                     Alternative Reference        EUR RFR Working                                   Study Group on Risk-
+           Working          Sterling Risk-Free                                                          Group on Swiss franc
+                                                        Rates Committee                 Group                                      Free Reference Rates
+           group             Reference Rates                                                               Reference Rate
+                            Reformed Sterling          Secured overnight        Euro Short Term Rate     Swiss average rate            Tokyo overnight
+           Alternative        overnight index                                                                                           average rate
+           RFR                                      financing rate (SOFR)             (ESTER)1           overnight (SARON)
+                             average (SONIA)                                                                                              (TONAR)
+                         o Unsecured               o Secured                   o Unsecured            o Secured                o  Unsecured, transaction-
+                         o Fully transaction-      o Fully transaction-        o Based on transaction o Became the reference      based benchmark for the
+                           based                      based                      over 1 million euro    interbank overnight       robust uncollateralized
+                         o Encompasses a robust    o Encompasses a robust        conducted with         repo on August 25,        overnight call rate market
+                           underlying market          underlying market          financial              2009                   o  The Bank of Japan
+                         o Overnight, nearly risk- o Overnight, nearly risk-     counterparties       o Secured rate that         calculates and publishes
+           Description     free reference rate        free reference rate that   reported by banks in   reflects interest paid    the rate on a daily basis
+                         o Includes a volume-         correlates closely with    the ECB’s MMSR         on interbank overnight    using information provided
+                           weighted trimmed           other money market       o Includes a volume-     repo                      by money market brokers
+                           mean                       rates                      weighted trimmed                                 known as Tanshi
+                         o Includes a volume-      o Covers multiple repo        mean                                          o As an average, weighted
+                           weighted trimmed           market segments,                                                            by the volume of
+                           mean                       allowing for future                                                         transactions corresponding
+                                                      market evolution                                                            to the rate
+                               Yes, daily at          Yes daily at 8:30am                  No            Yes, three times a           Yes, final results
+           Published?         9am(GMT/BST)                 (EST/EDT)               (Start in October     day (12:00, 16:00,        published 10:00 (JST)
+                                                                                         2019)           18:00 CET/CEST)
+           Transition                                                                     Only
+           Plan                     Yes                        Yes                                                No                          No
+           published                                                              Preparation phase
+ 1 https://www.ecb.europa.eu/press/pr/date/2018/html/ecb.pr180913.en.html
+Pag. 8
+
+La Riforma dell’IBOR
+EONIA ed EURIBOR Timeline
+                                              2018                                         2019                                      2020                            2021
+                               A                                                                                       B                                                              C
+                                                           Transition Period (2 anni)                                         Art.21 Potenziale Amm. Obbligatoria (12m+12m)            1
+                                   A Gen 2018                                                                   B Gen 2020                                       C Fine 2021
+                                  BMR entra in vigore                                                           Deadline EONIA                                Ipotetica deadline IBOR
+                                                   D      E                  F G       H               I
+                                                          WG EURO RFR
+                                                                                                         2
+                                   D Lug 2018              E Sett 2018                F Feb 2019                 G Mar 2019               H Mag 2019                  I Ott 2019
+   WG EURO RFR                     Pubblicazione       WG raccomanda ESTER          Fine Consultazione           Determinazione           Fine Consultazione       Inizio Pubblicazione
+                                Metodologia ESTER        come sostituto EONIA             term RFR               Fallback EONIA          new/legacy contracts             ESTER
+                                                              L M                                                  N
+                                                                                                                         3
+                                                      L Ott 2018                       M Nov 2018                                 N     Dic 2019
+                                                   Workshop EURIBOR                     Fine consultazione                  Implementazione Metodologia
+                                          2° Cons. Metodologia Ibrida EURIBOR                EURIBOR.                               Ibrida EURIBOR
+                                                                     O                                            P
+                                         1° Consult. Fb Approach                                Consult. Fb EURIBOR
+                                                                               Implementazione Fallback
+                                                                                                                      4
+                                                    O Dic 2018                                             P Dic 2019
+                                                   Esito Consultazione                                   Esito Consultazione
+                                                   Fallback Approach                                       Fallback Euribor
+                                                                                                Fino a Ottobre 2019 esisterà solo il pre-ESTER. Questo genera incertezza sulle
+     Nell’incontro del 18 Ottobre il WG ha richiesto un’estensione del periodo di
+                                                                                                analisi effettuate dal WG, sulla liquidità del mercato attesa e sulla definizione di
+               transizione per EONIA/EURIBOR fino al 1 Gennaio 2022.
+                                                                                               strumenti derivati su ESTER (overnight), necessari per la definizione di una term
+                  (wavier period max 2 anni). (Gen 2020 -> Gen 2022)
+                                                                                         1                           structure* qualora venga meno l’EURIBOR.                          2
+                                                                                               L’esito della prima consultazione, sulle soluzioni di fallback da applicare ai legacy
+      L’incertezza sull’effettiva approvazione della Metodologia Ibrida proposta
+                                                                                                  contracts** per i soli derivati, non comprende EURIBOR, EUR LIBOR e USD
+ dall’EMMI amplifica l’incertezza su quali tassi applicare sui nuovi contratti a partire
+                                                                                               LIBOR. Dopo la pubblicazione ufficiale dell’ESTER a Ottobre 2019 è prevista una
+           dal 1/1/2020. (Euribor -> Euribor Ibrido; o Euribor -> ESTER+adj)
+                                                                                         3                                     seconda consultazione.                                  4
+ *WG – https://www.ecb.europa.eu/paym/initiatives/interest_rate_benchmarks/WG_euro_risk-free_rates/shared/pdf/20180913/Item_3_High_level_implementation_plan.pdf
+ **Non necessario se Euribor Ibrido consistente con l’Euribor attuale
+Pag. 9
+
+La Riforma dell’IBOR
+Prossimi passi EONIA ed EURIBOR
+ <U+25BA> 30 Novembre 2018: termine ultimo per rispondere alla seconda consultazione pubblica sulla metodologia ibrida per
+   l’EURIBOR, pubblicata il 17 ottobre 2018 da EMMI, la quale presenta una sintesi delle conclusioni della fase di test
+   dell’«HYBRID EURIBOR» effettuata da maggio a luglio 2018 e propone diverse parametrizzazioni.
+ <U+25BA> 3 Dicembre 2018: cessazione dei tenor EURIBOR a 2 settimane, 2 mesi e 9 mesi a causa dei loro bassi livelli di
+   attività nel mercato, come mostrato nell'esercizio di verifica pre-live svolto da settembre 2016 a febbraio 2017
+   dall'EMMI; di conseguenza, dal 3 dicembre 2018, il benchmark EURIBOR sarà calcolato e pubblicato per le seguenti
+   scadenze: 1 settimana, 1 mese, 3 mesi, 6 mesi e 12 mesi. Inoltre, alla stessa data cesserà la pubblicazione da parte
+   di EMMI di tutti gli EURIBOR con le convenzioni 30/360 e Act/365.
+ <U+25BA> 19 Dicembre 2018 e 27 Febbraio 2019: date prossimi incontri del Gruppo di Lavoro dell'ECB.
+ <U+25BA> Inizio 2019: l'EMMI pubblicherà un riassunto dei feedback ricevuti per la seconda consultazione pubblica sulla
+   metodologia ibrida per l’EURIBOR ed una visione completa del progetto transitivo, includendo una timeline concreta
+   e le fasi successive.
+ <U+25BA> Entro 2Q 2019: si attende che EMMI chieda l'autorizzazione alla Financial Services and Markets Authority (FSMA)
+   per la nuova metodologia.
+ <U+25BA> Ottobre 2019: inizio contribuzione e pubblicazione nuovo tasso ESTER secondo metodologia pubblicata.
+ <U+25BA> Entro fine 2019: EMMI guiderà le banche panel nel passaggio dall'attuale metodologia di calcolo dell’EURIBOR a
+   quella di tipo ibrido.
+Pag. 10
+
+La Riforma dell’IBOR
+Scenari di Transizione di EONIA ed EURIBOR
+  L’ECB il 9 Novembre ha organizzato la "Roundtable on euro risk-free rates“, dove sono stati illustrati tutti i progressi
+  effettuati dal Working Group sui vari ambiti in cui erano stati coinvolti. Sulla base di quanto emerso in tale sede,
+  abbiamo ipotizzato i seguenti tre scenari principali e le relative implicazioni.
+                                               RITARDO        SOPRAVVIVENZA   SOPRAVVIVENZA           CONTRATTI                  NUOVI
+                       DESCRIZIONE
+                                                  BMR             EONIA           EURIBOR              ESISTENTI               CONTRATTI
+                    Delay BMR 2y:                                                                                Fino al 1/1/2022
+   White                EONIA ed                                                                       nessun cambiamento per EONIA
+ Scenario        EURIBOR pubblicati                                                                          Adozione EURIBOR HY
+                      fino al 1/1/22                                                                          Non Attivati FallBack
+                                                                                                   Attivati FallBack
+                   No Delay BMR ed                                                                EONIA (ESTER)                 ESTER
+    Grey              EURIBOR HY                                                                (Except BMR Art 51-4)
+ Scenario                Compliant
+                                                                                                Non Attivati Fallback        EURIBOR HY/
+                      (da 1/1/2020)                                                                 EURIBOR HY               ESTER Based
+                                                                BMR Art 51-4
+                                                                                                    Attivati FallBack
+                   No Delay BMR ed                                                                 EONIA (ESTER)                 ESTER
+    Dark          EURIBOR HY Non                                                                 (Except BMR Art 51-4)
+ Scenario                compliant
+                                                                                                    Attivati FallBack         ESTER Based
+                      (da 1/1/2020)                                                               EURIBOR (ESTER)
+                                                                BMR Art 51-4   BMR Art 51-4      (Except BMR Art 51-4)
+Qualora FSMA autorizzi l’utilizzo dell’indice di riferimento, benché non compliant, per cause di forza maggiore (applicazione dell’Art.
+51-4 della BMR), sui Legacy Contract le clausole di FallBack non sarebbero attivate (limitatamente alla durata dell’eccezionalità).
+Pag. 11
+
+La Riforma dell’IBOR
+Gli impatti della riforma: Punti di attenzione
+      Sensibilizzazione dei clienti, modifica
+1     contrattualistica e rinegoziazione dei contratti    6  Incertezza sulla roadmap delle scelte dei
+                                                             Regolatori e sulla loro adozione sul mercato
+2     Elevati Rischi di Condotta, Legali e Reputazionali
+                                                          7  Cambiamenti in ambito «Operation» e
+                                                             «Technology»
+3     Creazione e liquidità del mercato dei derivati sui
+      nuovi RFR                                           8  Impatti sulla valutazione degli strumenti, sui
+                                                             modelli utilizzati e sulla gestione dei Rischi
+      I Nuovi RFR sono tassi O/N senza una struttura a
+4     termine                                             9  Considerazioni di carattere Contabile
+      Differenza sulla costruzione e sulle tempistiche di
+5     adozione dei nuovi RFR nelle diverse
+      giurisdizioni
+                                                          10 IBOR originali potrebbero sopravvivere a lungo
+Pag. 12
+
+La Riforma dell’IBOR
+Gli impatti della riforma: Principali aree di impatto
+                                               AREE IMPATTATE e ATTIVITA’
+                         Analisi, Strategie e piano di attività specifico per Divisione, Prodotto, Cluster di Clienti
+           Business      (ad es. Transition Timeline; Review dei prodotti).
+                         Education su review IBOR, Analisi/Sviluppi Sistemi Impattati e Framework dei Controlli
+           Operation     Interni (ad es. Ref. Data Management; Collateral Management; CCP discounting).
+          Treasury and
+                                                                                                                                                      Model Development & Validation
+                         Analisi/strategie posizioni in essere; definizione/attuazione Piano/Strategie con new
+                                                                                                                        Technology & Infrastructure
+            Finance      RFR (ad es. review FTP, piano ALM, transition timeline).
+                                                                                                                                                                                       Compliance & Disclosure
+                         Sensibilizzazione della clientela e revisione dei contratti (ad es. revisione informativa,
+             Legal       agreement bilaterali, clausole di fallback).
+             Risk        Analisi/Revisione modelli di pricing e di rischio (ad es. VaR, stress test, sviluppo term
+          Management     structure RFR, strategie di hedging, basis risk).
+                         Definizione piano di coinvolgimento aree impattate. Individuazione stearing committee
+          Governance     e workstream leaders. Definizione piano degli interventi a supporto della transizione
+                         IBOR.
+                         Analisi/piano di intervento su reporting e strategie di balance sheet management
+          Accounting     (ad es. valutazione Fair Value, hedge accounting).
+                         Analisi su possibili trattamenti fiscali e variazioni dettate da modifiche del Fair Value
+              Tax        (ad es. anticipazione pagamenti, metodologia hedge accounting).
+Pag. 13
+
+La Riforma dell’IBOR
+Gli impatti della riforma: Short term activities
+                                                                                                                                                PEER   INDUSTRY
+                                                           AREE IMPATTATE e ATTIVITA’                                                         FOCUS    PROGRESS
+                <U+25BA> Nominare il referente (executive) della transizione IBOR e stabilire un programma di governance                                 M
+     Program    <U+25BA> Definire il piano delle attività e la frequenza degli incontri, definire ruoli e responsabilità
+   governance   <U+25BA> Avviare un programma si sensibilizzazione ed informazione degli utenti interni                                              L      H
+                <U+25BA> Stimare i costi ed ottenere l’approvazione del budget
+                <U+25BA> Quantificare l’ammontare di prodotti e strumenti finanziari correlati agli IBOR                                                 M
+                <U+25BA> Compilare elenco degli attributi per ogni IBOR (es. ammontare, maturity)
+ IBOR exposure  <U+25BA> Predisporre l’analisi delle esposizioni per tipologia di IBOR e linea di business                                           L      H
+                <U+25BA> Implementare procedure per segnalare/monitorare l’esposizione agli IBOR durante la transizione
+                <U+25BA> Inventario dei prodotti e degli strumenti finanziari legati agli IBOR                                                           M
+   IBOR-linked  <U+25BA> Valutare le implicazioni per ogni prodotto e prioritizzare l’inventario dei contratti
+    contracts   <U+25BA> Confermare le caratteristiche chiave dei contratti e definire un approccio di analisi a campione                            L      H
+                <U+25BA> Estrarre e riassumere le caratteristiche principali dei contratti
+                <U+25BA> Definire i criteri di valutazione dei processi IBOR                                                                             M
+  IBOR process  <U+25BA> Determinare le implicazione sulle core business line e sui processi a livello aziendale
+      master    <U+25BA> Identificare dipendenze operative tra i diversi sistemi/processi (es. proprietary vs. vendor system)                        L      H
+                <U+25BA> Business case e relativi impatti, delineare la stima dei costi e delle risorse, l’impatto finanziario e sul bilancio
+                                                                                                                                                  M
+     Fallback   <U+25BA> Valutare I fallback per tipo di prodotto e contratto
+                <U+25BA> Determinare le modifiche necessarie ai contratti e le comunicazioni ai clienti
+                                                                                                                                              L      H
+    provisions  <U+25BA> Definire fallback per legacy e new contracts
+                                                                                                                                                  M
+ Implementation <U+25BA> Determinare le strutture business ed IT necessarie e le modifiche sui processi
+                <U+25BA> Prioritizzare gli interventi necessari e gli schemi progettuali
+                                                                                                                                              L      H
+     roadmap    <U+25BA> Sviluppare una roadmap delle implementazioni che delinei i progetti chiave, le milestones e gli owners delle attività
+                                                                                                                                                  M
+ Communication  <U+25BA> Definire la strategie e l’approccio per la comunicazione con gli utenti esterni
+     strategy   <U+25BA> Predisporre materiale informativo a supporto degli incontri con I clienti                                                   L      H
+                                                                                                                                                  M
+                <U+25BA> Implementare processi a supporto della commercializzazione dei prodotti basati sui nuovi RFR
+  New products  <U+25BA> Identificare o sviluppare le informazioni da fornire ai clienti sui nuovi contratti basati su IBOR, evidenziando il rischio
+                                                                                                                                              L      H
+                  di estinzione dell'IBOR cui si fa riferimento
+Pag. 14
+
+La Riforma dell’IBOR
+Gli impatti della riforma: Struttura di Governance
+  La chiave per una transizione efficace sarà una solida struttura di governance che supervisioni il disegno e
+  l’implementazione degli effort della transizione IBOR. La governance dovrebbe essere sotto la responsabilità del CdA e
+  di norma è guidata dalla Tesoreria o in capo all’Head of Markets.
+                                                IBOR transition — operating model                                                       Key considerations
+                                                   IBOR program steering committee                                     <U+25BA> L’ufficio «transizione IBOR» sarà responsabile
+Governance
+                                                                                                                         del coordinamento di tutte le attività relative alla
+                                 CFO/treasurer (co-chair)                     IBOR program executive (co-chair)
+                                                                                                                         transizione IBOR con gli attorni coinvolti sia
+                               Core business line executives                 Enterprise-wide function executives         interni sia esterni.
+                                                           Support function executives                                 <U+25BA> L’ufficio «transizione IBOR» dovrebbe (minimo
+                                                                                                                         requisito) avere una profonda conoscenza del
+                                                            IBOR transition office                                       business e delle funzioni dell’azienda, esperienza
+Organization
+                                                                                                                         in prodotti e contratti IBOR-based e forti skills di
+                                                           IBOR program management                                       program change management
+                                                              IBOR program leads
+                                                                                                                       <U+25BA> L’ufficio «transizione IBOR» dovrebbe fornire una
+                             Core business lines              Enterprise functions             Support functions         strategia centralizzata, la direzione e la
+                                                                                                                         supervisione, mentre gli sponsor delle aree di
+                                                            IBOR working group                                           business e funzionali dovrebbero essere gli
+                                                                                                                         owner e guidare le l’esecuzione degli stream di
+                                                                  Functional areas                                       progetto
+Coordination
+                               Front    Legal       Risk     Finance and Treasury        Tax   Operations Technology   <U+25BA> La dimensione attesa della struttura del
+                               office                         accounting
+                                                                                                                         programma varierà nel tempo; lo staffing iniziale
+                                                                  Investment banking                                     potrebbe variare da 5–9 risorse, con molte più
+               Workstreams
+                                                                                                                         risorse a tempo pieno nella fase cruciale, dato
+                                                                    Global markets
+                                                                                                                         che il programma può raggiungere una
+                                                       Private Bank and Wealth management                                dimensione paragonabile a quella di altri
+                                                                                                                         programmi di grandi dimensioni
+                                                                      Treasury
+Pag. 15
+
+La Riforma dell’IBOR
+Gli impatti della riforma: Communication plan
+ Le imprese dovrebbero sviluppare una strategia di comunicazione aziendale tra le parti interessate interne ed esterne
+ per garantire una comunicazione coerente tra i vari gruppi, compresi gli investitori, i Regulator, i clienti retail e
+ corporate, le associazioni di categoria, le agenzie di rating, il CdA, il comitato operativo e l'ALCO (Asset-Liability
+ Committee).
+                                                             Communication plan
+      Interna                                                            Esterna
+      1. Generare consapevolezza sulla transizione IBOR,                 1. Creare una strategia di comunicazione su misura per
+         compresi ownership, rischi chiave, issues ed                       ogni segmento di clientela
+         assunzioni, tramite:                                            2. Determinare gli owner del raggiungimento di ogni
+         • Materiale sul sito interno/resource platform                     segmento di clientela (ad es. relationship managers
+         • Webcasts                                                         per i clienti corporate, financial advisors per i clienti
+         • Formazione in-person ed electronic                               private banking ed i clienti del wealth management)
+      2. Condividere la posizioni dell’azienda sulle tematiche           3. Rivedere le strategie per i clienti che appartengono a
+         principali                                                         più categorie
+      3. Sviluppare infrastrutture per supportare la                     4. Centralizzare il materiale informativo in appositi
+         comunicazione attraverso incontri con trade                        repository (ad es. documentazione a supporto per la
+         associations ed industry working groups                            vendita dei prodotti, FAQs)
+      4. Monitorare tutte le pubblicazioni e le conferenze legate        5. Coordinarsi con il gruppo di lavoro dell’industry, per la
+         all’IBOR                                                           comunicazione e la sensibilizzazione dei clienti, sui
+      5. Sviluppare un meccanismo di reporting strutturato per              messaggi più adatti alla comunicazione collettiva
+         l’aggiornamento e la sensibilizzazione dei senior               6. Comunicazione ai Regulators sui progressi della
+         management di riferimento                                          transizione e le attività nel mercato inclusi:
+      6. Impostare incontri periodici dei gruppi interni per                • Struttura di governance interna
+         fornire aggiornamento sulle principali tematiche                   • Piano di azione interno per funzioni
+                                                                               aziendali/prodotti
+                                                                            • Supporto al Mercato dei nuovi RFR
+                                                                            • Partecipazione ai gruppi di lavoro esterni
+Pag. 16
+
+La Riforma dell’IBOR
+Gli impatti della riforma: Overview of industry mobilisation
+ Il mercato globale sta adottando misure per indirizzare un transizione agevole dagli IBOR ai nuovi tassi risk free. EY ha
+ un ruolo leader nel supportare la transizione ed aiutare i partecipanti al mercato ad incrementare la loro preparazione
+ sul tema.
+                              • Un’adozione con successo degli alternative RFR dovrebbe essere raggiunta con uno sforzo pluriennale e
+     Industry-wide              con un’attenzione significativa da parte di Regulators, trade associations e tutti i settori del mercato.
+    alternative RFR           • L’industry sta adottando misure significative per adottare il piano di transizione pubblicato dai WG dei
+        adoption                RFR, aumentando attivamente le negoziazioni per sviluppare un’adeguata liquidità nei prodotti indicizzati
+                                ai nuovi RFR.
+                              • Date le notevoli preoccupazioni riguardo l’esposizione agli IBOR, i partecipanti al mercato stanno
+                                attivando più rapidamente i piani di transizione, con mandati chiari, risorse dedicate ed una struttura di
+        Program                 governance ben definita per supervisionare le attività di transizione.
+      mobilization            • I soggetti coinvolti hanno sviluppato remediation plans interni per far fronte al rischio di una permanente
+                                interruzione della fornitura degli IBOR alla fine del 2021. Sono inoltre fortemente orientati a definire le
+                                strategie di comunicazione interna ed esterna.
+                              • Si utilizzano sempre più spesso valutazioni d'impatto complete a livello aziendale per valutare l’impatto
+                                della transizione su prodotti, contratti, processi, business, modelli finanziari, modelli dati e Sistemi IT
+     Assess overall             relativi agli IBOR, con l’obiettivo di quantificare l’impatto economico della transizione sotto differenti
+    IBOR exposure               scenari e condizioni di mercato.
+                              • Gli impact assessment saranno utilizzati per predisporre la documentazione necessaria alle richieste dei
+                                Regulator sui progressi ed il livello di preparazione alla transizione.
+                              • EY sta svolgendo un ruolo guida nel sostenere i Regolatori globali e coordinare gli sforzi delle associazioni
+                                di categoria del settore per aumentare la consapevolezza e la formazione dei clienti, sottolineando
+       Our robust               l'importanza dell'impegno e della mobilitazione di ogni singolo partecipante.
+       capabilities           • EY sta inoltre sostenendo diversi partecipanti al mercato nella definizione di programmi solidi e nella
+                                realizzazione di valutazioni d'impatto complete, supportate da strumenti dinamici per preparare
+                                adeguatamente la transizione verso RFR alternativi.
+Pag. 17
+
+IBOR Impact Assessment
+IBOR Impact Assessment
+Definizione attività
+ L’assessment di impatto di EY è sopportato da solidi accelerator e criteri di business predefiniti per identificare
+ l’esposizione collegata gli IBOR relativa a prodotti, contratti, processi e modelli.
+IBOR transition program
+    1     Project mobilization and scoping                                                                                                                                                                             Deliverables
+                                                                                                                                                                                                                     •  Piano di Progetto
+                                                                                                                                                                                                                     •  Governance di progetto
+                                                                                                                                                                                                                     •  Ambiti e scopi degli Impact
+        Confermare gli ambiti              Identificare gli                Revisione della                Stabilire le ipotesi operative            Rivedere, confermare e                Stabilire la governance       Assessment
+     interessati dall’assessment           attori coinvolti            documentazione interna                      di progetto                     condividere il project plan                   di progetto         •  Assunti chiavi dell’assessment
+    2     Impact assessment                                                                                                                                                     Accelerators                           Deliverables
+                                 Obbiettivo: Valutare l’impatto della transizione                   •    Costruire l’inventario dei prodotti                                  •  Esposizioni In bilancio: Sistemi di •   IBOR product master, che
+                                 IBOR su prodotti e strumenti finanziari sulla base                 •    Extract IBOR data attributes1                                           Tesoreria                               include l’inventario dei prodotti
+                                 di esposizione, maturity e caratteristiche del                     •    Valutazione dell‘impatto per prodotto                                •  Esposizioni fuori bilancio: Sistemi     e delle linee di business
+       Product                   prodotto                                                           •    Validare l’assessment con le core business lines                        di Risk                                 impattati dall’IBOR
+                                 Obbiettivo: Valutare l’impatto della transizione                  •    Prioritizzare l’inventario dei contratti sulla base                                                          •   IBOR contract master, che
+                                 IBOR sui contratti legali per determinare                              della valutazione dei prodotti                                                                                   include l’inventario dei
+                                                                                                   •    Confermare l’approccio di campionamento                               •  EY tool per digitalizzazione
+                                 l’eventuale necessità di modificare il tasso di base                                                                                                                                    contratti su IBOR sia per linee
+                                                                                                   •    Confermare le caratteristiche chiave del contratto                       dei contratti (OCR + ML)                di Businees che per
+                                 ed il fallback, effettuare eventuali re-pricing,                  •    Estrarre le caratteristiche su un DB strutturato                                                                 prrodotti/strumenti
+       Contract                  riscrivere il contratto e raggiungere i clienti                   •    Eseguire le analisi
+                                 Obbiettivo: Valutare l’impatto della transizione                  •   Sfruttare il catalogo dei processi esistenti + catalogo
+                                                                                                                                                                              •  Catalogo dei processi               •  IBOR process master, che
+                                 IBOR sulle linee di core business ed i processi                       processi
+                                                                                                                                                                                                                        include l’elenco dei processi
+                                                                                                   •   Convalidare i criteri dell’assessment                                     interni
+                                 aziendali; sfruttare i processi esistenti ed i criteri                                                                                       •                                         impattati e l’effort richiesto
+                                                                                                   •   Determinare l’impatto                                                     Catalogo processi
+                                 emersi dall’impact assessment                                     •
+   Business process                                                                                    Risultati principali e impatti
+                                 Obbiettivo: Valutare l’impatto della transizione                  •   Sfruttare gli inventari di primo e secondo livello per
+                                 IBOR a livello qualitativo/quantitativo sui modelli                   confermare i modelli in scope                                         •   Inventario dei modelli di primo e/o •  IBOR model master, che
+                                                                                                   •   Rivedere i criteri di valutazione per determinare le                      secondo livello
+                                 interni; sfruttare gli inventari esistenti di primo e/o                                                                                                                                include l’inventario dei modelli
+                                                                                                       classificazioni rilevanti                                             •   Criteri dell’impact assessment di      impattati e la loro materialità
+                                 secondo livello ed i criteri emersi dall’impact                   •   Rivedere l’inventario sulla base dei criteri ed ottenere                  ed inventario dei modelli impattati
+   Model                         assessment                                                            l’approvazione dell’owner del modello
+    3     IBOR transition program governance and organization                                                                                                                                                          Deliverables
+                                                                                                                                                                                                                     •  IBOR assessment
+                                                                                                                                                                                                                        executive summary
+             Termini di                            Raccomandazioni per la                  Stima risorse e costi fino                                                                 Impact assessment, rischi      •  Programma di governance e
+                                                                                                                                            IBOR business case                                                          struttura di progetto
+       riferimento/mandato                         gestione del programma                           al 2021                                                                               e punti di attenzione
+  1Example:   product type, exposure, limit, maturity date, currency, base rate, spread, repricing tenor, optionality (prepayment), linked transactions (hedges), etc.
+Pag. 19
+
+              IBOR Impact Assessment
+              HP Progettuale: Fasi
+               Di seguito viene illustrato l’approccio delineato per condurre una valutazione d'impatto, sviluppare una tabella di marcia
+               e progettare una governance del progetto volto ad affrontare le sfide della transizione degli IBOR. L’attività di PMO sarà
+               trasversale a tutte le fasi.
+                              Project                                  Impact                                 Roadmap                                    Program
+                            mobilization                             assessment                              development                                  setup
+                   <U+25BA>    Facilitare sessioni con le          <U+25BA>   Finalizzare ile valutazione         <U+25BA>   Determinare le modifiche             <U+25BA>   Definire lo scopo e gli obiettivi
+                        principali aree interessate per         d'impatto, compresi i criteri, la       infrastrutturali e di processo           del Progetto.
+                        fornire informazioni di base            portata e le ipotesi chiave             necessarie per sostenere             <U+25BA>   Stabilire il comitato direttivo del
+                        sulla transizione IBOR.                 (inventario prodotti e contratti,       l'adozione di RFR alternativi.           programma e gli stream di
+                   <U+25BA>    Identificare le parti interessate       esposizioni, ecc.).                 <U+25BA>   Prioritizzare i miglioramenti e          lavoro.
+                        in tutte le aree funzionali per     <U+25BA>   Condurre interviste per valutare        definire i passi successivi          <U+25BA>   Costruire una mappa della
+                        partecipare alla valutazione            e documentare le implicazioni           chiave per mobilitare gli sforzi         Governance e confermare ruoli
+                        d'impatto.                              della transizione per le diverse        di implementazione.                      e responsabilità.
+ATTIVITÀ
+                   <U+25BA>    Rivedere la documentazione              aree di interesse.                  <U+25BA>   sviluppare una tabella di marcia     <U+25BA>   Sviluppare un piano di risorse e
+                        interna pertinente (ad esempio,     <U+25BA>   Valutare le potenziali                  di attuazione ad alto livello, che       di budget per una serie
+                        l'analisi fatta fino ad oggi)           dipendenze funzionali tra le            delinea i progetti e i tempi di          prioritaria di progetti basati sulla
+                        relativa alla transizione IBOR.         iniziative «in corso» che               adozione.                                tabella di marcia costruita.
+                   <U+25BA>    Definire e richiedere le                possono avere un impatto sulla      <U+25BA>   Revisionare la tabella di marcia     <U+25BA>   Definire e comunicare
+                        informazioni nelle aree                 transizione verso RFR                   periodicamente con le principali         l’avanzamento del progetto in
+                        individuate per la valutazione          alternativi.                            parti interessate.                       corso (segnalazione dello stato,
+                        d’impatto.                          <U+25BA>   Condurre workshop con le                                                         aumento del rischio, ecc.)..
+                                                                principali parti interessate per
+                                                                esaminare e finalizzare i
+                                                                risultati della valutazione.
+                                                                Framework dell’ Impact
+DELIVERABLE
+                   <U+25BA>    Materiali per i Workshop            <U+25BA>                                       <U+25BA>   Piano delle attività delle           <U+25BA>   Piano di gestione del progetto,
+                   <U+25BA>    Resoconto di alto livello delle         assessment                              implementazioni                          che include: governance,
+                        attività svolte                     <U+25BA>   Documentazione riassuntiva          <U+25BA>   Prioritizzazione delle                   risorse, budget richiesti e piano
+                                                                dell’Impact assessment                  implementazioni previste                 delle attività ad alto livello.
+                                                                (Financial, Contract, System &
+                                                                Process and Model Dashboard)
+              Pag. 20
+
+IBOR Impact Assessment
+HP Progettuale: Timeline
+                                                                                   Week
+                                                    1   2  3      4   5 6    7     8  9   10     11 12   13   14 15 16
+     Project        Sensibilizzazione cliente,
+   Mobilization     raccolta necessità
+                    Raccolta Documentazione
+                    e Dati
+                    Financial Impact
+  IBOR Impact
+  Assessment        Contract Impact
+                    Modeling Impact
+                    Systems & Processes Impact
+     Roadmap        Piano delle attività
+   Development
+                    Prioritizzazione degli
+                    interventi
+ Program Setup      Piano di gestione del
+                    progetto, Governance,
+                    Budget
+          Attività
+                                               Kick-Off   Definizione    Financial    Contract &     System
+         Estensione                                        Modello      Dashboard      Modeling     Dashboard
+                                                            target                    Dashboard
+Pag. 21
+
+IBOR Impact Assessment
+Product Dashboard
+ Per valutare l’esposizione finanziaria dell’azienda agli IBOR, EY ha sviluppato un tool di reporting dinamico in grado di
+ produrre viste dell’esposizione sui prodotti legati agli IBOR per ogni linea di business (LOB), legal entity e currency.
+                                                                                                 Overview of functionality
+                                                                     A
+                                                                                              A  Line of business and legal
+                                                                                                 entity: The dashboard can be
+                                                                                                 filtered to view exposure
+                                                                                                 details for a specific LoB or
+                                                                                    B            legal entity. There are also
+                                                                                                 drilldown dashboards for each
+                                                                                                 LoB to view more granular
+                                                                                                 exposure data
+                                                                                              B  Product hierarchy: IBOR
+                                                                                                 exposure is also reported
+                                                                                                 across each product within the
+                                                                                                 product hierarchy. The tool
+                                                                                                 allows you to drill down into the
+                                                                                                 L1 products to view more
+                                                                                                 granular details
+                                       C                                  D                   C  Rate indices: The dashboard
+                                                                                                 provides a view of exposure
+                                                                                                 across each rate index and
+                                                                                                 tenor. This table can be filtered
+                                                                                                 by product or LoB as needed
+                                                                                              D  Contractual maturity: The
+                                                                                                 percentage of IBOR exposure
+                                                                                                 expected to roll off prior to
+                                                                                                 end-2021 can be viewed
+Pag. 22
+
+IBOR Impact Assessment
+Contract Dashboard
+ La dashboard sfrutta anche le metriche chiave per evidenziare l’effort richiesto per affrontare i cambiamenti contrattuali.
+Pag. 23
+
+IBOR Impact Assessment
+Model Dashboard
+  Il Modeling è un area di alto impatto che dovrebbe essere considerata ed utilizzata per guidare il lavoro di valutazione
+  dei processi.
+   Illustrative model-level impact assessment
+ Impact assessment when developing new models using alternative RFRs and updating existing models that use IBOR rate/volatility inputs should consider:
+ • Elements of the model that require updates to determine the effort level. In the table below nearly all the elements of the basis curve model would need
+      to be updated whereas only certain elements of the Wholesale LGD model would require modification
+ • Dependencies between models (e.g., interest rate swaption model is contingent on curve bootstrapping and vol calibration feeder models)
+                                                                                                           Model Testing
+                              Feeder    Effort   Conceptual                     Model                                                       Ongoing Documentation
+        Model Name       Tier                                  Implementation                                                   Outcomes
+                               Model    Level     soundness                    Inputs    Diagnostic Sensitivity Scenario Stress            Monitoring      Update
+                                                                                                                                 Analysis
+   Basis Curve Algorithm  1     Yes      High        High            High       High         High       High      High    High     High       High          High
+   Wholesale LGD Model    1      No      Low          No              Low        Low          No        Low        No      No       No         No           Low
+   Illustrative firm-wide impact assessment summary                                                                        Impact considerations
+•     Below is a representative impact by core business line and enterprise function:
+                                                                                                                          <U+25BA>   Potential replacement of
+                                                Impact      Est % of impacted             Example models
+                                                                 models
+                                                                                                                              macroeconomic variables
+  Core business lines                                                                                                     <U+25BA>   Availability of historical data for
+                                                                                                                              replacement macroeconomic
+  Consumer Banking                               High              74%         Loan level loss forecast; LGD
+                                                                                                                              variables
+  Commercial Banking                             High              71%         Loan forecasting; issuer default
+                                                                                                                          <U+25BA>   Re-validation of models for
+  Capital Markets                                High              63%         IR simulation; MR VaR                          conceptual soundness and
+  Private Bank and Wealth Management            Medium             34%         Retail liquid secured PD                       performance
+  Enterprise Functions                                                                                                    <U+25BA>   Updated sensitivity analysis
+  Treasury                                       High              68%         Net interest income; PPNR                  <U+25BA>   Revised model and controls
+  Corporate Risk                                 High              64%         Callable bond; wholesale forecast              documentation
+  Finance                                       Medium             55%         LIBOR yield; Muni-LIBOR basis              <U+25BA>   Up/downstream impacts of models
+Pag. 24
+
+IBOR Impact Assessment
+System & Process Dashboard (1/2)
+ L’assessment permette di mappare l’impatto della transizione IBOR su processi, sistemi e modelli finanziari e di rischio.
+   Systems inventory
+                                                                                                         Final outputs
+                                                    Common                        1     Assessment results        2        Heat map
+                                                    process
+     Model inventory                               taxonomy
+                                                                                   3     Summary report           4    High-level roadmap
+   Process inventory                    Data requirement specifications
+                                   <U+2713>
+                                         Establish scoping and evaluation
+                                         criteria and perform initial scoping
+                                   <U+2713>
+                                         Apply evaluation criteria through
+                                         stakeholder interviews
+ The results of the process assessment will drive a prioritized book of work to address IBOR operational exposure. Considerations for
+ this book of work include:
+ • Identification of individual projects and budget to address noted exposures
+ • Alignment of resources to specific projects and governance bodies
+ • Scheduling of project timelines and key milestones
+ • Consideration of dependencies across the IBOR remediation program
+Pag. 25
+
+IBOR Impact Assessment
+System & Process Dashboard (2/2)
+ EY ha sviluppato una prospettiva iniziale sui processi di business che saranno impattati dalla transizione IBOR. La
+ dashboard sottostante sottolinea una vista riepilogativa dei processi impattati.
+                                                                                   Legend: H High impact  M Medium impact L Low impact
+ Control functions      Consumer banking           Private bank and        Corporate banking             Capital markets
+                                                   wealth management
+                                                                             Illustrative treasury impacts
+Our reporting tool provides the functionality to drill down into more granular views to understand the unique drivers
+of impact for each process.
+Pag. 26
+
+Annex
+La Riforma dell’IBOR
+ISDA Survey
+ Nel Luglio 2018 AFME, ICMA, ISDA, SIFMA e SIFMA AMG hanno pubblicato un nuovo report che identifica i punti di
+ attenzione coinvolti nella riforma dell’IBOR, ed effettua raccomandazioni sugli step da effettuare per prepararsi al
+ passaggio dai tassi IBOR ai tassi risk free (RFR). La survey ha evidenziato, oltre ad una esposizione nozionale
+ complessiva agli IBOR di 370 trilioni di dollari, diversi punti di attenzione.
+                            Overview                                               Key Elements for Transition
+                                                                              Widespread market adoption of alternative RFR
+                  L’87% dei partecipanti è interessata                                                                      72%
+    15%           all’argomento. Il 15% non ha familiarità con                Valuation and risk management
+                  il tema IBOR Transition                                                                                   72%
+                                                                               Liquidity
+                                                                                                                            64%
+       Il 47% dei partecipanti prevede di essere                               Legal
+                                                                                                                            35%
+      compliant entro i prossimi 2 anni (2020), il
+     78% prevede di essere compliant entro i
+                                                         78%                   Infrastructure
+                         prossimi 4 anni (2022)                                                                             32%
+                                                                              Accounting
+                                                                                                                            15%
+                          Preparations                                        Regulatory
+                                                                                                                            5%
+                  Il 24% dei partecipanti non ha allocato un                  Tax
+                  budget per le attività relative alla Riforma                                                              1%
+    24%           dell’IBOR, il 53% ha iniziato le consultazioni               Governance and controls
+                  interne sul tema                                                                                          1%
+Pag. 28
+
+EONIA ed EURIBOR
+Working Group Euro RFR – Preparation Phase
+ A seguito dell’incontro del Working Group del 13 Settembre 20181, i vari sottogruppi hanno rilasciato una timeline di alto
+ livello per la preparation phase da completare prima della market adoption. Attualmente per la market adoption non
+ sono state rilasciate date.
+                                                 2018                                             2019                                           2020
+                                                                   A                     B
+                                                               Assesm. Term Meth.
+   WG EURO RFR
+                                                                          Consult. Term Meth.
+     Subgroup 2                                              A     Ott 2018           B     Mar 2019
+    Term Structure                                        Selezione metodologie        Raccomandazione
+                                                               Term Structure            Metodologia TS
+                                                                                                          C
+                                               Assessm. Legal fb                      Consult. Legal fb
+   WG EURO RFR
+                                                                                                   C    Lug 2019
+     Subgroup 3
+                                                                                                   Raccomandazione
+       Contracts                                                                               amendment su contratti
+                                                                           D
+   WG EURO RFR                                                          Consult. Transition Path
+                                                           D Dec 2018
+     Subgroup 4
+                                                 Raccomandazione Metodologia
+   EONIA Transition                                 Transizione EONIA-ESTER
+     Nell’incontro del 18 Ottobre 20182 il Working Group ha richiesto un’estensione del periodo di transizione per EONIA ed EURIBOR fino al 1
+ Gennaio 2022, per anticipare un potenziale ritardo nell'attuazione della transizione dell'EONIA verso il nuovo ESTER e garantire che sia riservato
+                                       tempo sufficiente per creare un parametro di riferimento alternativo all'EURIBOR.
+            1 https://www.ecb.europa.eu/paym/initiatives/interest_rate_benchmarks/WG_euro_risk-free_rates/shared/pdf/20180913/Item_3_High_level_implementation_plan.pdf
+            2 https://www.ecb.europa.eu/paym/initiatives/interest_rate_benchmarks/WG_euro_risk-free_rates/shared/pdf/20181018/2018-10-
+Pag. 29     18_WG_on_euro_RFR_meeting_Item_3_Follow-up_High_level_implementation_plan.pdf
+
+EONIA ed EURIBOR
+Approccio EMMI
+ EURIBOR ed EONIA sono i tassi di interesse più coinvolti nelle transazioni della zona Euro; insieme sono riferibili ad
+ un’esposizione superiore a 175 trilioni di dollari. L’amministratore di entrambi i tassi è l’European Money Markets
+ Institute (EMMI) e di seguito sono riportate le principali caratteristiche:
+                                                EONIA                                                      EURIBOR
+                     Tasso overnight offerto nel mercato interbancario            Tasso offerto nel mercato interbancario dell’area Euro,
+                     dell’area Euro, calcolato come media ponderata dei tassi     calcolato, per ognuna delle scadenze previste, come
+   Definizione       overnight applicati su tutte le operazioni                   media delle quotazioni che le reference banks si
+                     di finanziamento non garantite concluse sul mercato          dichiarano disposte ad applicare alla clientela primaria.
+                     interbancario dalle reference banks.
+                      È principalmente utilizzato all’interno del mercato degli   È utilizzato in una gamma molto più ampia di prodotti ed
+                      Overnight Index Swap (OIS). È inoltre utilizzato come       utenti rispetto all’EONIA; ad esempio, si una stima
+ Caratteristiche      riferimento per diversi prodotti derivati (ad esempio, per  l’esistenza di circa 750/800$ mld di mutui indicizzati ad
+         ed           la remunerazione del collateral versato) ed altri           esso. Include una componente di rischio di credito e di
+    Ambiti di         strumenti finanziari. Corrisponde al tenor più basso        rischio di liquidità, quindi non è un puro tasso risk-free.
+  applicazione        della term structure ed include una bassa componente
+                      di rischio credito e liquidità: è quindi una buona
+                      approssimazione di tasso risk-free.
+                      L’EMMI, ha annunciato che i problemi riguardanti la         L’EMMI ha iniziato una riforma della metodologia
+                      concentrazione ed il numero di sottomissioni non può        (Hybrid Methodology) per ottenere un tasso che
+                      essere risolto alle attuali condizioni del mercato e non ci minimizzi le opportunità di manipolazione e che risulti
+                      saranno ulteriori tentativi di modificare il tasso per      ancorato a transazioni osservabili e resistente agli
+        BMR           renderlo compliant con il BMR. Per la sua sostituzione il   stress del mercato. Una prima consultazione effettuata
+   compliant?         WG si è espresso in favore del tasso ESTER,                 in Marzo 2018 ha avuto un esito in favore della nuova
+                      sviluppato dall’ECB e pubblicato da Ottobre 2019.           metodologia, una seconda consultazione è prevista per
+                                                                                  Settembre 2018; l’eventuale entrata in vigore è prevista
+                                                                                  per Dicembre 2019.
+Pag. 30
+
+            EONIA ed EURIBOR
+            Consultazione ECB su Euro RFR – Candidati
+             Nella prima consultazione sull’EURO RFR (Giugno 2018), l’ECB ha selezionato tre tassi risk free come candidati finali:
+             l’Euro Short Term Rate (ESTER), il GC Pooling Deferred Funding Rate ed il RepoFunds Rate.
+                                          Descrizione                Admin                   Metodologia                  Tenor
+UNSECURED
+                                                                                  Tasso medio pesato sui volumi
+                                 Tasso che riflette i costi di
+                                                                                  delle transazioni riportate all’EVB
+                 ESTER           prestiti unsecured overnight         ECB                                               Overnight
+                                                                                  nel Money Market Statistica
+                                 per le banche dell’area Euro.
+                                                                                  Reporting (MMSR).
+                                 Tasso interbancario effettivo
+                                                                                  Tasso medio pesato sui volumi
+               GC Pooling        di tutte le transazioni one-
+                                                                                  delle transazioni collateralizzate
+                Deferred         day nel GC Pooling e               STOXX                                                One day
+                                                                                  aggregate da una sede di
+              Funding Rate       nell’Extended Basket
+                                                                                  negoziazione.
+                                 dell’ECB.
+SECURED
+                                 Costo effettivo per one-day                      Tasso medio pesato sui volumi
+               RepoFunds         secured funding generale o        NEX Data       delle transazione collateralizzate
+                                                                                                                         One day
+                  Rate           riferito a specifici titoli       Services       aggregate da una sede di
+                                 sovereign nell’area euro.                        negoziazione.
+            Pag. 31
+
+EONIA ed EURIBOR
+Consultazione ECB su Euro RFR – Scelta ESTER
+ Nell’Agosto 2018, la Banca Centrale Europea ha pubblicato1 i risultati della prima consultazione del Gruppo di Lavoro
+ sul nuovo euro risk-free rate che andrà a sostituire EONIA ed EURIBOR. Alla consultazione hanno contribuito 66
+ partecipanti ai mercati (di cui 41 del settore bancario), con adeguata rappresentazione geografica.
+                        <U+25BA>    I partecipanti hanno concordato con l’analisi ed i criteri utilizzati dal Gruppo di Lavoro per
+      Risultati              selezionare i candidati finali alla sostituzione di EURIBOR ed EONIA.
+                        <U+25BA>    La maggioranza dei partecipanti alla consultazione ha concordato che il tasso ESTER2
+                             proposto dalla BCE è il tasso risk-free più appropriato da utilizzare, considerando la sua
+                             natura unsecured, la sua metodologia di calcolo e la sua bassa volatilità.
+                        <U+25BA>    Anticipare la data di pubblicazione rispetto a quella attualmente prevista di Ottobre 2019.
+   Suggerimenti
+                        <U+25BA>    Anticipare la pubblicazione giornaliera, al momento prevista non più tardi delle 09:00 CET del
+                             successivo TARGET2 business day.
+                        <U+25BA>    Incrementare la copertura di banche comprese nel calcolo dal corrente numero di 52.
+ 1 https://www.ecb.europa.eu/paym/pdf/cons/euro_risk-free_rates/consultation_details_201806.en.pdf
+ 2 https://www.ecb.europa.eu/paym/initiatives/interest_rate_benchmarks/shared/pdf/ecb.ESTER_methodology_and_policies.en.pdf
+   https://www.ecb.europa.eu/paym/initiatives/interest_rate_benchmarks/shared/pdf/ecb.Pre-ESTER.en.pdf
+Pag. 32
+
+EONIA ed EURIBOR
+Metodologia di calcolo dell’ESTER
+ L’ECB ha deciso di sviluppare un euro short-term rate (ESTER) basato sui dati già disponibili all’interno
+ dell’Eurosistema. ESTER è un tasso overnight calcolato su prestiti di depositi unsecured per ogni giornata TARGET2.
+   Underlying        ESTER è basato sulle transazioni sopra il milione di euro condotte dalle banche con controparti
+       Data          finanziarie riportate nel Money Market Statistical Reporting (MMSR).
+                     ECB pubblicherà il tasso ESTER, con 3 cifre decimali, non oltre le 9:00 CET del TARGET2
+   Publication       business day successivo.
+                     ESTER è calcolato utilizzando i tassi dei depositi overnight unsecured da oltre un milione di euro.
+                     Il tasso è calcolato come media ponderata sui volume secondo i seguenti step:
+    Standard         1. Ordinamento delle transazioni dal tasso più basso al più alto
+  Methodology        2. Aggregazione delle transazioni a livello di tasso
+                     3. Rimozione del primo e dell’ultimo 25% in termini di volume
+                     4. Calcolo della media ponderata sui volumi del restante 50% della distribuzione dei tassi
+                     Una procedura di contingency viene attivata nel caso in cui il numero di banche sia inferiore a 20 o
+  Contingency        nel caso in cui a 5 banche sia riferito almeno il 75% del volume totale delle transazioni. In questo
+  Methodology        caso, l’ESTER facendo una media pesata sui volumi del tasso del giorno precedente e del tasso
+                     che si sarebbe ottenuto applicando la metodologia standard ai dati disponibili.
+                     Finché l’ESTER non sarà disponibile, l’ECB pubblicherà i dati del cd ‘pre-ESTER’. Il pre-ESTER è
+                     calcolato con la stessa metodologia definita per l’ESTER e differisce da quest’ultimo poiché
+   Pre-ESTER
+                     prevede l’inclusione di tutte le revisioni (cancellazioni, correzioni ed aggiornamenti) inviate fino alle
+                     09:00, mentre l’ESTER recepirà solo le modifiche ricevute entro le 07:00 della mattina stessa.
+Pag. 33
+
+EONIA ed EURIBOR
+Pre-ESTER vs. EONIA
+ I dati giornalieri dell'MMSR mostrano che in media 31 banche segnalano ogni giorno operazioni sul mercato. In media
+ sono segnalate 592 transazioni con società finanziarie, più del doppio del numero di transazioni sul mercato
+ interbancario. Il confronto con l’EONIA mostra uno spread di circa -9 bps ed una volatilità notevolmente ridotta in
+ particolare in situazioni di stress (e.g. end of year).
+                  -0,2
+                 -0,25
+                  -0,3
+                                                                                                Pre - ESTER
+                 -0,35
+                                                                                                EONIA
+                  -0,4
+                 -0,45
+                  -0,5
+                     mar-17          giu-17         set-17   dic-17       mar-18
+                 Fonte: EMMI, ECB
+Pag. 34
+
+EURIBOR Hybrid Methodology                                                                                                                IN CONSULTAZIONE FINO AL
+                                                                                                                                                 30 NOVEMBRE 2018
+  Dopo che l’EURIBOR è stato dichiarato non compliant con la BMR, l’EMMI ha avviato un processo di revisione della
+  metodologia di sviluppando una metodologia ibrida (attualmente in consultazione1) basata sulle transazioni reali.
+                                  Transaction based. La contribuzione si basa esclusivamente sulle transazioni eligible del TARGET day precedente dell’unsecured
+          Level 1                 euro money market sul tasso di interesse sottostante per il tenor in considerazione.
+                                  Transaction derived. Qualora una banca del panel non abbia sufficienti transazioni eligible per una contribuzione di livello 1 per un
+                                  determinate tenor, ma abbia comunque transazioni in maturity vicine o recenti, la contribuzione della banca può essere calcolata
+          Level 2                 utilizzando un ulteriore gamma di tecniche al fine di fare una contribuzione di livello 2. In particolare il livello 2 è diviso in 3 sottolivelli
+                                  descritti in seguito.
+                                  Interpolazione lineare “Adjusted” da tenor adiacenti. Questa tecnica può essere applicata solo alle contribuzioni per i tenor 1M,
+                  Level
+                                  3M e 6M. La banca del panel effettuerà una contribuzione utilizzando questa tecnica solo se le contribuzioni dei tenor adiacenti sono
+                   2.1            state calcolate con la metodologia di livello 1.
+                                  Transazioni a tenor non definiti. Questa metodologia può essere applicata alle contribuzioni di tutti i tenor. Qualora la Banca non
+                 Level            fosse in grado di fornire una contribuzione di livello 1 o 2.1, sarà possibile fornire una contribuzione di livello 2.2 se la Banca
+                   2.2            presenta “Qualifying Non-Standard Maturity Transaction(s)” e se il volume di almeno una di tali transazioni, per il tenor considerato,
+                                  supera la soglia minima di 20 milioni.
+                                  Transazioni a date precedenti. Questa tecnica può essere applicata alle contribuzioni di tutti i tenor eccetto 1W. La contribuzione
+                 Level
+                                  della Banca potrà essere calcolata usando questa tecnica qualora non fosse possibile calcolare una contribuzione di livello 1, 2.1 o
+                   2.3            2.2 per un determinato tenor, e se per tale tenor è stata rilevata una contribuzione recente di livello 1.
+                                  Expert Judgement. Qualora la Banca non fosse in grado di fornire, per un determinato tenor, una contribuzione di livello 1 o 2, sarà
+                                  possibile effettuare una contribuzione di livello 3 basata sue due fonti dati: transazioni aggiuntive nel tasso di interesse sottostante
+          Level 3                 che sono state escluse dalle contribuzioni di livello 1 e 2 e/o altri dati da una serie di mercati strettamente collegati all’unsecured
+                                  euro money market. La banca dovrebbe determinare la contribuzione utilizzando I dati indicate attraverso l’applicazione di una
+                                  combinazione di tecniche e/o il judgement della banca.
+ Una volta ottenute le contribuzioni delle Banche del Panel, l’EMMI effettuerà il calcolo dell’Euribor secondo la seguente metodologia:
+ 1.     Ordinamento delle contribuzioni dal tasso più basso al più alto
+ 2.     Esclusione del primo e dell’ultimo 15%
+ 3.     Media aritmetica delle contribuzioni rimaste
+https://www.emmi-benchmarks.eu/assets/files/D0373B-2018%20Second%20Consultation%20Hybrid%20Euribor_full.pdf
+Pag. 35
+
+EURIBOR Hybrid Methodology                                                                                           IN CONSULTAZIONE FINO AL
+                                                                                                                          30 NOVEMBRE 2018
+Level 1
+  Il 18 Ottobre 2018 l’EMMI ha lanciato la seconda consultazione sulla Metodologia Ibrida individuata per l’Euribor, la
+  pubblicazione dei risultati è prevista per Gennaio 2019.
+                                                                     Descrizione
+La contribuzione si basa esclusivamente sulle transazioni eligible del TARGET day precedente dell’unsecured euro money market sul tasso di
+interesse sottostante per il tenor in considerazione.
+                                                                 Eligible Transaction
+      Currency                                        Numero Minimo:                   Maturity window:
+       EURO                                           Nessuna Soglia                     TENOR                        BROAD
+                                                                                         1w                           1 w ± 2d
+      Settlement date:                                Volume minimo:                     1m                           1m±1w
+      La finestra temporale                           20 milioni
+      identificata per le date                                                           3m                           3 m ± 2w
+      valuta standard di ogni                                                            6m                           6 m ± 3w
+      TARGET day è T, T+1,
+                                                                                         12m                          12 m ± 3w
+      e T+2
+                                                         Tipi di transazioni e controparti:
+      Unsecured, fixed rate, cash deposits per le seguenti controparti:          Floating rate, Fixed rate, short-term securities (i.e. CPs, ECPs, CDs,
+      <U+25BA>  Deposit-taking Corporations                                             ECDs, e altri) indipendentemente dal tipo di controparte e dal paese
+                                                                                 di appartenenza.
+      <U+25BA>  Other Financial Institutions
+      <U+25BA>  Official Sector Institutions                                            Non eligibe: Non Financial Counterparties (NFC), borrowing o
+      <U+25BA>  Insurance Corporations                                                  securities con opzioni embedded.
+      <U+25BA>  Pension Funds
+Pag. 36
+
+EURIBOR Hybrid Methodology                                                                                                IN CONSULTAZIONE FINO AL
+                                                                                                                               30 NOVEMBRE 2018
+Level 2
+   Il livello 2 è stato diviso in tre sottolivelli, ognuno dei quali ha una specifica metodologia che non è applicabile a tutti i
+   tenor e, le cui caratteristiche sono analizzate in seguito.
+                                                                           Descrizione
+Qualora una banca del panel non abbia sufficienti transazioni eligible per una contribuzione di livello 1 per un determinate tenor, ma abbia
+comunque transazioni in maturity vicine o recenti, la contribuzione della banca può essere calcolata utilizzando un ulteriore gamma di tecniche al
+fine di fare una contribuzione di livello 2. In particolare il livello 2 è diviso in 3 sottolivelli descritti in seguito.
+                                                             Level 2.1 (Tenor 1M, 3M e 6M)
+La contribuzione della Banca del Panel sarà calcolata come la somma di due component:
+<U+25BA> Il tasso interpolato linearmente utilizzando le contribuzioni di livello 1 dei tenor adiacenti;
+<U+25BA> Uno “Spread Adjustment Factor” (SAF), che ha lo scopo di correggere la curvatura dei tassi dei rendimenti interpolati
+Il SAF sarà calcolato sulla base delle quotazioni dell’EURIBOR dei 5 giorni per ogni tenor nel seguente modo:
+          1. Per ciascuna delle ultime 5 quotazioni viene calcolato il tasso interpolato per il tenor in considerazione utilizzando le quotazioni dei due
+               tenor adiacenti;
+          2. Viene calcolato lo spread tra il valore interpolato e la quotazione reale del tasso e ne viene fatta la media aritmetica.
+                                                                     Level 2.2 (tutti i tenor)
+Una “Qualifying Non-Standard Maturity Transaction” è una transazione che soddisfa tutte le condizioni per essere una transazione eligible, ad
+eccezione della sua maturity che cade tra 1w e 12m ma è fuori dalle maturity windows individuate per le transazioni eligible (slide n. 40) .
+La contribuzione della Banca potrà essere calcolata usando questa tecnica qualora non fosse possibile calcolare una contribuzione di livello 1 o 2.1
+e se la Banca presenta per una scadenza non standard adiacente alla maturity identificata una “Qualifying Non-Standard Maturity Transaction(s)”
+con un volume minimo di 20 milioni di euro.
+                                                           Level 2.3 (tutti i tenor tranne 1w)
+La contribuzione della Banca del Panel potrà essere calcolata usando questa tecnica qualora non fosse possibile calcolare una contribuzione di
+livello 1, 2.1 o 2.2 per un determinato tenor, e se per tale tenor è stata rilevata una contribuzione di livello 1 nei 4 giorni precedenti.
+La contribuzione delle Banca sarà calcolata come la somma di due componenti:
+<U+25BA> La contribuzione più recente di livello 1 per il tenor in considerazione:
+<U+25BA> Un “Market Adjustment Factor” (MAF), con lo scopo di correggere il movimento complessivo del tasso tra la data della contribuzione di livello 1 e
+     la data attuale. Il MAF sarà determinato dal closing price deli futures sull’Euribor.
+Pag. 37
+
+EURIBOR Hybrid Methodology                                                                                                 IN CONSULTAZIONE FINO AL
+                                                                                                                                  30 NOVEMBRE 2018
+Level 3
+  L’EMMI non ha fornito una metodologia per il calcolo delle contribuzioni di livello 3, tuttavia ha fornito dei principi
+  generali e delle regole guida che le Banche devono rispettare nel determinare le contribuzioni.
+                                                                         Descrizione
+Qualora la Banca non fosse in grado di fornire, per un determinato tenor, una contribuzione di livello 1 o 2, sarà possibile effettuare una
+contribuzione di livello 3 basata sue due fonti dati: transazioni aggiuntive nel tasso di interesse sottostante che sono state escluse dalle
+contribuzioni di livello 1 e 2 e/o altri dati da una serie di mercati strettamente collegati all’unsecured euro money market. La banca quindi dovrebbe
+determinare la contribuzione utilizzando i valori ottenuti attraverso l’applicazione di una combinazione di tecniche e/o il judgement secondo i principi
+generali indicati dall’EMMI.
+                                                                     Principi Generali
+L’EMMI si aspetta che le Banche del Panel osservino i seguenti principi:
+<U+25BA> Rensponsability – Ogni Banca sarà pienamente responsabile delle particolari metodologie di determinazione e reperimento dei dati che
+   impiegherà per il calcolo della contribuzione di livello 3.
+<U+25BA> Governance – Ogni Banca dovrebbe applicare consolidati standard in uso nel risk management per la governance documentazione, test, ecc.
+<U+25BA> Transparency – Ogni Banca dovrebbe fornire la documentazione sulla metodologia di calcolo delle contribuzioni di livello 3 (descrizione,
+   performance e report) all’EMMI e ai Regulator nazionali di competenza.
+<U+25BA> Tenors – Ogni Banca dovrebbe assicurarsi che le metodologie per le contribuzioni di Livello 3 riflettano la differenza tra i dei diversi tenor
+   utilizzando i driver di mercato.
+<U+25BA> Input Data – I dati utilizzati (diversi da quelli per i Level 1 e 2) dovranno essere ove possibili: pubblicati, provenienti da mercati regolamentati,
+   sedi di negoziazione o enti, oppure essere tracciabili.
+                                                                Transazioni Addizionali
+Le Banche potranno utilizzare per le contribuzioni di livello 3 i dati provenienti da: transazioni eligible e Qualifying Non-Standard Maturity
+Transaction che non hanno superato la soglia minima (20 mln) e transazioni con NFC (no small business).
+                                                                         Altri Mercati
+Le Banche potranno utilizzare per le contribuzioni di livello 3 dati di altri mercati, in particolare: Contratti Futures riferiti all’Euribor; FRA,
+Fixed/Floating IRS e Basis Swap riferiti all’EURIBOR; OIS riferiti all’EONIA od un altro tasso short-term; operazioni di finanziamento titoli ON e a
+termine in euro.
+Pag. 38
+
+Soluzione di Fallback ISDA
+ISDA Benchmarks Supplement
+  Il 19 Settembre 2018 l’ISDA ha pubblicato l’«ISDA Benchmark Supplement»1, che dà alle controparti la possibilità di
+  migliorare la solidità dei contratti derivati riferiti a tassi di interesse, FX, equity e commodity.
+                                                    Sviluppi in risposta all’EU Benchmarks Regulation
+   <U+25BA>   Modifica dei booklets ISDA che definiscono derivati su tassi di interesse, equity, FX          EU Benchmark Regulation:
+       e commodities per garantire che la cessazione, il divieto o la modifica sostanziale
+       degli indici abbiano dei fallback solidi                                                       <U+25BA> L’European Union (EU)
+                                                                                                        Benchmarks Regulation
+                                                                                                        regola l’uso di una varietà di
+   <U+25BA>   Cerca di lasciare gli attuali triggers e fallbacks invariati, dove già solidi                    benchmark per diverse asset
+                                                                                                        class.
+   <U+25BA>   Introduce un nuovo waterfall per I derivati sui tassi di interesse:
+             i. Accordo tra le parti                                                                  <U+25BA> La BMR richiede che i
+             ii. Indice alternativo nominato alla data di negoziazione                                  contratti tra le entità vigilate ed
+             iii. Indice alternative nominato dalla Banca Centrale o simile                             i loro clienti stabiliscano le
+             iv. Nomina dell’Agente di Calcolo                                                          azioni da adottare nel caso in
+             v. «No fault termination»                                                                  cui il benchmark di riferimento
+                                                                                                        venga modificato in modo
+   <U+25BA>   L’ISDA Benchmarks Supplement è volontario e può essere concordato                                sostanziale, cessi di essere
+       bilateralmente o tramite un protocollo che l’ISDA intende pubblicare in futuro                   fornito o ne venga vietato
+                                                                                                        l’uso.
+                                          In aggiunta all’ISDA “IBOR Fallbacks for Derivatives Contracts”
+   <U+25BA>   Copre un numero maggiore di benchmark rispetto a quanto previsto su «Fallbacks IBOR per i contratti derivati»
+   <U+25BA>   Consente alle controparti di concordare disposizioni fallback provvisorie qualora un IBOR cessi di esistere prima
+       dell‘implementazione dei Fallbacks IBOR
+   <U+25BA>   I Fallbacks IBOR, una volta implementati, avranno la precedenza sugli IBOR specifici
+   <U+25BA>   Benchmarks Supplement continuerà a fornire un ulteriore livello di protezione rispetto alla cessazione dell'indice nel
+       caso in cui un Fallback IBOR fallisca
+1 https://www.isda.org/book/isda-benchmarks-supplement/
+Pag. 39
+
+Soluzione di Fallback ISDA
+Trigger
+ L’ISDA sta aggiornando la sua documentazione standard per implementare delle soluzioni di fallback per i tassi IBOR
+ più rilevanti. Il fallback sarà applicato se l’IBOR di riferimento verrà definitivamente dismesso, al raggiungimento dei
+ trigger definiti:
+ <U+25BA>   una dichiarazione pubblica / pubblicazione di informazioni da parte dell’amministratore dell’IBOR, o di qualcuno in
+     sua vece, che annuncia che si è smesso o si smetterà in futuro di fornire il tasso in maniera definitiva o per un tempo
+     indefinito, ed in quel momento non c’è alcun altro amministratore che continuerà a fornire l’IBOR;
+ <U+25BA>   una dichiarazione pubblica / pubblicazione di informazioni da parte del Regulator responsabile dell’amministratore
+     dell’IBOR, della banca centrale della currency, un organismo di vigilanza od altre entità che hanno poteri su
+     controversie ed insolvenze che hanno giurisdizione nell’amministrazione relativa all’IBOR, che dichiara che
+     l’amministratore dell’IBOR ha sospeso o sospenderà di fornire l’IBOR in maniera permanente o per un tempo
+     indefinito, e non ci sarà nessun amministratore successivo che continuerà a fornire il tasso in futuro.
+ Le soluzioni di fallback non saranno applicate fino alla sospensione effettiva dell’IBOR, e prevedono la definizione di
+ una metodologia per incorporare la componente relativa ai differenti term previsti dagli IBOR (term adjustment) e quella
+ relativa al rischio di credito (Spread adjustment).
+  Relevant          GBP           CHF           JPY                       Euroyen                                     USD
+                                                             TIBOR                      BBSW         EURIBOR
+     IBOR          LIBOR         LIBOR        LIBOR                        TIBOR                                     LIBOR
+  Fallback                                                                            RBA Cash
+                   SONIA         SARON        TONAR          TONAR         TONAR                      ESTER1         SOFR
+      rate                                                                               Rate
+  1 https://www.ecb.europa.eu/press/pr/date/2018/html/ecb.pr180913.en.html
+Pag. 40
+
+                   Soluzione di Fallback ISDA                                                                                    CONSULTAZIONE TERMINATA IL 12
+                                                                                                                                OTTOBRE, PUBBLICAZIONE RISULTATI
+                   Term adjustment – In Consultazione                                                                              PREVISTA PER DICEMBRE 2018
+                    I RFRs sono tassi overnight, tuttavia gli IBOR sono pubblicati su varie scadenze (term). Per tenere in considerazione
+                    questa differenza, la soluzione di fallback ISDA propone di applicare un ‘adjustment’ ai RFR overnight in modo da
+                    renderli comparabili agli IBOR. Per calcolare questo aggiustamento sono stati presi in considerazione 4 approcci:
+                                          Descrizione                                        Pros                                                     Cons
+                                                                       <U+25BA>   Facile da comprendere ed implementare, si
+                                   Utilizzo del RFR stabilito uno o        basa su informazioni facilmente reperibili           <U+25BA>   Ignora la variazione intrinseca nei tassi risk-
+                        Spot       due giorni prima (a seconda
+                                                                       <U+25BA>   Riflette le condizioni del mercato dei tassi             free su differenti tenor
+                     Overnight     dell’IBOR) della data di inizio
+                                   della quotazione del tenor di           risk-free per i prestiti one-day appena prima        <U+25BA>   Non rispecchia la struttura degli swap su
+ High Volatility
+                     Rate (SOR)                                            della data di inizio della quotazione del tenor          indici overnight che fanno riferimento al RFR
+                                   riferimento
+                                                                           di riferimento
+                                   Simile all’approccio Spot                                                                    <U+25BA>   Il convexity adjustment potrebbe non
+                                   Overnight, con una modifica                                                                      corrispondere alla struttura dei tassi risk-free
+                     Convexity -   per spiegare la differenza tra      <U+25BA>   Dati facilmente reperibili alla data di inizio del
+                                                                                                                                <U+25BA>   Complessità elevata
+                      adjusted     gli interessi overnight fissi del       periodo del tenor
+                                   tasso spot overnight contro i                                                                <U+25BA>   Ignora la variazione intrinseca nei tassi risk-
+                     Overnight                                         <U+25BA>   È più simile alla struttura a termine dei tassi
+                                                                                                                                    free su differenti tenor
+                     Rate (COR)    tassi realizzati capitalizzando         di interesse risk-free
+                                   giornalmente i RFR sulla term                                                                <U+25BA>   Non rispecchia la struttura degli swap su
+                                   dell’IBOR                                                                                        indici overnight che fanno riferimento al RFR
+                                                                                                                                <U+25BA>   Le informazioni necessarie per determinare i
+                   Compounded      Il RFR osservato per un             <U+25BA>   Riflette i movimenti effettivi dei tassi di              tassi non sono disponibili all’inizio del periodo
+                                   periodo precedente pari al
+                    Setting in                                             interesse durante il periodo                             di riferimento
+                                   tenor dell’IBOR e capitalizzato
+                   Arrears Rate    giornalmente durante quel           <U+25BA>   Rispecchia la struttura degli swap su indici         <U+25BA>   I movimenti effettivi dei tassi di interesse
+                      (ARR)        periodo                                 overnight che fanno riferimento al RFR                   potrebbero non riflettere l’andamento atteso a
+Low Volatility
+                                                                                                                                    priori per il periodo di riferimento
+                                                                       <U+25BA>   Disponibile alla data inizio periodo del tenor
+                                                                       <U+25BA>   Riflette i movimenti effettivi giornalieri dei
+                                   Approccio simile al                     tassi su un tenor comparabile durante un
+                   Compounded      compounded in arrears rate              periodo vicino a quello di riferimento               <U+25BA>   È backward looking
+                    Setting in     ma con un periodo di
+                                   osservazione che termina            <U+25BA>   Corrisponde abbastanza alla struttura a              <U+25BA>   Soggetto alle condizioni del mercato «period
+                     Advance                                               termine dei tassi di interesse all’inizio del            to periood»
+                    Rate (ADR)     prima dell’inizio del tenor
+                                   dell’IBOR                               periodo al quale vengono applicati
+                                                                       <U+25BA>   Struttura dei pagamenti simile a quella degli
+                                                                           swap su indici overnight riferita ai RFRs
+                   Pag. 41
+
+Soluzione di Fallback ISDA                                                                                   CONSULTAZIONE TERMINATA IL 12
+                                                                                                            OTTOBRE, PUBBLICAZIONE RISULTATI
+Spread adjustment – In Consultazione                                                                           PREVISTA PER DICEMBRE 2018
+ I RFRs sono tassi overnight risk-free, tuttavia gli IBOR incorporano una componente implicita di rischio di credito. È
+ possibile replicare tale componente come proxy applicando uno ‘spread adjustment’ agli adjusted RFR precedenti. Per
+ il calcolo di questo spread sono state prese in considerazione tre metodologie:
+                            Descrizione                                     Pros                                                 Cons
+                   Basato sui prezzi osservati                                                             <U+25BA>  Richiede una grande quantità di dati
+                                                      <U+25BA>  Previene significativi spostamenti di volume
+                   all’attivazione dei trigger di                                                          <U+25BA>  Potrebbe dipendere da un fornitore che
+     Forward                                             vicino alla data in cui si attiva il trigger di
+                   fallback per lo spread forward                                                             continui a pubblicare le curve necessarie fino
+                                                         fallback poiché lo spread adjustment
+    Approach       tra l’IBOR e le quotazioni dei                                                             a che il fallback non viene attivato
+                                                         corrisponde al pricing atteso dal mercato in
+                   derivati vs. il RFR nel tenor di                                                        <U+25BA>  Potrebbe essere vulnerabile a manipolazioni
+                                                         tale giorno
+                   riferimento                                                                                e distorsioni da parte dei mercati
+                                                      <U+25BA>  Riflette le condizioni di mercato al momento      <U+25BA>  Improbabile che sia present-value neutral alla
+                                                         dell’attivazione dei trigger di fallback             data di calibrazione, dato che i tassi spot
+                   Basato sulla media o mediana                                                               vengono utilizzati per determinare i forward e
+    Historical     dello spread spot tra l’IBOR e     <U+25BA>  Cattura la tendenza dei tassi a muoversi
+                                                                                                              perché la media delle condizioni storiche del
+ Mean/Median       il RFR calcolato su un periodo        intorno alla media a lungo termine
+                                                                                                              mercato potrebbero non corrispondere con le
+    Approach       statico significativo (e.g. 5 o 10 <U+25BA>  Diminuisce l’effetto delle distorsioni del           condizioni attese per il futuro
+                   annui)                                mercato e delle potenziali manipolazioni
+                                                                                                           <U+25BA>  Richiede una lunga serie storica di quotazioni
+                                                      <U+25BA>  Basato su dati facilmente reperibili                 per l’IBOR e l’adjusted RFR
+                   Basato sullo spread spot tra       <U+25BA>  Facile da implementare e capire                   <U+25BA>  Improbabile che sia present-value neutral alla
+ Spot-Spread       l’IBOR e il RFR nel giorno (o                                                              data di calibrazione, poiché riflette spread
+                   alcuni giorni) precedente          <U+25BA>  Richiede le quotazione dell’IBOR e                   sotto condizioni di mercato al tempo della
+    Approach       l’evento di attivazione del           dell’adjusted RFR all’attivazione dei trigger di     calibrazione che potrebbero essere diverse
+                   trigger di fallback                   fallback                                             dalle condizioni di mercato previste in futuro
+                                                       Forward Approach              Historical Mean/Median Approach             Spot-Spread Approach
+            Spot Overnight Rate                                  <U+2718>                                       <U+2714>                                    <U+2714>
+     Convexity - adjusted Overnight Rate                         <U+2718>                                       <U+2714>                                    <U+2714>
+     Compounded Setting in Arrears Rate                          <U+2714>                                       <U+2714>                                    <U+2718>
+    Compounded Setting in Advance Rate                           <U+2714>                                       <U+2714>                                    <U+2714>
+Pag. 42
+
+                   Soluzione di Fallback ISDA                                                            CONSULTAZIONE TERMINATA IL 12
+                                                                                                        OTTOBRE, PUBBLICAZIONE RISULTATI
+                   Term adjustment – Metodologia                                                           PREVISTA PER DICEMBRE 2018
+                    I RFRs sono tassi overnight, tuttavia gli IBOR sono pubblicati su varie scadenze (term). Per tenere in considerazione
+                    questa differenza, la soluzione di fallback ISDA propone di applicare un ‘adjustment’ ai RFR overnight in modo da
+                    renderli comparabili agli IBOR. Per calcolare questo aggiustamento sono stati presi in considerazione 4 approcci:
+                                                     Descrizione                            Formulazione Matematica
+                                       Utilizzo del RFR stabilito uno o due giorni
+                        Spot
+                                       prima della data di inizio della quotazione                 <U+0001D446><U+0001D442><U+0001D445><U+0001D453> <U+0001D461> = <U+0001D445><U+0001D439><U+0001D445><U+0001D461>
+                    Overnight Rate     del tenor di riferimento
+ High Volatility
+                                       Simile all’approccio Spot Overnight, con
+                      Convexity -      una modifica per spiegare la differenza tra
+                       adjusted        gli interessi overnight fissi del tasso spot                                            <U+0001D6FF><U+0001D453>
+                                       overnight contro i tassi realizzati               <U+0001D436><U+0001D442><U+0001D445><U+0001D453> <U+0001D461> = <U+0001D445><U+0001D439><U+0001D445><U+0001D461> 1 + <U+0001D6FF>1 <U+0001D445><U+0001D439><U+0001D445><U+0001D461>             <U+0001D6FF>1
+                      Overnight
+                                       capitalizzando giornalmente i RFR sulla
+                         Rate          term dell’IBOR
+                     Compounded        Il RFR osservato per un periodo                                  <U+0001D447>+<U+0001D453>-1<U+0001D44F><U+0001D451>
+                                       precedente pari al tenor dell’IBOR e                      1
+                      Setting in       capitalizzato giornalmente durante quel
+                                                                                        <U+0001D434><U+0001D445><U+0001D445><U+0001D453> <U+0001D461> =          <U+0DD1>       1 + <U+0001D6FF><U+0001D462> <U+0001D445><U+0001D439><U+0001D445><U+0001D462> - 1
+                                                                                                 <U+0001D6FF><U+0001D453>
+                     Arrears Rate      periodo                                                            <U+0001D462>=<U+0001D447>
+Low Volatility
+                                                                                           <U+0001D434><U+0001D437><U+0001D445><U+0001D453> <U+0001D461> = <U+0001D445><U+0001D434><U+0001D453> <U+0001D461>       1 + <U+0001D6FF><U+0001D453> <U+0001D445><U+0001D434><U+0001D453> <U+0001D461>
+                    Compounded         Approccio simile al compounded in arrears
+                                       rate ma con un periodo di osservazione                             Dove:
+                     Setting in        che termina prima dell’inizio del tenor
+                    Advance Rate       dell’IBOR                                                   1
+                                                                                                        <U+0001D447>-1<U+0001D44F><U+0001D451>
+                                                                                         <U+0001D445><U+0001D434><U+0001D453> <U+0001D461> =        <U+0DD1> 1 + <U+0001D6FF><U+0001D462> <U+0001D445><U+0001D439><U+0001D445><U+0001D462> - 1
+                                                                                                   <U+0001D6FF><U+0001D434>
+                                                                                                        <U+0001D462>=<U+0001D447>-<U+0001D453>
+                   Pag. 43
+
+Soluzione di Fallback ISDA                                                                                        CONSULTAZIONE TERMINATA IL 12
+                                                                                                                OTTOBRE, PUBBLICAZIONE RISULTATI
+Spread adjustment – Metodologia                                                                                      PREVISTA PER DICEMBRE 2018
+ I RFRs sono tassi overnight risk-free, tuttavia gli IBOR incorporano una componente implicita di rischio di credito. È
+ possibile replicare tale componente come proxy applicando uno ‘spread adjustment’ agli adjusted RFR precedenti. Per
+ il calcolo di questo spread sono state prese in considerazione tre metodologie:
+                                        Descrizione                                                Formulazione Matematica
+                                                                                                 <U+0001D43F><U+0001D439><U+0001D461> = <U+0001D445><U+0001D453> <U+0001D461> + <U+0001D436><U+0001D446><U+0001D453> <U+0001D461>0 , <U+0001D461> <U+0001D45D><U+0001D452><U+0001D45F> <U+0001D461> = <U+0001D461>1
+                         Basato sui prezzi osservati all’attivazione
+      Forward            dei trigger di fallback per lo spread forward    Dove <U+0001D461>0 è la data di calibrazione e <U+0001D461>1 la data di interruzione dell’IBOR
+     Approach            tra l’IBOR e le quotazioni dei derivati vs. il
+                         RFR nel tenor di riferimento                                              <U+0001D436><U+0001D446><U+0001D453> <U+0001D460>, <U+0001D461> = <U+0001D439><U+0001D43F><U+0001D453> <U+0001D460>, <U+0001D461> - <U+0001D439><U+0001D445><U+0001D453> (<U+0001D460>, <U+0001D461>)
+                         Basato sulla media o mediana dello spread                                       <U+0001D43F><U+0001D439><U+0001D453> <U+0001D461> = <U+0001D445><U+0001D453> <U+0001D461> + <U+0001D436><U+0001D446><U+0001D453> <U+0001D461>0
+     Historical
+                         spot tra l’IBOR e il RFR calcolato su un                                              1 <U+0001D461>0
+   Mean/Median           periodo statico significativo (e.g. 5 o 10                                <U+0001D436><U+0001D446><U+0001D453> <U+0001D461>0 =      <U+0DB1>    <U+0001D43F> <U+0001D461> - <U+0001D445><U+0001D453> <U+0001D461>   <U+0001D451><U+0001D461>
+     Approach                                                                                                  <U+0001D6FF> <U+0001D461>0-<U+0001D6FF> <U+0001D453>
+                         annui)
+                                                                        Per date nel periodo di transizione <U+0001D461>1, <U+0001D461>2 : <U+0001D43F><U+0001D439><U+0001D453> <U+0001D461> = <U+0001D445><U+0001D453> <U+0001D461> + <U+0001D436><U+0001D446><U+0001D453> <U+0001D461> dove
+                                                                                                    <U+0001D461>2 - <U+0001D461>                      <U+0001D461> - <U+0001D461>1
+                                                                                        <U+0001D436><U+0001D446><U+0001D453> <U+0001D461> =               <U+0001D43F><U+0001D453> <U+0001D461>0 - <U+0001D445><U+0001D453> <U+0001D461>0  +         <U+0001D436><U+0001D446><U+0001D453> <U+0001D461>2
+                        Basato sullo spread spot tra l’IBOR e il                                   <U+0001D461>2 - <U+0001D461>1                     <U+0001D461>2 - <U+0001D461>1
+   Spot-Spread
+                        RFR nel giorno (o alcuni giorni) precedente     Per date oltre il periodo di transizione <U+0001D43F><U+0001D439><U+0001D453> <U+0001D461> = <U+0001D445><U+0001D453> <U+0001D461> + <U+0001D436><U+0001D446><U+0001D453> <U+0001D461>2 dove
+     Approach           l’evento di attivazione del trigger di fallback
+                                                                                                               1 <U+0001D461>0
+                                                                                                   <U+0001D436><U+0001D446><U+0001D453> <U+0001D461>2 =     <U+0DB1>     <U+0001D43F> <U+0001D461> - <U+0001D445><U+0001D453> <U+0001D461>   <U+0001D451><U+0001D461>
+                                                                                                               <U+0001D43F> <U+0001D461>0-<U+0001D43F> <U+0001D453>
+                                                          Forward Approach          Historical Mean/Median Approach               Spot-Spread Approach
+            Spot Overnight Rate                                      <U+2718>                                   <U+2714>                                    <U+2714>
+     Convexity - adjusted Overnight Rate                             <U+2718>                                   <U+2714>                                    <U+2714>
+    Compounded Setting in Arrears Rate                               <U+2714>                                   <U+2714>                                    <U+2718>
+    Compounded Setting in Advance Rate                               <U+2714>                                   <U+2714>                                    <U+2714>
+Pag. 44
+
+Check list ICMA
+Requisiti della transizione da EONIA a ESTER
+ L'International Capital Markets Association (ICMA) mira a promuovere mercati di titoli di debito cross-border validi e
+ coerenti a livello internazionale e globale; sta lavorando alla riforma dei benchmark e sulla relativa transizione da diversi
+ anni, partecipando al gruppo di lavoro ECB come membro non votante nonché ai gruppi di lavoro in UK e nell'area
+ svizzera.
+ Durante l'incontro del 9 novembre 2018, l'ICMA ha proposto una check list ai partecipanti al mercato; la check list
+ proposta prevede di:
+ <U+25BA>  Stabilire un formale programma di transizione, per cui è stato allocato un budget, coinvolgendo i referenti delle
+    aree più impattate nonché i business owners
+ <U+25BA>  Quantificare e analizzare le esposizioni ai benchmark impattati, prodotto per prodotto, cercando di calcolare le
+    esposizioni anche nei prossimi tre anni, rivedendo i processi e le relative tecnologie che saranno impattate dalla
+    transizione, nonché ponendo attenzione che i sistemi di reporting permettano di monitorare le esposizioni
+    correttamente
+ <U+25BA>  Analizzare i contratti in essere e le relative clausole di fallback, coinvolgendo i legali e considerando fallback
+    differenti per prodotto e tipo di contratto, allo scopo di mitigare i rischi della transizione
+ <U+25BA>  Considerare la comunicazione con le terze parti, in particolare con i technology vendor, in modo da dare loro
+    tempo sufficiente per aggiornare i sistemi
+ <U+25BA>  Definire una roadmap della transizione in termini di obiettivi da raggiungere, responsabilità, piani di dettaglio delle
+    attività
+Pag. 45
+
+Contatti
+  IBOR Campaign Leader                 ALM & Treasury
+  Emilio Maffi                         Massimiliano Valentini
+  Partner, Risk                        Partner, PI
+  +393351230177                        +393351635803
+  emilio.maffi@it.ey.com               massimiliano.valentini@it.ey.com
+  Risk                                 Processi e Sistemi Informativi
+  Luca Raso                            Raffaella Mele
+  Senior Manager, Risk                 Partner, PI
+  +393666909120                        +393351635863
+  luca.raso@it.ey.com                  raffaella.mele@it.ey.com
+  Accounting                           Legal
+  Francesca Amatimaggio                Davide Nervegna
+  Partner, FAAS                        Associate Partner, Law Leader
+  +393387857277                        +393393046257
+  francesca.amatimaggio@it.ey.com      davide.nervegna@it.ey.com
+  TAS                                  Insurance
+  Francesco Pau                        Patrizio Rossi
+  Partner, CT-Valuation & Bus Modeling Senior Manager, Risk
+  +393351230437                        +393295820887
+  francesco.pau@it.ey.com              patrizio.rossi@it.ey.com
+Pag. 46
+

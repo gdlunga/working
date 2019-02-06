@@ -1,0 +1,1158 @@
+DATA:                         30/06/2017                      DATA SCADENZA:             Fino a revoca
+CODICE TESTO:                 D 02221 001 NMOG                CODICE RISORSA             AAA007SLP
+OGGETTO:
+                              Identificazione e gestione del model
+                              change (rischio di credito)
+MACROPROCESSO:                RISK MANAGEMENT
+PROCESSO:                     Gestione del rischio di credito
+SEGMENTO DI MERCATO:          Non applicabile
+(prevalentemente interessato)
+RUOLI:                        Capogruppo - Responsabile di struttura; Capogruppo - Addetto
+(prevalentemente interessati)
+SERIE/SETTORE/SERVIZIO:       23           /   3          /   4
+TESTI ANNULLATI:
+PRESA VISIONE:                1              senza formalità
+STRUTTURA EMANANTE:           (5966)         AR RISK MAN.
+ASSISTENZA DI TIPO            cfr. par. 1.5
+TECNICO/OPERATIVO:
+
+                   Oggetto: Identificazione e gestione del model change (rischio di credito)
+                   Codice: D 02221 001                    Pubblicato il: 30/06/2017                 Pag. 1 di 21
+                                                   INDICE
+1 - QUADRO DI SINTESI ................................................................................................ 2
+  1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI .............................................. 2
+  1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE .................. 2
+  1.3 - DESTINATARI ..................................................................................................... 2
+  1.4 - DECORRENZA ..................................................................................................... 3
+  1.5 - RIFERIMENTI PER ASSISTENZA ............................................................................ 3
+2 - ASPETTI DI CONTESTO ............................................................................................. 3
+3 - ARTICOLAZIONE E RESPONSABILITA’ ......................................................................... 4
+  3.1 - ELENCO FUNZIONI E RUOLI INTERESSATI ............................................................. 4
+  3.2 - RAPPRESENTAZIONE GRAFICA ............................................................................. 5
+4 - PROPOSTA DI MODEL CHANGE................................................................................... 7
+  4.1 - NORME GENERALI ............................................................................................... 7
+  4.2 - RISCHI E CONTROLLI .......................................................................................... 8
+  4.3 - SEQUENZA DEGLI ADEMPIMENTI .......................................................................... 8
+5 - ANALISI PRELIMINARI .............................................................................................. 8
+  5.1 - NORME GENERALI ............................................................................................... 8
+  5.2 - RISCHI E CONTROLLI .......................................................................................... 8
+  5.3 - SEQUENZA DEGLI ADEMPIMENTI .......................................................................... 9
+6 - VALUTAZIONE QUALI-QUANTITATIVA ....................................................................... 10
+  6.1 - NORME GENERALI ............................................................................................. 10
+  6.2 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 10
+7 - CONVALIDA DEL MODEL CHANGE ............................................................................. 11
+  7.1 - NORME GENERALI ............................................................................................. 11
+  7.2 - RISCHI E CONTROLLI ........................................................................................ 11
+  7.3 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 12
+8 - AUDIT DEL MODEL CHANGE ..................................................................................... 13
+  8.1 - NORME GENERALI ............................................................................................. 13
+  8.2 - RISCHI E CONTROLLI ........................................................................................ 13
+  8.3 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 13
+9 - COINVOLGIMENTO DEGLI ORGANI DI GOVERNO ........................................................ 14
+  9.1 - NORME GENERALI ............................................................................................. 14
+  9.2 - RISCHI E CONTROLLI ........................................................................................ 15
+  9.3 - SEQUENZA DEGLI ADEMPIMENTI ........................................................................ 15
+10 - GESTIONE ITER APPROVATIVO E DI COMUNICAZIONE .............................................. 16
+  10.1 - NORME GENERALI ........................................................................................... 16
+  10.2 - RISCHI E CONTROLLI ...................................................................................... 17
+  10.3 - SEQUENZA DEGLI ADEMPIMENTI ...................................................................... 18
+11 - REALIZZAZIONE DEL MODEL CHANGE ..................................................................... 19
+  11.1 - NORME GENERALI ........................................................................................... 19
+  11.2 - RISCHI E CONTROLLI ...................................................................................... 19
+  11.3 - SEQUENZA DEGLI ADEMPIMENTI ...................................................................... 19
+12 - ELENCO TESTI NORMATIVI DI RIFERIMENTO ........................................................... 21
+
+                      Oggetto: Identificazione e gestione del model change (rischio di credito)
+                      Codice: D 02221 001              Pubblicato il: 30/06/2017             Pag. 2 di 21
+1 - QUADRO DI SINTESI
+1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI
+Il presente documento norma, nell’ambito del processo di Gestione del Rischio di Credito, la
+Fase relativa alla “Identificazione e gestione del model change (rischio di credito)” intesa come
+l’individuazione, la gestione e la comunicazione dei model change per il Gruppo MPS.
+Per model change s’intende una modifica dei metodi di calcolo e misurazione basati sui sistemi
+di rating internamente sviluppati dalla Banca per la misurazione del Rischio di Credito.
+Si riporta di seguito la definizione normativa di model change (d’ora in avanti citato anche
+come “intervento”) presente nel Regolamento Delegato (UE) N. 529/2014: “Le modifica
+dell’ambito di applicazione di un sistema di rating o di un metodo di calcolo delle esposizioni in
+strumenti di capitale basato su modelli interni (“modifiche al metodo IRB”)”
+L’obiettivo del documento è quello di descrivere gli adempimenti necessari nell’ambito del
+processo di gestione e definizione dei model change al fine di:
+- assicurare che eventuali situazioni che possono far scaturire un model change vengano
+     recepite prontamente dalla Banca e indirizzate correttamente alle funzioni preposte;
+- assicurare che i modelli di misurazione del rischio del credito siano conformi alla normativa
+     vigente, al business della Banca e al portafoglio in essere;
+- formalizzare il processo di individuazione, gestione e comunicazione conformemente ai
+     requisiti regolamentari.
+La definizione del processo di gestione e comunicazione di un model change riflette la tipologia
+e la rilevanza dello stesso come prescritto dall’ art 143 del regolamento (UE) N. 575/2013
+(CRR) e dal Regolamento Delegato (UE) N. 529/2014 (di seguito Regolamento UE).
+1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE
+Prima versione.
+1.3 - DESTINATARI
+Il documento è destinato a Banca MPS e alle seguenti Società del Gruppo che sono autorizzate
+all’utilizzo di sistemi interni di misurazione dei rischi di credito ai fini della determinazione del
+requisito patrimoniale:
+      MPS Capital Services Banca per le Imprese S.p.A.
+      MPS Leasing & Factoring S.p.A.
+      Consorzio Operativo Gruppo MPS, quale Società di gestione sistemi informativi del Gruppo.
+Resta ferma la possibile estensione ad altre Società Controllate qualora autorizzate
+dall’Autorità di Vigilanza all’utilizzo dei sistemi interni di misurazione dei rischi di credito ai fini
+della determinazione del requisito patrimoniale.
+Le singole società possono emanare analoga normativa nel rispetto delle regole e dei processi
+di seguito descritti, adeguando regole, responsabilità e processi interni, in coerenza con le
+proprie caratteristiche e dimensioni.
+L’eventuale recepimento deve essere notificato alle seguenti Strutture e Funzioni della
+Capogruppo:
+      Struttura cui fa capo il riporto societario della singola società;
+      Funzione Rischio di Credito;
+      Area Organizzazione e Demand.
+
+                     Oggetto: Identificazione e gestione del model change (rischio di credito)
+                     Codice: D 02221 001              Pubblicato il: 30/06/2017             Pag. 3 di 21
+1.4 - DECORRENZA
+Data pubblicazione.
+1.5 - RIFERIMENTI PER ASSISTENZA
+Servizio Rischi di Credito: rischi.credito@mps.it
+2 - ASPETTI DI CONTESTO
+Un model change è una modifica apportata ai sistemi interni di misurazione del rischio di
+credito. Trattasi quindi di cambiamenti apportati ai modelli di valutazione e misurazione in
+grado di catturare le diverse specificità sottostanti le differenti fonti di rischio (cfr.
+1030D01020).
+In accordo con la normativa vigente, art 143 del CRR e il Regolamento (UE), i model change
+possono essere classificati in:
+- Model change sostanziali che richiedono l’approvazione dell’autorità competente prima
+    di poter essere implementati;
+- Model change non sostanziali che si distinguono in:
+     - Modifiche che richiedono la comunicazione all’Autorità di Vigilanza prima
+        dell’implementazione (notifica ex-ante);
+     - Modifiche che non richiedono la comunicazione all’Autorità di Vigilanza (notifica ex-
+        post). Tali comunicazioni avverranno nell’ambito delle comunicazioni generali da
+        effettuare almeno con cadenza annuale all’Autorità di Vigilanza. Di seguito viene fornita
+        una breve lista, non esaustiva, di casistiche identificate dalla banca che rientrano in
+        questa categoria:
+          - aggiornamento continuo e marginale dei modelli al fine di assicurare la corretta
+             rappresentazione dei dati sottostanti (e.g. aggiornamento serie storiche);
+          - shift della serie storica in fase di calibrazione;
+          - ristima modelli di rating che non comporti modifiche sostanziali.
+L’attribuzione degli interventi a una delle categorie sopra riportate avviene tenendo in
+considerazione sia aspetti qualitativi (modifiche all’ambito di applicazione del sistema di rating
+e modifiche al sistema di rating) sia aspetti quantitativi, in accordo con il Regolamento UE. Per
+quanto riguarda la seconda tipologia, la normativa propone delle soglie quantitative in
+considerazione del fatto che un model change potrebbe avere degli impatti sia in termini di
+RWA (risk-weighted assets) sia di requisiti di capitale.
+I
+noltre si stabilisce che, per quanto concerne l’estensione o la modifica di un model change,
+conformemente a quanto previsto dal Regolamento UE:
+- Un'estensione o modifica sostanziale unica non può essere scissa in più estensioni o
+    modifiche di rilevanza inferiore;
+- In caso di dubbio, si assegna l'estensione o modifica alla categoria avente la rilevanza
+    potenziale più elevata;
+- Se l'estensione o modifica sostanziale ha ottenuto l'autorizzazione dell'autorità competente,
+    si calcolano i requisiti di fondi propri in base all'estensione o modifica autorizzata a partire
+    dalla data indicata nella nuova autorizzazione che sostituisce la precedente. Per non attuare
+    l'estensione o modifica autorizzata dall'autorità competente, a partire dalla data indicata
+    nella nuova autorizzazione, occorre un'ulteriore autorizzazione della stessa autorità, che va
+    richiesta al più presto;
+
+                       Oggetto: Identificazione e gestione del model change (rischio di credito)
+                       Codice: D 02221 001              Pubblicato il: 30/06/2017             Pag. 4 di 21
+-    Se l'attuazione dell'estensione o modifica autorizzata dall'Autorità di Vigilanza è posticipata,
+     si notifica il ritardo all'autorità competente e si presenta un piano di pronta attuazione
+     dell'estensione o modifica autorizzata, la cui tempistica dev'essere concordata con l'autorità
+     competente;
+-    Laddove l'estensione o modifica rientri nella categoria soggetta a notifica preventiva
+     all'autorità competente, la Banca che, dopo tale notifica, decide di non attuare l'estensione
+     o modifica, notifica al più presto questa decisione all'autorità competente;
+-    Il roll-out è escluso dal presente regolamento;
+-    In caso di fusioni tra due entità, entrambe con modelli AIRB, si applicano i principi del
+     Regolamento UE.
+In accordo con l’articolo     143 della CRR, tutti gli istituti sono tenuti a presentare richiesta
+formale di approvazione        nel caso intendano implementare un’estensione o cambiamento
+sostanziale all’interno dei   loro sistemi interni di valutazione del rischio di credito, in modo da
+assicurare che tali sistemi   siano conformi ai requisiti regolamentari.
+Nelle tabelle in allegato viene proposto l’elenco dettagliato delle specifiche per l’individuazione
+della tipologia di model change sostanziali e con comunicazione ex-ante.
+3 - ARTICOLAZIONE E RESPONSABILITA’
+3.1 - ELENCO FUNZIONI E RUOLI INTERESSATI
+Quadro di raccordo tra “Nome convenzionale Funzione” e Struttura vigente
+  Nome Convenzionale Funzione           Struttura Organizzativa
+                                       BMPS:
+  AD
+                                         Amministratore Delegato/Direttore Generale
+                                       BMPS:
+  CDA
+                                         Consiglio di Amministrazione
+  Comitato Basilea                       Comitato Operativo Basilea
+                                       BMPS:
+  Comitato Gestione rischi
+                                         Comitato Gestione Rischi
+                                       BMPS:
+  Comitato Rischi
+                                         Comitato Rischi
+                                       BMPS:
+                                         Area Revisione Specialistica - Servizio Risk Audit
+  Controllo
+                                         Area Validazione, Monitoraggio e Informativa Istituzionale -
+                                         Servizio Validazione Sistemi di Rischio
+                                       BMPS:
+  Convalida Interna                      Area Validazione, Monitoraggio e Informativa Istituzionale -
+                                         Servizio Validazione Sistemi di Rischio
+                                       BMPS:
+  CRO
+                                         Direzione Chief Risk Officer
+                                       BMPS:
+  Gestione del Rischio
+                                         Direzione Chief Risk Officer - Area Risk Management
+                                       Consorzio:
+  IT
+                                         Servizio Rischi e Segnalazioni
+                                       BMPS:
+                                         Area Organizzazione e Demand - Servizio Organization Partner
+  Organizzazione                         CCO
+                                         Area Organizzazione e Demand - Servizio Organization Partner
+                                         CLO, CRO, CAE, Compliance
+                                       Consorzio:
+  Proponente                             Servizio Rischi e Segnalazioni
+                                       BMPS:
+
+                    Oggetto: Identificazione e gestione del model change (rischio di credito)
+                    Codice: D 02221 001              Pubblicato il: 30/06/2017             Pag. 5 di 21
+ Nome Convenzionale Funzione         Struttura Organizzativa
+                                      Area Revisione Specialistica - Servizio Risk Audit
+                                      Direzione Chief Lending Officer - Direzione Crediti Non
+                                      Performing
+                                      Area Organizzazione e Demand - Servizio Organization Partner
+                                      CCO
+                                      Direzione Chief Commercial Officer - Direzione Corporate
+                                      Area Risk Management - Servizio Rating
+                                      Area Amministrazione e Bilancio - Servizio Normativa
+                                      Regolamentare e Reporting
+                                      Direzione Chief Commercial Officer - Direzione Retail
+                                      Direzione Chief Lending Officer - Area Credit Portfolio
+                                      Governance
+                                      Area Validazione, Monitoraggio e Informativa Istituzionale -
+                                      Servizio Validazione Sistemi di Rischio
+                                      Area Risk Management - Servizio Integrazione Rischi e Reporting
+                                      Direzione Chief Lending Officer - Direzione Crediti Performing
+                                      Area Risk Management - Servizio Rischi di Credito
+                                      Area Organizzazione e Demand - Servizio Organization Partner
+                                      CLO, CRO, CAE, Compliance
+                                   BMPS:
+ Revisione Interna
+                                      Area Revisione Specialistica - Servizio Risk Audit
+                                   BMPS:
+ Rischio di Credito
+                                      Area Risk Management - Servizio Rischi di Credito
+3.2 - RAPPRESENTAZIONE GRAFICA
+Tutti i processi aziendali sono inseriti nella Tassonomia di Gruppo, che prevede cinque livelli
+gerarchici: ambito, macroprocesso, processo (P), fase (F), attività (AT) (cfr. 1030D01823
+“Policy in materia di Normativa Interna e Processi”).
+L’argomento trattato è inserito nella Tassonomia di Gruppo nei processi di Risk Management.
+
+                  Oggetto: Identificazione e gestione del model change (rischio di credito)
+                  Codice: D 02221 001              Pubblicato il: 30/06/2017             Pag. 6 di 21
+Gli adempimenti relativi alle fasi/ attività sopra indicate sono descritti in dettaglio nei capitoli
+successivi.
+
+                       Oggetto: Identificazione e gestione del model change (rischio di credito)
+                       Codice: D 02221 001              Pubblicato il: 30/06/2017             Pag. 7 di 21
+4 - PROPOSTA DI MODEL CHANGE
+4.1 - NORME GENERALI
+La proposta di model change rappresenta la prima fase nell’individuazione, gestione e
+comunicazione di un model change.
+Non è stabilita una periodicità a priori per il suo svolgimento; si sottolinea tuttavia che, in
+conformità alla normativa vigente, i sistemi di rating interni sono soggetti a monitoraggio
+periodico e revisione con cadenza almeno annuale, controlli rispetto ai quali potrebbero
+scaturire eventuali proposte di model change.
+L’obiettivo di questa prima attività è quella di intercettare quelle circostanze che possono
+portare ad un model change e di segnalare alla Funzione Rischio di Credito quelle situazioni
+non direttamente intercettate o non individuabili da quest’ultimo.
+Si evidenzia come un model change possa scaturire da diverse situazioni di cui si riporta di
+seguito una lista esemplificativa e non esaustiva:
+- Aggiornamenti ed evoluzioni normative: il rilascio di nuove linee guida da parte
+     dell’autorità di competenza può portare la Banca a doversi allineare;
+- Gap emersi durante la fase di monitoraggio dei modelli (backtesting): a seguito del
+     monitoraggio periodico effettuato dalla funzione Rischio di Credito sui sistemi di rating,
+     potrebbe essere necessario apportare alcuni cambiamenti/modifiche;
+- Rilievi da parte di Convalida interna e Revisione interna: le funzioni di Convalida e di
+     Revisione interna si occupano di analizzare, rivedere e controllare i sistemi di rating
+     internamente sviluppati e, in tale ambito, possono riscontrare delle aree che richiedono
+     l’intervento del rischio di credito e la modifica dei modelli;
+- Rilievi emersi durante le ispezioni: l’autorità di competenza, a seguito di controlli
+     periodici, potrebbe ritenere necessario che vengano apportati alcuni cambiamenti;
+- Modifiche del portafoglio di MPS: un cambiamento del portafoglio della Banca può
+     portare alla necessità di revisione dei modelli in modo tale che questi ultimi siano
+     maggiormente rappresentativi del portafoglio di MPS;
+- Estensione dell’ambito di applicazione del sistema di rating: modifiche del perimetro
+     del Gruppo ossia estensione a esposizioni dello stesso tipo di prodotto o debitore in unità
+     operativa supplementare;
+- Variazione della normativa interna o degli intenti della Banca;
+- Benchmark con i peers: dal confronto con altri players potrebbe emergere l’esigenza o
+     opportunità di allinearsi alle scelte fatte da questi ultimi, al fine di aggiornare i modelli ed
+     essere maggiormente in linea con le best practice di mercato, anche nell’ottica di favorire e
+     presidiare l’armonizzazione delle modalità di misurazione del rischio perseguita dall’autorità
+     di vigilanza stessa.
+A prescindere da chi sia l’attore che fa la proposta o la causa sottostante, la proposta
+d’intervento viene sempre presentata alla Funzione Rischio di Credito. Tale proposta è
+formalizzata utilizzando un apposito template, predisposto per strutturare e facilitare le
+comunicazioni interne inerenti un model change (cfr. Template di model change e guida alla
+compilazione).
+Il template è stato strutturato affinché il proponente venga guidato nella sua corretta e
+puntuale compilazione consentendo alla funzione ricevente (Funzione Rischio di Credito) di
+avere una visione completa dell’intervento presentato.
+All’interno del form di proposta, i model change sono stati ricondotti, in accordo con il
+Regolamento (UE) a due ambiti:
+- Modifiche al “Range of application” (Modifiche all’ambito di applicazione);
+- Modifiche al “Rating system” (Sistema di rating).
+All’interno di ciascun ambito, vengono individuate alcune tipologie, a loro volta rappresentative
+di un raggruppamento di model change.
+
+                        Oggetto: Identificazione e gestione del model change (rischio di credito)
+                        Codice: D 02221 001               Pubblicato il: 30/06/2017            Pag. 8 di 21
+Nel template viene inoltre fornito un terzo ambito di tipo residuale denominato “Other”, da
+utilizzare solo ed esclusivamente nel caso in cui la Funzione Proponente non sia in grado di
+definire quale sia l’ambito e la tipologia all’interno del quale classificare la proposta.
+4.2 - RISCHI E CONTROLLI
+ Rischi                                                    Controlli contestuali agli adempimenti
+Rischio operativo: Non completo/corretto                  Controllo     manuale:       Verificare    la   corretta
+inserimento delle informazioni necessarie per             formulazione della proposta
+l'istruzione della pratica
+4.3 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID      Adempimenti        Descrizione                                           Attori            Supporti
+1       Identificare il    Identificare una o più situazioni che potrebbero      Proponente
+        model change       portare a un model change.                            Funzioni
+                                                                                 coinvolte:
+                                                                                    Rischio di
+                                                                                    Credito
+2       Formulare la       Formulare la proposta di model change, a fronte       Proponente        Documenti di
+        proposta di                                                                                input
+                           di quanto riscontrato in sede d’identificazione,                        Template di
+        model change       compilando il template all'interno del quale è        Funzioni
+                                                                                                   model change
+                                                                                 coinvolte:
+                           dettagliato l'intervento suggerito ed è fornita la
+                           prima valutazione di sostanzialità.                      Rischio di
+                                                                                    Credito
+3       Verificare la      Verificare la corretta formulazione della             Proponente        Documenti di
+        corretta                                                                                   input
+                           proposta e la corretta valorizzazione del                               Template di
+        formulazione       template provvedendo a correggere eventuali                             model change
+        della proposta
+                           incongruenze. La proposta viene completata da
+        (Controllo                                                                                 Documenti di
+        manuale)           eventuali file allegati.
+                                                                                                   output
+                                                                                                   Template di
+                              Proseguire con il processo "Analisi                                  model change
+                              Preliminari"
+5 - ANALISI PRELIMINARI
+5.1 - NORME GENERALI
+A fronte di una proposta di model change, la Funzione Rischio di Credito valuta lo stesso al fine
+di stabilire se è necessario procedere con le successive richieste di autorizzazione finalizzate
+all’implementazione di un intervento. Per finalizzare la proposta di model change, è necessario
+che la Funzione Rischio di Credito si occupi, in primo luogo, di preparare eventuali nuove basi
+dati (con il supporto della Funzione IT e Organizzazione cfr. 1030D01642) e di implementare le
+analisi a supporto della definizione del model change.
+5.2 - RISCHI E CONTROLLI
+ Rischi                                                    Controlli contestuali agli adempimenti
+Rischio di business: Rischio di errori nella              Controllo manuale: Eseguire le analisi preliminari
+valutazione della proposta.                               di completezza e adeguatezza della proposta
+
+                     Oggetto: Identificazione e gestione del model change (rischio di credito)
+                     Codice: D 02221 001               Pubblicato il: 30/06/2017            Pag. 9 di 21
+5.3 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID    Adempimenti      Descrizione                                            Attori            Supporti
+1     Acquisire la     Acquisire la proposta di intervento formulata          Rischio di        Documenti di
+      proposta di                                                             Credito           input
+                       con la compilazione del template.                                        Template di
+      model change
+                                                                                                model change
+2     Eseguire le      Eseguire le analisi preliminari di completezza e       Rischio di        Documenti di
+      analisi                                                                 Credito           input
+                       adeguatezza delle proposte formulate a mezzo                             Template di
+      preliminari di   template.                                                                model change
+      completezza e
+      adeguatezza
+      della proposta   In caso di:
+      (Controllo          Documentazione prodotta non sufficiente,
+      manuale)            proseguire con l'Adempimento 3
+                          Documentazione prodotta esaustiva,
+                          proseguire con l'Adempimento 5
+3     Richiedere la    Nel caso in cui la documentazione fornita dal          Rischio di
+      documentazion    proponente non sia sufficiente, richiedere             Credito
+      e integrativa    un'integrazione della stessa al fine di consentire     Funzioni
+                                                                              coinvolte:
+                       una valutazione preliminare adeguata.
+                                                                                 Proponente
+4     Fornire le       Fornire le integrazioni richieste.                     Proponente        Documenti di
+      integrazioni                                                            Funzioni          output
+                                                                                                Template di
+      richieste                                                               informate:
+                          Ripetere l'Adempimento 2                                              model change
+                                                                                 Rischio di
+                                                                                 Credito
+5     Valutare la      A fronte della disponibilità di tutte le               Rischio di
+      proposta di      informazioni e della documentazione necessaria         Credito
+      model change     ai fini della valutazione preliminare, analizzare
+                       le proposte ricevute e valutare quali possono
+                       essere ulteriormente approfondite e quali vanno
+                       invece respinte.
+                       In caso di:
+                          Proposta di model change respinta,
+                          proseguire con l'Adempimento 6
+                          Proposta di model change da approfondire,
+                          proseguire con l'Adempimento 7
+6     Comunicare       Comunicare l'esito negativo della valutazione          Rischio di
+      l'esito della    motivandone il respingimento.                          Credito
+      valutazione                                                             Funzioni
+                                                                              informate:
+                          Il processo termina
+                                                                                 Proponente
+7     Comunicare       Comunicare la proposta di model change al              Rischio di
+      preventivament   Comitato di Basilea per ottenere parere                Credito
+      e la proposta di preventivo.                                            Funzioni
+      model change                                                            autorizzanti:
+      al Comitato                                                                Comitato
+      Basilea          In caso di:
+                                                                                 Basilea
+                          Proposta da approfondire respinta da
+                          Comitato Basilea, proseguire con                    Funzioni
+                          l'Adempimento 8                                     informate:
+                          Proposta da approfondire accolta da Comitato           Proponente
+                          Basilea, proseguire con il processo
+                          "Valutazione quali-quantitativa"
+8     Comunicare       Comunicare l'esito negativo della valutazione          Comitato
+      l'esito della    motivandone il respingimento.                          Basilea
+      valutazione                                                             Funzioni
+                                                                              informate:
+                          Il processo termina
+                                                                                 Rischio di
+                                                                                 Credito
+                                                                                 Proponente
+
+                        Oggetto: Identificazione e gestione del model change (rischio di credito)
+                        Codice: D 02221 001               Pubblicato il: 30/06/2017            Pag. 10 di 21
+6 - VALUTAZIONE QUALI-QUANTITATIVA
+6.1 - NORME GENERALI
+Ai fini dell’assegnazione della sostanzialità di un model change, la Funzione Rischio di Credito:
+- esegue una valutazione qualitativa in accordo con quanto prescritto dal Regolamento UE in
+     modo da determinare il grado di sostanzialità qualitativa dell’intervento;
+- analizza gli impatti del model change al fine di verificare la sostanzialità da un punto di
+     vista quantitativo;
+- prepara la documentazione a supporto (es. scheda modello, template per le comunicazioni
+     interne, ecc).
+Con riferimento al terzo punto, si sottolinea come, in funzione della sostanzialità o meno del
+model change, la documentazione a supporto varia anche in termini di complessità.
+L’assegnazione della sostanzialità complessiva di un model change avviene tenendo in
+considerazione sia aspetti qualitativi sia aspetti quantitativi determinati in questa attività.
+Per quanto riguarda la valutazione quantitativa, il Regolamento UE individua le soglie rilevanti
+per definire la sostanzialità in termini di RWA (risk-weighted assets).
+Al fine di facilitare la comunicazione con le funzioni di controllo, la Funzione Rischio di Credito
+utilizza un apposito template, (cfr. Template valutazione model change).
+6.2 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID      Adempimenti       Descrizione                                            Attori            Supporti
+1       Valutare la       Valutare, dal punto di vista qualitativo, la           Rischio di        Documenti di
+        sostanzialità                                                            Credito           input
+                          sostanzialità dell'intervento sulla base delle                           Template di
+        qualitativa       informazioni e della documentazione acquisita                            model change
+        dell'intervento
+                          considerando i requisiti previsti dalla normativa
+                          esterna di riferimento.
+2       Effettuare        Effettuare analisi quantitativa della modifica         Rischio di        Documenti di
+        Analisi                                                                  Credito           input
+                          richiesta di model change attraverso il                                  Template
+        quantitativa      ricalcolo/verifica dei parametri di rischio            Funzioni
+                                                                                                   valutazione
+        della modifica                                                           coinvolte:
+                           (pd/lgd/ead), coinvolgendo la Funzione IT nel                           model change
+        richiesta                                                                   Organizzazio
+                          caso in cui sia necessaria un'integrazione dati
+                                                                                    ne             Normativa
+                          utile alla quantificazione. Qualora la modifica                          1030D01020
+                                                                                    IT
+                          richieda una ristima del modello si avvia il
+                          consueto processo interno di ristima del                                 1030D01642
+                          modello.
+3       Quantificare gli  Quantificare gli impatti derivanti                     Rischio di        Documenti di
+        impatti in                                                               Credito           input
+                          dall'implementazione del model change in                                 Template
+        termini di        termini di:                                                              valutazione
+        requisiti
+                          - RWA                                                                    model change
+        patrimoniali
+                          - Shortfall (SF)
+4       Verificare la     Verificare la sostanzialità del model change da        Rischio di        Documenti di
+        sostanzialità                                                            Credito           input
+                          un punto di vista quantitativo, confrontando gli                         Template
+        quantitativa      impatti quantificati con le prescrizioni                                 valutazione
+        dell'intervento
+                          normative.                                                               model change
+5       Valutare          Valutare complessivamente la sostanzialità             Rischio di        Documenti di
+        complessivame                                                            Credito           input
+                          dell'intervento confrontando sia aspetti                                 Template
+        nte la            qualitativi sia gli impatti quantitativi rispetto alle                   valutazione
+        sostanzialità
+                          prescrizioni normative esterne.                                          model change
+        dell'intervento
+
+                         Oggetto: Identificazione e gestione del model change (rischio di credito)
+                         Codice: D 02221 001                Pubblicato il: 30/06/2017           Pag. 11 di 21
+ ID      Adempimenti         Descrizione                                           Attori            Supporti
+6       Classificare        Classificare l'intervento nell'ambito delle           Rischio di
+        l'intervento        tipologie di model change tenendo in                  Credito
+        nell'ambito         considerazione la combinazione degli aspetti
+        delle tipologie
+                            quali e quantitativi.
+        di model
+        change
+7       Predisporre e       Predisporre la documentazione a supporto              Rischio di        Documenti di
+        inviare alle                                                              Credito           output
+                            dell'analisi eseguita ed inviarla alle funzioni di                      Documentazione
+        funzioni di         controllo.                                            Funzioni
+                                                                                                    a supporto della
+        controllo la                                                              informate:
+                            In funzione della sostanzialità o meno del model                        valutazione
+        documentazion                                                                Controllo
+        e a supporto        change, la documentazione a supporto varia
+                                                                                                    Template
+        dell'analisi        anche in termini di complessità.                                        valutazione
+        eseguita                                                                                    model change
+                               Proseguire con il processo "Convalida del
+                               Model Change"
+7 - CONVALIDA DEL MODEL CHANGE
+7.1 - NORME GENERALI
+La Funzione Convalida Interna recepisce la documentazione dalla Funzione Rischio di Credito e
+verifica la pertinenza e la coerenza del model change proposto. La verifica posta in essere dalla
+Funzione Convalida interna può comportare:
+- Riscontro di rilievi bloccanti: L’intervento proposto non viene implementato.
+- Riscontro di rilievi non bloccanti: L’intervento proposto viene sottoposto alla fase
+     successiva previa definizione di un “action plan” che garantisca la risoluzione delle anomalie
+     riscontrate.
+- Nessun rilievo: L’intervento proposto viene sottoposto alla fase successiva ‘Audit del
+     model change’ in caso di model change sostanziale, o all’approvazione dei comitati
+     competenti in caso di model change non sostanziale.
+Al fine di facilitare le comunicazioni tra le Funzioni di Controllo e la funzione Rischio di Credito,
+viene utilizzato un apposito template (cfr. Template Verifica Adeguatezza model change).
+L’esito delle valutazioni eseguite dalla Funzione Convalida Interna sono poste all’attenzione
+della Funzione Rischio di Credito con lo scopo di:
+- stabilire se l’intervento in esame può essere portato avanti o meno;
+- definire un “action plan”, ovvero un piano di azione che vada a garantire la risoluzione degli
+     eventuali rilievi non bloccanti riscontrati dalla Funzione Convalida interna.
+Nell’eventualità che si presentino opinioni contrastanti tra Funzione Rischio di Credito e
+Funzione Convalida Interna, vengono attivate le procedure previste dalla normativa interna al
+fine di addivenire a una soluzione condivisa da presentare al livello successivo di approvazione.
+7.2 - RISCHI E CONTROLLI
+ Rischi                                                      Controlli contestuali agli adempimenti
+Rischio operativo: Le informazioni ai fini                  Controllo manuale: Verificare l'adeguatezza
+dell'attività di revisione non sono analizzate in           dell'intervento proposto e della documentazione a
+modo adeguato o non sono disponibili                        supporto formulando un parere di convalida
+
+                       Oggetto: Identificazione e gestione del model change (rischio di credito)
+                       Codice: D 02221 001                Pubblicato il: 30/06/2017           Pag. 12 di 21
+7.3 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID    Adempimenti        Descrizione                                            Attori            Supporti
+1     Acquisire la       Acquisire la documentazione necessaria per la          Convalida         Documenti di
+      documentazion                                                             Interna           input
+                         verifica di pertinenza e coerenza del model                              Template
+      e relativa         change prodotta dalla funzione coinvolta.              Funzioni
+                                                                                                  valutazione
+      all'analisi di                                                            coinvolte:        model change
+      model change                                                                 Rischio di
+                                                                                   Credito
+2     Verificare         Verificare la documentazione relativa alla             Convalida         Documenti di
+      l'adeguatezza                                                             Interna           output
+                         richiesta di model change e la coerenza di                               Template verifica
+      dell'intervento    quest’ultimo rispetto agli obiettivi previsti e a      Funzioni
+                                                                                                  adeguatezza
+      proposto e della                                                          coinvolte:
+                         quanto previsto dalla normativa interna ed                               model change
+      documentazion                                                                Rischio di
+      e a supporto       esterna, producendo un parere di convalida                               Report Convalida
+                                                                                   Credito
+      formulando un      come esito della valutazione di adeguatezza del                          Interna
+      parere di          model change.
+      convalida          L'esito è formalizzato in un documento di
+      (Controllo         convalida che mette in evidenza l'eventuale
+      manuale)           presenza di rilievi (bloccanti e non).
+                         Inviare template compilato di verifica
+                         adeguatezza e documento di Convalida interna.
+3     Condividere le     Condividere le valutazioni sul model change.           Convalida
+      valutazioni sul                                                           Interna
+      model change       In caso di:                                            Rischio di
+                             Riscontro di rilievi non bloccanti, proseguire     Credito
+                             con l'Adempimento 4
+                             Riscontro di rilievi bloccanti, proseguire con
+                             l'Adempimento 5
+                             Model Change sostanziale senza rilievi,
+                             proseguire con il processo "Audit del Model
+                             Change"
+                             Model Change non sostanziale senza rilievi,
+                             proseguire con il processo "Coinvolgimento
+                             degli organi di governo"
+4     Definire un        Definire un action plan per la risoluzione dei         Rischio di
+      action plan per    rilievi non bloccanti e gestire le fasi risolutive.    Credito
+      la risoluzione
+                                                                                Convalida
+      dei rilievi non
+                         In caso di:                                            Interna
+      bloccanti
+                             Rilievi risolti su model change sostanziale,
+                             proseguire con il processo "Audit del Model
+                             Change"
+                             Rilievi risolti su model change non
+                             sostanziale, proseguire con il processo
+                             "Coinvolgimento degli organi di governo"
+5     Analizzare i       Analizzare le evidenze prodotte a fronte dei           Rischio di
+      rilievi bloccanti  rilievi bloccanti per condividere il rigetto della     Credito
+                         proposta di model change.                              Convalida
+                                                                                Interna
+                         In caso di:
+                             Proposta di rigetto condivisa, il processo
+                             termina
+                             Proposta di rigetto non condivisa, proseguire
+                             con l'Adempimento 6
+6     Attribuire alla    Attribuire alla proposta di model change parere        Convalida
+      proposta di        sfavorevole ed attivare le procedure previste          Interna
+      model change       dalla normativa interna per addivenire a una
+      parere
+                         soluzione condivisa.
+      sfavorevole
+                         In caso di:
+                             Proposta di rigetto condivisa, il processo
+
+                         Oggetto: Identificazione e gestione del model change (rischio di credito)
+                         Codice: D 02221 001              Pubblicato il: 30/06/2017             Pag. 13 di 21
+ ID      Adempimenti         Descrizione                                           Attori            Supporti
+                              termina
+                              Model change sostanziale con soluzione
+                              condivisa, proseguire con il processo "Audit
+                              del Model Change"
+                              Model change non sostanziale, con soluzione
+                              condivisa, proseguire con il processo
+                              "Coinvolgimento degli organi di governo"
+8 - AUDIT DEL MODEL CHANGE
+8.1 - NORME GENERALI
+Nel caso in cui l’intervento sia ritenuto sostanziale, la Funzione Rischio di Credito sottopone
+alla Funzione Revisione Interna la proposta di model change con il relativo parere fornito dalla
+Funzione Convalida Interna. La Funzione Revisione Interna recepisce la documentazione e
+verifica l’adeguatezza del model change proposto. Anche la verifica della funzione Revisione
+Interna può comportare:
+- Riscontro di rilievi bloccanti: L’intervento proposto non viene implementato.
+- Riscontro di rilievi non bloccanti: L’intervento proposto viene sottoposto alla fase
+     successiva previa definizione di un “action plan” che garantisca la risoluzione delle anomalie
+     riscontrate.
+- Nessun rilievo: L’intervento proposto può essere presentato per la validazione da parte
+     degli Organi di governo.
+L’esito delle valutazioni eseguite dalla Funzione Revisione Interna sono poste all’attenzione
+della funzione Rischio di Credito con lo scopo di:
+- stabilire se l’intervento in esame può essere portato avanti o meno;
+- definire un “action plan”, con l’obiettivo di definire un piano di azione che vada a garantire
+     la risoluzione degli eventuali rilievi non bloccanti riscontrati dalle funzioni di Revisione
+     interna.
+Nell’eventualità che si presentino opinioni contrastanti tra le funzioni Rischio di Credito e
+Revisione Interna, vengono attivate le procedure previste dalla normativa interna al fine di
+addivenire a una soluzione condivisa da presentare al livello successivo di approvazione.
+8.2 - RISCHI E CONTROLLI
+ Rischi                                                     Controlli contestuali agli adempimenti
+Rischio operativo: Le informazioni ai fini                 Controllo manuale: Verificare l'adeguatezza
+dell'attività di revisione non sono analizzate in          dell'intervento formulando un parere
+modo adeguato o non sono disponibili
+8.3 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID      Adempimenti         Descrizione                                           Attori            Supporti
+1       Acquisire la        Acquisire la documentazione necessaria per la         Revisione         Documenti di
+        documentazion                                                             Interna           input
+                            verifica di adeguatezza del model change.                               Documento di
+        e relativa
+                                                                                                    Convalida interna
+        all'analisi di                                                            Funzioni
+        model change                                                              coinvolte:        Template verifica
+                                                                                                    adeguatezza
+                                                                                     Convalida
+                                                                                                    model change
+                                                                                     Interna
+                                                                                     Rischio di
+
+                       Oggetto: Identificazione e gestione del model change (rischio di credito)
+                       Codice: D 02221 001                Pubblicato il: 30/06/2017           Pag. 14 di 21
+ ID    Adempimenti        Descrizione                                            Attori            Supporti
+                                                                                   Credito
+2     Verificare         Verificare l’adeguatezza dell'intervento proposto      Revisione         Documenti di
+      l'adeguatezza                                                             Interna           output
+                         producendo l'esito della valutazione di                                  Report di
+      dell'intervento    adeguatezza del model change. L'esito è                                  Revisione Interna
+      formulando un                                                             Funzioni
+                         formalizzato in un report che mette in evidenza                          Template verifica
+      parere                                                                    informate:
+      (Controllo         l'eventuale presenza di rilievi (bloccanti e non).                       adeguatezza
+                                                                                   Rischio di
+      manuale)           Inviare template compilato di verifica                                   model change
+                                                                                   Credito
+                         adeguatezza e report di Revisione interna.
+3     Condividere le     Condividere le valutazioni sul model change.           Revisione
+      valutazioni sul                                                           Interna
+      model change       In caso di:                                            Rischio di
+                             Riscontro di rilievi non bloccanti, proseguire     Credito
+                             con l'Adempimento 4
+                             Riscontro di rilievi bloccanti, proseguire con
+                             l'Adempimento 5
+                             Model Change sostanziale senza rilievi,
+                             proseguire con il processo "Coinvolgimento
+                             degli organi di governo"
+4     Definire un        Definire un action plan per la risoluzione dei         Rischio di
+      action plan per    rilievi.                                               Credito
+      la risoluzione
+                                                                                Revisione
+      dei rilievi non
+      bloccanti
+                             Proseguire con il processo "Coinvolgimento         Interna
+                             degli organi di governo"
+5     Analizzare i       Analizzare le evidenze prodotte a fronte dei           Revisione
+      rilievi bloccanti  rilievi bloccanti per condividere il rigetto della     Interna
+                         proposta di model change.                              Rischio di
+                                                                                Credito
+                         In caso di:
+                             Proposta di rigetto condivisa, il processo
+                             termina
+                             Proposta di rigetto non condivisa, proseguire
+                             con l'Adempimento 6
+6     Attribuire alla    Attribuire alla proposta di model change parere        Revisione
+      proposta di        sfavorevole ed attivare le procedure previste          Interna
+      model change       dalla normativa interna per addivenire a una
+      parere
+                         soluzione condivisa.
+      sfavorevole
+                         In caso di:
+                             Proposta di rigetto condivisa, il processo
+                             termina
+                             Model change sostanziale con soluzione
+                             condivisa, proseguire con il processo
+                             "Coinvolgimento degli organi di governo"
+9 - COINVOLGIMENTO DEGLI ORGANI DI GOVERNO
+9.1 - NORME GENERALI
+Acquisiti i pareri delle Funzioni di Controllo sulla proposta di model change, la Funzione Rischio
+di Credito sottopone la stessa alla Funzione Comitato Operativo Basilea, la quale si esprime
+con parere vincolante sul model change. Il Comitato Operativo Basilea individua, inoltre,
+l’eventuale iter di autorizzazione e o notifica necessario nei confronti dell’Autorità di Vigilanza.
+Le proposte approvate dalla Funzione Comitato Operativo Basilea sono sottoposte a ratifica
+della Funzione Comitato Gestione Rischi.
+
+                      Oggetto: Identificazione e gestione del model change (rischio di credito)
+                      Codice: D 02221 001                Pubblicato il: 30/06/2017           Pag. 15 di 21
+Nel caso in cui la proposta di model change risulti di tipo non sostanziale, i pareri favorevoli
+delle Funzioni Basilea e Comitato Gestione Rischi sono sufficienti per procedere con l’attività di
+“Gestione iter approvativo e di comunicazione"; in caso contrario, la proposta deve essere
+approvata dal C.d.A. previo parere rilasciato dalla Funzione Comitato Rischi.
+9.2 - RISCHI E CONTROLLI
+ Rischi                                                   Controlli contestuali agli adempimenti
+Rischio operativo: Assunzione di delibera in             Controllo manuale: Verificare la completezza
+carenza di elementi di valutazione adeguati              della documentazione e sottoporre la proposta agli
+                                                         organi aziendali
+9.3 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID    Adempimenti        Descrizione                                           Attori            Supporti
+1     Verificare la      Verificare la completezza della documentazione;       Rischio di        Documenti di
+      completezza                                                              Credito           input
+                         nel caso in cui siano necessarie ulteriori                              Template verifica
+      della              informazioni richiedere il supporto delle funzioni    Funzioni
+                                                                                                 adeguatezza
+      documentazion                                                            coinvolte:
+                         coinvolte.                                                              model change
+      e e sottoporre                                                              Revisione
+      la proposta agli   A verifica completata con esito positivo,
+                                                                                  Interna
+      organi aziendali   predisporre la documentazione e sottoporre               Convalida
+      (Controllo         la proposta ai comitati competenti.                      Interna
+      manuale)
+                                                                               Funzioni
+                                                                               informate:
+                                                                                  Comitato
+                                                                                  Basilea
+                                                                                  Gestione del
+                                                                                  Rischio
+                                                                                  CRO
+2     Analizzare la      Analizzare la proposta di model change.               Comitato
+      proposta di                                                              Basilea
+      model change       In caso di:
+                            Proposta respinta, proseguire con
+                            l'Adempimento 3
+                            Proposta accolta, proseguire con
+                            l'Adempimento 4
+3     Formalizzare il    Formalizzare il respingimento della proposta nel      Comitato
+      respingimento      verbale della seduta del Comitato.                    Basilea
+      della proposta                                                           Funzioni
+                                                                               informate:
+                            Proposta respinta comunicata, il processo
+                                                                                  Rischio di
+                            termina
+                                                                                  Credito
+4     Formalizzare il    Formalizzare il parere favorevole alla proposta       Comitato
+      parere             nel verbale della seduta del Comitato, definendo      Basilea
+      favorevole alla    la natura sostanziale o non sostanziale del           Funzioni
+      proposta                                                                 informate:
+                         model change e l’iter autorizzativo o di notifica
+                         nei confronti dell’Autorità di Vigilanza.                Rischio di
+                                                                                  Credito
+5     Richiedere il      Sottoporre la proposta di model change a              Rischio di
+      parere al          ratifica da parte del Comitato Gestione Rischi        Credito
+      Comitato           con evidenza di quanto verbalizzato dal               Funzioni
+      Gestione Rischi                                                          coinvolte:
+                         Comitato Operativo Basilea.
+                                                                                  Comitato
+                                                                                  Gestione
+                                                                                  rischi
+
+                     Oggetto: Identificazione e gestione del model change (rischio di credito)
+                     Codice: D 02221 001               Pubblicato il: 30/06/2017            Pag. 16 di 21
+ ID   Adempimenti        Descrizione                                           Attori            Supporti
+6    Analizzare la      Analizzare la proposta di model change.               Comitato
+     proposta di                                                              Gestione
+     model change       In caso di:                                           rischi
+                           Proposta respinta, proseguire con
+                           l'Adempimento 7
+                           Proposta accolta, proseguire con
+                           l'Adempimento 8
+7    Formalizzare il    Formalizzare il respingimento della proposta nel      Comitato
+     respingimento      verbale della seduta del Comitato.                    Gestione
+     della proposta                                                           rischi
+                                                                              Funzioni
+                           I processo termina                                 informate:
+                                                                                 Rischio di
+                                                                                 Credito
+8    Formalizzare il    Formalizzare il parere favorevole alla proposta       Comitato
+     parere             nel verbale della seduta del comitato.                Gestione
+     favorevole alla                                                          rischi
+     proposta                                                                 Funzioni
+                        In caso di:
+                                                                              informate:
+                           Intervento di tipo non sostanziale, proseguire
+                                                                                 Rischio di
+                           con il processo "Gestione iter approvativo e di       Credito
+                           comunicazione"
+                           Intervento di tipo sostanziale, proseguire con
+                           l'Adempimento 9
+9    Richiedere il      Richiedere il parere al Comitato Rischi con           CRO
+     parere al          evidenza di quanto verbalizzato dal Comitato          Funzioni
+     Comitato Rischi    Operativo Basilea e dal Comitato Gestione             coinvolte:
+                        Rischi.                                                  Comitato
+                                                                                 Rischi
+10   Analizzare la      Analizzare la proposta di model change                Comitato
+     proposta di        formulando il proprio parere.                         Rischi
+     model change                                                             Funzioni
+     formulando un                                                            informate:
+     parere                                                                      CRO
+11   Sottoporre al      Sottoporre la richiesta di approvazione del           CRO               Applicativi
+     CDA la proposta                                                          Funzioni          SISIFO
+                        model change al CdA fornendo i pareri
+     di model           preventivi dei comitati che si sono espressi.         autorizzanti:
+     change                                                                      CDA
+                        In caso di:
+                           Proposta respinta, proseguire con
+                           l'Adempimento 12
+                           Proposta accolta, proseguire con
+                           l'Adempimento 13
+12   Formalizzare il    Formalizzare il respingimento della proposta nel      CDA
+     respingimento      verbale della seduta del CDA.                         Funzioni
+     della proposta                                                           informate:
+                           Il processo termina                                   CRO
+13   Formalizzare il    Formalizzare il parere favorevole alla proposta       CDA               Applicativi
+     parere                                                                   Funzioni          SISIFO
+                        nel verbale della seduta del CDA.
+     favorevole alla                                                          informate:
+     proposta                                                                    CRO
+                           Proseguire con il processo "Gestione iter
+                           approvativo e di comunicazione"
+10 - GESTIONE ITER APPROVATIVO E DI COMUNICAZIONE
+10.1 - NORME GENERALI
+Acquisiti i pareri favorevoli da parte dei singoli Comitati, la Funzione Rischio di Credito
+formalizza l’istanza o la notifica di model change da inviare alle Autorità di Vigilanza.
+
+                      Oggetto: Identificazione e gestione del model change (rischio di credito)
+                      Codice: D 02221 001              Pubblicato il: 30/06/2017             Pag. 17 di 21
+Sulla base della sostanzialità del model change, la comunicazione verso l’Autorità di Vigilanza
+può essere formulata come:
+- Istanza di richiesta di approvazione preventiva del model change vincolante ai fini della sua
+     realizzazione nel caso di modifiche sostanziali;
+- Notifica preventiva di esecuzione del model change da inviare prima della sua realizzazione
+     nel caso di variazioni non sostanziali che necessitano di notifica ex-ante;
+- Notifica di avvenuta esecuzione del model change nel caso di variazione non sostanziali che
+     non necessitano di notifiche ex ante.
+La Funzione Rischio di Credito, avvalendosi dell’eventuale contributo delle Funzioni Proponenti
+e delle Funzioni di Controllo, raccoglie ed invia, verificandone preventivamente la completezza
+e l’adeguatezza, la documentazione da allegare alla richiesta di approvazione/notifica di un
+model change che varia a seconda della tipologia di intervento richiesto.
+Per gli interventi di tipo sostanziale soggetti all'autorizzazione dell'Autorità di Vigilanza,
+all’istanza devono essere allegati:
+     a. Descrizione dell'estensione e del cambiamento, il suo razionale e l'obiettivo;
+     b. Data di implementazione;
+     c. Campo di applicazione interessato dall'estensione o del cambiamento, con
+         caratteristiche di volume;
+     d. Documenti tecnici e di processo;
+     e. La documentazione predisposta dalla Funzione di Convalida Interna o dalla Revisione
+         interna contenente i relativi pareri;
+     f. La conferma che l'estensione o la modifica è stata approvata attraverso i processi di
+         approvazione dell'istituzione da parte degli organismi competenti la data di
+         approvazione;
+     g. L'impatto quantitativo della modifica o dell'estensione in termini di RWA, se la modifica
+         ha un impatto quantitativo diretto;
+     h. Documentazione del numero della versione degli attuali e dei precedenti modelli interni
+         soggetti ad approvazione.
+Per gli interventi di tipo non sostanziale soggetti a notifica, bisogna predisporre la seguente
+documentazione:
+     a. Descrizione dell'estensione e del cambiamento, il suo razionale e l'obiettivo;
+     b. Data di implementazione;
+     c. Campo di applicazione interessato dall'estensione o del cambiamento, con
+         caratteristiche di volume;
+     d. La conferma che l'estensione o la modifica è stata approvata attraverso i processi di
+         approvazione dell'istituzione da parte degli organismi competenti e la data di
+         approvazione;
+     e. L'impatto quantitativo della modifica o dell'estensione in termini di RWA se la modifica
+         ha un impatto quantitativo diretto.
+Nel caso in cui la tipologia di model change preveda una notifica ex-ante, la comunicazione
+deve avvenire almeno due mesi prima della data di messa in produzione prevista.
+Per gli interventi di tipo non sostanziale con notifica ex-post, la comunicazione avviene con
+cadenza annuale nell’ambito della sintesi delle modifiche apportate al sistema di misurazione
+del rischio di credito.
+10.2 - RISCHI E CONTROLLI
+ Rischi                                                  Controlli contestuali agli adempimenti
+Rischio operativo: Rischi collegati alla errata         Controllo manuale: Verificare l'avvenuta
+compilazione della documentazione                       approvazione del model change e la presenza della
+                                                        documentazione a supporto
+
+                      Oggetto: Identificazione e gestione del model change (rischio di credito)
+                      Codice: D 02221 001               Pubblicato il: 30/06/2017            Pag. 18 di 21
+10.3 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID    Adempimenti       Descrizione                                            Attori            Supporti
+1     Verificare        Verificare che il model change sia stato               Rischio di        Documenti di
+      l'avvenuta                                                               Credito           input
+                        esaminato e che siano presenti i pareri del                              Pareri Comitati
+      approvazione      Comitato Operativo Basilea, del Comitato
+      del model                                                                Funzioni
+                        Gestione Rischi e del Comitato Rischi, e che                             Documentazione
+      change e la                                                              coinvolte:        a supporto
+      presenza della    esso sia stato approvato dal Consiglio di
+                                                                                  Controllo      dell'istanza /
+      documentazion     Amministrazione ove necessario.                                          notifica
+                                                                                  Comitato
+      e a supporto      Verificare che sia presente tutta la
+                                                                                  Rischi         Delibera CDA
+      (Controllo        documentazione a supporto dell'istanza/notifica
+                                                                                  Comitato
+      manuale)          da predisporre.
+                                                                                  Gestione
+                        Nel caso in cui mancasse la documentazione                rischi
+                        richiederne l'integrazione alle funzioni coinvolte.
+                                                                                  Comitato
+                                                                                  Basilea
+2     Predisporre       Predisporre l'istanza di richiesta di model            Rischio di
+      l'istanza di      change.                                                Credito
+      richiesta di      Il percorso comunicativo verso l'Autorità di
+      model change                                                             Funzioni
+                        Vigilanza differisce a seconda della tipologia di
+                                                                               coinvolte:
+                        model change.
+                                                                                  Proponente
+                        In caso di variazioni di modello sostanziali, è
+                                                                                  Convalida
+                        necessario produrre una richiesta di
+                                                                                  Interna
+                        autorizzazione formale da eseguire prima della
+                                                                                  Revisione
+                        sua implementazione.
+                                                                                  Interna
+                        In caso di variazioni non sostanziali con
+                        comunicazione di tipo ex ante, è sufficiente la
+                        notifica preventiva.
+                        In caso di:
+                           Model change sostanziale, proseguire con
+                           l'Adempimento 3
+                           Model change non sostanziale con notifica ex
+                           ante, proseguire con l'Adempimento 4
+                           Model change non sostanziale con notifica ex
+                           post, proseguire con il processo
+                           "Realizzazione del model change"
+3     Inviare la        Inviare all'Autorità di Vigilanza la richiesta di      CRO
+      richiesta di      approvazione del change model.                         AD
+      model change      Fornire, se richiesto dall'Autorità di Vigilanza,
+                        ulteriori analisi e/o approfondimenti.
+                        In caso di:
+                           Istanza respinta, il processo termina
+                           Istanza accolta su model change sostanziale,
+                           proseguire con il processo "Realizzazione del
+                           model change"
+                           Istanza accolta con richieste di
+                           approfondimento, proseguire con
+                           adempimento 5
+                           Istanza accolta con richieste di modifica,
+                           ritornare al processo “Proposta di model
+                           change’
+4     Inviare la        Inviare all'Autorità di Vigilanza la notifica di       CRO
+      notifica ex ante  model change prima della messa in produzione           AD
+      di model          dello stesso.
+      change
+                        Fornire, se richiesto dall’Autorità di Vigilanza
+                        ulteriori analisi e/o approfondimenti.
+                        La notifica deve essere inviata almeno due mesi
+
+                       Oggetto: Identificazione e gestione del model change (rischio di credito)
+                       Codice: D 02221 001               Pubblicato il: 30/06/2017            Pag. 19 di 21
+ ID     Adempimenti       Descrizione                                             Attori           Supporti
+                         prima della prevista realizzazione
+                         dell’intervento.
+                         In caso di:
+                            Silenzio assenso giunti alla data di
+                            implementazione, proseguire con il processo
+                            "Realizzazione del model change"
+                            Notifica respinta, il processo termina
+                            Istanza accolta con richieste di
+                            approfondimento, proseguire con
+                            adempimento 5
+                            Richiesta di modifica al model change
+                            proposto ritornare al processo “Proposta di
+                            model change”
+5      Supportare        Supportare l’Autorità di Vigilanza nelle richieste      Rischio di
+       l’Autorità di     di approfondimento anche a fronte delle                 credito
+       vigilanza nelle   notifiche.
+       richieste di                                                              Funzioni
+       approfondiment                                                            Coinvolte
+       o                  -    Il processo termina
+                                                                                    Proponente
+                                                                                    Controllo
+                                                                                    IT
+11 - REALIZZAZIONE DEL MODEL CHANGE
+11.1 - NORME GENERALI
+L’attività di realizzazione del model change viene attivata successivamente a:
+- Autorizzazione dell’Autorità di Vigilanza in caso di modifica sostanziale
+- Autorizzazione o silenzio assenso (giunti alla data di implementazione, almeno 2 mesi
+    prima della notifica) dell’Autorità di vigilanza in caso di modifica non sostanziale con
+    notifica ex ante
+- Autorizzazione degli organi di governo in caso di modifica non sostanziale con notifica ex
+    post.
+11.2 - RISCHI E CONTROLLI
+ Rischi                                                   Controlli contestuali agli adempimenti
+Rischio operativo: Rischi di                             Controllo manuale: Verifica della corretta
+errato/mancato/sviluppo aggiornamento del                implementazione del modello di misurazione dei
+modello e delle metodologia di misurazione dei           rischi di credito così come indicato nella Direttiva di
+rischi                                                   Gruppo in materia
+11.3 - SEQUENZA DEGLI ADEMPIMENTI
+Link al diagramma di processo
+ ID     Adempimenti       Descrizione                                             Attori           Supporti
+1      Valutare se       Valutare se ci sono ancora tutti i presupposti          Rischio di
+       rendere o meno    per rendere operativo il model change                   Credito
+       operativo il      autorizzato o notificato all’Autorità di Vigilanza.
+       model change
+                         In caso di:
+                            Proposta sostanziale o non sostanziale da
+                            attuare, proseguire con l'Adempimento 2
+
+                     Oggetto: Identificazione e gestione del model change (rischio di credito)
+                     Codice: D 02221 001                  Pubblicato il: 30/06/2017         Pag. 20 di 21
+ ID  Adempimenti        Descrizione                                             Attori           Supporti
+                          Proposta sostanziale da non attuare o
+                          modificare, proseguire con il processo
+                          "Valutazione quali-quantitativa"
+                          Proposta non sostanziale (notifica ex-ante) da
+                          non attuare o modificare, proseguire con il
+                          processo "Definizione iter approvativo e di
+                          comunicazione"
+2   Rendere            Rendere operativo il model change attivando             Rischio di       Normativa
+    operativo il                                                               Credito          1030D01642
+                       tutti gli iter operativi previsti nella normativa
+    model change       interna di riferimento, verificandone la corretta       Convalida
+                                                                                                1030D01849
+                                                                               Interna
+                       implementazione.
+                       Nel caso in cui siano necessari interventi sui          Funzioni
+                       processi o sulle procedure coinvolgere le               coinvolte:
+                       funzioni interessate.                                      IT
+                                                                                  Organizzazio
+                          Proseguire con l’adempimento 3 e                        ne
+                          successivamente con il processo "Validazione         Funzioni
+                          passaggio in produzione"                             informate:
+                                                                                  Proponente
+3   Verificare i       Verificare che il model change venga eseguito           Rischio di
+    tempi di           nei tempi previsti sulla base di quanto dichiarato      Credito
+    esecuzione         all'Autorità di Vigilanza.
+    dell'intervento
+                       In caso di:
+                          Ritardo su intervento sostanziale nella messa
+                          in produzione, proseguire con l'Adempimento
+                          4
+                          Ritardo su intervento non sostanziale nella
+                          messa in produzione, proseguire con
+                          l'Adempimento 5
+                          Intervento in linea con i tempi di esecuzione,
+                          proseguire con l'Adempimento 6
+4   Notificare il      Notificare il ritardo nell'intervento all’Autorità di   CRO
+    ritardo            Vigilanza comunicando un piano di pronta                AD
+    nell'intervento    attuazione dell’estensione o modifica autorizzata
+                       la cui tempistica deve essere concordata con
+                       l’autorità competente.
+                          Proseguire con l'Adempimento 6
+5   Notificare il      Notificare il ritardo nell'intervento non               CRO
+    ritardo            sostanziale all'Autorità di Vigilanza.                  AD
+    nell'intervento
+    non sostanziale
+6   Verifica della     Definire, sviluppare ed aggiornare i modelli per        Rischio di       Normativa
+    corretta                                                                   Credito          1030D01020
+                       la misurazione del rischio di credito, presidiando
+    implementazion     il modello interno nel rispetto dei requisiti
+    e del modello di
+                       qualitativi e quantitativi indicati dalla Vigilanza e
+    misurazione dei
+    rischi di credito  verificare che i modelli stimati siano
+    così come          correttamente messi in produzione.
+    indicato nella     In particolare:
+    Direttiva di        -    per le probabilità di default, il risk
+    Gruppo in                management applica in autonomia i nuovi
+    materia                  parametri stimati e li confronta con quelli
+    (Controllo               creati dal cog in ambiente di test. Se
+    manuale)
+                             dall'esito di tali controlli emergono
+                             anomalie queste vengono segnalate e
+                             corrette dal cog;
+                        -    per i parametri di lgd il risk managment
+                             applica i parametri sul portafoglio airb
+                             ultimo disponibile per poi confrontarli con
+                             quelli prodotti dalle segnalazioni di
+
+                       Oggetto: Identificazione e gestione del model change (rischio di credito)
+                       Codice: D 02221 001                Pubblicato il: 30/06/2017           Pag. 21 di 21
+ ID     Adempimenti        Descrizione                                            Attori           Supporti
+                                vigilanza in ambiente di test/work. Se dal
+                                controllo non emergono anomalie i
+                                parametri vengono messi in produzione
+                                altrimenti si approfondiscono le differenze;
+                           -    analogamente, anche se non ancora
+                                validato, si effettuano le stesse analisi per il
+                                parametro di ead
+                          Periodicità: Ad hoc
+7      Notifica           Notificare almeno annualmente all'Autorità di          CRO
+       interventi ex-     Vigilanza i model change con notifica ex-post
+       post               implementati.                                          Funzioni
+                                                                                 informate:
+                                                                                    CDA
+                             Il processo termina
+                                                                                    Controllo
+                                                                                    Comitato
+                                                                                    Basilea
+                                                                                    Comitato
+                                                                                    Gestione
+                                                                                    rischi
+                                                                                    Comitato
+                                                                                    Rischi
+12 - ELENCO TESTI NORMATIVI DI RIFERIMENTO
+1030D01114          Policy di Gruppo in materia di Risk Management (Governo dei rischi)
+1030D01020          Direttiva di Gruppo in materia di Gestione dei Rischi di Credito
+1030D01630          Presidio relazioni con Autorità di Vigilanza o Controllo: visite ispettive degli
+Organi di Vigilanza o di Controllo
+1030D01642          Requirement, Demand e Service Management
+1030D01849          Valutazione della qualità delle controparti
+1030D02208          Direttiva di Gruppo in materia di Convalida interna dei sistemi di misurazione
+dei rischi
+

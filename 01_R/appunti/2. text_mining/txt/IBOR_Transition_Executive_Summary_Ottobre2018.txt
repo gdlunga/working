@@ -1,0 +1,201 @@
+IBOR transition
+Executive Summary
+Ottobre 2018
+
+Normativa di Riferimento
+I Principi IOSCO e l’EU Benchmark Regulation
+                                                                        Quality of
+        Governance             Quality of Benchmark                                                Accountability
+                                                                     Methodologies
+ I Principi 1-5 hanno lo       I Principi 6-10 hanno lo        I Principi 11-15 hanno lo     I Principi 16-19 richiedono
+ scopo di garantire che gli    scopo di promuovere la          scopo di promuovere la        che gli amministratori
+ Amministratori dispongano     qualità e l’integrità delle     qualità e l'integrità delle   stabiliscano processi
+ di adeguate disposizioni di   determinazioni dei              metodologie; richiedono       compliant, documentazione
+ governance per garantire      benchmark; chiariscono          che le informazioni siano     standard e revisioni
+ l’integrità del processo di   inoltre che una varietà di      pubblicate o rese             periodiche; richiedono
+ determinazione del            dati può essere utilizzata      disponibili e che la          inoltre che queste
+ benchmark e risolvere i       appropriatamente per            metodologia sia soggetta a    informazioni siano rese
+ conflitti di interesse.       costruire un benchmark,         procedure di controllo        disponibili alle autorità
+                               purché sia basato su un         qualora siano pianificate     competenti del mercato.
+                               mercato attivo.                 modifiche sostanziali.
+                                    European Benchmark Regulation (BMR)
+Lo scopo della BMR è quello di perfezionare la governance sui benchmark utilizzati per strumenti finanziari, contratti e
+misurazione di performance dei fondi di investimento. La normativa ha quindi l’obiettivo di migliorare la qualità dei dati di
+input e delle metodologie, di assicurare adeguati controlli sui contributori ed i dati che essi forniscono. In base alla
+normativa, il LIBOR e l’EURIBOR sono stati definiti critical benchmark e giudicati non compliant con i Principi.
+Page 2
+
+Riforma EONIA/EURIBOR
+Timeline
+                                               2018                                        2019                                    2020                            2021
+                               A                                                                                      B                                                              C
+                                                           Transition Period (2 anni)                                        Art.21 Potenziale Amm. Obbligatoria (12m+12m)           1
+                                   A Gen 2018                                                                  B Gen 2020                                      C Fine 2021
+                                  BMR entra in vigore                                                          Deadline EONIA                               Ipotetica deadline IBOR
+                                                   D      E                   F G      H              I
+                                                          WG EURO RFR
+                                                                                                        2
+                                   D Lug 2018              E Sett 2018                F Feb 2019                G Mar 2019              H Mag 2019                  I Ott 2019
+   WG EURO RFR                      Pubblicazione       WG raccomanda ESTER         Fine Consultazione          Determinazione          Fine Consultazione       Inizio Pubblicazione
+                                Metodologia ESTER        come sostituto EONIA             term RFR              Fallback EONIA         new/legacy contracts             ESTER
+                                                           L M        N                                           O
+                                                                                                                        3
+                                   L     Set 2018                 M    Ott 2018                 N Dic 2018                       O    Dic 2019
+                                     Prevista 2° Cons.           Workshop EURIBOR               Fine consultazione         Implementazione Metodologia
+                               Metodologia Ibrida EURIBOR                                           EURIBOR.                      Ibrida EURIBOR
+                                                                     P                                           Q
+                                          1° Consult. Fb Approach                              Consult. Fb EURIBOR
+                                                                               Implementazione Fallback
+                                                                                                                     4
+                                    P Dic 2018                                                            Q Dic 2019
+                                  Esito Consultazione                                                   Esito Consultazione
+                                  Fallback Approach                                                       Fallback Euribor
+                                                                                               Fino a Ottobre 2019 esisterà solo il pre-ESTER. Questo genera incertezza sulle
+       All’interno del regolamento BMR è prevista la possibilità di un periodo di
+                                                                                                analisi effettuate dal WG, sulla liquidità del mercato attesa e sulla definizione di
+   Amministrazione Obbligatoria che potrebbe spostare la fine dell’Euribor al 2021
+                                                                                               strumenti derivati su ESTER (overnight), necessari per la definizione di una term
+                   (wavier period max 2 anni). (Gen 2020 -> Gen 2022)
+                                                                                         1                          structure* qualora venga meno l’EURIBOR.                         2
+                                                                                              L’esito della prima consultazione, sulle soluzioni di fallback da applicare ai legacy
+      L’incertezza sull’effettiva approvazione della Metodologia Ibrida proposta
+                                                                                                 contracts** per i soli derivati, non comprende EURIBOR, EUR LIBOR e USD
+ dall’EMMI amplifica l’incertezza su quali tassi applicare sui nuovi contratti a partire
+                                                                                              LIBOR. Dopo la pubblicazione ufficiale dell’ESTER a Ottobre 2019 è prevista una
+            dal 1/1/2020. (Euribor -> Euribor Ibrido; o Euribor -> ESTER+adj)
+                                                                                         3                                    seconda consultazione.                                 4
+ *WG – https://www.ecb.europa.eu/paym/initiatives/interest_rate_benchmarks/WG_euro_risk-free_rates/shared/pdf/20180913/Item_3_High_level_implementation_plan.pdf
+ **Non necessario se Euribor Ibrido consistente con l’Euribor attuale
+Page 3
+
+ Riforma EONIA/EURIBOR
+ Cronologia e Punti di Attenzione
+Cronologia IBOR Transition Activitities
+<U+25BA>   L’ESTER (indice Overnight) sarà pubblicato a Ottobre 2019 e sostituirà l’EONIA dall’1 Gennaio 2020. Prima di tale
+    data sarà pubblicato un pre-ESTER.
+<U+25BA>   Dall’1 Gennaio 2020 l’EURIBOR così come lo conosciamo non sarà compliant con la BMR (Benchmark Regulation).
+    L’EMMI (European Money Markets Institute) ha portato in consultazione la costruzione di un EURIBOR ibrido. Il
+    termine della consultazione è previsto per Dicembre 2018 e, se ritenuto compliant, una possibile implementazione
+    per Dicembre 2019.
+<U+25BA>   Entro il 2018, il subgroup 2 del WG ECB predisporrà la metodologia per la creazione di futures e OIS basati su
+    ESTER, necessari per la costruzione di una term structure.
+<U+25BA>   ISDA ha in consultazione una metodologia di fallback per sostituire, per i soli derivati, gli IBOR nei legacy
+    contracts, cioè per le operazioni in essere all’1 Gennaio 2020, la pubblicazione dei risultati è prevista entro
+    Dicembre 2018. Per il Q4 2019 è prevista una consultazione dedicata ad EURIBOR, EUR LIBOR e USD LIBOR.
+<U+25BA>   Entro il 2019 è prevista la pubblicazione delle metodologie di fallback sui derivati per tutti gli IBOR.
+Punti di attenzione
+<U+25BA>   Pubblicazione ESTER prevista per Ottobre 2019, soli 3 mesi prima della fine del transition period IOSCO (1/1/20).
+<U+25BA>   I contratti derivati su ESTER potrebbero non avere adeguata liquidità e presenza di strumenti per la costruzione di
+    una term structure di mercato. Sono ancora in corso le consultazioni sulla metodologia ibrida EURIBOR proposta
+    dall’EMMI. Al momento, quindi, c’è incertezza su quale tasso andrà a sostituire l’EURIBOR.
+<U+25BA>   Dati i tempi stringenti a disposizione, la deadline dell’EURIBOR potrebbe essere posticipata di 2 anni (art. 21 BMR).
+<U+25BA>   Al momento non è in discussione una metodologia fallback IBOR per gli strumenti non derivati.
+<U+25BA>   Potrebbero sussistere periodi di compresenza di legacy contracts su IBOR e new conctracts sui nuovi risk free rate.
+ Page 4
+
+  Essere proattivi e non attendere
+  Perché adesso?
+Date le numerose incertezze ancora presenti sul tema, i regolatori in dichiarazioni pubbliche hanno avvertito le istituzioni
+finanziare dei rischi connessi al sottovalutare gli impatti ed hanno invitato a predisporre da subito un piano di attività:
+                                               FCA statement on the future of LIBOR
+           “Market participants must take responsibility for their individual transition plans, but we and other
+           authorities will be ready to assist and support efforts to co-ordinate that work.”
+           “We do not think we will complete the journey to transaction-based benchmarks if markets continue to rely
+           on LIBOR in its current form. And while we have given our full support to encouraging panel banks to
+           continue to contribute and maintaining LIBOR over recent years, we do not think markets can rely on
+           LIBOR continuing to be available indefinitely.”
+           “Panel bank support for current LIBOR until end-2021 will enable a transition that can be planned and can
+           be executed smoothly. The planning and the transition must now begin.”
+            Andrew Bailey’s, ChiefExecutive of FCA
+<U+25BA>    La transizione di ogni operatore è diversa a seconda del tipo di mercati su cui opera e dell’esposizione sugli
+     IBOR.
+<U+25BA>    Gli operatori che non agiscono velocemente sulla transizione incrementeranno sia i rischi sia i costi connessi.
+<U+25BA>    Gli operatori più rilevanti hanno già iniziato i confronti interni tra le diverse strutture e hanno predisposto una
+     fase di assessment.
+<U+25BA>    È fondamentale mettere in atto il prima possibile un assessment per consentire al management di verificare, ed in
+     caso modificare, strategie di prodotto e gestione di clienti /controparti, modelli di valutazione dei rischi,
+     contratti, processi e sistemi.
+  Page 5
+
+Essere proattivi e non attendere
+Linee Guida
+                 Assessment                Minimizzare rischi operativi, reputazionali,
+       <U+25BA>  Predisporre un inventario
+                                                           di condotta e legali
+          Prodotti/Strumenti/              <U+25BA> Modificare informativa vs. clienti con incertezza risk
+          Processi/Sistemi IT (e.g.          free rate
+          contratti, clienti, controparti, <U+25BA> Sviluppare prodotti non IBOR
+          …)                               <U+25BA> Clusterizzare i clienti per definire i piani di azione
+       <U+25BA>  Effettuare analisi granulari
+          sugli impatti (e.g. esposizione
+          per tipologia di prodotto,        Avviare una gestione attiva delle strutture
+          strumento, maturity, …)                          ALM/Treasury/Risk
+                                           <U+25BA>  Modificare le esposizione detenute
+                                           <U+25BA>  Ridisegnare i prodotti
+                                           <U+25BA>  Modificare le strategie di hedging
+                Governance                 <U+25BA>  Adeguare i modelli di rischio
+                                           <U+25BA>  Anticipare la conversione
+       <U+25BA> La trasparenza sulla
+         dimensione e portata degli
+                                             Partecipare attivamente alla definizione
+         impatti consente di definire in
+         modo ottimale i propri                          delle norme del settore
+         programmi interni per la          <U+25BA>   Partecipare ai tavoli nazionali ed internazionali
+         transizione dai relevant IBOR         dell’Industry sulle tematiche «contratti»
+                                           <U+25BA> Partecipare attivamente alle consultazioni
+                                               internazionali
+Page 6
+
+Gli Impatti della Riforma
+Principali aree di impatto
+                                          AREE IMPATTATE e ATTIVITA’                                                  EFFORT*
+                                          Analisi, Strategie e piano di attività specifico per Divisione, Prodotto,
+                      Business            Cluster di Clienti (ad es. transition timeline; review dei prodotti)
+                                          Education su review IBOR, Analisi/Sviluppi Sistemi Impattati e
+                      Operation           Framework dei Controlli Interni (ad es. ref. data management,
+                                          collateral management)
+                                          Analisi/strategie posizioni in essere; definizione/attuazione
+                    Treasury and
+                                                                                                                                                              Model Development & Validation
+                                          Piano/Strategie con new RFR (ad es. review FTP, piano ALM,
+                                                                                                                                Technology & Infrastructure
+                      Finance
+                                                                                                                                                                                               Compliance & Disclosure
+                                          transition timeline)
+                                          Sensibilizzazione della clientela e revisione dei contratti (ad es.
+                         Legal            revisione informativa, agreement bilaterali, clausole di fallback)
+                       Risk               Analisi/Revisione modelli di pricing e di rischio (ad es. VaR, stress
+                    Management            test, sviluppo term structure RFR, strategie di hedging, basis risk)
+                                          Definizione piano di coinvolgimento aree impattate. Individuazione
+                    Governance            steering committee e workstreams leader; definizione piano degli
+                                          interventi a supporto della transizione IBOR
+                                          Analisi/piano di interventi su reporting e strategie di balance sheet
+                     Accounting           management (ad es. valutazione Fair Value, hedge accounting)
+                                          Analisi su possibili trattamenti fiscali e variazioni dettate da
+                          Tax             modifiche contrattuali e/o del Fair Value
+         * Ipotesi da confermare dopo la fase di assessment
+Page 7
+
+Contatti
+  IBOR Campaign Leader
+  Emilio Maffi
+  Partner, Risk
+  +39 3351230177
+  emilio.maffi@it.ey.com
+  Risk                                 Processi e Sistemi Informativi
+  Luca Raso                            Raffaella Mele
+  Senior Manager, Risk                 Partner, PI
+  +39 3666909120                       +39 3351635863
+  luca.raso@it.ey.com                  raffaella.mele@it.ey.com
+  Accounting                           Legal
+  Francesca Amatimaggio                Davide Nervegna
+  Partner, FAAS                        Associate Partner, Law Leader
+  +39 3387857277                       +39 3393046257
+  francesca.amatimaggio@it.ey.com      davide.nervegna@it.ey.com
+  TAS                                  Insurance
+  Francesco Pau                        Patrizio Rossi
+  Partner, CT-Valuation & Bus Modeling Senior Manager, Risk
+  +39 3351230437                       +39 3295820887
+  francesco.pau@it.ey.com              patrizio.rossi@it.ey.com
+Page 8
+
