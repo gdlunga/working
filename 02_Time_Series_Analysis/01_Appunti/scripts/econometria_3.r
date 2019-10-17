@@ -20,14 +20,12 @@ colnames(Z.data) <- c("Aa", "Bb", "Cc")
 Z        <- zoo(Z.data, Z.index)
 
 
-test<-ISOdatetime(2019,rep(1:2,5),sample(28,10),0,0,0)
+test<-ISOdatetime(2019,rep(1:4,8),sample(28,10),0,0,0)
 test
 as.Date(as.yearmon(test))
 
-
 zr1 <- zooreg(sin(1:9), start = 2000, frequency = 4)
 as.ts(zr1[-c(2,5)])
-
 
 plot(Z, type = "b", lty = 1:3, 
      pch = list(Aa = 1:5, Bb = 2, Cc = 4),

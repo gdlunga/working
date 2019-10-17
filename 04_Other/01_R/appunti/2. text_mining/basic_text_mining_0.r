@@ -26,7 +26,7 @@ library(tm)
 docs <- VCorpus(DirSource(cname))   
 
 summary(docs)  
-
+  
 #write(docs[[1]]$content, file='prova.txt')
 
 text1 <- docs[[1]]$content
