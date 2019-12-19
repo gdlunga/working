@@ -11,14 +11,12 @@ library(cluster)
 library(igraph)
 library(fpc)
 
-#setwd('C:\\Users\\T004314\\Documents\\GitHub\\working\\01_R\\appunti\\2. text_mining')
-
 # individuazione percorsi file dati
-data_path = 'C:\\Users\\T004314\\Documents\\Working\\03_MyTools'
-
+data_path = 'C:/Users/t004314/Google Drive (work@polyhedron.it)/Working/03_MyTools'
 cname <- file.path(data_path, "txt")   
 cname   
 dir(cname)  
+setwd(cname)
 
 # Load the R package for text mining and then load your texts into R
 
@@ -63,8 +61,8 @@ for(j in seq(docs))
 
 # Stripping unnecesary whitespace from your documents
 docs <- tm_map(docs, stripWhitespace)  
-
 docs <- tm_map(docs, PlainTextDocument)   
+
 dtm  <- DocumentTermMatrix(docs)   
 dtm 
 
@@ -76,7 +74,6 @@ write.csv(m, file="dtm.csv")
 tdm  <- TermDocumentMatrix(docs)
 t <- as.matrix(tdm)
 write.csv(t, file="tdm.csv")   
-
 
 #  Start by removing sparse terms:   
 dtms <- removeSparseTerms(dtm, 0.1) # This makes a matrix that is 10% empty space, maximum.   
