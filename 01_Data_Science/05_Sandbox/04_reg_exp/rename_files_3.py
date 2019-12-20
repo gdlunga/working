@@ -12,6 +12,7 @@
 #
 # 
 import re 
+import os
 from os import listdir
 from os.path import isfile, join
 #____________________________________________________________________________________________________
@@ -27,7 +28,7 @@ def rule_1(w):
         mm = data[1]
         yy = data[2]
         data_str  = '-'.join([yy,mm,dd])
-        file_name = "comitato-finanza-liquidita-" + data_str + '.pdf'
+        file_name = data_str + "-comitato-finanza-liquidita" + '.pdf'
     return file_name    
 #____________________________________________________________________________________________________
 #
@@ -43,7 +44,7 @@ def rule_2(w):
         dd = data[2]
         #
         data_str  = '-'.join([yy,mm,dd])
-        file_name = "comitato-finanza-liquidita-" + data_str + '.pdf'
+        file_name = data_str + "-comitato-finanza-liquidita" + '.pdf'
     return file_name    
 #____________________________________________________________________________________________________
 #
@@ -59,7 +60,7 @@ def rule_3(w):
         yy = str(data[5:])
         #
         data_str  = '-'.join([yy,mm,dd])
-        file_name = "comitato-finanza-liquidita-" + data_str + '.pdf'
+        file_name = data_str + "-comitato-finanza-liquidita" + '.pdf'
     return file_name    
 #____________________________________________________________________________________________________
 #
@@ -76,7 +77,7 @@ def rule_4(w):
         mm = "%02d" % dict_months[mm]
         #
         data_str  = '-'.join([yy,mm,dd])
-        file_name = "comitato-finanza-liquidita-" + data_str + '.pdf'
+        file_name = data_str + "-comitato-finanza-liquidita" + '.pdf'
     return file_name    
 #____________________________________________________________________________________________________
 #
@@ -102,5 +103,6 @@ for w in onlyfiles:
     
     
 for key,value in dict_file_names.items():
-    print(key + " => " + value)   
+    print(key + " => " + value)  
+    os.rename(mypath + '/' + key, mypath + '/' + value)
     

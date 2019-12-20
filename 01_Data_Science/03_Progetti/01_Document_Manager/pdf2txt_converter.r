@@ -6,7 +6,7 @@ if(!require(pdftools)){
 } 
 
 # individuazione percorsi file dati
-data_path = 'C:\\Users\\T004314\\Documents\\Working\\03_MyTools'
+data_path = 'C:\\Users\\t004314\\Documents\\GitHub\\working\\01_Data_Science\\03_Progetti\\01_Document_Manager'
 file_path_orig = file.path(data_path, 'pdf')
 file_path_dest = file.path(data_path, 'txt')
 
