@@ -1,0 +1,134 @@
+TOPIC:           P1-ICAAP Reconciliation
+MACRO- PROCESS:  RISK MANAGEMENT
+PROCESS:         ICAAP - Internal Capital Adequacy Assessment Process
+DISCLOSURE DATE: 19/04/2017
+VERSIONING:       001
+
+                  Topic:       P1-IC AAP Reconciliation
+                  Disclosed on:       19/04/2017                                    Pg. 1 di 4
+                                                 INDEX
+1 – INTRODUCTION....................................................................................................2
+2 – RISK INTEGRATION AND RECONCILIATION ...............................................................2
+3 – METHODOLOGICAL ANNEXES..................................................................................4
+
+                        Topic:     P1-IC AAP Reconciliation
+                       Disclosed on:    19/04/2017                        Pg. 2 di 4
+1 – INTRODUCTION
+This document aims describes the difference bet ween the measures of P1 and ICAAP capital
+requirements, pursuant to SREP Guidelines. With this purpose, the document provides details
+on methodologies and rationales which lead activities of risk integration (Pillar 2 perspective)
+put in place for the Group, and on reconciliation with respect to Pillar 1 logic .
+2 – RISK INTEGRATION AND RECONCILIATION
+Pursuant to SREP Guidelines, the Group ensure ICAAP and ILAAP’s coverage of all risks to
+which it is or might be exposed. In particular, the Group ensure that ICAAP and ILAAP are fully
+and exhaustively implemented with respect to risk identification, risk relevance assessment,
+integration and reconciliation with regulatory capital requirements.
+Concerning risk integration and reconciliation, t he Group, consistently with the approach used
+by the Supervision Authorities to define the Total SREP Capital Requirements, decided to use
+the Pillar 1 Plus approach in order to provide risk integration and, hence, to end up with the
+estimation of Total Internal Capital Requirements.
+The methodology mainly takes into account the Pillar 1 risks and         the significant measurable
+Pillar 2 risks. In addition, the Group evaluates the completeness        and adequacy of Pillar 1
+measures. In particular, if the Pillar 1 measure is considered          insufficient or missing to
+accurately estimate the risk of the Group, the Pillar 1 measure is      replaced by internal model
+estimation within the ICAAP scope.
+The main differences between Pillar 1 and Pillar 2 capital estimat es concern Market Risk and
+additional Pillar 2 risks. Regarding Market Risk, the Group believes that the Pillar 1
+approach is not a complete methodology to estimate the risk under Pillar 2 perspective;
+therefore, an internal model for quantifying the Internal Capital is used. The internal model
+covers both Trading Book and AFS portfolio of Banking Book; the approach used for the
+estimation of the Internal Capital is based on VaR methodology. In particular, the VaR model
+involves:
+     <U+F0B7>  all risk factors except the interest rate (included in the IRRBB) for the AFS portfolio ;
+        hence, the measure includes the credit spread risk for sovereign positions (not
+        considered in Pillar 1);
+     <U+F0B7>  all risk factors for the Trading Book.
+As mentioned in the previous paragraph, additional Pillar 2 risks identified within the ICAAP
+scope are:
+     <U+F0B7>  Interest Rate Risk on Banking Book;
+     <U+F0B7>  Concentration Risk;
+     <U+F0B7>  Business and Strategic Risk.
+Coherently with the Pillar 1 Plus approach, and in order to ensure the accuracy of regulatory
+capital adequacy assessment, a one-year holding period is used for all risk categories, while
+
+                         Topic:          P1-IC AAP Reconciliation
+                         Disclosed on:        19/04/2017                           Pg. 3 di 4
+the considered confidence              level is      99,9%,     except for Market Risk (see chapter 3 –
+Methodological Annexes).
+In order to estimate the Total Internal Capital Requirements, the Internal Capital
+Requirements of each risk are added up (Building Block approach) without considering
+inter-risk diversification.
+Basing on Pillar 1 Plus and Building Block approaches, the Group provides the risk aggregation,
+under Pillar 2 perspective, by reconciling risk items between Pillar 1 and Pillar 2 as shown in
+the figure below.
+    MONTEPASCHI GROUP
+    (Eur mln)                                              Current
+    REGULATORY RWA                                    dic-16     dic-16                     INTERNAL RWA
+    Credit and Counterparty Risk                      53.521
+                                        Credit Risk 40.477       40.477                                Credit Risk
+                                             AIRB 29.918         29.918                                     AIRB
+                                           Standard 10.559       10.559                                   Standard
+                                Counterparty Risk 2.285           2.285          Counterparty Risk - Default risk
+                        Issuer Risk Banking Book 1.673            1.673                Issuer Risk Banking Book
+                       Market Risk Banking Book          196      6.733                         Market Risk AFS
+                                 Participation Risk 1.715         1.715                         Participation Risk
+                                  Real Estate Risk 2.219          2.219                          Real Estate Risk
+                                              DTA 3.538           3.538                                      DTA
+                                             Other 1.417          1.417                                      Other
+    Market Risk                                        3.046
+                       Market Risk Trading Book 2.810               743                         Market Risk HFT
+               Bond and securitization Specific risk     235        235                Issuer Risk Trading Book
+    Operational Risk                                   8.476      8.476                         Operational Risk
+    CVA                                                  480        480                 Counterparty Risk - CVA
+    Settlement and Delivery Risk                         -          -               Settlement and Delivery Risk
+    Pillar 1                                          65.522
+                                                                  2.705         Interest Rate Risk Banking Book
+                                                                  1.138                       Concentration Risk
+                                                                  4.990               Business and Strategic Risk
+                                                                 78.824                                    Pillar 2
+Items evidenced by red box are those exclusive components differently measured.
+Interest Rate Risk on Banking Book, Concentration Risk and Business and Strategic
+Risk represent other additional Pillar 2 risks identified and measured within ICAAP scope ,
+together with Pillar 2 Market Risk.
+
+                                 Topic:          P1-IC AAP Reconciliation
+                                 Disclosed on:           19/04/2017                                     Pg. 4 di 4
+3 – METHODOLOGICAL ANNEXES
+The table below summarises the main methodological peculiarities concerning the capital
+requirements measurement for all identified risk categories (scope: ICAAP 2016).
+ INTERNAL CAPITAL                                                                          Confidence Holding Intra-risk
+                                        Approach
+ (Eur mln)                                                                                 Level         Period Diversification
+ Credit Risk*                           Pillar 1
+                                        Advanced Internal Rating Based - AIRB              99,9%         1y           No
+                                        Standard
+ Market Risk**                          Pillar 2
+                              AFS       MarIR Var                                          99,0%         20d          Yes
+                              HFT       VaR                                                99,0%         20d          Yes
+ Operational Risk                       Pillar 1
+                                        Advanced Modelling Approach - AMA                  99,9%         1y           Yes - T-Student copula
+                                        Basic Indicator Approach - BIA
+ Interest Rate Risk BB                  Pillar 2
+                                        EV Sensitivities approach and prudential buffer
+ Business and Strategic Risk            Pillar 2
+                                        Earnings Volatility and Expert Layer Component     99,9%         1y           No
+ Counterparty Risk                      Pillar 1
+                     Default Risk       Standard
+                             CVA        Standard
+ Participation Risk                     Pillar 1
+                                        Standard
+ Real Estate Risk                       Pillar 1
+                                        Standard
+ Issuer Risk                            Pillar 1
+                                        Standard
+ Concentration Risk                     Pillar 2
+                                        Internal model                                                                Yes
+ Settlement and Delivery Risk           Pillar 1
+                                        Standard
+ Other Risk                             Pillar 1
+                                        Standard
+ Total
+ * only lending portfolio
+ ** The confidence level is compliant with Regulatory Capital Requirements Framework (cf. Reg EU 575/2013 - CRR). FX and Commodities Risks of
+ the L&R portfolio are transferred to the trading book.
+

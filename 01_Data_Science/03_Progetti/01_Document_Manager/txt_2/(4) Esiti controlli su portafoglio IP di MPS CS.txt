@@ -1,0 +1,347 @@
+      Processo «Amministrazione del
+          Portafoglio Non Performing»
+  Comunicazione degli esiti del controllo di secondo livello sul
+portafoglio Inadempienze Probabili di MPS Capital Services Spa
+                                         Area Lending Risk Officer
+                       Servizio Credit Portfolio Models e Controls
+                                        Siena, 08 novembre 2019
+
+ Sintesi dell’attività di controllo
+<U+F071> Il Servizio Credit Portfolio Models e Controls, seguendo la programmazione interna delle attività di controllo, ha avviato un’analisi volta a
+  verificare la conformità operativa nell’esecuzione degli adempimenti di controllo e monitoraggio previsti nel documento normativo “D56
+  Amministrazione del Portafoglio Non Performing” di MPS Capital Services Spa (MPSCS).
+<U+F071> In fase di pubblicazione dell’ultima versione del Documento (versione n.12 del 30 aprile 2019), il design dei controlli di linea è stato valutato
+  «Adeguato» in relazione alla copertura (totale delle posizioni in gestione presso l’Ufficio Gestione Portafoglio Non Performing) ed alla
+  capacità mitigante i rischi di mancata/non tempestiva: autorizzazione del passaggio di stato e aggiornamento del Dubbio Esito.
+<U+F071> L’attività di analisi si è focalizzata sul portafoglio Inadempienze Probabili di MPSCS in stock al 31/08/2019 con esclusione delle posizioni già
+  oggetto di analisi oltre ad alcune casistiche particolari per le quali è possibile osservare frequenze di intervento diverse rispetto a quanto
+  previsto dalle Policy (es. Coordinamento della Capogruppo, cause legali in corso, previsioni di cessione etc.).
+<U+F071> Al fine di catturare gli elementi specifici del monitoraggio, sono stati definiti 4 cluster ed analizzate 20 posizioni:
+     1.    «Sofferenze Allargate» (8)                                   (rilevata 1 non conformità di classificazione)
+     2.    «M onitorate da Staff Direzione Crediti MPSCS» (4)           (non rilevate non conformità)
+     3.    «Esposizione > 1 M ln» (4)                                   (non rilevate non conformità)
+     4.    «Esposizione < 1 M ln» (4)                                   (non rilevate non conformità)
+<U+F071>   Alla luce delle 19 conformità di classificazione e valutazione (95% del campione), il giudizio di sintesi è «Adeguato». L’analisi ha inoltre
+    mostrato un attento seguimento delle posizioni con esposizioni maggiori (conformità in termini di volumi al 99,9%) e confermato la capacità
+    correttiva del monitoraggio eseguito dallo Staff Direzione Crediti e Monitoraggio High Risk.
+                                                                                                                                                   2
+
+     Portafoglio sottoposto a verifica di conformità operativa
+   Il portafoglio di riferimento per l’analisi è quello delle posizioni che MPSCS aveva classificato tra le “Inadempienze Probabili” al
+   31/08/2019*. Per tali posizioni erano attese specifiche attività di monitoraggio della Classificazione e della Valutazione.
+                                            Passaggi di formazione del Perimetro di analisi
+1.    In fase di studio ed analisi del fenomeno è stato individuato un
+      perimetro lordo di 577 posizioni per 784,6Mln.                                                                                                                   Esp.ne*
+                                                                                                                                                                Pos.ni
+                                                                                                                                                                       MPSCS
+2.    Sono state escluse le 44 posizioni per 108,1Mln che nel corso degli
+      ultimi 12 mesi, sono già state oggetto di controllo di secondo                    Perimetro Lordo                                                     =    577   784.563
+      livello da parte del Settore Analisi Esposizioni Creditizie.
+                                                                                                          Già oggetto di controllo di secondo
+                                                                                                                                                            -     44   108.135
+3.    Le informazioni del perimetro sono state arricchite con i dati                                                   livello negli ultimi 12 mesi
+      forniti dal Servizio Credit Control Unit di BMPS che si occupa di                                     Analizzate negli incontri tematici
+                                                                                                                                                            -     27   21.228
+      convocare gli «Incontri tematici sui disallineamenti gestionali» e di                                                      nel corso del 2019
+      monitorarne le decisioni assunte; sono state quindi escluse ulteriori
+      27 posizioni per 21,2Mln analizzate nel 2019.                                                   Incluse in elenchi di cessioni in corso               -     7    60.819
+4.    Al fine di escludere le posizioni gestite con logiche straordinarie,                                Posizioni con cause legali in corso                     23   30.373
+      con il supporto dello Staff Direzione Crediti e Monitoraggio High
+      Risk di MPSCS sono state escluse le posizioni in cessione (n.7 per                Perimetro oggetto di analisi                                        =    476   564.008
+      60,8Mln) e le posizioni con cause legali in corso (n.23 per
+      30,4Mln).
+                                                                            * Non sono state oggetto del controllo le posizioni con stato MPSCS «ristrutturato»
+                                                                            ** Esposizioni di MPSCS in €/Mgl. aggiornate al 31/08/2019                                         3
+
+Criteri di campionamento
+                                                                    Perimetro                          Campione                     Copertura Campione
+                             Cluster                                      Esposizione                            Esposizione           %           %
+                                                           Posizioni                          Posizioni
+                                                                           MPSCS*                                  MPSCS*          Posizioni   Esposizione
+       1) Sofferenze Allargate                                 8                 3.586             8                       3.586   100,0%        100,0%
+       2) Monitorate da Staff Direzione Crediti MPSCS          12              142.257             4                     83.027     33,3%        58,4%
+       3) Portafoglio con Esposizione > 1 Mln                 106              315.593             4                       6.554     3,8%         2,1%
+       4) Portafoglio con Esposizione < 1 Mln                 350              102.571             4                         513     1,1%         0,5%
+       Totale                                                 476              564.008             20                    93.679      4,2%        16,6%
+Al fine di individuare gli elementi specifici del monitoraggio, il perimetro è stato suddiviso nei seguenti 4 cluster e sono state campionate:
+       <U+F071> 8 posizioni con «Sofferenze Allargate» (analizzato l’intero perimetro)
+       <U+F071> 4 posizioni già oggetto di verifica da parte di MPSCS nel corso del mese di febbraio 2019. Tra le 12 posizioni ancora
+           classificate tra le Inadempienze Probabili al 31/08/2019, sono state campionate le Top 4 per esposizione tra quelle non oggetto di
+           indirizzo correttivo da parte dello Staff Direzione Crediti e Monitoraggio High Risk di MPSCS.
+       <U+F071> 4 posizioni soggette a valutazione analitica (esposizione verso MPSCS superiore a 1Mln) campionate con criterio casuale
+       <U+F071> 4 posizioni soggette a valutazione statistica (esposizione verso MPSCS inferiore a 1Mln) campionate con criterio casuale
+                                                                             *Esposizioni MPSCS in €/Mgl. aggiornate al 31/08/2019
+                                                                                                                                                           4
+
+    Esiti del controllo – Focus su corretta classificazione e valutazione
+                                                                   Campione                         Non conformità                         % Non conformità
+                               Cluster                                  Esposizione                               Esposizione               %                      %
+                                                            Posizioni                          Posizioni
+                                                                          MPSCS*                                   MPSCS*              Posizioni           Esposizione
+          1) Sofferenze Allargate                              8                3.586               1                        112         12,5%                   3,1%
+          2) Monitorate da Staff Direzione Crediti MPSCS       4               83.027                -                          -            -                      -
+          3) Portafoglio con Esposizione > 1 Mln               4                6.554                -                          -            -                      -
+          4) Portafoglio con Esposizione < 1 Mln               4                   513               -                          -            -                      -
+          Totale                                               20              93.679               1                        112          5,0%                  0,1%
+Il campione è risultato correttamente classificato nel 95% dei casi (99,9% dei volumi) e correttamente valutato nel 100% dei casi:
+      <U+F0D8> La non conformità di classificazione è una richiesta di passaggio a Sofferenza su posizione oggetto di svalutazione statistica**
+      <U+F0D8> Le 9 posizioni (91,2Mln di esposizione) soggette a svalutazione analitica sono risultate tutte correttamente valutate***
+Sono inoltre emersi aspetti positivi in termini di gestione e seguimento delle posizioni, in particolare
+      <U+F0D8> Tutti i parametri attivati sulle posizioni campionate (con stato di destinazione «Sofferenza») sono stati analizzati negli applicativi
+          dedicati; come suggerito al termine della campagna di controllo eseguita nel 2018, il parametro «Inadempienze Probabili da oltre 36
+          mesi» viene ripresentato per l’analisi con cadenza annuale.
+      <U+F0D8> Nel 100% dei casi (9 casi soggetti a valutazione analitica), lo strumento per la stima del Dubbio Esito è stato compilato correttamente ed
+          archiviato nell’apposito Team Site.
+      <U+F0D8> Nel 100% dei casi gli immobili a garanzia delle esposizioni hanno una valutazione in corso di validità.
+                                                                           * Esposizioni MPSCS in €/Mgl. aggiornate al 31/08/2019
+                                                                           ** Delta accantonamenti non oggetto di stima analitica
+                                                                                                                                                                                   5
+                                                                           *** Le restanti 11 posizioni del campione, essendo soggette a svalutazione statistica, sono considerate
+                                                                           conformi per definizione
+
+ Punti di attenzione
+L’analisi del campione, correlata con le evidenze emerse da altre attività di controllo svolte sul portafoglio Inadempienze Probabili di MPSCS (campagne di
+controllo svolte a livello di GMPS), ha permesso di individuare alcuni punti di attenzione. In dettaglio viene ritenuto opportuno:
+<U+F071> Definire una strategia di «gestione» a livello di Gruppo Montepaschi con l’obiettivo di massimizzare i recuperi. È emerso:
+       <U+F071> Un caso in cui la banca più esposta del GMPS (MPSCS) ha concesso una forbearance ed a distanza di 3 mesi la meno esposta (BMPS) ha
+           classificato la posizione a Sofferenza (Gardenville Srl – NGR 300123552);
+       <U+F071> Un caso in cui MPSCS ha deliberato una nuova operazione con incremento dell’esposizione e potenziale* «Cura» mentre la struttura che si
+           occupa delle cessione dei crediti NPE per il GMPS, ne sta valutando la cessione (Item Capomulini Srl – NGR 295490202).
+<U+F071> Valutare un potenziale rifinanziamento delle posizioni gestite tra le Inadempienze Probabili con scenario non liquidatorio che eseguono pagamenti
+   occasionali non in linea con il piano in corso; la formalizzazione di un rifinanziamento in linea con i pagamenti eseguiti dai clienti, permetterebbe dopo
+   12 mesi di valutare una potenziale «Cura» (casistica emersa soprattutto nel cluster con esposizione < 1Mln)
+<U+F071> Aggiornare il «Monitoraggio del portafoglio creditizio su Posizioni Condivise» definito dal Documento n.2133 di BMPS e recepito nel n.433 di
+   MPSCS con l’obiettivo di garantire un monitoraggio dei disallineamenti e delle sofferenze allargate ma anche degli sconfinamenti su posizioni
+   Performing (di fondamentale importanza con l’introduzione della Nuova Definizione di Default).
+<U+F071> Sottolineare l’importanza di proseguire con le attività di mitigazione del GAP EC_2019_00010 al fine di migliorare l’efficienza nella gestione a livello di
+   GMPS del processo di monitoraggio e gestione delle perizie sugli immobili.
+    Nell’aggiornamento del Documento n.396 «Processo di monitoraggio e gestione delle perizie sugli immobili» dovrà essere prevista in primo luogo
+    una verifica della disponibilità della perizia presso altre banche del GMPS e successivamente stabilite le casistiche in cui è opportuno richiedere una
+    perizia «Full»(attualmente previste riperizie Drive-by e Full ma non vengono definiti i criteri di richiesta).
+    Nel campione analizzato tutti i beni per cui è prevista una riperizia (8** posizioni su 20) hanno una valutazione aggiornata ma in nessun caso è stata
+    eseguita una perizia Full.
+                                                                                 * Operazione deliberata ad 08/2018 con successivi riesami (di cui l’ultimo a 05/2019); ancora non è
+                                                                                 stata perfezionata pertanto la posizione risulta ancora classificata tra le Inad. Probabili
+                                                                                                                                                                                     6
+                                                                                 ** Non considerata la ITEM C APOMULINI SRL visto che a fronte della potenziale nuova erogazione è
+                                                                                 stata eseguita una Due Diligence
+
+     Giudizio di sintesi sul Processo Operativo di Gestione delle Inadempienze Probabili
+ Descrizione
+                   Caratteristiche del Controllo
+                     Conformità operativa al Processo di Amministrazione del Portafoglio Non Performing
+                                                                                                                               B               Controlli sulle singole esposizioni (CFR)
+                                                                                                                                                                                                 Posizioni                         Incidenza
+                     <U+F071> Mancata/non tempestiva classificazione della posizione in presenza di elementi che ne                                                                                  #           €Mgl.                  #          €Mgl.
+                         suggeriscono un cambiamento di status.                                                                    Perimetro                                                      476       564.008
+ Rischi              <U+F071> Val.ne dei crediti non conforme ai principi di redazione del bil./principi contabili vigenti.               Campione Esitato                                                20        93.679           4,2%         16,6%
+                     <U+F071> Rischio di mancata/non tempestiva revisione del Dubbio Esito in conformità a quanto                         Conformi per Classificazione e Valutazione                      19        93.567          95,0%         99,9%
+                         previsto dalla normativa interna.
+                                                                                                                                                             di cui con osservazioni                4        19.214          20,0%         20,5%
+ Perimetro           476 posizioni che MPSCS al 31/08/2019 aveva tra le Inadempienze Probabili al netto di                         Richieste di classificazione                                     1           112           5,0%          0,1%
+ Osservato           posizioni già oggetto di controllo di secondo livello, di discussione agli incontri sui
+                                                                                                                                   Alla luce della richiesta di classificazione, il giudizio di sintesi è «Adeguato». L’analisi ha mostrato un
+                     disallineamenti, delle posizioni in lista di cessione e di quelle con cause legali in corso.
+                                                                                                                                   attento seguimento delle posizioni con esposizioni maggiori (conformità in termini di volumi al 99,9%).
+                     Perimetro suddiviso in 4 cluster, (campione di 20 posizioni): 8 – Sofferenze Allargate, 4 – Già               Tra le conformità, sono state individuate 4 posizioni con osservazioni, riconducibili alle seguenti casistiche:
+ Criteri di
+ campion.to
+                     monitorate da parte dello Staff Direzione Crediti di MPSCS (Top esposizioni), 4 – Valutazione
+                     analitica (esposizione > 1Mln), 4 – Valutazione statistica (esposizione < 1Mln)                               1.    Assenza di unica strategia a livello di GMPS per gestione e recupero
+                                                                                                                                   2.    Necessità di eseguire una nuova valutazione del quadro affidativo
+ Policy di Rif.      Policy in materia di classificazione e valutazione del credito (D371)
+                                                                                                                                   3.    Valutare il nuovo progetto di procedura di concordato ex Art 161LF presentato a settembre 2019
+ Periodo
+ esec.               Ottobre 2019                         Data produzione report          08/11/2019                                Conformità Operativa alla normativa interna                                      4 – Adeguato
+A               Verifica dei Processi Aziendali                                                                                                        Rilievi (Reattività)
+  Processo Analizzato        Amministrazione del Portafoglio Non Performing (D56)                                                  Data di verifica          31/12/2019
+  Copertura dei              Presenti controlli ex-ante legati agli specifici rischi, nella responsabilità del                     Avviato all’interno del Registro dei Controlli l’iter di risoluzione dell’anomalia di classificazione.
+  Controlli di linea         Responsabile dell’Ufficio Portafoglio Non Performing (UGPNP).
+                                                                                                                                   Comunicate allo Staff Direzione Crediti e Monitoraggio High Risk di MSPCS le attività gestionali richieste
+                             In fase di approvazione di passaggio di stato e/o aggiornamento del Dubbio Esito,                     sulle 4 posizioni con osservazioni (laddove possibile un intervento ne verrà monitorata l’esecuzione).
+  Pertinenza dei
+  Controlli di linea         sono previste specifiche verifiche, la delibera/convalida ne certifica l’esito positivo.
+                                       Copertura e Pertinenza dei controlli            4 - Adeguato                                  Processo di Risoluzione delle anomalie                                          Non Valutato
+                                      Remediation                                                                            Valutazioni per Indicatore                                                             Gestione del Rischio
+  Importante sottolineare l’importanza di:
+  <U+F071> Definire strategie di gestione unitarie a livello di Gruppo Montepaschi
+                                                                                                  A                 Verifica dei Processi Aziendali                                       4
+  <U+F071> Proporre misure di forbearance a debitori con pagamenti occasionali che la
+     banca sta gestendo in scenario non liquidatorio (ottica di «cura»)
+                                                                                                  B                 Controlli sulle singole esposizioni (CFR)                             4
+  <U+F071> Proseguire con l’aggiornamento dei processi di Monitoraggio delle perizie
+     sugli immobili migliorando l’efficienza all’interno del GMPS                                  Strumenti (IT)     Non valutati                                                        ND
+                                                                                                                              Scala di valutazione: 1 – Non Adeguato; 2 – Parzialmente Adeguato; 3 – In Prevalenza Adeguato; 4 - Adeguato          7
+
+Allegati <U+200B>Schede di dettaglio
+                              8
+
+Style Spa (NGR 63755823) – Cluster «Sofferenze Allargate»                                                                                Esito          Valutare passaggio a Sofferenza
+              SINTESI
+ <U+F0A7>    MPSCS con delibera massiva del 28/02/2017 ha classificato la posizione tra le Inadempienze Probabili; in precedenza BMPS il 30/12/2016
+      aveva classificato la posizione a Sofferenza (rientrata nella cartolarizzazione SIENA NPL 2018 oggetto di derecognition a 06/2018)
+ <U+F0A7>    Ultimo pagamento risale a luglio 2016, al momento del controllo presenti 6 rate arretrate, ultima analisi di classificazione risale a 02/2017.
+     DATI CONTABILI                                                  EVIDENZE
+                                                            <U+F071> Azienda che si occupa di produzione e commercio di porte in legno ed arredamenti su misura.
+           MPSCS             31/12/2018      30/09/2019     <U+F071> BMPS a dicembre 2016 ha classificato la posizione a sofferenza; in fase di derecognition a fronte di un’esposizione
+                                                              complessiva di 220k euro, contabilizzato un passaggio a perdita di 211k euro.
+    Esp. Lorda                 107.524         108.358
+                                                            <U+F071> La posizione è stata oggetto di classificazione con riesame cumulativo di febbraio 2017 per analisi di eventi di
+    Fondi                       19.073          18.774        Default Detection (eventi di Centrale Rischi e Andamentali), fra cui il passaggio di stato deliberato da BMPS.
+                                                            <U+F071> Azienda finanziata nel 2004 per finanziamento di originari 350k euro (oggetto di varie misure di forbearance)
+    Esp. Netta                  88.450          89.584
+                                                              residuato a 112k euro di cui 77k euro in arretrato (ultimo pagamento risale a 07/2016, n.6 rate arretrate).
+    % Copertura                 17,7%           17,3%         L’operazione è assistita da ipoteca di primo grado su immobile commerciale che nel 2004 era stato valutato 760k
+                                                              per cui non è prevista la riperizia.
+  Nel corso del periodo esposizione progressivamente        <U+F071> Dalla Centrale Rischi di agosto 2019 emerge che a fronte di un’esposizione di 495k euro, 309k euro sono
+      in aumento, posizione soggetta a svalutazione           segnalate a sofferenza; sui crediti non ancora classificati sono presenti 88k euro di arretrati.
+   statistica, pertanto la variazione delle coperture non è
+                                                            <U+F071> Il Sig. Greco Antonino, socio al 22,8%, Amministratore Unico e garante è stato classificato a Sofferenza da BMPS a
+  determinata da revisioni analitiche delle previsioni di
+                                                              dicembre 2017; a fronte di un’esposizione di 25k euro, il credito è stato oggetto di cessione con perdita di 21k euro.
+                            recupero
+                                                            <U+F071> Contro l’azienda sono presenti vari pregiudizievoli legati ad arretrati tributari (l’ultimo del febbraio 2018 di 2,2Mln)
+            RICHIESTA
+ Alla luce delle azioni di recupero intraprese per i crediti di BMPS, ma soprattutto dell’assenza di pagamenti da oltre 3 anni con conseguente
+ incremento degli arretrati, viene ritenuto opportuno classificare la posizione a sofferenza ed avviare azioni di recupero più incisive
+                                                                                       Codice Cliente n. 489566
+                                                                                       Numero Finanziamento n. 347383
+                                                                                                                                                                                        9
+
+Gardenville Srl (NGR 300123552) – Cluster «Esposizione > 1 Mln»                                                                        Esito
+                                                                                                                                                      Definire un’unica strategia
+                                                                                                                                                       gestionale e di recupero
+             SINTESI
+ <U+F0A7>    Posizione classificata tra le Inadempienze Probabili da MPSCS il 18/09/2018
+ <U+F0A7>    Ultima stima analitica del Dubbio Esito è di agosto 2019 con conferma della precedente stima (50%)
+ <U+F0A7>    A 07/2019 MPSCS (esp.ne prevalente GMPS) ha autorizzato una forbearance, il 09/10/2019 BMPS ha classificato la posizione a Sofferenza
+    DATI CONTABILI                                                 EVIDENZE
+                                                          <U+F071> Azienda che si occupa della gestione di due punti vendita per il commercio di prodotti florovivaistici.
+         MPSCS            31/12/2018        30/09/2019    <U+F071> Posizione classificata tra le Inadempienze Probabili il 18/09/2018. BMPS aveva la posizione tra le Inad. Prob. dal
+                                                            04/05/2018 quando, in fase di concessione di un Piano Di Rientro di 159k euro, è stata ritenuta in difficoltà «Grave»
+    Esp. Lorda             1.282.212         1.272.980
+                                                          <U+F071> Esposizione MPSCS di 1,3Mln derivante da finanziamento di originari 2,6Mln concesso nel 2003 ed oggetto di varie
+    Fondi                    732.005          683.778       forbearance (l’ultima autorizzata a luglio 2019 che ha previsto la sospensione della quota capitale per 2018 e 2019
+                                                            oltre alla capitalizzazione della quota capitale della rata scaduta il 31/12/2017).
+    Esp. Netta               550.208          589.202
+                                                          <U+F071> Il 30/06/2019 versati 40k euro a copertura delle rate di soli interessi del periodo di sospensione.
+    % Copertura               57,1%            53,7%      <U+F071> Ad agosto 2019 confermato il DuBe del 50% stimato ad ottobre 2018 considerando come unica fonte di rimborso la
+                                                            liquidazione del fabbricato commerciale oggetto di ipoteca di I grado valutato 1,2Mln (riperizia di 09/2018).
+       Nel corso del periodo autorizzata la misura di
+                                                          <U+F071> Dall’analisi del flusso Centrale Rischi di 08/2019 non emergono segnalazioni a Sofferenza.
+ forbearance con esposizione in lieve diminuzione. La
+     variazione delle coperture non è determinata da      <U+F071> Nonostante l’assenza di sofferenze a sistema e la concessione della misura di forbearance da parte di MPSCS
+  revisioni analitiche delle previsioni di recupero ma da   (esposizione prevalente del GMPS – 1,2Mln), BMPS il 09/10/2019 ha classificato la posizione a sofferenza
+               modifiche agli add-on applicati.             (esposizione di 159k euro). Le motivazioni sono da ricondurre al mancato rispetto del Piano Di Rientro e
+                                                            all’impossibilità di giungere ad un accordo (senza seguito anche le lettere di costituzione in mora). Vengono
+                                                            menzionati anche tentativi di contatto mediante MPSCS per cercare di raggiungere una soluzione.
+          RICHIESTA
+ Completare l’inserimento dell’attributo Forborne sul finanziamento ma soprattutto, ai fini dell’efficacia delle strategie di recupero, viene ritenuto
+ necessario un maggior coordinamento sulle iniziative intraprese da ciascuna banca del Gruppo Montepaschi.
+                                                                                      Codice Cliente n. 2212400
+                                                                                      Numero Finanziamento n. 1006224
+                                                                                                                                                                                  10
+
+RS Records Store Spa (NGR 190826373) – Cluster «Monitorate da MPSCS »                                                                      Esito               Riesaminare la posizione
+           SINTESI
+ <U+F0A7>    Posizione classificata tra le Inadempienze Probabili da MPSCS il 29/12/2014
+ <U+F0A7>    A maggio 2019 aggiornato il Dubbio Esito con riduzione della copertura sui crediti dal 57% al 54%*
+ <U+F0A7>    A 06/2018 concessa rinegoziazione dei termini di rimborso che al momento del controllo non è ancora stata perfezionata
+    DATI CONTABILI                                               EVIDENZE
+                                                         <U+F071> Azienda che nel corso del 2014 ha concesso in affitto il ramo d’azienda «documentale» alla MODOC SRL (canone
+                                                           rinegoziato a febbraio 2018) canalizzato su c/c BMPS.
+        MPSCS              31/12/2018     30/09/2019
+                                                         <U+F071> Con riesame del 14/06/2018 autorizzata forbearance subordinata al verificarsi di alcune condizioni sospensive che
+    Esp. Lorda             16.004.578     16.128.156       anche al momento del controllo non risultano interamente soddisfatte (nel corso del 2019 versati circa 80k).
+    Fondi                  10.880.889      9.659.179     <U+F071> A marzo 2019 analizzato il parametro «Inadempienza probabile da oltre 36 mesi» con decisione di non avviare la
+                                                           classificazione alla luce della rimodulazione concessa a giugno 2018.
+    Esp. Netta              5.123.688      6.468.977
+                                                         <U+F071> Esposizione relativa a differenziali scaduti (676k euro) interamente svalutata e, considerando anche la natura del
+    % Copertura               68,0%          59,9%         credito, non considerata nel Tool Gone di stima analitica (correttamente compilato ed archiviato) dove sono stati
+                                                           considerati i finanziamenti di:
+                                                                <U+F0D8> originari 18Mln concesso nel 2007 con residuo di 15,8Mln di cui 3,4Mln di arretrati
+   Nel corso dei primi 9 mesi del 2019 esposizione in
+                                                                <U+F0D8> originari 2Mln concesso nel 2009 residuato a 479k euro di cui 326k euro di arretrati
+  progressivo aumento. La variazione delle coperture è
+ determinata da una revisione analitica delle previsioni <U+F071> Al momento del controllo, emergono varie criticità che rendono necessaria una nuova valutazione, in particolare:
+ di recupero eseguita a 05/2019 (con perizie aggiornate)        <U+F0D8> non sono stati eseguiti i pagamenti concordati e non è stata sistemata l’esposizione derivante dai
+      che ha portato alla riduzione dal 57% al 54%* .              differenziali scaduti sul derivato (primo pagamento previsto per gennaio 2019 non è ancora stato eseguito);
+                                                                <U+F0D8> sono trascorsi 14 mesi dalla delibera di rimodulazione;
+                                                                <U+F0D8> trattative per la vendita dell’immobile (successive alla delibera – fonte bilancio 2018).
+          RICHIESTA
+ Viene ritenuta necessaria una nuova valutazione della posizione al fine di valutarne la sistemazione (potenzialmente mediante un diverso
+ accordo e una nuova forbearance) o, in caso di assenza di accordo, il passaggio a maggior rischio.
+                                                                                     Codice Cliente n. 3101795
+                                                                                     Numero Finanziamento n. 5021514, 5027585, 5035795
+                                                                                                                                                                                               11
+                                                                                     * Nella stima analitica non considerata la completa svalutazione dei differenziali arretrati sul derivato
+                                                                                     scaduto (circa 676k)
+
+Ranaldo Nicola, Mazzone Maria (NGR 48499469) – Cluster «Esposizione < 1 Mln»                                                        Esito           Riesaminare la posizione
+             SINTESI
+ <U+F0A7>    Posizione classificata tra le Inadempienze Probabili da MPSCS il 22/05/2017 con riesame cumulativo per analisi di Default Detection
+ <U+F0A7>    L’esposizione di 47k euro comprende 21k euro di arretrati (versamenti sporadici ed inferiori alle rate in scadenza)
+ <U+F0A7>    Non risultano attivi parametri di classificazione
+     DATI CONTABILI                                               EVIDENZE
+                                                         <U+F071> Cointestazione tra due persone fisiche affidata nel 2001 per un mutuo di originari 129k euro che al momento del
+                                                           controllo mostra un residuo di 47k euro di cui 21k euro di arretrati (4 rate semestrali); l’operazione è assistita da
+          MPSCS            31/12/2018       30/09/2019     ipoteca di primo grado su bene non residenziale che nel 2001 era stato valutato 247k euro (riperizia non
+                                                           necessaria) e da garanzia sussidiaria di Fidi Toscana (30%).
+     Esp. Lorda              49.007           46.489
+                                                         <U+F071> Sull’operazione non è mai stata concessa nessuna misura di forbearance, l’ultimo pagamento è del 19/09/2019 per
+     Fondi                    7.861            5.834       3k euro a fronte di una rata in scadenza di circa 5k euro (il precedente è di ottobre 2018 per circa 4k euro).
+     Esp. Netta              41.147           40.655     <U+F071> Non sono attivi parametri di classificazione, non risultano censiti mandati a recuperatori esterni.
+     % Copertura              16,0%           12,5%      <U+F071> La posizione è stata oggetto di classificazione mediante riesame cumulativo del 19/05/2017 per analisi dei
+                                                           parametri di classificazione (evento legato alla presenza di rate morose).
+     Nel corso del primo semestre 2019 esposizione in    <U+F071> Non emergono altre segnalazioni in Centrale Rischi al 31/08/2019.
+   lieve diminuzione, previsioni di recupero stimate con
+                                                         <U+F071> La Signora a gennaio 2019 ha iscritto in CCIAA una D.I. (non sono attivi rapporti con BMPS)
+          metodologia statistica (credito secured).
+                                                         <U+F071> Visti i modesti pagamenti (3k euro negli ultimi 12 mesi a fronte di rate in scadenza per circa 10k euro), l’attuale
+                                                           strategia di recupero non viene considerata efficace. La posizione viene gestita tra le Inadempienze Probabili con
+                                                           scenario non liquidatorio; la formalizzazione di un rifinanziamento in linea con i pagamenti eseguiti dai clienti,
+                                                           permetterebbe dopo 12 mesi di valutare una potenziale «Cura»
+           RICHIESTA
+ In primo luogo, anche in ottica di potenziale cura, valutare una misura di forbearance e, in caso di mancato accordo, valutare un passaggio a
+ Sofferenza al fine di procedere con un recupero più incisivo.
+                                                                                    Codice Cliente n. 2034121
+                                                                                    Numero Finanziamento n. 1003577
+                                                                                                                                                                               12
+
+Finpa Trading Srl (NGR 276863032) – Cluster «Sofferenze Allargate»                                                                     Esito
+                                                                                                                                                       Valutare gli elementi
+                                                                                                                                                       di giudizio aggiornati
+            SINTESI
+ <U+F0A7>    Posizione classificata tra le Inadempienze Probabili da MPSCS il 19/12/2016
+ <U+F0A7>    Ultima stima analitica del Dubbio Esito è di agosto 2019 con incremento dal 40% al 60% per override
+ <U+F0A7>    In data 11/09/2019 l’azienda ha presentato un progetto di procedura di concordato con riserva ai sensi dell’art. 161 L.F.
+    DATI CONTABILI                                                 EVIDENZE
+                                                          <U+F071> Posizione classificata tra le Inadempienze Probabili dal 19/12/2016 per i pregiudizievoli e gli sconfinamenti presenti
+                                                            in Centrale Rischi (azienda definita in difficoltà a causa del sostanziale azzeramento delle entrate da fitti attivi).
+         MPSCS              31/12/2018     30/09/2019
+                                                          <U+F071> Esposizione di 1,4Mln relativa a residuo del finanziamento di originari 4Mln a 8 anni concesso nel 2012 per
+    Esp. Lorda               1.875.764      1.643.311       finanziare 2 impianti fotovoltaici su immobili di proprietà dell’azienda (operazione in scadenza 30/09/2020 con maxi
+                                                            rata finale di 1,2Mln).
+    Fondi                     993.234       1.108.681
+                                                          <U+F071> Operazione sempre onorata correttamente, ultima rata pagata il 30/09/2019 (240k euro di quota capitale) mediante
+    Esp. Netta                882.530        534.631        addebito del c/c aperto presso BMPS (oppignorato) su cui sono canalizzati gli incassi dal GSE
+    % Copertura                53,0%          67,5%       <U+F071> Il Dubbio Esito è stato aggiornato ad agosto 2019 con un incremento dal 40% al 60%. Nella stima non sono stati
+                                                            considerati recuperi da liquidazione dei beni aziendali (ipoteca di terzo grado non capiente) ma è stato eseguito un
+                                                            override in riduzione (dal 100% al 60% di Dubbio Esito) perché, nonostante le rate siano sempre state pagate
+    Nel corso del periodo esposizione in diminuzione
+                                                            regolarmente, la maxi rata finale non è strettamente collegata agli incassi dal GSE come lo sono state fino ad oggi
+    (pagata la rata del 30/09/2019). La variazione delle
+                                                            le rate (il Dubbio Esito stimato corrisponde al 73% della maxi rata finale).
+  coperture è determinata dalla revisione analitica delle
+           previsioni di recupero del 30/08/2019.         <U+F071> In Centrale Rischi ad agosto 2019 siamo l’unico ente dei 3 segnalanti a non aver classificato la posizione a
+                                                            sofferenza (sofferenze per 6,5Mln, prima segnalazione di ottobre 2017).
+                                                          <U+F071> In data 11/09/2019 l’azienda ha presentato un progetto di procedura di concordato con riserva ai sensi dell’art 161
+                                                            LF trascritto in CCIAA il 02/10/2019.
+          RICHIESTA
+ In relazione alla recente presentazione del progetto di procedura di concordato con riserva ai sensi dell’art 161, è opportuna in primo luogo
+ un’analisi di classificazione e, se viene confermato lo stato Inadempienza Probabile, una nuova valutazione basata sulle linee guida del piano.
+                                                                                      Codice Cliente n. 3198191
+                                                                                      Numero Finanziamento n. 5034401
+                                                                                                                                                                                   13
+
+

@@ -1,0 +1,60 @@
+                                        LiST 2019
+                              Evidenze dello Stress Test di Liquidità
+                                e impatti modellistici conseguenti
+                             Comitato Gestione Rischi: 28 Giugno 2019
+                                      - Analisi integrative -
+Direzione Chief Risk Officer
+
+Approccio Excess
+Sintesi delle analisi aggiuntive di filtro dei conti
+<U+F071> Il presente documento riporta le analisi aggiuntive che integrano l’approccio proposto nella seduta del Comitato Gestione Rischi del
+  28/06/2019, al fine di irrobustire la stima di excess. Sono stati aggiunti 3 filtri con una riduzione della quota operational sulla data del
+  31/05/2019 pari a circa 840 €/mln (differenza tra 8.475 €/mln e 7.634 €/mln):
+    1.   Filtro su conti inattivi: Si escludono i conti che presentano meno di 12 movimenti nell’arco temporale di riferimento (1 anno)
+         oppure quelli che hanno un periodo prolungato (superiore a 100 rilevazioni) con saldo nullo. Impatto di circa 563 €/mln di excess
+    2.   Filtro su energia relativa: si impone che il segnale della frequenza corrispondente al picco di intensità sia superiore al 5%
+         dell’intensità complessiva del periodogramma. Impatto di circa 21 €/mln di excess.
+    3.   Filtro    su   ampiezza      ciclo:   Nei   casi di
+                                                             Data di riferimento: 31/05/2019                                      Dati espressi in milioni di euro
+         applicazione del filtro HP e in presenza di un
+         trend rilevante, la selezione del minimo nel trade
+         cycle può evidenziare una contribuzione del
+         trend alla stima dell’operational. Si pone un cap
+         sull’ampiezza complessiva del ciclo nel caso di
+         applicazione     del  filtro  di  HP.   Impatto  di
+         applicazione del filtro pari a circa 256 €/mln di
+         excess aggiuntivo.                                  (*) Cluster costituito dai conti del cliente CSEA che non evidenziano ciclicità infra-annuali
+                                                                                                                                                                   2
+
+Approccio Excess
+Sintesi degli impatti sugli indicatori
+<U+F071> L’applicazione dell’approccio, proposto in sede di Comitato Gestione Rischi con l’integrazione dei filtri illustrati nella slide precedente,
+  conduce ad una quota operational pari al 39% del totale della raccolta wholesale.
+<U+F071> In termini di LCR si evidenzia una riduzione di circa 44 punti percentuali sul dato ufficiale al 31 maggio 2019, passando da 273% a
+  229%.
+<U+F071> L’adozione del modello su dicembre 2018 (dato stimato) porta ad un LCR di 196% con un deflusso potenziale aggiuntivo di 1,6 bn/€
+  anziché i 3,3 €/bn richiesti in ambito LiST 2019, con un ammontare complessivo di outflows LCR da raccolta wholesale pari 7 €/bn (40%
+  sul totale invece del 50% circa).
+                                                                                                                                               3
+
+Approccio Excess
+Sintesi degli impatti sugli indicatori
+<U+F071> Il grafico riporta la serie storica ufficiale del LCR e
+  l’andamento del relativo dato pro-formato con
+  l’applicazione del modello di excess (riapplicando
+  sulle date passate la percentuale di quota
+  operational di maggio).
+<U+F071> Si precisa che la resubmission all’ECB delle
+  segnalazioni regolamentari al 31/12/2018 ed al
+  31/03/2019 sarà effettuata, invece, sulla base del
+  ricalcolo completo sulle date di riferimento.
+<U+F071> Il posizionamento di rischio di breve termine
+  rimarrebbe      pertanto     ampiamente       adeguato
+  anche post applicazione del nuovo Modello di
+  Excess proposto, dal momento che il valore
+  dell’indicatore LCR rimarrebbe comunque molto
+  superiore alle soglie regolamentari/interne RAS.
+<U+F071> Gli impatti in termini di NSFR puntuali sulla data del 31/06/2019 sono di circa 1 punto percentuale, passando da 111,9% a 110,9%.
+                                                                                                                                    4
+
+5

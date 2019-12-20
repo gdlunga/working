@@ -1,0 +1,257 @@
+Model Change AIRB
+Evidenze Analisi di Convalida
+                    Direzione Chief Risk Officer
+           Servizio Validazione Sistemi di Rischio
+                                  29 Aprile, 2019
+
+Executive summary
+La Funzione di Convalida ha predisposto specifiche analisi sui diversi ambiti oggetto di material model change inerenti i modelli AIRB, le cui evidenze sono confluite in specifiche Verifiche di
+Convalida relative a:
+       o ricalibrazione modelli di PD andamentali e pool
+       o ricalibrazione modelli di PD di erogazione Retail
+       o ristima modelli di LGD.
+Tali verifiche, in caso di autorizzazione da parte del Comitato Gestione Rischi, costituiranno parte integrante della documentazione relativa alla pre-application per l’Istanza di autorizzazione da
+inviare all’Autorità di Vigilanza.
+L’esito delle analisi svolte non ha evidenziato criticità di rilievo; a livello complessivo le stime calcolate sulla base dei nuovi parametri di PD e LGD predisposti dalla Struttura di sviluppo risultano
+sostanzialmente allineate con la rischiosità storicamente osservata.
+Dall’esito delle analisi di design svolte e delle metodologie challenging utilizzate sono comunque emersi alcuni punti di attenzione, evidenziati nelle slide seguenti, che verranno attentamente
+monitorati al fine di indirizzare prontamente eventuali interventi da parte della Struttura di sviluppo.
+Tutto ciò premesso, la scrivente Funzione esprime pertanto nulla osta alla predisposizione della Istanza di autorizzazione all’Autorità di Vigilanza al fine di utilizzare i nuovi parametri nei
+processi del Gruppo.
+Rileva inoltre che, a seguito degli interventi posti in essere da parte della Struttura di sviluppo, possono ritenersi mitigati i seguenti finding emersi nelle recenti ispezioni BCE sui modelli AIRB:
+       o finding #8 (obligation #5) ispezione IMI-2015-ITMPS-40 (trattamento delle moratorie)
+       o finding #12 (obligation #9) ispezione IMI-2015-ITMPS-40 (allocazione spese indirette nel calcolo della LGD sofferenza)
+       o finding #13 (obligation #10) ispezione IMI-2015-ITMPS-40 (metodologia di downturn LGD)
+       o finding #14 (obligation #11) ispezione IMI-2015-ITMPS-40 e finding #18 ispezione TRIM-2017-ITMPS-2939 (incomplete workout)
+       o finding #21 (obligation #14) ispezione IMI-2015-ITMPS-40 e finding #19 ispezione TRIM-2017-ITMPS-2939 (assenza di un modello di stima per la ELBE)
+       o finding #1 ispezione TRIM-2017-ITMPS-2939 (debolezze metodologiche nella stima della LGD)
+       o finding #7 ispezione TRIM-2017-ITMPS-2939 (definizione di default utilizzata per i modelli di erogazione Retail)
+       o finding #9 ispezione TRIM-2017-ITMPS-2939 (likely range of variability dei tassi di default osservati)
+       o finding #15 ispezione TRIM-2017-ITMPS-2939 (trattamento default multipli)
+       o finding #17 ispezione TRIM-2017-ITMPS-2939 (applicazione e documentazione esclusione di dati errati)
+Nell’ambito delle proprie analisi, inoltre, la Funzione di Convalida, oltre a ripercorrere con esito positivo la metodologia definita dalla Struttura di sviluppo funzionali alla determinazione dei nuovi
+parametri di ricalibrazione dei modelli di PD e delle nuove griglie di LGD, ha effettuato alcune valutazioni in ottica challenging delle scelte effettuate da quest’ultima, in linea con quanto richiesto
+nell’ambito del finding #19 dell’ispezione IMI-2015-ITMPS-40 (rafforzamento analisi di convalida tramite test addizionali basati su approcci alternativi per sfidare le scelte di sviluppo), la cui
+mitigazione è prevista entro il 30 Giugno 2019.
+                                                                                                                                                                                                          2
+
+Ricalibrazione modelli di PD andamentali e pool – analisi di design
+La Funzione di Convalida ha valutato positivamente le novità introdotte rispetto alla calibrazione precedente:
+       o l’aggiornamento delle serie storiche al 31 Dicembre 2017 e l’inclusione delle evidenze prospettiche dei primi 8 mesi della coorte 2018, opportunamente annualizzate, è coerente
+            con quanto previsto dall’art. 179.1(c) della CRR;
+       o l’estensione dell’orizzonte temporale considerato a 10 anni, oltre le evidenze prospettiche del 2018, assicura l’inclusione nella serie storica utilizzata di un adeguato range di
+            variabilità dei tassi di default osservati (finding #9 TRIM), assicurando al tempo stesso un adeguato mix di anni di espansione e recessione del PIL italiano;
+       o l’estensione della definizione di default ai past due tecnici risulta coerente con la definizione di default riportata nell’art.178 della CRR e il trattamento dei default multipli in un
+            orizzonte temporale di 12 mesi (finding #15 TRIM) risulta sostanzialmente in linea con quanto previsto nelle linee guida EBA in materia;
+       o l’eliminazione dei due pool Retail associati a controparti affidate e sconfinate da oltre 60 giorni assicura omogeneità di trattamento rispetto al portafoglio Aziende e determina la
+            valutazione di tutte le controparti affidate, escluse le sole che non presentano utilizzi da oltre 24 mesi, esclusivamente tramite i modelli andamentali;
+       o l’introduzione di un ulteriore parametro di calibrazione (<U+03B3>) per includere nei parametri stimati la maggiore rischiosità osservata sulle controparti in forborne comporta
+            l’eliminazione del trattamento delle moratorie precedentemente in essere che determinava l’esclusione dai database di calibrazione delle controparti per cui il periodo di
+            osservazione era ritenuto non sufficiente per la classificazione in bonis/default (finding #8 IMI);
+       o l’introduzione di una specifica metodologia di stima dell’errore generale di stima (MOC di tipo C), differenziata tra low default portfolio e altri modelli, risulta in linea con quanto
+            previsto nelle Guidelines EBA.
+Complessivamente la ricalibrazione proposta comporta, su buona parte dei modelli andamentali, un incremento degli AP, con effetti particolarmente rilevanti sui modelli Retail
+(Cointestazioni +57% e Singole Persone Fisiche +68%) e sul Large Corporate (+20%). Fanno eccezione i due modelli PMI e il modello Pluriennale per cui gli AP si riducono rispetto al
+2016, per valori compresi tra il -10,5% sul PMI e il -3,5% del Pluriennale.
+In generale l’inclusione dei past due tecnici nella definizione di default genera, come prevedibile, un incremento degli anchor point in parte mitigato dal trattamento dei default multipli e,
+ad eccezione dei modelli Retail, anche dall’allungamento della serie storica.
+Su tutti i modelli, infine, l’introduzione del MOC C comporta un incremento implicito degli anchor point compreso entro pochi bps sui diversi modelli oggetto di ricalibrazione.
+Relativamente alle controparti valutate con logiche di pool, la ricalibrazione ha comportato il peggioramento della quasi totalità dei rating assegnati ai 14 pool residui (7 per il Retail e 7
+per le Aziende) determinando l’assegnazione del rating E3, corrispondente al valore massimo di PD (45%), per tutti gli 8 pool relativi a sconfinamenti di oltre 30 giorni.
+La Funzione di Convalida ha replicato i diversi step metodologici seguiti dalla Struttura di sviluppo per la determinazione degli AP e dei parametri di calibrazione, senza rilevare
+disallineamenti rispetto a quanto comunicato dalla Struttura di sviluppo.
+                                                                                                                                                                                                 3
+
+Ricalibrazione modelli di PD andamentali e pool – analisi challenging
+La Funzione di Convalida, in linea con quanto richiesto nell’ambito del finding #19 IMI ha predisposto alcune specifiche analisi, basate su approcci alternativi rispetto a quelli scelti dalla
+Struttura di Sviluppo, relativamente ai seguenti aspetti:
+Durata delle serie storiche
+      o utilizzo, oltre alle evidenze prospettiche del 2018, di serie storiche ottenute effettuando un semplice allungamento di quelle utilizzate nel 2016, aggiungendo le due coorti
+           annuali complete più recenti (2009-2018 per le Aziende e 2011-2018 per il Retail, invece che 2008-2018 utilizzata dalla Struttura di sviluppo);
+      o impatti generalmente contenuti in termini di AP che determinano, sulla coorte 2018, una variazione del rating per meno del 5% delle controparti con conseguente variazione
+           delle PD medie per modello comprese entro i 6 bps.
+Trattamento delle posizioni in forborne
+      o determinazione di soglie minime di PD, differenziate per modello, da applicare alle controparti in forborne, basate sulla rischiosità media osservata su tali controparti negli anni
+           dal 2016 al 2018;
+      o individuazione di soglie di PD molto elevate, pari a E1 su gran parte dei modelli, che determinano impatti contenuti a livello di portafoglio complessivo (97% di rating coincidenti
+           e PD medie per modello in crescita entro 20 bps sulla coorte 2018) a fronte di un sostanziale peggioramento della PD media assegnata alle controparti in forborne (dal 16% al
+           21%).
+Definizione del MOC di tipo C
+      o definizione del MOC di tipo C tramite l’approccio k-sigma, applicato a tutti i modelli, basato sulla deviazione standard degli anchor point determinati su ciascun modello;
+      o impatti complessivamente in linea con quelli determinati dall’approccio seguito dalla Struttura di sviluppo, con il 98% di rating invariati sulla coorte 2018 e con variazioni delle
+           PD medie comprese in valore assoluto entro pochi bps, ad eccezione dei modelli Large Corporate e Corporate per cui la Struttura di sviluppo ha utilizzato una metodologia
+           diversa e per i quali la metodologia challenging evidenzia un add-on maggiormente conservativo (PD in aumento rispettivamente di 18 e 16 bps).
+                                                                                                                                                                                              4
+
+Ricalibrazione modelli di PD andamentali e pool – analisi di backtesting
+La Funzione di Convalida ha simulato l’applicazione dei nuovi parametri di calibrazione sul portafoglio di backtesting Dicembre 2017 – Dicembre 2018, confrontando le evidenze ottenute
+con quelle relative ai modelli attualmente in produzione.
+Le analisi sono state svolte utilizzando definizioni di default coerenti rispetto a quelle con cui le diverse versioni dei modelli sono state ricalibrate (past due tecnici considerati bonis per i
+modelli 2016 e considerati default per i modelli 2019).
+                                      Calibrazione 2016                       Calibrazione 2019
+           Modelli                                                                                          Le evidenze mostrano:
+                           AP          PD           TD    PD/TD     AP          PD          TD   PD/TD
+ Large Corporate            1,48%      0,93%        1,59%  58,5%    1,78%     1,29%       1,92%  67,2%      o un soddisfacente livello di accuratezza delle stime, con la tenuta del rapporto
+ Corporate                  2,81%      1,60%        1,12% 142,1%    3,02%     2,01%       1,12% 179,3%           PD/TD che migliora rispetto a quanto ottenuto con i modelli attualmente in
+ PMI                        4,63%      1,97%        1,67% 117,6%    4,14%     2,32%       1,98% 117,2%
+                                                                                                                 produzione, mantenendosi generalmente sopra il 100%
+ Small PMI                  5,59%      2,46%        2,77%  88,6%    5,19%     2,99%       3,21%  93,1%      o uniche eccezioni sui modelli Small PMI (93% entro le soglie di tolleranza) e
+ Pluriennale                9,77%      5,44%        5,68%  95,8%    9,43%     7,01%       6,70% 104,7%
+                                                                                                                 Large Corporate (67%), quest’ultimo per effetto di 6 controparti andate a default
+                                                                                                                 su un totale di 313
+ Small Business             6,71%      3,93%        4,13%  95,2%    6,90%     5,28%       5,22% 101,0%
+ Società di Persone         5,58%      3,14%        2,92% 107,7%    5,99%     4,60%       4,21% 109,2%
+                                                                                                            o difficoltà dei modelli nel fornire stime monotone, prudenti ed accurate a livello di
+ Ditte Individuali          6,14%      3,20%        3,24%  98,6%    6,56%     4,85%       4,73% 102,4%
+                                                                                                                 singola classe di rating, a conferma della necessità di ristimare i modelli e di
+                                                                                                                 valutare la modifica della struttura della Master Scale di Gruppo (istanza 2020
+ Cointestazioni             1,59%      1,35%        0,93% 145,2%    2,49%     2,13%       1,66% 128,3%
+                                                                                                                 per recepimento “new DoD”).
+ Singole Persone Fisiche    1,87%      1,52%        1,32% 115,3%    3,16%     2,70%       2,44% 110,4%
+Specifici approfondimenti sono stati svolti con riferimento alle controparti Forborne Under Probation per cui nella Relazione di Convalida 2018 erano stati evidenziati dei rapporti PD/TD
+molto bassi (intorno al 50%):
+o i parametri ricalibrati (<U+03B3> e MOC di tipo B) determinano su due modelli un rapporto PD/TD inferiore all’80% (PMI 78% e Ditte Individuali 73%);
+o l’eventuale inclusione nell’ambito del MOC di tipo C anche dello standard error sul parametro <U+03B3> comporterebbe il superamento della soglia delll’80% sul modello PMI (84%)
+o l’utilizzo della metodologia challenging sviluppata con riferimento alla valutazione delle controparti in forborne determinerebbe rapporti PD/TD su tali controparti sopra l’80% e per
+    alcuni modelli superiori all’unità ma determinerebbe, a livello di portafoglio complessivo valutato con ciascun modello, delle stime eccessivamente conservative (PD/TD mediamente al
+    116%).
+La Funzione di Convalida non ritiene pertanto necessari interventi immediati in modifica dei parametri determinati dalla Struttura di sviluppo ma monitorerà con attenzione nel corso dei
+prossimi mesi il funzionamento in produzione dei modelli ricalibrati, con particolare riferimento al modello Large Corporate e, trasversalmente, alle controparti Forborne Under Probation.
+                                                                                                                                                                                                 5
+
+Ricalibrazione modelli di PD di erogazione Retail – analisi di design e challenging
+Per i modelli in esame la Funzione di Convalida, oltre a quanto in comune con i modelli andamentali, ha valutato positivamente i seguenti aspetti:
+       o la serie storica utilizzata (Giugno 2013 – Settembre 2017), seppure di ampiezza inferiore rispetto a quella di 10 anni (oltre le evidenze prospettiche del 2018), prevista per i
+          modelli andamentali e pool, rappresenta la profondità massima disponibile e garantisce la presenza almeno di un periodo recessivo (anni 2013 e 2014) ed una adeguata
+          variabilità dei tassi di default osservati (finding #9 TRIM);
+       o i modelli sono stati ricalibrati utilizzando una definizione di default comprensiva di sofferenze, incagli, ristrutturati e past due a 90 giorni, analoga a quella in uso per la
+          calibrazione dei modelli andamentali e pool (finding #7 TRIM), seppure gli score sottostanti continuino ad includere i soli past due atecnici a 180 giorni;
+       o la modifica nel perimetro di applicazione di tali modelli proposta dalla Struttura di sviluppo (applicazione alle sole prime erogazioni e non anche a quelle successive) non
+          determina un deterioramento nell’accuratezza delle stime prodotte sia sulle prime che sulle erogazioni successive determinando in entrambi i casi stime accurate e
+          conservative.
+La Funzione di Convalida ha replicato il processo di creazione della popolazione di calibrazione dei due modelli di erogazione Retail senza riscontrare incoerenze sostanziali rispetto a
+quanto comunicato dalla Struttura di sviluppo.
+                                  AP                AP             Proxy
+         Modello
+                            in produzione     ricalibrazione   AP con MOC C       o   I nuovi AP risultano sensibilmente più elevati rispetto a quelli attualmente in produzione, risentendo
+ Cointestazioni                 0,60%             1,74%            1,80%              principalmente della più ampia definizione di default utilizzata;
+ Singole Persone Fisiche        1,16%             3,69%            3,76%          o   L’impatto del MOC C risulta sostanzialmente contenuto entro pochi bps.
+Anche su questa tipologia di modelli la Funzione di Convalida, in linea con quanto richiesto nell’ambito del finding #19 IMI, ha predisposto alcune specifiche analisi challenging,
+relativamente ai seguenti aspetti:
+Perimetro di applicazione dei modelli
+       o calcolo degli AP ipotizzando di continuare ad utilizzare i modelli di Erogazione Retail anche per le erogazioni successive;
+       o incremento non trascurabile degli AP (COI 2,87% e SPF 4,93% pre MOC) con effetti opposti sui due modelli: per le Cointestazioni si avrebbe un miglioramento della PD media
+          sulle prime erogazioni e un peggioramento della stessa sulle erogazioni successive. Viceversa si avrebbe sulle Singole Persone Fisiche.
+Definizione del MOC di tipo C
+       o definizione del MOC di tipo C tramite l’approccio k-sigma basato sulla deviazione standard degli anchor point determinati su ciascun modello;
+       o impatti contenuti in termini di AP e la determinazione, sulla coorte 2018, di una PD media analoga: ottenuta andando a peggiorare leggermente i rating migliori e migliorando
+          invece alcuni di quelli peggiori.
+                                                                                                                                                                                             6
+
+Ricalibrazione modelli di PD di erogazione Retail – analisi di backtesting
+La Funzione di Convalida ha simulato l’applicazione dei nuovi parametri di calibrazione sui rating sottostanti le pratiche di erogazione Retail deliberate tra Gennaio e Dicembre 2017.
+Le analisi di backtesting sono state effettuate sia considerando le sole prime erogazioni che includendo anche le erogazioni successive. Su entrambe le tipologie di controparte, i rating di
+erogazione in produzione sono stati confrontati sia con i rating di erogazione ricalibrati sulla base dei parametri stimati dalla Struttura di sviluppo (Modello ALRO) che con quelli ricalibrati
+sulla base dell’ipotesi challenging elaborata dalla scrivente Funzione.
+Le analisi sono state svolte utilizzando definizioni di default coerenti rispetto a quelle con cui le diverse versioni dei modelli sono state ricalibrate (past due tecnici considerati bonis per i
+modelli in produzione e considerati default per i modelli ricalibrati).
+Le evidenze mostrano:
+      o sia l’impostazione proposta dalla Struttura di sviluppo che quella basata sulla metodologia challenging determinano un sensibile miglioramento dei rapporti PD/TD che su
+           entrambi i modelli si avvicinano sostanzialmente all’unità, sia sulle prime erogazioni che sulle successive;
+      o la metodologia challenging determina maggiore accuratezza sulle prime erogazioni Cointestazioni, per cui il rapporto PD/TD si attesta al 99% a fronte del 133% ottenuto con il
+           modello ALRO;
+      o di contro sulla medesima tipologia di controparti ma relativamente alle erogazioni successive risulta più accurato il modello ALRO che determina un rapporto PD/TD del 116% a
+           fronte del 133% determinato con la metodologia challenging;
+      o per quanto riguarda invece le Singole Persone Fisiche, entrambe le metodologie sovrastimano il rischio sulle prime erogazioni mentre su quelle successive le evidenze sono
+           sostanzialmente in linea con i tassi di default osservati, con il rapporto PD/TD che risulta leggermente sopra l’unità con il modello ALRO e leggermente sotto con quello
+           challenging.
+                                                                                          Cointestazioni                                        Singole Persone Fisiche
+                           Perimetro                Modello
+                                                                            PD                  TD               PD/TD                 PD                  TD                PD/TD
+                                             Produzione                   0,97%               0,54%              178,2%              1,14%               1,37%               83,8%
+                   Prime erogazioni          ALRO                         2,06%               1,55%              132,8%              3,61%               2,77%              130,5%
+                                             Challenging                  1,53%               1,55%               98,8%              4,14%               2,77%              149,7%
+                                             Produzione                   4,62%               2,72%              169,8%              1,86%               3,87%               48,0%
+                   Erogazioni successive     ALRO                         6,19%               5,31%              116,5%              7,18%               6,80%              105,6%
+                                             Challenging                  7,06%               5,31%              132,8%              6,48%               6,80%               95,3%
+                                             Produzione                   2,72%               1,59%              171,3%              1,61%               3,02%               53,4%
+                   Totale                    ALRO                         4,03%               3,35%              120,5%              5,97%               5,43%              109,9%
+                                             Challenging                  4,17%               3,35%              124,5%              5,69%               5,43%              104,7%
+                                                                                                                                                                                                 7
+
+Ristima modelli di LGD – analisi di design su LGD (1/3)
+La Funzione di Convalida ha analizzato il design dei nuovi parametri di LGD senza rilevare particolari criticità:
+o la replica dei diversi passaggi seguiti dalla Struttura di sviluppo al fine di determinare le griglie di LGD per la sofferenza e per gli altri stati ha avuto esito sostanzialmente
+o le novità metodologiche introdotte sono risultate coerenti con le recenti evoluzioni normative e in linea con quanto richiesto nell’ambito dei Finding in essere rilevati dall’Autorità di
+   Vigilanza.
+Di seguito per i diversi ambiti analizzati si riepilogano le principali evidenze:
+LGD Sofferenza
+o l’aggiornamento delle serie storiche al 30 Settembre 2018 è coerente con quanto previsto dall’art. 179.1(c) della CRR;
+o l’inclusione nei campioni di stima di tutte le pratiche passate in sofferenza tra Ottobre 2002 e Settembre 2018, indipendentemente dalla loro data di chiusura, l’individuazione del time
+   to workout di 9 anni per considerare una pratica sostanzialmente chiusa e l’inclusione della stima dei recuperi futuri sulle pratiche aperte da meno di 9 anni (incomplete workout)
+   consente di massimizzare il numero di osservazioni utilizzate per la stima e risponde a quanto richiesto dai finding #14 IMI e #18 TRIM;
+o la rimozione dei filtri delle controparti con EAD minore di 30 € e di quelle con Servizio «Non classificato» è coerente con quanto richiesto dal finding #17 TRIM;
+o l’esclusione di tutte le pratiche oggetto di cessione massiva nel corso del 2018 (Valentine, Merlino e Morgana) è in linea con il Waiver ricevuto dalla BCE il 2 Agosto 2018 e consente di
+   ottenere stime non distorte dall’effetto dei prezzi cessione;
+o la definizione di un campione unico per la LGD sofferenza per Banche generaliste e MPS Capital Services consente di ottenere stime più robuste per quest’ultima ed è coerente con le
+   modalità comuni di gestione del processo di recupero;
+o la nuova modalità di allocazione delle spese indirette alle pratiche in sofferenza con saldo pari a zero è prudenziale e risponde a quanto richiesto dal finding #12 IMI;
+o l’introduzione del nuovo driver Vintage consente di differenziare la LGD sofferenza per la durata del processo di recupero mentre le nuove clusterizzazioni introdotte sui driver
+   Dimensione, Servizio, e VTL per le garanzie ipotecarie garantiscono maggiore differenziazione nelle stime prodotte;
+o l’evoluzione della metodologia di calcolo della LGD downturn, che prevede, tramite un processo di stima particolarmente complesso, la definizione di specifici moltiplicatori da applicare
+   ai valori delle griglie sofferenza di lungo periodo al fine di includere nelle stime gli effetti di un contesto economico recessivo, risponde a quanto richiesto dal finding #13 IMI;
+o i nuovi parametri di LGD Sofferenza risultano particolarmente più elevati rispetto a quelli attualmente in produzione su MPS Capital Services, risentendo della creazione di un
+   campione unico con le Banche generaliste, mentre su queste ultime determina variazioni di segno opposto: in incremento per i mutui Corporate garantiti da ipoteca con VTL minore del
+   200% e in riduzione per i mutui Corporate e Retail assistiti da ipoteca e VTL elevato;
+o i valori dell’LGD Sofferenza, distinta per vintage, risultano inoltre generalmente crescenti all’aumentare della vintage, a conferma del fatto che man mano che aumenta il tempo
+   trascorso nello stato di sofferenza si riducono i recuperi marginali residui.
+                                                                                                                                                                                           8
+
+Ristima modelli di LGD – analisi di design su LGD (2/3)
+LGD Stati diversi dalla sofferenza
+o le modifiche nella popolazione di calibrazione della PD, utilizzata come base per il calcolo dei danger rate, in termini di lunghezza della serie storica, ampliamento della definizione di
+  default e introduzione del trattamento dei default multipli, sono in linea con i requisiti normativi e risultano coerenti con quanto richiesto nell’ambito dei finding #9 e #15 TRIM;
+o le diverse innovazioni introdotte in fase di calcolo dei fattori di conversione necessari per il calcolo delle LGD di stato, in termini di:
+         <U+27A2> introduzione di un terzo stato assorbente (finding #1 TRIM), in aggiunta al bonis e alla sofferenza, rappresentato dalle posizioni chiuse in uno stato di default diverso dalla
+           sofferenza (Past Due o UTP);
+         <U+27A2> gestione degli stralci effettuati sui diversi stati come componenti a sé stanti nel calcolo della LGD di stato e non più tramite un add-on;
+         <U+27A2> utilizzo della LGD sofferenza inclusiva delle spese indirette (finding #1 TRIM) in luogo di quella al netto di tali spese utilizzata in precedenza;
+         <U+27A2> introduzione del driver Vintage anche sui danger rate e di una metodologia di downturn sugli stessi al fine di tener conto della loro correlazione con il ciclo economico recessivo
+  rendono il modello più completo ed in linea con quanto previsto nelle EBA Guidelines, a scapito della maggiore complessità del processo di sviluppo e della difficoltà
+  nell’interpretazione dei risultati ottenuti;
+o in alcuni casi i valori dei rapporti di conversione risultano superiori all’unità e di conseguenza sono presenti talune casistiche in cui la LGD degli UTP, e in minor frequenza anche
+  dei past due in caso di vintage elevata, risulta superiore a quella applicata a pratiche analoghe classificate però in sofferenza: le perdite a cui si potrà incorrere mantenendo per
+  lungo tempo una pratica tra gli UTP, risultano pertanto più elevate rispetto a quelle che si otterrebbero a seguito di un tempestivo passaggio a sofferenza della stessa;
+o in generale i tassi di LGD degli UTP risultano, come da attese, più elevati rispetto a quelli dei past due, mentre al crescere della vintage nel rispettivo stato si assiste ad un
+  andamento progressivamente decrescente delle LGD sugli UTP a fronte di una progressiva crescita sui past due.
+LGD del bonis
+o l’utilizzo dei soli passaggi diretti tra uno stato e la sofferenza o il bonis, tralasciando quindi le controparti che da bonis passano prima in past due e poi in UTP prima di andare a
+  sofferenza, consente di evitare un double counting di tali posizioni e assicura coerenza con le modalità di calcolo dei pesi dei diversi stati di default utilizzati per il calcolo dei rapporti di
+  conversione del bonis;
+o l’individuazione di cure rate specifici per controparti con almeno un mutuo garantisce maggiore accuratezza alle stime;
+o l’introduzione di un MOC di tipo A ai fini della determinazione degli effetti downturn sui rapporti di conversione garantisce prudenza alle stime anche laddove i dati storici disponibili non
+  evidenziano un peggioramento dei cure rate in particolare sui past due;
+o i nuovi parametri della LGD del bonis evidenziano una diminuzione generalizzata rispetto al 2015, al netto di poche eccezioni, particolarmente marcata per MPS Capital Services. Per
+  le Banche generaliste le diminuzioni più significative si osservano in presenza di garanzie ipotecarie sia sul Corporate che sul Retail;
+                                                                                                                                                                                                    9
+
+Ristima modelli di LGD – analisi di design su LGD (3/3)
+MOC di tipo C
+o l’introduzione nelle stime dei parametri di LGD un margine di conservatività per tenere conto dell’errore generale di stima (MOC di tipo C), con riferimento sia alla componente LGD
+  sofferenza che alla componente Danger rate, è risultata coerente con quanto previsto dalle Guidelines EBA;
+o la Funzione di Convalida ha sviluppato una metodologia challenging per la determinazione del MOC di tipo C, basata sull’applicazione ai valori delle singole griglie sofferenza e,
+  tramite i rapporti di conversione, a quelli delle griglie degli altri stati, di un fattore calcolato sulla base dell’approccio k-sigma, in cui il k è posto fisso a 0,8 e il sigma corrisponde alla
+  deviazione standard delle LGD medie ottenute tramite 10.000 simulazioni bootstrap;
+o gli impatti sulle griglie di LGD, sono risultati in linea rispetto a quanto ottenuto con la metodologia scelta dalla Struttura di sviluppo e contenuti, generalmente, entro pochi bps.
+ELBE
+o la definizione di una metodologia interna per la stima della Expected Loss Best Estimate (ELBE) da utilizzare nel calcolo degli RWA dei defaulted assets risponde a quanto richiesto
+  nell’ambito dei Finding #21 IMI e #19 TRIM;
+o l’approccio scelto prevede di utilizzare ai fini ELBE le LGD medie di lungo periodo, al netto sia dell’effetto downturn che del MOC di tipo C, entrambi considerati, invece, per la LGD
+  regolamentare;
+o i valori di ELBE e LGD regolamentare risultano generalmente molto vicini tra loro relativamente a sofferenze e past due (differenze contenute entro il 2%) a fronte di variazioni più
+  elevate, in alcuni casi oltre il 10%, per gli UTP, su cui rileva, principalmente, l’impatto della metodologia downturn sui rapporti di conversione che negli anni di picco recessivi sono
+  risultati sensibilmente più elevati rispetto a quelli di lungo periodo;
+o per effetto di tale evidenza risulta particolarmente rilevante il peso degli UTP nella determinazione degli RWA sui defaulted assets.
+                                                                                                                                                                                                  10
+
+

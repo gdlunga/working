@@ -1,0 +1,363 @@
+                             Proposta di revisione annuale dei limiti
+                                            operativi:
+                                   Liquidity Risk Limits 2018
+Direzione Chief Risk Officer
+
+        Intraday Liquidity Risk Limits
+Proposta di revisione dei limiti operativi di liquidità intraday
+                                                                 2
+
+                      Intraday Liquidity Risk Limits
+                      Proposta di revisione dei limiti sul Saldo RTGS
+                       <U+F071> Il «Regolamento interno in materia di politica di gestione della liquidità intra-day» definisce e dettaglia le attività di predisposizione di un piano prospettico per la gestione della
+                         liquidità intraday nel periodo di riserva obbligatoria.
+                       <U+F071> La Policy di gestione della liquidità intraday prevede la detenzione di buffer addizionali rispetto ai livelli minimi obbligatori del Saldo RTGS in funzione dell’avvicinarsi di condizioni
+                         di stress/crisi di liquidità.
+                                                                               Buffer aggiuntivo 1 di x €/mln in funzione del saldo di liquidità ad 1M
+                                                                               Buffer aggiuntivo 2 di y €/mln per n indicatori rossi di early warnings
+                                                                               Buffer aggiuntivo 3 di z €/mln discrezionale, a cura di AFTCM
+                     Buffer aggiuntivo 1:
+                       <U+F0FC> Se il saldo di liquidità ad 1M è compreso tra il limite operativo (risk limit) ed il livello di risk tolerance, il
+                          “buffer aggiuntivo 1” sarà pari a 500 €/mln.
+                       <U+F0FC> Se il saldo di liquidità ad 1M è compreso tra il livello di risk tolerance ed il livello di risk capacity, il “buffer
+                          aggiuntivo 1” sarà pari a 1 €/mld.
+                       <U+F0FC> Se il saldo di liquidità ad 1M è inferiore al livello di risk capacity, il “buffer aggiuntivo 1” sarà pari a 2 €/mld.
+                     Buffer aggiuntivo 2:
+                       <U+F0FC> Variazione Early Warning generici (6 indicatori):
+                              - da 3 a 4 indicatori rossi: buffer addizionale di € 100 milioni;
+                              - più di 4 indicatori rossi: buffer addizionale di € 200 milioni.
+                       <U+F0FC> Variazione Early Warning specifici (11 indicatori):
+                              - da 3 a 4 indicatori rossi: buffer addizionale di € 150 milioni;
+                              - più di 4 indicatori rossi: buffer addizionale di € 300 milioni.
+Proposta di limite
+                     <U+F071> In linea con quanto stabilito nel Liquidity Risk Limits 2017, il Liquidity Risk Limits 2018 propone che il Risk Limit determinato giornalmente sul Saldo RTGS sia costituito dal
+                       saldo minimo per la giornata Target più i Buffer Aggiuntivi 1 e 2.
+                                                                                                                                                                                                                       3
+
+                     Intraday Liquidity Risk Limits
+                     Proposta di revisione dei limiti sulla Liquidità Potenziale Giornaliera
+                      <U+F071> La Liquidità Potenziale Giornaliera esprime la riserva di attivi
+                        finanziari e/o fonti di raccolta di «emergenza» a disposizione del
+                        Tesoriere in caso di estrema difficoltà a regolare i pagamenti della
+                        giornata di tesoreria. La liquidità potenziale giornaliera può essere
+                        utilizzata, finanziando opportunamente gli attivi ad un costo
+                        presumibilmente superiore rispetto alle condizioni fisiologiche di
+                        mercato, quando si verifica una serie di mancati incassi o di
+                        pagamenti imprevisti che pregiudicano il normale regolamento di flussi
+                        nell’ambito del sistema.
+                      <U+F071> Il precedente Liquidity Risk Limits 2017 proponeva una soglia limite di
+                        2,5 €/mld, pari al ripristino della somma dei livelli massimi
+                        teoricamente raggiungibili dai buffer addizionali 1 e 2 applicabili al
+                        limite del Saldo RTGS. Tale soglia risultava inoltre adeguata rispetto
+                        all’analisi storica dell’intraday liquidity usage (cumulato da inizio
+                        giornata degli incassi e dei pagamenti) sottoposto a stress.
+Proposta di limite
+                      <U+F071> Il presente Liquidity Risk Limits 2018 conferma, anche sulla scorta
+                        dell’aggiornamento dell’analisi storica dell’intraday liquidity usage
+                        sottoposto a stress, il Risk Limit di 2,5 €/mld.
+                                                                                                  4
+
+          Short-term Liquidity Risk Limits
+Proposta di revisione dei limiti operativi di liquidità di breve termine
+                                                                         5
+
+                     Short-term Liquidity Risk Limits
+                     Proposta di revisione dei limiti sul profilo di liquidità
+                     <U+F071> In coerenza con il precedente Liquidity Risk Limits 2017, il Liquidity Risk Limits 2018 propone limiti sul profilo di liquidità operativa in termini di:
+                             <U+F0FC> rapporto percentuale tra il saldo di liquidità operativa ad 1 mese e il totale dell’attivo di Gruppo;
+                             <U+F0FC> livello assoluto del saldo di liquidità operativa ad 1 mese (nodo puntuale);
+                             <U+F0FC> livello assoluto del profilo di liquidità operativa fino al bucket a 3 mesi.
+                     <U+F071> In riferimento al livello assoluto del profilo di liquidità operativa fino al bucket a 3 mesi, l’attivazione dei processi di escalation e remediation previsti dalla normativa interna
+                       vigente avverrà quando la somma degli sconfinamenti per i diversi bucket temporali oggetto di limite supererà la soglia di 500 €/mln.
+                     <U+F071> Come sistema di riferimento operativo/gestionale, verranno determinati livelli di attenzione coerenti con i Risk Limits anche per il profilo di liquidità operativa sui bucket
+                       oltre i 3 mesi, ma eventuali superamenti di tali livelli non concorreranno all’attivazione dei processi di escalation e remediation.
+                     <U+F071> Il Liquidity Risk Limits 2018 propone di adottare per il profilo di liquidità operativa:
+                             <U+F0FC> il Risk Limit, con un ammontare di riserva ad un mese pari a 12,5 €/mld, considerando il totale combinato di tutti gli scenari di stress, sia specifici che generici, ed una
+                               variabilità del profilo di liquidità pari a circa 2 €/mld, per un Risk Limit finale pari al 9,5%.
+                     <U+F071> Di seguito si riporta il sistema di limiti sul profilo di liquidità operativa proposto per il 2018 (in blu i limiti che portano all’effettiva attivazione dei processi di
+                       escalation/remediation):
+Proposta di limite
+                                                                                                                                                                                                                6
+
+                        Short-term Liquidity Risk Limits
+                        Proposta di revisione dei limiti sul Time-to-survival stressato
+Proposta di limite
+                        <U+F071> Il Liquidity Risk Limits 2018 propone di adottare per il Time-to-survival stressato:
+                                <U+F0FC> il Risk Limit, con un numero di giorni di sopravvivenza corrispondenti a riserve di liquidità ad un mese di 12,5 €/mld, ovvero corrispondenti alle riserve di liquidità
+                                  individuate come adeguate per il rispetto del Risk Limit sul profilo di liquidità operativa. Secondo tale approccio, si propone un Risk Limit per il time-to-survival stressato
+                                  pari a 90 giorni di calendario.
+                        <U+F071> Per la suddetta calibrazione, il tts ed il profilo di liquidità operativa esprimono la stessa misura a parità di composizione della raccolta e del liquidity buffer. Le due metriche
+                          differiranno nel momento in cui cambierà il mix di raccolta e/o la tipologia di asset del buffer di liquidità.
+                        Proposta di revisione dei limiti sul Liquidity Coverage Ratio
+ Proposta di limite
+                        <U+F071> Il Liquidity Risk Limits 2018 propone di adottare per il LCR di Gruppo:
+                                <U+F0FC> il Risk Limit, con un livello pari al 145%, ottenuto considerando, rispetto alla soglia di Risk Tolerance stabilita in
+                                  sede di RAS 2018, un 20% aggiuntivo derivante dalla stima della volatilità storica dell’indicatore, in condizioni di
+                                  normale corso degli affari.
+                        Proposta di limite sulle riserve di contingency
+                        <U+F071> Il Contingency Funding Plan è lo strumento operativo per la gestione del rischio di liquidità finalizzato a definire le strategie di
+                          intervento in ipotesi di tensione estrema di liquidità, prevedendo procedure e azioni prontamente attivabili per il reperimento di
+                          fonti di finanziamento in caso di emergenza. All’interno del Contingency Funding Plan vengono declinate informazioni
+                          riguardanti stime di «back-up liquidity» che, in presenza di scenari avversi, siano in grado di determinare con sufficiente
+                          attendibilità l’ammontare massimo detenibile dalle diverse fonti di finanziamento.
+                        <U+F071> Relativamente alle stime di «back-up liquidity», le azioni maggiormente rilevanti da un punto di vista di reintegro della counterbalancing, nonché realizzabili in tempi molto
+                          rapidi (1/2 settimane), sono rappresentate da stanziamento di crediti in ABACO ed emissione di covered bond retained.
+                        <U+F071> Entrambe le azioni sono implementabili attingendo ad un pool di attivi commerciali non ancora cartolarizzati le cui caratteristiche rispettano criteri quali-quantitativi in termini di
+                          tipologia di attivo, tipologia di debitore, percentuali di copertura e qualità creditizia.
+   Proposta di limite
+                        <U+F071> In considerazione dell’importanza del mantenimento di una continua e pronta disponibilità di riserve da utilizzare in caso di crisi di liquidità, e vista la sostanziale fungibilità tra
+                          le due diverse azioni di reintegro della counterbalancing sopra evidenziate, si propone di adottare un Risk Limit per le riserve di contingency (riserve ABACO + riserve per
+                          emissione Covered Bond) pari all’ammontare di volta in volta definito all’interno del vigente Contingency Funding Plan.
+                        <U+F071> Il Liquidity Risk Limits 2018 propone pertanto una soglia di Risk Limit per le riserve di contingency pari a 4 €/mld.
+                                                                                                                                                                                                                     7
+
+        Medium/long-term Liquidity Risk Limits
+Proposta di revisione dei limiti operativi di liquidità di medio/lungo termine
+                                                                               8
+
+                       Medium/long-term Liquidity Risk Limits
+                       Proposta di revisione dei limiti sul Net Stable Funding Ratio
+ Proposta di limite
+                      <U+F071> Il Liquidity Risk Limits 2018 propone di adottare per il NSFR di Gruppo:
+                             <U+F0FC> il Risk Limit, con un livello pari al 110%, ottenuto considerando, rispetto alla soglia di Risk Tolerance
+                               stabilita in sede di RAS 2018, un 3% aggiuntivo derivante dalla stima della volatilità storica dell’indicatore.
+                      <U+F071> In considerazione del fatto che le principali manovre di riequilibrio strutturali previste dal Piano non
+                        avverranno prima del secondo trimestre del 2018, si propone un phase-in del Risk Limit per il NSFR di
+                                                                                                                                                                                                                 Proposta di phase-in
+                        Gruppo, arrivando ai livelli definitivi proposti nel presente Liquidity Risk Limits 2018 soltanto a partire dal
+                        terzo trimestre del 2018.
+                      <U+F071> Si propone quindi di adottare un phase-in condizionato alla realizzazione degli eventi del piano identificando 2 periodi (ante-operazione NPL, post-operazione NPL); le
+                        soglie di Risk Limit proposte sono rispettivamente pari a 105% e 110% (coerenti con la soglia di Risk Capacity pari a 100% e con le soglie di Risk Tolerance pari a
+                        102% e 107%).
+                      Proposta di revisione dei limiti sul Gap Ratio Profile
+Proposta di limite
+                      <U+F071> Il Liquidity Risk Limits 2018 propone di adottare per il Gap Ratio Profile:
+                             <U+F0FC> il Risk Limit, ottenuto considerando, rispetto alle soglie di Risk Tolerance stabilite in sede di RAS 2018, un 4% aggiuntivo derivante dalla stima della volatilità storica
+                               dell’indicatore. I livelli ottenuti per i diversi Gap Ratio sono i seguenti:
+                                                Gap Ratio 1Y = 104% - Gap Ratio 2Y = 99% - Gap Ratio 3Y = 94% - Gap Ratio 4Y = 89% - Gap Ratio 5Y = 84%
+                                                                                                                                                                                                                 Proposta di phase-in
+                      <U+F071> In considerazione del fatto che le principali manovre di riequilibrio strutturali previste dal Piano non avverranno prima del secondo trimestre del 2018, si propone un phase-in del
+                        Risk Limit per i Gap Ratio a 3 e 4 anni, arrivando ai livelli definitivi proposti nel presente Liquidity Risk Limits 2018 soltanto a partire dal terzo trimestre del 2018.
+                      <U+F071> Si propone quindi di adottare un phase-in condizionato alla realizzazione degli eventi del piano identificando 2 periodi (ante-operazione NPL, post-operazione NPL); le soglie di Risk
+                        Limit proposte sono rispettivamente pari a 86% e 94% per il Gap Ratio 3Y e pari a 85% e 89% per il Gap Ratio 4Y
+                                                                                                                                                                                                                                        9
+
+                      Medium/long-term Liquidity Risk Limits
+                      Proposta di revisione dei limiti sul Gap Ratio Commerciale
+                     <U+F071> Una banca in equilibrio commerciale dispone di una raccolta commerciale in grado di finanziare la maggior parte dell’attivo commerciale. In tal modo la banca avrebbe bisogno di
+                       accedere in modo ridotto al canale di raccolta istituzionale o impegnare attivi finanziari o commerciali in qualità di fonti alternative di funding.
+                     <U+F071> Nel momento in cui la banca presenti uno sbilancio commerciale in cui parte dell’attivo commerciale non sia finanziato dal passivo commerciale è auspicabile che lo sbilancio
+                       commerciale non ecceda la liquidità generabile impegnando gli attivi in operazioni di encumbrance (cartolarizzazioni/covered bond).
+                     <U+F071> Il precedente sistema dei limiti in vigore per il 2017, secondo quanto definito dal phase-in per il periodo post aumento di capitale, stabiliva una soglia di Risk Limit per il Gap Ratio
+                       Commerciale pari al 63%. La soglia definitiva successiva al phase-in era invece pari al 78%.
+                     <U+F071> Effettuando una stima del rapporto tra il valore degli attivi commerciali utilizzabili per operazioni di funding e l’effettiva liquidità generata, si ottiene una valore pari al 75%.
+Proposta di limite
+                     <U+F071> In continuità con l’approccio delineato nel precedente Liquidity Risk Limits
+                       2017, si propone di determinare la soglia di Risk Limit del Gap Ratio
+                       Commerciale sulla base alla liquidità generabile dagli attivi commerciali,
+                       ottenendo un valore soglia pari a 75%.
+                                                                                                                                                                                                                   10
+
+                     Medium/long-term Liquidity Risk Limits
+                     Proposta di revisione dei limiti su Asset Encumbrance Netto
+                     <U+F071> Il Gruppo monitora il grado di impegno dei propri attivi (asset encumbrance) attraverso l’indicatore gestionale Asset Encumbrance Netto, così definito:
+                                                                                                             <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D452><U+0001D451>                      rappresenta la percentuale di asset encumbered sul
+                                                                           Asset Encumbrance Netto =
+                                                                                                            <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D44E><U+0001D44F><U+0001D459><U+0001D452>                     totale degli asset encumberable
+                     <U+F071> Il precedente Liquidity Risk Limits 2017 proponeva un Risk Limit per l’Asset Encumbrance Netto pari al 59%.
+                     <U+F071> In continuità con l’approccio delineato nel precedente Liquidity Risk Limits 2017, la definizione della soglia di Risk Limit è stata impostata in funzione della counterbalancing minima
+                       da ripristinare in condizioni di stress, poiché si assume che l’encumbrance addizionale possa essere impiegata per ritornare ad adeguati livelli di dotazione di liquidità.
+                     <U+F071> Poiché gli attivi da considerare per il ripristino della counterbalancing sono quelli Unpledged Encumberable, fissando un livello di counterbalancing minima pari a 14,5 €/mld (soglia di
+                       Risk Limit per la CBC) è stato determinato un livello di Risk Limit per l’Asset Encumbrance Ratio usando la seguente equazione:
+                                                                                                         <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D452><U+0001D451>                   <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D452><U+0001D451>
+                                                                                         %AE Netto= <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D44E><U+0001D44F><U+0001D459><U+0001D452> = (<U+0001D439><U+0001D456><U+0001D45B><U+0001D44E><U+0001D45B><U+0001D450><U+0001D456><U+0001D44E><U+0001D459> <U+0001D434><U+0001D460><U+0001D460><U+0001D452><U+0001D461>+<U+0001D443><U+0001D459><U+0001D452><U+0001D451><U+0001D454><U+0001D452><U+0001D451>+<U+0001D47C><U+0001D48F><U+0001D491><U+0001D48D><U+0001D486><U+0001D485><U+0001D488><U+0001D486><U+0001D485>)
+                     <U+F071> La precedente equazione, calcolata mensilmente in funzione della counterbalancing effettiva alla data di riferimento e del livello di counterbalancing minima da detenere, ha
+                       permesso di ottenere una serie di valori per il Risk Limit dell’Asset Encumbrance Netto il cui livello minimo (in ottica prudenziale) è pari a circa il 57%.
+Proposta di limite
+                     <U+F071> Sulla base di quanto sopra, il Liquidity Risk Limits 2018 propone pertanto per l’indicatore di Asset Encumbrance Netto una soglia di Risk Limit pari al 57%.
+                                                                                                                                                                                                                   11
+
+Liquidity Risk Limits per le controllate e le filiali estere
+ Proposta di revisione dei limiti operativi per le controllate e le filiali estere
+                                                                                   12
+
+                      Liquidity Risk Limits
+                      Proposta di revisione dei limiti sulle Legal Entities Italiane
+                      <U+F071> Il modello di governo e gestione del rischio di liquidità del Gruppo Montepaschi è di tipo accentrato e prevede quindi il trasferimento del rischio dalle singole legal entity (MPS Capital
+                        Services Banca per le Imprese, Monte dei Paschi di Siena Leasing & Factoring, Widiba Wise Dialog Bank) alla Tesoreria accentrata.
+                      <U+F071> Il Liquidity Risk Limits 2018 propone di adottare per il Gap Ratios Profile delle Legal Entities Italiane:
+Proposta di limite
+                              <U+F0FC> il Risk Limit, ottenuto considerando, rispetto alle soglie di Risk Tolerance stabilite in sede di RAS 2018, un livello basato sull’analisi storica della volatilità degli indicatori
+                                strutturali, ovvero 103% per MPS Capital Services Banca per le Imprese e per Monte dei Paschi di Siena Leasing & Factoring, e 130% per Widiba Wise Dialog Bank.
+                      <U+F071> Su MPS Capital Services Banca per le Imprese il precedente Liquidity Risk Limits 2017 prevedeva due ulteriori limiti, confermati dall’attuale Liquidity Risk Limits 2018, ovvero:
+                              <U+F0FC> Una soglia di Risk Limit sul finanziamento di brevissimo termine (fido sui conti correnti reciproci) pari a 500 €/mln.
+                              <U+F0FC> Una soglia di Risk Limit sul finanziamento fino ad un anno (ammontare dei depositi entro 1 anno) pari a 4 €/mld.
+                      Proposta di revisione dei limiti sulle Legal Entities Estere
+Proposta di limite
+                      <U+F071> Il Liquidity Risk Limits 2018, in coerenza con il cascading down dei KRI, propone di adottare per gli indicatori di liquidità delle Legal Entities Estere livelli di Risk Limit uguali a quelli
+                        stabiliti per il Gruppo.
+                      <U+F071> Per il LCR si propone pertanto una soglia di Risk Limit pari a 145% mentre per il NSFR si propone una soglia di Risk Limit pari a 110%.
+                      Proposta di revisione dei limiti sulle Filiali Estere
+                      <U+F071> Le filiali estere sono monitorate dal punto di vista della liquidità di breve termine mediante l’indicatore LCR calcolato secondo le specifiche definite dal Basel Committee on Banking
+                        Supervision (BCBS) e sono soggette a limiti interni definiti dal Risk Manager locale in condivisione con la Capogruppo.
+                      <U+F071> Per ragioni legate alle richieste della FED sulla detenzione di un adeguato buffer di liquidità, il precedente Liquidity Risk Limits 2017 prevedeva per l’indicatore LCR della sola filiale
+ Proposta di limite
+                        di New York un limite operativo del 130%.
+                      <U+F071> Il Liquidity Risk Limits 2018 conferma l’impianto precedente attribuendo pertanto un Risk Limit del 130% al LCR della Filiale di New York. Sulle altre filiali non vengono imposti
+                        limiti formali per il rischio di liquidità da parte della Capogruppo ma solo limiti interni definiti dal Risk Manager locale.
+                                                                                                                                                                                                                          13
+
+             Allegato A
+Schema complessivo dei limiti, phase-in
+   e attribuzione delle responsabilità
+                                        14
+
+Liquidity Risk Limits
+Phase-in dei limiti per il 2018
+<U+F071> La seguente tabella riassume i limiti dove con il giallo vengono evidenziate le soglie modificate in seguito al phase-in
+                                                                                                                           15
+
+                  Allegato B
+Liquidity Risk Tolerance e Liquidity Risk Capacity
+                                                   16
+
+  Short-term Liquidity
+  Stress Test di Breve Termine
+<U+F071> Nella tabella a fianco è rappresentata la
+  proposta per il 2018 relativamente
+  all’impianto di stress test di breve
+  termine.
+<U+F071> L’insieme degli scenari di stress non
+  risulta variato rispetto all’impianto in
+  vigore per il 2017.
+<U+F071> Sono stati tuttavia aggiornate le
+  metodologie di calcolo di alcuni scenari,
+  nonché le serie storiche sottostanti le
+  analisi per la determinazione dei
+  parametri di stress.
+                                            17
+
+  Short-term Liquidity
+  Stress Test di Breve Termine
+<U+F071> Nella tabella a fianco sono rappresentati i delta tra
+  l’impianto di stress test di breve termine proposto
+  per il 2018 e quello attualmente in vigore calcolato
+  sui dati al 31/12/2017.
+<U+F071> Lo scenario di «Sight deposit run-off» varia in
+  seguito       alla     modifica     intercorsa     sulla
+  rappresentazione delle poste a vista.
+<U+F071> Lo scenario di «Riacquisto di obbligazioni retail» e
+  quello di «Prestito titoli» variano in seguito
+  all’aggiornamento delle serie storiche utilizzate per
+  il calcolo dei parametri di stress.
+<U+F071> Lo scenario di «Committed Credit Lines» varia per
+  un adeguamento di rappresentazione agli altri
+  scenari nei bucket tra 1 mese e 1 anno.
+<U+F071> Lo scenario di «Svalutazione dei Titoli Retained»
+  varia per un adeguamento della metodologia
+  facente seguito il GAP aperto dalla Funzione di
+  Convalida.
+<U+F071> Lo scenario di «Downgrade dei titoli retained» varia
+  per un adeguamento della probabilità di
+  accadimento che adesso risulta legata al rating dei
+  titoli.
+<U+F071> In totale, applicando il nuovo impianto di stress test
+  al profilo di liquidità del 31/12/2017 si otterrebbe un
+  aumento del TTS di +17 giorni.
+                                                           18
+
+Short-term Liquidity
+Profilo di liquidità
+<U+F071> Per il rapporto del saldo a 1 mese del profilo di liquidità operativa con il totale dell’attivo di Gruppo, la revisione delle soglie di sorveglianza, con particolare riferimento al livello di
+   Risk Tolerance, è stata finalizzata tramite l’analisi degli scenari di stress. Lo stress test di liquidità di breve termine è riassunto nella tabella seguente:
+<U+F071> In considerazione degli scenari di stress sopra riportati, all’interno del RAS 2018 si è adottato:
+       <U+F0FC> la soglia di Risk Capacity, con un ammontare di riserva ad un mese pari a 8 €/mld, corrispondente ai Net Cash Outflows stimati attraverso l’indicatore regolamentare
+           LCR, con l’obiettivo di detenere riserve di liquidità tali da consentire un livello di LCR superiore al minimo regolamentare del 100%. Tale valore è stato rapportato al totale
+           dell’attivo di Gruppo, per una soglia di Risk Capacity finale pari al 6%;
+       <U+F0FC> la soglia di Risk Tolerance, con un ammontare di riserva ad un mese pari a 11 €/mld, considerando il totale combinato di tutti gli scenari di stress, sia specifici che
+           generici. Tale valore è stato rapportato al totale dell’attivo di Gruppo, per una soglia di Risk Tolerance finale pari al 8,5%.
+<U+F071> Eventuali superamenti puntuali di tali livelli porteranno all’attivazione dei processi di escalation e remediation previsti dalla normativa interna vigente.
+                                                                                                                                                                                                  19
+
+Short-term Liquidity
+Time-to-survival stressato
+<U+F071> La Circ. 285 - “Disposizioni di vigilanza per le banche” - nel Titolo IV, Capitolo 6, Sezione II, par.3 – Soglia di tolleranza al rischio di liquidità - Nota (2) – richiede quanto segue:
+  …”Ferma restando la responsabilità degli organi aziendali nella determinazione della soglia di tolleranza al rischio di liquidità, l’orizzonte di sopravvivenza adottato non può
+  essere inferiore a 30 giorni. Cfr. al riguardo le Guidelines on Liquidity Buffers & Survival Periods.”).
+<U+F071> Per garantire nel continuo il rispetto di tale vincolo normativo, a partire dal 2014 è stato adottato un sistema di limiti espliciti sul time-to-survival stressato in modo da
+  predisporre e monitorare soglie di attenzione progressive che potessero evidenziare tempestivamente eventuali tensioni di liquidità.
+<U+F071> Lo scenario di stress di riferimento per la determinazione del time-to-survival stressato, in continuità con il precedente Liquidity Risk Limits 2017, continua ad essere quello di
+  natura specifica per il Gruppo, con un impatto ad 1 mese stimato in circa 9 €/mld. Tale scelta implica che, per rispettare il vincolo normativo di un orizzonte di sopravvivenza
+  non inferiore a 30 giorni, il Gruppo debba detenere riserve di liquidità sufficienti ad affrontare almeno lo stress di carattere specifico.
+<U+F071> Il precedente sistema dei limiti prevedeva un livello di Risk Tolerance pari a 60 giorni di calendario e un livello di Risk Limit pari a 90 giorni di calendario. Non è stato previsto
+  un livello di Risk Capacity in quanto il time-to-survival stressato non rientra nel perimetro dei KRI di Gruppo.
+<U+F071> In continuità con quanto fatto nel RAS 2017, il RAS 2018 ha calibrato la soglia di Risk Tolerance imponendo un time-to-survival stressato corrispondente a riserve di liquidità
+  ad un mese di 11 €/mld, ovvero almeno sufficienti ad affrontare il totale combinato degli stress test specifici e generici. Secondo tale approccio, la soglia di Risk Tolerance è
+  stata posta pari a 75 giorni di calendario.
+<U+F071> Il calcolo del time-to-survival stressato, oltre che per finalità di monitoraggio del rischio di liquidità di breve termine, assume rilievo anche per il calcolo di uno specifico
+    indicatore di Early Warning, i cui segnali vengono utilizzati all’interno dei processi di Recovery Plan e di Contingency Funding Plan.
+                                                                                                                                                                                             20
+
+Short-term Liquidity
+Liquidity Coverage Ratio
+<U+F071> L’indicatore regolamentare Liquidity Coverage Ratio (LCR) rappresenta la metrica regolamentare rilevante per il monitoraggio della liquidità di breve termine del Gruppo e fa
+  parte dei Key Risk Indicators di Gruppo inclusi nel Risk Appetite Statement 2018.
+<U+F071> Il precedente sistema dei limiti in vigore per il 2017 proponeva una soglia di Risk Capacity pari al 100%, una soglia di Risk Tolerance pari al 130% e una soglia di Risk Limit
+  pari al 145%.
+<U+F071> Il RAS 2018 ha stabilito:
+        <U+F0FC> come soglia di Risk Capacity, un livello pari al 100%, ovvero conforme al limite regolamentare fully phased-in;
+        <U+F0FC> come soglia di Risk Tolerance, un livello pari al 125%, ottenuto considerando, rispetto alla soglia di Risk Capacity, la detenzione di un buffer di liquidità aggiuntivo pari
+           al totale dello stress test generico, ovvero circa 2 €/mld.
+                                                                                                                                                                                        21
+
+Medium/long-term Liquidity
+Net Stable Funding Ratio
+<U+F071> L’indicatore regolamentare Net Stable Funding Ratio (NSFR) rappresenta la metrica rilevante per il monitoraggio dell’equilibrio di liquidità di medio/lungo termine del Gruppo e fa
+    parte dei Key Risk Indicators di Gruppo inclusi nel Risk Appetite Statement 2018. In attesa dell’entrata in vigore di una definizione normativa a livello europeo, il NSFR, monitorato
+    mensilmente e segnalato trimestralmente all’Autorità di Vigilanza nello Short Term Exercise, viene calcolato sulla base dei criteri e delle metodologie stabilite dal Comitato di
+    Basilea.
+<U+F071> Il precedente sistema dei limiti in vigore per il 2017, secondo quanto definito dal phase-in per il periodo post aumento di capitale, stabiliva una soglia di Risk Capacity pari al 90%,
+  una soglia di Risk Tolerance pari al 95% e una soglia di Risk Limit pari al 97%. Le soglie definitive successive al phase-in erano invece una Risk Capacity pari al 100%, una soglia di
+  Risk Tolerance pari al 105% e una soglia di Risk Limit pari al 107%.
+<U+F071> Il RAS 2018 ha stabilito:
+        <U+F0FC> come soglia di Risk Capacity, un livello pari al 100%, ovvero conforme al limite regolamentare che sarà adottato dall’Autorità di Vigilanza quando entreranno in vigore le
+           regole di calcolo del nuovo NSFR segnaletico stabilite dalla CRR2/CRD5;
+        <U+F0FC> come soglia di Risk Tolerance, un livello pari al 107%, ottenuto considerando, rispetto alla soglia di Risk Capacity, un ammontare aggiuntivo di riserve di funding stabile
+           sufficienti a coprire l’eventuale mancato raggiungimento delle ipotesi di funding unsecured commerciale stabilite dal Piano Industriale 2018-20 (circa +6 €/mld, considerando
+           il massimo su base annua di raccolta commerciale ed emissioni unsecured).
+                                                                                                                                                                                           22
+
+Medium/long-term Liquidity
+Gap Ratio Profile
+<U+F071> Ai fini della calibrazione delle soglie di Risk Tolerance degli indicatori strutturali gestionali del Gruppo, ovvero del Gap Ratio Profile, nel cascading down dei KRI è stato utilizzato un
+  approccio basato sull’utilizzo della disequazione di equilibrio strutturale già definita nella Liquidity Risk Tolerance 2016 e nel Liquidity Risk Limits 2017, ovvero:
+                        Unsecured Equivalent + Equity + Secured Liquidity > Sbilancio Commerciale + Counterbalancing Minima + Attivi non finanziabili
+<U+F071> Utilizzando la disequazione esposta, di fatto si sta imponendo che la somma delle fonti di raccolta unsecured, del patrimonio netto e della massima liquidità generabile dagli attivi
+  commerciali debba almeno finanziare la somma dello sbilancio commerciale, della counterbalancing libera e delle altre componenti residuali. Pertanto la disequazione, ponendo
+  come incognita il piano di raccolta unsecured, consente di determinare il fabbisogno minimo di funding unsecured.
+<U+F071> Sostituendo nella disequazione strutturale i valori in miliardi di euro al 31/12/2017, e considerando come valore di counterbalancing minima il livello di Risk Tolerance per la CBC,
+  ovvero 13,5 €/mld, si ottiene:
+                Unsecured Equivalent + Equity + Secured Liquidity > Sbilancio                                     1 + 10 + 24 > 18 + 13,5 + 5 ovvero 35 mld < 36,5 mld
+               Commerciale + Counterbalancing Minima + Attivi non finanziabili                                              Additional Unsecured = -1,5 €/mld
+<U+F071> Una volta stabilito l’ammontare di raccolta unsecured aggiuntiva, è stato necessario da un lato definire una struttura a scadenza teorica dell’unsecured, dall’altro ipotizzare un piano
+  teorico di scadenza per la raccolta secured il cui ammontare al 31/12/2017 è pari a circa 24 €/mld. A partire dalla maturity ladder strutturale di Dicembre 2017, si è proceduto dunque
+  a sostituire i piani di Unsecured e Secured Equivalent correnti con il piano teorico.
+<U+F071> Operando come descritto, nel cascading down dei KRI è stato determinato un livello di Risk Tolerance pari a 90% per il Gap Ratio 3Y.
+                                                                                                                                                                                               23
+
+Medium/long-term Liquidity
+Asset Encumbrance Netto
+<U+F071> Il Gruppo monitora il grado di impegno dei propri attivi (asset encumbrance) attraverso l’indicatore gestionale Asset Encumbrance Netto, così definito:
+                                                                                          <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D452><U+0001D451>                    rappresenta la percentuale di asset encumbered sul
+                                                         Asset Encumbrance Netto =       <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D44E><U+0001D44F><U+0001D459><U+0001D452>                   totale degli asset encumberable
+<U+F071> In continuità con l’approccio delineato nel precedente RAS 2017, nel RAS 2018 la definizione della soglia di Risk Tolerance è stata impostata in funzione della counterbalancing
+  minima da ripristinare in condizioni di stress, poiché si assume che l’encumbrance addizionale possa essere impiegata per ritornare ad adeguati livelli di dotazione di liquidità.
+<U+F071> Poiché gli attivi da considerare per il ripristino della counterbalancing sono quelli Unpledged Encumberable, fissando un livello di counterbalancing minima pari a 13 €/mld (soglia di
+  Risk Tolerance per la CBC) è stato determinato un livello di Risk Tolerance per l’Asset Encumbrance Ratio usando la seguente equazione:
+                                                                                      <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D452><U+0001D451>                 <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D452><U+0001D451>
+                                                                       %AE Netto= <U+0001D438><U+0001D45B><U+0001D450><U+0001D462><U+0001D45A><U+0001D44F><U+0001D452><U+0001D45F><U+0001D44E><U+0001D44F><U+0001D459><U+0001D452> = (<U+0001D439><U+0001D456><U+0001D45B><U+0001D44E><U+0001D45B><U+0001D450><U+0001D456><U+0001D44E><U+0001D459> <U+0001D434><U+0001D460><U+0001D460><U+0001D452><U+0001D461>+<U+0001D443><U+0001D459><U+0001D452><U+0001D451><U+0001D454><U+0001D452><U+0001D451>+<U+0001D47C><U+0001D48F><U+0001D491><U+0001D48D><U+0001D486><U+0001D485><U+0001D488><U+0001D486><U+0001D485>)
+<U+F071> La precedente equazione, calcolata mensilmente in funzione della counterbalancing effettiva alla data di riferimento e del livello di counterbalancing minima da detenere, ha
+  permesso di ottenere una serie di valori per la Risk Tolerance dell’Asset Encumbrance Netto il cui livello minimo (in ottica prudenziale) è pari a circa il 60%.
+                                                                                                                                                                                          24
+
+25

@@ -1,0 +1,209 @@
+                             Regulatory Incomings
+                              Summary as at 21-05-2018
+Direzione Chief Risk Officer
+
+Regulatory Incomings                                                                                                                       (1/7)
+        Topic                                           Description                                     Estimated Impact on GMPS         Expected entry from
+                                                                                                    For the standard portfolio of GMPS
+                                                                                                    no significant impacts are expected:
+                     The new framework provides some changes to the standardised approach for       - slight improvement for unrated
+                     calculating capital requirements for credit risk.                                exposures to SME Corporate
+                     The main innovations concern:                                                    whose weighting goes from
+      Credit Risk    1. more differentiation of risk weights for unrated exposures, exposures to      100% to 85% and for residential
+       Standard           covered bonds, specialised lending, Corporate and Retail, subordinated      real estate exposures whose              2022
+        (BIS)             debt and equity;                                                            weighting decreases compared
+                     2. more risk sensitivity based on LTV values;                                    to the current for LTV < 80%;
+                     3. CCF floored to 10% for unconditionally irrevocable commitments, which       - slight worsening due to the
+                          currently have CCF equal to 0%.                                             increase of CCF floor from 0 to
+                                                                                                      100% for unconditionally
+                                                                                                      irrevocable commitments
+                     Basel III introduces more constraints on the use of the IRB approach; here are For the IRB portfolio of GMPS some
+                     the main innovations:                                                          positive impacts are expected:
+                     - in IRB context only F-IRB approach is prescribed for Corporate exposures     - lower requirement for using FIRB
+                        with consolidated revenues > 500 €/mln, for banks and other financial         and LGD 40% to Corporate
+                        institutions;                                                                 exposures with consolidated
+      Credit Risk    - for F-IRB approach the regulatory LGD goes from 45% to 40% for unsecured       revenues > 500 €/mln (abt -200
+     A-IRB, F-IRB       amounts and a 20% floor is introduced for secured amounts;                    €/mln RWA valued on sep-2017)            2022
+        (BIS)        - removing of the 1,06 scaling factor;
+                     - introduction of LGD minimum values on unsecured amounts, 25% for             - lower requirement for removing
+                        Corporate and 30% for Retail (50% for QRRE); modification of the LGD          the 1,06 scaling factor (abt -1500
+                        floors on secured amounts: from 10% / 15% to 5% for mortgages; for            €/mln RWA valued on sep-2017)
+                        Corporate and other Retail varying by collateral type (0% financial, 10%    - LGD floors do not involve
+                        receivebles and real estate, 15% other physical).                             significant impacts
+                                                                                                                                                             2
+
+Regulatory Incomings                                                                                                                                  (2/7)
+          Topic                                             Description                                       Estimated Impact on GMPS              Expected entry from
+                                                                                                          The estimated impacts valued
+                         The Targeted Review of Internal Models (TRIM) aims to confirm the adequacy       during last TRIM inspection:
+                         and appropriateness of approved Pillar I internal models authorised to calculate • discounting rate: about 1 €/bn of
+                         own funds requirements.                                                            RWA;
+                         The main adjustments of the internal methodologies compared to the               • inclusion of all IW: TBD, the
+                         indications of the TRIM guidelines, which the bank will have to introduce, are     potential impact will be greatly
+ TRIM Internal IRB model
+                         the following:                                                                     reduced according to the non
+     Credit Risk IRB                                                                                                                                    2019/2020
+                         • discounting rate in LGD estimate equal to Euribor +5%;                           performing loans disposals of
+          (ECB)
+                         • inclusion of all incomplete workout processes in LGDS estimate (Bad Loans        2018;
+                            component);                                                                   • MOC        category      C:       first
+                         • MOC under category C: regardless of the accuracy and performance of the          hypotheses proposed during the
+                            model, an add on should be introduced on the risk parameters due to the         TRIM inspection concerned only
+                            general estimation error.                                                       the PD model for an impact of
+                                                                                                            about 1 €/bn of RWA.
+                         The Fundamental Review of Trading Book (FRTB) changes the way through
+                         which banks calculate Market Risk capital requirements. The main innovations
+                         are:
+                         • A new stricter way to define Trading and Banking book;
+                         • A sensitivity-based standardised approach, that will be mandatorily             High impact is expected under the
+  Fundamental Review of
+                            calculated and disclosed by all banks. The standardised methodology will          hypothesis of static portfolio:
+      Trading Book                                                                                                                                        2022
+                            also serve as requirement floor for banks using internal model based
+           (BIS)                                                                                             +2 / 2,5 €/bn of RWA Add-on.
+                            approach;
+                         • The introduction of a Default Risk Charge, capturing the risk of default of
+                            credit and equity trading book exposures;
+                         • The introduction of a Residual Risk Add-on, applied to notional amounts of
+                            instruments with non-linear payoffs.
+                                                                                                                                                                        3
+
+Regulatory Incomings                                                                                                                              (3/7)
+           Topic                                             Description                                      Estimated Impact on GMPS          Expected entry from
+                           Basel III+ implement a new Standard Approach to reduce variability of RWA
+                           and to ensure a trasparent and comparabile risk-weighted capital calculation.
+                           The new Standardised Approach is introduced            to replace all existing
+                           approaches (BIA, SMA, AMA) for internationally active banks on a consolidated
+                           basis. Supervisors retain the discretion to apply the standardised approach
+                           framework to non-internationally active banks.
+ New standardised approach                                                                                 High impact is expected : +3 €/bn of
+    for Operational Risk                                                                                    RWA (about +30% of Operational            2022
+                           Operational RWA should be computed by banks multiplying the Business
+           (BIS)                                                                                                          RWA).
+                           Indicator Component (BIC), a financial-statement-based which takes into
+                           account even the bank “size” and the Internal Loss Multiplier (ILM) a scaling
+                           factor that is based on a bank’s average historical losses, as in the following
+                           formula:
+                                                 Operational RWA = BIC * ILM * 12,5
+                                                                                                                                                                    4
+
+Regulatory Incomings                                                                                                                                          (4/7)
+            Topic                                                  Description                                            Estimated Impact on GMPS        Expected entry from
+                               The final BCBS document highlights the following aspects:
+                               • Introduction of a «standardised framework»                                         No quantitative impact is expected.
+                               • Note concerning «Credit Spread Risk of Banking Book»                                      Major impacts concerns
+Standards – Interest rate risk • Definition of a new «Supervisory Outlier Test»                                       organisation of risk management              2021
+    in the banking book        • Definition of market disclosure                                                        processes, especially given the   (depending on entry
+            (BIS)                                                                                                     necessity to develop a parachute     into force of CRR2)
+                               The European Commission transfers BCBS indication in Artt. 84, 98, 104a of                  model (i.e. introduction of
+                               CRD5 and within Art. 448 of CRR2. Such dictates are implemented also in a                  «standardised framework»)
+                               consultation paper launched by EBA in October 2017.
+                                                                                                                         Major impacts concern GMPS
+                               In order to align European regulation to international standards (BCBS) and to       Banking Book (current RWA around
+   Collective Investment       promote underlying transparency, a new hierarchical system of approaches is               120 €/mln). Exposures might               2021
+   Undertakings – CIUs         introduced for treatment of exposures to CIUs.                                        increase by 12,5 times, applying a   (depending on entry
+           (CRR2)              • Approaches for Banking Book: look-through, mandate-based, fall-back;                 risk weight of 1250% with the fall-  into force of CRR2)
+                               • Approaches for Trading Book: look-through, sensitivities-based.                    back approach, rather than current
+                                                                                                                               100% (+1,4 €/bn).
+                               The amendment of CRR2 on treatment of large exposures concerns mainly the
+                               identification of the exposure to a single or a group of connected clients. In
+                               particular, the exposures is now compared with the amount of Tier1 capital of                                                       2021
+      Large Exposures          the institution (nowadays, it is compared with eligible capital, consisting of Tier1
+                                                                                                                            No impact is expected.        (depending on entry
+           (CRR2)              and Tier2 capital). Percentages relatively to identification (10%) and overall limit
+                               of a large exposure (25%) are kept unchanged. In addition, the perimeter of                                                 into force of CRR2)
+                               large exposures is widen also to exposures above 300 €/mln (even if they do
+                               not represent at least 10% of Tier1 capital).
+                                                                                                                                                                               5
+
+Regulatory Incomings                                                                                                                                     (5/7)
+            Topic                                                  Description                                      Estimated Impact on GMPS          Expected entry from
+                              Basel III+ Output Floor aims at reducing differences among banks and limiting
+                              RWA savings deriving from the application of internal models. Accordingly, total    No material impact is expected,
+                              RWA should be computed by banks taking into account the following constraint:       given the current RWA savings               2027
+   Basel III Output Floor                                                                                         deriving from the application of
+                              TOTAL RWA = MAX [TOTAL RWA(STA+IRB*);72,5% of TOTAL RWA (STA)]                    internal model for credit risk offset  (phase-in starting
+             (BIS)
+                                                                                                                 by additional RWA (compared to            from 2022)
+                              Regulation is considering a phase-in period aiming at limiting potential wide              floor) on other risks.
+                              impacts which such new regulation might have on banks.
+                              The new SREP Guidelines, which will enter into force by 1 January 2019 (with
+                              first effect on banks starting from 2020 SREP Decision), introduce two new
+                              measures, referring to minimum requirements and capital adequacy:
+                              • Pillar 2 Requirement – additional own funds amount covering
+                                  underestimated Pillar 1 risks, Pillar 2 risks and other aspects (e.g.
+                                                                                                                   Impact already considered in
+   New SREP Guidelines            governance failures);
+                                                                                                               elaboration for current Risk Appetite          2020
+            (EBA)             • Pillar 2 Guidance – capital buffer (consisting in CET1 capital) defined over
+                                                                                                                              Statement.
+                                  the Overall Capital Requirement (OCR), needed to afford distressed
+                                  condition and protect an institution from the breach of TSCR threshold under
+                                  adverse scenario. Capital covering P2G cannot be considered to respect
+                                  other capital requirements. It results that P2G amount has to be included
+                                  when determining capital adequacy thresholds for all capital ratios.
+                                                                                                                  Major impacts are expected in
+                                                                                                               terms of process implementation (in           2Q 2018
+                              In October 2017, EBA launched a consultation paper on practices which must
+    Draft Guidelines on                                                                                          particular referring to the need of
+                              be followed by institutions when developing their own internal stress test                                              (to be implemented
+ institution’s stress testing                                                                                    developing an on-going process
+                              framework.                                                                                                                on 2019 Internal
+                                                                                                                able to put together and capitalise
+            (EBA)             Guidelines provide a clear view of what is expected by regulation in terms of                                                Stress Test
+                                                                                                                   all existing internal stress test
+                              frequency, accuracy and completeness of stress test exercises.                                                              Framework)
+                                                                                                                    exercise, differenced by risk
+                                                                                                                               category).
+                                                                                                                                                                          6
+
+Regulatory Incomings                                                                                                                                 (6/7)
+           Topic                                              Description                                      Estimated Impact on GMPS           Expected entry from
+                                                                                                              Low organizational impact is
+                                                                                                          expected because many issues are
+                                                                                                                 already solved. Possible
+                                                                                                                improvements in terms of
+                                                                                                                   efficiency/opportunity.
+                         Final Guidelines were published on 26 September 2017. The previous GL were        Participation of the CRO to all the
+                         published on 27 September 2011.                                                    Group Management Committees
+                         The guidelines point out on the responsibilities of the Board of Directors with  with greater incisiveness in strategic
+                         reference to its risk oversight function, including the role of the board           decisions (eventually reinforced
+   Internal Governance
+                         committees. The GL aim at strengthening the status of the risk management                with the power of veto).            30/06/2018
+          (EBA)          function, to improve the flow of information between the risk management            Risk Management Function will
+                         function and the Board itself so as to ensure an effective monitoring of risk    have to develop the ability to assist
+                         governance and stimulate effective decision making. The GL insist on the need     the CRO in its "management" role
+                         for effective diffusion of the Risk Culture and the concept of Business Conduct.     as well as the risk controller.
+                                                                                                            Possibility to evaluate to weaken
+                                                                                                            the role of the Risk Management
+                                                                                                           Committee (possible cancellation)
+                                                                                                           with reinforcement of the Comitato
+                                                                                                          Direttivo and Board Risk Commitee.
+                         The European Parliament has proposed a study and the adoption of a new
+                         regulation (SCCR), aimed at reducing the home-bias problem, arising from the      High impact is expected under the
+                         high concentration of banks’ sovereign exposures to home-country.                hypothesis of static portfolio (rolling
+ Sovereign Concentration Synthetically, proposed regulation consists in assigning a Pillar 1 RWA Add-on        all existing Italian sovereign          2024/2029
+          Charge         to those institutions that hold high sovereign exposures to the same country                     positions).              (phase-in probably
+  (European Parliament)  (exceeding exemption threshold), with respect to their level of Tier1 capital.     Sovereign Concentration Charge        starting from 2019)
+                         Problem is therefore addressed from a concentration point of view.               (Italy) around +5 / 5,5 €/bn of RWA
+                         A 5/10-year phase-in period is considered in order not to excessively penalise                    Add-on.
+                         banks and give time to manage their sovereign portfolios.
+                                                                                                                                                                      7
+
+Regulatory Incomings                                                                                                                         (7/7)
+         Topic                                            Description                                     Estimated Impact on GMPS         Expected entry from
+                      Sovereign exposures are involved in regulatory innovation framework even
+                      from a credit risk perspective. IRB method will be replaced by Standard
+                      approach which consists in higher risk weight for such category of exposures;    Material impact is expected under
+                      no case of 0% risk weight is anymore allowed for the majority of sovereign        the hypothesis of static portfolio
+                      exposures (both in Trading and in Banking book). The possibility for a National (high exposure in Italian sovereign
+  Sovereign Exposures Competent Authority to apply lower/preferential risk weight for exposures to            government bonds).
+                                                                                                                                              Not defined
+         (BIS)        domestic central government is removed.                                          Around +1,2 €/bn (by considering
+                      In addition, a further marginal add-on on risk weight (addressing concentration both credit risk weight increase and
+                      risk) is introduced.                                                               concentration marginal add-on
+                      Pillar 3 disclosure becomes mandatory with reference to sovereign exposures                    effects).
+                      (in terms of nominal amounts and RWA), differenced by jurisdictions, currency
+                      and accounting classification.
+                                                                                                                                                               8
+

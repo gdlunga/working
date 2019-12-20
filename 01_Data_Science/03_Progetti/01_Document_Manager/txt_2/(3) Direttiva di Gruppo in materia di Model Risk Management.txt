@@ -1,0 +1,122 @@
+MODEL RISK MANAGEMENT (MRM)
+        Nuova Direttiva di Gruppo
+                  Direzione Chief Risk Officer
+              Servizio Validazione Sistemi di Rischio
+                                     31 Agosto 2018
+
+Contesto di riferimento
+La Direttiva definisce il modello organizzativo adottato dal Gruppo (principi, responsabilità e processi) per il Processo di Model Risk
+Management (MRM) che trova applicazione per i modelli interni AIRB-SRI, AMA e IRRBB.
+La Direttiva indirizza la soluzione della Deviation #2 individuata dalla BCE nell’ambito del Draft Annex relativo alla TRIM General Topics
+(model of risk management framework) nonchè della Deviation #1 dello stesso Annex (guidelines for producing documentation of internal
+risk model).
+Il “RISCHIO MODELLO” è definito come “…la perdita potenziale che un ente potrebbe subire a seguito di decisioni che potrebbero essere
+principalmente basate sui risultati di modelli interni, a causa di errori nello sviluppo, nell'attuazione o nell'utilizzo di tali modelli” ai fini della
+determinazione del capitale interno.
+Gli aspetti principali trattati nel documento sono:
+<U+F0FC> la definizione del framework di riferimento (cfr.2.3 – FRAMEWORK DI MODEL RISK MANAGEMENT) che ricomprende:
+     -) il modello di governance;
+     -) lo standard documentale dei modelli interni;
+     -) il ciclo di vita;
+     -) la gestione del model change;
+     -) i criteri per la valutazione e misurazione del Rischio Modello.
+<U+F0FC> la declinazione delle responsabilità e delle attività in capo alle Funzioni aziendali coinvolte nel Processo MRM (cfr.3 – ARTICOLAZIONE
+     DELLE RESPONSABILITÀ DI GRUPPO).
+                                                                                                                                                         2
+
+Focus su «Standard Documentale» dei modelli interni (1/2)
+I Modelli Interni devono essere adeguatamente descritti mediante la seguente documentazione:
+                                                                                                                                                                                         CRO
+                                   •  Filosofia del modello: finalità per cui il modello è necessario, approccio metodologico, perimetro di applicazione, ecc.
+  Protocollo di Sviluppo e         •  Ciclo di vita del modello: durata massima di utilizzo in produzione di un determinato modello;
+       Monitoraggio                •  Protocollo di sviluppo: regole da utilizzare per lo sviluppo modellistico, modalità di gestione degli “Outliers”, ecc.
+                                   •  Protocollo di monitoraggio: valutazioni di performance (KPI), analisi di backtesting e le relative soglie di accettabilità.
+                                                                                                                                                                                         CRO
+                                   • Anagrafica ed utilizzo del modello: informazioni ed ambiti di applicazione del modello;
+                                   • Processo di sviluppo: evidenza applicazione delle regole definite nel “Protocollo di Sviluppo e Monitoraggio”;
+                                   • Performance e valutazione del modello: valutazione delle performance dei modelli in sede di sviluppo, descrizione dei limiti e delle aree di
+      Scheda Modello                  debolezza del modello ed evidenze di possibili elementi di prudenzialità del modello;
+                                   • Implementazione del modello: specifiche tecniche per l’implementazione dei modelli e risultati dei test;
+                                   • Margini di Conservativismo (MOC): assunzioni che determinano la presenza di un margine di conservativismo quantificabile nelle stime nonché
+                                      i criteri in base ai quali viene quantificato il MOC.
+                                   • Il Registro riporta un set minimo di informazioni relativo all’ultima versione del modello nonché alle precedenti versioni rilevate con una
+    Registro del Modello              profondità di almeno tre anni.
+                                                                                                                                                                                         CRO
+                                   • Documenta l’esito dei monitoraggi periodici delle performance dei modelli interni in applicazione ed è strutturato per data rispetto alla data di
+   Monitoraggio Modelli               ultima ristima/ricalibrazione.
+                                   • L’Inventario ha la finalità di facilitare una comprensione olistica dei modelli in essere e di fornire agli Organi di Vertice un quadro d’insieme degli
+   Inventario dei Modelli             stessi nonché delle finalità, dello stato autorizzativo e della fase del ciclo di vita di ogni modello.
+  CRO     Oggetto di approvazione da parte del CRO
+                                                                                                                                                                                             3
+
+Focus su «Standard Documentale» dei modelli interni (2/2)
+Per la predisposizione della documentazione sui Modelli Interni è previsto il seguente Piano di Roll-Out:
+                                                                4Q     1Q            2Q                3Q     4Q
+                                                               2018   2019          2019              2019   2019
+                                              ALRO
+            Funzione di Sviluppo Interno
+                                                                                                                     Registro     Monitoragg
+                                           (AIRB-SRI)
+                                                                                                                    del Modello   io Modelli
+                                             AORO
+                                             (AMA)
+                                                                                                                    Protocollo    Scheda
+                                                                                                                                  Modello
+                                                                                                                    Svil&Monit
+                                             AFRO
+                                            (IRRBB)
+                                                                                                                    Inventario    Reporting
+                                             MRM
+                                                                                                                    dei Modelli    MRM
+                                               Direzione CRO
+                                                                                                                                               4
+
+Focus su «Model Change»
+La necessità di sviluppo di un nuovo modello interno o di aggiornamento di uno esistente possono emergere dalla stessa Funzione di
+Sviluppo o dal Model User. Le esigenze originano, altresì, dai rilievi da parte dell’Autorità di Vigilanza.
+L’iter autorizzativo da seguire per giungere all’approvazione di un Model Change è stabilito in base alla materialità del Model Change, in
+applicazione di quanto previsto dal Regolamento UE N.529/2014, ed al fatto che la modifica interessi un modello di Pillar 1 (AIRB-SRI ed
+AMA) o di Pillar 2 (Tasso).
+Il CRO approva la classificazione dei Model Change proposta dalla Funzione di Sviluppo Modelli, previo parere della Funzione di Convalida
+Interna.
+                                             Material                                              NON Material
+                                           Model Change                                            Model Change
+                                                                        CRO
+                AIRB-SRI
+                                                                                                Notifica ex-ante a BCE
+                                      ISTANZA di autorizzazione
+                                          preventiva a BCE                                                                 CGR
+                  AMA                                                                           Notifica ex-post a BCE
+                                                                        CRO                                                CGR
+                  IRRBB
+                                                                                             Rendicontazione ex-post al
+                                        Approvazione del CdA
+                                                                                                       CdA
+    CRO   Approvazione della classificazione da parte del CRO     CGR     Approvazione del Model Change da parte del CGR
+                                                                                                                                             5
+
+Focus su «Ciclo di Vita» dei modelli interni e «Valutazione e Misurazione» del Rischio Modello
+Il ciclo di vita dei modelli definito dal Gruppo MPS prevede le seguenti fasi:
+                                                                                                                           Driver MRM:
+                                                                                                                           •   carenze nel design e nella metodologia di un modello
+                                                                                                                               interno nonché errori nella fase di implementazione dello
+                                                                                                                               stesso;
+                                                                                                                           •   consistente riduzione della performance del modello
+                                                                                                                               interno;
+                                                                                                                           •   obsolescenza presunta del modello interno rispetto alla
+                                                                                                                               durata predefinita del ciclo di vita;
+                                                                                                                           •   bassa qualità dei dati utilizzati per la stima dei modelli
+                                                                                                                               interni;
+                                                                                                                           •   errata applicazione di un modello interno;
+                                                                                                                           •   rilievi sollevati dall’Autorità di Vigilanza a valere sui
+Il Rischio Modello è soggetto ad una valutazione e quantificazione da rivedere con frequenza annuale.                          modelli.
+                                                                                                                                                                               MRM
+                        Attribuzione di un giudizio complessivo (approccio expert-based) per ognuno dei 3 sistemi di misurazione dei rischi sulla base di:
+    Valutazione         • Valutazioni indipendenti della Funzione MRM sulla base dei driver MRM;
+                        • Numero e rilevanza delle aree di miglioramento rilevate dalle altre Funzioni di Controllo aziendali nonché dall’Autorità di Vigilanza
+                                                                                                                                                                               ICAAP
+                        Allocazione di un Buffer nell’ambito del processo ICAAP determinato sulla base della valutazione MRM considerando anche il numero e la
+ Quantificazione        rilevanza di eventuali Margini di Conservativismo (MOC) presenti all’interno dei modelli ed oggetto di assessment.
+                                                                                                                                                                                          6
+
+7

@@ -1,0 +1,1203 @@
+DATA:                   12/04/2019             DATA SCADENZA:        A REVOCA
+CODICE TESTO:           D 02023 003 NMIG       CODICE RISORSA        AAA007AMM
+                        Direttiva di gruppo in materia di
+OGGETTO:                gestione della valorizzazione degli
+                        strumenti finanziari
+MACROPROCESSO:          RISK MANAGEMENT
+PROCESSO:               GESTIONE DELLA VALORIZZAZIONE DEGLI STRUMENTI FINANZIARI
+MODELLI DI SERVIZIO:    NON APPLICABILE
+RUOLI:                  CAPOGRUPPO - RESPONSABILE DI STRUTTURA
+SERIE/SETTORE/SERVIZIO: 23 - NORMATIVA OPERATIVA
+                        2 - DIRETTIVA DI PROCESSO
+                        1 - DIRETTIVA DI PROCESSO (STRATEGICA - ANNUALE)
+TESTI ANNULLATI:
+PRESA VISIONE:          SENZA FORMALITÀ
+STRUTTURA EMANANTE:     2121 - AMM. DELEG.
+ASSISTENZA DI TIPO      .
+TECNICO/OPERATIVO:
+
+                  Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                              finanziari
+                  Codice: D 02023 003                   Pubblicato il: 12/04/2019                 Pag. 1 di 29
+                                                 INDICE
+1 - QUADRO DI SINTESI.................................................................................................. 2
+    1.1 -   PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI ...................................... 2
+    1.2 -   AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE .......... 3
+    1.3 -   DESTINATARI E MODALITA' DI RECEPIMENTO ................................................ 3
+    1.4 -   DECORRENZA ............................................................................................. 3
+    1.5 -   ELENCO FUNZIONI E RUOLI INTERESSATI ..................................................... 4
+2 - ASPETTI GENERALI .................................................................................................... 5
+    2.1 -   FAIR VALUE ................................................................................................ 5
+    2.1.1 - DEFINIZIONE ............................................................................................. 5
+    2.1.2 - - METODI DI DETERMINAZIONE .................................................................... 6
+    2.1.3 - GERARCHIA .............................................................................................. 10
+    2.1.4 - DISCLOSURE ............................................................................................ 11
+    2.1.5 - CRITERI DI DECLINAZIONE DEL PRINCIPIO .................................................. 14
+    2.1.6 - MERCATI ATTIVI ....................................................................................... 14
+    2.1.7 - MERCATI NON ATTIVI ................................................................................ 17
+    2.2 -   PRUDENT VALUE ....................................................................................... 21
+    2.2.1 - DEFINIZIONE ........................................................................................... 21
+    2.2.2 - PERIMETRO DI APPLICAZIONE .................................................................... 23
+3 - ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO .................................................. 25
+    3.1 -   RESPONSABILITA’ DEGLI ORGANI DI VERTICE DELLA CAPOGRUPPO ............... 25
+    3.1.1 - ORGANO CON FUNZIONE DI SUPERVISIONE STRATEGICA ............................. 25
+    3.1.2 - ORGANO CON FUNZIONE DI GESTIONE ....................................................... 25
+    3.1.3 - ORGANI CON FUNZIONI DI CONTROLLO ...................................................... 25
+    3.2 -   RESPONSABILITA’ DELLE FUNZIONI AZIENDALI DELLA CAPOGRUPPO E DELLE
+    SOCIETA’ DEL GRUPPO ........................................................................................... 25
+    3.2.1 - FUNZIONI DI BUSINESS ............................................................................ 25
+    3.2.2 - FUNZIONE CONTROLLO RISCHIO DI MERCATO ............................................. 26
+    3.2.3 - FUNZIONE MUREX HD................................................................................ 27
+    3.2.4 - FUNZIONE PARTECIPAZIONI....................................................................... 27
+    3.2.5 - FUNZIONE RISTRUTTURAZIONI .................................................................. 27
+    3.2.6 - FUNZIONE SUPPORTO AI MERCATI .............................................................. 27
+4 - ELENCO TESTI NORMATIVI DI RIFERIMENTO ................................................................ 29
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 2 di 29
+1 - QUADRO DI SINTESI
+1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI
+La Direttiva definisce il modello organizzativo adottato dal Gruppo (principi e responsabilità)
+del processo di “Gestione della valorizzazione degli strumenti finanziari” per la
+determinazione delle due seguenti misure:
+<U+F02D>  Fair Value degli strumenti finanziari di proprietà; in particolare si definiscono:
+    <U+F02D>    i metodi adottati per la determinazione del Fair Value degli strumenti finanziari;
+    <U+F02D>    la gerarchia del Fair Value e i criteri per l’attribuzione della gerarchia di Fair Value a
+         ciascuno strumento;
+    <U+F02D>    i requirement in tema di disclosure sul Fair Value;
+    <U+F02D>    criteri per la declinazione delle metodologie tese ad identificare gli strumenti finanziari
+         considerati “contribuiti” in quanto quotati su un mercato attivo e le modalità per
+         individuare gli strumenti considerati non contribuiti ai quali si applicare una delle
+         tecniche di valutazione previste dal principio contabile.
+    Inoltre si delineano le regole per la valorizzazione degli strumenti finanziari detenuti dalla
+    clientela in coerenza con i principi previsti per la valorizzazione dei portafogli di Proprietà.
+    In particolare il Gruppo, così come tutti gli intermediari che offrono prodotti di propria
+    emissione o che operano ponendosi in contropartita diretta della clientela, si impegna a:
+    a) dotarsi di strumenti di determinazione del Fair Value basati su metodologie
+         riconosciute e diffuse sul mercato, proporzionate alla complessità del prodotto;
+    b) utilizzare criteri di pricing coerenti con quelli adottati in sede di classamento o vendita
+         al cliente;
+    c) strutturare un processo di determinazione delle condizioni da applicare alle operazioni
+         in modo da guidare ex ante la discrezionalità degli addetti mediante la fissazione di
+         criteri precisi, che contemplino, ove possibile, anche un confronto con provider
+         esterni;
+    d) dotarsi di un sistema informativo che consenta, ex post, un’agevole e precisa
+         ricostruzione dell’attività svolta, con riferimento alle condizioni applicate, ai parametri
+         e alle maggiorazioni utilizzate per ciascuna transazione eseguita.
+    I criteri per la determinazione del pricing degli strumenti finanziari della clientela adottate
+    dal Gruppo MPS prevedono:
+    <U+F02D>    la coerenza dei modelli di pricing con il grado di complessità degli strumenti negoziati
+         e la loro provata affidabilità nella stima dei valori nonché l’ampio riscontro tra gli
+         operatori di mercato;
+    <U+F02D>    l’utilizzo nelle tecniche di valutazione in input di tutti i fattori rilevanti che i
+         partecipanti al mercato considerano nel fissare un prezzo fra i quali ad esempio le
+         curve di tasso per l’attualizzazione e stima dei flussi futuri, eventuali spread creditizi,
+         tassi di cambio volatilità, etc;
+    <U+F02D>    la coerenza dei criteri di pricing con quanto previsto dal Gruppo MPS ai fini della
+         valorizzazione del Portafoglio della Proprietà;
+    <U+F02D>    la coerenza tra il pricing adottato sul mercato primario e su quello secondario a valere
+         sulla medesima metodologia di Fair Value;
+    <U+F02D>    il coinvolgimento di strutture, dotate di adeguate competenze e caratteristiche di
+         indipendenza, in fase di individuazione delle metodologie, di validazione delle
+         medesime e di collaudo dei relativi applicativi informatici;
+    <U+F02D>    la determinazione delle variabili e dei criteri rilevanti che impattano sui livelli di bid-
+         offer spread e la definizione dei limiti applicabili alla singola transazione o ad insiemi
+         omogenei di transazioni in modo da definire intervalli predefiniti tali da guidare la
+         discrezionalità degli addetti.
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 3 di 29
+<U+F02D>    Prudent Value e di conseguenza gli additional valuation adjustments da dedurre dal Core
+     Equity Tier 1 (CET1); in particolare si definiscono le tipologie di approccio di calcolo e il
+     relativo perimetro di applicazione.
+Le regole definite in questo documento sono prescrittive per tutte le strutture del Gruppo
+operative sulla materia.
+Prima di stampare questo documento, assicurarsi che sia davvero necessario.
+1.2 - AGGIORNAMENTI                  E     MODIFICHE             RISPETTO             ALLA       VERSIONE
+PRECEDENTE
+Le principali modifiche rispetto alla versione precedente sono state apportate con riferimento:
+     <U+25AA> alle evoluzioni degli assetti organizzativi nel frattempo intercorsi (par. 1.5)
+     <U+25AA> all’allineamento ai principi contabili IFRS9 dei termini e delle definizioni di modelli e
+         perimetri di valutazione (par. 2.1.7, par. 2.2.2)
+Le modifiche sono state evidenziate in giallo.
+1.3 - DESTINATARI E MODALITA' DI RECEPIMENTO
+La Direttiva è rivolta alla Capogruppo Banca MPS ed alle seguenti Società del Gruppo:
+<U+F02D>    MPS Capital Services Banca per le Imprese;
+<U+F02D>    MPS Leasing e Factoring;
+<U+F02D>    Monte Paschi Banque;
+<U+F02D>    Banca Monte Paschi Belgio;
+<U+F02D>    Widiba;
+<U+F02D>    Consorzio Operativo Gruppo MPS.
+Le Società del Gruppo recepiscono la Direttiva, con delibera dei propri organi apicali,
+adeguando responsabilità, processi e regole interne, in coerenza con le proprie caratteristiche
+e dimensioni.
+Il recepimento deve essere notificato alle seguenti Strutture e Funzioni della Capogruppo:
+<U+F02D> Struttura a cui fa capo il riporto societario della singola Società;
+<U+F02D> Funzione Rischio di Mercato SRMCControlliFinanziari@mps.it;
+<U+F02D> Funzione Organizzazione.
+Le rispettive Funzioni Controllo Rischio di Mercato, laddove presenti, applicano la direttiva
+utilizzando gli strumenti di front office disponibili, se ritenuti adeguati a supportare
+metodologie e parametri definiti. In caso contrario le Funzioni di Controllo Rischio di mercato
+delle Società controllate interessate devono richiedere supporto metodologico alla omologa
+Funzione di Capogruppo e ove necessario ricorrere a Service Level Agreement.
+1.4 - DECORRENZA
+Data di pubblicazione.
+
+                   Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                             finanziari
+                   Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 4 di 29
+1.5 - ELENCO FUNZIONI E RUOLI INTERESSATI
+Si riportano di seguito le Funzioni/Strutture di Capogruppo e delle altre Società del Gruppo
+coinvolte.
+Nome Convenzionale Funzione               Struttura Organizzativa
+                                          BMPS:
+BILANCIO                                  -   Direzione Chief Financial Officer – Area Amministrazione
+                                              e Bilancio – Servizio Bilancio e Contabilità
+                                          BMPS:
+                                          -   Direzione Chief Financial Officer – Area Finanza Tesoreria
+                                              e Capital Management – Servizio Liquidità Operativa
+                                          -   Direzione Chier Financial Officer – Area Finanza
+                                              Tesoreria e Capital Management – Servizio Liquidità
+                                              Strutturale
+                                          -   Direzione Chier Financial Officer Area Finanza Tesoreria e
+BUSINESS                                      Capital Management – Servizio Governo Strategico del
+                                              Rischio
+                                          MPSCS:
+                                          -   Direzione Global Markets
+                                          Altre società a cui il documento è indirizzato:
+                                          -   Strutture incaricate della gestione di posizioni di rischio
+                                              di proprietà
+                                          BMPS:
+CFO
+                                          -   Direzione Chief Financial Officer
+                                          BMPS:
+CONTROLLO RISCHIO DI MERCATO              -   Direzione Chief Risk Officer - Area Financial Risk Officer -
+                                              - Servizio Rischi di Mercato
+                                          BMPS:
+CRO
+                                          -   Direzione Chief Risk Officer
+                                          Consorzio Operativo Gruppo MPS
+MUREX HD                                  -   Area Applicazioni Governo - Servizio Applicazioni Bilancio
+                                              e Rischi
+                                          BMPS:
+PARTECIPAZIONI                            Direzione Chief Financial Officer – Area Partecipazioni e
+                                          -   Operazioni Straordinarie – Servizio Partecipazioni
+                                          BMPS:
+REVISIONE INTERNA                         -   Chief Audit Executive – Area Revisione Specialistica -
+                                              Servizio Financial & Model
+                                          BMPS:
+RISTRUTTURAZIONI                          -   Direzione Chief Lending Officer – Direzione Crediti non
+                                              Performing – Area Ristrutturazioni e Asset Problematici
+                                          BMPS:
+SEGNALAZIONI DI VIGILANZA                 -   Direzione Chief Financial Officer – Area Amministrazione
+                                              e Bilancio – Servizio Normativa Regolamentare e
+                                              Reporting
+                                          BMPS:
+SUPPORTO AI MERCATI                       -   Direzione Chief Financial Officer – Area Finanza Tesoreria
+                                              e Capital Management – Servizio Supporto ai Mercati
+
+                     Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                finanziari
+                     Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 5 di 29
+2 - ASPETTI GENERALI
+2.1 - FAIR VALUE
+2.1.1 - DEFINIZIONE
+L’IFRS 13 definisce il Fair Value come: “il prezzo che sarebbe incassato per la vendita di
+un’attività o che dovrebbe essere corrisposto dall’entità per trasferire una passività in una
+transazione ordinata tra partecipanti al mercato alla data in cui è effettuata la valutazione.”
+L’IFRS 13 si applica, sia in fase di rilevazione iniziale che di misurazione successiva, ogni volta
+che un altro IFRS richiede o permette la valutazione al Fair Value o una disclosure del Fair
+Value.
+                                     Tabella 1: Definizione di Fair Value
+Il framework da adottare per la misurazione del Fair Value è razionalizzabile nei seguenti
+concetti chiave:
+<U+F02D> Unità di conto: l’attività o la passività oggetto di valutazione deve essere considerata nella
+   sua condizione effettiva ed è rappresentata nell’unità contabile più opportuna (unit of
+   account) identificata, a seconda dei casi, da una singola attività o passività (stand alone
+   asset or liability) oppure da un gruppo di attività o passività (group of assets) come ad
+   esempio una cash generating unit (unità generatrice di flussi di cassa).
+<U+F02D> Transazione ordinata: nella definizione del Fair Value vi è la presunzione che l’entità operi
+   in continuità operativa senza alcuna intenzione o necessità di liquidare, di ridurre
+   sensibilmente le proprie attività o di intraprendere operazioni a condizioni potenzialmente
+   sfavorevoli. Il Fair Value non è, pertanto, l'importo che una entità riceverebbe o pagherebbe
+   in una transazione forzata.
+<U+F02D> Partecipanti al mercato: La valutazione inoltre deve riflettere le assunzioni che generici
+   partecipanti al mercato farebbero nella determinazione del prezzo di scambio, presumendo
+   che questi agiscano cercando di massimizzare i loro interessi economici. I partecipanti al
+   mercato devono possedere le seguenti caratteristiche:
+      <U+F02D> essere indipendenti rispetto all’entità;
+      <U+F02D> Informati sulle attività e passività e sulla transazione;
+      <U+F02D> capaci di “entrare” nella transazione;
+      <U+F02D> disponibili ad effettuare transazioni per attività e passività.
+   In ogni caso non è necessario individuare dei partecipanti specifici, è sufficiente delinearne
+   le caratteristiche generali considerando:
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                  finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 6 di 29
+      <U+F02D>   le caratteristiche dell'attività e passività;
+      <U+F02D>   il mercato principale o quello più vantaggioso;
+      <U+F02D>   i partecipanti al mercato con cui l'entità entrerebbe in affari nel mercato descritto al
+          punto precedente.
+<U+F02D> Mercato: Il mercato di riferimento è il mercato principale, inteso quale mercato che
+   presenta i maggiori volumi e livelli di negoziazione per le attività e passività oggetto di
+   valutazione a cui la Banca ha accesso. In sua assenza il mercato di riferimento è costituito
+   da quello più vantaggioso per l'attività o passività. Si rileva che non è necessario svolgere
+   una ricerca esaustiva di ogni possibile mercato per individuare quello principale o il più
+   vantaggioso, ma sarà sufficiente tenere in considerazione le informazioni ragionevolmente
+   disponibili. Infatti, a meno che non sia evidente il contrario, opera la presunzione che il
+   mercato in cui normalmente verrebbe svolta la transazione sia quello principale oppure il più
+   vantaggioso. Non rileva in alcun modo l'eventuale impossibilità di dismettere l'attività alla
+   data di valutazione, anche in considerazione dei volumi detenuti rispetto a quelli
+   normalmente negoziati nel mercato.
+Infine si sottolinea che i costi di transazione, sebbene rilevanti per l’individuazione del mercato
+più vantaggioso, non devono essere inclusi nella stima del Fair Value. I costi di transazione
+devono essere contabilizzati secondo quanto previsto da altri IFRS, poiché non caratteristici
+dell’attività o della passività.
+Il Fair Value rappresenta pertanto una valutazione articolata su valori di mercato e non un
+valore specifico per la singola Banca.
+Per alcuni strumenti è presente un’evidenza diretta del mercato, dal quale è possibile ottenere
+direttamente il Fair Value. Talvolta, invece, tali informazioni non sono disponibili ed è, quindi,
+necessario ricorrere a tecniche valutative finalizzate a raggiungere il medesimo risultato,
+ottimizzando le informazioni osservabili sul mercato e minimizzando l’utilizzo di informazioni
+non osservabili.
+2.1.2 - - METODI DI DETERMINAZIONE
+Si riporta di seguito lo schema logico adottato per la determinazione del Fair Value degli
+strumenti finanziari:
+
+                       Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                    finanziari
+                       Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 7 di 29
+                  Tabella 2:  Illustrazione dello schema logico di determinazione del Fair Value
+Le modalità di determinazione del Fair Value possono essere raggruppate, sulla base della
+natura e delle informazioni disponibili al momento della valutazione, nelle seguenti due macro-
+categorie:
+<U+F02D> Valutazione al mercato (Mark to Market), qualora il Fair Value è determinato attraverso i
+    prezzi quotati in un mercato attivo;
+<U+F02D> Valutazione mediante tecniche (Valuation Techniques), in tutti gli altri casi.
+La scelta tra le due metodologie non è discrezionale. Il ricorso a prezzi quotati in un mercato
+attivo rappresenta la metodologia da prediligere. Le tecniche di valutazione sono applicate solo
+nei casi in cui lo strumento finanziario non sia quotato in un mercato attivo o nel caso in cui il
+mercato, al momento della valutazione, non sia giudicato attivo (ad esempio perché illiquido).
+Qualora il mercato principale o più vantaggioso presso il quale è quotato lo strumento oggetto
+di valutazione non sia attivo alla data di valutazione, le tecniche di valutazione adottate si
+basano sull’analisi dei prezzi di recenti transazioni di mercato, ancorché non attivo, relative a
+strumenti finanziari identici (identical instrument), oppure relative a strumenti finanziari con le
+medesime caratteristiche (similar instrument). I corretti parametri di mercato da identificare
+dipendono strettamente dalle caratteristiche contrattuali (terms) di ciascuno strumento
+finanziario.
+Qualora non siano disponibili i prezzi di recenti transazioni su strumenti identici o simili, la
+Banca applica altre tecniche di valutazione che possono servirsi, in misura variabile, di
+parametri di mercato ed altri parametri.
+MERCATO ATTIVO
+Il Gruppo MPS applica una valutazione al Mark to Market ogni volta che per uno strumento
+finanziario esistono prezzi quotati in mercati attivi alla data di valutazione.
+Uno strumento finanziario è considerato quotato in un mercato attivo se i prezzi per l’attività o
+la passività sono prontamente e regolarmente disponibili e se tali prezzi rappresentano
+operazioni di mercato effettive che avvengono regolarmente in normali contrattazioni e per
+volumi adeguati.
+Pertanto possono costituire mercati attivi i listini di Borsa, gli intermediari, società di settore,
+servizi di quotazione, enti autorizzati o autorità di regolamentazione, i Multilateral Trading
+Facilities (MTF).
+Tuttavia, dalla definizione fornita dal principio risulta che il concetto di mercato attivo è
+riconducibile al singolo strumento finanziario e non al mercato di riferimento. Ciò significa che:
+<U+F02D> un mercato regolamentato/organizzato non garantisce necessariamente la formazione di
+    prezzi significativi per tutti gli strumenti ivi quotati;
+<U+F02D> i MTF possono essere considerati mercati attivi se sono caratterizzati dalla presenza di
+    scambi continuativi e significativi tali da garantire la formazione di prezzi effettivamente
+    rappresentativi del Fair Value dello strumento;
+<U+F02D> i circuiti elettronici di negoziazione Over The Counter (OTC) possono essere considerati
+    mercati attivi nella misura in cui le quotazioni fornite rappresentino effettivamente il prezzo
+    a cui avverrebbe una normale transazione;
+<U+F02D> le quotazioni dei brokers/market makers possono essere rappresentative del Fair Value se
+    riflettono l’effettivo livello di prezzo dello strumento in un mercato liquido (se cioè non si
+    tratta di prezzi indicativi bensì di offerte vincolanti).
+Da quanto esposto sopra, si evince che, ai fini del “Fair Value measurement”, riveste
+particolare importanza la significatività del prezzo osservato sul mercato. La qualifica di
+strumento finanziario trattato su mercato attivo può essere riconosciuta solo attraverso
+l’esame di elementi sostanziali che indichino la presenza di controparti, scambi e volumi tali da
+
+                        Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                   finanziari
+                        Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 8 di 29
+far ritenere i relativi prezzi significativi del suo valore corrente. A tal proposito, il Gruppo MPS
+verifica la significatività dei prezzi facendo riferimento ai seguenti criteri:
+<U+F02D> spread bid-ask: differenza tra il prezzo al quale un intermediario si impegna a vendere i
+    titoli (ask) e il prezzo al quale si impegna ad acquistarli (bid); maggiore è lo spread, minore
+    è la liquidità del mercato e quindi la significatività del prezzo;
+<U+F02D> frequenza delle transazioni: è un indicatore di interesse attorno al titolo scambiato ed
+    implica prezzi fermi solo per brevi lassi di tempo. Una maggiore frequenza sottende anche
+    una maggiore rapidità nello scontare il prezzo alle nuove informazioni disponibili;
+<U+F02D> ampiezza e profondità del book di negoziazione: il primo concetto fa riferimento alla
+    presenza di proposte di dimensioni elevate, mentre con la profondità del book si intende
+    l’esistenza di ordini sia in acquisto sia in vendita per numerosi livelli di prezzo;
+<U+F02D> numero di contributori: numero di partecipanti al mercato che forniscono proposte di
+    acquisto o vendita per un determinato strumento. Maggiore è il numero di partecipanti attivi
+    del mercato e maggiore sarà la significatività del prezzo;
+<U+F02D> disponibilità di informativa sulle condizioni delle transazioni.
+TECNICHE DI VALUTAZIONE
+Il principio IFRS 13 contempla i seguenti tre approcci per la determinazione del Fair Value:
+                      Tabella 3: Tecniche di valutazione per la determinazione del Fair Value
+Il Market Approach si avvale di prezzi ed altre informazioni derivanti da transazioni di
+mercato relative a attività e passività identiche o simili. Tra queste ad esempio l’utilizzo di
+multipli derivati da comparables o tecniche matematiche quali il matrix pricing, utilizzato
+prevalentemente per valorizzare un gruppo di strumenti finanziari dello stesso tipo senza
+ricorrere ai prezzi di mercato, ma alle relazioni esistenti tra gli strumenti e dei benchmark
+quotati.
+Il Cost Approach riflette l’importo che sarebbe richiesto per sostituire l’utilità dell’asset. Dalla
+prospettiva di un veditore, il prezzo che potrebbe essere ottenuto è rappresentato dal costo
+che un acquirente sosterrebbe per costruire o sostituire un’attività di utilità paragonabile,
+rettificata per l’obsolescenza.
+L’Income Approach converte importi futuri (come i flussi di cassa) in un singolo importo
+attualizzato. Questo comporta che il Fair Value riflette aspettative sugli importi futuri presenti
+al momento della valutazione.
+Le tecniche di valutazione rientranti nell’Income Approach, includono:
+<U+F02D> tecniche di calcolo del valore attuale;
+<U+F02D> modelli di pricing delle opzioni (come ad es. la formula di Black-Scholes-Merton) o modelli
+    binomiali che incorporano tecniche di calcolo del valore attuale e riflettono sia il valore
+    temporale che il valore intrinseco di una opzione;
+<U+F02D> metodi reddituali multi-periodali.
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                  finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 9 di 29
+Il Gruppo MPS, quindi, adotta tecniche di valutazione coerenti con i tre approcci citati.
+Il Gruppo MPS valuta gli strumenti finanziari utilizzando delle tecniche di valutazione ogni
+qualvolta le condizioni di mercato non consentono di determinarne il Fair Value attraverso la
+rilevazione di un prezzo quotato in un mercato attivo (Mark to Market).
+Nel caso di utilizzo di una tecnica di valutazione, il Gruppo massimizza il ricorso a parametri di
+mercato osservabili, riducendo il più possibile il ricorso a parametri valutativi interni stimati.
+Tuttavia, anche qualora vengano utilizzati parametri di mercato, questi sono rettificati per
+tener conto delle modifiche intervenute nelle condizioni di mercato.
+L’identificazione della tecnica di valutazione applicabile alle diverse categorie di strumenti
+finanziari detenuti in portafoglio varia al variare delle caratteristiche di ciascuno strumento e
+delle informazioni disponibili al momento delle valutazioni.
+Qualora possibile, l’affidabilità della tecnica di valutazione prescelta è verificata confrontandone
+i risultati rispetto a valutazioni passate per lo strumento oggetto di valutazione (qualora
+disponibili valutazioni di mercato pregresse).
+Le tecniche di valutazione devono essere adottate in modo coerente nel tempo. Tuttavia, un
+cambiamento nella tecnica di valutazione, o negli adjustment applicati alla stessa tecnica, può
+essere appropriato se si riflette nella stima di un valore maggiormente rappresentativo del Fair
+Value. I seguenti eventi rappresentano casi che possono richiedere una revisione della tecnica
+di valutazione:
+<U+F02D>   cambiamenti nelle condizioni di mercato;
+<U+F02D>   sviluppo di nuovi mercati;
+<U+F02D>   nuove informazioni diventano disponibili;
+<U+F02D>   informazioni precedentemente usate non sono più disponibili;
+<U+F02D>   miglioramenti apportati alle tecniche di valutazione.
+Il del documento metodologico in materia di Fair Value e Prudent Value (cfr. 1030D01958)
+dettaglia i modelli utilizzati e i parametri adottati per le valutazioni tramite l’utilizzo di tecniche.
+Al fine di fornire informazioni sulla disponibilità o meno di evidenze dirette del mercato, alle
+misurazioni al Fair Value di ciascuna attività o passività è associato un grado di certezza della
+valutazione. Lo IASB ha creato una gerarchia del Fair Value costruita su tre livelli che classifica
+input, o assunzioni, utilizzate dai partecipanti al mercato quando prezzano attività o passività,
+oggetto di approfondimento nel paragrafo successivo.
+QUOTAZIONI FORNITE DA TERZI
+Con riferimento all’operatività su strumenti non quotati in mercati regolamentati, per la
+valutazione potrebbe essere utilizzato un “pricing” fornito da terzi soggetti (es: Markit-Icap,
+broker, ecc.). L’IFRS 13 non preclude l’utilizzo di tali prezzi al fine di determinare il Fair Value
+dello strumento a condizione che tali quotazioni siano rispondenti a quanto previsto in materia
+dal Principio.
+Il Gruppo MPS non esclude l’utilizzo di tali “pricing”, ponendo tuttavia particolare attenzione
+alla natura della quotazione ricevuta e svolgendo opportuni controlli sulla stessa. In
+particolare, la valutazione delle quotazioni fornite da terzi, anche ai fini della determinazione
+della gerarchia del Fair Value, deve tenere in considerazione, tra le altre cose:
+<U+F02D> quanto le quotazioni fornite riflettono effettivamente transazioni ordinarie sullo strumento
+    da valutare o tecniche di valutazione che riflettono assunzioni (anche in termini di rischio)
+    fatte dai partecipanti al mercato (da valutare eventuali aggiustamenti alle quotazioni);
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                 finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 10 di 29
+<U+F02D> la natura della quotazione fornita dando ad esempio maggior peso a quelle riferibili ad
+    offerte vincolanti piuttosto che quelle che rappresentano mere indicazioni di prezzo;
+<U+F02D> il livello degli scambi sullo strumento oggetto di valutazione, il numero di contributori
+    presenti nel circuito e l’ampiezza del range delle valutazioni;
+<U+F02D> il riconoscimento che viene attribuito dal mercato alle quotazioni fornite dal terzo in
+    considerazione dell’esperienza e conoscenza maturata.
+2.1.3 - GERARCHIA
+Per aumentare la coerenza a la comparabilità delle misurazioni al Fair Value, l’IFRS 13
+definisce una precisa gerarchia del Fair Value organizzata su tre livelli. La classificazione di un
+Fair Value in uno dei livelli previsti dalla gerarchia è funzione del grado di osservabilità degli
+input utilizzati per la stima. Essi determinano, di fatto, diversi livelli di attendibilità del Fair
+Value. In termini generali, l’IFRS 13 prevede che si massimizzi l’utilizzo di input osservabili a
+scapito di quelli non osservabili.
+                                Tabella 4:  Definizione dei livelli di Fair Value
+Gli input sono costituiti dalle assunzioni che i partecipanti al mercato utilizzano per
+determinare il valore di un’attività o una passività, incluse le assunzioni relative ai rischi, quali
+ad esempio:
+<U+F02D> il rischio insito in particolari tecniche valutative utilizzate;
+<U+F02D> il rischio inerente agli input utilizzati nelle tecniche di valutazione.
+Gli input sono sia osservabili sia non osservabili.
+In particolare, nel livello 2 rientrano gli strumenti finanziari per i quali, pur non essendo
+rilevabili contribuzioni di prezzo, è possibile effettuare la valutazione ricorrendo ad un modello
+costruito sulla base di criteri di generale accettazione e alimentato prevalentemente con
+parametri di mercato osservabili (quest’ultimi possono anche essere desunti, senza utilizzo di
+assunzioni significative, dai prezzi riconducibili a mercati attivi di strumenti similari). Tra gli
+input di livello 2 sono ricompresi:
+<U+F02D> prezzi quotati in mercati attivi per attività o passività simili;
+<U+F02D> prezzi quotati in mercati non attivi per attività o passività identiche;
+<U+F02D> input osservabili diversi dai prezzi quotati, quali ad esempio:
+     - tassi di interesse e curve dei rendimenti osservabili a intervalli comunemente quotati;
+     - volatilità implicite;
+     - credit spread;
+<U+F02D> altri input corroborati dal mercato.
+Aggiustamenti apportati a input di livello 2 che siano significativi ai fini della determinazione
+del Fair Value, comportano una classificazione dell’attività o passività a livello 3 se
+l’aggiustamento utilizza significativi input non osservabili.
+
+                        Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                    finanziari
+                        Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 11 di 29
+Il livello 3, è costituito da strumenti i cui Fair Value si basano in misura prevalente su “input
+non osservabili”. Tali strumenti sono valutati con modelli che considerano almeno un
+parametro non osservabile ritenuto significativo o che implicano l’adozione di assunzioni
+significative su parametri osservabili, modelli non di mercato e quotazioni non operative
+effettuate da controparti private. Gli input non osservabili sono usati solo nel caso non siano
+disponibili input osservabili e devono comunque riflettere le assunzioni che i partecipanti al
+mercato farebbero nel prezzare l’attività o la passività, incluse le assunzioni relative ai rischi.
+Tra queste son ricomprese le assunzioni relative ai rischi derivanti dalla tecnica utilizzata
+(rischio modello) e rischi derivanti dagli input utilizzati.
+In taluni casi gli input impiegati per misurare un Fair Value possono essere ricondotti a diversi
+livelli di gerarchia. In questi casi il Fair Value dello strumento è classificato, nella sua interezza,
+nel livello gerarchico dell’input, significativo alla misurazione del Fair Value, che ricade nel
+livello più basso.
+La valutazione della significatività di un input alla complessiva misurazione richiede giudizio e
+avviene prendendo in considerazione i fattori specifici dell’attività o passività.
+Le regole di dettaglio relative all’assegnazione della gerarchia di Fair Value delle diverse
+tipologie di strumenti finanziari sono riportate all’interno del del documento metodologico in
+materia di Fair Value e Prudent Value (cfr. 1030D01958).
+   Tabella 5:    Illustrazione del processo di definizione della gerarchia di Fair Value
+2.1.4 - DISCLOSURE
+I requisiti informativi previsti dall'IFRS 13 sono finalizzati a fornire agli utilizzatori del bilancio
+informazioni sulle tecniche di valutazione e sugli gli input utilizzati per sviluppare valutazioni al
+Fair Value e su come le valutazioni al Fair Value che si basano su input significativi non
+osservabili influenzato i risultati di periodo. L’IFRS 13 richiede ampia informativa sulla
+valutazione al Fair Value.
+Il livello di informativa richiesto dall'IFRS 13 dipende dal fatto che la valutazione al Fair Value
+successiva alla rilevazione iniziale avvenga su base ricorrente o meno. Le valutazioni ricorrenti
+si riferiscono alle valutazioni al Fair Value richieste al termine di ciascun periodo di reporting e
+differiscono da quelle non ricorrenti che sono invece richieste solo al verificarsi di particolari
+eventi o tipologie di transazioni.
+Sebbene gran parte dei requisiti informativi coincidano tra le due tipologie di valutazione al
+Fair Value, l'informativa richiesta per le valutazioni ricorrenti comprende ulteriori requisiti
+connessi alla natura continuativa della valutazione.
+
+                          Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                       finanziari
+                          Codice: D 02023 003               Pubblicato il: 12/04/2019             Pag. 12 di 29
+Al fine di rispettare i requirement in tema di disclosure sul Fair Value devono essere fornite
+almeno le seguenti informazioni:
+<U+F02D> il Fair Value alla fine del periodo di riferimento*;
+<U+F02D> per valutazioni non ricorrenti al Fair Value, le ragioni che hanno richiesto la valutazione*;
+<U+F02D> il livello di gerarchia del Fair Value in cui ricade la valutazione (L1,L2,L3)*;
+<U+F02D> per le attività e passività valutate al Fair Value alla data di riferimento (su base ricorrente),
+    gli importi di eventuali trasferimenti tra livello 1 e 2 della gerarchia del Fair Value, le ragioni
+    di tali trasferimenti e le regole adottate per determinare quando si ha un trasferimento tra i
+    livelli;
+<U+F02D> per valutazioni al Fair Value classificate nel Livello 2 e Livello 3 della gerarchia del Fair
+    Value, una descrizione delle tecniche di valutazione e gli input utilizzati nella valutazione,
+    ogni modifica delle tecniche di valutazione e le ragioni di tale cambiamento*;
+<U+F02D> per le valutazioni di Fair Value di Livello 3, informazioni quantitative sui parametri non
+    osservabili utilizzati nella valutazione;
+<U+F02D> per le valutazioni di Fair Value ricorrenti classificate nel Livello 3, una riconciliazione dei
+    saldi di apertura e chiusura, indicando separatamente le modifiche intervenute nel periodo
+    con riferimento ai seguenti aspetti:
+     - gli utili e perdite totali di periodo registrati nel Conto Economico e le voci di Conto
+          Economico in cui sono registrati, indicando separatamente gli importi riconducibili a utili
+          e perdite “non realizzati” e la voce in cui sono inclusi;
+     - gli utili e perdite totali di periodo registrati in “other comprehensive income” e la voce di
+          conto economico complessivo in cui sono registrati;
+     - acquisti, vendite e regolamenti;
+     - gli importi dei trasferimenti da e per il Livello 3 di gerarchia del Fair Value (analizzati
+          separatamente), le ragioni di tali trasferimenti e le regole della Banca per determinare
+          quando si ha un trasferimento
+<U+F02D> per le valutazioni di Fair Value classificate nel Livello 3, una descrizione dei processi
+    valutativi utilizzati dalla Banca;
+<U+F02D> per le valutazioni di Fair Value ricorrenti classificate nel Livello 3:
+     - una descrizione qualitativa della sensibilità delle valutazioni al FV a variazioni negli input
+          non osservabili nel caso tale variazione nel FV, positiva o negativa, sia significativa;
+     - nel caso esistano interrelazioni tra gli input non osservabili utilizzati, una descrizione di
+          tali relazioni e dinamiche e il loro potenziale effetto sull’analisi di sensibilità del FV;
+     - per le attività e le passività finanziarie, un’analisi quantitativa degli effetti delle
+          variazioni negli input non osservabili sul FV nel caso tali effetti siano significativi e la
+          descrizione di come tale analisi sia stata condotta.
+Con il simbolo “*” si indicano le informazioni richieste anche per attività e passività non
+misurate al Fair Value ma per le quali è necessario fornire disclosure dello stesso.
+Di seguito si riporta una sintesi dei requisiti di informativa sul Fair Value prevista per le
+valutazioni ricorrenti, non ricorrenti e laddove richiesto solo a fini di disclosure.
+                                                                                                Attività non valutate
+                                                        Valutazione       Valutazione non
+ Requisito di Disclosure                                                                        al FV ma per le quali
+                                                        ricorrente        ricorrente
+                                                                                                è richiesta disclosure
+ Il Fair Value calcolato                                       v                   v                       v
+ Le ragioni di una valutazione al Fair Value                                       v
+ Livello di gerarchia del Fair Value (L1, L2, L3)              v                   v                       v
+ Trasferimenti tra L1 e L2 e i motivi                          v
+ Descrizione delle tecniche di valutazione (L2, L3)            v                   v                       v
+ Quantificazione input non osservabili (L3)                    v                   v
+ Riconciliazione tra bilancio di apertura e chiusura
+                                                               v
+ (L3)
+ Descrizione dei processi di valutazione adottati (L3)         v                   v
+ Descrizione della sensibilità del FV ai cambiamenti           v
+
+                       Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                      finanziari
+                       Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 13 di 29
+negli input non osservabili (L3)
+Quantificazione della sensibilità del FV ai
+                                                           v
+cambiamenti negli input non osservabili (L3)
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                 finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 14 di 29
+2.1.5 - CRITERI DI DECLINAZIONE DEL PRINCIPIO
+Il Livello 1 della gerarchia del Fair Value fa riferimento a prezzi quotati in mercati attivi. Il
+principale aspetto di complessità del prezzare tali strumenti è l’identificazione dei principali
+mercati in cui le attività e passività finanziarie sono quotate e la possibilità per la Banca di
+accedere a quelle quotazioni alla data di valutazione. Il presente capitolo descrive i criteri per
+identificare un mercato attivo e le metodologie per identificare gli strumenti finanziari
+considerati “contribuiti” in quanto quotati su un mercato attivo.
+Con riferimento agli strumenti diversi da quelli di Livello 1, vengono individuati gli strumenti
+considerati non contribuiti, ai quali si applica una delle tecniche di valutazione previste dal
+principio contabile, indicando la tecnica applicabile a ciascuna categoria e gli aggiustamenti
+applicati per riflettere le diverse incertezze valutative.
+2.1.6 - MERCATI ATTIVI
+La definizione di mercato attivo fornita dall’IFRS 13 differisce da quella di mercato
+regolamentato. Ai sensi del D. Lgs. n. 58/98 e del regolamento Consob n. 11768 del
+23/12/1998 e successive modifiche, i mercati regolamentati sono definiti come i mercati iscritti
+nell’elenco previsto dall’art. 63, comma 2, del Testo Unico e nella sezione speciale dello stesso
+elenco, come previsto dall’art. 67, comma 1, del Testo Unico. Questi mercati sono gestiti da
+società autorizzate da Consob che operano secondo le disposizioni del detto Regolamento e
+sotto la supervisione di Consob.
+Oltre ai mercati regolamentati esistono sistemi di scambi organizzati (Sistemi Multilaterali di
+Negoziazione e Internalizzatori Sistematici) definiti, ai sensi del D. Lgs. 58/98, come un
+“insieme di regole e strutture, tra cui strutture automatizzate, che lo rendono possibile, su
+base continuativa o periodica, per raccogliere e trasmettere gli ordini per la negoziazione di
+strumenti finanziari e per soddisfare tali ordini, al fine della conclusione di contratti”. La
+pubblicazione dell’elenco dei sistemi di scambi organizzati è svolta da Consob.
+Sebbene normalmente gli strumenti finanziari quotati su tali mercati ricadano nella definizione
+di strumenti quotati in mercati attivi, possono riscontrarsi situazioni in cui strumenti
+ufficialmente quotati non sono liquidi a causa di scarsi volumi negoziati. In tali casi, i prezzi
+quotati non possono considerarsi rappresentativi del Fair Value di uno strumento.
+Ci sono, inoltre, strumenti finanziari quotati in mercati regolamentati di altre nazioni, quindi
+non regolamentati da Consob, i cui prezzi sono disponibili giornalmente. Questi prezzi possono
+essere considerati rappresentativi del Fair Value degli strumenti finanziari nella misura in cui
+rappresentano il risultato di una regolare negoziazione e non soltanto di offerte di acquisto o
+vendita. Altri mercati, sebbene non regolamentati, possono essere considerati come mercati
+attivi (es. piattaforme come Bloomberg o Markit).
+
+                     Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                 finanziari
+                     Codice: D 02023 003                Pubblicato il: 12/04/2019            Pag. 15 di 29
+                             Tabella 6:    Valutazione in base ai prezzi di mercato
+Il Gruppo MPS, anche al fine di agevolarne il processo di monitoraggio, si avvale per talune
+categorie di strumenti finanziari dei prezzi formatisi sui mercati regolamentati. L’elenco dei
+mercati regolamentati, italiani ed esteri, e dei sistemi di scambi organizzati adottati è riportato
+in allegato al del documento metodologico in in materia di Fair Value e Prudent Value (cfr.
+1030D01958).
+Tuttavia, la qualifica di strumento finanziario trattato su mercato attivo può essere in genere
+riconosciuta solo attraverso l’esame di elementi sostanziali che indichino la presenza di
+controparti, scambi e volumi tali da far ritenere i relativi prezzi significativi del suo valore
+corrente. Al fine, quindi, di stabilire se un mercato può essere considerate attivo, il gruppo MPS
+ha stabilito specifiche regole e processi. La classificazione come attivo di un prezzo formatosi
+su un mercato regolamentato sarà, dunque, vincolata al superamento di determinati requisiti
+stabiliti ad hoc per ciascuna tipologia di strumento.
+Gli strumenti finanziari detenuti nei portafogli di proprietà e classificati a Livello 1 di gerarchia
+di Fair Value vengono valorizzati ad un exit price dato dal prezzo mid quando l’impatto di un
+aggiustamento di bid-ask alla valutazione di tali strumenti verrebbe limitato dal fatto che:
+<U+F02D> gli strumenti sono normalmente negoziati a prezzi mid;
+<U+F02D> tali prezzi sono presi come base di calcolo per altre finalità (es. il calcolo dei margini).
+Negli altri casi sono applicati aggiustamenti per tener conto della liquidità dello strumento.
+Il ricorso al Mark to Market riguarda principalmente le seguenti tipologie di strumenti
+finanziari:
+<U+F02D> Titoli azionari;
+<U+F02D> Titoli obbligazionari:
+    • Titoli di Stato del G-10 e Spagna e titoli sovranazionali plain vanilla emessi in hard
+         currency;
+    • Titoli quotati su mercati regolamentati e assimilabili secondo l’elenco riportato nel
+         paragrafo seguente;
+    • Titoli quotati su altri mercati o circuiti di negoziazione;
+<U+F02D> Derivati listed;
+<U+F02D> Quote di OICR;
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                 finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 16 di 29
+<U+F02D> Certificates, covered warrant e warrant.
+Di seguito sono riportate le regole generali definite dal Gruppo MPS per le principali categorie
+di strumenti finanziari. Le modalità operative di determinazione del Fair Value sono invece
+riportate nel del documento metodologico in in materia di Fair Value e Prudent Value (cfr.
+1030D01958).
+TITOLI DI CAPITALE
+Un titolo azionario è considerato quotato su un mercato attivo soltanto quanto è scambiato su
+un mercato regolamentato o su un mercato assimilabile, il quale, pur non essendo
+regolamentato, presenta volumi di scambio giornalieri in linea con le principali piazze mondiali.
+Per i titoli quotati su mercati regolamentati la fonte di prezzo è la Borsa Valori di riferimento.
+In questa sono disciplinati in modo specifico tutte le operazioni di negoziazione, le loro
+modalità di esecuzione, gli operatori e le tipologie contrattuali ammesse. I prezzi sono forniti
+dai principali information provider (Bloomberg, Reuters, Telekurs etc.) o sono pubblicati sui
+maggiori quotidiani finanziari.
+La tipologia di prezzo utilizzata deve riflettere, quanto più possibile, l’effettivo valore
+dell’attività detenuta in portafoglio. Questo valore generalmente corrisponde al prezzo ufficiale
+pubblicato dal mercato in cui il titolo è trattato.
+TITOLI DI DEBITO
+La valutazione in base ai prezzi di mercato, per le obbligazioni, è più articolata di quanto
+previsto per i titoli di capitale poiché è necessario definire regole più stringenti per la verifica
+della condizione di mercato “attivo” e la verifica della condizione di liquidità degli strumenti
+finanziari. In generale è possibile affermare che per le obbligazioni governative il relativo
+mercato regolamentato è normalmente considerato “attivo”, ai fini della determinazione del
+Fair Value. Pertanto vengono individuate le seguenti tipologie di titoli di debito considerati
+quotati su mercati attivo:
+<U+F02D> altri titoli quotati su mercati regolamentati;
+<U+F02D> titoli quotati su mercati non regolamentati.
+I controlli adottati per verificare l’esistenza di quotazioni rappresentative di un mercato attivo,
+differenti tra le diverse tipologie di strumento, sono disciplinati all’interno del documento
+metodologico in in materia di Fair Value e Prudent Value (cfr. 1030D01958).
+DERIVATI LISTED
+I derivati quotati su mercati regolamentati sono contratti caratterizzati da un’elevata
+standardizzazione delle condizioni di negoziazione, ogni elemento contrattuale è definito in un
+contratto standard non modificabile dai contraenti.
+Per tale motivo, questi strumenti sono considerati sempre quotati su un mercato attivo.
+CAMBI SPOT
+Le operazioni su cambi a pronti sono considerate operazioni di mercato attivo escluse quelle
+operazioni in cambi per le quali, per operare, è necessaria l’autorizzazione preventiva della
+Banca Centrale del Paese di riferimento.
+I contratti forward su cambi (nella forma di forex outrights e forex swap, per quanto concerne
+la gamba a termine), che rientrano per IFRS 9 nell’ambito dei prodotti derivati, sono
+considerati strumenti di Livello 1.
+
+                       Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                  finanziari
+                       Codice: D 02023 003               Pubblicato il: 12/04/2019             Pag. 17 di 29
+QUOTE DI OICR
+Gli organismi di investimento collettivo del risparmio sono rappresentati da fondi comuni di
+investimento e dalle SICAV. Ai fini della determinazione del Fair Value riveste particolare
+importanza il concetto di NAV (Net Asset Value), che in caso di aggiornamento giornaliero
+rappresenta la condizione per considerare questi strumenti quotati su un mercato attivo
+classificati a livello 1 di Fair Value.
+CERTIFICATES, COVERED WARRANT, DIRITTI E WARRANT
+Questi strumenti finanziari sono considerati quotati su un mercato attivo solo se emessi da
+terzi.
+2.1.7 - MERCATI NON ATTIVI
+Gli strumenti non rientranti in una delle categorie riportate al paragrafo precedente sono
+considerati non quotati su mercati attivi. Pertanto, non essendo presenti prezzi contribuiti, tali
+strumenti sono valutati mediante modelli che si rifanno alle tecniche di valutazione previste dal
+principio contabile.
+                               Tabella 7:   Valutazione in base ai prezzi di mercato
+L’identificazione di una tecnica di valutazione per le diverse categorie di strumenti finanziari
+detenuti in portafoglio varia al variare delle caratteristiche di ciascuno strumento e delle
+informazioni disponibili al momento delle valutazioni. Pertanto, sebbene le tecniche di
+valutazione non subiscano modifiche tra le diverse date di reporting, possono rendersi
+necessarie delle modifiche a causa di mutate informazioni disponibili tra le diverse date. Sono
+apportate modifiche alle tecniche di valutazione adottate in tutti i casi in cui le informazioni di
+mercato disponibili consentano un maggior ricorso a dati osservabili di mercato. E’ cura delle
+Funzioni di Business fare in modo che le tecniche di valutazione utilizzate siano quelle che
+garantiscono il maggior ricorso ad informazioni di mercato e che le stesse siano abbandonate,
+qualora opportuno, per ricorrere al Mark to Market.
+Il Fair Value degli strumenti per i quali è necessario ricorrere ad una tecnica di valutazione è
+determinato alternativamente mediante:
+<U+F02D> le procedure di Front Office all’interno delle quali le posizioni sono gestite;
+<U+F02D> i modelli valutativi gestiti dalle Funzioni di Business.
+A tal fine è necessario che siano rispettate le seguenti condizioni:
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                  finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 18 di 29
+<U+F02D> i modelli utilizzati sono precedentemente validati dalla Funzione Controllo Rischio di
+   Mercato;
+<U+F02D> i dati di input utilizzati sono allineati con quelli formalizzati all’interno del documento
+   metodologico in in materia di Fair Value e Prudent Value (cfr. 1030D01958) predisposto
+   dalla Funzione Controllo Rischio di Mercato.
+Di regola la valutazione deve avvenire sui sistemi di Front Office. Ogni valutazione fatta al di
+fuori di tali applicativi deve essere residuale e limitata soltanto agli strumenti per i quali si è
+dimostrato impossibile effettuare la valutazione mediante i sistemi di Front Office oppure il
+gruppo non dispone di una libreria validata implementata sul sistema di Front Office.
+L’ambiente principale all’interno del quale sono sviluppate le tecniche di valutazione adottate
+dal Gruppo MPS è Murex. Si tratta di un applicativo di position keeping che gestisce le posizioni
+di portafoglio in tempo reale ed effettua il pricing di tutti gli strumenti plain vanilla, degli
+strumenti strutturati e dei derivati non quotati. Gestisce, inoltre, i parametri di mercato come
+le curve dei tassi d’interesse e matrici di volatilità, utilizzate per le valutazioni dell’attivo e del
+passivo. Al di fuori di Murex, il Gruppo MPS applica, in via residuale, tecniche di valutazione
+proprietarie finalizzate alla valutazione di strutture complesse per le quali non è possibile
+ricorrere alle librerie di Murex.
+I modelli di valutazione devono essere sottoposti periodicamente a un processo rigoroso di
+validazione che include:
+la validità teorica e l’integrità matematica del modello:
+<U+F02D> l’appropriatezza delle assunzioni del modello, coerentemente con le specificità dello
+   strumento finanziario oggetto di valutazione;
+<U+F02D> la consistenza del modello mediante analisi di sensibilità necessarie a stimare gli impatti sul
+   Fair Value al variare dei parametri di input;
+<U+F02D> la calibrazione del modello rispetto ai prezzi osservati sul mercato al momento della
+   valutazione.
+Nella determinazione del Fair Value degli strumenti di livello 2 e 3 può essere applicato uno
+spread bid-ask al fine di includere nel Fair Value un effetto penalizzativo a fronte dalla chiusura
+di una posizione aperta. In particolare i prezzi bid sono applicati per posizioni lunghe e i prezzi
+ask per le posizioni corte.
+MODELLI DI VALUTAZIONE
+I modelli utilizzati per la valorizzazione degli strumenti il cui fair Value è determinato mediante
+tecniche di valutazione rivestono un’ampia gamma di casistiche in funzione degli strumenti
+stessi. Il documento si propone di indicare brevemente le principali metodologie adottate per
+tipologia di strumento.
+STRUMENTI OBBLIGAZIONARI (ATTIVO E PASSIVO)
+I titoli obbligazionari che non presentano prezzi contribuiti sono valutati sulla base di un
+Income Approach che utilizza una tecnica di calcolo del valore attuale. Nell’adottate tale
+tecnica sono considerati i seguenti fattori, nella prospettiva dei partecipanti al mercato:
+<U+F02D> stima dei flussi di cassa futuri incluse le aspettative su possibili variazioni nell’ammontare e
+   nelle tempistiche di realizzazione dei flussi stessi.
+<U+F02D> valore temporale del denaro rappresentato da un tasso risk free per scadenze che
+   coincidono con i flussi di cassa considerati;
+<U+F02D> prezzo di assumersi l’incertezza dei flussi di cassa (premio per il rischio);
+<U+F02D> altri fattori che i partecipanti al mercato considererebbero;
+<U+F02D> per le passività, il non-performance risk che include il rischio di credito proprio della Banca.
+La tecnica di calcolo del valore attuale si avvale di un Discount Risk Adjustment Rate stimato a
+partire da strumenti con caratteristiche simili che presentano prezzi liquidi. La descrizione
+puntuale delle modalità di applicazione delle metodologie di calcolo dello spread applicabile è
+
+                       Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                 finanziari
+                       Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 19 di 29
+riportata nel del documento metodologico in materia di Fair Value e Prudent Value (cfr.
+1030D01958).
+DERIVATI OTC
+Il processo di valutazione dei derivati OTC e degli strutturati di credito si poggia sulla
+definizione di framework, inteso come concetto finanziario e tecnologico alla base dello
+sviluppo di un modello di valutazione. Questo rappresenta un modello generale seguito per il
+pricing e il calcolo delle sensitivity di più strumenti.
+I framework fanno riferimento sia a modelli nativi sui sistemi di Front Office del Gruppo sia a
+modelli sviluppati su sistemi di pricing proprietari. In particolare, per i sistemi sviluppati
+internamente, l’individuazione di una serie di framework rappresenta uno step metodologico
+importante in quanto consente:
+<U+F02D> lo sviluppo dell’insieme degli algoritmi e delle metodologie di valutazione che permette di
+    effettuare il pricing generalizzato di una serie di strumenti finanziari;
+<U+F02D> la progettazione e l’implementazione sui sistemi del Gruppo di modelli generalizzati di
+    pricing che possono servire numerose tipologie di strumenti sfruttando librerie di calcolo, set
+    di market data e architetture comuni;
+<U+F02D> di fornire disclosure sulle policy di Fair Value del Gruppo per tutte le tipologie di strumenti,
+    prescindendo dalle peculiarità dei singoli pay-off relativi allo strumento.
+Per ciascun framework, in fase di relativa approvazione o modifica devono essere specificati
+alcuni elementi, tra cui i principali sono:
+<U+F02D> la descrizione del modello e degli algoritmi utilizzati;
+<U+F02D> il sistema di Front Office sul quale l’algoritmo è implementato;
+<U+F02D> il pay-off o l’insieme dei pay-off serviti dal framework in oggetto;
+<U+F02D> le assunzioni relative al framework, se rilevanti;
+<U+F02D> i market data necessari all’elaborazione;
+<U+F02D> le fonti dei market data.
+I framework potranno, periodicamente, essere soggetti a modifiche nel caso in cui:
+<U+F02D> il Gruppo operi su nuovi strumenti;
+<U+F02D> individui nuovi modelli o algoritmi di valutazione più efficienti di quelli esistenti;
+<U+F02D> decida di modificare i market data utilizzati o integrare le valutazioni con assunzioni
+    soggettive.
+Attraverso una descrizione dettagliata di tali elementi sarà possibile definire gli strumenti
+finanziari che rientreranno nel Livello 2 e quelli da classificare nel Livello 3.
+PRIVATE EQUITY FUNDS
+I private equity funds sono valutati mediante diverse metodologie in funzione delle loro
+caratteristiche. Le metodologie che il gruppo MPS adotta sono:
+<U+F02D> Market Approach (es. prezzi eseguiti, multipli di mercato);
+<U+F02D> Income Approach (es. discounted cash flow analisys, dividend discount model);
+<U+F02D> Combinazioni di Market e Income Approach quali il Net Asset Adjusted (es. asset e liabilities
+    al FV).
+La Funzione incaricata della valutazione motiva la scelta del metodo di valutazione adottato e
+attesta l’esistenza delle condizioni per il calcolo di un Fair Value reliable attraverso la
+produzione dell’apposita documentazione di analisi (scheda) riportata nel del documento
+metodologico in materia di Fair Value e Prudent Value (cfr. 1030D01958).
+I controlli di appropriatezza sono svolti nell’ambito del processi di Indipendent Price
+Verification.
+
+                       Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                   finanziari
+                       Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 20 di 29
+ADJUSTMENT APPLICATI
+La stima del Fair Value degli strumenti derivati OTC deve contemplare degli aggiustamenti che
+riflettono i fattori di rischio a cui sono soggetti tali strumenti.
+I fattori di rettifica sono finalizzati a:
+<U+F02D> assicurare che il Fair Value rifletta il valore di una transazione che potrebbe essere
+    realmente realizzata sul mercato;
+<U+F02D> incorporare i futuri costi attesi direttamente collegati alla transazione;
+<U+F02D> ridurre il rischio di Fair Value distorti con conseguenti errori nel P&L gestionale e contabile.
+Tuttavia questi fattori di rettifica sono considerati appropriati se e solo se sono coerenti con
+l’obiettivo del Fair Value measurement. In altri termini gli aggiustamenti non sono considerati
+adeguati se conducono a una misura distorta del Fair Value per motivi prettamente prudenziali.
+I principali aggiustamenti apportati dal Gruppo MPS sono:
+<U+F02D> Credit Value Adjustment/Debt Value Adjustment (CVA/DVA): questa componente considera
+    il rischio di default della controparte (CVA) e quello proprio (DVA);
+<U+F02D> Funding Value Adjustment: rappresenta un aggiustamento alla valutazione risk-free per
+    tener conto del costo del funding della Banca;
+<U+F02D> Model Risk: si intende il rischio che il pricing di uno strumento sia sensibile alla scelta del
+    modello. In particolare ciò può verificarsi a causa di una non corretta rappresentazione della
+    struttura oggetto di valutazione da parte del modello utilizzato o a causa di una non corretta
+    modellizzazione degli input utilizzati.
+CVA/DVA
+Il Gruppo MPS calcola il Credit/Debt Value Adjustment su tutte le posizioni in Derivati OTC con
+controparti istituzionali e commerciali non collateralizzate. In linea con le prassi di mercato in
+materia, appare ragionevole non procedere al calcolo ed alla rilevazione delle correzioni del
+Fair Value dei derivati per CVA e DVA qualora, alla data di chiusura del bilancio, siano stati
+formalizzati e resi operativi accordi di collateralizzazione delle posizioni in derivati che abbiano
+le seguenti caratteristiche:
+<U+F02D> scambio bilaterale della garanzia con elevata frequenza (giornaliera o al massimo
+    infrasettimanale);
+<U+F02D> tipo di garanzia rappresentato da contanti o titoli governativi di elevata liquidità e qualità
+    creditizia, soggetti ad adeguato scarto prudenziale;
+<U+F02D> assenza di una soglia (cd. threshold) del valore del Fair Value del derivato al di sotto della
+    quale non è previsto lo scambio di garanzia oppure fissazione di un livello di tale soglia
+    adeguato a consentire una effettiva e significativa mitigazione del rischio di controparte;
+<U+F02D> MTA - Minimum Transfer Amount (ossia differenza tra il Fair Value del contratto ed il valore
+    della garanzia) - al di sotto del quale non si procede all’adeguamento della
+    collateralizzazione delle posizioni, individuato contrattualmente ad un livello che consenta
+    una sostanziale mitigazione del rischio di controparte.
+FUNDING VALUE ADJUSTMENT
+Il Funding Value Adjustment (FVA) è la componente del Fair Value che considera i
+costi/benefici di finanziamento ulteriori rispetto a quelli già inclusi nella componente
+collateralizzata. Il Gruppo MPS incorpora nelle valorizzazioni il Funding Value Adjustment su
+tutte e sole le posizioni in Derivati OTC con controparti istituzionali e commerciali non
+collateralizzate.
+MODEL RISK
+L’aggiustamento per rischio modello viene applicato quando per determinate strutture/asset
+class sono utilizzati modelli alternativi rispetto a quanto generalmente adottato dai partecipanti
+al mercato per la stressa struttura/asset class. E’ inoltre applicato in caso di limiti ad una
+corretta modellizzazione delle strutture tale per cui la valutazione a mercato delle componenti
+elementari non configura il fair value della complessiva struttura.
+
+                     Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                               finanziari
+                     Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 21 di 29
+In questi casi si effettua un confronto tra diversi modelli alternativi/criteri di calibrazione,
+generalmente adottati dai partecipanti al mercato, che richiede, in primis, l’individuazione di
+modelli alternativi e successivamente la necessità di stabilire se apportare degli aggiustamenti
+da effettuare a fronte del rischio modello.
+Qualora le assunzioni o gli input adottati per la stima dell’adjustment riconducibile a model risk
+non fossero osservabili e l’adjustment avesse una significativa rilevanza sul valore complessivo
+dello strumento cui si riferisce, lo strumento è classificato nel livello 3 di gerarchia di Fair
+Value.
+2.2 - PRUDENT VALUE
+2.2.1 - DEFINIZIONE
+Gli Art. 34 e 105 della Capital Requirements Regulation (CRR) 575/2013, entrata in vigore l’1
+Gennaio 2014, impongono alle istituzioni finanziarie di stimare un valore prudenziale per tutte
+le posizioni valutate al Fair Value, classificate sia nel Trading Book sia nel Banking Book, con
+l’obiettivo di individuare un Prudent Value che incorpori l’impatto dell’incertezza valutativa a
+fronte di determinati elementi di rischio. L’obiettivo è introdurre un nuovo requisito ai fini della
+determinazione del Patrimonio di Vigilanza: la differenza tra il Prudent Value e il Fair Value
+contabilizzato (AVA – Additional Valuation Adjustment) deve essere portata in deduzione del
+Core Tier 1 e soggetta a segnalazione (COREP).
+Al fine di fornire regole precise per il calcolo dell’AVA, l’EBA ha pubblicato in data 31 marzo
+2014 il Final Draft di un Regulatory Technical Standard (EBA/RTS/2014/06, aggiornato poi in
+data 23 gennaio 2015), non ancora approvato dalla Commissione Europea, che illustra le voci
+da includere nel calcolo del Prudent Value e i relativi requisiti riferibili a documentazione,
+sistemi e controlli.
+Il Prudent Value è definito come una valutazione prudente del Fair Value (disciplinato dall’IFRS
+13) basata su un valore prudenziale di tutti i fattori di rischio coinvolti nel calcolo, dato un
+determinato livello di confidenza.
+Il Technical Standard dell’EBA declina il perimetro degli strumenti coinvolti, sia a livello
+contabile sia per natura, nonché le modalità implementative di un “Additional Valuation
+Adjustment”. Nello specifico, tali additional adjustment, riguardano tutte le posizioni per le
+quali una variazione di Fair Value impatti, totalmente o in parte, il Common Equity Tier 1 (CET
+1).
+Il documento prevede due tipologie di approccio di calcolo:
+<U+F02D> Simplified Approach: rivolto alle banche con un totale posizioni valutate al Fair Value
+    inferiore a 15 €/mld. Per queste banche l’AVA è calcolato attraverso una percentuale (0,1%)
+    della somma del valore assoluto di attività e passività valutate al Fair Value;
+<U+F02D> Core Approach: per le banche con un totale posizioni valutate al Fair Value maggiore o
+    uguale a 15 €/mld. In tal caso si richiede di stimare gli aggiustamenti di valutazione per
+    ciascuna delle 9 categorie di AVA elencate di seguito:
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                  finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 22 di 29
+                                                   AVA
+                     Market Price Unceratinty                 Early Termination
+                          Close-out costs               Future administrative costs
+                             Model Risk                    Concentrated position
+                     Unearned Credit Spreads
+                                                              Operational Risks
+                   Investing and funding costs
+Il Gruppo MPS a livello consolidato raggiunge la soglia di 15 miliardi di Euro di attività e
+passività valutate al Fair Value e pertanto adotta l’approccio Core. Le singole società del
+Gruppo applicano lo stesso approccio sebbene a livello individuale non raggiungano la soglia di
+15 miliardi di Euro come somma in valore assoluto tra attività e passività valutate al Fair
+Value.
+Laddove uno o più Additional Valuation Adjustment siano già ricompresi nel calcolo del Fair
+Value, il Gruppo MPS non procede al calcolo di tali aggiustamenti.
+Dove possibile, il valore prudente di una posizione è collegato ad un range di valori plausibili e
+ad uno specifico livello-obiettivo di confidenza (al momento 90%). Ciò significa che il calcolo
+del valore prudente avviene mediante più fonti dati/prezzi di mercato per raggiungere lo
+specificato livello-obiettivo di confidenza.
+Qualora non fosse possibile costruire un intervallo di confidenza, il Gruppo adotta, così come
+consentito dalla normativa, un approccio “expert-based”.
+Nel caso in cui non sia determinabile una categoria di AVA nemmeno con l’approccio “expert-
+based”, la normativa prevede un approccio “fall-back” pari alla somma di tre componenti:
+profitti netti non realizzati, il 10% del nozionale per i derivati, il 25% del valore assoluto della
+differenza tra il market value e i profitti non realizzati per securities.
+Si riporta di seguito il dettaglio degli adjustment richiesti:
+<U+F02D> Market Price Uncertainty (MPU): quantifica l’incertezza del prezzo o delle quotazioni di
+   mercato dei parametri di input per la valutazione delle posizioni a Fair Value; L’intervallo dei
+   valori disponibili per un dato parametro è utilizzato per calcolare un valore di mercato
+   conservativo che garantisca un livello di confidenza del 90% che si riesca a negoziare a quel
+   prezzo o a uno migliore. Questo AVA viene considerato pari a zero quanto si ha evidenza di
+   uno strumento molto liquido o di una incertezza non materiale;
+<U+F02D> Close-out costs (COC): aggiustamento del Fair Value legato ai costi di chiusura della
+   posizione, nell’ipotesi in cui il suo Fair Value contabilizzato non sia un exit price (bid o Ask in
+   base al segno dell’esposizione in essere);
+<U+F02D> Model Risk (MR): aggiustamento legato al rischio derivante dall’utilizzo di un particolare
+   modello valutativo, dovuto alle ipotesi sottostanti, all’approccio di calibrazione o all’esistenza
+   di modelli alternativi; L’aggiustamento è inteso come il rischio che l’attività o passività
+   oggetto di valutazione possa essere valutata dai partecipanti al mercato con diversi modelli
+   o calibrazioni di modello che possono portare ad un range di valori per quell’attività o
+   passività;
+<U+F02D> Unearned Credit Spread (UCS): rappresenta l’incertezza sull’aggiustamento di Fair Value
+   per il rischio di controparte. L’Unearned Credit Spread AVA fa riferimento, quindi, alla
+   Market Price Uncertainty, al Close Out Cost e al Model Risk relativi al Credit Valuation
+   Adjustment (CVA). Il CVA è un aggiustamento di Fair Value per il rischio di controparte che
+   si applica ai soli strumenti derivati con un present value positivo. Pertanto UCS AVA fa
+   riferimento alle sole posizioni in derivati;
+<U+F02D> Investing and funding costs (IFC): rappresenta i costi/benefici derivanti dal prendere in
+   prestito/prestare liquidità nel corso della normale operatività in derivati. Si riferisce quindi
+   alle sole posizioni in strumenti derivati. I derivati per i quali il Gruppo è esposto ad un
+   Investing & Funding Cost sono quelli non collateralizzati;
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                 finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 23 di 29
+<U+F02D> Concentrated positions (CP): aggiustamento applicato alle posizioni concentrate in
+    rapporto alla liquidità del mercato, per le quali i tempi stimati di uscita dalla posizione
+    eccedono i 10 giorni (exit period); In tal caso è necessario stimare un aggiustamento che
+    tenga conto della volatilità degli input di calcolo, della volatilità del bid-offer e l’impatto sui
+    prezzi di mercato di una ipotetica exit strategy;
+<U+F02D> Future administrative costs (FAC): richiede di valutare tutte le spese amministrative che
+    saranno sostenute nel tempo per la gestione delle posizioni in derivati che a causa di una
+    valutazione non “fully exit” resterebbero in portafoglio dopo aver eseguito una ipotetica
+    close-out strategy di tutto il portafoglio in essere. L’aggiustamento per i “costi
+    amministrativi futuri” fa riferimento alle sole posizioni in derivati;
+<U+F02D> Early termination (ET): l’aggiustamento per le Early Termination fa riferimento alle
+    perdite potenziali, comprensive di eventuali costi sostenuti, derivanti da chiusure anticipate
+    e non contrattuali delle posizioni in derivati in contropartita della clientela. Rientrano nel
+    novero delle posizioni oggetto di Early Termination AVA le sole posizioni chiuse
+    anticipatamente su richiesta della controparte;
+<U+F02D> Operational Risk (OR): valutazione delle potenziali perdite che possono essere sostenute
+    a causa del rischio operativo relativo ai processi valutativi.
+Il dettaglio circa l’applicazione di ciascun adjustment alla realtà del Gruppo MPS è riportata nel
+del documento metodologico in materia di Fair Value e Prudent Value (cfr. 1030D01958) in
+quanto afferente ad aspetti operativi che esulano dallo scopo del presente documento;
+tuttavia, nel recepimento della normativa esterna, sono state fatte delle assunzioni di fondo
+che di seguito riportiamo:
+<U+F02D> limitare al minimo possibile le sovrapposizioni tra aggiustamenti di fair value e di prudent
+    value. Quindi nel caso in cui si adottino aggiustamenti di fair value che hanno la stessa
+    logica di correzioni da prudent valuation si seleziona il framework (fair value o prudent
+    value) ritenuto più adeguato;
+<U+F02D> far prevalere la correttezza sostanziale a quella formale, sia nello sviluppo metodologico che
+    nella selezione delle posizioni oggetto di calcolo. Vengono ad esempio escluse anche quelle
+    posizioni che tecnicamente rientrerebbero nel perimetro di calcolo ma che per
+    caratteristiche non vengono ritenute aderenti allo spirito della normativa stessa;
+<U+F02D> considerare i limiti tecnologici incontrati; nello sviluppo delle metodologie di calcolo e nella
+    definizione del perimetro di applicabilità i limiti tecnologici vengono considerati per
+    sviluppare eventuali soluzioni cosiddette di “contingency”; limiti poi superati, se possibile,
+    attraverso l’adozione di approcci “target”.
+2.2.2 - PERIMETRO DI APPLICAZIONE
+Gli strumenti finanziari per i quali viene calcolato un Prudent Value sono quelli ricompresi nelle
+voci di Bilancio riportate di seguito.
+Attivo:
+<U+F02D> Voce 20 - Attività finanziarie valutate al fair value con impatto a conto economico (IFRS 7
+    par 8 lett.a); Voce 30 - Attività finanziarie valutate al fair value con impatto sulla redditività
+    complessiva (IFRS 7 par 8 lett.h);;
+<U+F02D> Voce 110 - Attività non correnti e gruppi di attività in via di dismissione (voce 150 del
+    consolidato).
+Passivo:
+<U+F02D> Voce 20 - Passività finanziarie di negoziazione;
+<U+F02D> Voce 30 - Passività finanziarie designate al fair value (IFRS 7 par.8 lett.e)
+<U+F02D> Voce 70 - Passività associate ad attività in via di dismissione.
+
+                     Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                 finanziari
+                     Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 24 di 29
+Sono esclusi gli strumenti ricompresi nelle Voci 50 dell’Attivo e 40 del Passivo, in quanto
+relativi a derivati di copertura di operazioni in Hedge Accounting espressamente escluse dal
+perimetro di applicabilità dal Techinical Standard.
+Dagli strumenti ricompresi nelle voci di bilancio individuate sono esclusi:
+- I titoli di capitale classificati nella voce 30 dell’Attivo di Stato Patrimoniale “Attività
+   finanziarie valutate al fair Value con impatto sulla redditività complessiva (IFRS 7 par 8
+   lett.h)” e appartenenti al Livello 3 di «gerarchia del Fair Value».
+- Le exactly matching, offsetting position (ad esempio posizioni back to back), classificate in
+   un qualsiasi portafoglio tra quelli elencati in precedenza (si fanno ricadere in tale fattispecie
+   anche i titoli obbligazionari del passivo oggetto di FVO, in quanto tutti i rischi di mercato da
+   essi generati, ad esclusione del credit risk dell’emittente che comunque non genera effetti di
+   patrimonio, sono completamente sterilizzati se considerati insieme ai rispettivi derivati di
+   copertura), in quanto è esplicitamente prevista dal Techinical Standard l’esclusione delle
+   posizioni con rischi nettati.
+Oltre alle esclusioni operate in ottemperanza alla normativa di riferimento, vengono escluse
+anche quelle posizioni che tecnicamente rientrerebbero nel perimetro di calcolo ma che per
+considerazioni legate alla tipologia di prodotto non vengono ritenute aderenti allo spirito della
+normativa stessa (per i dettagli si rimanda al del documento metodologico in materia di Fair
+Value e Prudent Value (cfr. 1030D01958). Gli strumenti rientranti nel perimetro di applicabilità
+sono raggruppati per tipologia di asset class (o fattore di rischio sottostante) e per livello di
+gerarchia di Fair Value assegnato. Tali cluster sono funzionali a identificare dei sub-portafogli di
+strumenti che condividono caratteristiche e modalità di pricing. In tal modo ogni categoria di
+AVA viene applicata in modo omogeneo agli strumenti rientranti in ciascun cluste
+
+                     Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                finanziari
+                     Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 25 di 29
+3 - ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO
+3.1 - RESPONSABILITA’                   DEGLI         ORGANI             DI         VERTICE             DELLA
+CAPOGRUPPO
+3.1.1 - ORGANO CON FUNZIONE DI SUPERVISIONE STRATEGICA
+Il Consiglio di Amministrazione della Capogruppo, nell'ambito del proprio ruolo di
+supervisione strategica approva le linee guida ed il quadro organizzativo in materia di
+valorizzazione degli strumenti finanziari.
+Il Comitato Rischi della Capogruppo svolge funzioni di supporto al Consiglio di
+Amministrazione della Capogruppo nella definizione e approvazione degli indirizzi in materia.
+I Consigli di Amministrazione delle Società rientranti nel perimetro di applicazione
+recepiscono il quadro organizzativo e le linee guida in materia valorizzazione degli strumenti
+finanziari.
+3.1.2 - ORGANO CON FUNZIONE DI GESTIONE
+Il Comitato Gestione Rischi con funzione di supporto all’organo con funzione di gestione
+della Capogruppo valuta e approva i modelli di valutazione degli strumenti finanziari non
+valorizzabili tramite prezzi di mercato elaborati dalle Funzioni di Business e validati dalla
+Funzione Controllo del Rischio di Mercato.
+Il Comitato Gestione Rischi è inoltre coinvolto nella valutazione ed approvazione delle revisioni
+apportate alla normativa interna di riferimento che la Funzione Controllo Rischio di Mercato
+periodicamente può ritenere opportuno apportare in conseguenza di mutate condizioni
+valutative.
+Gli Organi con funzione di Gestione delle Società del Gruppo rientranti nel perimetro di
+riferimento a, per gli aspetti ad essi applicabili e nell’ambito delle proprie realtà aziendali, sono
+responsabili dell’attuazione degli indirizzi definiti dalla Capogruppo e dal proprio Organo con
+funzione di supervisione strategica.
+3.1.3 - ORGANI CON FUNZIONI DI CONTROLLO
+Il Collegio Sindacale della Capogruppo ed i Collegi Sindacali delle Società del Gruppo,
+avvalendosi delle singole Funzioni di Revisione Interna del Gruppo, vigilano sull’adeguatezza e
+sulla rispondenza del sistema di gestione e controllo dei rischi ai requisiti stabiliti dalla
+normativa.
+3.2 - RESPONSABILITA’                   DELLE         FUNZIONI                 AZIENDALI                DELLA
+CAPOGRUPPO E DELLE SOCIETA’ DEL GRUPPO
+3.2.1 - FUNZIONI DI BUSINESS
+Le Funzioni di Business della Capogruppo e delle altre società del Gruppo provvedono a:
+
+                      Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                  finanziari
+                      Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 26 di 29
+<U+F02D>   definire e proporre alla Funzione Controllo Rischio di Mercato il nuovo modello valutativo o
+    la revisione di quello fino al momento applicato nel caso in cui uno strumento finanziario
+    non sia valorizzabile tramite prezzi di mercato disponibili o nel caso in cui si renda
+    necessaria la revisione del modello di valutazione;
+<U+F02D>   richiede alla Funzione Supporto ai Mercati il censimento di nuovi strumenti finanziari e
+    propone alla Funzione Controllo Rischio di Mercato il livello di gerarchia del Fair Value da
+    applicare agli strumenti finanziari oggetto di censimento o oggetto di verifica periodica;
+<U+F02D>   propone una classificazione nella gerarchia del Fair Value ai derivati OTC da sottoporre alla
+    Funzione Controllo Rischio di Mercato per relativa validazione;
+<U+F02D>   valorizzare quotidianamente, in termini di parametri di mercato, parametri di modello e
+    prezzi, gli strumenti finanziari e i derivati OTC valutati a Mark to Model (FVL2 e FVL3) che
+    sottopongono mensilmente alla Funzione Controllo del Rischio di Mercato per la
+    conseguente validazione in occasione delle scadenze contabili o in caso di interventi
+    correttivi nella determinazione del Fair Value.
+3.2.2 - FUNZIONE CONTROLLO RISCHIO DI MERCATO
+La Funzione Controllo Rischio di Mercato è responsabile, coerentemente con il documento
+1030D01114 “Policy in materia di Risk Management (Governo dei Rischi)”, del Rischio di
+Mercato e pertanto è accentrata sulla Capogruppo la responsabilità di gestione della
+valorizzazione degli strumenti finanziari.
+La Funzione Controllo Rischio di Mercato provvede a:
+- valutare il modello di valutazione di un nuovo strumento finanziario o di uno strumento già
+    esistente per i quale non sia più possibile la valorizzazione tramite prezzi di mercato
+    disponibili sottoponendo le risultanze al Responsabile della Funzione per la successiva
+    approvazione da parte del Comitato Gestione Rischi;
+- monitorare costantemente i modelli di valutazione al fine di verificarne, nel continuo, la
+    corrispondenza del valore stimato con i prezzi riscontrati sul mercato e le soglie prestabilite
+    valutando l’adozione di best practice e se, se necessario, rivedendo i modelli da presentare,
+    successivamente all’approvazione da parte del Responsabile della Funzione al Comitato
+    Gestione Rischi;
+- eseguire una verifica indipendente e validare la correttezza dei livelli di Fair Value proposti
+    e le risultanze rivenienti dai test di significatività eseguiti da:
+       • Funzione Supporto ai Mercati in sede di test periodici o di test eseguiti in occasione
+          della richiesta di censimento;
+       • Funzioni di Business in sede di verifica periodica degli strumenti finanziari e/o di
+          Derivati OTC;
+       • Funzione Ristrutturazioni in sede inserimento nel portafoglio o di verifica periodica
+          degli strumenti rivenienti da ristrutturazioni di crediti;
+- Funzione Partecipazioni in sede inserimento nel portafoglio o di verifica periodica;;
+- in occasione delle scadenze contabili o in caso di interventi correttivi nella determinazione
+    del Fair Value, eseguire una verifica indipendente sulla correttezza delle valorizzazioni degli
+    strumenti finanziari e dei derivati OTC validandone le valutazioni ricevute da:
+       • Funzione Supporto ai Mercati per gli strumenti valutati a mercato (FVL1)
+       • Funzioni di Business per gli strumenti valutati a Mark to Model (FVL2 e FVL3) e per i
+          Derivati OTC
+La Funzione Controllo Rischio di Mercato predispone periodicamente la seguente reportistica
+indirizzata alle funzioni aziendali interessate (es. CRO, Revisione Interna, CFO):
+- report trimestrale relativo ai modelli di valutazione degli strumenti finanziari, con indicate
+    informazioni sulla soglia di materialità del modello e sul perimetro, il riepilogo delle criticità,
+    la lista delle azioni correttive e i relativi responsabili;
+- report mensile sui correttivi di Fair Value che espone i risultati aggregati e overview delle
+    metodologie utilizzate nonché la spiegazione dei risultati e delle principali variazioni;
+- report mensile relativo alle risultanze delle attività di verifica indipendente dei prezzi (IPV)
+    contenente le risultanze delle attività di verifica indipendente dei prezzi.
+
+                       Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                                  finanziari
+                       Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 27 di 29
+In caso di modifiche del modello di valutazione approvato dal Comitato Gestione Rischi o di
+modifiche del modello di classificazione nella Fair Value Hierarchy, la Funzione Controllo
+Rischio di Mercato provvede a rivedere, ove necessario, la normativa interna di riferimento
+(cfr. 1030D01958, 1030D02024).
+In ogni caso, la Funzione provvede periodicamente a verificare la rispondenza della normativa
+interna di riferimento (1030D01958, 1030D02024) con i principi in materia di Fair Value (IFRS
+13) e, ove necessario, propone, successivamente alla validazione dei contenuti.
+La Funzione Controllo Rischio di Mercato è inoltre responsabile del calcolo degli aggiustamenti
+al Fair Value ai fini di determinazione del “valore prudente” delle attività e passività aziendali
+(c.d. “Additional Valuation Adjustment” – AVA). L’importo di tali aggiustamenti viene calcolato
+su base trimestrale per poi essere comunicato sia alla Funzione Bilancio sia alla Funzione
+Segnalazioni di Vigilanza.
+3.2.3 - FUNZIONE MUREX HD
+La Funzione Murex HD provvede a aggiornare la classificazione nella gerarchia del Fair Value
+dei derivati OTC validata dalla Funzione Controllo Rischio di Mercato in occasione delle
+scadenze contabili.
+3.2.4 - FUNZIONE PARTECIPAZIONI
+La Funzione Partecipazioni esegue la stima del valore delle partecipazioni e dei relativi
+prezzi unitari valutandoli secondo quanto previsto dalla normativa interna (cfr. 1030D01958,
+1030D01441) ed in base ai quali il Livello di Fair Value viene assegnato dalla Funzione
+Controllo Rischio di Mercato.
+3.2.5 - FUNZIONE RISTRUTTURAZIONI
+La Funzione Ristrutturazioni determina il livello di Fair Value ed prezzo degli strumenti
+rivenienti da ristrutturazioni di crediti e ne rivede la valutazione con periodicità trimestrale (cfr.
+1030D00918). Successivamente alla validazione del Responsabile della Funzione, comunica le
+valutazioni alla Funzione Controllo Rischio di Mercato e alle Funzioni Partecipazioni, Business e
+Supporto ai Mercati.
+3.2.6 - FUNZIONE SUPPORTO AI MERCATI
+La Funzione Supporto ai Mercati:
+<U+F02D> calcola e definisce, in fase di censimento o periodicamente in occasione delle scadenze
+    contabili, i livelli di FV degli strumenti finanziari poi validato dalla funzione Controllo Rischi
+    di Mercato;
+<U+F02D> esegue, ad evento o in occasione delle scadenze contabili, i test di significatività sul prezzo
+    con particolare riferimento alla definizione di mercato attivo al fine di verificare la corretta
+    classificazione degli strumenti finanziari che non sono stati classificati a livello 2 e 3 della
+    gerarchia del Fair Value richiedendo la validazione delle risultanze alla Funzione Controllo
+    Rischio di Mercato;
+
+                   Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                             finanziari
+                   Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 28 di 29
+<U+F02D> aggiorna negli applicativi utilizzati la classificazione dello strumento finanziario sulla base di
+  quanto validato dalla Funzione Controllo Rischio di Mercato; gestisce l’alimentazione dei
+  prezzi di mercato negli applicativi finanza utilizzati e, in occasione delle scadenze contabili,
+  inviare le valorizzazioni degli strumenti a valutazione di mercato (FVL1) alla Funzione
+  Controllo del Rischio di Mercato per la conseguente validazione;
+<U+F02D> in occasione delle scadenze contabili, acquisisce i prezzi degli strumenti a valutazione Mark
+  to Model (FVL 2 e FVL3) determinati dalle Funzioni di Business e validati dalla Funzione
+  Controllo Rischio di Mercato.
+
+                Oggetto: Direttiva di gruppo in materia di gestione della valorizzazione degli strumenti
+                           finanziari
+                Codice: D 02023 003              Pubblicato il: 12/04/2019              Pag. 29 di 29
+4 - ELENCO TESTI NORMATIVI DI RIFERIMENTO
+1030D00793 Policy di Gruppo in materia di Sistema dei Controlli interni
+1030D00918 Direttiva di Gruppo in materia di Operazioni di Ristrutturazione Finanziaria
+1030D01114 Policy in materia di Risk Management (Governo dei Rischi)
+1030D01441 Direttiva di Gruppo in materia di Partecipazioni
+1030D01832 Presidio dei Rischi (relativi ai rischi di mercato)
+1030D01835 Presidio su operatività finanziaria (relativi ai rischi di mercato)
+1030D01836 Definizione e sviluppo degli strumenti finanziari destinati al Portafoglio della
+           Proprietà
+1030D01958 Documento metodologico in materia gestione della valorizzazione degli
+           strumenti finanziari (Fair Value e Prudent Value)
+1030D02024 Gestione della valorizzazione degli strumenti finanziari
+

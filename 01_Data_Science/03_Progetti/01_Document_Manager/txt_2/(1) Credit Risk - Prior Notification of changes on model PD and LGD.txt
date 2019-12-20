@@ -1,0 +1,220 @@
+                                                                     European Central Bank
+                                                                     SSM Secretariat
+                                                                     Sonnemannstrasse 22
+                                                                     60314 Frankfurt Am Main
+                                                                     Germany
+Submission date: 31 August 2018
+SUBJECT: Credit Risk – Prior notification of changes included in the calibration of the
+PD models and in the estimation of the LGD models carried out in 2018
+Dear Sirs and Madams,
+pursuant to Article 143, paragraph 4, of Regulation (EU) No.575/2013 and to EU Regulation
+529/2014, paragraph 5, Banca Monte dei Paschi di Siena, as Parent Company (GMPS
+hereafter), being already authorized to use the advanced IRB models since June 2008, hereby
+notifies its intention to make changes considered non-material to the internal rating system.
+In accordance with Article 179 of Regulation (EU) No.575/2013 which envisages that
+institutions review its own estimates when new relevant information emerge and in any case
+at least annually, GMPS updated the internal rating system with the calibration of the PD
+models and the estimation of the LGD models incorporating the evidence of the last years in
+the time series.
+The PD calibration and LGD estimation activities were performed according with internal
+developing framework and were subject to revision by the Validation function.
+In order to improve the accuracy of the internal rating system and to resolve some of the
+findings detected during the IMI40 and TRIMI investigations, the following changes have been
+introduced:
+    -   extension of the time series length for the calibration of the PD models and for the
+        estimation of the LGD model components: LGS, Danger Rate, LGD Performing (finding
+        No.9 TRIMI);
+    -   introduction of a MOC for the assignment of the PD for counterparties classified as
+        forborne (finding No.8 IMI40).
+These changes were assessed as non-material on the basis of the regulatory principles
+included in the Delegated Regulation (EU) No.529/2014 that have been transposed in the
+internal model change policy ( D02221 “Identificazione e gestione del model change - rischio di
+credito”).
+Below are the details of the assessment and attached the application forms in accordance with
+the “Guidelines on submitting requests relating to internal models to the European Central
+Bank” reported in the ECB communication of 7 June 2018.
+
+      1. Model change 2018_1: time series lenght
+Current situation
+PD models and Danger Rate models, currently implemented, were estimated on a 7-year time
+series for Corporate and on a 5-year time series for Retail on the basis both of a through cycle
+oriented approach, adopted by the GMPS from the first IRB implementation, and both in the
+absence of a specific framework for the analysis of the "likely range of variability" of default
+rates.
+The LGS was estimated on the following historical data:
+      - for closed bad loans the exposures classified as bad loans from 01/01/1999 to
+          31/12/2014 (16 years) and with the recovery process closed from 01/01/2005 (10
+          years closed files)
+      - for incomplete work-out the exposures still open as of 31/12/2014 and classified as
+          bad loans from 01/01/1999 or before 01/01/2000 or regardless of the bad loan
+          entrance date but with coverage ratio >= 99%.
+Change Adopted
+Since May 2017, GMPS adopted an internal framework for the evaluation of time series for
+models development, in line with the requirements provided for in Article 49 of the Final
+Draft Regulatory Technical Standards on the specification of the assessment methodology
+(EBA/RTS/2016/03). This framework had been included in the application package for the
+material model change request submitted to the ECB on 10 November 20171 and in the
+documentation supporting the TRIMI 2017 (ITMPS 2939).
+In the TRIMI 2017, it was detected that current models were developed without taking into
+account the new internal framework and the analysis required by Article 49 of the assessment
+RTS (finding No.9 TRIMI2).
+The internal framework includes analysis on the likely range of variability of default rates and
+analysis on specific macroeconomic indicators in order to identify a time series with an
+adequate mix of expansive and recessive periods. The analysis carried out are reported in the
+internal model documents.
+Based on the results of the analysis , a 10-year time series, from January 2008 to January
+2018, has been selected and used in the calibration of the PD models and in the estimation of
+the Danger Rate, both for Corporate and Retail segments3. The selected time series contains
+an equilibrate mix of positive and negative periods (4.5 recessive years and 5.5 expansive
+years) and guarantees a likely range of variability of default rates.
+As regards the estimate of the LGS, the reference period remained fixed at 16 years with a
+shift of time series of current LGS model aimed to include the evidence of the most recent
+1 The request of model change was withdrawn on 1 June 2018 according with the review of the internal model change plan of
+  the IRB system, which takes into account the resolution actions for regulatory findings and the implementation of the new
+  regulatory DoD.,
+2 TRIMI 2017 Finding No.9: “the lack of analysis in terms of representativeness of the period in calculating the long average default rate can
+  hinder the model predictive ability. The current framework depicts a prudential choice of the historical period; anyway, the Istitution has
+  introduced the analysis of the “the likely range of variability” of default rates in the model change application sent too Supervisory authority in
+  2017”.
+3 Only for the granting models of Retail, due to the unavailability of a longer time series, a time series from June 2013 to April
+  2018 was used.
+
+years. Respect to the previous model, for closed bad loans no time limits have been set on the
+closing date of the files, in order to include a more complete information data set: the
+exposures classified as bad loans from 01/01/2002 to 31/12/2017 (16 years) and process of
+recovery closed from 01/01/2002 (16 years vs 10 years of the current model).
+Regarding the incomplete work-out, the approach is unchanged: files open for more than 15
+years or with coverage of at least 99%.
+The model change has been assessed as "non-material", according with art. 5 c) of Annex 1,
+Part 1, Section 2 ("Changes requiring prior notification to competent authorities") of
+Delegated Regulation (EU) No.529/2014: "change in the length and composition of time series
+used for parameter estimation". The verification of the quantitative criteria envisaged in the
+internal policy (D02221) confirmed the non-material classification of the intervention, as the
+model change led to an increase of capital requirements: the model change involved 95% of
+the IRB system in terms of RWA and led to an increase of 1950 Eur/millions in terms of RWA.
+      Data as of 30/06/2018                         as is                                      model change 1: new time series
+ AIRB portofolio                                            CET1                           RWA change RWA change quantitative CET1
+                          EAD       EL     RWA    RWA %            TC ratio  EL      RWA                                                   TC ratio
+ (Eur/millions)                                             ratio                           absolute      relative     threshold    ratio
+ model change perimeter   82100     9160   29323      95%                     9405   31273         1950      +6,65%        -15,00%
+ no model change            2176     230    1542        5%                     230    1542
+ Total IRB                84276     9390   30865     100% 13,03% 14,38%       9635   32815         1950      +6,32%         -1,50% 12,64% 13,98%
+       2. Model change 2018_2: MOC forborne
+Current situation
+Since 2009, forbearance transactions (“moratoria”) granted to counterparties in economic
+difficulty have started to represent a significant phenomenon. Therefore GMPS introduced
+specific measures to correctly capture the riskiness of these counterparties.
+This treatment provides for extension of the period to observe the occurrence of the default in
+order to verify the performance after the conclusion of moratoria: the end of observation
+period is then translated from 12 months after the reference date to 12 months after the
+conclusion of moratoria.
+The treatment also provides for the elimination from RDS of performing counterparties with
+ongoing moratoria for which the observation period is considered not sufficient for the
+classification in bonis/default (phenomenon is present in the last reference dates of
+development population).
+Change Adopted
+GMPS decided to modify the approach for the treatment of the moratoria in order to achieve
+the following aims:
+       - to simplify the procedure for defining the calibration population without modifying or
+              eliminating the original RDS information that may produce problems of
+              representativeness of the development population (finding No.8 IMI40, obligation
+              No.5)4;
+4 IMI40 2015, Obligation No.5
+Finding No.8: The Supervised Entities use an approach aimed at classifying the forborne exposures through an ex-post rule in the calibration
+phase. This approach determines the exclusion of a significant share of counterparties for whom the observation period is not over yet. In order
+to offset this data exclusion, the Supervised Entities defined an add-on on the PDs. Although the internal validation function expressed a positive
+
+       -      to take into account the change in the internal regulatory framework of the GMPS: in
+              the first half of 2015 the internal regulatory document "1030D01991 GMPS Policy on
+              classification and credit assessment" was published, which provides for greater
+              severity in the detection of the default and in the classification of exposures forborne.
+              It follows therefore that the follow-up of the position in moratorium takes place
+              through the classification of the same in the forborne category;
+       -      to take into account the greater riskiness of the current and future positions in
+              forborne through the introduction of an explicit MOC, as required by the regulation.
+The new approach is based on the new forborne credit classification process, implemented in
+November 2015, which allows a more accurate classification of counterparties with
+forbearance, and on the assignment of a rating aligned with the higher risk observed on
+forborne portfolio. Hereafter the steps carried out with the new methodology:
+       -      detection of default observed on forborne portfolio since 2015;
+       -      introduction of a MOC to be applied to counterparties classified as forborne through a
+              definition of PD floor determined on the basis of the default rates observed on
+              forborne portfolio;
+       -      the PD pre MOC for forborne counterparties is compared with the PD floor; the PD post
+              MOC has to be equal to the maximum between PD pre MOC and PD floor.
+The new approach significantly improves the accuracy of the PD assigned to the forborne
+counterparties and resolves the criticality of the representativeness of the calibration
+population as detected in the IMI40 obligation No.5.
+The model change was assessed as "non-material", according with art. 2 h) of Annex 1, Part 1,
+Section 2 ("Changes requiring prior notification to competent authorities") of Delegated
+Regulation (EU) No.529/2014: " changes in the methodology for estimating PDs". The MOC
+forborne led to RWA increase of 920 Eur/millions in terms of RWA. Consequently, the
+verification of the quantitative criteria confirmed the non-material classification of the
+intervention, as the model change led to a further increase in capital requirements.
+  Data as of 30/06/2018                           as is                                         model change 2: MOC forborne
+ AIRB portofolio                                          CET1                              RWA change RWA change quantitative CET1
+                         EAD      EL     RWA     RWA %           TC ratio   EL      RWA                                                     TC ratio
+ (Eur/million)                                            ratio                              absolute     relative     threshold     ratio
+ model change perimeter  82100     9160   29323     95%                     9268     30243          920      +3,14%         -15,00%
+ no model change          2176      230     1542      5%                     230      1542
+ Total IRB               84276     9390   30865    100% 13,03% 14,38%       9498     31785          920      +2,98%          -1,50% 12,84% 14,19%
+The assessment of the two model changes was verified by the Internal Validation function and
+subsequently formalized and approved by Comitato Gestione Rischi on 31/08/2018. The
+documentation approved by the Committee is attached to this notification letter.
+opinion on this calibration process, a challenger model was not put in place by the internal control function to confirm the accuracy of the add-
+on. According to the understanding of ECB, the Supervised Entities do not fulfil the legal requirements set out for this finding since the data used
+to calibrate the model is not fully representative of the actual exposures of the institution. This understanding is reflected in Article 40 (2) of
+EBA/RTS/2016/03
+Obligation: The Supervised Entities shall strengthen the internal validation analysis supporting the appropriateness of the PD add-on set for
+taking into account the exclusion of a significant share of counterparties for whom the forborne observation period was not over yet from the
+calibration sample. The additional analysis shall be aimed at verifying soundness and robustness of the add-on with specific reference to data
+representativeness and consistency.
+
+Hereafter the overall impact of the two material changes are reported.
+ Data as of 30/06/2018                              as is                                               model change 1 and 2
+AIRB portofolio                                              CET1                              RWA change RWA change quantitative       CET1
+                        EAD       EL      RWA     RWA %              TC ratio    EL     RWA                                                   TC ratio
+(Eur/million)                                                ratio                               absolute     relative     threshold    ratio
+model change perimeter  82100      9160    29323      95%                         9513   32193         2870       +9,79%       -15,00%
+no model change          2176       230     1542        5%                         230    1542
+Total IRB               84276      9390    30865     100% 13,03% 14,38%           9743   33735         2870        +9,3%        -1,50% 12,47% 13,79%
+Finally, it is noted that:
+      - as regard LGS model, an intervention on the internal methodology for the indirect cost
+             allocation was carried out in order to assign indirect costs to all files of RDS. The
+             current methodology envisages an allocation of indirect costs based on residual debt of
+             the customers; the new approach has introduced a replacement value in case of zero
+             residual debt which is equal to the product between EAS exposure of the file and
+             average indirect cost percentage, calculated on the files with residual different from
+             zero.
+             The new methodology resolves the IMI 40 finding No. 12, Obligation No.95.
+      - as regard LGD data quality documentation, a detail note of the process followed to
+             control the accuracy and completeness of LGD Reference Data Set was included in the
+             LGD methodological documentation, resolving the TRIMI finding No. 176.
+After two months from the date of this notification, and unless you communicate otherwise,
+GMPS will proceed with the implementation of the solution described.
+For any further clarification regarding the solution submitted herein, please refer to:
+Lorenzo Boetti – Lending Risk Officer
+Giancosimo Petraglia – Credit Risk models Unit
+Stefano Moni – Risk System Validation Unit
+Yours sincerely,
+                                                                                                   Gruppo Monte dei Paschi di Siena
+                                                                                                                             Chief Risk Officer
+5 IMI40 2015, Obligation No.9
+Finding No.12: The indirect cost allocation mechanism assigns zero costs to approximately 15% of files in the Reference Data Set (RDS) for the
+LGD of the Supervised Entities. Such effect is due to the fact that the cost allocation is based on the residual debt of customers.
+Obligation No.9: The Supervised Entities shall allocate indirect costs to all files included in the RDS for the LGD estimation.
+6 TRIMI 2017 Finding No.17: “Procedures for dealing with erroneous data are not appropriately documented ”
+
+Contact details      Title                Mail                                Address
+                                                                              Viale Mazzini, 23
+Leonardo Bellucci    Chief Risk Officer   leonardo.bellucci@ssm-tls.mps.it
+                                                                              53100 Siena (SI)
+                     Head of Lending Risk                                     Viale Mazzini, 23
+Lorenzo Boetti                            lorenzo.boetti@ssm-tls.mps.it
+                     Officer                                                  53100 Siena (SI)
+                     Head of Credit Risk                                      Viale Mazzini, 23
+Giancosimo Petraglia                      giancosimo.petraglia@ssm-tls.mps.it
+                     Models                                                   53100 Siena (SI)
+Stefano Moni         Head of Risk System   stefano.moni@ssm-tls.mps.it        Viale Mazzini, 23
+                     Validation Unit                                          53100 Siena (SI)
+

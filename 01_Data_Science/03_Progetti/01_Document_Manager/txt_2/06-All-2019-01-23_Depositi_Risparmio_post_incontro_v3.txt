@@ -1,0 +1,134 @@
+     Data Governance
+     Analisi Depositi a Risparmio
+Nota metodologica allegata al verbale
+   «incontro GDL del 23/01/2019»
+       Siena, 29/01/2019
+
+Obiettivi del documento
+            Il documento illustra una prima serie di interventi di Data Quality sui Depositi a Risparmio
+            proposte dal Servizio Data Governance e Reporting Management
+            Le iniziative sono orientate prioritariamente:
+            •   Al miglioramento della qualità degli archivi informatici
+            •   Alla riduzione dei rapporti non conformi KYC
+            •   Alla riduzione del numero di clienti «attivi» con margini non remunerativi
+            Obiettivo dell’incontro è quello di valutare le iniziative proposte e prendere delle decisioni in
+            merito ad esse, come da indicazioni del Comitato Gestione Rischi – Sessione Rischi Operativi
+                                                                                                              2
+
+Principali assunzioni di modello
+       •   I libretti sono stati suddivisi per categoria (nominativi/portatore), evidenziando quelli categorizzati come anomalie
+           d’impianto sui quali l’unica operazione possibile è l’estinzione nei sistemi.
+       •   I libretti nominativi/portatore sono stati suddivisi per cluster di saldo, al fine di valutare la possibile applicazione della
+           normativa sui rapporti dormienti.
+       •   Per ogni cluster è stato calcolato il saldo medio, anche al fine di valutare la capienza rispetto al recupero di spese e
+           competenze in seguito all’estinzione d’iniziativa (circa € 8-10 annui).
+       •   Le proposte avanzate riguardano i depositi non movimentati su iniziativa della clientela da più di 10 anni.
+       •   L’assenza di movimentazione è stata desunta da:
+                  <U+27A2> presenza dello stato di fermo sui sistemi (la procedura «fermi» non è attiva dal 2004);
+                  <U+27A2> presenza negli archivi di una movimentazione riconducibile ad un’iniziativa cliente anteriore a 10 anni;
+                  <U+27A2> ultima scrittura sul libretto in Lire (quindi non movimentato almeno da post 2001);
+       •   È stata indagata la presenza del blocco KYC come fattore discriminante sulla possibilità di reperire il cliente.
+       •   Per i libretti nominativi con saldo < €100 viene anche fornita l’evidenza della distribuzione per tipologia di NGR
+                                                                                                                                          3
+
+Depositi a Risparmio: situazione attuale e interventi proposti
+                                               Situazione attuale (dati al 25/01/2019)
+                                   Saldo <=100€                          Saldo > 100€                                Totale                         Interventi su:
+DEPOSITI A
+RISPARMIO               Numero       Saldo (€)   S. Medio (€) Numero        Saldo       S. Medio (€)   Numero       Saldo (€)   S. Medio (€)      1<U+25AA> Anomalie da impianto
+Anomalie da Impianto        20.138      416.706         20,69     2.296      1.858.422        809,42       22.434     2.275.128       101,41        <U+25AA> Depositi al Portatore non
+                                                                                                                                                  2a
+                                                                                                                                                       movimentati con saldo <= 100€
+Nominativi                 444.745     6.686.419        15,03   139.575 1.123.862.477       8.052,03      584.320 1.130.548.897     1.934,81
+                                                                                                                                                  2b
+                                                                                                                                                    <U+25AA> Depositi       Nominativi       non
+Portatore                  795.762    12.714.167        15,98    54.410     32.024.113        588,57      850.172    44.738.281        52,62
+                                                                                                                                                       movimentati con saldo <= 100€
+TOTALE                   1.260.645    19.817.293        15,72   196.281 1.157.745.013       5.898,41    1.456.926 1.177.562.306       808,25
+                                       Perimetro Interventi proposti (dati al 25/01/2019)
+                                   Saldo <=100€                          Saldo > 100€                                Totale
+DEPOSITI A                                                                                                                                   Impatto intervento   Impatto intervento
+RISPARMIO               Numero       Saldo (€)   S. Medio (€) Numero         Saldo      S. Medio (€)   Numero         Saldo     S. Medio (€)  rispetto Numero        rispetto Saldo
+Anomalie da Impianto 1      20.138       416.706        20,69     2.296      1.858.422        809,42       22.434     2.275.128       101,41        100%                 100 %
+Nominativi           2b    174.968     2.522.974        14,42          -              -              -    174.968     2.522.974        14,42         30%                 0,2 %
+Portatore            2a    792.679    12.656.827        15,97          -              -              -    792.679    12.656.827        15,97         93%                  28 %
+TOTALE                     987.785    15.596.508        15,79     2.296      1.858.422        809,42      990.081    17.454.930        17,63         68%                   1%
+                                                                                                                                              Sensibile incremento della «qualità dei
+                                                                                                                                              dati», con impatto minimale del 1% sui
+                                                                                                                                                         saldi complessivi
+                                                                                                                                                                                       4
+
+            Anomalie da Impianto
+  1
+ Trattasi di libretti creati negli archivi in seguito ad operazioni di incorporazione con la sola finalità tecnica di gestire gli scarti nelle
+ operazioni di migrazione di rapporti da sistema incorporato a sistema incorporante. Su tali libretti non è possibile individuare ed
+ eventualmente ricostruire i presupposti di un diritto di credito da parte di un portatore/intestatario. Concettualmente sono riconducibili ad
+ un partitario.
+DEPOSITI A
+                         0,01       0,01 <S<= 5   5 <S<= 10    10 <S<= 50   50 <S<= 100   100 <S<= 258,23  S > 258,23         Totale       Saldo Medio (€)
+RISPARMIO
+Saldo (€)                     0,80       8.904,32    34.445,79   220.974,09    152.381,17       223.828,37 1.634.593,95       2.275.128,49         101,41
+di cui saldo in Lire (€)      0,39       7.702,26    32.296,96   213.720,64    146.982,32       220.104,47 1.581.119,64 2.201.926,68 (97%)         104,12
+Numero                         80           3.439        4.647        9.793         2.179            1.450          846             22.434
+ di cui blocco KYC (#)           0              0            0            0             0                0            0             0 (0%)
+                                                                Decisione del GDL
+ • Estinzione/chiusura rapporti di iniziativa della Banca gestita in accentrato;
+ • Saldi Residui da incamerare a sopravvenienze attive.
+                                                                                                                                                           5
+
+   2a      Depositi al Portatore non movimentati con saldo <= 100 €
+              DEPOSITI A RISPARMIO                       0,01             0,01 <S<= 5           5 <S<= 10             10 <S<= 50           50 <S<= 100        Totale       Saldo Medio (€)
+                      Saldo (€)                                    115             550.955           1.053.999               6.031.949          5.019.809      12.656.827          15,97
+                         di cui saldo in Lire (€)                   38             337.716              651.387              3.722.106          2.967.245 7.678.493 (61%)          15,38
+      Portatore
+                      Numero                                   11.484              300.185              150.196                258.087             72.727          792.679
+                          di cui blocco KYC (#)                 4.422              101.827               40.511                 65.303             18.720   230.783 (29%)
+  Decisione del GDL**                                                                                     Prossimi Passi
+•  Estinzione/chiusura rapporti di iniziativa della Banca gestita in accentrato                    • Definizione modalità di contabilizzazione delle sopravvenienze
+•  Saldi Residui da incamerare a sopravvenienze attive
+•  Restituzione eventuale del saldo post estinzione a portatore avente titolo
+•  Comunicazione alla Rete con modalità analoghe ai Dormienti (#rapporto e
+   saldo)
+                                                  ** Le decisioni sono soggette ad un approfondimento finale da parte della Funzione Legale
+                                                                                                                                                                                           6
+
+  2b         Depositi Nominativi non movimentati con saldo <= 100 €
+     DEPOSITI A RISPARMIO                       0,01           0,01 <S<= 5          5 <S<= 10             10 <S<= 50              50 <S<= 100      Totale       Saldo Medio (€)
+     Saldo (€)                                           80           141.204               226.375             1.209.214                  946.102   2.522.974              14,42
+                                                         12           103.014               190.752             1.005.582                  788.773   2.088.133              15,26
+                    di cui Saldo in Lire (€;%)
+                                                       15%               73%                    84%                    83%                    83%          83%
+                               Privati                   79           138.963               223.330             1.185.162                  919.776    2.467.310             14,34
+       Distribuzione per                               99%               98%                    99%                    98%                    97%          98%
+        tipologia NGR          Aziende                     1            2.241                 3.044                 24.052                  26.326       55.664             18,95
+                                                        1%                 2%                    1%                      2%                    3%           2%
+     Numero (#)                                       7.958            68.538                32.822                 51.887                  13.763      174.968
+                                                      5.329            42.501                22.480                 36.277                   9.425     116.012   <U+25AA> Privati:      sono       stati
+                     di cui blocco KYC (#;%)                                                                                                                       ricondotti tutti gli ngr con
+                                                       67%               62%                    68%                    70%                    68%          66%     tipologia SPF, COI e DIN
+                               Privati                7.898            67.449                32.396                 50.886                  13.401      172.030
+                                                                                                                                                                 <U+25AA> Aziende:       sono      stati
+       Distribuzione per                               99%               98%                    99%                    98%                    97%          98%     ricondotti tutti gli ngr con
+                                                                                                                                                                   tipologia diversa da SPF,
+        tipologia NGR          Aziende                   60             1.089                    426                  1.001                    362        2.938    COI e DIN
+                                                        1%                 2%                    1%                      2%                    3%           2%
+ Decisione del GDL**                                                                                     Prossimi Passi
+• Estinzione/chiusura rapporti di iniziativa della Banca gestita in accentrato                     • Individuazione libretti aperti post inserimento nei contratti della clausola di
+• Invio comunicazione recesso solo per i libretti aperti post inserimento                              recesso tramite forma scritta
+  clausola di recesso nei contratti (dal MM/AAAA);                                                 • Definizione modalità di comunicazione di recesso (escluso mezzo
+                                                                                                       raccomandata a/r)
+• Saldi Residui potenzialmente incamerabili a sopravvenienze attive se riferiti
+                                                                                                   • Definizione modalità di comunicazione dell’iniziativa alla Rete
+  ai libretti per i quali non viene inviata comunicazione al cliente;
+                                                                                                   • Definizione modalità di contabilizzazione delle sopravvenienze
+• Restituzione eventuale del saldo post estinzione a intestatario legittimo.
+                                                 ** Le decisioni sono soggette ad un approfondimento finale da parte della Funzione Legale
+                                                                                                                                                                                                  7
+
+Ulteriori interventi di data quality che verranno messi a terra nella fasi successive
+              <U+F071>    Riattivazione della Procedura Fermi
+              <U+F071>    Data Enrichment sulle date di accensione missing, attraverso un algoritmo di
+                   confronto con altre date disponibili nei sistemi (es.: data ultimo movimento)
+              <U+F071>    Analisi delle casistiche «anomale» residue dei Depositi a Risparmio
+                                                                                                 8
+

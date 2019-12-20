@@ -1,0 +1,114 @@
+     Approfondimenti su
+delta PD-TD clientela Aziende
+    osservato a fine 2017
+                   Direzione Chief Risk Officer
+                     Area Lending Risk Officer
+                                 Marzo, 2018
+
+Executive Summary
+<U+F071> Nel CGR del 12 febbraio 2018 era stato messo in evidenza il disallineamento osservato nel corso del 2017 sulla clientela Corporate Airb (riferimento slide allegato A) fra la
+  Probabilità di Default e il Tasso di Default osservato sia sulle classi di rating B3, C1, C3 (sottostima della rischiosità), sia sulle classi di rating A3 e B1 (sovrastima della
+  rischiosità),
+<U+F071> L’apertura dell’analisi per Direzione, evidenzia come il disallineamento sia osservabile quasi interamente sulla sola Direzione Corporate. Sulla Direzione Retail infatti il
+  disallineameno è limitato e la monotonia sempre rispettata.
+<U+F071> Sulla Direzione Corporate il delta è riconducibile ad un numero limitato di controparti, con affidamenti importanti, che sono state prevalentemente oggetto di classificazione
+  in default nel 4q del 2017; in particolare si fa riferimento:
+       • per la classe di rating B3 alla SOCIETA’ ITALIANA PER CONDOTTE D’ACQUA S.P.A. e alla controparte PASTA ZARA S.P.A che spiegano da sole più del 60% del flusso di
+          default del 2017
+       • per la classe di rating C1 alla GRANDI LAVORI FINCOSIT S.P.A., al CONSORZIO AGRARIO DEL NORDEST SOCIETA’ COOPERATIVA e alla MICOPERI S.P.A., che spiegano
+          da sole più del 50% del flusso di default del 2017
+       • per la classe di rating C3 alla AUTOSTRADA PEDEMONTANA LOMBARDA, alla I.F.I.T. S.R.L. e alla LA.G.A. COSTRUZIONI S.R.L. che spiegano da sole più del 50% del
+          flusso di default del 2017
+<U+F071> Sulla base di quanto sopra riportato, osservato che il disallineamento è dovuto ad un numero limitato di controparti, si ritiene al momento non presente un tema di non
+  corretta misurazione del rischio effettuato tramite i modelli di rating, il cui funzionamento sarà comunque oggetto di fine tuning nel corso del 2018 (prevista ricalibrazione dei
+  modelli nel 2q del 2018).
+                                                                                                                                                                                     2
+
+AIRB Corporate Performing Portfolio – (credit and counterpart)
+                     CORPORATE                       DIR.CORPORATE                           DIR.RETAIL                           ALTRO
+       RATING      EAD      PD     TD     RATING      EAD      PD     TD     RATING      EAD         PD    TD      RATING      EAD      PD     TD
+         AA1            69  0,03%  0,00%     AA1           60  0,03%  0,00%     AA1            8     0,03%  0,00%     AA1          0    0,03%  0,00%
+         AA2           194  0,05%  0,00%     AA2          174  0,05%  0,00%     AA2           20     0,05%  0,00%     AA2          0    0,05%  0,00%
+         AA3           584  0,09%  0,00%     AA3          530  0,09%  0,00%     AA3           54     0,09%  0,00%     AA3          1    0,09%  0,00%
+          A1           755  0,13%  0,09%     A1           661  0,13%  0,10%     A1            94     0,13%  0,00%     A1           0    0,13%  0,00%
+          A2         1.296  0,20%  0,11%     A2         1.092  0,20%  0,11%     A2           203     0,20%  0,13%     A2           1    0,20%  0,00%
+          A3         2.472  0,30%  0,02%     A3         2.039  0,30%  0,00%     A3           426     0,30%  0,14%     A3           7    0,30%  0,00%
+          B1         2.865  0,46%  0,22%     B1         2.206  0,46%  0,16%     B1           652     0,46%  0,41%     B1           7    0,46%  0,00%
+          B2         4.303  0,69%  0,88%     B2         3.336  0,69%  1,00%     B2           957     0,69%  0,46%     B2           9    0,69%  0,00%
+          B3         5.211  1,05%  2,65%     B3         3.699  1,05%  3,40%     B3         1.481     1,05%  0,85%     B3          30    1,05%  0,00%
+          C1         5.265  1,59%  2,63%     C1         3.439  1,59%  3,57%     C1         1.768     1,59%  0,88%     C1          58    1,59%  0,03%
+          C2         4.493  2,42%  2,45%     C2         2.615  2,42%  2,91%     C2         1.849     2,42%  1,84%     C2          28    2,42%  0,00%
+          C3         4.367  3,99%  6,59%     C3         2.653  3,99%  8,70%     C3         1.703     3,99%  3,26%     C3          12    3,99% 11,95%
+          D1         3.107  6,31%  7,87%     D1         2.067  6,31%  8,62%     D1         1.027     6,31%  6,47%     D1          14    6,31%  0,00%
+          D2         1.634  9,95% 12,13%     D2         1.025  9,95% 12,15%     D2           600     9,95% 12,24%     D2           8    9,95%  0,00%
+          D3         1.177 16,03% 13,91%     D3           732 16,03% 13,12%     D3           423    16,03% 16,00%     D3          22   16,03%  0,09%
+          E1           479 22,12% 35,80%     E1           295 22,12% 43,50%     E1           184    22,12% 23,46%     E1           0   22,12%  0,00%
+          E2           248 31,63% 37,28%     E2           136 31,63% 41,65%     E2           109    31,63% 32,89%     E2           3   31,63%  0,00%
+          E3           196 45,00% 41,53%     E3           100 45,00% 35,07%     E3            96    45,00% 48,28%     E3           0   45,00%  0,00%
+       Average    38.716    3,35%  4,32%    Total    26.860    3,01%  4,52%    Total    11.653       4,10%  3,93%    Total       202    4,32%  0,73%
+      Flusso Default               1.673 Flusso Default               1.213 Flusso Default                    459 Flusso Default                   1
+                                                                                                                                                     3
+
+Direzione Corporate
+        Si riportano di seguito le controparti che contribuiscono maggiormente ad alimentare il gap fra PD ed il TD delle seguenti classi di rating:
+                     • SOCIETA’ ITALIANA PER CONDOTTE D’ACQUA S.P.A. che cuba circa il 43% dell’esposizione complessiva di dicembre 2016 delle controparti andate in
+       B3                default nel 2017
+                     • PASTA ZARA S.P.A. che cuba circa il 19% dell’esposizione complessiva di dicembre 2016 delle controparti andate in default nel 2017
+                     • GRANDI LAVORI FINCOSIT S.P.A. che cuba circa il 26% dell’esposizione complessiva di dicembre 2016 delle controparti andate in default nel 2017
+       C1            • CONSORZIO AGRARIO DEL NORDEST SOCIETA’ COOPERATIVA che cuba circa il 16% dell’esposizione complessiva di dicembre 2016 delle controparti
+                         andate in default nel 2017
+                     • MICOPERI S.P.A. che cuba circa il 15% dell’esposizione complessiva di dicembre 2016 delle controparti andate in default nel 2017
+                     • AUTOSTRADA PEDEMONTANA LOMBARDA che cuba circa il 17% dell’esposizione complessiva di dicembre 2016 delle controparti andate in default nel
+       C3                2017
+                     • I.F.I.T. S.R.L. che cuba circa il 31% dell’esposizione complessiva di dicembre 2016 delle controparti andate in default nel 2017
+                     • LA.G.A. COSTRUZIONI S.R.L. che cuba circa il 4% dell’esposizione complessiva di dicembre 2016 delle controparti andate in default nel 2017
+                                                                                                                                                                      4
+
+Allegato A: AIRB Corporate Performing Portfolio – Migration matrix and Flows (credit and counterpart)
+                                                                                              RATING Dec. 2017
+                    AA1     AA2       AA3      A1      A2        A3     B1      B2      B3      C1      C2      C3      D1      D2      D3      E1     E2       E3     #DF      #NO_RTG    Tot.
+              AA1        40     10         8         2   -            3     1       1       0       0       0       0       0     -         0     -      -        -       -            4        69
+         R    AA2        14     63        58        23      4        10     1       0       1       1       0       0       0         0  -           0   -        -       -           19       194
+         A    AA3        12  190        227         57     17        37    12       2       2       1       0       1       1         0  -           0   -           0    -           23       584
+         T     A1         7     13      120       268    111         91    16      56       7       5       1       0       0         0  -        -      -        -          1        59       755
+         I     A2         2     10        33      181    440       312    115      58      40      12       6       3       2         0     0        0      0        0       1        79     1.296
+         N     A3         0      3        55        78   348       957    402     182     162      66      50      16       3         0     0        1      0        0       1       148     2.472
+         G     B1         0      1        11        29   109       499    963     572     238     148      65      30      19         5     1        0      0        0       6       168     2.865
+               B2      -         0         2        21     99      223    808   1.523     690     363     165      99      30       14      4        0      0        0      38       221     4.303
+         D     B3      -         1         5        15     37      121    353   1.127   1.593     894     341     178      57       44     18        4      0        3    138        283     5.211
+         e     C1         0      0         1         3     16        56   124     270   1.110   1.777     894     311     113     105      29        6     14        1    138        296     5.265
+         c     C2      -         0         2         2      5        20    58     148     384     849   1.499     737     241     131      21       11      6       10    110        258     4.493
+         .     C3         0   -            0         1      1        18    34      68     162     331     824   1.408     539     269      55       25     16        4    288        327     4.367
+               D1      -      -            0         0      6         4    11      56      56     137     264     505   1.074     284    140        33     13        6    245        275     3.107
+         2     D2      -      -            0      -         0         1     5       8      51      25      79     214     344     368    161        56     20       11    198         93     1.634
+         0     D3      -      -         -         -      -            0     5       8       9      16      38      79     112     286    273        59     32       23    164         74     1.177
+         1     E1      -      -         -         -         0         8     0       1       2       3      11      14      26       42     64       72     33        9    171         22       479
+         6     E2      -      -         -         -      -            0     0       0       1       3       4       6      15         7    23       22     40       15      93        20       248
+               E3      -      -         -         -      -         -        0       0       2       0       2       1       5         9     8        7      6       52      82        21       196
+              Tot.       76  292        522       681  1.192     2.359  2.908   4.080   4.510   4.630   4.243   3.604   2.581   1.565    796     297    179      135    1.673      2.391    38.716
+      RATING  PD     TD                                                                                               EAD                                    AVG PD
+        AA1   0,03%  0,00%   • The annualized default                                                    Dec. 2016        Dec. 2017       Dec. 2016        Dec. 2017           D bps
+        AA2   0,05%  0,00%
+        AA3   0,09%  0,00%
+                                   rate       observed        at                           Upgrading          11.627          10.674            3,93%            1,76%                -63
+        A1    0,13%  0,09%         31/12/2017 is higher than                                   Stable         12.637          11.674            2,82%            2,76%                 -2     - 1 bps
+        A2    0,20%  0,11%         the average PD (4,32% vs.                           Downgrading            10.388            9.784           2,01%            4,33%                 64
+        A3    0,30%  0,02%
+                                   3,35%), mainly in the                                Default flow           1.673            1.530          10,96%         100,00%                 -37
+        B1    0,46%  0,22%
+        B2    0,69%  0,88%         rating class from B2 to E2                                     Out          2.391                -           3,74%                                  -6
+        B3    1,05%  2,65%                                                                     Cured              349             303         100,00%           10,95%                   8
+        C1    1,59%  2,63%                                                                New Inputs              -             2.490                            2,47%                 -4
+        C2    2,42%  2,45%
+        C3    3,99%  6,59%                                                          Total Performing          38.716          34.924            3,35%            2,94%                -40
+        D1    6,31%  7,87%
+        D2    9,95% 12,13%                                                    • Average Corporate Portfolio PD down by 40 bps in 2017, mainly due to default flows (that impact for 37 bps on
+        D3   16,03% 13,91%                                                      the overall reduction of the PD), outflows (-6 bps) and new lending (-4 bps). Substantially unchanged the
+        E1   22,12% 35,80%                                                      average PD of the positions remaining in bonis, therefore subject to upgrading or stability or downgrading of the
+        E2   31,63% 37,28%
+        E3   45,00% 41,53%
+                                                                                PD.
+     Average  3,35%  4,32%
+                                                                                                                                                                                                      5
+
+6

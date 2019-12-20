@@ -1,0 +1,525 @@
+Relazione di Convalida 2017
+                               Direzione CRO
+       Servizio Validazione Sistemi di Rischio
+                               Febbraio 2017
+
+Indice
+•  La Funzione di Convalida e la Relazione Annuale
+•  Perimetro e risultati convalida 2017
+•  Convalida Sistema di Misurazione del Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI)
+•  Convalida Sistema di Misurazione dei Rischi Operativi AMA
+•  Convalida Sistema di Misurazione del Rischio di Liquidità
+•  Convalida Sistema di Misurazione del Rischio Tasso di Interesse del Banking Book
+•  Evoluzione GAP di Convalida nel corso del 2017
+•  Allegato 1: Dettaglio posizionamento rispetto ai requisiti regolamentari
+                                                                                                   2
+
+La Funzione di Convalida e la Relazione Annuale
+                                                                                                                                                                                    Validation Plan
+   Consiglio di
+ Amministrazione                                                                                                                                                                          2017
+                                                                                                                                                                                  Relazione Annuale
+    AD / DG                           CRO
+                                                                                                                                                                                Comitato Gestione Rischi
+                                                                   Validazione Sistemi
+                                                                        di Rischio
+                                                                                                                                                                                    Collegio Sindacale
+                Lending             Financial         Operational
+               Risk Officer        Risk Officer       Risk Officer
+                                                                                                                  Circolare 285                                                      Comitato Rischi
+                            per le banche che adottano sistemi interni di misurazione dei rischi per la determinazione dei requisiti patrimoniali, l’organo con                     CdA Capogruppo*
+                            funzione di supervisione strategica “… esamina i riferimenti forniti dalla funzione di convalida e assume, col parere dell’organo                            22 Marzo
+                            con funzione di controllo, formale delibera con la quale attesta il rispetto dei requisiti previsti per l’utilizzo dei sistemi”.
+                                                                                                  * In data 20 e 21 Marzo le Relazioni di Convalida delle Società Controllate che hanno esternalizzato alla
+                                                                                                  Capogruppo le attività operative di convalida (MPS Capital Services Banca per le Imprese Spa e MPS Leasing &
+                                                                                                  Factoring Spa) verranno approvate dai rispettivi CdA.
+                                                                                                                                                                                                            3
+
+Perimetro e risultati Convalida 2017
+ <U+F0A7>  Tenuto conto delle evidenze emerse dalle verifiche svolte, del posizionamento del Gruppo rispetto ai requisiti regolamentari nonché
+    delle aree di miglioramento individuate, la Funzione di Convalida esprime i seguenti pareri:
+     Sistema di Misurazione del Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI)                    Parzialmente favorevole
+     Sistema di Misurazione dei Rischi Operativi (AMA)                                                        In prevalenza favorevole
+     Sistema di Misurazione del Rischio di Liquidità                                                          In prevalenza favorevole
+     Sistema di Misurazione del Rischio di Tasso di Interesse del Banking Book (IRRBB)                        In prevalenza favorevole     FTA
+ <U+F0A7>  L’esito delle analisi di Convalida permette di confermare, in particolare per i rischi a valenza regolamentare (AIRB-SRI ed AMA), il
+    sostanziale rispetto dei requisiti minimi previsti per l’utilizzo dei sistemi interni per la determinazione del requisito patrimoniale, così
+    come riportato in Allegato.
+                                                                                                                                                 4
+
+Convalida Sistema di Misurazione del Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI)
+ <U+F0A7> Il framework utilizzato per l’esecuzione dei controlli di Convalida 2016 sul Sistema di Misurazione del Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI) mira a
+   verificare il posizionamento del Gruppo MPS rispetto ai requisiti normativi di vigilanza (Regolamento UE 575/2013 - CRR, Circolare Bankit 285 e Regulatory Technical
+   Standards dell’EBA).
+ <U+F0A7> Il parere complessivo è PARZIALMENTE FAVOREVOLE tenuto conto delle valutazioni qualitative, del numero di GAP e dei pareri espressi su ciascuno dei tre ambiti di
+   convalida con evidenza degli ambiti di miglioramento indirizzati.
+                                     di assegnazione del Rating e dei giudizi regolamentari ai Finanziamenti
+      Processi                                                                                                                                In prevalenza favorevole
+                                     Specializzati (Specialised Lending)
+              <U+F0D8>    performance dei rating di erogazione (Retail e SB) inferiori a quelle dei rating attribuiti mediante i modelli andamentali;
+              <U+F0D8>    evidenze di backtesting non positive sulle controparti Forborne Under Probation (PD/TD poco superiore al 50%);
+              <U+F0D8>    mancata definizione del processo di ufficializzazione dei giudizi assegnati alle operazioni SL, che verrà indirizzata con la nuova PEF.
+                                     di stima della Probabilità di Default (PD), della Loss Given Default (LGD) e
+      Modelli                                                                                                                                 In prevalenza favorevole
+                                     dell’Exposure at Default (EAD)
+              <U+F0D8>    mancato aggiornamento nel corso del 2017 delle serie storiche utilizzate per la stima dei parametri di PD e LGD in produzione;
+              <U+F0D8>    evidenze di backtesting in peggioramento nell’ultimo trimestre 2017 sui modelli Corporate e Large Corporate con PD/TD che scende sotto l’80%.
+                                     processo di individuazione e risoluzione delle anomalie relative ai dati
+      Dati                                                                                                                                     Parzialmente favorevole
+                                     utilizzati all’interno del Sistema dei Rating
+              <U+F0D8>    impossibile verificare esito dei controlli di data quality sui modelli di PD ed LGD in quanto tuttora in fase di implementazione su IRION DQ;
+              <U+F0D8>    necessità di rivedere ed integrare il contenuto dei controlli di data quality sul Rating, già censiti in IRION DQ;
+              <U+F0D8>    assenza di un cruscotto di validazione della qualità dei dati e dei rating.
+ <U+F0A7> Al 31/12/17 sono attivi 8 GAP di Convalida in ambito AIRB-SRI, tutti censiti nel corso del 2017, nessuno con rilevanza alta e 4 con rilevanza media.
+                                                                                                                                                                             5
+
+Convalida Sistema di Misurazione dei Rischi Operativi AMA
+ <U+F0A7> Il framework utilizzato per l’esecuzione dei controlli di Convalida 2017 sul Sistema di Misurazione dei Rischi Operativi (AMA) mira a verificare il posizionamento del Gruppo MPS
+   rispetto ai requisiti normativi di vigilanza (Regolamento UE 575/2013 – CRR, Circolare Bankit 285 e Regulatory Technical Standards dell’EBA).
+ <U+F0A7> Il parere complessivo è IN PREVALENZA FAVOREVOLE tenuto conto delle valutazioni qualitative, dell’assenza di GAP di Convalida e dei pareri espressi su ciascuno dei tre
+   ambiti di convalida con evidenza degli ambiti di miglioramento indirizzati.
+      Processi                       Loss Data Collection , Risk Self Assessment, Analisi di Scenario, Piano di
+                                                                                                                                             In prevalenza favorevole
+                                     Gestione
+           <U+F0D8>     migliorare la declinazione, nel Manuale di Identificazione, dei criteri per la classificazione delle domande dei questionari di analisi di scenario;
+           <U+F0D8>     estendere il monitoraggio periodico dell’avanzamento del Piano di Gestione per tutti i relativi interventi di mitigazione;
+           <U+F0D8>     garantire un più esaustivo allineamento tra le associazioni processi-rischi in GRC Evolution rispetto alle evidenze ARIS.
+      Modelli                         Modello di Calcolo del Requisito Patrimoniale                                                          In prevalenza favorevole
+           <U+F0D8>     richieste delle analisi volte a monitorare la coerente rappresentazione della struttura della matrice di correlazione e del data set su cui è calcolata;
+           <U+F0D8>     richieste delle analisi, anche di granularità, volte a monitorare la coerente rappresentazione dei fenomeni rientranti nella classe ET7C.
+   Dati                             Qualità dei dati utilizzati all’interno del Sistema di Misurazione dei Rischi
+                                                                                                                                                    Favorevole
+                                    Operativi
+                                                                                                                                                                                     6
+
+Convalida Sistema di Misurazione del Rischio di Liquidità
+ <U+F0A7> Il framework utilizzato per l’esecuzione dei controlli di convalida 2017 sul Sistema di Misurazione del Rischio di Liquidità mira a verificare il posizionamento del Gruppo MPS
+   rispetto ai requisiti normativi di vigilanza (Regolamento UE N. 575/2013 (CRR), Atto Delegato (AD) della Commissione Europea del 10 Aprile 2014 che integra il suddetto
+   Regolamento e Circolare 285/2013 della Banca d’Italia).
+ <U+F0A7> Il parere complessivo è IN PREVALENZA FAVOREVOLE tenuto conto delle valutazioni qualitative, del numero di GAP e dei pareri espressi su ciascuno dei tre ambiti di
+   convalida con evidenza degli ambiti di miglioramento indirizzati.
+                                       revisione della normativa interna, predisposizione della maturity ladder
+      Processi                         strutturale, esecuzione degli stress test gestionali, monitoraggio dell’asset                         In prevalenza favorevole
+                                       encumbrance
+               <U+F0D8>   revisione della documentazione per tenere conto delle modifiche alla struttura organizzativa del Gruppo.
+      Modelli                          Liquidità di breve, medio e lungo termine                                                             In prevalenza favorevole
+               <U+F0D8>   per alcune problematiche residuali la Funzione Controllo del Rischio ha ritenuto non possibile o non conveniente procedere con gli interventi risolutivi;
+               <U+F0D8>   richieste analisi di impatto al fine di indirizzare l’evoluzione dei modelli di rappresentazione dei crediti non performing (Scaduto deteriorato, Inadempienze
+                   probabili) nella liquidità strutturale.
+                                      qualità dei dati utilizzati all’interno del Sistema di Misurazione del Rischio                          Parzialmente favorevole
+     Dati
+                                      Liquidità
+               <U+F0D8>   in corso l’implementazione in IRION DQ di alcuni controlli di Data Quality volti a verificare la qualità/completezza dei dati di input elaborati dalle procedure
+                   EAGLE ed ERMAS.
+ <U+F0A7> Al 31/12 2017 sono attivi 3 GAP di Convalida in ambito Liquidità di cui 2 con rilevanza media e 1 con rilevanza bassa.
+                                                                                                                                                                                    7
+
+Convalida Sistema di Misurazione del Rischio Tasso di Interesse del Banking Book
+ <U+F0A7> Nel 2017 è stata svolta la prima convalida (FTA) del Rischio Tasso di Interesse del Banking Book.
+ <U+F0A7> Il framework utilizzato per l’esecuzione dei controlli di convalida 2017 sul Sistema di Misurazione del Rischio Tasso di Interesse del Banking Book mira a verificare il
+   posizionamento del Gruppo MPS rispetto ai requisiti normativi di vigilanza (Regolamento UE N. 575/2013 (CRR) e Circolare 285/2013 della Banca d’Italia).
+ <U+F0A7> Il parere complessivo è IN PREVALENZA FAVOREVOLE tenuto conto delle valutazioni qualitative, del numero di GAP e dei pareri espressi su ciascuno dei tre ambiti di
+   convalida con evidenza degli ambiti di miglioramento indirizzati.
+                                    revisione della normativa interna e di elaborazione delle metriche gestionali
+      Processi                                                                                                                               In prevalenza favorevole      FTA
+                                    di monitoraggio del Rischio Tasso di Interesse
+              <U+F0D8>  richiesto di aggiornare e completare la regolamentazione interna e predisporre un manuale operativo che espliciti l’iter da seguire per l’elaborazione delle
+                 metriche gestionali.
+                                     design del modello comportamentale delle poste a vista e del
+      Modelli                        prepagamento dei mutui residenziali a tasso fisso, monitoraggio della                                   In prevalenza favorevole      FTA
+                                     sensitivity al Rischio Tasso di Interesse su un campione ridotto
+              <U+F0D8>  incapacità del modello comportamentale di prepagamento dei mutui di distinguere le motivazioni che hanno determinato l’estinzione anticipata;
+              <U+F0D8>  necessità di implementare il modello di estinzione anticipata dei mutui in modo da renderlo sensibile agli shock di tasso prescritti dalla normativa.
+                                   qualità dei dati utilizzati all’interno del Sistema di Misurazione del Rischio di                         Parzialmente favorevole       FTA
+     Dati
+                                   Tasso di Interesse del Banking Book
+              <U+F0D8>  integrare la base dati relativa ai mutui con le informazioni necessarie a cogliere la correlazione tra evento di prepagamento e le variabili macroeconomiche
+                 che possono influenzare la decisione di estinzione anticipata;
+              <U+F0D8>  assenza di un Framework di Data Quality;
+              <U+F0D8>  individuare controlli di Data Quality da migrare prioritariamente nella procedura IRION DQ .
+ <U+F0A7> Al 31 Dicembre 2017 sono attivi 4 GAP di Convalida in ambito Rischio Tasso di Interesse di cui 1 con rilevanza media e 3 con rilevanza bassa.
+                                                                                                                                                                               8
+
+ Evoluzione GAP di Convalida nel corso del 2017
+   <U+F0A7>     Nel corso dell’esercizio è stata posta particolare enfasi nel seguimento dei GAP di Convalida e nell’indirizzo delle soluzioni alle criticità riscontrate;
+   <U+F0A7>     Il numero di GAP attivi è passato dai 33 presenti al 31 Dicembre 2016 ai 15 presenti a fine 2017, peraltro nessuno dei quali con rilevanza alta;
+   <U+F0A7>     In particolare nell’anno sono stati accesi 17 nuovi GAP a fronte della chiusura di complessivi 35 GAP.
+                                                                                              Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI)
+                                                                                                                      Stock al                                      Stock al 31
+                                                                                                   Rilevanza                         Entrati          Chiusi
+                                                                                                                 31 Dicembre 2016                                 Dicembre 2017
+                                                                                              Alta                       3                              3
+                                                                                              Media                      8             4                8               4
+                                                                                              Bassa                     10             4               10               4
+                                                                                              Totale                    21             8               21               8
+Riepilogo complessivo GAP di Convalida
+                         Stock al                                     Stock al 31
+     Rilevanza                          Entrati        Chiusi
+                    31 Dicembre 2016                                Dicembre 2017             Rischio di Liquidità
+Alta                        6             0               6               0                                           Stock al                                      Stock al 31
+                                                                                                   Rilevanza                         Entrati          Chiusi
+                                                                                                                 31 Dicembre 2016                                 Dicembre 2017
+Media                      15             8              16               7
+                                                                                              Alta                       3                              3
+Bassa                      12             9              13               8
+                                                                                              Media                      7             1                6               2
+Totale                     33            17              35               15
+                                                                                              Bassa                      2             2                3               1
+                                                                                              Totale                    12             3               12               3
+                                                                                              Rischio Tasso di Interesse del Banking Book
+                                                                                                                      Stock al                                      Stock al 31
+                                                                                                   Rilevanza                         Entrati          Chiusi
+                                                                                                                 31 Dicembre 2016                                 Dicembre 2017
+                                                                                              Alta
+                                                                                              Media                                    3                2               1
+                                                                                              Bassa                                    3                                3
+                                                                                              Totale                                   6                2               4
+                                                                                                                                                                                9
+
+                  Allegato 1:
+Dettaglio posizionamento rispetto ai requisiti
+                regolamentari
+
+Convalida Sistema di Misurazione del Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI) (1/3)
+ Processi
+                                               Requisito                                 Posizionamento
+  1.1 Aspetti generali
+     1.1.1 Segmentazione                                                            In prevalenza favorevole
+     1.1.2 Documentazione                                                           Parzialmente favorevole
+  1.2 Aspetti specifici del processo di assegnazione del rating
+     1.2.1 Completezza delle informazioni                                           In prevalenza favorevole
+     1.2.2 Replicabilità                                                            In prevalenza favorevole
+     1.2.3 Integrità del processo di assegnazione del rating                               Favorevole
+     1.2.4 Omogeneità                                                               Parzialmente favorevole
+     1.2.5 Univocità dell’attribuzione del rating                                          Favorevole
+     1.2.6 Aggiornamento del rating                                                 In prevalenza favorevole
+     1.2.7 Utilizzo del sistema di rating nella gestione aziendale                  In prevalenza favorevole
+     1.2.8 Funzionamento dei processi di assegnazione                               Parzialmente favorevole
+  1.3 Aspetti specifici del processo di valutazione degli SL
+     1.3.1 Processo di assegnazione delle classi regolamentari
+        1.3.1.1 Classificazione                                                     Parzialmente favorevole
+        1.3.1.2 Utilizzo della classificazione nella gestione aziendale             In prevalenza favorevole
+                                                                                                             11
+
+Convalida Sistema di Misurazione del Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI) (2/3)
+ Modelli
+                                               Requisito                                       Posizionamento
+                                                                 Modelli regolamentari di Produzione    Modelli Istanza 2017 e/o gestionali
+  2.1 Aspetti generali
+     2.1.1 Default                                                                NA                         In prevalenza favorevole
+  2.2 Aspetti specifici dei modelli di calcolo della PD
+     2.2.1 Convalida del design
+        2.2.1.1 Campionamento                                                     NA                         In prevalenza favorevole
+        2.2.1.2 Sviluppo modelli di scoring                                       NA                         In prevalenza favorevole
+        2.2.1.3 Calibrazione e Costruzione scala di rating                        NA                         In prevalenza favorevole
+     2.2.2 Convalida del funzionamento
+        2.2.2.1 Rappresentatività                                      In prevalenza favorevole                         NA
+        2.2.2.2 Performance                                            In prevalenza favorevole                         NA
+        2.2.2.3 Concentrazione                                         Parzialmente favorevole                          NA
+        2.2.2.4 Calibrazione                                           In prevalenza favorevole                         NA
+        2.2.2.5 Benchmarking                                           In prevalenza favorevole                         NA
+        2.2.2.6 Proprietà dinamiche                                    In prevalenza favorevole                         NA
+  2.3 Aspetti specifici dei modelli di calcolo della LGD
+     2.3.1 Convalida del design
+        2.3.1.1 Approccio metodologico                                            NA                         In prevalenza favorevole
+        2.3.1.2 Fonti informative                                                 NA                         In prevalenza favorevole
+        2.3.1.3 Calcolo LGD osservata                                             NA                         In prevalenza favorevole
+        2.3.1.4 Predisposizione griglie                                           NA                         In prevalenza favorevole
+        2.3.1.5 Downturn                                                          NA                         In prevalenza favorevole
+        2.3.1.6 LGD stati di default intermedi                                    NA                         In prevalenza favorevole
+        2.3.1.7 LGD bonis                                                         NA                         In prevalenza favorevole
+        2.3.1.8 ELBE                                                              NA                         In prevalenza favorevole
+        2.3.1.9 Performance in sviluppo                                           NA                         In prevalenza favorevole
+     2.3.2 Convalida del funzionamento
+        2.3.2.1 Rappresentatività                                      In prevalenza favorevole                         NA
+        2.3.2.2 Performance                                            In prevalenza favorevole                         NA
+        2.3.2.3 Accuratezza                                            In prevalenza favorevole                         NA
+        2.3.2.4 Benchmarking                                           In prevalenza favorevole                         NA
+                                                                                                                                            12
+
+Convalida Sistema di Misurazione del Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI) (3/3)
+ Modelli
+                                               Requisito                                         Posizionamento
+                                                                  Modelli regolamentari di Produzione     Modelli Istanza 2017 e/o gestionali
+  2.4 Aspetti specifici dei modelli di calcolo della EAD
+      2.4.1 Convalida del design
+         2.4.1.1 Approccio metodologico                                          NA                            In prevalenza favorevole
+         2.4.1.2 Fonti informative e Predisposizione informazioni                NA                            In prevalenza favorevole
+         2.4.1.3 Calcolo EAD di controparte                                      NA                            In prevalenza favorevole
+         2.4.1.4 Predisposizione griglie                                         NA                            In prevalenza favorevole
+         2.4.1.5 Downturn                                                        NA                            In prevalenza favorevole
+         2.4.1.6 Performance in sviluppo                                         NA                            Parzialmente favorevole
+      2.4.2 Convalida del funzionamento
+         2.4.2.1 Rappresentatività                                               NA                            Parzialmente favorevole
+         2.4.2.2 Performance                                                     NA                            Parzialmente favorevole
+         2.4.2.3 Accuratezza                                                     NA                            Parzialmente favorevole
+ Dati
+                                               Requisito                                         Posizionamento
+  3.1 Convalida del design
+      3.1.1 Framework di data quality                                                       Parzialmente favorevole
+      3.1.2 Processo di risoluzione delle anomalie                                          Parzialmente favorevole
+  3.2 Convalida del funzionamento
+      3.2.1 Framework di data quality                                                       In prevalenza favorevole
+      3.2.2 Processo di risoluzione delle anomalie                                               Non favorevole
+                                                                                                                                              13
+
+Convalida Sistema di Misurazione dei Rischi Operativi AMA
+ Processi
+                                             Requisito             Posizionamento
+     1.1 Aspetti generali
+       1.1.1 Documentazione                                           Favorevole
+     1.2 Aspetti specifici
+       1.2.1 Replicabilità                                     In prevalenza favorevole
+       1.2.2 Esaustività                                       In prevalenza favorevole
+       1.2.3 Reporting e utilizzo gestionale                   In prevalenza favorevole
+  Modelli
+                                             Requisito             Posizionamento
+     2.1 Aspetti generali
+       2.1.1 Documentazione                                           Favorevole
+       2.1.2 Infrastruttura                                    In prevalenza favorevole
+       2.1.3 Reporting                                                Favorevole
+     2.2 Aspetti specifici
+       2.2.1 Completezza dei dati di input                     In prevalenza favorevole
+       2.2.2 Metodologia di stima                                     Favorevole
+       2.2.3 Replicabilità                                     In prevalenza favorevole
+       2.2.4 Performance                                       In prevalenza favorevole
+Dati
+                                             Requisito             Posizionamento
+     3.1 Aspetti generali
+       3.1.1 Documentazione e design dei controlli                    Favorevole
+     3.2 Aspetti specifici
+       3.2.1 Completezza, Accuratezza, Tempestività e coerenza        Favorevole
+                                                                                        14
+
+Convalida Sistema di Misurazione del Rischio Liquidità (1/2)
+ Processi
+                                         Requisito               Posizionamento
+     1.1 Aspetti generali
+       1.1.1 Normativa                                       In prevalenza favorevole
+     1.2 Aspetti specifici
+       1.2.1 Esaustività                                     In prevalenza favorevole
+       1.2.2 Replicabilità                                   In prevalenza favorevole
+       1.2.3 Adeguatezza Del Sistema Di Reporting/Use Test          Favorevole
+       1.2.4 Compliance normativa                                   Favorevole
+  Modelli
+                                         Requisito               Posizionamento
+     2.1 Aspetti generali
+       2.1.1 Documentazione                                  In prevalenza favorevole
+       2.1.2 Infrastruttura                                  In prevalenza favorevole
+       2.1.3 Caratteristiche dei dati                        In prevalenza favorevole
+     2.2 Aspetti specifici
+       2.2.1 Metodologia di stima                            In prevalenza favorevole
+       2.2.2 Performance                                     In prevalenza favorevole
+       2.2.3 Replicabilità                                   In prevalenza favorevole
+                                                                                      15
+
+Convalida Sistema di Misurazione del Rischio Liquidità (2/2)
+ Dati
+                                              Requisito           Posizionamento
+      3.1 Aspetti generali
+        3.1.1 Completezza informazioni                       In prevalenza favorevole
+      3.2 Aspetti specifici
+        3.2.1 Accuratezza                                    In prevalenza favorevole
+        3.2.2 Tempestività                                   In prevalenza favorevole
+        3.2.3 Design Governo qualità dei dati                Parzialmente Favorevole
+        3.2.4 Coerenza                                       Parzialmente Favorevole
+        3.2.5 Sicurezza dei Dati                             Parzialmente Favorevole
+                                                                                      16
+
+Convalida Sistema di Misurazione del Rischio Tasso di Interesse del Banking Book (1/2)
+ Processi
+                                         Requisito                                     Posizionamento
+     1.1 Aspetti generali
+       1.1.1 Normativa                                                             In prevalenza favorevole
+     1.2 Aspetti specifici
+       1.2.1 Esaustività                                                           In prevalenza favorevole
+       1.2.2 Replicabilità                                                         In prevalenza favorevole
+       1.2.3 Adeguatezza Del Sistema Di Reporting/Use Test                                Favorevole
+       1.2.4 Compliance normativa                                                         Favorevole
+  Modelli
+                                         Requisito                                     Posizionamento
+     2.1 Aspetti generali
+       2.1.1 Documentazione                                                        In prevalenza favorevole
+       2.1.2 Infrastruttura                                                        In prevalenza favorevole
+       2.1.3 Caratteristiche dei dati                                              In prevalenza favorevole
+     2.2 Aspetti specifici
+       2.2.1 Metodologia di stima                                                  In prevalenza favorevole
+       2.2.2 Performance                                                           Parzialmente favorevole
+       2.2.3 Replicabilità                                                         In prevalenza favorevole
+                                                                                                            17
+
+Convalida Sistema di Misurazione del Rischio Tasso di Interesse del Banking Book (2/2)
+ Dati
+                                              Requisito                                 Posizionamento
+      3.1 Aspetti generali
+        3.1.1 Completezza informazioni                                             In prevalenza favorevole
+      3.2 Aspetti specifici
+        3.2.1 Accuratezza                                                          In prevalenza favorevole
+        3.2.2 Tempestività                                                         In prevalenza favorevole
+        3.2.3 Design Governo qualità dei dati                                           Non Favorevole
+        3.2.4 Coerenza                                                             In prevalenza favorevole
+        3.2.5 Sicurezza dei Dati                                                   Parzialmente Favorevole
+                                                                                                            18
+
+              Allegato 2:
+Dettaglio GAP di Convalida al 31/12/2017
+
+Gap di Convalida al 31/12/2017 (1/3)
+                                                                                                                                                                                                               Data
+                                 Funzione resp.                                                                                                                                                                          %SAL al   Data prevista
+ Rischio    Codice     Rilevanza                                             Descrizione                                                               Soluzione proposta                                   validazione
+                                   mitigazione                                                                                                                                                                          31/12/2017  mitigazione
+                                                                                                                                                                                                               GAP
+                                                 Solo circa il 3% delle controparti, pari a meno del 15% delle
+                                                                                                                      È richiesto un piano di popolamento dei rating al fine di raggiungere elevati
+                                                 esposizioni rientranti nel portafoglio Banche è coperta da rating e
+                                                                                                                      livelli di copertura, quantomeno in termini di esposizioni. Per supportare tale
+ Credito CV_2017_00005 Media     Servizio Rating questo trend non consente il rispetto del piano di roll out                                                                                                21/09/2017     50%      30/04/2018
+                                                                                                                      fase è, inoltre, opportuno definire le linee guida per la compilazione del
+                                                 approvato dal CdA per quanto concerne l'estensione del segmento
+                                                                                                                      questionario e l'applicazione dei livelli di override.
+                                                 Banche.
+                                                                                                                      Garantire la corretta storicizzazione delle informazioni, in particolare di quelle
+                                                 Parte delle informazioni relative al processo di assegnazione del                                                                                          21/09/2017              30/04/2018
+                                                                                                                      relative agli step di override e alle informazioni su cui essi si basano, nell'ambito
+ Credito CV_2017_00006 Media     Servizio Rating rating          Banche          non         sono        storicizzate                                                                                                      15%
+                                                                                                                                                               delle                                                               (prefattibilità)
+                                                 nell'ambito delle tabelle di produzione.
+                                                                                                                      tabelle di produzione.
+                                                 La valutazione del rischio delle controparti SDC con bilancio non    Concludere la ristima dei modelli di PD prestando particolare attenzione ai
+                                                 aggiornato non viene al momento effettuata in maniera accurata       seguenti temi: Definizione dl nuovo modello SDC senza bilancio da applicare
+                                 Servizio Credit in quanto esse escono dal perimetro AIRB.I modelli di prima          anche alle controparti che presentano bilancio non aggiornato. Estendere il                                   30/06/2018
+ Credito CV_2017_00007 Bassa                                                                                                                                                                                27/09/2017     10%
+                                 Risk Models     erogazione SB vengono applicati alle controparti fino a 2,5 €mln     perimetro di applicazione dei modelli di prima erogazione SB fino a 10€mln di                                (prefattibilità)
+                                                 di fatturato e non fino a 10 €mln (soglia di applicazione del rating fatturato. Il GAP ricomprende le attività residuali dei seguenti GAP:
+                                                 statistico).                                                         CV_2015_00021, CV_2015_00022
+                                                 Allo stato attuale non sono previsti controlli di data quality sui   Nell'ambito della revisione del framework dei controlli in essere introdurre
+ Credito CV_2017_00011 Bassa     Servizio Rating                                                                                                                                                            11/12/2017      0%      30/06/2018
+                                                 rating assegnati che presidiano il requisito della Tempestività      controlli a presidio del requisito della Tempestività
+                                                                                                                      Aggiornare il documento normativo D1849, tra l'altro, con riferimento alle
+                                                 Il documento normativo D1849 non risulta aggiornato con              responsabilità del monitoraggio del processo di risoluzione delle anomalie di
+ Credito CV_2017_00012 Bassa     Servizio Rating                                                                                                                                                            11/12/2017      0%      30/06/2018
+                                                 riferimento alle modifiche introdotte nel corso del 2017             data quality sul SRI e con la descrizione delle attività operative che devono
+                                                                                                                      essere eseguite
+                                                                                                                      Formalizzare le specifiche tecniche e predisporre il cruscotto finale di
+                                                                                                                      validazione della qualità del rating richiesto dal documento normativo
+                                                 Assenza del cruscotto finale di validazione della qualità del rating
+                                                                                                                      D1849. Definire i requisiti per la produzione della reportistica mensile di primo
+ Credito CV_2017_00013 Media     Servizio Rating e della reportistica di primo livello sul monitoraggio del processo                                                                                        22/12/2017      0%      30/09/2018
+                                                                                                                      livello di monitoraggio delle segnalazioni di anomalia certa e di riepilogo degli
+                                                 di risoluzione delle anomalie
+                                                                                                                      interventi attuati, funzionale alla validazione del processo di risoluzione delle
+                                                                                                                      anomalie.
+                                                                                                                      Predisporre controlli di data quality specifici sui dati inseriti nel questionario
+                                                                                                                      qualitativo applicato alle aziende con fatturato superiore a 500 €mln. Rivedere il
+                                                 I controlli di data quality attualmente previsti non coprono in      contenuto dei controlli di data quality previsti modificando quelli esistenti e                               30/09/2018
+ Credito CV_2017_00014 Media     Servizio Rating                                                                                                                                                            22/12/2017      0%
+                                                 maniera adeguata l'intero processo di attribuzione del rating.       integrandoli con nuovi controlli nell'ottica di quanto previsto dal D1849 in                                 (prefattibilità)
+                                                                                                                      termini di validazione delle elaborazioni automatiche, validazione della qualità
+                                                                                                                      del rating finale e del processo di risoluzione delle anomalie
+                                                                                                                                                                                                                                                    20
+
+Gap di Convalida al 31/12/2017 (2/3)
+                                                                                                                                                                                                               Data
+                                   Funzione resp.                                                                                                                                                                        %SAL al   Data prevista
+  Rischio      Codice    Rilevanza                                             Descrizione                                                             Soluzione proposta                                   validazione
+                                    mitigazione                                                                                                                                                                         31/12/2017  mitigazione
+                                                                                                                                                                                                               GAP
+                                                   Carenze nel processo di manutenzione dei controlli di data           Definire e formalizzare il processo di manutenzione dei controlli di data quality                           30/09/2018
+ Credito   CV_2017_00015 Bassa     Servizio Rating                                                                                                                                                          22/12/2017      0%
+                                                   quality SRI                                                          con cui tracciare le modifiche effettuate e le motivazioni che le hanno originate.                         (prefattibilità)
+                                                                                                                        Attivare controlli di Data Quality sui dati in input ad ERMAS rispetto alle
+                                                                                                                        evidenze nelle procedure legacy e/o SISBA. I controlli prioritari riguardano:
+                                                                                                                        1. Corrispondenza del controvalore nominale di CC, depositi a tempo e mutui;
+                                                                                                                        2. Intestazione rapporti cointestati, specie laddove la classificazione dei diversi
+                                   Servizio Rischi                                                                      soggetti è diversa;
+                                                   Il Servizio Rischi di Liquidità e ALM non svolge controlli di
+ Liquidità CV_2016_00035 Media     Di Liquidità E                                                                       3. SAE, modello di servizio e rating della clientela;                               16/01/2017     75%      31/03/2018
+                                                   Data Quality relativamente ai dati del Rischio Liquidità.
+                                   Alm                                                                                  4. Corrispondenza dei conti correnti con addebito RID e/o accredito stipendio;
+                                                                                                                        5. durata relazione dall'apertura del primo rapporto (non solo cc), presenza di un
+                                                                                                                        mutuo residenziale e/o di altra forma di impiego (carte di credito).
+                                                                                                                        6. Controlli di coerenza in termini di numerosità e controvalore nominale tra i
+                                                                                                                        dati presenti in FDWH ed ERMAS relativamente a Titoli e PCT.
+                                                   Incoerenze, anomalie rilevate nel modello rappresentazione
+                                                   delle poste a vista e poste a scadenza:
+                                                                                                                        1. Allineare il trattamento delle riserve detenute dalle filiali estere presso la
+                                                   1. Incoerenza, nell'ambito della maturity ladder strutturale, tra il Banca centrale al trattamento delle analoghe riserve detenute dal Gruppo MPS
+                                                   trattamento delle riserve detenute presso la Banca centrale dal      (inclusione nel bucket a vista della strutturale tra le Istituzioni e Finanza).
+                                   Servizio Rischi GBMPS e dalle filiali estere.
+                                                                                                                        2. Valutare l'adozione di un modello che colga le caratteristiche salienti di tali
+ Liquidità CV_2017_00004 Media     Di Liquidità E  2. Incoerenza della modellizzazione default 1M per le poste a                                                                                            10/08/2017     70%      31/03/2018
+                                                                                                                        prodotti e tenga conto delle evoluzioni normative, in particolare della soglia
+                                   Alm             scadenza (tracciato 004), per cui non si dispone di informazioni     minima di finanziamento stabile richiesta dall'NSFR.
+                                                   circa la scadenza e il piano di ammortamento, rispetto alle
+                                                   caratteristiche di tali prodotti.                                    3.Individuare una soluzione volta a risolvere la problematica del double
+                                                                                                                        counting.
+                                                   3. Sofferenze: Double counting posizioni gestite a conti di
+                                                   origine
+                                                                                                                        Svalutazione dei Titoli Retained
+                                                   Svalutazione dei Titoli Retained
+                                                                                                                        1. Escludere le tranche mezzanine e junior dal perimetro di calibrazione in
+                                                   1. Incoerenza perimetro di calibrazione e perimetro di               modo da renderlo coerente con il perimetro di applicazione del modello
+                                                   applicazione del modello.                                            comprensivo dei soli titoli eligible.
+                                                   2. Presenza di elementi di discrezionalità con riferimento alla      2. Prevedere un processo strutturato di pulizia della base dati che sia supportato
+                                   Servizio Rischi scelta del floor.Sight Deposit Run-Off 1. Mancata inclusione         da una metodologia robusta e documentata.
+ Liquidità CV_2017_00008 Bassa     Di Liquidità E  dei depositi classificati come Higher Outflows nel calcolo dei                                                                                           31/10/2017     80%      31/03/2018
+                                   Alm             possibili deflussi di raccolta in una fase di stress.                3. Predisporre un backtesting volto a      comprovare nel continuo l'affidabilità e
+                                                                                                                        la robustezza delle scelte metodologiche adottate in riferimento all'holding
+                                                   Prestito Titoli da Clientela                                         period. Sight Deposit Run-Off 1. Includere nel calcolo dei possibili deflussi gli
+                                                   1. Assenza di una documentazione metodologica nonché di              Higher Outflow.
+                                                   analisi volte a supportare le scelte metodologiche che hanno         Prestito Titoli da Clientela
+                                                   condotto al calcolo della percentuale di stress.
+                                                                                                                        1. Fornire evidenze a supporto delle scelte metodologiche adottate.
+                                                                                                                                                                                                                                                    21
+
+Gap di Convalida al 31/12/2017 (3/3)
+                                                                                                                                                                                                                Data
+                                   Funzione resp.                                                                                                                                                                         %SAL al   Data prevista
+   Rischio    Codice     Rilevanza                                             Descrizione                                                              Soluzione proposta                                   validazione
+                                     mitigazione                                                                                                                                                                         31/12/2017  mitigazione
+                                                                                                                                                                                                                GAP
+                                                                                                                        1a. Allineare il perimetro delle basi dati di calibrazione e applicazione del
+                                                                                                                        modello in quanto quest'ultimo include i mutui di Banca Widiba e i mutui dei
+                                                                                                                        dipendenti.
+                                                   1. Incoerenza tra il perimetro di applicazione e il perimetro di
+                                                   calibrazione del modello.                                            1b. Allineare il perimetro delle basi dati di calibrazione e applicazione del
+                                                                                                                        modello in relazione al trattamento dei mutui zero coupon e monitorare nel
+                                                   2.Incongruenza tra la fase di stima del modello e la fase di         continuo i tassi di prepagamento di tale tipologia di prodotto. 1c. Depurare la
+                                                   definizione del piano di ammortamento accelerato circa la            base dati di calibrazione dalle operazioni scadute.
+                                                   procedura di scaling dei tassi di prepagamento e la convenzione
+                                   Servizio Rischi per il calcolo degli intervalli temporali.                           2. Allineare la metodologia adottando un'unica procedura di scaling dei tassi di
+ Tasso di
+           CV_2017_00009 Bassa     Di Liquidità E                                                                       prepagamento ed una convenzione per il calcolo degli intervalli.                     22/11/2017     70%      31/03/2018
+ Interesse                                         3. Presenza, sia nella base dati di calibrazione che di applicazione
+                                   Alm
+                                                   del modello, di posizioni deteriorate, per le quali risulta poco     3. Depurare le basi dati dalle posizioni deteriorate valutando, per tali operazioni,
+                                                   prudenziale l'applicazione di un profilo comportamentale di          l'adozione di una modellizzazione analoga a quella in uso per le sofferenze,
+                                                   prepagamento.                                                        ovvero modellizzarle come un portafoglio di poste a tasso fisso con scadenza
+                                                                                                                        pari ai tempi di recupero stimati nel processo di monitoraggio del Rischio di
+                                                   4. Valore del Debito residuo all'istante di cut-off per la stima del Credito, coerentemente a quanto prescritto dalla Circolare 272 di Banca.
+                                                   tasso di prepagamento del mese successivo.
+                                                                                                                        4. Depurare il valore del debito residuo utilizzato per la stima del tasso di
+                                                                                                                        prepagamento del mese successivo dall'importo in scadenza o soggetto ad
+                                                                                                                        ammortamento nell'intervallo temporale oggetto di stima (t+1-t).
+                                                   Incapacità del modello comportamentale di cogliere le                Definire l'evoluzione di un modello che riesca a cogliere la correlazione tra
+                                   Servizio Rischi
+ Tasso di                                          motivazioni che hanno determinato l'estinzione anticipata.           l'evento di prepagamento e le variabili macroeconomiche che possono
+           CV_2017_00010 Media     Di Liquidità E                                                                                                                                                            22/11/2017     10%      31/12/2018
+ Interesse                                         Mancata correlazione tra l'evento di prepagamento e le variabili     influenzare la decisione di estinzione anticipata, nonché la durata residua ed
+                                   Alm
+                                                   macroeconomiche.                                                     originaria dell'operazione ed avviare le procedure implementative.
+                                   Servizio Rischi Assenza di un framework dei controlli di data quality svolti dal     Integrare il manuale metodologico con i controlli di data quality eseguiti in
+ Tasso di
+           CV_2018_00001 Bassa     Di Liquidità E  SERL per la produzione delle metriche di monitoraggio del            relazione all’attività di valutazione e gestione dell’esposizione al Rischio Tasso                   0%      30/06/2018
+ Interesse                                                                                                                                                                                                      2017*
+                                   Alm             Rischio Tasso di Interesse del Banking Book.                         di Interesse del Banking Book.
+                                   Servizio Rischi Assenza di idonee analisi di backtesting volte a comprovare nel
+ Tasso di                                                                                                               Eseguire analisi di backtesting volte a comprovare nel tempo le scelte
+           CV_2018_00002 Bassa     Di Liquidità E  tempo le scelte metodologiche adottate in relazione ai modelli                                                                                               2017*        0%      31/10/2018
+ Interesse                                                                                                              metodologiche adottate in relazione ai modelli comportamentali.
+                                   Alm             comportamentali.
+                                                                                                                          * GAP acceso con Rapporto di Convalida 2017, ancorché censito in RIGAM ad inizio 2018.
+                                                                                                                                                                                                                                                22
+
+23

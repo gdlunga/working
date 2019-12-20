@@ -1,0 +1,133 @@
+                                              Comitato Gestione Rischi del 01-03-2019
+                                              Adeguamento ad Orientamenti ESMA su requisiti
+                                                            Adeguatezza (Proposta)
+Direzione CRO – Area Operating Risk Officer – Servizio Wealth Risk Management
+
+Proposte - Adeguamento ad Orientamenti ESMA su requisiti Adeguatezza – Indice
+             1 - Revisione del controllo di Concentrazione Emittente
+             2 - Revisione del questionario di profilazione MiFID
+                                                                              2
+
+1 - Revisione del controllo di Concentrazione Emittente (Proposta)
+                              ESMA, nel documento «ESMA – Orientamenti su alcuni aspetti dei requisiti di adeguatezza della Mifid II – 06/11/2018», introduce alcune novità normative sul tema
+                              concentrazione emittente/»Bail-in». In particolare nell’orientamento di supporto n. 81 si afferma:
+                              <U+F0D8> Nell’operare attraverso i cosiddetti modelli di collocamento di strumenti propri […] le imprese dovrebbero evitare un’eccessiva concentrazione di investimenti in
+                                strumenti finanziari soggetti al regime di risoluzione emanato dall’impresa stessa o da entità dello stesso gruppo.
+                              <U+F0D8> Le imprese dovrebbero essere particolarmente prudenti per quanto riguarda il rischio di credito: sarebbe opportuno valutare in particolare l’esposizione del
+   Overview
+                                portafoglio del cliente a un unico emittente o a emittenti appartenenti allo stesso gruppo.
+                              <U+F0D8> Quando effettua una valutazione dell’adeguatezza sulla base dell’esame del portafoglio complessivo del cliente, un’impresa dovrebbe assicurare un adeguato
+                                livello di diversificazione all’interno dello stesso, tenendo conto dell’esposizione del portafoglio del cliente ai diversi rischi finanziari.
+                              A fronte delle novità normative introdotte e dei successivi indirizzi espressi dalla Funzione Compliance si è proceduto, nell’ambito del GdL Mifid II:
+                              1. ad una valutazione sull’eventuale introduzione di un controllo specifico sugli strumenti soggetti a rischio «bail-in»;
+                              2. alla revisione del controllo di Concentrazione Emittenti (soglie; franchigia). Il risultato delle analisi del GdL è di seguito sintetizzato.
+                                                                                 AS IS                                                                 TO BE
+                         1
+                              VALUTAZIONE INTRODUZIONE CONTROLLO                  Alla luce degli approfondimenti effettuati, il GdL ha ritenuto non necessaria l’introduzione di un nuovo controllo,
+                                DI CONCENTRAZIONE PER STRUMENTI                   essendo l’effetto Bail-in adeguatamente presidiato dall’attuale modello di adeguatezza (controlli di esperienza e
+                                       SOGGETTI A BAIL-IN                         conoscenza, rischio mercato, rischio credito e concentrazione emittente).
+                         2A
+   Interventi Proposti
+                                                                                   Obiettivo Inv.       % Concentrazione Emittente                       Obiettivo Inv.         % Concentrazione Emittente
+                                                                                         1                           40%                                       1                          30%
+                               REVISIONE AL RIBASSO DELLE SOGLIE DI                      2                           50%                                       2                          40%
+                                 CONCENTRAZIONE EMITTENTE PER
+                                   PORTAFOGLI MAGGIORI DI 20K                            3                           60%                                       3                          50%
+                                                                                         4                           70%                                       4                          55%
+                                                                                         5                           80%                                       5                          60%
+                                                                                                                                                                                                             3
+
+1 - Revisione del controllo di Concentrazione Emittente (Proposta)
+                                                                   AS IS                                                                TO BE
+                2B
+                       ELIMINAZIONE DELLA FRANCHIGIA E
+                                                                     Obiettivo Inv.       % Concentrazione Emittente                      Obiettivo Inv.       % Concentrazione Emittente
+ Interventi          INTRODUZIONE DI UNA SOGLIA MASSIMA
+                      DI CONCENTRAZIONE EMITTENTE PER                      1-5                 Franchigia (100%)                                1-5                         40%
+  Proposti
+                          PORTAFOGLI INFERIORI A 20K
+                 E’ stata effettuata, con il supporto di Prometeia, un’analisi massiva finalizzata a valutare l’impatto delle variazioni proposte sullo stato di adeguatezza dei portafogli.
+                 Le analisi hanno messo in luce come la revisione delle soglie, sotto tutte le ipotesi, generi un aumento dei Clienti non adeguati compreso tra 2.0% e 2.5% per Banca MPS
+                 e tra 1.3% e 1.7% per Banca Widiba; in termini di masse, gli aumenti tra le due Banche risultano più allineati, attestandosi tra 1.8% – 2.0%.
+                 Un ulteriore aspetto emerso dalle analisi effettuate, ha evidenziato come per Banca MPS l’impatto non sia omogeneo tra i modelli di servizio, come da attese data la
+  Impatti sui    struttura degli investimenti, essendo il portafoglio decisamente più concentrato tra la Clientela della Consulenza Base, con aumenti in termini di numerosità clienti e
+                 masse intorno al 3.0% rispetto a circa lo 0.5% della Consulenza Avanzata (contribuendo così a spiegare oltre il 95% dell’aumento).
+   portafogli    Analizzando invece i portafogli con controvalore inferiore a € 20.000, si osserva come l’eliminazione della franchigia comporti un aumento in termini di numerosità
+                 clienti non adeguati tra 1.3% e 1.6% per Banca MPS (anche in questo caso molto più concentrato sulla Consulenza Base) e tra 0.65% e 0.99% per Banca Widiba, mentre è
+                 quasi irrilevante in termini di masse. L’eliminazione della franchigia, nello specifico, contribuisce a spiegare circa il 65% degli aumenti in termini di numerosità clienti,
+                 restando poco significativa in termini di masse.
+                                                                                                                                                                                                 4
+
+2 - Revisione del Questionario MiFID (Proposta)
+                             <U+F0D8> Banca MPS, nell’ambito del Programma MiFID 2, ha ritenuto opportuno avviare una revisione su alcuni aspetti del questionario di profilazione MiFID e del suo
+                               processo di aggiornamento sulla base degli Orientamenti ESMA in tema di adeguatezza (Documento 35-43-1163IT del 06/11/18). In particolare l’orientamento 4 e
+                               5 affermano che:
+                             44. Le imprese dovrebbero adottare misure ragionevoli e disporre di strumenti appropriati per garantire che le informazioni raccolte sui loro clienti siano affidabili e
+                             coerenti, senza indebitamente affidarsi all'autovalutazione dei clienti.
+   Overview
+                             53. Le imprese devono esaminare periodicamente le informazioni del cliente per garantire che non diventino manifestamente obsolete, inesatte o incomplete.
+                             54. La frequenza di aggiornamento può variare in funzione, ad esempio, dei profili di rischio dei clienti e tenendo conto del tipo di strumento finanziario raccomandato.
+                             [...] Ad esempio, un profilo di rischio che fornisce all'utente l'accesso a una gamma più ampia di prodotti più rischiosi è un elemento che probabilmente richiederà un
+                             aggiornamento più frequente.
+                             57. Le imprese devono informare il cliente quando le informazioni supplementari fornite comportano un cambiamento del suo profilo, che diventi più rischioso (e
+                             quindi, potenzialmente, una gamma più ampia di prodotti più rischiosi e più complessi può risultare adatta a lui, con la potenziale di incorrere in perdite più elevate) o
+                             viceversa più conservativo (e quindi, potenzialmente, una gamma più limitata di prodotti può di conseguenza essere adatto per lui).
+                                                          AS IS                                                                         TO BE*
+                         1
+                                                           Per le sezioni del questionario: esperienza/conoscenza,                       Introduzione obbligo compilazione di tutte le sezioni del
+                                                           obiettivo di investimento e orizzonte temporale, sono                         questionario, ad eccezione della sezione relativa ai fondi
+                                                           presenti delle domande preliminari, che individuano la                        pensione, per i clienti persone fisiche e dei derivati OTC, per
+   Interventi Proposti
+                                                           volontà del cliente di rispondere alle seguenti sezioni con                   i clienti persone giuridiche. Tale obbligo intende migliorare
+                                                           domande tipo «Accetta di rispondere alle domande della                        il processo di profilazione della clientela riducendo
+                                 OBBLIGO DI                sezione esperienza e conoscenza /obiettivo di investimento                    significativamente la percentuale di questionari incompleti
+                              COMPILAZIONE DEL             /orizzonte temporale del questionario?».                                      ad oggi esistente.
+                                QUESTIONARIO
+                                                           Per le Gestioni Patrimoniali, in merito all’obiettivo di                      Introduzione nella fase di compilazione del questionario di
+                                                           investimento è presente la seguente domanda: “Si è già                        un controllo on-line che verifichi, sul cliente, la detenzione
+                                                           affidato o potrebbe essere interessato ad affidarsi, anche in                 di un Mandato GP, su rapporti mono-intestati o cointestati.
+                                                           futuro, a servizi che prevedono la delega della gestione dei                  Nel caso in cui tale controllo risulti positivo il cliente potrà
+                                                           suoi investimenti? (Risposta obbligatoria)”.                                  procedere con la compilazione del questionario solo se
+                                                                                                                                         risponde SI alla domanda specifica.
+                                                                                                                                                                                                            5
+
+2 - Revisione del Questionario MiFID (Proposta)
+                                                            AS IS                                                                                TO BE*
+                          2
+                                                                 Obiettivo Investimento            Validità Questionario                               Obiettivo Investimento                     Validità Questionario
+                               REVISIONE SCADENZA                                                                                                                  1 -3                                    3 anni
+                                DEL QUESTIONARIO
+                                                                          1–5                             3 anni
+                                                                                                                                                                   4 -5                                    2 anni
+                          3
+    Interventi Proposti
+                                                             Il report consegnato al cliente a seguito della compilazione                          Revisione dell’informativa post profilazione MiFID
+                                                             del Questionario MiFID, non prevede alcuna indicazione in                             consegnata al cliente, ovvero introduzione delle variazioni
+                                   REVISIONE                 merito all’eventuale variazione del profilo di rischio                                apportate agli indicatori di esperienza/conoscenza finale,
+                               INFORMATIVA POST              avvenuta.                                                                             obiettivo di investimento finale e orizzonte temporale, a
+                                 PROFILAZIONE                                                                                                      seguito della nuova compilazione del Questionario.
+                               QUESTIONARIO MIFID
+                                                                                                                                                   Nel caso in cui le variazioni interessino più di un indicatore,
+                                                                                                                                                   sarà mostrato il dettaglio degli indicatori modificati.
+                          4
+                                  PROCESSO DI                Il processo di profilazione del Cliente in base al Questionario                       Introduzione di un processo di aggiornamento del profilo del
+                              AGGIORNAMENTO DEGLI            MiFID non prevede una fase di aggiornamento automatico in                             Cliente quando si verifica una variazione dei dati interni che
+                                   INDICATORI                funzione della variazione dei parametri sottostanti quali                             comportano una modifica:
+                                 SOTTOSTANTI IL              esperienza, situazione finanziaria, età anagrafica del                                <U+F0A7> del valore dell’ISE (Indicatore Sintetico di Esperienza), con
+                               QUESTIONARIO MIFID            Cliente.                                                                                 conseguente somministrazione di nuove domande
+                                                                                                                                                      contestuali in aggiunta rispetto a quelle somministrate in
+                                                                                                                                                      passato;
+                              • La Normativa Interna (D01762) prevede che la Direzione CRO presenti una specifica                                  <U+F0A7> del valore della Situazione Finanziaria Finale (SF Final), a
+                                proposta al Comitato Gestione Rischi quando è necessario aggiornare/modificare i modelli                              causa di un aggiornamento della componente patrimoniale
+   Richiesta
+                                e/o dei parametri di verifica di appropriatezza/adeguatezza e/o mappatura di rischio dei                              presso Banca (SFFULL) per le Persone Fisiche e a causa
+                                prodotti/portafogli di investimento, al fine di ottenere la necessaria autorizzazione per                             dell’indicatore di Rating (IR) per le Persone Giuridiche;
+                                l’introduzione delle modifiche e per il relativo aggiornamento dei documenti normativi di                          <U+F0A7> dei vincoli imposti nella definizione delle percentuali da
+ Approvazione
+                                contesto.                                                                                                             associare a ciascun intervallo dell’orizzonte temporale del
+                              • Si propone pertanto al Comitato Gestione Rischi di approvare gli interventi rappresentati ai                          cliente, a causa di variazioni del patrimonio, e/o dell’età
+                                punti 1 e 2 del documento. Tali modifiche saranno recepite all’interno del documento                                  anagrafica del Cliente.
+                                Normativo D01782.
+                                                                                                             * Tali revisioni si applicano ai questionari sottoposti alle Persone Fisiche e alle Persone Giuridiche di MPS, ai
+                                                                                                             fiducianti (Banca Fiduciaria), a Widiba e a MPSCS                                                                   6
+

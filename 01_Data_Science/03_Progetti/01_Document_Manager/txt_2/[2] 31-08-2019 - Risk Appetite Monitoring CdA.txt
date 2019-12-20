@@ -1,0 +1,408 @@
+                                                                                                      Protocollo Sisifo: AF5A2E42A0
+                                                                                                                Siena, 08/10/2019
+FUNZIONI COMPILATRICI:                                                Proposta per:
+Servizio Integrazione Rischi e Reporting - MPS
+                                                                       Consiglio Di Amministrazione - MPS
+OGGETTO:
+Risk Appetite Monitoring al 31-08-2019
+ 1. MOTIVAZIONE
+ La presente memoria è sottoposta al CdA in risposta alla richiesta, che lo stesso ha espresso
+ in occasione dell’approvazione – nella seduta del 7 febbraio 2019 – dei KRI di Gruppo del
+ RAS 2019, riguardo ad un monitoraggio più frequente (tendenzialmente mensile) dei
+ principali KRI di RAS. A tal fine si forniscono i risultati derivanti dal monitoraggio
+ predisposto dalla Direzione CRO.
+ Nell’odierno passaggio il CdA viene altresì interessato riguardo al confronto fra il
+ forecasting di fine anno, come da precedente seduta consiliare, e gli obiettivi di RAS per i
+ principali indicatori.
+ La presente memoria è stata sottoposta al Comitato Gestione Rischi nella seduta del 10
+ ottobre 2019. La stessa è sottoposta preventivamente all’esame del Comitato Rischi.
+ Il coinvolgimento del Consiglio su questa materia è previsto dalle normative interne che
+ recepiscono le prescrizioni regolamentari emanate dai Regulators.
+ 2. ELEMENTI CHIAVE DELLA DECISIONE DA ASSUMERE
+ Il CdA è interessato al fine:
+       <U+25AA>     di prendere atto del posizionamento al 31 agosto 2019 (per gli indicatori disponibili su
+             base mensile) inerente alla situazione complessiva di Gruppo, nonché dei KRI delle BU che
+             presentavano sconfinamenti al trimestre precedente (cfr. memoria al CdA dello scorso 01-
+             08-2019 riferita al 30-06-2019);
+       <U+25AA>     di deliberare in merito alla valutazione degli sconfinamenti emersi nell’ambito del
+             sopraccitato monitoraggio, nella presente occasione anche in funzione delle evidenze
+             emerse nell’ambito dell’esercizio di forecasting, c.d. “6+6” sottoposto al CdA nell’ambito
+             della precedente seduta (26-09-2019);
+       <U+25AA>     di prendere atto dei potenziali breach sulle soglie di fine anno in funzione degli indicatori
+             stimati in seguito all’esercizio 6+6;
+       <U+25AA>     di deliberare in merito alla proposta di determinazione di taluni livelli di Alert differenti
+             dalle soglie di Tolerance di RAS, calibrati in funzione degli scostamenti fra “6+6” e Appetite
+             di RAS.
+ 3. INFORMAZIONI RILEVANTI
+ Si ricorda che già da luglio i dati di consuntivo e le soglie di RAS sono state proformate in
+ funzione dell’intervento organizzativo che ha portato Widiba a diretto riporto del CCO e il
+ COG a diretto riporto del COO.
+ Si ricorda, inoltre, che nella precedente seduta (26 settembre u.s.) al CdA è stato sottoposto
+ a cura della Direzione CFO l’esito dell’esercizio di forecasting c.d. “6+6”. Sulla base di
+08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019        Pagina 1 di 10
+
+                                                                                                                                               Protocollo Sisifo: AF5A2E42A0
+ tale esercizio è stata impostata un’analisi di confronto fra tali valori previsionali e gli
+ Appetite di fine anno approvati in sede RAS dal codesto Consiglio in data 28-02-2019.
+ La proposta di valutazione della situazione dei KRI di RAS ha tenuto quindi conto anche di
+ tale componente prospettica, come peraltro previsto dalla Direttiva di Gruppo in materia di
+ Governo del Risk Appetite Framework (1030D01930).
+ 3.1 RISK APPETITE MONITORING – 31 AGOSTO 2019
+ Con riferimento al Gruppo, si osserva la seguente situazione:
+                         GRUPPOMONTEPASCHI                                                      KRI-RPI Profile                             Expected 3Q                      FY 2019 Threshold
+                                                                                                                                  Appetite   Tolerance Capacity      Appetite    Tolerance Capacity
+                                             KRI-RPI                     Note U.M. Mar 31st Jun 30th     Jul 31st    Aug 31st  vs
+                                                                                                                                   3Q19E       3Q19E       3Q19E     FY 2019E     (Amber)      (Red)
+                         CET1 Ratio                                                %    13,28%  14,05%     14,13%      14,21%   >   13,37%       11,84%      10,50%     13,33%        11,80%    10,50%
+ Capital Adequacy        Tier 1 Ratio                                              %    13,28%  14,05%     14,13%      14,21%   >   13,37%       13,04%      12,00%     13,33%        13,00%    12,00%
+                         Total Capital Ratio                                       %    14,72%  15,51%     16,11%      16,19%   >   15,17%       14,29%      14,00%     15,97%        15,10%    14,00%
+                         Net Cash Position 1M / Total Assets                       %    15,69%  15,61%     16,72%      16,14%   >   13,49%       10,01%       8,01%     13,48%        10,00%     8,00%
+                         LCR                                                       %    241,0%  201,1%     194,7%      191,9%   >   200,8%       135,1%      120,0%     210,7%        145,0%    120,0%
+                         NSFR                                              (1)     %    111,0%  113,1%     109,5%      111,7%   >   112,0%       109,1%      102,1%     111,8%        109,0%    102,0%
+ Liquidity Adequacy
+                         Gap Ratio 3Y                                              %     97,9%  101,0%       99,5%     102,4%   >   106,2%        92,8%       89,8%     108,3%         95,0%     92,0%
+                         Weighted Avg. Cost of Wholesale Fund.                    bps        36      34           43        28  <        54           80          95         54            80        95
+                         Gross Asset Encumbrance Ratio                             %    36,14%  35,28%     34,30%      34,33%   <   33,29%       34,21%      37,21%     32,07%        33,00%    36,00%
+ Leverage                Leverage Ratio                                            %     5,62%   5,91%       5,83%      5,78%   >    5,53%        4,29%       3,50%      5,55%         4,31%     3,50%
+                         RAROC                                                     %     -0,8%   -1,7%        -1,6%     -1,5%   >     0,9%         0,0%           na      0,9%          0,0%          -
+ Performance             Total Revenues                                     (3) €/mln       803  1.549       1.824      2.090   >     2.231        2.207       2.008      3.316         3.280     2.985
+                         Op. Losses/Net Op. Revenues                               %      7,2%    6,3%         7,5%      5,5%   <     4,2%         7,9%       10,5%       4,2%          7,9%     10,6%
+                         Processes w ith Relevant Gaps                            num.       12       8            9        10  <        11           13          15         11            13        15
+ Internal Controls       AML - Suspicious Transaction Reports                      %      0,3%    0,1%         0,0%      0,0%   <     0,2%         0,5%        0,7%       0,2%          0,5%      0,7%
+                         IT Risk: High/Very High Risk Resources            (B) num.           0       0            0         0  <         0            0          na          0             0        na
+ Indicatore comune a RAS (KRI) e Recovery Plan (RPI)                                                                                        Superamento Appetite
+ (1) Regulatory minimum del 100% a partire dal 2022 (CRR2).                                                                                 Tolerance (Amber) Breach
+ (3) Per i Total Revenues le soglie sono proformate sul budget mensile.                                                                     Capacity (Red) Breach
+ (B) I breaches sono rilevati sulla base di dati di consuntivo annualizzati linearmente
+              Elemento da sottoporre alla valutazione del CdA
+ A livello di Gruppo si osserva una situazione analoga a quella dello scorso mese di luglio,
+ confermando, quindi, breach di Tolerance/Amber per gli indicatori Total Revenues e
+ Gross Asset Encumbrance Ratio.
+ Riguardo al Total Revenues e al RAROC1 si ricorda che il CdA ha a suo tempo
+ autorizzato lo sconfinamento fino al 30 settembre 2019, nelle more di essere interessato
+ con il successivo esercizio di forecasting “6+6”. Atteso quanto detto in premessa si ritiene
+ che lo sconfinamento su agosto sia “coperto” da tale autorizzazione.
+ In ordine al Gross Asset Encumbrance Ratio, si ricorda che, in occasione del
+ monitoraggio di luglio, lo sconfinamento è stato valutato come non materiale, anche in
+ seguito alla decisione del Comitato Direttivo (seduta del 3 settembre u.s., in Sessione
+ “GOVERNO STRESS/CRISI) di non considerare lo sconfinamento come evidenza di
+ segnali prodromici ad una situazione di crisi, in quanto le dinamiche attese del GAER
+ risentirebbero dell’atteso ricorso al TLTRO III. Si ritiene pertanto di confermare la non
+ materialità dello sconfinamento.
+ Si rappresenta, infine, con riferimento all’indicatore Processes with Relevant Gaps, che, a
+ seguito di una decisione del Comitato di Coordinamento delle Funzioni di Controllo, una
+ serie di processi sono stati riallocati dal macroprocesso Compliance ad altri macroprocessi.
+ Ciò ha determinato, in costanza del numero di gap, l’incremento del numero di
+ macroprocessi con gap rilevanti per il computo dell’indicatore medesimo2. Di tale
+ 1
+   Il RAROC di giugno differisce dal precedente RAM con base dati luglio (-1,7% vs -2,1%) per via
+ dell’intercorso aggiornamento dell’esercizio di forecasting sul fine anno.
+ 2
+    L’indicatore computa il numero dei macroprocessi con gap di livello Alto la cui somma dei giorni alla
+ scadenza supera il valore di 180.
+08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019                                                    Pagina 2 di 10
+
+                                                                                                                                                                     Protocollo Sisifo: AF5A2E42A0
+        cambiamento strutturale si terrà conto nell’ambito della definizione del nuovo RAS, mentre
+        per l’anno in corso, per mantenere la necessaria omogeneità con le soglie di
+        Tolerance/Capacity, il valore dell’indicatore verrà proformato non tenendo conto della
+        detta riallocazione3.
+        Per quanto riguarda invece la situazione a livello di Business Units, si riporta di seguito il
+        monitoraggio degli indicatori che risultavano sconfinati alla fine del trimestre precedente.
+        Per quanto riguarda invece la situazione a livello di Business Units, si riporta di seguito il
+        monitoraggio degli indicatori che risultavano sconfinati alla fine del trimestre precedente.
+        CCO
+        CHIEF COMMERCIAL OFFICER                                                                                                       KRI Profile                              Expected 3Q19                FY 2019
+                                                                                                                                                                             Appetite   Tolerance     Appetite   Tolerance
+                                                                KRI                                 Note   U.M.     Mar 31st      Jun 30th    Jul 31st      Aug 31st    vs
+                                                                                                                                                                              3Q19E        3Q19E       FY2019      FY2019
+        Asset Quality        Commercial Lending - Average LGD (AIRB)                                 (°)    %            25,94%     25,79%        25,90%       25,74%    <      25,49%       25,66%      25,47%      25,64%
+                             Operational Losses                                                      (B)   €/mln            50,1      92,86         94,97        95,50   <            -             -       92,5       102,5
+        Perform ance
+                             RAROC                                                                          %              7,0%        5,4%          7,0%         6,9%   >        8,8%          8,2%       8,8%         8,2%
+        (°) Sono escluse le esposizioni del tipo Specialized Lending
+        (B) I breaches sono rilevati rispetto alle soglie di fine anno sulla base di dati di consuntivo annualizzati linearmente                                                        Superamento Appetite
+                    Elemento da sottoporre alla valutazione del CdA                                                                                                                     Tolerance Breach
+        Sul CCO si conferma una situazione analoga a quella di luglio, con sconfinamenti per:
+                 <U+25AA> Average LGD (AIRB), di cui il CdA aveva perso atto a luglio “rinviando ulteriori valutazioni
+                        alla successiva analisi basata sul previsionale in corso di aggiornamento”;
+                 <U+25AA> Operational Losses, per le quali in occasione del precedente RAM, il CdA ha approvato
+                        una soglia di pre-alert di fine anno per le perdite “ordinarie” pari a 41 €/mln, rispetto alla
+                        quale il consuntivo annualizzato (14 €/mln) configurerebbe uno sconfinamento come non
+                        materiale;
+                 <U+25AA> RAROC4, in miglioramento sul valore di giugno, rispetto al quale il CdA ha autorizzato lo
+                        sconfinamento fino al 30-09-2019.
+        CLO
+CHIEF LENDING OFFICER                                                                                      Risk Appetite Statem ent            Profile
+                                                                                                                                          KRI2019                                     Expected 3Q19                   FY 2019
+                                                                                                                                                                                   Appetite      Tolerance Appetite Tolerance
+                                                          KRI                                       Note    U.M.        Mar 31st Jun 30th          Jul 31st     Aug 31st      vs
+                                                                                                                                                                                     3Q19E         3Q19E        FY2019       FY2019
+                     Commercial Lending - Reduction (UtoP and Past Due Loans)                               €/mln              226         442            503         1.462   >          1.082         1.025       2.109        2.052
+Asset Quality        Commercial Lending - Reduction (Bad Loans)                                             €/mln              424         570            598           614   >            765           730       1.421        1.386
+                     Commercial Lending - Vintage NPE (Unsecured Exposures)                                  yrs                4,9         5,1            5,1           5,2  <             4,8           4,9         4,8          4,9
+         Elemento da sottoporre alla valutazione del CdA                                                                                                                                         Superamento Appetite
+                                                                                                                                                                                                 Tolerance Breach
+        Sul CLO si registra il sostanziale miglioramento dell’indicatore Commercial Lending –
+        Reduction (UtoP and Past Due Loans), il quale si pone ancora in breach della soglia di
+        Tolerance di fine anno ma nettamente sopra le soglie previste per il terzo trimestre. Si
+        ritiene pertanto di valutare come non materiale lo sconfinamento su fine anno.
+        3
+          In termini numerici, ad agosto, l’indicatore avrebbe un valore pari a 13 con la nuova allocazione.
+        4
+           Si rappresenta che nel precedente monitoraggio, il RAROC di giugno del CCO era stato valorizzato a
+        struttura organizzativa nuova (con Widiba a riporto del CCO) in luogo di quella rilevante a giugno, più
+        appropriata trattandosi di rilevazione a consuntivo. Peraltro, l’impatto numerico è poco significativo (5,3%
+        vs 5,4%).
+       08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019                                                                  Pagina 3 di 10
+
+                                                                                                                Protocollo Sisifo: AF5A2E42A0
+        Permangono invece gli sconfinamenti registrati a giugno su Commercial Lending –
+        Reduction (Bad Loans) e su Vintage NPE (Unsecured Exposures), i quali erano stati
+        autorizzati dal CdA, nella seduta del 01-08-2019, con impegno a rientrare entro il 30-09-
+        2019, dato che le operazioni in corso permetterebbero di rispettare le soglie.
+        COO
+CHIEF OPERATING OFFICER                                                                               KRI Profile                                FY 2019
+                                                KRI                  Note    U.M.   Mar 31st   Jun 30th     Jul 31st     Aug 31st     vs   Appetite  Tolerance
+Capital Adequacy        Total Internal RWA                                   €/mln      2.598        2.664        2.729        2.730   <       2.551      2.556
+           Elemento da sottoporre alla valutazione del CdA                                                              Superamento Appetite
+                                                                                                                        Tolerance Breach
+        Sul COO si riconferma lo sconfinamento di Tolerance del KRI Total Internal RWA,
+        autorizzato dal Consiglio, nella precedente seduta del 26-09-2019, fino al 31-12-2019.
+        3.2. FORWARD LOOKING E SOGLIE DI ALERT
+        Al di là di quanto rappresentato nella precedente sezione 3.1., si è proceduto a confrontare i
+        valori attesi, sulla base del detto esercizio “6+6”, con i principali KRI di RAS per
+        individuare i conseguenti scostamenti dai livelli di appetite di fine 2019 ed eventuali
+        sconfinamenti delle soglie. Ciò che emerge è che in taluni casi si avrebbero degli
+        sconfinamenti delle soglie di Tolerance/Capacity (e Amber/Red per gli indicatori comuni
+        con il Recovery Plan).
+        Si precisa che, ai fini di detto esercizio, ad integrazione del “6+6” già sottoposto al CdA, si
+        è tenuto conto anche degli effetti attesi derivanti da una necessaria riclassificazione di un
+        insieme di mutui retail in sofferenza che, per effetto della limitation sulla TRIM,
+        determinerà un incremento degli RWA della Direzione Crediti Non Performing (DCNP)
+        stimato in circa 600 €/mln. Tale fenomeno ha riflessi sugli RWA della DCNP e, quindi, sui
+        ratios patrimoniali. Pure essendo l’effetto stimato in assoluto non particolarmente rilevante
+        (circa -17 bps su CET1R e Tier1R e circa -19 bps su TCR), tale integrazione si rende
+        opportuna in quanto trattasi di fenomeno di derivazione regolamentare.
+        Di seguito la situazione a livello di Gruppo:
+       08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019            Pagina 4 di 10
+
+                                                                                                          Protocollo Sisifo: AF5A2E42A0
+                          GRUPPOMONTEPASCHI                                         KRI-RPI Profile          FY 2019 Threshold
+                                                                                                       Appetite Tolerance Capacity       FORECAST
+                                              KRI-RPI                    Note U.M.    Aug 31st      vs
+                                                                                                       FY 2019E (Am ber)        (Red)         6+6
+                          CET1 Ratio                                           %            14,21%   >   13,33%      11,80%     10,50%     13,77%
+  Capital Adequacy        Tier 1 Ratio                                         %            14,21%   >   13,33%      13,00%     12,00%     13,77%
+                          Total Capital Ratio                                  %            16,19%   >   15,97%      15,10%     14,00%     16,36%
+                          Net Cash Position 1M / Total Assets                  %            16,14%   >   13,48%      10,00%      8,00%     13,10%
+                          LCR                                                  %            191,9%   >   210,7%      145,0%     120,0%     217,8%
+  Liquidity Adequacy NSFR                                                 (1)  %            111,7%   >   111,8%      109,0%     102,0%     111,2%
+                          Gap Ratio 3Y                                         %            102,4%   >   108,3%       95,0%      92,0%     108,3%
+                          Gross Asset Encumbrance Ratio                        %            34,33%   <   32,07%      33,00%     36,00%     34,26%
+  Leverage                Leverage Ratio                                       %             5,78%   >    5,55%       4,31%      3,50%     6,00%
+                          NPE Ratio                                            %          -          <   14,75%      17,00%     19,00%     12,70%
+                          Texas Ratio                                          %          -          <      83%         95%       105%       81%
+  Asset & Liability
+  Quality                 Coverage NPE Ratio                                   %          -          >      56%         51%        50%       47%
+                          Growth Rate of Gross NPE                             %          -          <     -17%           1%         6%     -29%
+                          M REL                                           (2)  %          -          >   10,24%      10,00%            -   9,72%
+                          RAROC                                                %              -1,5%  >     0,9%         0,0%           -    -1,7%
+  Perform ance            Total Revenues                                  (3) €/mln          2.090   >     3.316       3.280      2.985     3.083
+                          ROE                                                  %          -          >     2,4%        2,1%        0,0%      1,6%
+  Indicatore comune a RAS (KRI) e Recovery Plan (RPI)                                                            Superamento Appetite
+  (1) Regulatory minimum del 100% a partire dal 2022 (CRR2).                                                     Tolerance (Amber) Breach
+  (2) Espresso come percentuale del Total Liabilities and Ow n Funds (Exp. TLOF).                                Capacity (Red) Breach
+     Tolerance Full Year = Soglia di Alert "Tolerance Equivalent".
+  (3) Per i Total Revenues le soglie sono proformate sul budget mensile.
+               Elemento da sottoporre alla valutazione del CdA
+ In prospettiva, quindi, emergono alcuni breach di Tolerance/Amber (GAER, MREL,
+ RAROC, Total Revenues e ROE) e un breach di Capacity/Red (Coverage Ratio NPE).
+ Si ricorda inoltre che il CET1 Ratio, l’NSFR ed il RAROC costituiscono anche i gates di
+ Gruppo ai fini delle Politiche di Remunerazione approvate dall’Assemblea degli Azionisti
+ e pertanto in particolare un RAROC negativo a fine anno avrebbe l’effetto di inibire
+ l’apertura dei meccanismi di incentivazione variabili previsti nelle predette Politiche e/o di
+ attivare i correttivi ex-post.
+ A livello di Chief e Legal Entity si osservano gli ulteriori breach:
+       <U+25AA>      MPSCS: breach di Capacity/Red sul Regulatory RWA – Credit Risk (Commercial Lending)
+              (5.430 vs 4.988 €/mln);
+       <U+25AA>      MPSLF: breach di Tolerance/Amber sul Growth Rate of Gross NPE (-49,3% vs. -50,9%);
+       <U+25AA>      CCO: breach di Tolerance per Regulatory RWA – Credit Risk (Commercial Lending) –
+              Direzione Corporate (21.455 vs. 20.740 €/mln) e RAROC (5,3% vs. 8,2%);
+       <U+25AA>      CLO: breach di Tolerance per Total Regulatory RWA (3.935 vs. 3.683 €/mln), per
+              Regulatory RWA – Credit Risk (Commercial Lending) – NPE (3.931 vs. 3.678 €/mln) e per
+              Commercial Lending – Reduction (UtoP & Past Due Loans) (1.664 vs 2.052 €/mln);
+       <U+25AA>      CFO: breach di Tolerance per Total Regulatory RWA (6.183 vs 6.172 €/mln);
+       <U+25AA>      COO: breach di Tolerance Total Internal RWA (2.754 vs 2.556 €/mln).
+08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019             Pagina 5 di 10
+
+                                                                                                        Protocollo Sisifo: AF5A2E42A0
+                                                                           Profile       Expected Appetite Tolerance Capacity          FORECAST
+   Entity/BU                            KRI/RPI                                     U.M.
+                                                                           Aug-19          sign     FY2019E (Am ber)         (Red)        6+6
+    MPSCS Reg. RWA - Credit Risk (Commercial Lending)                        4.871 €/mln     <          4.861        4.900      4.988        5.430
+    MPSLF    Growth Rate of gross NPE                                         -      %       <        -54,8%       -50,9%     -45,9%       -49,3%
+             Reg. RWA - Credit Risk (Commercial Lending) - Direzione Corp.  20.775 €/mln     <         20.594       20.740        n.a.     21.455
+     CCO
+             RAROC                                                               na  %       >          8,8%         8,2%         n.a.       5,3%
+             Total Regulatory RWA                                            3.396 €/mln     <          3.654        3.683        n.a.       3.935
+     CLO     Regulatory RWA - Credit Risk (Commercial Lending) - NPE         3.390 €/mln     <          3.649        3.678        n.a.       3.931
+             Commercial Lending - Reduction (UtoP and Past Due Loans)        1.462 €/mln     >          2.109        2.052        n.a.       1.664
+     CFO     Total Regulatory RWA                                            6.074 €/mln     <          6.151        6.172        n.a.       6.183
+     COO     Total Internal RWA                                              2.730 €/mln     <          2.551        2.556        n.a.       2.754
+  Indicatore comune a RAS (KRI) e Recovery Plan (RPI)
+ Si tenga conto del fatto che le principali dinamiche attese del “6+6” riflettono alcune
+ gestionali aggiuntive rispetto al percorso di RAS, in particolare il ricorso al TLTRO III,
+ un’accelerazione del processo di cessione dei NPL, nonché uno sviluppo superiore ai target
+ del credito corporate a compensazione di un andamento del comparto retail sotto budget.
+ Se tali azioni vanno a supporto di taluni elementi (NSFR, Growth rate of NPE, redditività)
+ comportano, dati gli spazi di manovra disponibili, effetti collaterali su taluni altri aspetti
+ (GAER, Coverage NPE, RWA corporate)5.
+ In tale contesto si ritiene opportuno – con riferimento all’insieme dei KRI di Gruppo
+ rappresentati nella precedente tabella -                                proporre al CdA di pre-autorizzare gli
+ sconfinamenti emergenti dalla suddetta analisi, e, più in generale, di prevedere che i
+ meccanismi di escalation previsti per la violazione delle soglie di Tolerance/Amber di fine
+ anno si attivino rispetto a livelli (Alert Threshold) pari al livello di Tolerance FY integrato
+ per la differenza fra le previsioni del “6+6” e il livelli di Appetite FY.
+ Si evidenzia che tale approccio è di tipo simmetrico: se da un lato si crea uno spazio di
+ manovra aggiuntivo (rispetto alla Tolerance di RAS) per gli indicatori che tendono a
+ peggiorare nel percorso forward looking “6+6”, dall’altro si riducono gli spazi per gli
+ indicatori che tendono a migliorare. Tale comportamento è ritenuto adeguato, poiché i
+ diversi movimenti attesi, come detto, dipendono principalmente da un insieme di azioni
+ coerentemente finalizzate a perseguire predeterminati obiettivi. Per fare un esempio,
+ l’accelerazione delle cessioni dei NPL da un lato incrementa il tasso di riduzione dei NPL
+ stessi, ma determina anche una riduzione del Coverage dei NPL; essendo movimenti
+ collegati si ritiene opportuno che gli Alert Threshold tengano conto di entrambe le
+ dinamiche.
+ Rimane fermo che nel monitoraggio del Risk Appetite (RAM) si continuerà in ogni caso ad
+ evidenziare anche lo stato del consuntivo rispetto alle soglie formali di Tolerance/Amber e
+ Capacity/Red.
+ Con riferimento ai Chief/LE, si ritiene opportuno intervenire con una analoga definizione
+ di Alert Threshold limitatamente agli indicatori connessi ai breach sopra evidenziati.
+ Si fa presente che salvo due casi (Coverage Ratio NPE di Gruppo e Regulatory RWA –
+ Credit Risk Commercial Lending di MPSCS), gli Alert Threshold non comportano
+ violazioni delle soglie di Capacity/Red.
+ 5
+   In ordine allo sconfinamento su MPSL&F si rileva che l’Appetite di RAS incorporava un’ipotesi di cessione di
+ Utp (ulteriore rispetto all’operazione Morgana) per oltre 100 €/mln, ipotesi ad oggi ritenuta non percorribile
+ e, quindi, non mantenuta nel “6+6”.
+08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019          Pagina 6 di 10
+
+                                                                                                      Protocollo Sisifo: AF5A2E42A0
+ Il potenziale breach di Capacity/Red per il Coverage Ratio NPE di Gruppo, che si
+ profilerebbe nel forecast, è da mettere in relazione alla accelerazione nella cessione dei
+ crediti per un importo di 2 €/mld, originariamente prevista entro il 2021, la quale comporta
+ una riduzione dei Coverage sui crediti residui per la cessione dei crediti più coperti
+ (sofferenze unsecured). Data la motivazione, si ritiene di non valutare tale sconfinamento
+ come segnale di crisi.
+ Il potenziale breach di Capacity/Red per il Regulatory RWA – Credit Risk Commercial
+ Lending è da mettere in relazione al detto sviluppo atteso del credito sul segmento
+ corporate. Tenuto anche conto dello spazio esistente sui ratios patrimoniali, anche in questo
+ si ritiene di non valutare lo sconfinamento come segnale di crisi.
+ Per i due indicatori entrambi i due casi appena citati, le proiezioni attese (6+6)
+ risulterebbero già sconfinare la Capacity/Red formale; si propone quindi di definire una
+ Alert Threshold pari al valore di forecasting, senza un ulteriore buffer, rispetto alle quali un
+ eventuale breach attiverebbe una escalation nelle modalità previste per gli sconfinamenti di
+ Capacity/Red.
+ Rimane inteso che, per tali indicatori, all’eventuale superamento delle soglie Capacity/Red
+ formali, si darà comunque attivazione alla procedura di comunicazione all’Autorità di
+ Vigilanza, così come previsto dalla Direttiva in materia di Governo del Piano di Recovery
+ (1030D02078), rappresentando, se del caso, in base alla presente proposta, la valutazione di
+ non materialità dello stesso.
+ Volendo rappresentare graficamente quanto sopra relativamente alle soglie di Alert, per gli
+ indicatori i cui “6+6” e Alert Threshold sconfinano solo la Tolerance:
+ mentre per gli indicatori i cui “6+6” sconfinano la Capacity:
+08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019        Pagina 7 di 10
+
+                                                                                                                                     Protocollo Sisifo: AF5A2E42A0
+ Gli Alert Thresholds determinati a livello di Gruppo, secondo le modalità sopra
+ individuate, sono rappresentati di seguito:
+                          GRUPPOMONTEPASCHI                                         KRI-RPI Profile            FY 2019 Threshold
+                                                                                                         Appetite Tolerance Capacity          FORECAST D Forecast-               Alert
+                                             KRI-RPI                    Note U.M.      Aug 31st      vs
+                                                                                                         FY 2019E (Am ber)         (Red)            6+6     FY Appetite        Threshold
+                          CET1 Ratio                                          %             14,21%    >    13,33%       11,80%     10,50%        13,77%         0,44%           12,24%
+ Capital Adequacy         Tier 1 Ratio                                        %             14,21%    >    13,33%       13,00%     12,00%        13,77%         0,44%           13,44%
+                          Total Capital Ratio                                 %             16,19%    >    15,97%       15,10%     14,00%        16,36%         0,39%           15,49%
+                          Net Cash Position 1M / Total Assets                 %             16,14%    >    13,48%       10,00%      8,00%        13,10%        -0,38%            9,62%
+                          LCR                                                 %             191,9%    >    210,7%       145,0%     120,0%        217,8%         7,12%           152,1%
+ Liquidity Adequacy NSFR                                                 (1)  %             111,7%    >    111,8%       109,0%     102,0%        111,2%        -0,62%           108,4%
+                          Gap Ratio 3Y                                        %             102,4%    >    108,3%        95,0%      92,0%        108,3%        -0,06%            94,9%
+                          Gross Asset Encumbrance Ratio                       %             34,33%    <    32,07%       33,00%     36,00%        34,26%         2,19%           35,19%
+ Leverage                 Leverage Ratio                                      %              5,78%    >     5,55%        4,31%      3,50%         6,00%         0,45%            4,76%
+                          NPE Ratio                                           %           -           <    14,75%       17,00%     19,00%        12,70%        -2,05%           14,95%
+                          Texas Ratio                                         %           -           <       83%          95%       105%          81%         -2,15%              93%
+ Asset & Liability
+ Quality                  Coverage NPE Ratio                                  %           -           >       56%          51%        50%          47%         -9,40%              47%
+                          Growth Rate of Gross NPE                            %           -           <      -17%           1%          6%        -29%        -12,10%             -11%
+                          M REL                                          (2)  %           -           >    10,24%       10,00%            -       9,72%        -0,52%            9,48%
+                          RAROC                                               %               -1,5%   >      0,9%         0,0%            -       -1,7%        -2,60%            -2,6%
+ Perform ance             Total Revenues                                 (3) €/mln           2.090    >      3.316        3.280      2.985        3.083          -233            3.046
+                          ROE                                                 %           -           >      2,4%         2,1%        0,0%         1,6%        -0,76%             1,4%
+ Indicatore comune a RAS (KRI) e Recovery Plan (RPI)                                                                Superamento Appetite
+ (1) Regulatory minimum del 100% a partire dal 2022 (CRR2).                                                         Tolerance (Amber) Breach
+ (2) Espresso come percentuale del Total Liabilities and Ow n Funds (Exp. TLOF).                                    Capacity (Red) Breach
+    Tolerance Full Year = Soglia di Alert "Tolerance Equivalent".
+ (3) Per i Total Revenues le soglie sono proformate sul budget mensile.
+              Elemento da sottoporre alla valutazione del CdA
+                                                                                 Profile          Expected Appetite Tolerance Capacity               FORECAST D Forecast-           Alert
+  Entity/BU                                 KRI/RPI                                        U.M.
+                                                                                Aug-19              sign    FY2019E (Am ber)            (Red)           6+6        FY Appetite Threshold
+   MPSCS Reg. RWA - Credit Risk (Commercial Lending)                                4.871 €/mln       <          4.861         4.900       4.988           5.430           569         5.430
+   MPSLF      Growth Rate of gross NPE                                               -       %        <        -54,8%        -50,9%      -45,9%          -49,3%          5,5%        -45,9%
+              Reg. RWA - Credit Risk (Commercial Lending) - Direzione Corp.        20.775 €/mln       <         20.594        20.740         n.a.        21.455            861        21.601
+    CCO
+              RAROC                                                                    na    %        >          8,8%          8,2%          n.a.          5,3%         -3,5%          4,7%
+              Total Regulatory RWA                                                  3.396 €/mln       <          3.654         3.683         n.a.          3.935           281         3.964
+     CLO      Regulatory RWA - Credit Risk (Commercial Lending) - NPE               3.390 €/mln       <          3.649         3.678         n.a.          3.931           281         3.960
+              Commercial Lending - Reduction (UtoP and Past Due Loans)              1.462 €/mln       >          2.109         2.052         n.a.          1.664          -445         1.607
+     CFO      Total Regulatory RWA                                                  6.074 €/mln       <          6.151         6.172         n.a.          6.183            32         6.204
+    COO       Total Internal RWA                                                    2.730 €/mln       <          2.551         2.556         n.a.          2.754           203         2.759
+ Indicatore comune a RAS (KRI) e Recovery Plan (RPI)
+ 4. CONDIVISIONI/PARERI PREVENTIVI:
+ La presente memoria è stata preventivamente condivisa con le seguenti funzioni:
+ <U+25AA> CFO
+ La memoria verrà sottoposta al parere del Comitato Rischi preventivamente alla sua
+ approvazione.
+   Firme                                                                             Da                                                                   In Data
+08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019                                           Pagina 8 di 10
+
+                                                                                                      Protocollo Sisifo: AF5A2E42A0
+  Servizio Integrazione Rischi e Reporting                                                                             08/10/2019
+  Area Financial Risk Officer
+  Direzione Chief Risk Officer
+08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019        Pagina 9 di 10
+
+                                                                                                      Protocollo Sisifo: AF5A2E42A0
+                                               L'Amministratore Delegato
+                                                          PROPONE
+                   al Consiglio Di Amministrazione di adottare la seguente delibera:
+             il Consiglio Di Amministrazione esaminata la proposta del 8 Ottobre 2019
+                redatta dal Servizio Integrazione Rischi e Reporting avente ad oggetto:
+" Risk Appetite Monitoring al 31-08-2019 ", riposta agli atti con il n. ____/2019, su proposta
+                                             dell'Amministratore Delegato
+                                                          DELIBERA
+1) con riferimento al Risk Appetite Monitoring al 31 agosto 2019, di approvare la
+valutazione in termini di non materialità degli sconfinamenti relativa a: Gross Asset
+Encumbrance Ratio di Gruppo, Average LGD (AIRB) e Operational Losses del CCO,
+Commercial Lending – Reduction (UtoP and Past Due Loans) del CLO;
+2) con riferimento al confronto tra Forecasting “6+6” e obiettivi RAS 2019:
+a) di prendere atto degli sconfinamenti Tolerance/Amber prospettici nella misura determinata
+dal Forecasting “6+6” per i seguenti indicatori: Gross Asset Encumbrance Ratio, MREL,
+RAROC, Total Revenues e ROE di Gruppo, Growth Rate of Gross NPE di MPSLF,
+Regulatory RWA – Credit Risk (Commercial Lending) – Direzione Corporate e RAROC del
+CCO, Total Regulatory RWA, Regulatory RWA – Credit Risk (Commercial Lending) – NPE
+e Commercial Lending – Reduction (UtoP & Past Due Loans) del CLO, Total Regulatory
+RWA del CFO e Total Internal RWA del COO;
+di approvare, per i medesimi indicatori, l’individuazione di soglie “Alert Thresholds” - nella
+misura rappresentata nella memoria in esame - per l’attivazione dei processi di escalation di
+tipo Tolerance/Amber;
+b) di approvare la valutazione in termini di non materialità, ai fini dell’attivazione del
+Recovery Plan, degli sconfinamenti Capacity/Red prospettici per gli indicatori Coverage
+Ratio of NPE di Gruppo e Regulatory RWA – Credit Risk (Commercial Lending) di
+MPSCS;
+di approvare, per i medesimi indicatori, l’individuazione di soglie “Alert Thresholds” - nella
+misura rappresentata nella memoria in esame - per l’attivazione dei processi di escalation di
+tipo Capacity/Red.
+08/10/2019 - Proposta per Consiglio Di Amministrazione - MPS - Risk Appetite Monitoring al 31-08-2019       Pagina 10 di 10
+

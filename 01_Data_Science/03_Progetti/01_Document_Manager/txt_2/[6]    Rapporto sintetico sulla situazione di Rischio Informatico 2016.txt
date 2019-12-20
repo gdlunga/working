@@ -1,0 +1,379 @@
+Rapporto sintetico sulla situazione del Rischio Informatico
+                                                 Anno 2016
+                                Direzione Chief Risk Officer
+                                    GRUPPOMONTEPASCHI
+
+Il rischio informatico e le disposizioni di vigilanza
+   <U+F0FC> Il sistema informativo rappresenta uno strumento fondamentale per il conseguimento degli obiettivi strategici e operativi delle Banche, in
+     considerazione del valore delle informazioni gestite e della criticità dei processi aziendali che dipendono da esso.
+   <U+F0FC> La Circolare di Banca d’Italia n. 285/2013 definisce il ”rischio informatico” come il rischio di incorrere in perdite economiche, di
+     reputazione e di quote di mercato in relazione all’utilizzo di tecnologia dell’informazione e della comunicazione (Information and
+     Communication Technology – ICT).
+   <U+F0FC> Tra i requisiti posti dalla Circolare vi è l’adozione di un modello organizzativo e di un processo strutturato per la gestione del rischio
+     informatico, finalizzato ad identificare, valutare, trattare, documentare e monitorare i rischi connessi all’utilizzo delle tecnologie
+     informatiche. E’ richiesto, infatti, che siano forniti agli Organi apicali ed alle Funzioni aziendali preposte, gli elementi di giudizio necessari
+     per il governo del rischio informatico, coerentemente con i principi, le politiche e le linee guida adottate per la determinazione della
+     propensione al rischio a livello di Gruppo (Risk Appetite Statement, RAS).
+   <U+F0FC> Con cadenza almeno annuale viene predisposta una Relazione che descrive le risultanze delle analisi ed il trattamento del rischio
+     informatico, è volta a fornire agli Organi aziendali informativa sulla situazione del rischio informatico del Gruppo Montepaschi e sullo
+     stato di implementazione delle relative misure di mitigazione.
+   <U+F0FC> Come richiesto dalla Circolare Banca d’Italia n. 285/2013, la Relazione è sottoposta all’approvazione dell’Organo con funzione di
+     gestione della Capogruppo, che ne informa l’Organo con funzione di supervisione strategica. Quest’ultimo, nell’ambito del proprio ruolo
+     e delle responsabilità sulla materia, approva la sintesi della Relazione.
+   <U+F0FC> Si precisa che, in accordo con la Direttiva di Gruppo in materia di Gestione del Rischio Informatico (D1030D02045)
+           • la “Relazione sul Rischio Informatico del Consorzio Operativo di Gruppo – Anno 2016”, predisposta dal Servizio IT Risk
+              Management del COG *, è stata approvata dal Comitato dei Consorziati del Consorzio Operativo di Gruppo in data 7 marzo 2017
+           • la “Relazione sul Rischio Informatico di Banca Widiba – Anno 2016”, predisposta dall’Ufficio IT Risk Management di Widiba *, è
+              stata approvata dal CdA di Banca Widiba in data 8 febbraio 2017.
+             (*) Struttura che riporta funzionalmente al Servizio Rischi Operativi e Reputazionali di Capogruppo.
+   GRUPPOMONTEPASCHI|Direzione Chief Risk Officer                                                                                                       2
+
+Metodologia di analisi del rischio informatico
+   L’impostazione metodologica definita dalla Direttiva di Gruppo
+   in materia di Gestione del Rischio Informatico (documento
+   1030D02045) prevede la conduzione in parallelo di due
+   tipologie di analisi:
+    Un’analisi di alto livello (di seguito “Top Level”) al fine di
+    rappresentare la situazione di rischio complessiva dell’ICT. Tale
+    analisi si basa su Key Risk Indicator (KRI), ovvero su indicatori di
+    rischio che misurano nel continuo una serie di eventi tecnologici e
+    di processo.
+                                                                                                                                                     RISCHIO POTENZIALE
+                                                                                                                                     Molto                                                  Molto alto
+   Un’analisi di dettaglio (di seguito “Low Level”) condotta sui                    Il livello di rischio è valutato                 Alta
+                                                                                    come combinazione tra la
+   singoli asset ICT e finalizzata alla valutazione prospettica, in                                                                  Alta                                            Alto
+                                                                                    probabilità di accadimento
+                                                                                                                       Probabilità
+   termini di probabilità su scala qualitativa, degli scenari di rischio            degli scenari di rischio e il                    Media                            Medio
+   informatico che possono colpire l’asset e provocare un impatto                   loro impatto, entrambi
+   negativo per il Gruppo. Tale analisi si focalizza su un perimetro di                                                              Bassa                 Basso
+                                                                                    espressi sulla scala
+   asset selezionati annualmente.                                                   qualitativa prevista dalla                       Molto
+                                                                                                                                             Molto basso
+                                                                                                                                     Bassa
+                                                                                    Metodologia di Gruppo:
+                                                                                                                                                                   Media
+                                                                                                                                             Molto                                          Molto
+                                                                                                                                             Basso     Bassa                  Alta          Alto
+                                                                                                                                                               Impatto
+  <U+F0FC> In considerazione del fatto che la Relazione sul rischio informatico del 2015 aveva evidenziato un rischio “Alto” sulla sicurezza logica del
+    Consorzio, nel corso del 2016 è stata svolta un’analisi specifica in tale ambito, con l’obiettivo di valutare l’adeguatezza delle azioni di
+    mitigazione già concordate. L’analisi è stata condotta sulla base di un frame metodologico fornito dalla Società di consulenza Deloitte ERS.
+ GRUPPOMONTEPASCHI|Direzione Chief Risk Officer                                                                                                                                                          3
+
+Risk Appetite Statement (RAS) e propensione al rischio informatico per l’anno 2016
+<U+F0FC> Il livello di propensione al rischio informatico, ovvero il livello di rischio che il Gruppo Montepaschi intende assumere, viene stabilito
+   annualmente nell’ambito del Risk Appetite Statement (RAS).
+<U+F0FC> Il livello di propensione al rischio informatico è stato definito con riferimento alla scala qualitativa a 5 livelli prevista dalla Metodologia di
+   Gruppo (“Molto Alto”, “Alto”, “Medio”, “Basso”, “Molto Basso”).
+<U+F0FC> In particolare, il RAS di Gruppo per il 2016 ha stabilito che il rischio informatico non debba superare il livello “Medio”. Pertanto, qualora
+   il rischio potenziale sia valutato su un livello “Alto” o “Molto alto”, secondo il quadro metodologico definito dalla Direttiva 1030D02045,
+   dovranno essere prontamente individuate misure di mitigazione idonee a contenerlo entro i limiti fissati nel RAS.
+                                                                       LIMITE PROPENSIONE AL RISCHIO PER IL 2016
+<U+F0FC> Nel RAS 2016 è stato inoltre previsto il monitoraggio di due KRI – Key Risk Indicator con l’obiettivo di intercettare tempestivamente nuovi
+   segnali di deterioramento (early warning), da approfondire e indirizzare prima che il rischio si manifesti in un impatto negativo per il
+   Gruppo
+                 Ambito                                         KRI                                           Soglia di attenzione
+                                                 Numero mensile di incidenti              10 incidenti mensili, per le applicazioni a supporto di
+                                                 per singola risorsa informatica          processi critici ai fini della Business Continuity
+           Incidenti sulle risorse
+           informatiche                                                                   30 incidenti mensili per le altre applicazioni
+                                                                                          200 incidenti mensili per la rete TLC
+                                                 % clienti IB che hanno subito            0,01% (1 cliente ogni 10.000)
+           Frodi sulla clientela                 perdite a seguito di
+           Internet Banking                      transazioni fraudolente,
+                                                 calcolata su base annua
+  GRUPPOMONTEPASCHI|Direzione Chief Risk Officer                                                                                                     4
+
+Perimetro di analisi del rischio informatico per l’anno 2016
+<U+F0FC> Il Sistema Informativo di Gruppo comprende:
+        • 664 asset ICT gestiti dal Consorzio Operativo di Gruppo, censiti nell’inventario APM.
+        • 10 asset ICT gestiti direttamente da Banca Widiba, corrispondenti al sistema di Front-end multicanale della Banca.
+ <U+F0FC> Il CdA del 25 febbraio 2016 ha approvato l’obiettivo di concludere, nell’arco di un triennio, l’analisi di rischio sugli asset ICT in esercizio gestiti
+    da Consorzio Operativo di Gruppo.
+                                                                                   PERIMETRO ANALISI DEL RISCHIO 2016
+                                     <U+F0FC> Gli indicatori di rischio (KRI) sono stati misurati con                   <U+F0FC> Gli indicatori di rischio (KRI) sono stati misurati con
+    Analisi del rischio                  riferimento agli ambiti applicativi e infrastrutturali                      riferimento al sistema di Front-end multicanale
+                                         corrispondenti a 40 Settori del Consorzio che                               sviluppato e gestito in autonomia dalla Banca, visto
+    “Top Level”
+                                         hanno in gestione asset ICT. *                                              nel suo insieme e considerato come un unico
+                                                                                                                     ambito.
+                                     <U+F0FC> Sono stati selezionati 144 asset ICT su un totale di                      <U+F0FC> L’analisi Low Level ha riguardato tutte e 10 le
+                                        664, sulla base di una serie di fattori indicativi del loro                  applicazioni e funzionalità applicative che
+                                        livello di criticità.                                                        costituiscono il sistema di Front-end multicanale di
+                                        Di questi:                                                                   Banca Widiba.
+                                        • 123 asset sono applicazioni, per le quali il ruolo di
+   Analisi del rischio                      Utente Responsabile è esercitato da una specifica
+   “Low Level”                              Funzione aziendale.
+                                        • 21 asset sono classificati come risorse ICT
+                                            trasversali, per le quali il ruolo di Utente
+                                            Responsabile è esercitato collegialmente da apposita
+                                            Commissione costituita presso la Capogruppo.
+  (*) Non sono stati considerati i Settori del Servizio Sicurezza IT per il quale è stata adottata una metodologia di analisi specifica.
+  GRUPPOMONTEPASCHI|Direzione Chief Risk Officer                                                                                                                           5
+
+Risultati analisi del rischio «Top Level»
+<U+F0FC> L’analisi Top Level, eseguita tramite l’osservazione
+  degli indicatori di rischio (KRI), ha permesso di
+                                                               <U+F0FC> L’analisi Top Level non ha evidenziato alcun rischio eccedente la soglia di
+  valutare il livello di rischio dei diversi ambiti
+                                                                 propensione stabilita nel RAS di Gruppo.
+  applicativi e infrastrutturali in cui si articola il sistema
+  informativo di Gruppo, corrispondenti ai Settori del         <U+F0FC> Vi sono alcuni ambiti che presentano un rischio “Medio” e che corrispondono ai
+  Consorzio e alla Funzione ICT di Widiba che li hanno in        seguenti 6 Settori del COG (il 15% dei 40 Settori analizzati):
+  gestione.                                                            • Settore Pagamenti e Portafoglio;
+                                                                       • Settore Sistemi di Rete;
+                                                                       • Settore Finanza Proprietaria;
+   Distribuzione ambiti applicativi e infrastrutturali
+                                                                       • Settore Finanza Titoli Compravendita;
+                    per livello di rischio
+                                                                       • Settore Risparmio Gestito;
+                                                                       • Settore Anagrafe e Condizioni.
+                                                               <U+F0FC> Le anomale osservate hanno riguardato principalmente: gli incidenti, i change in
+                                              Limite RAS         emergenza, le modifiche ai dati eseguite direttamente in produzione, i progetti
+                                                                 in ritardo.
+                                                               <U+F0FC> Le evidenze fornite dai KRI sono state condivise con i Responsabili dei Settori al
+                                                                 fine di inquadrare le motivazioni degli andamenti e condividere le azioni di
+                                                                 miglioramento, seppure non obbligatorie per il rispetto dei limiti fissati nel RAS.
+                                                               <U+F0FC> Il rischio relativo al sistema di Front-end multicanale di Banca Widiba è stato
+                                                                 valutato complessivamente “Basso”.
+                                                               <U+F0FC> Tra i KRI monitorati, solo quello che rileva i Gap aperti dalle Funzioni di
+                                                                 controllo ha fatto segnare un livello di rischio “Medio”. In particolare, le
+                                                                 sessioni di ethical hacking condotte su richiesta della Funzione Audit hanno
+                                                                 evidenziato una serie di vulnerabilità rispetto agli attacchi esterni, per le quali
+                                                                 Banca Widiba ha avviato immediatamente le relative mitigazioni. È previsto
+                                                                 che tutte le mitigazioni saranno completate al più tardi entro il 31 marzo 2017.
+                                                               <U+F0FC> Le altre iniziative progettuali che Widiba ha pianificato per il 2017 riguardano il
+                                                                 potenziamento delle misure antifrode e dei monitoraggi di sicurezza, nonché lo
+                                                                 svolgimento di nuove sessioni di ethical hacking.
+   GRUPPOMONTEPASCHI|Direzione Chief Risk Officer                                                                                                    6
+
+Risultati analisi del rischio «Low Level»
+<U+F0FC> L’analisi di rischio Low Level è svolta su un perimetro di asset ICT ed è finalizzata alla valutazione prospettica degli eventi di rischio
+  informatico che possono colpire l’asset e provocare un impatto negativo per il Gruppo.
+<U+F0FC> L’analisi ha considerato anche i controlli specifici applicabili ai sistemi di pagamento via internet, in osservanza ai requisiti posti dagli
+  “Orientamenti in materia di sicurezza dei pagamenti tramite internet” emanati dall’EBA, divenuti obbligatori dal 30 settembre 2016.*
+<U+F0FC> Per 10 asset ICT (il 7% dei 144 analizzati)                        Ripartizione dei 144 asset analizzati                      <U+F0FC> Le raccomandazioni per la mitigazione dei
+   il livello di rischio è stato valutato “Alto”,                                                                                   rischi sono state presentate agli Utenti
+   ovvero superiore al limite stabilito nel RAS                                                                                     Responsabili degli asset e le relative
+   per il 2016.                                                                                                                     iniziative sono state pianificate.
+<U+F0FC> A questi si aggiungono altri 3 asset                                                                                          <U+F0FC> Per         uno      di      questi,      l’applicazione
+   valutati con rischio «Alto» individuati a                                                                                        APP0000494 - SAG - Swift Alliance
+   fine 2015.                                                                                                                       Gateway, la valutazione come rischio
+                                                                                                                                    “Alto” costituisce una proposta, da validare
+                                                                                                                                    a cura della Commissione risorse ICT
+                                                                                                                                    trasversali (le mitigazioni sono state
+                                                                                                                                    comunque avviate d’iniziativa da parte del
+                                                                                                                                    COG).
+<U+F0FC> Per quanto riguarda le 10 applicazioni e funzionalità applicative che costituiscono il sistema di Front-end di Banca Widiba, non sono stati rilevati
+   rischi di livello “Alto” o “Molto Alto”.
+<U+F0FC> Per 6 dei 10 asset ICT di Widiba, l’analisi Low Level ha evidenziato la presenza di alcuni rischi con livello massimo pari a “Medio”. Caratteristica
+   comune è l’esistenza di rischi dovuti a cancellazione/modifica dei dati, sia per eventi incidentali, sia con scopi malevoli. La mitigazione di questi
+   rischi è affidata a soluzioni di back-up dei dati, segregazione della rete e tracciatura delle operazioni nel rispetto delle prescrizioni normative.
+  GRUPPOMONTEPASCHI|Direzione Chief Risk Officer (*) L’obbligatorietà è stata stabilita dal 16° aggiornamento della Circolare Banca d’Italia n. 285/2013, datato 17 maggio 2016            7
+
+ Risultati analisi del rischio sulla Sicurezza informatica del COG
+<U+F0FC> La Relazione sul Rischio Informatico relativa all’anno 2015 aveva individuato un rischio di livello “Alto” riguardo ai processi operativi e i presidi
+  della sicurezza logica del Consorzio Operativo di Gruppo. Ad inizio 2016 il COG, aveva già predisposto un piano di interventi di mitigazione
+  denominato "Monte Più Sicuro".
+<U+F0FC> Nel corso del 2016, al fine di valutare l’adeguatezza delle azioni di mitigazione già avviate, è stata inoltre condotta un’analisi specifica sul macro
+  ambito della sicurezza informatica, con il supporto della Società di consulenza Deloitte ERS.
+             Sicurezza informatica COG - Scenari di rischio analizzati
+                                                                                                  <U+F0FC> L’analisi del rischio ha evidenziato rischi di
+                                                                                                     livello “Alto” riconducibili allo scenario
+                                                                                                     “Attacchi logici” (in particolare su hacking e
+                                                                                                     minacce sociali rivolte agli utenti) e allo
+                                                                                                     scenario “Utilizzo improprio e/o errori” (con
+                                                                                                     particolare riferimento agli errori effettuati
+                                                                                                     da utenti e personale tecnico e ai
+                                                                                                     malfunzionamenti derivanti da carenze nei
+                                                                                                     processi di progettazione, sviluppo, teste e
+                                                                                                     change).
+                                                                                                  <U+F0FC> Per la mitigazione dei rischi rilevati, a
+                                                                                                     settembre 2016 è stato definito un piano di
+                                                                                                     interventi di breve termine, integrativo
+                                                                                                     rispetto a quello formalizzato a inizio 2016
+                                                                                                     (“Monte più Sicuro”).
+                                                                                                  <U+F0FC> Tutte le attività di mitigazione previste per
+                                                                                                     il 2016 sono state svolte. Questo permette di
+                                                                                                     consolidare    il   rischio   sulla   Sicurezza
+                                                                                                     Informatica ad un livello “Medio”.
+   GRUPPOMONTEPASCHI|Direzione Chief Risk Officer                                                                                                        8
+
+Piano di mitigazione dei rischi informatici
+<U+F0FC> A fine 2016, il piano di mitigazione dei rischi informatici superiori alla soglia RAS comprendeva 8 interventi relativi a risorse del COG, con
+    scadenze diverse fino a luglio 2017. Tali interventi fanno riferimento ai 12 asset ICT valutati con rischio «Alto» ed alla Sicurezza Logica *.
+                                       Nr. Asset                                                                                        SAL
+  Asset/processo ICT                   (anno analisi)               Mitigazione                            Scadenza                  31/12/2016        Owner               Contributor
+                                                                                                           31/01/2017
+                                                        Gestione profili abilitativi: integrazione
+ PEF - Pratica Elettronica di Fido           1          autonomie deliberative con ruoli
+                                                                                                                                                      COG - Servizio       BMPS - Servizio
+                                        (fine 2015)                                                                                                   Credito              Credit Services
+                                                        PaschiPeople (gap IA_2016_00020)
+                                                                                                                                  (COMPLETATO)
+ CBI - Corporate Banking                                Gestione dei change: integrazione nel              28/02/2017                                 BMPS - Servizio
+                                             2                                                                                                                             COG - Servizio Incassi
+ Interbancario                                          tool standard distribuzione automatica                                                        Prodotti
+                                           (2016)                                                                                                                          e Pagamenti
+ (gestione flussi CBI)                                  software                                                                                      Corporate
+                                                                                                                                  (COMPLETATO)
+                                                                                                           31/03/2017                                 BMPS - Servizio
+ CAI - Centrale Allarmi Interbancaria                  Livelli di servizio: adozione strumenti                                                                             COG - Servizio
+ (segnalazioni allarmi su                    1         di monitoraggio corretto
+                                                                                                                                                      Finanziamenti e
+                                                                                                                                                                           Multicanalità Clienti
+                                        (fine 2015)                                                                                                   Prodotti
+ assegni/carte)                                        funzionamento (gap RM_2016_00010)                                                                                   Interni
+                                                                                                                                                      Transazionali Retail
+                                                        Gestione profili abilitativi: integrazione         31/03/2017                                 BMPS - Servizio      COG - Settore
+ Anagrafe Operativa Gruppo
+                                             1          trx NCHI con sistema controllo accessi                                                        Anagrafe Generale    Anagrafe e
+                                           (2016)
+                                                        (gap RM_2016_00013)                                                                           e Indagini           Condizioni
+ Applicazioni estero domestico                          Obsolescenza applicativa: studio                   31/03/2017                                BMPS - Staff
+ (5 applicazioni: anticipi, tesoreria,       5          fattibilità sostituzione con soluzione di
+                                                                                                                                                     Supporto Operatività
+                                                                                                                                                                           COG - Servizio
+ bonifici, rimesse imp/exp, estero         (2016)       mercato e/o incorporazione funzionalità                                                                            Sistemi Referenziali
+ sconto)                                                                                                                                             Rete Estera
+                                                        in settoriali Italia (gap RM_2017_00001)
+ Gestione processi operativi e                                                                             31/05/2017                                COG –Servizio
+                                                        Sicurezza logica: iniziative progetto
+ presidi di sicurezza logica del            n.s.        «Monte Più Sicuro» (gap RM_2016_00008)                                                       Sicurezza IT
+ Consorzio
+                                                        Gestione profili abilitativi: bonifica utenze,     30/06/2017                                 BMPS - Servizio      COG - Servizio Incassi
+ Gari Gold TFM
+ (gestione della messaggistica
+                                             1          sostituzione con asset «Messaggistica                                                         Liquidità Operativa e Pagamenti
+                                           (2016)       Finanziaria SWIFT» già integrato con
+ finanziaria su rete SwiftNET)
+                                                        controllo accessi (gap RM_2016_00012)
+ CLM - Channel e Liquidity                             Gestione profili abilitativi: bonifica utenze       31/07/2017                                 BMPS - Servizio      COG - Servizio
+ Management (gestione accentrata             1         e attribuzione profili in base al ruolo,                                                       Liquidità            Finanza
+ della liquidità della Banca)           (fine 2015)    accentramento su Funzione Gestione                                                             Operativa            COG –Servizio
+                                                       Utenti (gap RM_2016_00011)                                                                                          Sicurezza IT
+                                                      (*) Per quanto riguarda l’applicazione APP0000494 SAG - Swift Alliance Gateway, la cui valutazione di rischio “Alto” rappresenta una
+   GRUPPOMONTEPASCHI|Direzione Chief Risk Officer     proposta da validare a cura dalla neo-costituita Commissione risorse ICT trasversali; le mitigazioni sono state comunque avviate           9
+                                                      d’iniziativa del COG con data di completamento attesa, per l’ultimo degli interventi, a dicembre 2017.
+
+Monitoraggio dei key risk indicator inseriti nel RAS: incidenti IT
+<U+F0FC> Il numero mensile di incidenti IT sulle risorse gestite dal Consorzio è risultato in costante diminuzione nel corso del 2016 e si colloca alla fine
+  dell’anno su livelli inferiori alle soglie di attenzione definite nel RAS.
+<U+F0FC> Nel corso del 2016, il numero mensile di incidenti IT su Widiba è rimasto su ordini di grandezza comunque contenuti.
+                                           1.   Sono esclusi gli incidenti relativi all’informatica periferica (pdl, laptop, stampanti, scanner, server, telefonia, …).
+                                           2.   Le soglie di attenzione sono definite in termini di numero incidenti mensili e sono differenziate per tipologia di risorsa informatica: 10 incidenti
+                                                mensili per le applicazioni critiche ai fini della business continuity, 30 per le altre applicazioni e 200 per la rete TLC.
+                                           3. Incidenti con impatto «Alto» sulla clientela di Widiba, classificati da Widiba sulla base del numero di segnalazioni ricevute, delle funzionalità
+ GRUPPOMONTEPASCHI|Direzione Chief Risk Officer coinvolte e della durata del disservizio. I criteri di valutazione differiscono da quelli adottati dal COG per la classificazione dei «major incident». 10
+
+ Monitoraggio dei key risk indicator inseriti nel RAS: frodi ai danni dei clienti internet banking
+<U+F0FC> Nel corso del 2016, in BMPS si è ridotto il numero complessivo di tentativi di frode a danno della
+  clientela internet banking (-22%). Tale dinamica positiva ha interessato la clientela retail, mentre per il
+  corporate i tentativi di frode sono sensibilmente aumentati (+44% in numero e +400% in volume
+  transato). Grazie anche alle misure antifrode messe in campo, le transazioni fraudolente «effettive»
+  (non bloccate ex ante o recuperate ex post), sono state solo 10 (per una perdita di 31 k€), in ulteriore
+                                                                                                                                                 <U+F0FC> Per entrambe le Banche
+  riduzione rispetto alle 28 del 2015 (145 k€).
+                                                                                                                                                     l’incidenza del fenomeno è
+                                                                                                                                                     risultata significativamente
+                                                                                                                                                     inferiore alla soglia di
+                                                                                                                                                     attenzione definita nel RAS
+                                              Perdita 145 k€                                       Perdita 31 k€
+<U+F0FC> Nel corso del 2016, in WIDIBA le transazioni fraudolente che hanno prodotto una perdita per la clientela
+  sono state 5 (2 k€), in riduzione rispetto alle 22 rilevate nel 2015 (274 k€ *).
+                                              Perdita 274 k€                                       Perdita 2 k€
+   GRUPPOMONTEPASCHI|Direzione Chief Risk Officer         (*) Relativamente al cliente che ha subito la perdita maggiore (268 k€), Widiba ha sporto denuncia alla Polizia Postale 11
+                                                          per tentativo di truffa ai propri danni.
+
+Fact checking sul piano di attività programmate per il 2016
+<U+F0FC> Nella Relazione sul rischio informatico del 201S * era stato definito il piano di attività per il 2016; segue il resoconto dei risultati raggiunti:
+                         Piano di attività per il 2016                                                           Risultati raggiunti
+       Proseguimento delle analisi sulle risorse informatiche in                       <U+F0FC>  Completata analisi del rischio su:
+       produzione.                                                                        • 144 asset ICT gestiti dal Consorzio
+                                                                                          • 10 asset ICT gestiti da Widiba
+       Predisposizione del piano di mitigazione complessivo del                        <U+F0FC>  Al 31/12/2016 il piano comprende 8 interventi di
+       rischio informatico, alimentato dagli interventi di mitigazione                    mitigazione dei rischi che eccedono i limiti fissati dal RAS,
+       di tipo tecnologico, organizzativo o procedurale, approvati                        a fronte dei 12 asset valutati con rischio «Alto» ed alla
+       dagli Utenti Responsabili.                                                         Sicurezza logica COG.
+       Avvio dell’analisi del rischio sui progetti di sviluppo e di                    <U+F0FC>  Eseguita analisi sui seguenti major changes:
+       modifica rilevante del sistema informativo.                                        • progetto Swap data center (inversione del ruolo dei data
+                                                                                             center di Siena e Firenze);
+                                                                                          • progetto Digital banking (sviluppo nuovo internet
+                                                                                             banking clientela privati).
+       Adeguamento delle normative di processo impattate dal                           <U+F0FC>  Analizzati testi normativi da integrare; formalizzazione nel
+       processo di gestione del rischio informatico.                                      2017.
+       Implementazione di una nuova applicazione a supporto                            <U+F0FC>  Realizzato primo prototipo, utilizzato per analisi rischio
+       dell'analisi del rischio informatico.                                              2016 su asset ICT in esercizio.
+       Completamento, a cura di Area Organizzazione, dell’attività                     <U+F0FC>  Utente Responsabile individuato per 614 asset ICT gestiti
+       di individuazione degli Utenti Responsabili delle risorse                          dal Consorzio o da Widiba, pari al 91% del totale; in corso
+       informatiche.                                                                      attività per formalizzare assegnazione su ultimi 60 asset
+                                                                                       <U+F0FC> Costituita Commissione risorse ICT trasversali presso la
+                                                                                          Capogruppo.
+                                                                                                                                           cfr. allegato 1
+       Monitoraggio del rischio informatico tramite i Key Risk                         <U+F0FC>  Monitoraggio effettuato con cadenza mensile.
+       Indicator definiti nel RAS.
+  GRUPPOMONTEPASCHI|Direzione Chief Risk Officer   (*) Relazione approvata dal CdA del 25 febbraio 2016.                                                   12
+
+Piano di attività per il 2017
+<U+F0FC>      Il CdA del 25 febbraio 2016 ha approvato l’obiettivo di concludere, nell’arco di un triennio, l’analisi di rischio sugli asset ICT in esercizio
+       gestiti da Consorzio Operativo di Gruppo.
+       La prima tranche di 144 asset è stata completata durante il ciclo di analisi 2016.
+       La selezione della seconda tranche di asset da analizzare nel 2017 sarà effettuata in linea con le nuove guidelines poste da EBA ai fini
+       dello SREP (Supervisory Review and Evaluation Process), attualmente in fase di consultazione, con particolare riferimento
+       all’individuazione dei material ICT risks that can have a significant prudential impact on the institution’s critical ICT systems and
+       services. *
+Seguono gli altri, principali filoni di attività programmati per il 2017:
+<U+F0FC>      Consolidamento dell’attività di analisi del rischio sui progetti di sviluppo, modifica rilevante o outsourcing degli asset ICT, nell’ottica di
+       garantire il presidio sui major change che possono influenzare il complessivo livello di rischio informatico del Gruppo; formalizzazione
+       della normativa di dettaglio sul processo ed adeguamento delle altre normative impattate (ad esempio, demand management IT).
+<U+F0FC>      Adeguamento della metodologia, dei controlli e del processo di gestione del rischio informatico alle nuove guidelines poste dall’EBA ai fini
+       dello SREP, attualmente in fase di consultazione.
+<U+F0FC>      Presidio sullo stato di avanzamento del piano di mitigazione dei rischi e monitoraggio degli indicatori di rischio.
+ (*) Documento EBA/CP/2016/14 del 6 ottobre 2016: Guidelines on ICT Risk Assessment under the Supervisory Review and Evaluation process (SREP). stato: Consultation Paper.
+  GRUPPOMONTEPASCHI|Direzione Chief Risk Officer                                                                                                                           13
+
+                                               Allegati
+GRUPPOMONTEPASCHI|Direzione Chief Risk Officer          14
+
+Allegato 1 - Individuazione degli Utenti Responsabili degli asset ICT
+<U+F0FC> Come richiesto dalla Circolare Banca d’Italia 285/2013, il modello organizzativo prevede inoltre il ruolo dell’Utente Responsabile, figura da
+   identificare per ciascun sistema o applicazione, avente la responsabilità di:
+        • concorrere al processo di analisi del rischio informatico secondo la metodologia di analisi adottata dal Gruppo,
+        • accettare formalmente il rischio residuo.
+<U+F0FC> Il ruolo di Utente Responsabile è stato formalizzato nel Regolamento n. 1 della Capogruppo e viene attribuito, a cura dell’Organizzazione, alla
+   Funzione aziendale che, per prevalenza di interesse a livello di Gruppo, può rappresentare gli utenti di una data risorsa informatica nei rapporti
+   con la Funzione ICT.
+  Ai fini dell’individuazione dell’Utente Responsabile, si distinguono             L’Utente Responsabile è stato individuato per 614 asset ICT
+  quattro tipologie di risorse informatiche:                                       gestiti dal Consorzio o da Banca Widiba, pari al 91% del totale:
+                                                                                   Tipologia di                                               % su
+                        Le applicazioni di business realizzano un insieme di                               Utente Responsabile      Nr. asset
+                                                                                   risorse ICT                                                totale
+    Applicazioni        funzionalità a supporto dell’esecuzione dei processi
+    di business         aziendali. Sono assegnate ad una specifica
+                                                                                   Applicazioni
+                        Funzione di business.                                                                 Funzione Business        424     63%
+                                                                                   di business
+                        Le piattaforme di sicurezza sono poste a protezione        Piattaforme
+    Piattaforme         dell’integrità fisica e logica del sistema informativo                                Funzione Sicurezza        21      3%
+                                                                                   di sicurezza
+    di sicurezza        e della riservatezza dei dati gestiti. Sono di
+                        competenza della Funzione Sicurezza.
+                                                                                   Risorse
+                                                                                                                Funzione ICT            40      6%
+                        Le risorse “ITxIT” sono utilizzate esclusivamente          ITxIT
+                        dalla Funzione ICT a supporto dei propri processi
+    Risorse ITxIT       operativi e non sono collegate direttamente ai             Risorse ICT                  Commissione
+                                                                                                                                       129     19%
+                        processi di business. L’Utente Responsabile è              trasversali             Risorse ICT Trasversali
+                        individuato all’interno della Funzione ICT.
+                                                                                             subtotale asset ICT con UR individuato   614      91%
+                        Per le risorse ICT trasversali, ove non è possibile
+    Risorse ICT         individuare una Funzione aziendale prevalente, sono        Risorse in via di
+    trasversali         assegnate da apposita Commissione costituita a                                                                  60      9%
+                                                                                   assegnazione
+                        inizio 2017 in Capogruppo.
+                                                                                                                             Totale   674     100%
+  GRUPPOMONTEPASCHI|Direzione Chief Risk Officer                                                                                                     15
+

@@ -1,0 +1,303 @@
+                                                          Behavioural Models
+                                             Ricalibrazione annua dei parametri dei modelli tasso e volumi
+                                             per le Poste a Vista e valutazione del parametro di cut-off per i
+                                                                          NMDs
+Direzione Chief Risk Officer
+   Area Financial Risk Management
+                             Comitato Gestione Rischi: 20 Novembre 2019
+
+Executive Summary
+Ambito ed obiettivi del documento
+<U+F071>Il presente documento, oltre alla consueta ricalibrazione annua del parametri dei modelli tasso e volumi dei depositi a vista della Raccolta
+ e degli Impieghi Performing, offre una panoramica sulle possibili alternative di rappresentazione dei piani di ammortamento. In
+ particolare, si sofferma nell’analisi degli impatti sulle misure di sensitivity EVE in tre specifici casi, quello attuale, quello non vincolato ai
+ limiti di BCBS, ma che rispetta le prescrizioni dell’EBA sul decalage (EBA/GL/2018/02), ed un approccio intermedio che tiene in
+ considerazione le specificità della banca.
+<U+F071>L’introduzione dell’entrata in vigore delle EBA Guidelines a partire da Giugno 2019 ha portato il Risk Management a presentare una
+ valutazione della scelta relativa al rispetto dei limiti del Comitato di Basilea (BCBS: “Standards - Interest rate risk in the Banking Book”,
+ April 2016) relativamente ai profili comportamentali dei depositi a vista della Raccolta.
+<U+F071>Il Gruppo ha finora mantenuto un approccio di modellizzazione in linea con gli standard di BCBS, pur essendo questi ultimi una best
+ practice internazionale e non un vincolo formale. Il rispetto di tali limiti ha determinato nella calibrazione del 2018 un accorciamento dei
+ profili di ammortamento dei cluster di clientela Persone Fisiche e Small Business a 15 anni.
+<U+F071>L’eventuale scelta di non rispettare tali limiti non può prescindere dal riesame del modello volumi della Raccolta.
+<U+F071>Le masse coinvolte delle diverse alternative sono tali da influire considerevolmente sul posizionamento complessivo del Gruppo al
+ Rischio Tasso del Banking Book, quindi una qualsiasi eventuale modifica nel piano di ammortamento deve essere opportunamente
+ valutata e condivisa.
+                                                                                                                                                    2
+
+Executive Summary
+Valutazione delle diverse ipotesi: impatti sulle misure IRRBB
+<U+F071> La tabella seguente evidenzia gli impatti sul perimetro dei NMDs relativamente alla misura IRRBB di delta EVE per effetto di:
+      <U+F076> nuova calibrazione 2019 e ottimizzazione dei parametri con cut-off a 200 mesi (ipotesi A)
+      <U+F076> nuova calibrazione (A) e rimozione del vincolo BCBS (ipotesi B)
+      <U+F076> nuova calibrazione (A) e adozione approccio «intermedio» per Persone Fisiche e Small Business (ipotesi C)
+                                                                     A              B             C
+                                                                                                                                3
+
+Executive Summary
+Valutazione delle diverse ipotesi: impatti su altri ambiti
+<U+F071>Il modello comportamentale su NMDs e NMAs viene utilizzato in diversi ambiti aziendali.
+                               Elasticità
+           VISCHIOSITA’
+                                Stabilità
+<U+F071>I diversi approcci alternativi non produrrebbero effetti negli ambiti della Liquidità e del Credito, in quanto:
+      <U+F0A7>  riferiti al solo modello volumi della Raccolta (nessun impatto per il Credito);
+      <U+F0A7>  non alterano il profilo statistico (nessun impatto per la Liquidità).
+                              Impatti
+                                                                                                                 4
+
+        Behavioural models NMDs e NMAs
+Calibrazione annuale a fine Luglio 2019 e ottimizzazione parametri
+                                                                   5
+
+  Behavioural models – calibrazione 2019 per NMDs
+  Output modello tassi della Raccolta
+                                                                                                                                Beta Raccolta
+                                                                         100%                                           92%                            90%
+                                                                          80%                             72%      89%                            88%
+                                                                                                                                         65%
+                                                                          60%                        70%
+                                                                                                                                    64%                            44%
+                                                                          40%           35%
+                                                                                                                                                              43%
+                                                                                   36%                                                                                        18%
+                                                                          20%
+                                                                                                                                                                         18%
+                                                                            0%
+                                                                                Privati - Retail  Corporate PMI Corporate Enti       Private     Key Client    Retail SB Retail - DR
+                                                                                                                           Stime Luglio 18    Stime Luglio 19
+                                                                                                                                 Phi Raccolta
+                                                                         0,35
+                                                                                                                       29%
+                                                                         0,30                           26%      31%
+                                                                         0,25                      28%                                                22%
+                                                                         0,20                                                           17%      24%
+                                                                         0,15
+                                                                                                                                  17%
+                                                                         0,10                                                                                       7%
+                                                                                                                                                                                5%
+                                                                         0,05           3%
+                                                                                                                                                               7%
+                                                                         0,00
+                                                                               Privati - Retail  Corporate PMI Corporate Enti       Private     Key Client    Retail SB  Retail - DR
+                                                                                                                           Stime Luglio 18    Stime Luglio 19
+                                                                                                                              Theta Raccolta
+                                                                          0,00
+                                                                         -0,05                      -0,08         -0,09
+                                                                                                                                   -0,10         -0,10
+                                                                         -0,10                           -0,07         -0,08                                  -0,13      -0,12
+                                                                                                                                                      -0,08
+                                                                                                                                        -0,10
+                                                                                                                                                                              -0,12
+<U+F076> Stabilità dei parametri del modello tassi ECM (Error Correction Model)
+                                                                         -0,15                                                                                     -0,13
+                                                                                  -0,21
+                                                                         -0,20
+                                                                                       -0,21
+   per la Raccolta a vista modellizzata.                                 -0,25
+                                                                         -0,30
+                                                                               Privati - Retail  Corporate PMI Corporate Enti        Private     Key Client   Retail SB  Retail - DR
+                                                                                                                             Stime Luglio 18  Stime Luglio 19
+                                                                                                                                                                                     6
+
+Behavioural models – calibrazione 2019 per NMDs
+Output modello volumi della Raccolta
+                                                                  <U+F0DF>quota stabile al 30 settembre 2019
+Sul lato della Raccolta con la calibrazione di Luglio 2019:
+<U+F076> è stato confermato l’approccio semplificato di letteratura per
+    descrivere il decalage del cluster Private;
+<U+F076> è stato Introdotto l’effetto stagionale sul cluster Depositi al
+    Risparmio.
+                                                                                                      7
+
+ Behavioural models – calibrazione 2019 Performing NMAs
+ Output modello tassi degli Impieghi
+<U+F071> La nuova calibrazione del modello tassi sul lato degli impieghi modellizzati Performing alla data di luglio 2019 ha confermato la complessiva
+   instabilità dei parametri del modello ECM già registrata lo scorso anno.
+<U+F071> Per tale motivo si utilizza nuovamente l’approccio “contrattuale”, introdotto nel 2018, basato sulle evidenze effettive delle direzione
+   commerciale relativamente alle quote del portafoglio che risultano indicizzate per singolo segmento di business.
+<U+F071> Tali percentuali vengono adottate in sostituzione dei beta stimati con il modello ECM, il livello di theta viene assunto pari al tenor del tasso
+   Euribor 1M.
+                                                                                                                                                   8
+
+Behavioural models – calibrazione 2019 Performing NMAs
+Output modello volumi degli Impieghi Performing
+                                                                         Ristima Luglio 2019
+                                        IMPIEGHI
+                      Stime Luglio 19
+                                                         Privati - Corpora Corpora              Key     Retail
+                                                                                   Private
+                                                          Retail te PMI te Enti                Client     SB
+                                          Stagionalità     96%       95%     94%    97%         n.a.     97%
+                                           Mean Life        83        46      11     181         22       78
+                                          % Stabilità      75%       39%     0%     71%         42%      78%
+                                               Stabile     389       819       0     140         86     1.114    2.547   <U+F0DF>quota stabile al 30 settembre 2019
+<U+F071> Con la nuova calibrazione del modello per gli impieghi performing
+  effettuata a Luglio 2019:
+     <U+F0A7>   il cluster Corporate Enti non presenta una componente
+         stabile;
+     <U+F0A7>   il cluster Private ha un mean life statistico pari a 181 mesi,
+         che non viene modificato in quanto i limiti regolamentati
+         (BCBS e EBA) sono riferiti alla sola Raccolta.
+                                                                                                                                                               9
+
+ Behavioural models – framework di backtesting
+ Analisi dei risultati dell’applicazione del backtesting «out-sample»
+<U+F071> Di seguito si riportano i test di verifica della stabilità dei depositi sia di Raccolta sia di Impiego nel periodo 2018-2019 (calibrazione del
+  07/2018 e confronto con il saldo di 07/2019) e quelli del periodo 2017-2018 (calibrazione del 07/2017 e confronto con il saldo di
+  07/2018.
+<U+F071> L’applicazione del backtesting a livello di singolo cluster evidenzia il pieno superamento di tutti i check per la raccolta. Per quanto
+  riguarda gli impieghi il solo cluster Persone Fisiche nel 2017 presenta un errore inferiore alla soglia critica del 5%.
+                                                                                                                                                 10
+
+Behavioural models – framework di backtesting
+Analisi dei risultati dell’applicazione del backtesting «out-sample»: Raccolta
+<U+F071>La tabella di fianco sintetizza i parametri relativi alla calibrazione del
+ modello sui cluster della Raccolta ri-proformando le stime sulla base del
+ trattamento attuale della stagionalità. Si evidenzia una sostanziale                       (*)
+ stabilità dei parametri di volatilità, mentre il mean life statistico dei cluster
+ Persone Fisiche e Small Business cresce nel triennio 2017-19 per effetto
+                                                                                                                                (*) Approccio semplificato
+ della dinamica sui saldi.
+<U+F071>In basso sono riportati i test di verifica della stabilità dei depositi nel periodo 2016-2017 (calibrazione del 07/2016 e confronto con il saldo di
+ 07/2017) e quelli del 2018 (calibrazione del 07/2017 e confronto con il saldo di 07/2018).
+                                                                                                                                                           11
+
+Behavioural models – framework di backtesting
+Analisi dei risultati dell’applicazione del backtesting «out-sample»: Impieghi Performing
+<U+F071>La tabella di fianco sintetizza i parametri relativi alla calibrazione del
+ modello sui cluster degli Impieghi ri-proformando le stime sulla base del
+ trattamento attuale della stagionalità. Si evidenzia una sostanziale stabilità
+ dei parametri in termini di mean life statistico e di volatilità.
+<U+F071>In basso sono riportati i test di verifica della stabilità dei depositi di impiego nel periodo 2017-2018 (calibrazione del 07/2017 e confronto
+ con il saldo di 07/2018) e quelli del 2019 (calibrazione del 07/2018 e confronto con il saldo di 07/2019).
+<U+F071>Il cluster Persone Fisiche nel 2017 presenta un errore inferiore alla soglia critica del 5%.
+                                                                                                                                                12
+
+Behavioural models – framework di backtesting
+Analisi dei risultati dell’applicazione del backtesting «in-sample»
+<U+F071> Le tabelle in basso riportano i test di verifica sulle percentuali di Run-off sia di Raccolta che di Impiego nel periodo 2014-2018.
+                                                                                                                                      13
+
+Behavioural models – calibrazione 2019
+Impatti della calibrazione dell’ottimizzazione dei parametri
+<U+F071> La tabella riporta gli impatti della calibrazione 2019 e ottimizzazione dei parametri con cut-off a 200 mesi sulla misura di delta EVE.
+                                                                                               A
+<U+F071> Sulla misura di delta NII gli impatti della calibrazione 2019 sono immateriali.
+                                                                                                                                          14
+
+Behavioural models – calibrazione 2019
+Impatti della calibrazione su delta EVE: dettaglio per componente lineare e opzioni
+                                                                                    A
+                                                                                    A
+                                                                                      15
+
+        Approccio di stima dei NMDs
+Valutazione di approcci alternativi sui volumi sulla Raccolta
+                                                              16
+
+Behavioural models - NMDs
+Normativa regolamentare in materia e attuale approccio
+<U+F071> I potenziali effetti sulle misure di rischio IRRBB, derivanti dalla definizione della soglia di cut-off, impone al Gruppo di riesaminare
+  periodicamente la scelta relativa al rispetto dei limiti del Comitato di Basilea (BCBS: “Standards - Interest rate risk in the Banking
+  Book”, April 2016) in termini di maturity dei profili comportamentali dei depositi a vista.
+                                                                                             Limiti BCBS
+<U+F071> Il Gruppo ha mantenuto nel corso del tempo un approccio in linea
+  con gli standard di BCBS, pur non rappresentando questi ultimi un
+  vincolo normativo formale ma solo una best practice internazionale.
+<U+F071> Per tale motivo nella calibrazione di fine Luglio 2018, con effetti sul
+  RAF 2019, i profili di ammortamento statistico-comportamentali dei
+  cluster di clientela Persone Fisiche e Small Business sono stati                                                 Decalage Persone Fisiche
+  «limitati» a 15 anni al fine di rispettare gli standard del Comitato di
+  Basilea. Analoghi interventi sono stati effettuati nelle stime degli anni
+  precedenti.
+<U+F071> Le recenti Linee Guida EBA, entrate in vigore dal 30.06.2019, in
+  relazione ai decalage comportamentali dei NMDs, hanno
+  fissato/confermato limiti meno stringenti rispetto a quelli indicati
+  negli orientamenti del Comitato di Basilea.
+<U+F071> La differenza fondamentale tra il limite dell’EBA e quello di BCBS risiede nel perimetro di applicazione: nel calcolo della media nel primo
+  caso si considera l’intero portafoglio di depositi modellizzati (all deposits) mentre nel secondo la sola componente core.
+                                                                                                                                              17
+
+Behavioural models - NMDs
+Valutazione di alternative alla scelta del cut-off
+<U+F071> Per il Gruppo i vincoli dell’EBA sono già rispettati dai profili statistico-comportamentali, senza la necessità di intervenire sul mean life
+   statistico dei cluster di clientela Persone Fisiche e Small Business.
+<U+F071> Nel corso della recente OSI 2019-3834 relativa all’IRRBB gli ispettori hanno sottolineato l’opportunità di riesaminare la scelta relativa al
+   rispetto dei limiti di BCBS.
+<U+F071> Fermo restando il vincolo normativo dell’EBA, nell’ipotesi di non continuare a rispettare quello di BCBS si apre un ventaglio di scelte su
+   potenziali tagli (cut-off) per i profili statistico-comportamentali che eccedono il livello implicito nei limiti di BCBS con differenti impatti sulle
+   misure IRRBB.
+<U+F071> Le misure IRRBB nel prossimo RAF saranno fortemente influenzate dalla scelta che verrà effettuata sul cut-off essendo Il
+   posizionamento complessivo di rischio IRRBB del Gruppo legato alla modellizzazione comportamentale delle poste a vista del passivo.
+                                                                                                                               Decalage Persone Fisiche
+   A titolo di esempio si riporta accanto un grafico su possibili decalage per il cluster
+   Persone Fisiche, dove l’ipotesi A (BCBS) rappresenta la situazione as is della
+   calibrazione 2019 con cut-off pari a circa 16 anni, l’ipotesi B (EBA) quella senza                                                     B
+   limitazioni con cut-off pari a 28 anni e l’ipotesi Cn una «qualsiasi» delle n soluzioni
+   intermedie tra A e B.
+                                                                                                                              Cn
+                                                                                                           A                                             18
+
+Behavioural models - NMDs
+Valutazione di alternative alla scelta del cut-off: ipotesi (C)
+<U+F071> Tre le diverse soluzioni Cn, come detto alternative a quelle già presentate, ovvero (A) e (B), si potrebbe procedere mantenendo un
+   «ancoraggio» dei profili comportamentali dei NMDs con i limiti di BCBS allentando però la stretta nel momento in cui una situazione di
+   stress storico dovesse evidenziare condizioni meno stringenti.
+<U+F071> Il principio guida potrebbe essere quello che il vincolo sul cut-off che indirettamente deriva dal limite di BCBS (nella calibrazione 2019
+   con cut-offBCBS pari a circa 16 anni) non possa determinare un decalage «più corto» rispetto a quello catturato dal modello
+   comportamentale dopo una fase di stress di liquidità, come ad esempio quella vissuta dal Gruppo nel 2016 e registrata dalla
+   calibrazione di fine Luglio 2017.
+<U+F071> L’alternativa presentata è in linea con le indicazioni emerse durante l’On-Site Inspection (OSI) dell’ECB (nr. 2019-3834) in materia di
+   IRRBB, assicura la coerenza con la normativa esterna di riferimento (EBA/GL/2018/02), ma presenta alcune criticità in quanto introduce
+   arbitrarietà nel processo di selezione dei cut-off.
+                                                                                                                                             19
+
+  Behavioural models - NMDs
+  Valutazione di alternative alla scelta del cut-off: ipotesi (C)
+ 1) mean life 2019 < cut off BCBS
+ La casistica si presenta per i cluster Enti, PMI, Key Client e Depositi al Risparmio.
+ In tale condizione il decalage IRRBB è compiutamente definito dal modello statistico, non sono necessari
+ interventi correttivi.
+                                              2) mean life 2017 < cut off BCBS < mean life 2019
+                                              La casistica non si presenta per nessun cluster.
+                                              In tale condizione il delacage IRRBB è definito sulla base del mean life indiretto di BCBS.
+3) cut off BCBS < mean life 2017 < mean life 2019
+La casistica si presenta per i cluster Persone Fisiche e Small Business.
+In tale condizione la scelta preferibile potrebbe essere quella di definire il decalage IRRBB sulla base del
+mean life della calibrazione del 2017.
+                                                                                                                                          20
+
+Behavioural models - NMDs
+Valutazione di alternative alla scelta del cut-off: ipotesi (B) e (C) ed impatti di rischio
+<U+F071> La tabella successiva evidenzia gli impatti alla data del 30/9/2019 sulla misura di delta EVE per effetto di:
+      <U+F0A7> nuova calibrazione e rimozione del vincolo BCBS (ipotesi B)
+      <U+F0A7> nuova calibrazione e adozione approccio «intermedio» per Persone Fisiche e Small Business (ipotesi C)
+                                                                                      B                  C
+                                                                                                                21
+
+Behavioural models - NMDs
+Valutazione di alternative alla scelta del cut-off: ipotesi (B) e (C) e dettaglio per componente lineare e opzioni
+                                                                                    B                        C
+                                                                                    B                        C
+                                                                                                                   22
+
+Behavioural models – calibrazione 2019 per NMDs
+Valutazione di alternative alla scelta del cut-off: confronto dei cut-off e decalage ipotesi (C)
+                                                       200                                      200
+                                                                                                      A
+                                                                                                      B
+                                                                                                      C
+                                                                                                    C
+                                                                                                        23
+
+Behavioural models - NMDs
+Valutazione di alternative alla scelta del cut-off: benchmarking regolamentare con BCBS e EBA
+ <U+F071> La tabella seguente riporta la verifica del rispetto dei limiti di BCBS e dell’EBA nelle tre ipotesi.
+                              Limiti BCBS
+                                                                                               A         B C
+                              Limiti EBA
+                                                                                               A         B C
+                                                                                                             24
+
+25

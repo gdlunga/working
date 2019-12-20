@@ -1,0 +1,743 @@
+DATA:                         24/01/2019             DATA SCADENZA:        A REVOCA
+CODICE TESTO:                 D 02291 002 NMIG       CODICE RISORSA        AAA007XAU
+                              Direttiva di Gruppo in materia di
+OGGETTO:
+                              Integrated Risk Reporting
+MACROPROCESSO:                RISK MANAGEMENT
+PROCESSO:                     INTEGRATED RISK REPORTING
+SEGMENTO DI MERCATO:          NON APPLICABILE
+(prevalentemente interessato)
+RUOLI:                        CAPOGRUPPO - RESPONSABILE DI STRUTTURA
+(prevalentemente interessati)
+SERIE/SETTORE/SERVIZIO:       23 - NORMATIVA OPERATIVA
+                              2 - DIRETTIVA DI PROCESSO
+                              1 - DIRETTIVA DI PROCESSO (STRATEGICA - ANNUALE)
+TESTI ANNULLATI:
+PRESA VISIONE:                SENZA FORMALITÀ
+STRUTTURA EMANANTE:           2121 - AMM. DELEG.
+ASSISTENZA DI TIPO            .
+TECNICO/OPERATIVO:
+
+                  Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                  Codice: D 02291 002                   Pubblicato il: 24/01/2019                 Pag. 1 di 17
+                                                 INDICE
+1 - QUADRO DI SINTESI.................................................................................................. 2
+    1.1 -    PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI ...................................... 2
+    1.2 -    AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE .......... 3
+    1.3 -    DESTINATARI E MODALITA' DI RECEPIMENTO ................................................ 3
+    1.4 -    DECORRENZA ............................................................................................. 3
+    1.5 -    ELENCO FUNZIONI O RUOLI INTERESSATI ..................................................... 3
+2 - ASPETTI GENERALI .................................................................................................... 4
+    2.1 -    RISK REPORTING FRAMEWORK DEL GRUPPO .................................................. 4
+    2.2 -    RISK REPORTING GOVERNANCE (RRG) ......................................................... 5
+    2.3 -    RISK REPORTING MODEL (RRM) ................................................................... 5
+    2.4 -    RISK REPORTING PRODUCTION (RRP) ........................................................... 8
+    2.5 -    ASSESSMENT E REVISIONE DEL FRAMEWORK DI RISK REPORTING (RRR) ....... 10
+    2.6 -    RISK GLOSSARY ....................................................................................... 11
+3 - ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO .................................................. 11
+    3.1 -    GENERALITÀ............................................................................................. 11
+    3.2 -    RESPONSABILITA’ DEGLI ORGANI DI VERTICE DELLA CAPOGRUPPO E DELLE
+    SOCIETA’ DEL GRUPPO ........................................................................................... 11
+    3.3 -    RESPONSABILITA’ DELLE FUNZIONI AZIENDALI DELLA CAPOGRUPPO E DELLE
+    SOCIETA’ DEL GRUPPO ........................................................................................... 12
+    3.4 -    PARTICOLARITÀ PER SOCIETÀ DEL GRUPPO OPERANTI ALL’ESTERO E PER LE
+    FILIALI ESTERE DI BANCA MPS ................................................................................ 13
+4 - MAPPA RISK REPORT E STRESSED KRI ......................................................................... 14
+5 - ELENCO TESTI NORMATIVI DI RIFERIMENTO ................................................................ 17
+
+                      Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                      Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 2 di 17
+1 - QUADRO DI SINTESI
+1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI
+La presente Direttiva definisce il modello organizzativo adottato dal Gruppo (principi e
+responsabilità) del processo “Integrated Risk Reporting” al fine di definire, coordinare e
+predisporre l’Informativa Rischi Direzionale (Risk Reporting Direzionale).
+Il processo “Integrated Risk Reporting” regola pertanto le modalità con le quali le informazioni
+di rischio sono rappresentate agli Organi e alle Funzioni Aziendali aventi responsabilità
+strategiche, decisionali e di controllo nell’ambito del Macroprocesso di Risk Management
+(1030D01114); un solido framework di Risk Reporting Direzionale deve inoltre promuovere la
+piena valorizzazione dei diversi livelli di responsabilità all’interno dell’organizzazione aziendale
+e in modo particolare per l’Alta Direzione e gli Organi Aziendali, favorendo l’efficacia dei
+processi decisionali e di governo.
+Il processo Integated Risk Reporting è definito in coerenza con i processi strategici/direzionali
+che caratterizzano il governo dei rischi (1030D01114): Risk Appetite Framework
+(1030D01930), Gestione delle Operazioni di Maggior Rilievo (1030D01919), ICAAP
+(1030D01308), ILAAP (1030D02069), Recovery Plan (1030D02078), Definizione delle politiche
+e prassi di remunerazione e incentivazione (1030D02125). In particolare, i processi
+strategici/direzionali che caratterizzano il governo dei rischi (1030D01114) trovano il loro
+punto di integrazione con il framework di Risk Reporting Direzionale nelle modalità e nelle
+regole mediante le quali l’output di tali processi è rappresentato agli Organi e alle Funzioni
+Aziendali.
+La presente Direttiva disciplina il reporting di rischio gestito e prodotto dalla Funzione
+Controllo dei Rischi di Capogruppo per l’intero Gruppo Montepaschi. Non rientra pertanto in
+questo ambito il reporting relativo alla Funzione di Convalida Interna, alla Funzione
+Antiriciclaggio, o ad altre Funzioni Aziendali - anche con compiti di controllo - aventi ad oggetto
+temi di rischio.
+La presente Direttiva ha quindi l’obiettivo di normare in particolare il Risk Reporting Direzionale
+di Gruppo (come meglio specificato in seguito), definendo i principi, le Funzioni coinvolte e le
+regole di elaborazione e rappresentazione delle informazioni di rischio. Le disposizioni ivi
+contenute sono state sviluppate in coerenza con i Principi per un’efficace aggregazione e
+reportistica dei dati di rischio (“Principles for Effective Risk Data Aggregation and Risk
+Reporting”) redatti nell’ambito dello Standards Implementation Group del Comitato di Basilea
+(BCBS 239).
+Il processo di Integrated Risk Reporting è coordinato dalla Capogruppo e integra le
+informazioni (in ingresso e in uscita) relative anche alle Controllate Italiane ed Estere, nonché
+alle Filiali Estere.
+La Capogruppo, in conformità alla normativa vigente per i Gruppi Bancari ed alle regole ed
+indirizzi stabiliti nell’ambito del Gruppo Montepaschi, eroga i servizi di controllo dei rischi ad
+alcune Controllate Italiane, con metodologie e modalità in linea con le prescrizioni delle
+Autorità di Vigilanza e sulla base dei principi e delle linee guida stabiliti in materia di Sistema
+dei Controlli Interni (1030D00793) e di Esternalizzazioni (1030D01797), con riferimento anche
+ai temi del risk reporting (1030D01114).
+
+                      Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                      Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 3 di 17
+1.2 - AGGIORNAMENTI                  E    MODIFICHE             RISPETTO            ALLA      VERSIONE
+PRECEDENTE
+I principali aggiornamenti sono stati effettuati con riferimento:
+- alle evoluzioni degli assetti organizzativi nel frattempo intercorsi (par. 1.5)
+- allo schema (mappa risk report) dei principali flussi informativi di Risk Reporting Direzionale
+    (par. 4)
+- all’esplicitazione dei Key Risk Indicators (Stressed KRI) da produrre in condizioni di
+    stress/crisi (par. 2.4, par. 3.2, par. 4)
+Le principali variazioni apportate sono evidenziate in giallo nel testo.
+1.3 - DESTINATARI E MODALITA' DI RECEPIMENTO
+La presente Direttiva è destinata alla Capogruppo e alle Aziende del Gruppo.
+Le Società del Gruppo recepiscono la Direttiva, con delibera dei propri organi apicali,
+adeguando responsabilità, processi e regole interne, in coerenza con le proprie caratteristiche
+e dimensioni.
+Il recepimento deve essere notificato alle seguenti Strutture e Funzioni della Capogruppo:
+<U+F0A7><U+F020>Struttura a cui fa capo il riporto societario della singola società;
+<U+F0A7><U+F020>Servizio Integrazione Rischi e Reporting;
+<U+F0A7><U+F020>Area Organizzazione
+1.4 - DECORRENZA
+Data di pubblicazione.
+1.5 - ELENCO FUNZIONI O RUOLI INTERESSATI
+Quadro di raccordo tra Funzioni/Ruoli e Strutture/Organi citati nella Direttiva:
+Nome Convenzionale Funzione             Struttura Organizzativa
+Controllo dei Rischi                    BMPS:
+                                        <U+F0A7>    Direzione CRO
+Funzione Specialistica di               BMPS:
+Controllo dei Rischi                    <U+F0A7>    Area Financial Risk Officer - Tutti i Servizi
+                                        <U+F0A7>    Area Lending Risk Officer - Tutti i Servizi
+                                        <U+F0A7>    Area Operating Risk Officer - Tutti i Servizi
+Controllo dei Rischi Locale             Società del Gruppo:
+                                        <U+F0A7>    Struttura di Società estera /Filiale estera responsabile del
+                                             controllo del rischio
+Risk Reporting                          BMPS:
+                                        <U+F0A7>    Area Financial Risk Officer - Servizio Integrazione Rischi e
+                                             Reporting
+Pianificazione                          BMPS:
+                                        Area Pianificazione, CdG e Data Governance - Tutti i Servizi
+Segnalazioni di Vigilanza               BMPS:
+                                        <U+F0A7>    Area Amministrazione e Bilancio – Servizio Normativa
+                                             Regolamentare e Reporting
+
+                         Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                         Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 4 di 17
+Revisione Interna                            BMPS:
+                                             <U+F0A7>   Direzione Chief Audit Executive - Servizio Financial &
+                                                 Model Risk Audit
+Nome Convenzionale Ruolo                    Ruolo aziendale
+Chief Risk Officer (CRO)                    BMPS:
+                                            <U+F0A7>   Responsabile Direzione Chief Risk Officer
+2 - ASPETTI GENERALI
+2.1 - RISK REPORTING FRAMEWORK DEL GRUPPO
+Il Risk Reporting Framework del Gruppo Montepaschi è improntato a garantire il buon
+funzionamento delle attività atte alla produzione dell’informativa direzionale sui rischi di
+Gruppo. In particolare, coerentemente con gli orientamenti internazionali in materia di
+aggregazione dei dati e reporting di rischio, i principi guida che ispirano il Risk Reporting
+Framework disciplinato dalla presente Direttiva sono riconducibili a:
+<U+F0A7> Accuratezza: i dati veicolati sono corretti e precisi, le stime e le approssimazioni sono
+    adeguatamente presidiate;
+<U+F0A7> Completezza ed esaustività: i dati di rischio includono l’intero perimetro rilevante e sono
+    colti tutti i rischi significativi per il Gruppo, inclusi quelli prospettici;
+<U+F0A7> Chiarezza e utilità: il contenuto, la modalità di rappresentazione delle informazioni e il
+    loro livello di aggregazione sono definiti in maniera chiara e sono adeguati rispetto alle
+    esigenze e alle responsabilità decisionali dei destinatari;
+<U+F0A7> Frequenza e tempestività: la frequenza di produzione e distribuzione del reporting è
+    adeguata alle esigenze dei destinatari, alla natura delle informazioni e all’evoluzione della
+    posizione di rischio del Gruppo;
+<U+F0A7> Distribuzione e riservatezza: il reporting direzionale di rischio è indirizzato puntualmente
+    ai relativi destinatari nel rispetto degli obblighi di confidenzialità e riservatezza.
+Il Risk Reporting Framework (RRF) si articola in 4 componenti distinte:
+<U+F0A7> Risk Reporting Governance (RRG): definisce i meccanismi di governo dell’informativa sui
+    rischi (Risk Reporting) di Gruppo, individuando ruoli e le responsabilità attribuite ai diversi
+    soggetti;
+<U+F0A7> Risk Reporting Model (RRM): definisce il modello dell’informativa sui rischi di Gruppo,
+    definisce la mappa dei flussi informativi (risk reports), descrive le caratteristiche di ognuno
+    (contenuto, destinatari, frequenza) e ne manutiene le specifiche nel tempo;
+<U+F0A7> Risk Reporting Production/Flow (RRP): definisce le modalità di produzione dei risk
+    reports (1° livello, 2° livello, 3° livello), l’esistenza di misure a consuntivo (fast close e
+    forward looking), il reporting in condizioni di normalità e in condizioni di stress con differenti
+    tempistiche, contenuto, meccanismi approvativi e destinatari;
+<U+F0A7> Risk Reporting Review (RRR): attiene la revisione dell’intero impianto che può condurre
+    anche ad una proposta di modifica sostanziale del Framework di Risk Reporting.
+
+                     Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                     Codice: D 02291 002               Pubblicato il: 24/01/2019          Pag. 5 di 17
+                                        RRR                 RRG
+                                                   RRF
+                                        RRP                RRM
+2.2 - RISK REPORTING GOVERNANCE (RRG)
+Il modello di governo dell’informativa rischi di Gruppo è di competenza del Consiglio di
+Amministrazione della Capogruppo che supervisiona e approva almeno annualmente il
+Framework complessivo su proposta del Chief Risk Officer (CRO).
+Il Modello di governo dell’informativa rischi viene definito e sviluppato anche con riferimento ai
+riporti organizzativi stabiliti per il Chief Risk Officer (di seguito anche solo CRO): gerarchico nei
+confronti del Consiglio di Amministrazione (di seguito anche solo CdA) e funzionale nei
+confronti dell’Amministratore Delegato (di seguito anche solo AD) (1030D00793).
+Al fine quindi di qualificare ulteriormente la nozione di riporto diretto del CRO al CdA, sono
+pertanto previsti specifici Risk Report che vengono inviati dal CRO direttamente al CdA (e
+Comitati Endoconsiliari di supporto al CdA stesso), in qualità di Organo con Funzione di
+Supervisione Strategica, senza l’intermediazione da parte dell’AD in qualità di Organo con
+Funzione di Gestione. A titolo meramente esemplificativo e non esaustivo, appartengono a
+questa categoria l’Executive Risk Management Report (E-RMR) e altri flussi istituzionali (ICAAP
+Package, ILAAP Package,…).
+Sono altresì previsti specifici Risk Report, indirizzati all’AD/DG in qualità di Organo con
+Funzione di Gestione (oltre al Senior Management come di seguito indicato) della Capogruppo,
+laddove ci siano esigenze di raccordo/indirizzo gestionale sulle unità di business/risk takers. I
+contenuti/evidenze di sintesi di tale informativa possono essere comunque ricompresi anche
+nella precedente tipologia a discrezione del CRO o del CdA. A titolo meramente esemplificativo
+e non esaustivo, appartengono a questa categoria il Risk Appetite Monitoring (RAM), il
+reporting per il Comitato Gestione Rischi, il monitoraggio dei Limiti Operativi Gestionali, il
+reporting per le Controllate e le Filiali Estere.
+2.3 - RISK REPORTING MODEL (RRM)
+La figura seguente illustra in maniera sintetica il Modello di Risk Reporting del Gruppo
+Montepaschi e l’ambito dell’informativa direzionale sui rischi di Gruppo (Risk Reporting
+Direzionale).
+
+                     Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                     Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 6 di 17
+Nell’ambito del Modello di Risk Reporting del Gruppo, ai fini di una corretta gestione dei rischi,
+è necessario che informazioni appropriate siano destinate a soggetti aziendali opportunamente
+individuati, in momenti e tempi tali da consentire loro una risposta adeguata rispetto al
+ruolo/responsabilità rivestite.
+Nell’ambito del Risk Reporting, anzitutto, si distinguono i Risk Documents ed i Risk Reports
+rispetto alla tipologia di informativa rappresentata e di utilizzo finale.
+I Risk Documents sono flussi informativi di rischio che assumono la forma di
+documenti/relazioni strutturati ed organici (tipicamente rivolti agli Organi Aziendali), redatti
+sulla base di prescrizioni normative esterne (es. Risk Plan, Relazione Annua di Risk
+Management, Resoconto ICAAP/ILAAP,…) e che, per loro natura, non sono strutturati per
+supportare in maniera sistematica il processo decisionale.
+I Risk Reports sono invece flussi informativi di rischio che possono assumere la forma di
+documenti/presentazioni autonomi o essere incorporati/generati tramite sistemi informativi
+automatici (sistemi/piattaforme di risk management) la cui caratteristica principale è quella di
+essere strutturati per supportare in maniera sistematica il processo decisionale.
+Il Risk Reporting inoltre si distingue, rispetto ai destinatari, in Reporting Esterno e Reporting
+Interno.
+Il Risk Reporting Esterno è predisposto ed indirizzato a soggetti esterni alla Banca,
+tipicamente i Supervisors, gli Investitori, gli Analisti, le Agenzie di Rating e il Mercato in
+generale.
+Il Risk Reporting Interno è invece predisposto e indirizzato per supportare la gestione
+aziendale da parte degli Organi Aziendali e del Management (anche qualora sia previsto un
+eventuale inoltro ai Supervisors), e si suddivide a sua volta in almeno tre macro-famiglie:
+    <U+F0B7> 1° livello – Reporting verso gli organi con funzione di supervisione strategica e controllo
+        della Capogruppo;
+    <U+F0B7> 2° livello – Reporting verso gli organi con funzione di gestione ed il senior management
+        (C-Level) della Capogruppo (ivi ricompreso anche il reporting verso i Comitati di
+        Gestione), nonché il reporting per gli organi delle Controllate del Gruppo;
+
+                      Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                      Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 7 di 17
+    <U+F0B7>    3° livello – Reporting operativo verso le Business Unit e assuntori di rischio (strutture
+         della Capogruppo e/o delle Controllate).
+Le caratteristiche principali del Risk Reporting Interno sono di seguito riepilogate:
+<U+F0A7>    il risk reporting di primo livello è indirizzato agli organi aziendali della Capogruppo con
+     funzione di supervisione strategica e controllo (Consiglio di Amministrazione, Comitato
+     Rischi ed altri comitati endoconsiliari di supporto al CdA, Collegio Sindacale). Verso tali
+     destinatari il reporting prodotto ha carattere di massimo livello di sinteticità, utile
+     comunque a verificare il rispetto delle soglie RAS - Risk Appetite Statement (1030D01930)
+     e Recovery (1030D02078), in coerenza anche con i processi ICAAP (1030D01308) e ILAAP
+     (1030D02069);
+<U+F0A7>    il risk reporting di secondo livello è indirizzato verso gli organi con funzione di gestione
+     ed il senior management (C-Level) della Capogruppo, aventi cioè finalità di indirizzo,
+     coordinamento e controllo delle strategie operative e di gestione dei rischi di Gruppo,
+     nonché di indirizzo e coordinamento di temi specifici e/o indirizzo e gestione operativa di
+     situazioni di crisi; il reporting in questione è altresì indirizzato agli Organi delle Controllate.
+     Questa tipologia di reporting ha carattere di sufficiente dettaglio/aggregazione, utile a
+     valutare i rischi del Gruppo e delle Controllate secondo le principali dimensioni di analisi
+     rilevanti, al fine di garantire una corretta consapevolezza e supporto alla gestione degli
+     stessi e utile al processo gestionale ordinario tra le Business Unit nell’ambito degli indirizzi
+     strategici di propensione al rischio esplicitati dal RAS - Risk Appetite Statement
+     (1030D01930);
+<U+F0A7>    il risk reporting di terzo livello è indirizzato alle Business Units per finalità di gestione
+     operativa dei rischi; è normato direttamente dalle singole direttive di processo di gestione
+     dei vari rischi a cui si rimanda.
+I primi due livelli, congiuntamente, definiscono il perimetro del Risk Reporting Direzionale,
+mentre il terzo livello delimita il perimetro del Risk Reporting Operativo.
+L’Integrated Risk Reporting disciplina quindi in particolare il Risk Reporting Direzionale
+prodotto nell’ambito delle attività della Funzione Controllo dei Rischi a supporto del processo
+decisionale direttamente riconducibile ai processi strategici/direzionali di governo dei rischi
+(1030D01114).
+In coerenza al principio di adattabilità, il Risk Reporting Direzionale di Gruppo è
+sufficientemente flessibile e adattabile per soddisfare all’occorrenza richieste ad hoc di
+informazioni e/o di valutazione di rischi emergenti (c.d. ad hoc reports o sezioni ad hoc nei
+report standard), al manifestarsi di specifici eventi o sulla base di richieste da parte degli
+Organi Aziendali, del Senior Management o per rispondere ad esigenze informative
+destrutturate o parzialmente strutturate (es. quesiti delle Autorità di Vigilanza).
+Rientra nella responsabilità della Funzione di Controllo dei Rischi valutare volta per volta la
+necessità di integrare i contenuti, modalità di rappresentazione e produzione delle informazioni
+rispetto alle caratteristiche standard.
+Il Risk Reporting Direzionale è prodotto a livello di Gruppo e di singole Controllate Italiane
+e/o Controllate/Filiali Estere. Le risultanze ivi contenute possono essere utilizzate per
+monitorare/rendicontare i rischi in condizioni di normalità (on going concern risk
+reporting), oppure per innescare meccanismi di escalation formali in situazione di stress/crisi
+(stressed risk reporting), così come definiti nelle normative di Gruppo (es. 1030D01930 -
+Direttiva Direttiva di Gruppo in materia di Governo del Risk Appetite Framework, 1030D02078
+- Direttiva di Gruppo in materia di Governo del Piano di Recovery). In questo secondo caso il
+risk report è comunque sempre inquadrato esplicitamente all’interno di un meccanismo
+formalizzato di comunicazione (es. Sisifo, e-mail, PEC,…), e non è sufficiente che un report sia
+stato prodotto per assumere che l’escalation sia stata attivata.
+
+                         Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                         Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 8 di 17
+2.4 - RISK REPORTING PRODUCTION (RRP)
+Il Risk Reporting Direzionale è quindi connesso ai principali processi strategici/direzionali di
+governo dei rischi (1030D01114); tra questi si rilevano almeno:
+<U+F0A7>       il Risk Appetite Monitoring;
+<U+F0A7>       ICAAP e ILAAP ongoing;
+<U+F0A7>       Recovery Plan Monitoring;
+<U+F0A7>       il Monitoraggio delle Operazioni di Maggior Rilievo(OMR).
+La frequenza del reporting è definita secondo i principi di appropriatezza rispetto all’oggetto del
+monitoraggio, al ruolo e alle responsabilità decisionali degli organi e delle funzioni destinatarie.
+A tal fine si distingue tra reporting in condizioni di normalità e reporting in condizioni di
+stress.
+In particolare, in condizioni di normalità (on going concern):
+<U+F0A7> il Risk Reporting Direzionale di primo livello è redatto e comunicato ai destinatari con
+     cadenza minima trimestrale, con riferimento alla fine di ciascun trimestre;
+<U+F0A7> il Risk Reporting Direzionale di secondo livello è redatto e comunicato ai destinatari con
+     cadenza minima mensile, con riferimento corrispondente alle date di fine mese.
+In ossequio al principio di tempestività, il Risk Reporting Direzionale (di primo e secondo
+livello) in condizioni di normalità (on going concern) è prodotto rispettivamente entro i termini
+della pubblicazione della disclosure informativa esterna (di solito 45 gg solari successivi alla
+data di riferimento) ed entro il mese successivo (di solito 30 gg solari successivi alla data di
+riferimento).
+In condizioni di tensione/stress i destinatari del reporting devono essere posti nelle
+condizioni di poter assumere decisioni rilevanti in tempi più brevi e sulla base di informazioni il
+più possibile aggiornate. In quest’ottica, il Gruppo seleziona e definisce una serie di metriche e
+indicatori rilevanti che possono essere oggetto di reporting in tempi più ristretti e con
+frequenza maggiore rispetto alla produzione della reportistica standard in condizioni di
+normalità, nonché le aspettative in termini di approssimazioni accettabili e qualità dei dati
+utilizzati per la produzione di tali misure, tenendo conto del trade-off tra tempestività del
+reporting e accuratezza delle informazioni.
+Nella selezione di informazioni aventi carattere di maggior rilevanza, che consentano ai
+destinatari del reporting di assumere le decisioni appropriate, rientrano, senz’altro, le misure di
+rischio a consuntivo, utili a verificare l’aderenza del profilo di rischio rilevato con gli obiettivi e
+le soglie definite nei processi strategici/direzionali di governo dei rischi (1030D01114). A fianco
+alle misure consuntive, il Gruppo si impegna a integrare quest’ultime con misure e valutazioni
+prospettiche avvalendosi di stime e simulazioni che permettano di anticipare l’evoluzione del
+profilo di rischio del Gruppo.
+In quest’ottica, il Risk Reporting Direzionale prevede quindi la rappresentazione di:
+<U+F0A7>     Misure di Rischio a consuntivo: rilevate a data di riferimento passata e distinte rispetto
+      al grado di accuratezza in:
+      -     Misure ufficiali, assoggettate a processi di verifica, riconciliazione e validazione da
+            parte degli owner, anche di natura contabile;
+      -     Misure stimate (Estimate, Fast Close Measures), rappresentate in ottica di “miglior
+            stima” (Best Estimates) e di tempestività, per le quali il processo di certificazione e
+            ufficializzazione del dato non è completo alla data di chiusura del Reporting;
+<U+F0A7>     Misure di Rischio prospettiche, stimate cioè a una data futura, le quali combinano le
+      informazioni più recenti con la simulazione di scenari, eventi o azioni presumibili in fase di
+      pianificazione strategica e operativa. In tal senso, si distinguono le misure prospettiche:
+
+                        Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                        Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 9 di 17
+     -    Misure Previsionali Baseline (Forward Looking Baseline), stimate attraverso
+          l’utilizzo di scenari attesi o con gradi di probabilità di realizzazione elevata;
+     -    Misure Previsionali Adverse (Forward Looking Adverse), stimate attraverso l’utilizzo
+          di scenari che contemplino ipotesi di stress con diverso grado di severità e probabilità
+          di accadimento.
+Nel caso di Risk Reporting da produrre in condizioni di stress/crisi (che avviene dopo la
+dichiarazione effettiva di tale status da parte degli organi aziendali competenti secondo la
+normativa aziendale interna di riferimento), vengono definiti i seguenti aspetti:
+<U+F0A7>    le metriche e le relative soglie che qualificano la condizione di stress;
+<U+F0A7>    la selezione delle misure più rilevanti da produrre con maggiore frequenza;
+<U+F0A7>    la tempestività con cui ciascuna metrica viene resa disponibile;
+<U+F0A7>    gli standard minimi, in termini di controlli di accuratezza, quadratura e verosimiglianza che
+     devono essere svolti sulle stime delle misure prodotte in tempi ristretti al di fuori del ciclo
+     ordinario di produzione e reporting.
+L’individuazione delle metriche (Key Risk Indicator), delle funzioni specialistiche di controllo dei
+rischi competenti (owner), della frequenza (frequency) e della tempestività (timeliness) degli
+indicatori di rischio (KRI) da produrre in condizione di stress/crisi, viene aggiornata almeno
+annualmente in coerenza con l’aggiornamento del Recovery Plan (1030D02078) e con la
+definizione del Risk Appetite Statement (1030D01930). I Key Risk Indicators in condizioni di
+stress/crisi (Stessed KRI) possono essere attivati nella loro totalità o anche parzialmente, sulla
+base di quanto definito parte degli organi aziendali competenti secondo la normativa aziendale
+interna di riferimento per la dichiarazione effettiva di tale status (1030D02078).
+Sono previsti specifici test volti a verificare l’effettiva capacità di produzione e diffusione del
+reporting in condizioni di stress.
+Al fine di garantire un adeguato ed efficace sistema di supporto alle decisioni, il Risk Reporting
+Direzionale del Gruppo prevede un equilibrato rapporto di informazioni quantitative e
+qualitative. Il corretto bilanciamento di componenti qualitative (valutazioni, raccomandazioni,
+warning) e quantitative è improntato a consentire la migliore comprensione e interpretazione
+delle dinamiche di rischio e stimolare/favorire le decisioni e gli interventi necessari.
+Per tutte le caratteristiche di dettaglio dei principali Risk Report e degli Stressed KRI rilevanti
+ai fini della presente normativa, si rimanda al par. 4.
+In ragione del perimetro di aggregazione (consolidato, individuali) del tipo (consuntive,
+prospettiche), rilevanza (ufficiali o stimate) e natura delle informazioni rappresentate
+(informazioni sui rischi, patrimonio, reddito macroeconomiche), il Risk Reporting Direzionale
+presuppone un modello collaborativo tra diverse funzioni e diversi gruppi di contributori, che
+coprono, in maniera integrata e per le rispettive aree di responsabilità, il perimetro
+informativo.
+Il perimetro informativo dei dati rilevanti per il Risk Reporting è presidiato dai singoli
+Data Owner responsabili (e relativi Business Data Stewards), che mantengono la
+complessiva responsabilità delle attività relative alla gestione delle informazioni riferite al
+proprio ambito, in coerenza con le linee guida e la metodologia definita nel framework di Data
+Governance, regolato da specifica normativa interna di Gruppo, a cui si rimanda
+(1030D02148).
+La correttezza e la qualità dei dati che compongono il Risk Reporting direzionali è pertanto
+presidiata nell’ambito del modello di Data Governance (1030D02148), che prevede,
+nell’ambito della integrazione e implementazione della più ampia architettura dati e dei modelli
+di riferimento del Gruppo, la definizione della tassonomia dei dati (Data Taxonomies), il
+
+                     Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                     Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 10 di 17
+dizionario dati (Data Dictionaries), nonché il rispetto della riservatezza/distribuzione delle
+informazioni (Data Protection) e i controlli sugli stessi (Data Quality).
+Nello specifico framework di data quality sono previste le attività di riconciliazione, validazione
+e verifica dello standard di qualità.
+Il ricorso a soluzioni manuali “di contingency” nella produzione del Risk Reporting Direzionale è
+limitato a colmare eventuali carenze tecniche provvisorie e a tener conto delle mutevoli
+esigenze aziendali. In tali fattispecie, il Gruppo predispone le misure idonee per l’attenuazione
+del rischio di eccessivo ricorso a tali modalità manuali, i controlli e la documentazione che
+descrive le azioni e gli strumenti per trasferire, manipolare o alterare i dati da aggregare o da
+segnalare.
+Il Risk Reporting Direzionale contiene informazioni, considerazioni e raccomandazioni il cui
+carattere di confidenzialità deve essere trattato con l’opportuna riservatezza consona
+all’importanza dei contenuti e al novero dei destinatari autorizzati a riceverlo.
+A tal fine, il Gruppo si impegna a garantire i requisiti minimi di sicurezza e confidenzialità dei
+flussi informativi, secondo gli standard previsti internamente dalla normativa aziendale (ad es.
+trasmissione dei reports tramite protocollo SISIFO, Team Site con profilazione utenti, posta
+elettronica,...).
+2.5 - ASSESSMENT E REVISIONE DEL FRAMEWORK DI RISK REPORTING
+(RRR)
+Il Risk Reporting Direzionale è valutato ed aggiornato periodicamente con frequenza almeno
+annuale. In particolare, la Funzione Controllo dei Rischi esegue annualmente un
+assessment volto a valutare l’efficacia/efficienza dell’intero Modello di Risk Reporting, di cui
+relaziona all’occorrenza anche all’interno di altre informative (es. Relazione Annua di Risk
+Management).
+Gli Organi Aziendali valutano quindi almeno annualmente il grado di rispondenza del Risk
+Reporting Direzionale alle proprie esigenze, anche sulla base delle risultanze prodotte dalla
+Funzione di Controllo dei Rischi.
+Il Consiglio di Amministrazione, principale destinatario del Risk Reporting Direzionale di primo
+livello, almeno annualmente si assicura di richiedere e ricevere i flussi informativi di rischio che
+gli consentano di adempiere il proprio ruolo. A tal fine, nell’ambito del processo annuale di
+revisione del Risk Reporting, verrà sottoposto al Consiglio di Amministrazione un
+Questionario utile a rilevare il grado di chiarezza, utilità ed esaustività del risk reporting
+ricevuto, con la possibilità di indicare eventuali richieste di modifiche e/o integrazioni allo
+schema in uso, che la Funzione di Controllo dei Rischi valuta nell’ambito delle attività da
+pianificare.
+Analoga valutazione può essere sottoposta all’AD con riferimento al Risk Reporting Direzionale
+di secondo livello, in ossequio alle necessità di maggiori dettagli che sono propri del processo
+gestionale ordinario.
+Aggiornamenti più frequenti rispetto alla periodicità annuale sono previsti su richiesta del CdA,
+del Comitato Rischi, del Collegio Sindacale e/o delle Autorità di Vigilanza.
+
+                       Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                       Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 11 di 17
+2.6 - RISK GLOSSARY
+Il Risk Reporting Direzionale fa ampio ricorso a glossari, o definizioni interne, al fine di
+promuovere una ampia diffusione e omogeneizzazione della Risk Culture a livello di Gruppo,
+come richiesto anche dalle normative esterne. A tal fine il Reporting richiama e si rifà anche a
+Glossari aziendali più ampi e generali.
+3 - ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO
+3.1 - GENERALITÀ
+La Funzione di Controllo dei Rischi della Capogruppo è responsabile, coerentemente con
+il documento “1030D01114 - Policy in materia di Risk Management (Governo dei Rischi)”, del
+processo di “Integated Risk Reporting” e risulta pertanto accentrata sulla Capogruppo la
+responsabilità di definizione e predisposizione dell’Informativa Rischi Direzionale (Risk
+Reporting Direzionale) definendo criteri, responsabilità e strumenti a supporto.
+Le Società del Gruppo, rientranti nel perimetro di applicazione, sono responsabili del rispetto
+delle regole definite dalla Capogruppo.
+3.2 - RESPONSABILITA’                   DEGLI           ORGANI             DI       VERTICE         DELLA
+CAPOGRUPPO E DELLE SOCIETA’ DEL GRUPPO
+ORGANO CON FUNZIONE DI SUPERVISIONE STRATEGICA
+Il Consiglio di Amministrazione (CdA) della Capogruppo, nell'ambito del proprio ruolo di
+supervisione strategica:
+ <U+F0A7> approva le linee guida ed il quadro organizzativo in materia di Integrated Risk Reporting
+     (Risk Reporting Framework);
+ <U+F0A7> assicura che venga approntato un sistema di Risk Reporting accurato, completo, efficace e
+     tempestivo;
+ <U+F0A7> esamina il Risk Reporting Direzionale periodico di pertinenza;
+ <U+F0A7> valuta ed approva periodicamente, almeno con cadenza annuale, le eventuali modifiche o
+     integrazioni al Risk Reporting Direzionale (contenuto, formato e frequenza delle
+     informazioni di rischio riportate), che gli consentano di adempiere il proprio ruolo, rispetto
+     ai rischi cui il Gruppo è o può essere esposto;
+ <U+F0A7> assicura che il Risk Reporting Direzionale costituisca elemento effettivo di supporto dei
+     suoi processi decisionali, e che le informazioni siano poi diffuse al resto del contesto
+     aziendale in modo da influenzare anche le decisioni del management e dei dipendenti nelle
+     attività quotidiane e nei loro impatti sui rischi che il Gruppo si assume (Risk Culture
+     promotion).
+Il Comitato Rischi della Capogruppo supporta il Consiglio di Amministrazione nell’esame
+dell’informativa periodica sui rischi trasmessa e nella revisione periodica in materia di Risk
+Reporting Direzionale.
+Gli Organi di Supervisione Strategica delle Controllate:
+ <U+F0A7> recepiscono il quadro organizzativo e le linee guida in materia di Integrated Risk
+     Reporting;
+ <U+F0A7> esaminano il Risk Reporting Direzionale periodico indirizzato alla Controllata;
+ <U+F0A7> garantiscono il supporto necessario alla Funzione Controllo dei Rischi di Capogruppo, in
+     tema di rappresentazione dei rischi a cui la Controllata è o potrebbe essere esposta.
+
+                      Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                      Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 12 di 17
+ORGANO CON FUNZIONE DI GESTIONE
+L’Amministratore Delegato (AD) della Capogruppo:
+ <U+F0A7> esamina il Risk Reporting Direzionale periodico di pertinenza;
+ <U+F0A7> garantisce la rispondenza ai criteri di completezza, accuratezza e integrità dei dati utilizzati
+     nella reportistica di rischio direzionale da parte della Funzione Controllo dei Rischi di
+     pertinenza anche di altre Funzioni/processi aziendali (es. sistemi contabili, di
+     pianificazione, segnalazioni di vigilanza,…);
+ <U+F0A7> garantisce la definizione dei flussi informativi volti ad assicurare al Senior Management e
+     alle Business Unit la piena conoscenza e governabilità dei fattori di rischio di pertinenza e
+     ad assicurare il pieno supporto alla Funzione Controllo dei Rischi;
+ <U+F0A7> valuta periodicamente, almeno con cadenza annuale, le eventuali modifiche o integrazioni
+     al Risk Reporting Direzionale di pertinenza.
+I Comitati Gestionali (es. Comitato Gestione Rischi, Comitato Direttivo,…) ricevono e
+esaminano il Risk Reporting Direzionale a supporto delle finalità di indirizzo, coordinamento e
+controllo delle strategie operative e di gestione dei rischi di Gruppo.
+ORGANO CON FUNZIONE DI CONTROLLO
+Il Collegio Sindacale della Capogruppo, ed i Collegi Sindacali delle Società del Gruppo,
+vigilano sulla funzionalità e sull’affidabilità Risk Reporting.
+3.3 - RESPONSABILITA’                   DELLE          FUNZIONI                AZIENDALI            DELLA
+CAPOGRUPPO E DELLE SOCIETA’ DEL GRUPPO
+La Funzione di Controllo dei Rischi della Capogruppo è responsabile della definizione del
+Modello di Risk Reporting di Gruppo (Modello di Informativa Rischi) e in tale ambito in
+particolare:
+ <U+F0A7> cura la definizione dei flussi informativi volti ad assicurare la piena conoscenza e
+     governabilità dei fattori di rischio (Risk Reporting Direzionale);
+ <U+F0A7> assicura alle Controllate l’adeguato reporting per il governo locale dei rischi;
+ <U+F0A7> promuove l’autovalutazione annuale del Risk Reporting Direzionale.
+La Funzione Risk Reporting:
+ <U+F0A7> supervisiona l’aderenza del Modello di Risk Reporting di Gruppo (Modello di Informativa
+     Rischi) alle esigenze operative;
+ <U+F0A7> manutiene nel tempo la Mappa dei Risk Report rilevanti attinenti al Reporting Direzionale e
+     degli Stressed KRI (cfr. par 4);
+si interfaccia con la Funzione Specialistica di Controllo dei Rischi, la Funzione
+Pianificazione, la Funzione Segnalazioni di Vigilanza e con le altre Funzioni aziendali
+specialistiche che si rendessero necessarie per la definizione dei criteri/misure di rischio da
+incorporare nel Risk Reporting Direzionale; produce in condizioni di normalità il Reporting
+Direzionale di pertinenza in ottica integrata (Enterprise Wide Risk Management, EWRM)Il Chief
+Risk Officer (CRO) propone il Modello di Informativa Rischi al Consiglio di Amministrazione
+per la relativa approvazione e trasmette ed illustra il Risk Reporting Direzionale ai destinatari
+dello stesso.
+La Funzione Specialistica di Controllo dei Rischi contribuisce ai risk reports mediante la
+produzione delle misure di propria competenza (es. RWA, indicatori/misure di rischio,…)
+garantendo peraltro l’interscambio e la fornitura delle informazioni necessarie alla Funzione
+Pianificazione per la determinazione delle misure ad essa assegnate; in condizioni di
+
+                     Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                     Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 13 di 17
+stress/crisi cura la produzione gli indicatori di rischio di propria competenza (Stressed KRI) e
+connesso reporting verso gli organi aziendali destinatari (cfr. par. 4).
+La Funzione Pianificazione fornisce alla Funzione di Controllo dei Rischi le misure di
+pertinenza da rappresentare nei risk reports e collabora con la Funzione Risk Reporting nel
+definire le metodologie e le modalità di produzione delle misure a consuntivo/prospettiche,
+fornendo anche le assunzioni metodologiche per la produzione di tali misure.
+La Funzione Segnalazioni di Vigilanza fornisce alla Funzione di Controllo dei Rischi le
+misure di pertinenza da rappresentare nei risk reports e collabora con la Funzione Risk
+Reporting nel definire le metodologie e le modalità di produzione delle misure a
+consuntivo/prospettiche, fornendo anche le assunzioni metodologiche per la produzione di tali
+misure.
+La Funzione Research contribuisce periodicamente ai risk reports mediante la produzione
+delle misure di propria competenza (es. scenari/variabili macroeconomiche utilizzate nel RAS),
+fornendo anche le assunzioni metodologiche per la produzione di tali misure.
+La Funzione Revisione Interna è deputata allo svolgimento dei controlli di terzo livello e,
+pertanto, esercita le responsabilità definite all’interno della Policy di Gruppo in materia di
+Sistema di Controlli Interni (1030D00793 - Policy di Gruppo in materia di Sistema di Controlli
+Interni).
+3.4 - PARTICOLARITÀ                 PER       SOCIETÀ             DEL       GRUPPO           OPERANTI
+ALL’ESTERO E PER LE FILIALI ESTERE DI BANCA MPS
+Nell’ambito delle Società Estere del Gruppo/Filiali Estere di Banca MPS, le Funzioni di
+Controllo del Rischio Locale, per quanto di rispettiva competenza:
+ <U+F0A7> recepiscono gli indirizzi definiti dalla Capogruppo, adeguandoli a quanto eventualmente
+     richiesto dalle Autorità di Vigilanza locali;
+ <U+F0A7> assicurano il supporto necessario alla Funzione di Controllo dei Rischi della Capogruppo per
+     le informazioni di pertinenza da rappresentare nei risk reports.
+
+Risk Management Function Flows
+Gruppo Montepaschi
+Situation as at Dec-2018
+                                                                                                                                                                                                          Recipients
+                                                                                                                                                                             Senior Manag./                      Head Office                      External
+Main Risk Reports                                                                                                                                            CRO BU
+                                                                                                                                                                              Subsidiaries                     Corporate Bodies                  Recipients
+ # Risk Flow Internal/ Level Report Name                                 Risk Content                                             Risk Area/ Frequency                                                                                                                     Communication   Owner
+   Type      External                                                                                                             Factors                                                                                                                                     Mean
+                                                                                                                                                             CRO    BU
+                                                                                                                                                                         Subsidiary
+                                                                                                                                                                                      MC(s)   RMC   CEO   RC   RPC   RemC   AppC   BOD   BoSA   JST
+                                                                                                                                                                                                                                                      OtherAut.   Market
+                                                                  Synthetic Risk Report for BoD
+                                                                  - Risk Appetite Group KRI
+                                 Executive Risk Management Report - Selected KRI Forward Looking projections
+  1 Report       Internal      1                                                                                                  ALL           Quarterly      <U+F0FC>                                           <U+F0FC>                       <U+F0FC>            <U+F0FC>                              Sisifo      SIRR
+                                 [E-RMR]                          - ICAAP/ILAAP on going
+                                                                  - Recovery Plan Summary
+                                                                  - OMR Summary
+  2 Report       Internal      1 Exposures to Connected Parties          Connected Parties Limits Monitoring                      ALL           Quarterly      <U+F0FC>                      <U+F0FC> <U+F0FC> <U+F0FC>                    <U+F0FC>                   <U+F0FC> <U+F0FC>                                        TS/Sisifo    SIRR
+                                                                                                                                                                                                                                                                                                                                                                                                                                                Codice: D 02291 002
+  3 Report       Internal      2 Risk Appetite Monitoring [RAM]          Full cascaded RAS Monitor and OMR summary                ALL           Quarterly      <U+F0FC>                      <U+F0FC> <U+F0FC> <U+F0FC> S                                      S                                        TS/Sisifo(S)   SIRR
+                                 Recovery Plan Indicators
+  4 Report       Internal      2                                         Group Recovery Indicators Report                         ALL           Quarterly      <U+F0FC>                      <U+F0FC> <U+F0FC> <U+F0FC> S                                      S                                        TS/Sisifo(S)   SIRR
+                                 Monitoring [RPIM]
+                                                                         Group Report about:
+                                                                                                                                                                                                                                                                                                   Lo schema che segue illustra in maniera sintetica le caratteristiche salienti dei principali flussi
+                                                                         - Internal Capital (Equivalent RWA Estimate)
+                                                                         - Credit Risk and Limits
+                                                                         - IRRBB and Limits
+                                   Risk Management Report Group
+  5 Report       Internal      2                                         - Liquidity position and Limits                          ALL           Monthly        <U+F0FC>                      <U+F0FC> <U+F0FC> <U+F0FC> <U+F0FC>                                      S                                        TS/Sisifo(S)   SIRR
+                                   [RMR]
+                                                                         - Market Risk (Trading + Banking ) and Limits
+                                                                         - Counterparty Risk
+                                                                         - Operational Risk (Q/Q basis)
+                                                                                                                                                                                                                                                                                                                                                                                                         4 - MAPPA RISK REPORT E STRESSED KRI
+                                                                         - Wealth Risk Management WRM (Q/Q basis)
+                                   Risk Management Report                Individual Risk Report for each Subsidiary/Foreign
+  6 Report       Internal      2                                                                                                  ALL           Quarterly      <U+F0FC>          <U+F0FC>                                                                                                    Sisifo      SIRR
+                                   Subsidiaries/Branches                 Branch about all relevant risk factors
+Keynote:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                Pubblicato il: 24/01/2019
+    BU: Business Units                                                  JST: Joint Supervisory Team (ECB/Bankit)
+    CRO: Chief Risk Officer                                             Other Aut.: Other Authority (e.g. CONSOB, DGComp,…)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+    Subsidiary: Individual Legal Entity or Foreign Branch               Market: General Stakeholders
+    MC(s): Management Committees (e.g. Comitato Direttivo, Comitato Finanza
+                                                                        AFRO:e Liquidità,…)
+                                                                                 Area Financial Risk Officer [cfr. Funzione Specialistica di Controllo dei Rischi ]
+    RMC: Risk Management Committee                                      SIRR: Servizio Integrazione Rischi e Reporting [cfr. Funzione Risk Reporting ]
+    CEO: Chief Executive Officer                                        SRO: Servizio Rischi Operativi [cfr. Funzione Specialistica di Controllo dei Rischi ]
+    CR: Risk Committee (BoD Committee)                                  SWRM: Servizio Wealth Risk Management [cfr. Funzione Specialistica di Controllo dei Rischi ]
+    RPC: Related Parties Committee (BoD Committee)                      SRR&BM: Servizio Rischi Reputazionali e Business Model [cfr. Funzione Specialistica di Controllo dei Rischi ]
+    RemC: Remuneration Committee (BoD Committee)                        Sisifo: Internal Communication Protocol
+                                                                                                                                                                                                                                                                                                                                                                                                                                                Pag. 14 di 17
+    AppC: Appointments Committee (BoD Committee)                        TS: Collaboration Team Site
+    BoD: Board of Directors                                             OracleCloud: IT environment for Financial Statement management
+                                                                                                                                                                                                                                                                                                   informativi di Risk Reporting Direzionale (Risk Reports e Risk Documents) e degli Stressed KRI.
+    BoSA: Board of Statutory Auditors                                   S: flow in Stressed conditions
+
+Risk Management Function Flows
+Gruppo Montepaschi
+Situation as at Dec-2018
+                                                                                                                                                                                                                         Recipients
+                                                                                                                                                                                             Senior Manag./                     Head Office                      External
+Main Risk Documents                                                                                                                                                         CRO BU
+                                                                                                                                                                                              Subsidiaries                    Corporate Bodies                  Recipients
+ # Risk Flow      Internal/Ex Level Report Name                                 Risk Content                                           Risk Area/        Frequency                                                                                                                        Communication   Owner
+   Type           ternal                                                                                                               Factors                                                                                                                                               Mean
+                                                                                                                                                                            CRO    BU
+                                                                                                                                                                                        Subsidiary
+                                                                                                                                                                                                     MC(s)   RMC   CEO   RC   RPC   RemC   AppC   BOD   BoSA   JST
+                                                                                                                                                                                                                                                                     OtherAut.   Market
+  7 Document      Internal          1       Group Risk Plan                     Risk Activities planned                                ALL               Annual              <U+F0FC>                                            <U+F0FC>                       <U+F0FC>                                           Sisifo       SIRR
+  8 Document      External          1       Group Risk Summary                  Summary of Inherent risks and processes                ALL               Annual              <U+F0FC>                                            <U+F0FC>                       <U+F0FC>            <U+F0FC>                              Sisifo       SIRR
+  9 Document      Internal          2       Individual Risk Plan                Risk Activities planned                                ALL               Annual              <U+F0FC>           <U+F0FC>                                                                                                    Sisifo       SIRR
+ 10 Document      Internal          2       Individual Risk Summary             Summary of Inherent risks and processes                ALL               Annual              <U+F0FC>           <U+F0FC>                                                                                                    Sisifo       SIRR
+                                            Risks related to Investment
+ 11 Document      External          1                                           Annual Summary about WRM for Consob                    WRM               Annual              <U+F0FC>                                            <U+F0FC>                       <U+F0FC>     <U+F0FC>             <U+F0FC>                       Sisifo      SWRM
+                                            Services Summary
+ 12 Document      External          1       IT Risk Summary                  Annual Summary about IT Risk for Bankit                   IT Risk           Annual              <U+F0FC>           <U+F0FC>                         <U+F0FC>      <U+F0FC>                       <U+F0FC>            <U+F0FC>                              Sisifo       SRO
+                                                                             - Group KRI
+ 13 Document      Internal          1       Risk Appetite Statement [RAS]    - BU/LE KRI Cascading down                                ALL               Annual              <U+F0FC>           <U+F0FC>           <U+F0FC>       <U+F0FC>     <U+F0FC>      <U+F0FC>                       <U+F0FC>                                           Sisifo       AFRO
+                                                                             - Stress Test/Sensitivity Analises
+                                                                                                                                                                                                                                                                                                                   Codice: D 02291 002
+                                                                             - Risks to Capital (Internal/Regulatory Capital)
+ 14 Document      External          1       ICAAP Annual Statement (Package) - Capital Adequacy (current, forward and stressed)        Risks to Capital Annual               <U+F0FC>                                            <U+F0FC>                       <U+F0FC>            <U+F0FC>                              Sisifo       AFRO
+                                                                             - Process Adequacy
+                                                                             - Risks to Liquidity (Intraday, Short/Medium/ Long
+                                                                             Term)
+ 15 Document      External          1       ILAAP Annual Statement (Package)                                                           Liquidity         Annual              <U+F0FC>                                            <U+F0FC>                       <U+F0FC>            <U+F0FC>                              Sisifo       AFRO
+                                                                             - Liquidity Adequacy (current, forward and stressed)
+                                                                             - Process Adequacy
+                                                                                CRO Opinion about the coherence between RAF and
+ 16 Document      Internal          1       RAF-Remuneration Opinion                                                                   ALL               Annual              <U+F0FC>                                            <U+F0FC>                                                                   Sisifo       AFRO
+                                                                                Remuneration Policy
+                                            Risk Contribution to Identified Staff Contribution to HR Material Risk Takers identification
+ 17 Document      Internal          2                                                                                                    ALL             Annual              <U+F0FC>      <U+F0FC>                                                                                                         E-mail       SIRR
+                                            Report                                (Reg. EU 604/14)
+ 18 Document      External          1       Pillar3 Disclosure                  External disclosure according to Reg. UE 575/13        ALL               Quarterly           <U+F0FC>                       <U+F0FC>             <U+F0FC>      <U+F0FC>                       <U+F0FC>                              <U+F0FC>            Sisifo      SRR&BM
+                                            EC Commitments Monitoring
+ 19 Document      External          1                                           DGComp Commitments Monitoring for Trustee              ALL               Quarterly           <U+F0FC>                       <U+F0FC>             <U+F0FC>      <U+F0FC>                       <U+F0FC>                   <U+F0FC>                       Sisifo      SRR&BM
+                                            Report
+                                            Risk Contribution to Financial
+ 20 Document      Internal          2                                           Risk analyses for Financial Statement (IPV, FVH,…)     ALL               Quarterly           <U+F0FC>      <U+F0FC>    <U+F0FC>           <U+F0FC>                                                                                     OracleCloud     SIRR
+                                            Statement
+                                                                                                                                                                                                                                                                                                                   Pubblicato il: 24/01/2019
+   Keynote:
+                  BU: Business Units                                                                                                   JST: Joint Supervisory Team (ECB/Bankit)
+                                                                                                                                                                                                                                                                                                                                               Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                  CRO: Chief Risk Officer                                                                                              Other Aut.: Other Authority (e.g. CONSOB, DGComp,…)
+                  Subsidiary: Individual Legal Entity or Foreign Branch                                                                Market: General Stakeholders
+                  MC(s): Management Committees (e.g. Comitato Direttivo, Comitato Finanza e Liquidità,…)                               AFRO: Area Financial Risk Officer [cfr. Funzione Specialistica di Controllo dei Rischi ]
+                  RMC: Risk Management Committee                                                                                       SIRR: Servizio Integrazione Rischi e Reporting [cfr. Funzione Risk Reporting ]
+                  CEO: Chief Executive Officer                                                                                         SRO: Servizio Rischi Operativi [cfr. Funzione Specialistica di Controllo dei Rischi ]
+                  CR: Risk Committee (BoD Committee)                                                                                   SWRM: Servizio Wealth Risk Management [cfr. Funzione Specialistica di Controllo dei Rischi ]
+                  RPC: Related Parties Committee (BoD Committee)                                                                       SRR&BM: Servizio Rischi Reputazionali e Business Model [cfr. Funzione Specialistica di Controllo dei Rischi ]
+                  RemC: Remuneration Committee (BoD Committee)                                                                         Sisifo: Internal Communication Protocol
+                                                                                                                                                                                                                                                                                                                   Pag. 15 di 17
+                  AppC: Appointments Committee (BoD Committee)                                                                         TS: Collaboration Team Site
+                  BoD: Board of Directors                                                                                              OracleCloud: IT environment for Financial Statement management
+                  BoSA: Board of Statutory Auditors                                                                                    S: flow in Stressed conditions
+
+Stressed KRI
+Gruppo Montepaschi
+Situation as at Dec-2018
+                                                                                                                                                                                                                 Recipients
+                                                                                                                                                                                                    Stress Situation Crisis Situation
+GRUPPOMONTEPASCHI                  Key Risk Indicators in Stress/Crisis situation*             U.M.         Owner           Frequency Timeliness Sent via              Fast Close features           CRO    MC(s)       CEO   RC   BOD         JST
+                                   1. Credit Portfolio volumes (Lending dynamics)              €/mln      Credit Risk         Monthly       T+10 days      e-mail    Internal Credit Ptf model      <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                   2. UtoP Flow                                                €/mln      Credit Risk           Daily        T+1 day       e-mail    Internal Credit Ptf model      <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+             Credit
+                                   3. Bad Loans Flow                                           €/mln      Credit Risk           Daily        T+1 day       e-mail    Internal Credit Ptf model      <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                   4. Average PD on Lending Portfolio                           %         Credit Risk         Monthly       T+10 days      e-mail    Internal Credit Ptf model      <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                   5. Complaints received by Group                               n.     Operational Risk        Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                   6. Complaints received by Group                             €/mln    Operational Risk        Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+        Operational & IT
+                                   7. Major incidents on IT Resources                            n.     Operational Risk        Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                                                                                                                                                                                                                                       Codice: D 02291 002
+                                   8. Fraud on IB Clients                                        n.     Operational Risk        Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                   9. Spread/CET1 Ratio effect                                   %       Market Risk            Daily        T+1 day       e-mail       Last official CET1          <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>           <U+F0FC>°
+                                  10. Spread/CET1 Capital effect                               €/mln     Market Risk            Daily        T+1 day       e-mail    Capital variation only due     <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>           <U+F0FC>°
+             Market               11. Spread/CET1 effect on FVOCI exposure                     €/mln     Market Risk            Daily        T+1 day       e-mail      to Spread effect via         <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>           <U+F0FC>°
+                                  12. Spread/CET1 effect on FVTPL exposure                     €/mln     Market Risk            Daily        T+1 day       e-mail    sensitivity approximation      <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>           <U+F0FC>°
+                                  13. Italian Governament Bonds exposure (Nominal)             €/mln     Market Risk            Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>           <U+F0FC>°
+                                  14. Operating Liquidity Profile                              €/mln     Liquidity Risk         Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                  15. Time To Survival                                         days      Liquidity Risk         Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                  16. Net Liquidity Position 1M                                €/mln     Liquidity Risk         Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                  17. Subordinated/Senior MPS 5y CDS                           €/mln     Liquidity Risk         Daily        T+1 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+            Liquidity
+                                  18. Daily Liquidity by Channel & Commercial Mismatch         €/mln     Liquidity Risk       Intraday       T+0 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                  19. Buyback of own Bonds                                       %       Liquidity Risk       Intraday       T+0 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                  20. Intraday RTGS account level                              €/mln     Liquidity Risk       Intraday       T+0 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                  21. Intraday liquidity usage                                 €/mln     Liquidity Risk       Intraday       T+0 day       e-mail                                   <U+F0FC>      <U+F0FC>        <U+F0FC>         <U+F0FC>    <U+F0FC>       <U+F0FC>
+                                                                                                                                                                                                                                                       Pubblicato il: 24/01/2019
+* Risk Measures can be obtained by "Best Estimate" by Fast Close procedures. Certified & Official Risk Measures are complete as at usual timeliness
+                                                                                                                                                                                                                                                                                   Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+° Risk Measures sent to JST also in Stress or at request
+Keynote:
+                                  CRO: Chief Risk Officer                                                                                  Credit Risk: Servizio Credit Portfoglio Model [cfr. Funzione Specialistica di Controllo dei Rischi ]
+                                  MC(s): Management Committees (e.g. Comitato Direttivo, Comitato Finanza e Liquidità,…)                   Operational Risk: Servizio Rischi Operativi [cfr. Funzione Specialistica di Controllo dei Rischi ]
+                                  CEO: Chief Executive Officer                                                                             Market Risk: Servizio Rischi di Mercato [cfr. Funzione Specialistica di Controllo dei Rischi ]
+                                                                                                                                                                                                                                                       Pag. 16 di 17
+                                  CR: Risk Committee (BoD Committee)                                                                       Liquidity Risk: Servizio Rischi di Liquidità e ALM [cfr. Funzione Specialistica di Controllo dei Rischi ]
+                                  JST: Joint Supervisory Team (ECB/Bankit)
+
+                  Oggetto: Direttiva di Gruppo in materia di Integrated Risk Reporting
+                  Codice: D 02291 002              Pubblicato il: 24/01/2019           Pag. 17 di 17
+5 - ELENCO TESTI NORMATIVI DI RIFERIMENTO
+1030D01114 - Policy in materia di Risk Management (Governo dei Rischi);
+1030D00793 - Policy di Gruppo in materia di Sistema dei Controlli Interni;
+1030D01930 - Direttiva di Gruppo in materia di Governo del Risk Appetite Framework;
+1030D01308  - Direttiva di Gruppo in materia di valutazione dell’adeguatezza patrimoniale
+              (ICAAP - Internal Capital Adequacy Assessment Process);
+1030D02069 - Direttiva di Gruppo in materia di valutazione dell’adeguatezza della liquidità
+              (ILAAP – Internal Liquidity Adequacy Assessment Process);
+1030D02125   - Policy di Gruppo in materia di politiche e prassi di remunerazione e
+              incentivazione;
+1030D02078 - Direttiva di Gruppo in materia di Governo del Piano di Recovery;
+1030D01919 - Direttiva di Gruppo in materia di Gestione delle Operazioni di Maggior Rilievo
+              (OMR);
+1030D01797  - Direttiva di Gruppo in materia di Presidio dei modelli e delle attività
+              esternalizzate);
+1030D02148 - Policy di Gruppo in materia di Data Governance
+

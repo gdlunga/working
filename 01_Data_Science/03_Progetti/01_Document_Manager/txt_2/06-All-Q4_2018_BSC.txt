@@ -1,0 +1,263 @@
+                Data Governance
+        Rendicontazione Periodica
+          Balanced ScoreCard Q4
+Servizio Data Governance e
+Reporting Management
+Siena, gennaio 2019
+
+Obiettivi del Documento
+          • Obiettivo del documento è quello di fornire un giudizio di sintesi sulla Qualità dei Dati degli Output Rilevanti
+            attraverso il modello di Balanced Scorecard elaborato dalla Data Governance.
+          • Il giudizio si esprime in un punteggio attribuito in funzione della performance dell’Output Rilevante registrata, in un
+            determinato periodo di osservazione, su KPI rappresentativi di:
+               <U+2713> esecuzioni/ esiti dei controlli attesi
+               <U+2713> efficienza ed efficacia delle remediation attivate
+               <U+2713> grado di aderenza agli Standard di Data Governance
+          • Il punteggio viene corredato anche da un giudizio sul grado di maturità dell’Output Rilevante, secondo la scala del
+            maturity model adottato dalla Data Governance
+          • Sulla base dei punteggi vengono date delle raccomandazioni a livello di singolo Output Rilevante al fine di
+            aumentare il grado di maturità dello stesso nel modello di Data Governance di Gruppo
+          • Come per il Q3 2018 la Balanced Scorecard è stata prodotta analizzando l’intero perimetro di Output Rilevanti per i
+            quali viene prodotta una rendicontazione automatica (Irion) o manuale (template artigianale)
+          • La nuova definizione degli Output Rilevanti sta dando seguito a una revisione del perimetro di rilevazione della
+            Scorecard con decorrenza il Q1 2019
+                                                                                                                                    2
+
+VISTA COMPLESSIVA
+                                                                                                                              KPI REMEDIATION
+                                                    KPI Data   KPI Data
+                                                                                   KPI Esiti                                                                                KPI
+  FONTE            OUTPUT RILEVANTE                Governance Governance Trend T-1           Trend T-1    KPI                  Tasso di              Tempi                             Maturity Model
+                                                                                   Controlli                        Trend T-1              Trend T-1         Trend T-1  Qualitativo
+                                                       Q4         Q3                                   Remediation            Risoluzione             Medi
+ Irion  Documento di Rendicontazione periodica          97,99%     87,93%           100,00%                            nd                      nd                nd          95,33% Quantitavamente Gestito
+ Irion  Informativa al Pubblico Pillar 3                87,99%     87,99%           100,00%                            nd                      nd                nd          71,99% Quantitavamente Gestito
+ Irion  Rating ufficiale interno                        87,78%     86,39%            91,97%                 95,00%                100,00%             80,00%                 75,00% Quantitavamente Gestito
+        Overview Portafoglio Credito - Informativa
+ Man                                                    87,54%     87,54%           100,00%                                                                                  70,93%         Definito
+        per il CDA                                                                                                     nd                      nd                nd
+ Irion  EAD                                             84,89%     56,33%           100,00%                            nd                      nd                nd          64,76% Quantitavamente Gestito
+ Man    Base Dati Sisba                                 84,70%     84,75%            98,97%                            nd                      nd                nd          65,66%         Gestito
+ Irion  Monitoraggio costi                              83,86%     74,85%            88,46%                100,00%     nd         100,00%      nd    100,00%     nd          61,60% Quantitavamente Gestito
+ Irion  LCR                                             81,83%     73,15%            71,60%                 96,87%                100,00%             87,50%                 80,42% Quantitavamente Gestito
+ Irion  Tableau De Bord (Progressivo)                   79,26%     78,79%            84,16%                            nd                      nd                nd          72,74% Quantitavamente Gestito
+ Man    Flash Reporting                                 78,70%     78,70%           100,00%                            nd                      nd                nd          50,30%          Iniziale
+ Irion  LGD                                             77,45%     78,35%            72,33%                100,00%                100,00%            100,00%                 61,75% Quantitavamente Gestito
+ Irion  Flusso SARA                                     76,60%     74,37%            61,83%                100,00%                100,00%            100,00%                 72,89% Quantitavamente Gestito
+ Man    Schemi e Tabelle di Nota Integrativa            75,44%     75,44%            92,59%                            nd                      nd                nd          52,56%         Gestito
+        Valutazione della Capital Adequacy per il
+ Man                                                    71,08%     32,99%           100,00%                                                                                  32,53%          Iniziale
+        Gruppo e per le singole Legal Entity                                                                           nd                      nd                nd
+ Man    Controlli ex post su privacy                    70,22%     41,65%            75,00%                            nd                      nd                nd          63,86%         Gestito
+ Man    Piano Recovery                                  69,54%     69,54%           100,00%                            nd                      nd                nd          28,92%         Gestito
+ Man    BASE A1                                         68,09%     45,67%            75,00%                                                                      nd          58,89%         Gestito
+ Irion  PD                                              66,01%     75,65%            66,28%                            nd                      nd                nd          65,66% Quantitavamente Gestito
+ Man    Backup per il Regolatore                        65,33%     65,34%           100,00%                            nd                      nd                nd          19,13%          Iniziale
+ Man    Capital Plan e Monitoraggio                     65,08%     65,08%           100,00%                            nd                      nd                nd          18,52%          Iniziale
+ Man    Report Politiche Creditizie                     63,55%     63,55%            50,00%                            nd                      nd                nd          81,63%         Definito
+ Man    BASE Y                                          57,18%     62,37%            54,54%                            nd                      nd                nd          60,69%         Gestito
+ Man    FINREP                                          56,83%     43,52%            99,84%                  0,00%                  0,00%                        nd          56,33%         Gestito
+ Man    Svalutazione Collettiva                         35,37%     72,37%            33,34%                            nd                      nd                nd          38,10%         Gestito
+ Irion  Mappatura Operazioni di ristrutturazione        31,16%     31,16%             8,84%                            nd                      nd                nd          61,60% Quantitavamente Gestito
+ Man    Performance Risk Adjusted                       28,01%      8,97%            33,34%                            nd                      nd                nd          20,93%          Iniziale
+                                                                                                            KPI = 90                 60 = KPI < 90         KPI < 60
+                                                                                                            KPI in aumento           KPI stabile           KPI in decremento
+                                                                                                                                                                                                            3
+
+RACCOMANDAZIONI
+                 Output Rilevante            Codice Raccomandazione Rilevanza                        Owner                                       Descrizione/Soluzione Suggerita
+                                            2018_Q3_RP_1            Media     Servizio Controlli Esposizione Creditizia         Adeguare le normative interne che regolano le attività di Data Quality
+  Documento di Rendicontazione periodica
+                                                                                                                                agli standard di Data Governance
+                                            2018_Q1_EA_1            Media     Servizio Credit Risk Model                        Adeguare le normative interne che regolano le attività di Data Quality
+                                                                                                                                agli standard di Data Governance
+  EAD
+                                            2018_Q1_EA_2            Media     Servizio Credit Risk Model                        Rafforzare il framew ork dei controlli in relazione agli obiettivi dei
+                                                                                                                                controlli non coperti
+                                            2018_Q3_FS_1            Alta      Servizio AML-CFT                                  Finalizzare le attività di Fine Tuning relativamente ai controlli
+  Flusso SARA
+                                                                                                                                implementati su Irion
+                                            2018_Q3_P3_1            Media     Servizio Rischi Reputazionali e Business Model    Adeguare le normative interne che regolano le attività di Data Quality
+  Informativa al Pubblico Pillar 3
+                                                                                                                                agli standard di Data Governance
+                                            2018_Q1_LC_1            Media     Servizio Rischi di Liquidità e AML                Adeguare le normative interne che regolano le attività di Data Quality
+                                                                                                                                agli standard di Data Governance
+  LCR                                       2018_Q1_LC_2            Media     Settore Rischi di Liquidità                       Rafforzare il framew ork dei controlli in relazione agli obiettivi dei
+                                                                                                                                controlli non coperti
+                                            2018_Q1_LC_3            Media     Settore Rischi di Liquidità                       Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+                                            2018_Q1_LG_1            Media     Servizio Credit Risk Model                        Adeguare le normative interne che regolano le attività di Data Quality
+                                                                                                                                agli standard di Data Governance
+  LGD
+                                            2018_Q1_LG_2            Media     Servizio Credit Risk Model                        Rafforzare il framew ork dei controlli in relazione agli obiettivi dei
+                                                                                                                                controlli non coperti
+                                            2018_Q3_RI_1            Media     Servizio Supporto Specialistico e Qualità Crediti Adeguare le normative interne che regolano le attività di Data Quality
+                                                                              Non Performing                                    agli standard di Data Governance
+  M appatura Operazioni di ristrutturazione
+                                            2018_Q3_RI_2            Media     Servizio Supporto Specialistico e Qualità Crediti Rafforzare il framew ork dei controlli in relazione agli obiettivi dei
+                                                                              Non Performing                                    controlli non coperti
+                                            2018_Q3_MC_1            Media     Servizio Gestione Portafoglio Creditizio          Adeguare le normative interne che regolano le attività di Data Quality
+                                                                                                                                agli standard di Data Governance
+  M onitoraggio costi
+                                            2018_Q3_MC_2            Media     Servizio Gestione Portafoglio Creditizio          Rafforzare il framew ork dei controlli in relazione agli obiettivi dei
+                                                                                                                                controlli non coperti
+                                            2018_Q1_PD_1            Media     Servizio Credit Risk Model                        Adeguare le normative interne che regolano le attività di Data Quality
+                                                                                                                                agli standard di Data Governance
+                                            2018_Q1_PD_2            Media     Servizio Credit Risk Model                        Rafforzare il framew ork dei controlli in relazione agli obiettivi dei
+                                                                                                                                controlli non coperti
+  PD
+                                            2018_Q1_PD_3            Media     Servizio Credit Risk Model                        Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+                                            2018_Q4_PD_4            Media     Servizio Credit Risk Model                        Rivedere le soglie dei controlli al fine di ottenere esiti corretti, poiché i
+                                                                                                                                w arning segnalati non sono anomalie, come invece rendicontato dal
+                                                                                                                                Data Ow ner
+                                            2018_Q1_RU_1            Media     Servizio Rating                                   Adeguare le normative interne che regolano le attività di Data Quality
+  Rating ufficiale interno
+                                                                                                                                agli standard di Data Governance
+                                                                                                                                                                                                              4
+
+RACCOMANDAZIONI
+                 Output Rilevante             Codice Raccomandazione Rilevanza                        Owner                                   Descrizione/Soluzione Suggerita
+                                             2018_Q1_TB_1            Media     Servizio CDG e Reporting                     Adeguare le normative interne che regolano le attività di Data Quality
+                                                                                                                            agli standard di Data Governance
+  Tableau De Bord (Progressivo)
+                                             2018_Q1_TB_2            Media     Servizio CDG e Reporting                     Rafforzare il framew ork dei controlli in relazione agli obiettivi qualitativi
+                                                                                                                            non presidiati
+                                             2018_Q3_BR_1            Media     Servizio Pianificazione                      Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+  Backup per il Regolatore                   2018_Q3_BR_2            Media     Servizio Pianificazione                      Rafforzare il framew ork dei controlli in relazione agli obiettivi qualitativi
+                                                                                                                            non presidiati
+                                             2018_Q3_BA_1            Alta      Servizio Normativa regolamentare e Reporting Avviare le attività di Implementazione dei controlli su Piattaforma
+  BASE A1
+                                                                                                                            controlli
+                                             2018_Q3_SI_1            Alta      Settore Regulatory e Data Quality Mng        Aumento della granularità delle rendicontazioni dei controlli TA060
+  Base Dati Sisba                                                                                                           verso la data Governance
+                                             2018_Q1_SI_2            Media     Settore Regulatory e Data Quality Mng        Revisionare i controlli DSA per valutare quali confermare
+  BASE Y                                     2018_Q3_BY_1                      Servizio Normativa regolamentare e Reporting Avviare la declinazione del Perimetro Informativo (dettaglio BDE)
+                                             2018_Q3_CP_1            Media     Servizio Pianificazione                      Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+  Capital Plan e M onitoraggio               2018_Q3_CP_2            Media     Servizio Pianificazione                      Rafforzare il framew ork dei controlli in relazione agli obiettivi qualitativi
+                                                                                                                            non presidiati
+                                             2018_Q3_PR_1            Alta      Area Compliance                              Identificare i Ruoli di Data Governance
+  Controlli ex post su privacy
+                                             2018_Q3_PR_2            Alta      Area Compliance                              Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+  FINREP                                     2018_Q3_PR_1            Alta      Servizio Contabilità e Bilancio              Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+                                             2018_Q3_FR_1            Media     Area Compliance                              Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+  Flash Reporting                            2018_Q3_FR_2            Media     Servizio CDG e Reporting                     Rafforzare il framew ork dei controlli in relazione agli obiettivi qualitativi
+                                                                                                                            non presidiati
+  Overview Portafoglio Credito - Informativa 2018_Q3_CDA_1           Media     Servizio Gestione Portafoglio Creditizio     Adeguare le normative interne che regolano le attività di Data Quality
+  per il CDA                                                                                                                agli standard di Data Governance
+                                             2018_Q3_RA_1            Media     Servizio Pianificazione                      Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+  Performance Risk Adjusted                  2018_Q3_RA_2            Media     Servizio Pianificazione                      Rafforzare il framew ork dei controlli in relazione agli obiettivi qualitativi
+                                                                                                                            non presidiati
+                                             2018_Q3_PR_1            Media     Servizio Pianificazione                      Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+  Piano Recovery                             2018_Q3_PR_2            Media     Servizio Pianificazione                      Rafforzare il framew ork dei controlli in relazione agli obiettivi qualitativi
+                                                                                                                            non presidiati
+                                             2018_Q3_PC_1            Media     Servizio Standard e Politiche Creditizie     Adeguare il set di controlli implementati su Irion rispetto alle variazioni
+  Report Politiche Creditizie
+                                                                                                                            effettuate sul DB del report
+  Schemi e Tabelle di Nota Integrativa       2018_Q3_BI_1            Alta      Servizio Contabilità e Bilancio              Avviare la declinazione del Perimetro Informativo (dettaglio BDE)
+  Svalutazione Collettiva                    2018_Q3_SC_1            Alta      Servizio Credit Portfolio Models             Avviare la declinazione del Perimetro Informativo (dettaglio BDE)
+                                             2018_Q3_CA_1            Media     Servizio Pianificazione                      Completare la declinazione del Perimetro Informativo (dettaglio BDE)
+  Valutazione della Capital Adequacy per il
+                                             2018_Q3_CA_2            Media     Servizio Pianificazione                      Rafforzare il framew ork dei controlli in relazione agli obiettivi qualitativi
+  Gruppo e per le singole Legal Entity
+                                                                                                                            non presidiati
+                                                                                                                                                                                                           5
+
+ALLEGATI
+         6
+
+Livello di Attivazione Output Rilevante
+                                                                                                                      Giudizio                Linee Guida
+                                                                                                                      Iniziale                •   Output Rilevante censito in Business Glossary 1
+                                                                                                                                              •   Individuati Ruoli e Responsabilità di DGOV 2
+                                                                                                                                              •   BDE non declinate
+                                                                                                                                              •   Controlli di business non ancora definiti puntualmente
+                                                                                                                                              •   Rendicontazione Qualitativa 3
+                                                                                                                      Gestito                 •   BDE declinate e censite sul Business Glossary 4
+   Maturity Model                                                                                                                             •   Controlli di Business definiti in modo puntuale 5
+                                                                                      Optimizing
+                                                            Quantitatively Data governance
+                                                                                                                                              •   Rendicontazione Quantitativa su Standard Documentali (esecuzioni + dettaglio anomalie)          6
+                                                                                processes are fully
+                                           Defined             managed
+                                                                                automated and the data
+                                                          The value of the data
+                          Managed     Data policies are                         b usiness value is formally
+                                                                                                                                              •
+                                                          is quantified and the
+                                      estab lished                              measured and
+                                                                                                                      Definito                    Avviati lavori con Data Governance per standardizzare le attività di Data Quality
+        Initial       Data checks are                     data governance
+                                      according to the                          recognized.
+   The regulatory
+   controls and
+                      documented.
+                      Metadata is
+                      managed b y
+                                      principles of the
+                                      b ank. The risks of
+                                                          processes are
+                                                          applied throughout                                                                                                                                                            7
+                                                          the b ank.
+   relevant/ critical repeatab le     data quality are
+                                                                                                                                              •
+   informations are                   formally evaluated.
+                                                                                                                                                  Definiti Requisiti Funzionali per implementazione dei controlli su Irion
+                      processes.
+   defined.
+                                                                                                                                              •   Acquisita la pianificazione IT per gli sviluppi IT necessari
+                                                                                                                      Quantitativamente       •   Le attività di Data Quality sono completamente attive sugli strumenti Standard (IRION, Remedy)          8
+                                                                                                                      Gestito                 •   Rendicontazione Quantitativa sulla base delle reportistiche operative prodotte da Irion 9
+                                                                                                                                              •   Adeguate le normative coerentemente con gli standard di Data Quality 10
+                                                                                                                      Ottimizzato             •   Individuati e rendicontati i controlli tecnici 11
+                                                                                                                                              •   Alto grado di copertura dei controlli sia in relazione alle BDE di pertinenza sia in relazione al ciclo di vita del Dato, sia in relazione ai requisiti
+                                                                                                                                                  di qualità 12
+                                                                                                                                              •   Tracciatura e lineage delle informazioni di Competenza 13
+                                                               Iniziale                                                                            Gestito                                 Definito                   Quantitativamente                                      Ottimizzato
+                                                                                                                                                                                                                             Gestito
+OR Censito in BG                                                     Individuati                            Rendicontazione       BDE Censite   Controlli di      Rendicontazione      BRA Funzionale       Implementazione  Rendicontazione    Normative        Controlli Tecnici  Copertura    Tracciatura
+                                                                     Ruoli/Resp                             Qualitativa           nel BG        Business definiti Quantitativa         e sviluppi definiti  Std su strumenti automatica da      Aggiornate
+                                                                                                                                                                                                            DGOV             Irion
+                                                                                                                                                                                                                                                                                                        7
+
+Framework Livello di Attivazione Data Governance
+   #  Linea Guida                                                                             KPI/Metodologia di Rilevazione
+   1  Output Rilevante censito in Business Glossary                                           OR censito in IBM IGC, Gerarchia «Perimetro di Governo»
+   2  Individuati Ruoli e Responsabilità di DGOV                                              •  Effettuato incontro con Data Owner
+                                                                                              •  Incontri Formativi con SDO e BDS
+   3  Rendicontazione Qualitativa                                                             Compilato solo sezione qualitativa dello Standard Documentale di rendicontazione
+   4  BDE declinate e censite sul Business Glossary                                           IBM IGC, Gerarchia «Perimetro di Governo», Termini associati agli OR
+   5  Controlli di Business definiti in modo puntuale                                         Standard Documentale Lista Controlli completato
+   6  Rendicontazione Quantitativa su Standard Documentali                                    Compilata sezione Qualitativa e Quantitativa dello Standard Documentale di rendicontazione
+   7  Definizione                                                                             BR Censito in PPM con stime tempi e costi
+   8  Le attività di Data Quality sono completamente attive sugli strumenti Standard          •  Controlli Censiti, Eseguiti/Esitati su Irion
+                                                                                              •  Remediation attivate da Irion
+   9  Rendicontazione Quantitativa sulla base delle reportistiche operative prodotte da Irion Informazioni quantitative estratte da reportistica operativa di Irion (Processo di Esecuzione,
+                                                                                              Gestione Ticket)
+   10 Adeguate le normative coerentemente con gli standard di Data Quality                    Normativa di Gruppo
+   11 Individuati e rendicontati i controlli tecnici
+   12 Copertura                                                                               •  Numero BDE con CTR associati / totale BDE dell’OR
+                                                                                              •  Presidi di controllo attivi per fase di elaborazione (Macro Architettura)
+                                                                                              •  Obiettivi di Controllo Coperti
+   13 Tracciatura                                                                             •  Collegamento BDE – TDC
+                                                                                                                                                                                             8
+
+Maturity Model
+                                                                                                      Optimizing
+                                                                        Quantitatively   Data governance processes are fully
+                                                       Defined            managed        automated and the data business
+                                                                      The value of the   value is formally measured and
+                                      Managed     Data policies are                      recognized.
+                                                                      data is quantified
+                    Initial       Data checks are established
+                                                                      and the data
+               The regulatory     documented.     according to the
+                                                                      governance
+               controls and       Metadata is     principles of the
+                                                                      processes are
+               relevant/ critical managed by      bank. The risks of
+                                                                      applied throughout
+               informations are   repeatable      data quality are
+                                                                      the bank.
+               defined.           processes.      formally evaluated.
+                                                                                                                             9
+
+

@@ -1,0 +1,117 @@
+<U+200B>Il nuovo Motore di Score
+       <U+200B>per le Aziende
+         <U+200B>Dettaglio fidi forborne
+                             Siena, 21 Maggio 2018
+
+Approfondimenti del Comitato Rischi del 30 Marzo 2018
+<U+F0FC> In data 17 Maggio è passato in produzione il nuovo score di erogazione Small Business
+<U+F0FC> E’ stato inoltre emanato il documento normativo D2054 «Regole in materia di concessione e revisione del credito» in
+  cui si prevede, in caso di richieste di nuova finanza senza la presenza di forborne, di rifiutare la richiesta con
+  appetibilità «scarsa».
+<U+F0FC> Al momento l’appetibilità scarsa comprende lo score di rischio «Alto» e «Molto Alto». E’ già stata avviata la procedura
+  per implementare in PEF tale blocco e modificare la fascia di rifiuto automatico anche alla classe di rischio «Medio
+  Alta»
+<U+F0FC> Come da richiesta del Comitato Rischi del 30 Marzo si riporta l’impatto delle misure di forbearance, in termini di tassi
+  default, sulle diverse classi di appetibilità individuate dal nuovo score.
+<U+F0FC> Le evidenze mostrano che anche su controparti prive di Forborne i tassi di default si attestano a circa il 25% sulla
+  classe di appetibilità «scarsa» e a circa il 9% sulla classe di appetibilità «bassa»
+                                                                                                                           1
+
+                Scelta del cut-off: dalle classi di rischio alle classi di appetibilità (dettaglio forborne)                                                                                                    l’area di accettazione
+                                                                                                                                                                                                                assistita
+<U+F0FC> Il tasso di default a 12 mesi sul gruppo con qualità SCARSA rimane del 25% anche togliendo le richieste forborne
+                                                                                                                                                                                                                l’area di rifiuto
+                                                                                                                                                                                                                suggerita
+                                                                                          Focus popolazione di controllo
+                                Distribuzione per classe di Rischio* (Cebi)                                                                              Distribuzione per classe di Rischio* (No Cebi)
+                                        Totale     Forborne       No Forborne                                                                                         Totale      Forborne        No Forborne
+                5.000                                                                                                                  3.000
+  # Richieste                                                                                                          # Richieste
+                4.000
+                                                                                                                                       2.000
+                3.000
+                2.000                                                                                                                  1.000
+                1.000
+                    0                                                                                                                       0
+                        Molto        Bassa       Medio       Media     Medio       Alta       Molto                                                 Molto        Bassa         Medio      Media      Medio         Alta        Molto
+                        Bassa                    Bassa                  Alta                  Alta                                                  Bassa                      Bassa                  Alta                     Alta
+         Classi di                                                                                                         Classi di
+                                 Alta                  Media            Bassa             Scarsa                                                               Alta                   Media            Bassa            Scarsa
+        appetibilità                                                                                                      appetibilità
+          Tasso di            Tasso di default per classe di appetibilità (Cebi)                                                      Tasso di            Tasso di default per classe di appetibilità (No Cebi)
+         Default a 12                                                                                                                Default a 12
+            mesi                         Totale       Forborne       No Forborne                                                        mesi                             Totale        Forborne      No Forborne
+                                                                                            33,6%                                                                                                                            35,3%
+Tasso di                                                                             26.4%
+                                                                                                   24,3%              Tasso di                                                                                         28.2%
+                                                                                                                                                                                                                                    25,9%
+Default
+                                                                                                                                                                                                     20,6%
+                                                                                                                      Default
+                                                                 9.3% 11,2% 9,1%                                                                                                              11.6%       10,7%
+                                               6,8%                                                                                                                            8,5%
+                                        3.3%          3,2%                                                                                             3,4%             3.9%          3,7%
+                    0,7% 1,4% 0,7%                                                                                                              0.9%          0,9%
+                        ALTA                 MEDIA                   BASSA                SCARSA                                                    ALTA                   MEDIA                    BASSA                  SCARSA
+                                                                   *La popolazione è suddivisa in quattro gruppi in base allo score: ~40% appetibilità alta, ~40% appetibilità media, ~10% appetibilità bassa,
+                                                                   ~10% appetibilità scarsa; ); il tasso di default è calcolato sulle richieste approvate                                                                                   2
+
+<U+200B>Allegati
+          Siena, 21 Maggio 2018
+
+  Verifica del Modello: il nuovo Motore di Score possiede una capacità selettiva maggiore sia di quello
+  attualmente in produzione che del rating
+       Richieste accettate     Modello con Bilancio    Modello senza Bilancio   <U+F0FC> AUC (Area Under the
+                                                                                  Curve), parametro che varia
+    Popolazione di controllo          AUC                      AUC                fra il 50% e il 100%
+                                                                                  (discriminazione perfetta)
+Nuovo Score                          84,5%                    83,0%             <U+F0FC> L’AUC è legata all’indice di
+                                                                                  Gini dalla seguente formula:
+Precedente Score                     80,0%                     79,8%               AUC=(1+Gini)/2
+                                                                                <U+F0FC> Precedente score: quello in
+Rating                               79,7%                     77,9%
+                                                                                  produzione da Marzo 2016
+                                                                                <U+F0FC> Popolazione: periodo di
+                                                                                  controllo        Settembre-
+                                                                                  Dicembre 2016
+         Totale richieste      Modello con Bilancio    Modello senza Bilancio
+    Popolazione di controllo          AUC                      AUC
+Nuovo Score                          83,9%                    82,4%
+Precedente Score                     79,0%                     78,7%
+Rating                               78,3%                     77,4%
+                                                                                                               4
+
+4                  Verifica del Modello: la coerenza dello Score al Rating è stata verificata su una popolazione costituita
+                   dalle richieste accettate nel periodo Marzo - Dicembre 2016
+                                           Popolazione con Informazione da Cebi                                                               Popolazione priva da Informazione da Cebi
+                                   A         B       C1+C2    C3       D1+D2      D3         E       Totale                           A          B       C1+C2       C3      D1+D2         D3        E       Totale
+                     Molto                                                                                          Molto
+                                  3.653     5.718    1.590         8       0           0         0 10.969                           1.990      3.827     1.531         17             0         0        0   7.365
+                     Bassa                                                                                          Bassa
+                     Bassa         217      3.671    5.934    586         12           0         0 10.420           Bassa             258      2.033     4.131        528         35            0        0   6.985
+                     Medio                                                                                          Medio
+                                    20      1.237    4.675   2.919       760        11           1   9.622                              37       536     2.635      2.320     1.095             7        0   6.630
+                     Bassa                                                                                          Bassa
+# Richieste
+                     Media             1     193     1.464   3.135     3.652       261         47    8.749          Media                 1      103       605      1.544     3.367        250        39     5.909
+                     Medio Alta        0      10      162     632      2.423       642       188     4.057          Medio Alta            0       11       110        281     1.591        486       146     2.625
+                     Alta              0         1     19     172        976       526       284     1.978          Alta                  0          1       12       114       648        333       187     1.295
+                     Molto Alta        0         0      9      45        661       610       738     2.063          Molto Alta            0          0        4        26       398        383       458     1.269
+                     Totale       3.891 10.829 13.853        7.497     8.480    2.050      1.258 47.858             Totale          2.286      6.511     9.028      4.830     7.134       1.459      830 32.078
+                                   A         B       C1+C2    C3       D1+D2      D3         E       Totale                           A          B       C1+C2       C3      D1+D2         D3        E       Totale
+                     Molto                                                                                          Molto
+                                  0.4%      0.4%      0.2%    NS**      ND**     ND**      ND**       0.4%                           0.8%      0.5%       1.1%       NS**      ND**       ND**      ND**      0.7%
+                     Bassa                                                                                          Bassa
+                     Bassa        4.2%      1.5%      1.0%    1.2%      NS**     ND**      ND**       1.2%          Bassa            0.8%      1.4%       1.1%      0.8%       NS**       ND**      ND**      1.2%
+                     Medio                                                                                          Medio
+Tasso Default***
+                                  NS**      3.4%      2.3%    1.8%      2.6%     NS**       NS**      2.3%                           NS**      3.2%       2.8%      2.7%       3.3%        NS**     ND**      2.9%
+                     Bassa                                                                                          Bassa
+                     Media        NS**      4.1%      5.5%    4.1%      4.5%     8.0%       NS**      4.7%          Media           ND**       7.7%       7.9%      5.4%       5.5%        5.6%      NS**     5.8%
+                     Medio Alta   ND**      NS**     11.1%   10.1%      9.3%     9.8%      16.5%     10.0%          Medio Alta      ND**        NS**     16.4%     16.0%     11.9%        16.0%     15.8%    13.5%
+                     Alta         ND**      NS**      NS**   15.0%     15.9%    18.7%      22.9%     17.4%          Alta            ND**        NS**      NS**     24.6%     21.1%        20.7%     27.8%    22.3%
+                     Molto Alta   ND**      ND**      NS**    NS**     31.3%    31.5%      42.3%     35.4%          Molto Alta      ND**       ND**       NS**       NS**    40.3%        37.8%     46.9%    42.0%
+                     Totale       0.6%      1.2%      2.0%    3.9%      9.1%    18.3%      33.1%      4.8%          Totale           0.8%      1.1%       2.3%      4.9%     10.0%        20.9%     35.5%     5.7%
+                                                               **NS: dato non significativo, ND: dato non disponibile
+                                                               ***Default osservati fino al 31 dicembre 2017; tasso di default a 12 mesi; si sono escluse richieste prive di Rating                                   5
+

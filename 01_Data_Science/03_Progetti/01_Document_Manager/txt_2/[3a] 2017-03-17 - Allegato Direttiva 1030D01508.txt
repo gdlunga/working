@@ -1,0 +1,539 @@
+DATA:                         14/03/2017                 DATA SCADENZA:              Fino a revoca
+CODICE TESTO:                 D 01508 002 NMIG           CODICE RISORSA              AAA004DOC
+                              Direttiva di Gruppo in materia di
+OGGETTO:                      Gestione del Rischio di Tasso di
+                              Interesse del Banking Book (IRRBB)
+MACROPROCESSO:                RISK MANAGEMENT
+PROCESSO:                     Gestione del rischio tasso di interesse del Banking Book
+SEGMENTO DI MERCATO:          Non applicabile
+(prevalentemente interessato)
+RUOLI:                        Capogruppo - Responsabile di struttura; Capogruppo - Addetto
+(prevalentemente interessati)
+SERIE/SETTORE/SERVIZIO:       23        /   2         /   1
+TESTI ANNULLATI:
+PRESA VISIONE:                1          senza formalità
+ASSISTENZA DI TIPO            n.a.
+TECNICO/OPERATIVO:
+STRUTTURA EMANANTE:           (2121)      AMM. DELEG.
+FIRMA PER APPROVAZIONE CONTENUTI
+FIRMA:                                                                         DATA:
+FIRMA:                                                                         DATA:
+FIRMA PER APPROVAZIONE ASPETTI FORMALI
+FIRMA:                                                                         DATA:
+FIRMA PER PUBBLICAZIONE
+FIRMA:                                                                         DATA:
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                    Banking Book (IRRBB)
+                      Codice: D 01508 002                     Presentato il: 14/03/2017                  Pag. 1 di 11
+                                                        INDICE
+1 - QUADRO DI SINTESI ................................................................................................ 2
+  1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI .............................................. 2
+  1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE .................. 2
+  1.3 - DESTINATARI E MODALITA' DI RECEPIMENTO ........................................................ 2
+  1.4 - DECORRENZA ..................................................................................................... 3
+  1.5 - ELENCO FUNZIONI O RUOLI INTERESSATI ............................................................. 3
+2 - ASPETTI GENERALI ................................................................................................... 3
+  2.1 - DEFINIZIONE DEL RISCHIO DI TASSO ................................................................... 3
+  2.2 - DEFINIZIONE DELL’IRRBB FRAMEWORK ................................................................ 4
+  2.3 - IDENTIFICAZIONE DEL BANKING BOOK (PORTAFOGLIO BANCARIO) ......................... 4
+  2.4 - FONTI DI RISCHIO .............................................................................................. 4
+  2.5 - VALUTAZIONE E MISURAZIONE DEL RISCHIO ........................................................ 5
+  2.5.1 - Generalità ....................................................................................................... 5
+  2.5.2 - Margine di interesse ......................................................................................... 5
+  2.5.3 - Valore economico ............................................................................................. 6
+  2.5.4 - Capitale interno ............................................................................................... 6
+  2.5.5 - Impatto di stress su margine prospettico ............................................................ 6
+  2.5.6 - Modelli ............................................................................................................ 7
+  2.6 - GESTIONE DEL RISCHIO ...................................................................................... 8
+  2.7 - MITIGAZIONE DEL RISCHIO ................................................................................. 8
+  2.8 - DEFINIZIONE E PRODUZIONE DEL REPORTING....................................................... 8
+3 - ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO ................................................. 8
+  3.1 - GENERALITÀ ...................................................................................................... 8
+  3.2 - RESPONSABILITA’ DEGLI ORGANI DI VERTICE DELLA CAPOGRUPPO E DELLE SOCIETA’
+  DEL GRUPPO .............................................................................................................. 9
+  3.3 - RESPONSABILITA’ DELLE FUNZIONI AZIENDALI DELLA CAPOGRUPPO E DELLE
+  SOCIETA’ DEL GRUPPO .............................................................................................. 10
+  3.4 - PARTICOLARITÀ PER SOCIETÀ DEL GRUPPO OPERANTI ALL’ESTERO E PER LE FILIALI
+  ESTERE DI BANCA MPS ............................................................................................. 11
+4 - ELENCO TESTI NORMATIVI DI RIFERIMENTO ............................................................. 11
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                 Banking Book (IRRBB)
+                      Codice: D 01508 002             Presentato il: 14/03/2017              Pag. 2 di 11
+1 - QUADRO DI SINTESI
+1.1 - PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI
+La presente Direttiva definisce il modello organizzativo adottato dal Gruppo (principi e
+responsabilità) del processo di “Gestione del Rischio di Tasso di Interesse del Banking Book
+(IRRBB)”.
+Il processo è svolto in accentrato dalla Capogruppo Banca MPS e, in coerenza con la “Policy in
+materia di Risk Management (Governo dei Rischi)” 1030D01114, prevede di:
+<U+F0A7> definire il perimetro del Portafoglio Bancario (detto Banking Book) e l’impianto complessivo
+    per la gestione del rischio di tasso di interesse del banking book (IRRBB Framework);
+<U+F0A7> definire le fonti di rischio in termini di individuazione dei principali fattori di rischio rilevanti
+    che espongono il Gruppo a dinamiche avverse di rischio tasso di interesse del banking book;
+<U+F0A7> valutare e misurare il rischio attraverso la definizione e l’aggiornamento dei modelli per la
+    misurazione del rischio e la conseguente valutazione del rischio in ottica attuale, prospettica
+    e in condizioni di stress;
+<U+F0A7> gestire il rischio in termini di definizione ed aggiornamento della IRRBB Risk Tolerance e
+    degli eventuali sconfinamenti rispetto al connesso sistema dei limiti;
+<U+F0A7> mitigare il rischio in termini di adeguatezza dell’impianto normativo e metodologico
+    costantemente aggiornato;
+<U+F0A7> definire e produrre un sistema efficiente di comunicazione delle informazioni rilevanti
+    (reporting) tra tutte le funzioni coinvolte nel processo e tra queste e gli organi aziendali.
+Le Società del Gruppo, rientranti nel perimetro di applicazione, sono responsabili del corretto
+rispetto delle regole e del sistema dei limiti definiti dalla Capogruppo.
+La presente Direttiva si inserisce nel più ampio quadro normativo disciplinante la gestione dei
+rischi secondo i principi contenuti nella “Policy in materia di Risk Management (Governo dei
+Rischi)” 1030D01114 ed in coerenza con quanto previsto dalla “Direttiva di Gruppo in materia
+di Processo interno di Valutazione dell’Adeguatezza Patrimoniale” 1030D01308 che delinea il
+quadro di riferimento per la valutazione dell’adeguatezza patrimoniale in condizioni di normale
+corso degli affari e di stress.
+1.2 - AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE
+Il documento è stato rivisto nella struttura dei capitoli ed aggiornato per adeguarlo nei
+contenuti, con riferimento al contesto di normativa esterna di riferimento, e nel modello delle
+responsabilità, con riferimento alle evoluzioni degli assetti organizzativi e gestionali nel
+frattempo intercorse.
+E’ opportuna, pertanto, la rilettura integrale della presente versione del testo.
+1.3 - DESTINATARI E MODALITA' DI RECEPIMENTO
+La presente Direttiva è rivolta alla Capogruppo Banca MPS, alle Società del Gruppo rientranti
+nel perimetro del Portafoglio Bancario (MPS Capital Services Banca per le Imprese, MPS
+Leasing e Factoring, Widiba, Monte Paschi Banque, Banca Monte Paschi Belgio) ed al Consorzio
+Operativo Gruppo MPS in qualità di Società del Gruppo con compiti di gestione dei sistemi
+informativi.
+Le Società del Gruppo recepiscono la Direttiva, con delibera dei propri organi apicali,
+adeguando responsabilità, processi e regole interne, in coerenza con le proprie caratteristiche
+e dimensioni.
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                  Banking Book (IRRBB)
+                      Codice: D 01508 002               Presentato il: 14/03/2017            Pag. 3 di 11
+Il recepimento deve essere notificato alle seguenti Strutture e Funzioni della Capogruppo:
+ <U+F0B7> Struttura a cui fa capo il riporto societario della singola Società;
+ <U+F0B7> Servizio Rischi di Liquidità e ALM;
+ <U+F0B7> Area Organizzazione.
+1.4 - DECORRENZA
+Data di pubblicazione.
+1.5 - ELENCO FUNZIONI O RUOLI INTERESSATI
+Quadro di raccordo tra Funzioni/Ruoli e Strutture/Organi citati nella Direttiva:
+ Nome Convenzionale Funzione                    Struttura Organizzativa
+                                                BMPS:
+ Controllo dei Rischi
+                                                Direzione Chief Risk Officer
+ Controllo del Rischio di Tasso di              BMPS:
+ Interesse del Banking Book                     Area Risk Management - Servizio Rischi di Liquidità e ALM
+                                                BMPS:
+ Gestione dell’Asset & Liability
+                                                Area Finanza, Tesoreria e Capital Management - Servizio
+ Management (ALM)
+                                                Governo Strategico del Rischio
+                                                BMPS:
+ Convalida Interna                              Area Validazione, Monitoraggio e Informativa Istituzionale -
+                                                Servizio Validazione Sistemi di Rischio
+                                                BMPS:
+ Revisione Interna
+                                                Area Revisione Specialistica - Servizio Risk Audit
+                                                Consorzio Operativo di Gruppo:
+ Sistemi Informativi
+                                                Area Applicazioni Governo - Servizio Rischi e Segnalazioni
+                                                Altre Società:
+ Controllo del Rischio Locale                   Struttura di Società estera /Filiale estera responsabile della
+                                                misurazione e del monitoraggio del rischio di tasso
+2 - ASPETTI GENERALI
+2.1 - DEFINIZIONE DEL RISCHIO DI TASSO
+Per rischio di tasso di interesse del banking book (IRRBB) si intende il rischio attuale o
+prospettico di variazioni negative del margine di interesse (e quindi del profitto prospettico di
+breve periodo) e/o del valore economico del patrimonio netto causate dall’impatto di
+movimenti delle curve dei tassi d’interesse in presenza di mismatch nelle scadenze e nei tempi
+di ridefinizione del tasso di interesse delle attività e delle passività della banca.
+Più in particolare, il rischio di tasso di interesse può essere distinto in:
+ <U+F0A7> rischio di reddito prospettico, ovvero di impatto sul margine di interesse, che deriva dalla
+     differenza nelle scadenze/periodo di ridefinizione del tasso di interesse delle attività e
+     passività della banca;
+ <U+F0A7> rischio di valore economico relativo alla possibilità di subire variazioni negative nei valori
+     attuali di tutte le attività, passività e strumenti fuori bilancio detenuti dalla banca in
+     seguito a mutamenti inattesi dei tassi di interesse.
+La predisposizione di un adeguato sistema di gestione di questo rischio, noto come IRRBB
+Framework, assume pertanto un ruolo fondamentale per il mantenimento della stabilità del
+Gruppo.
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                   Banking Book (IRRBB)
+                      Codice: D 01508 002               Presentato il: 14/03/2017            Pag. 4 di 11
+2.2 - DEFINIZIONE DELL’IRRBB FRAMEWORK
+L’Interest Rate Risk in the Banking Book (IRRBB) Framework è l’impianto complessivo per la
+gestione del Rischio di Tasso di Interesse del Banking Book.
+Il Framework è inserito nel più ampio quadro normativo della valutazione dell’adeguatezza
+patrimoniale (Direttiva di Gruppo in materia di Processo interno di Valutazione
+dell’Adeguatezza Patrimoniale - 1030D01308) contribuendo alla:
+ <U+F0A7> quantificazione del Capitale Interno a fronte del rischio di tasso di interesse;
+ <U+F0A7> stima degli impatti in termini di riduzione del Net Interest Income (NII) in scenari di stress.
+2.3 - IDENTIFICAZIONE DEL BANKING BOOK (PORTAFOGLIO BANCARIO)
+La definizione del perimetro del Banking Book (Portafoglio Bancario) risulta allineata alle
+normative di vigilanza ed ha come componenti principali:
+ <U+F0A7> l’operatività commerciale effettuata nei confronti della clientela;
+ <U+F0A7> l’operatività di natura interbancaria e di finanziamento con clientela istituzionale;
+ <U+F0A7> i derivati definiti gestionalmente facenti parte di tale aggregato, siano essi di copertura o
+     meno;
+ <U+F0A7> i titoli identificati come Loans & Receivables e quelli Available-For-Sale (AFS) compresi
+     quelli detenuti dalle filiali estere;
+ <U+F0A7> i prestiti obbligazionari emessi, compresi i subordinati.
+In generale rientrano nel Banking Book (portafoglio bancario) tutte le operazioni finanziarie
+che non rientrano nel Trading Book (portafoglio di negoziazione ai fini di Vigilanza).
+2.4 - FONTI DI RISCHIO
+L’identificazione delle fonti di “Rischio di Tasso di Interesse del Banking Book (IRRBB)” (nel
+seguito anche solo rischio tasso) viene svolta con l’obiettivo di individuare i principali fattori di
+rischio che espongono il Gruppo a dinamiche avverse di tasso.
+Le principali fonti di rischio di tasso sono:
+ <U+F0A7> Repricing Risk & Yield Curve Risk (Gap Risk): rischio di tasso derivante dal mismatch delle
+      scadenze (per le posizioni a tasso fisso) o delle date di repricing (per le posizioni a tasso
+      variabile) che espone la banca ai cambiamenti di forma e pendenza della curva dei tassi
+      di interesse;
+ <U+F0A7> Basis Risk: rischio di tasso derivante dalla presenza di differenti indicizzazioni delle poste
+      pur in presenza di analoghe date di repricing;
+ <U+F0A7> Option Risk: rischio derivante dalle opzionalità presenti nel portafoglio bancario tra cui:
+        <U+F0FC> Automatic Option Risk: opzioni con payoff automatici incluse nelle poste del
+             portafoglio bancario (es. componente opzionale dei mutui con cap venduti alla
+             clientela);
+        <U+F0FC> Non-automatic Option Risk (Behavioural Option Risk): opzioni implicite in talune
+             posizioni del banking book con profilo di repricing comportamentale (es.
+             prepayment, non-maturity deposits).
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                  Banking Book (IRRBB)
+                      Codice: D 01508 002              Presentato il: 14/03/2017             Pag. 5 di 11
+2.5 - VALUTAZIONE E MISURAZIONE DEL RISCHIO
+2.5.1 - Generalità
+Le fonti di rischio individuate al punto precedente rappresentano il punto di partenza per la
+definizione di appropriati modelli di valutazione e misurazione del rischio in grado di catturare
+le diverse specificità.
+Le misure rilevanti per la valutazione e misurazione del Rischio di Tasso sono il Margine di
+Interesse ed il Valore Economico pertanto le principali metriche per la misurazione del rischio
+di tasso sono:
+ <U+F0A7> Sensitivity del Margine di Interesse (<U+2206>NII) che catturano le variazioni di margine dovute ai
+     movimenti della curva dei tassi di interesse;
+ <U+F0A7> Sensitivity del Valore Economico (<U+2206>EVE) che catturano la variazione del valore economico
+     delle poste oggetto di rischio tasso al variare della curva dei tassi di interesse.
+2.5.2 - Margine di interesse
+Le analisi di Margine di Interesse nell’ambito del Rischio di Tasso sul Banking Book (Portafoglio
+Bancario) sono le seguenti:
+ <U+F0A7> Analisi statiche di sensitivity del Margine di Interesse che colgono la variabilità del margine
+     di interesse a fronte di un determinato scenario di tasso, dato un prefissato orizzonte di
+     analisi in ipotesi di bilancio statico;
+ <U+F0A7> Analisi dinamiche del Margine di Interesse in grado di cogliere i livelli previsivi di variazione
+     del margine includendo un ampio range di fattori di rischio, quali:
+      o scenari di tassi risk free;
+      o differenti scenari di cost of funding;
+      o vincoli legati a dinamiche di pass-through;
+      o evoluzione dinamica degli aggregati patrimoniali e deterioramento della qualità
+          creditizia del portafoglio di Loans & Receivables.
+Analisi Statiche
+La variabilità del Margine di Interesse rispetto ad un valore atteso, in un certo orizzonte
+temporale, viene determinata attraverso la sua misura di sensitivity (<U+2206>NII) ai movimenti dei
+tassi di interesse. La misura viene calcolata in base ad un predefinito orizzonte di analisi (noto
+come gapping period) ed in funzione dei flussi in scadenza o che ridefiniscono il tasso (poste a
+tasso variabile e componente elastica dei Non-maturing deposits) in tale periodo.
+Nel caso di flussi in scadenza (maturing) nel gapping period (GP) si suppone il rinnovo della
+posta fino alla fine del periodo con un tasso futuro pari al tasso forward implicito nella curva
+dei tassi. Le posizioni in scadenza nel gapping period vengono quindi rinnovate con strumenti
+aventi le medesime caratteristiche con un approccio noto come Static Balance-sheet.
+Il contributo delle posizioni che ridefiniscono il tasso (refixing) alla variabilità del margine
+atteso è, dato uno scenario scelto, pari alla differenza tra gli interessi generati ipotizzando un
+refixing (parte non nota del coupon) pari al forward implicito nella curva a cui viene applicato
+un determinato scenario e gli interessi generati sotto l’ipotesi di forward impliciti nella curva
+corrente.
+Nella definizione della misura di sensitivity del margine di interesse (<U+2206>NII), l’ampiezza del
+gapping period pari a 12 mesi.
+Analisi Dinamiche
+Una naturale estensione delle misure di sensitivity del margine di interesse (<U+2206>NII) sono le
+misure di variazione del margine di interesse. Le misure di previsione del margine di interesse
+dinamico estendono le metriche standard in modo tale da comprendere:
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                 Banking Book (IRRBB)
+                      Codice: D 01508 002             Presentato il: 14/03/2017              Pag. 6 di 11
+ <U+F0A7>  Evoluzione dinamica del Balance-Sheet: misure condotte tenendo in considerazione
+     eventuali ipotesi di balance-sheet non statico in linea con le evoluzioni definite nel financial
+     plan del Gruppo;
+ <U+F0A7>  Deterioramento della qualità creditizia del portafoglio: misure condotte tenendo in
+     considerazione lo scivolamento a default del portafoglio di Loans & Receivables;
+ <U+F0A7>  Additional Cost of Funding e Pass - Through: misure condotte tenendo in considerazione sia
+     scenari di variazione del costo di accesso al mercato del Gruppo sia la capacità di traslare il
+     maggior costo della raccolta sui nuovi impieghi (pass - through).
+Le misure di margine di interesse dinamico forniscono stime prospettiche nel breve e medio
+periodo (ad es. 3 anni) tenendo in considerazione un ampio spettro di dinamiche aziendali e di
+rischio andando a descrivere il profilo di rischio specifico della banca risultando particolarmente
+sensibili alla tipologia di ipotesi fatte.
+2.5.3 - Valore economico
+Per Valore Economico (Economic Value of Equity - EVE) si intende il valore attuale di tutti i
+flussi di cassa futuri attesi (interessi e nozionale) generati dalle singole poste.
+Per la stima dei flussi di cassa (cash flow - CF) si individuano le seguenti tipologie di
+operazioni:
+    a) operazioni contrattuali, per le quali il profilo dei flussi di cassa e di repricing può essere
+        determinato univocamente sulla base delle caratteristiche finanziarie dell’operazione;
+    b) operazioni comportamentali, per le quali il profilo di flussi di cassa e di repricing può
+        essere determinato attraverso opportune modellizzazioni non contrattuali e/o repricing
+        adjustment (ad es. Non-maturing Deposits, prepayment su impieghi di medio e lungo
+        termine);
+    c) operazioni non lineari: opzioni, per le quali il solo profilo di cash flow e di repricing non
+        è sufficiente a descrivere completamente il corretto pay-off (ad es. cap, floor).
+Nello sviluppo dei flussi di interesse, le misure di Sensitivity del Valore Economico considerano
+esclusivamente il contributo derivante dalla componente “rate related”: il tasso complessivo di
+una generica posta (tasso finito) può essere infatti visto come somma di differenti componenti
+remunerative di diverse tipologie di rischio (tasso di interesse, rischio di credito, rischio di
+liquidità…) e degli add-on commerciali.
+2.5.4 - Capitale interno
+Il capitale interno a fronte del Rischio di Tasso di Interesse del Banking Book (IRRBB) viene
+stimato a partire sia dalle sensitivity del valore economico sia del margine di interesse,
+applicando una serie di diversi scenari di tasso di interesse e di volatilità, tenuto conto della
+plausibilità di realizzo ad 1 anno (attraverso analisi statistiche del comportamento passato dei
+tassi di interesse).
+Nella definizione degli scenari di tasso per il capitale interno si considerano sia movimenti
+paralleli ed istantanei della curva dei rendimenti con differenti magnitudini sia cambiamenti
+nella forma della curva dei rendimenti (ad esempio tassi di interesse a breve termine in
+aumento/diminuzione a fronte di variazioni opposte dei tassi a medio e lungo).
+2.5.5 - Impatto di stress su margine prospettico
+Il Gruppo Montepaschi svolge periodicamente (e ad evento come in occasione di stress test
+regolamentari) esercizi di stress sul margine prospettico al fine di analizzare il potenziale
+fabbisogno di capitale in condizioni avverse di mercato. Le misure di stress test sono valutate
+attraverso analisi di simulazioni dinamiche del margine di interesse e sono volte a determinare
+le potenziali variazioni del conto economico derivanti da uno scenario avverso sul margine di
+interesse.
+
+                     Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                Banking Book (IRRBB)
+                     Codice: D 01508 002             Presentato il: 14/03/2017              Pag. 7 di 11
+I risultati degli stress test conducono alla determinazione della differenza di margine
+prospettico, ovvero il net interest income (NII) cumulato su un orizzonte temporale
+normalmente pari a tre anni, tra uno scenario prospettico noto come scenario baseline ed uno
+scenario avverso, detto adverse, definiti a fronte di differenti ipotesi di tassi, di costo del
+funding e di dinamiche di stato patrimoniale.
+2.5.6 - Modelli
+Nell’ambito della valutazione e della misurazione del Rischio di Tasso di Interesse sul Banking
+Book (IRRBB) particolare rilievo occupano gli approcci metodologici relativi a specifici
+aggregati. La rappresentazione contrattuale di tali voci non consentirebbe di cogliere in
+maniera appropriata la relativa rischiosità ai fini del tasso di interesse; per tale ragione sono
+stati adottati diversi approcci metodologici, definiti comportamentali, che hanno lo scopo di
+modellizzarne il comportamento.
+Gli approcci più rilevanti ai fini del calcolo delle misure di rischio sono Non-maturing Deposits
+(le poste a vista con clientela) ed il Prepayment sugli impieghi di medio e lungo termine.
+Non-Maturiting Deposits (NMDs)
+Con l’espressione “Non-Maturiting Deposits” o ”poste a vista con clientela” ci si riferisce ad un
+insieme eterogeneo di forme tecniche, sia di impiego sia di raccolta, che hanno in comune le
+seguenti caratteristiche:
+ <U+F0A7> l’assenza di una scadenza contrattualmente definita, o più precisamente, una scadenza
+     contrattuale che è formalmente a vista (almeno per il singolo rapporto), ma a fronte della
+     quale si osserva una sostanziale persistenza e stabilità dei rapporti considerati nel loro
+     complesso;
+ <U+F0A7> l’assenza di un piano di ammortamento predefinito;
+ <U+F0A7> condizioni finanziarie prontamente rivedibili, in particolare a discrezione dell’intermediario
+     finanziario.
+Gli aspetti comportamenti delle poste a vista sono sostanzialmente due:
+ <U+F0A7> il primo è riferito alla durata effettiva a livello aggregato che è significativamente
+     differente dalla durata contrattuale (a vista);
+ <U+F0A7> la seconda caratterizzazione è relativa al concetto di vischiosità ovvero alla
+     remunerazione delle poste a vista che possa adeguarsi parzialmente e con ritardo alla
+     dinamica dei tassi a seconda delle caratteristiche contrattate con i diversi clienti.
+Prepayment su impieghi di medio e lungo termine
+Il prepayment può essere definito come il pagamento anticipato, in tutto o in parte, del debito
+residuo da parte del mutuatario.
+Tale evento comporta per la Banca una serie di rischi che possono essere rappresentati dalle
+seguenti categorie:
+ <U+F0A7> Rischio tasso di reinvestimento: in particolare legato ai mutui a tasso fisso ed alla
+     componente di spread incassato dalla clientela nei mutui a tasso variabile, nel caso di
+     un’eventuale compressione dello spread.
+ <U+F0A7> Rischio di overhedging finanziario: ossia il rischio di aver concluso contratti Swap a
+     copertura di mutui a tasso fisso (receive floating/pay fixed) per un nozionale che nel
+     tempo si riveli superiore all’ammontare dei contratti di mutuo in essere, questi ultimi
+     inferiori a causa del prepayment.
+ <U+F0A7> Cost of Funding: nel momento in cui la Banca raccolga su scadenze superiori a quelle
+     effettivamente necessarie con un aggravio nel cost of funding.
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                 Banking Book (IRRBB)
+                      Codice: D 01508 002             Presentato il: 14/03/2017              Pag. 8 di 11
+2.6 - GESTIONE DEL RISCHIO
+La gestione del rischio di tasso sul banking book viene effettuata in coerenza con il processo
+ICAAP (Direttiva di Gruppo in materia di Processo interno di Valutazione dell’Adeguatezza
+Patrimoniale - 1030D01308) che rappresenta il processo di valutazione e gestione
+dell’adeguatezza patrimoniale attraverso il quale sono identificati gli inherent risk e il loro
+capitale interno.
+Il processo di Risk Appetite Framework (Direttiva di Gruppo in materia di Governo del Risk
+Appetite Framework - 1030D01930) definisce la Risk Tolerance sugli indicatori di adeguatezza
+patrimoniale e determina il conseguente livello di Risk Tolerance assegnato all’IRRBB.
+La IRRBB Tolerance definisce il sistema completo di limiti operativi (Risk Limits) su tutti gli
+indicatori di rischio dell’IRRBB.
+L’analisi ed il monitoraggio nel continuo dell’andamento delle metriche inerenti il rischio di
+tasso consente di verificare il costante rispetto del sistema dei limiti e quindi di segnalare
+tempestivamente eventuali sconfinamenti agli organi aziendali competenti.
+Relativamente al verificarsi di possibili sconfinamenti dei limiti assegnati vengono definite, le
+politiche e le modalità di gestione degli stessi, monitorando nel tempo l’attuazione delle
+manovre correttive individuate.
+2.7 - MITIGAZIONE DEL RISCHIO
+La mitigazione del rischio avviene attraverso la definizione di un adeguato framework
+normativo e metodologico soggetto costantemente ad aggiornamento, che attribuisca in modo
+chiaro i ruoli e le responsabilità delle diverse funzioni aziendali e illustri gli approcci di
+valutazione e misurazione del rischio di tasso di interesse.
+2.8 - DEFINIZIONE E PRODUZIONE DEL REPORTING
+Il Gruppo si dota di un sistema efficiente di comunicazione delle informazioni rilevanti
+(Reporting) tra tutte le funzioni coinvolte nel processo di Gestione del Rischio di Tasso di
+Interesse del Banking Book (IRRBB) e tra queste e gli organi aziendali al fine di individuare in
+maniera chiara responsabilità, tempistiche, modalità e contenuti delle comunicazioni, onde
+diffondere tempestivamente ed efficacemente all’interno del Gruppo la piena consapevolezza
+circa la corretta attuazione della gestione del rischio di tasso.
+3 - ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO
+3.1 - GENERALITÀ
+La Funzione di Controllo dei Rischi della Capogruppo è responsabile, coerentemente con
+il documento “Policy in materia di Risk Management (Governo dei Rischi)” 1030D01114 del
+rischio di tasso di interesse del banking book (IRRBB) e risulta pertanto accentrata sulla
+Capogruppo la responsabilità di gestione del rischio di tasso definendo criteri, responsabilità,
+processi, limiti e strumenti per la gestione del rischio stesso.
+Le Società del Gruppo, rientranti nel perimetro di applicazione, sono responsabili del rispetto
+delle regole e dei limiti definiti dalla Capogruppo.
+
+                     Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                Banking Book (IRRBB)
+                     Codice: D 01508 002             Presentato il: 14/03/2017              Pag. 9 di 11
+Le Società Estere, rientranti nel perimetro di applicazione, presentano locali funzioni di
+controllo del rischio che, con il supporto della Capogruppo, assicurano l’armonizzazione fra le
+regole del Gruppo e le disposizioni delle locali autorità di vigilanza sulla specifica materia.
+3.2 - RESPONSABILITA’ DEGLI ORGANI DI VERTICE DELLA CAPOGRUPPO E DELLE
+        SOCIETA’ DEL GRUPPO
+ORGANO CON FUNZIONE DI SUPERVISIONE STRATEGICA
+Il Consiglio di Amministrazione della Capogruppo, nell'ambito del proprio ruolo di
+supervisione strategica, approva le linee guida ed il quadro organizzativo in materia di gestione
+del rischio di tasso di interesse del banking book (IRRBB).
+Il Comitato Rischi della Capogruppo svolge funzioni di supporto al Consiglio di
+Amministrazione della Capogruppo nella definizione e approvazione degli indirizzi in materia di
+gestione del rischio di tasso di interesse del banking book (IRRBB).
+Gli Organi di Supervisione Strategica delle Società rientranti nel perimetro di applicazione:
+<U+F0A7> recepiscono il quadro organizzativo e le linee guida in materia di gestione del rischio di tasso
+   di interesse del banking book (IRRBB) definite dalla Capogruppo;
+<U+F0A7> recepiscono i limiti operativi definiti dalla Capogruppo nell’ambito della IRRBB Tolerance
+   coerentemente con il Risk Appetite Framework, mediante apposita delibera;
+<U+F0A7> approvano e vigilano sulla realizzazione degli interventi di mitigazione di competenza,
+   definiti dalla Capogruppo a presidio del rischio di tasso di interesse del banking book
+   (IRRBB) del Gruppo.
+ORGANO CON FUNZIONE DI GESTIONE
+L’Amministratore Delegato della Capogruppo:
+<U+F0A7> garantisce la corretta realizzazione del quadro organizzativo in materia di gestione del
+   rischio di tasso di interesse del banking book (IRRBB) definito dal Consiglio di
+   Amministrazione;
+<U+F0A7> approva la IRRBB Tolerance e il conseguente sistema dei limiti da assegnare alle Società del
+   Gruppo ed alle Business Unit;
+<U+F0A7> autorizza eventuali sconfinamenti del sistema dei limiti e l’attuazione delle manovre
+   correttive per la gestione degli stessi, nell’ambito delle autonomie assegnategli dal Consiglio
+   di Amministrazione.
+Il Comitato Gestione Rischi con funzione di supporto all’organo con funzione di gestione
+della Capogruppo:
+<U+F0A7> approva le metodologie di misurazione del rischio di tasso di interesse del banking book
+   (IRRBB) ed il sistema dei controlli a presidio;
+<U+F0A7> valuta la proposta di IRRBB Tolerance ed il complessivo rispetto del sistema dei limiti definiti
+   nell’ambito del collegato sistema dei limiti;
+<U+F0A7> monitora gli eventuali sconfinamenti del sistema dei limiti e l’attuazione delle azioni
+   correttive per la gestione degli stessi;
+<U+F0A7> approva i risultati degli stress test in presenza di particolari eventi o situazioni di
+   vulnerabilità.
+Il Comitato Finanza e Liquidità con funzione di supporto all’organo con funzione di gestione
+della Capogruppo:
+<U+F0A7> è informato della proposta di IRRBB Tolerance e del complessivo del sistema dei limiti;
+<U+F0A7> è informato dei risultati degli stress test in presenza di particolari eventi o situazioni di
+   vulnerabilità.
+
+                        Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                  Banking Book (IRRBB)
+                        Codice: D 01508 002             Presentato il: 14/03/2017              Pag. 10 di 11
+Gli Organi con funzione di Gestione delle Società del Gruppo rientranti nel perimetro di
+riferimento, per gli aspetti ad essi applicabili e nell’ambito delle proprie realtà aziendali, sono
+responsabili dell’attuazione degli indirizzi definiti dalla Capogruppo e dal proprio Organo con
+funzione di supervisione strategica.
+ORGANO CON FUNZIONE DI CONTROLLO
+Il Collegio Sindacale della Capogruppo ed i Collegi Sindacali delle Società del Gruppo,
+avvalendosi delle funzioni di Revisione Interna del Gruppo, vigilano sull’adeguatezza e sulla
+rispondenza del sistema di gestione e controllo dei rischi ai requisiti stabiliti dalla normativa.
+3.3 - RESPONSABILITA’ DELLE FUNZIONI AZIENDALI DELLA CAPOGRUPPO E DELLE
+         SOCIETA’ DEL GRUPPO
+Funzioni Aziendali di Capogruppo
+La Funzione Controllo dei Rischi definisce la IRRBB Tolerance e il conseguente sistema dei
+limiti da sottoporre all’approvazione dell’Amministratore Delegato.
+La Funzione Controllo del Rischio di Tasso di Interesse del Banking Book è
+responsabile di definire le metodologie di identificazione, misurazione e controllo dei rischi di
+tasso e di verificare il rispetto dei limiti assegnati alle Funzioni che assumono rischi. In
+particolare:
+<U+F0A7> individua e circoscrive le fonti di rischio, definendo ed elaborando apposita reportistica verso
+    gli organi aziendali e le altre funzioni interessate;
+<U+F0A7> sviluppa i modelli e definisce le metodologie utilizzate nella valutazione e nella misurazione
+    del rischio di tasso e li sottopone all’esame del Comitato Operativo di Basilea;
+<U+F0A7> effettua il backtesting al fine di confermare la validità dei modelli utilizzati;
+<U+F0A7> produce e monitora, secondo la frequenza definita, le metriche atte al monitoraggio del
+    rischio di tasso di interesse del banking book (IRRBB);
+<U+F0A7> effettua analisi di scenario e stress test;
+<U+F0A7> elabora il grado di utilizzo dei limiti segnalando eventuali sconfinamenti;
+<U+F0A7> verifica l’applicazione delle azioni correttive a fronte di sconfinamento dei limiti o di altre
+    situazioni di vulnerabilità rilevate in sede di monitoraggio del rischio;
+<U+F0A7> supporta la Funzione Segnalazione di Vigilanza relativamente alla corretta rappresentazione
+    regolamentare del rischio di tasso;
+<U+F0A7> presidia la corretta parametrizzazione e configurazione dei sistemi informativi funzionali al
+    monitoraggio del rischio di tasso di interesse del banking book (IRRBB).
+<U+F0A7> definisce e predispone il reporting periodico di monitoraggio del rischio di tasso di interesse
+    del banking book (IRRBB).
+La Funzione Gestione dell’Asset & Liability Management (ALM ) è responsabile in
+accentrato dell’Asset and Liability Management (ALM) del Gruppo ed in tale ambito definisce le
+azioni affinché sia garantito un adeguato equilibrio, a livello di Gruppo, tra attività e passività
+del Banking Book nel rispetto del sistema di limiti stabiliti e:
+<U+F0A7> contribuisce all’identificazione delle fonti di rischio e alla definizione dei modelli e delle
+    metodologie utilizzate nella misurazione del rischio di tasso;
+<U+F0A7> contribuisce all’analisi di scenario e stress test;
+<U+F0A7> identifica le eventuali azioni correttive e ne presidia l’attuazione a fronte di sconfinamento
+    dei limiti o di altre situazioni di vulnerabilità rilevate in sede di monitoraggio del rischio.
+La Funzione Convalida Interna, in coerenza con quanto definito nel “Validation Plan”,
+verifica l’accuratezza delle stime, il design dei processi e dei controlli ed esprime un giudizio in
+merito al regolare funzionamento, alla capacità predittiva e alla performance del sistema di
+misurazione del rischio di tasso di interesse del banking book (IRRBB).
+
+                     Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+                                 Banking Book (IRRBB)
+                     Codice: D 01508 002              Presentato il: 14/03/2017             Pag. 11 di 11
+La Funzione Revisione Interna vigila sulla funzionalità del complessivo sistema dei controlli
+in coerenza con la policy in materia di Sistema dei Controlli Interni (Policy di Gruppo in materia
+di Sistema dei Controlli Interni - 1030D00793) e con il piano di audit.
+Funzioni Aziendali di Società del Gruppo
+La Funzione Sistemi Informativi:
+<U+F0A7> è informata in merito agli aggiornamenti dei modelli e delle metodologie utilizzate nella
+    misurazione del rischio di tasso e delle relative metriche atte al monitoraggio;
+<U+F0A7> assicura il corretto funzionamento degli applicativi utilizzati dalla funzione di Controllo del
+    Rischio di Tasso del Banking Book in merito all’estrazione e alla lavorazione dei dati.
+3.4 - PARTICOLARITÀ PER SOCIETÀ DEL GRUPPO OPERANTI ALL’ESTERO E PER LE
+        FILIALI ESTERE DI BANCA MPS
+Nell’ambito delle Società Estere del Gruppo le Funzioni di Controllo del Rischio Locale per
+quanto di rispettiva competenza:
+<U+F0A7> recepiscono gli indirizzi definiti dalla Capogruppo adeguandole a quanto richiesto dalle
+   Autorità di Vigilanza locali, ;
+<U+F0A7> adempiono alle richieste delle Autorità di Vigilanza locali in tema di monitoraggio del rischio
+   di tasso di interesse del banking book (IRRBB) e comunicano alla Capogruppo eventuali
+   eccezioni, scostamenti ed aggiornamenti rispetto agli indirizzi di Capogruppo;
+<U+F0A7> forniscono alla Funzione di Controllo del Rischio di Tasso di Interesse del Banking Book i dati
+   necessari per la produzione e l’analisi delle metriche a livello di Gruppo anche ai fini di
+   segnalazioni di vigilanza;
+<U+F0A7> informano tempestivamente la Funzione di Controllo del Rischio di Tasso di Interesse del
+   Banking Book e la Funzione Gestione dell’Asset & Liability Management (ALM) su eventuali
+   tensioni di rischio tasso e/o su eventuali richieste/comunicazioni delle Autorità di Vigilanza
+   locali.
+Nell’ambito delle Filiali Estere di Banca MPS le Funzioni di Controllo del Rischio Locale per
+quanto di rispettiva competenza:
+<U+F0A7> recepiscono gli indirizzi definiti dalla Capogruppo adeguandole a quanto richiesto dalle
+   Autorità di Vigilanza locali;
+<U+F0A7> adempiono alle richieste delle Autorità di Vigilanza locali in tema di monitoraggio del rischio
+   di tasso di interesse del banking book (IRRBB) e comunicano alla Capogruppo eventuali
+   eccezioni, scostamenti ed aggiornamenti rispetto agli indirizzi di Capogruppo;
+<U+F0A7> informano tempestivamente le Funzioni di Capogruppo di Controllo del Rischio di Tasso di
+   Interesse del Banking Book e di Gestione dell’Asset & Liability Management (ALM) su
+   eventuali tensioni di rischio tasso e/o su eventuali richieste/comunicazioni delle Autorità di
+   Vigilanza locali.
+4 - ELENCO TESTI NORMATIVI DI RIFERIMENTO
+1030D00793 - Policy di Gruppo in materia di Sistema dei Controlli Interni
+1030D01114 - Policy in materia di Risk Management (Governo dei Rischi)
+1030D01308 - Direttiva di Gruppo in materia di Processo interno di Valutazione
+dell’Adeguatezza Patrimoniale (ICAAP)
+1030D01930 - Direttiva di Gruppo in materia di Governo del Risk Appetite Framework
+

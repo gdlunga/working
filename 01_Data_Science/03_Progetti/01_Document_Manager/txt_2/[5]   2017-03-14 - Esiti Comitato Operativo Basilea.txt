@@ -1,0 +1,97 @@
+Comitato Gestione Rischi del 17-03-2017
+           Esiti del Comitato Operativo Basilea
+                                 del 14-03-2017
+                          Direzione Chief Risk Officer
+                               GRUPPOMONTEPASCHI
+
+Indice
+        Sezione 1 – Relazione di Convalida 2016
+        Sezione 2 – Aggiornamento approccio di valutazione IRRBB: tassi negativi, floor e multi-curva
+        Sezione 3 – Rischi Operativi - Remedial Action IMI42
+        Sezione 4 – Aggiornamento Piano di Roll out ed evoluzione modelli Airb
+  GRUPPOMONTEPASCHI|Direzione Chief Risk Officer Comitato Gestione Rischi del 17-03-2017: Esiti del Comitato Operativo Basilea 2
+
+Sezione 1 – Relazione di Convalida 2016
+  <U+F0A7> La Funzione di Convalida Interna di Capogruppo, collocata all’interno dell’Area Validazione, Monitoraggio e Informativa Istituzionale presso la Direzione Chief Risk
+    Officer, ha come principale competenza quella di convalidare i modelli di misurazione dei rischi regolamentari autorizzati dall’Autorità di Vigilanza e quelli gestionali
+    rientranti nell’ambito del Validation Plan approvato annualmente dal CdA.
+  <U+F0A7> Dette competenze vengono esercitate attraverso il Servizio Validazione Sistemi di Rischio (di seguito anche SVSR) costituito all’interno della sopra citata Area.
+  <U+F0A7> Il perimetro della Convalida 2016 ricomprende il Sistema dei Rating Interni, il Sistema AMA di misurazione del Rischio Operativo e il Sistema di misurazione del Rischio
+    di Liquidità.
+  <U+F0A7> Nel corso dell’anno sono state completate le attività previste nel Validation Plan 2016.
+  <U+F0A7> Ai sensi di quanto previsto dalla Circolare 285 della Banca d’Italia la presente Relazione, previa approvazione del Comitato Operativo Basilea e del Comitato Gestione
+    Rischi e dopo essere stata portata all’attenzione del Comitato Rischi e del Collegio Sindacale, verrà portata in approvazione al Consiglio di Amministrazione della
+    Capogruppo e trasmessa all’Autorità di Vigilanza.
+  <U+F0A7> Le evidenze riportate nella presente Relazione si riferiscono sia alla Capogruppo Banca MPS che alle Società Controllate che hanno esternalizzato alla Capogruppo le
+    attività operative di convalida (MPS Capital Services Banca per le Imprese Spa e MPS Leasing & Factoring Spa). Le Relazioni Annuali specifiche di tali Società sono già
+    state approvate dai rispettivi Consigli di Amministrazione.
+  <U+F0A7> Tenuto conto delle evidenze emerse dalle verifiche svolte, del posizionamento del Gruppo rispetto ai requisiti regolamentari nonché delle aree di miglioramento
+    individuate, la Funzione di Convalida esprime:
+        • parere PARZIALMENTE FAVOREVOLE relativo al Sistema di Misurazione del Rischio di Credito – Sistema dei Rating Interni (AIRB-SRI);
+        • parere IN PREVALENZA FAVOREVOLE relativo al Sistema di Misurazione dei Rischi Operativi (AMA);
+        • parere IN PREVALENZA FAVOREVOLE relativo al Sistema di Misurazione del Rischio di Liquidità.
+  <U+F0A7> L’esito delle analisi di Convalida permette di confermare, in particolare per i rischi a valenza regolamentare (AIRB-SRI ed AMA), il rispetto dei requisiti minimi previsti
+    per l’utilizzo dei sistemi interni per la determinazione del requisito patrimoniale.
+ GRUPPOMONTEPASCHI|Direzione Chief Risk Officer               Comitato Gestione Rischi del 17-03-2017: Esiti del Comitato Operativo Basilea                                     3
+
+Sezione 2 – Aggiornamento approccio di valutazione IRRBB: tassi negativi, floor e multi-curva
+<U+F0A7> Al Comitato Operativo Basilea del 14-03-2017 è stata presentata una proposta di revisione relativa alle modalità di misurazione del rischio di tasso di interesse del
+   Banking Book (IRRBB) in un contesto di tassi di interesse negativi e la valorizzazione con il multi-curva per lo sviluppo prospettico dei cash-flow (forecasting).
+<U+F0A7> In particolar modo la proposta riguarda i seguenti aspetti:
+  • Rimozione del floor (0%) sulla curva dei tassi di interesse sia nello scenario base sia negli scenari negativi e approccio multi-curva per il forecasting ovvero curve
+      distinte in base al tenor (1M, 3M e 6M) dell’indicizzazione per il calcolo dei flussi prospettici;
+  • Valutazione dei floor impliciti nelle operatività presenti nel banking book con riferimento sia a prodotti di nuova generazione con floor «contrattuale» su parametro
+      (e.g. mutui con floor 0% su parametro Euribor6M) sia a prodotti con floor impliciti su tasso complessivo non negativo (e.g. mutui a tasso variabile il cui tasso
+      complessivo non può assumere valore negativo).
+<U+F0A7> Tali revisioni si rendono necessarie per allineare le metodologie di stima dei rischi di Gruppo all’attuale contesto di mercato al fine di valutare in modo completo
+   eventuali profili di vulnerabilità presenti nel posizionamento del portafoglio bancario (sia secondo un approccio a margine di interesse NII, che secondo un approccio a
+   valore economico EVE).
+<U+F0A7> L’applicazione delle modifiche approvate dal Comitato Operativo Basilea del 14-03-2017, comporterà le variazioni di sensitivity rappresentate nei grafici di seguito.
+ GRUPPOMONTEPASCHI|Direzione Chief Risk Officer              Comitato Gestione Rischi del 17-03-2017: Esiti del Comitato Operativo Basilea                                  4
+
+Sezione 3 – Rischi Operativi - Remedial Action IMI42
+  <U+F0A7> Il 2 febbraio 2017 la Banca ha ricevuto la Follow up letter relativa all'Internal Model Investigation 42 (IMI42), avvenuta a settembre 2015 sul modello AMA
+     utilizzato per il calcolo del requisito patrimoniale a fronte dei Rischi Operativi.
+  <U+F0A7> Il parere espresso nella Follow up Letter è in genere positivo, tuttavia sono stati individuati nuovi findings su cui apportare azioni correttive al fine di risultare
+     perfettamente in linea con la normativa europea (CRR) e con gli EBA Final Draft RTS on AMA.
+  <U+F0A7> In particolare i nuovi findings, che devono essere implementati entro giugno 2017, riguardano:
+     • la modifica al meccanismo di scaling dei dati interni ed esterni;
+     • la modifica al processo di filtro sui dati esterni (DIPO);
+     • maggiori dettagli nel Manuale metodologico riguardo alle assunzioni di correlazione tra gli scenari;
+     • maggiori dettagli nel Manuale metodologico riguardo ai criteri utilizzati per la costruzione degli scenari.
+  <U+F0A7> Il nuovo modello, considerando le azioni correttive richieste, comporta un incremento per circa 60 mEUR (+9.6%) rispetto al requisito di dicembre 2016.
+  <U+F0A7> Per allinearsi alla CRR, inoltre, la Banca segnalerà nell’Action Plan l’intenzione di rimuovere le frodi su credito (credit boundary) dalla base dati ai fini del calcolo
+     del requisito patrimoniale a partire dal 30 giugno 2017. Tali perdite rappresentano infatti l’ammontare di perdita delle pratiche a contenzioso e sono pertanto
+     già trattate ai fini del Rischio di Credito.
+  <U+F0A7> L’esclusione delle perdite boundary con il credito comporta una riduzione del requisito patrimoniale a fronte dei Rischi Operativi per circa il 3%. Sulla base del
+     regolamento EU No 529/2014, allegato II, parte II, sezione 2, tale modifica si configura come notifica ex-ante da segnalare almeno 2 mesi prima dell’attuazione.
+  <U+F0A7> Rispetto al requisito di dicembre 2016 l’incremento osservato complessivo è pari al 6,2% (circa 40mEUR).
+  <U+F0A7> L’impatto di tali modifiche evolutive è stato comunque considerato nelle stime previsionali e nelle bozze del piano di ristrutturazione.
+ GRUPPOMONTEPASCHI|Direzione Chief Risk Officer               Comitato Gestione Rischi del 17-03-2017: Esiti del Comitato Operativo Basilea                                   5
+
+Sezione 4 – Aggiornamento Piano di Roll out ed evoluzione modelli AIRB
+   Q4 2016                       Q1 2017                            Q2 2017                                Q3 2017                      Q4 2017
+    Q2: April/May                                                                            Tentative launching during Q3
+    Request for EAD, revised default definition, time                                         Internal Model Investigation (IMI)
+    horizon and RWA on defaulted assets
+         EAD models Corporate & Retail:                 LGD bonis                                  EAD models Corporate & Retail:              LGD bonis
+       •  Corporate – Other                             refinement                              •   Corporate – Other                          refinement
+       •  Corporate – SME                             PD models re-                             •   Corporate – SME                           PD models re-
+       •  Retail secured by RE – Non SME                calibration                             •   Retail secured by RE – Non SME             calibration
+       •  Retail secured by RE – SME                                                            •   Retail secured by RE – SME
+       •  Retail other – non SME                     RWA on defaulted                           •   Retail other – non SME                  RWA on defaulted
+       •  Retail other – SME                        assets (ELBE, LGD                           •   Retail other – SME                     assets (ELBE, LGD
+       •  Qualifying revolving                           in-default)                            •   Qualifying revolving                        in-default)
+                          End of Q2
+                                  Tentative launching during Q2                                    • The TRIM inspection will be focused on Retail secured
+                                   Internal Model Investigation on SSM                                by real estate segment, but it involves models going to
+                                   credit risk initiative (TRIM)                                      be reviewed by model changes
+                                             PD and LGD validated models                           • It would be potentially worthy to exploit the inspection
+                                            Retail secured by RE – Non SME                            to evaluate proposed model changes (also considering
+                                                                                                      that proposed refinements could address gaps of current
+                                                                                                      models)
+   ECB confirmed that the additional proposed elements are part of new MPS plan but so far did not mention if these will
+   be considered in the context of the upcoming TRIM inspection
+   • Application • Inspection
+ GRUPPOMONTEPASCHI|Direzione Chief Risk Officer           Comitato Gestione Rischi del 17-03-2017: Esiti del Comitato Operativo Basilea                       6
+

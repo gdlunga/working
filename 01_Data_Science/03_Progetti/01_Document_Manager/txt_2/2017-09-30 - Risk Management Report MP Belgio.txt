@@ -1,0 +1,211 @@
+                             Risk Management Report
+                               Rischi di MP Belgio al 30-09-2017
+Direzione Chief Risk Officer
+
+Indice
+       Executive Summary
+       Sezione 1 – Verifica andamentale RAF e Analisi RWA
+       Sezione 2 – Analisi dei Rischi di Liquidità
+       Sezione 3 – Analisi di Asset&Liability Management
+       Sezione 4 – Analisi dei Rischi di Mercato
+       Sezione 5 – Analisi dei Rischi Operativi
+                                                          2
+
+Executive Summary
+ PRINCIPALI EVIDENZE GESTIONALI DI SETTEMBRE 2017
+  Alla data in esame sono in vigore tutti i nuovi limiti operativi.
+ Verifica Andamentale RAF e Analisi RWA
+     Al 30-09-2017 il monitoraggio dei KRI non rileva sconfinamenti.
+     RWA pari a 1.094 €/mln in diminuzione del 14,9% rispetto al trimestre precedente, principalmente sul Rischio di Credito e Rischio Emittente.
+ Posizione di Liquidità
+     L’indicatore di liquidità a breve LCR stimato in data 30-09-2017 è pari a 135% in peggioramento rispetto a Giugno 2017 (368%) e sotto il limite minimo di 145%.
+     L’indicatore di equilibrio strutturale di liquidità NSFR è pari a 109%, stabile rispetto alla fine dello scorso trimestre.
+ Rischio Tasso del Banking Book
+   Sensitivity del Valore Economico per +25bp pari a -2,18 €/mln e Margin Sensitivity per +25bp pari a 0,12 €/mln.
+ Rischi di Mercato del Portafoglio Bancario
+     Portafoglio obbligazionario di MPS Belgio pari a nominali 479,8 €/mln in diminuzione rispetto a fine Giugno 2017 in seguito alle riduzioni registrate sui comparti Corporate e Financial.
+     VaR del Portafoglio Bancario di MP Belgio pari a 1,06 €/mln, in lieve diminuzione rispetto al trimestre precedente (1,19 €/mln).
+     Al 30-09-2017 non si rilevano sconfinamenti da segnalare sui limiti operativi.
+ Rischi Operativi
+     Nel terzo trimestre dell’anno sono state contabilizzate 6 perdite operative per un importo complessivo di poco inferiore ai 1,6 k/€.
+     Il Requisito Patrimoniale complessivo è pari a circa 2,8 €/mln, stabile rispetto al dato di Giugno 2017.
+                                                                                                                                                                                                3
+
+Sezione 1 – Verifica andamentale RAF al 30-09-2017 - Introduzione
+    Elementi di Processo
+    In data 12-04-2017 il CdA di Capogruppo ha approvato il Risk Appetite Statement 2017 (RAS 2017) per il Gruppo Montepaschi e la sua declinazione per Legal Entity e Business Unit (c.d. «cascading down»).
+    A livello di Gruppo Montepaschi il Risk Appetite Framework (RAF) è normato internamente dalla Direttiva D01930.
+    In caso di superamento delle soglie di Risk Tolerance per la Legal Entity viene attivato un processo di escalation al Consiglio di Amministrazione al fine di autorizzare lo sconfinamento entro la Risk Capacity,
+    oppure porre in essere le necessarie azioni di rimedio per riportare il Risk Profile entro le soglie predefinite, secondo le seguenti modalità:
+               • il Responsabile del Riporto Societario di riferimento attiva il CdA della Controllata;
+    In caso di superamento delle soglie di Risk Capacity per la Legal Entity viene sempre attivato il processo di escalation nei confronti del CdA della Capogruppo al fine di autorizzare le necessarie azioni di
+    rimedio per riportare il Risk Profile entro le soglie predefinite, secondo le seguenti modalità:
+               • il CEO formula una proposta per il CdA della Capogruppo (previo passaggio in CR) e tramite il Resp. del Riporto Societario di riferimento viene informato il CdA della Controllata.
+    Monitoraggio
+    Il monitoraggio al 30-09-2017 degli indicatori RAS 2017 non evidenzia sconfinamenti.
+                            MPS BELGIO                                                                          KRI Dynamics                                          Risk Appetite Monitor
+                                                                                     U.M.    dec-16       mar-17      jun-17     sep-17     dec-17   Risk Profile vs Appetite Tolerance Capacity   Check
+                                                  CET1 Ratio (*)                      %         10,53%      9,69%       10,13%     10,91%                10,91% >     10,47%       8,95%     8,45%  OK
+                            Capital Adequacy      Total Capital Ratio (*)             %         11,99%     11,04%       11,41%     12,47%                12,47% >     11,90%       9,00%     8,63%  OK
+                                                  Internal Capital Ratio              %         10,00%      9,39%        9,72%     10,23%                10,23% >     11,03%       8,34%     8,00% Alert
+                                                  LCR                                 %           150%       207%         398%       135%                  135% >                   130%      100%  OK
+                            Liquidity Adequacy
+                                                  NSFR                                %           100%       107%         109%       109%                  109% >                   105%      100%  OK
+                            Leverage ratio        Leverage Ratio (*)                  %          6,91%      6,23%        6,41%      6,10%                 6,10% >       6,99%      4,50%     3,00% Alert
+                            Asset Quality         NPE Ratio                           %          7,98%      8,56%        7,69%      8,50%                 8,50% <       7,90%      9,00%    12,00% Alert
+                            Performance           RAROC                               %           -9,0%       0,4%        0,6%       1,2%                   1,2% >       0,4%       -1,0%           OK
+                            (*) Transitional ratios
+    Il CET1 e il Total Capital Ratio al 30-09-2017 in seguito alla capitalizzazione degli utili del primo semestre 2017 sono pari rispettivamente al 12,30% e 13,86%.
+                                                                                                                                                                                                                       4
+
+Sezione 1 – Regulatory RWA (Pillar1) e Internal RWA (Pillar2) al 30-09-2017
+                                   (Eur mln)                        MPS BELGIO
+                                                                      Risk Profile
+         Regulatory / Internal RWA
+                                              dic-16    mar-17    giu-17      set-17        <U+2206>Q        <U+2206>Q%
+         Credit and Counterparty Risk           916,2     992,6   1.051,4         853,2      -198     -18,8%
+                                  Credit Risk    816,1     910,6     978,5         831,3  1   -147     -15,0%    Principali variazioni rispetto a Giugno 2017:
+                                   Standard       816,1     910,6     978,5         831,3      -147     -15,0%
+             Counterparty Risk - Default Risk      0,7       0,5       0,5           0,4           0     -9,8% 1 Credit Risk: la variazione è da attribuire principalmente alla riduzione delle
+                                                                                                                 esposizioni verso imprese e verso controparti del Gruppo, parzialmente
+                   Issuer Risk Banking Book       92,2      77,1      69,9          19,7  2     -50    -71,9%    compensata da un incremento delle esposizioni in stato di default.
+                            Real Estate Risk       4,5       4,4         -             -          -  #DIV/0!
+                                                                                                               2 Issuer Risk Banking Book: la variazione di RWA è riconducibile alla
+                                       Other       2,8          -      2,5           1,8         -1    -27,6%    diminuzione di esposizioni in titoli di debito dei comparti Financial e
+         Operational Risk                        41,8      44,1      44,1          44,1           -          -   Corporate.
+         Counterparty Risk - CVA                   0,4       0,3       0,3           0,3          0    -4,7%
+         REGULATORY RWA                         958,4   1.036,9   1.095,8         897,6      -198     -18,1%
+         Market Risk                             49,7      57,5      62,3          68,3           6      9,5%
+                             Market Risk AFS       49,7      57,5      62,3          68,3         6       9,5%
+         Interest Rate Risk BB                  113,9      97,6      99,2          99,0           0    -0,1%
+         Business and Strategic Risk             27,4      27,6      28,5          29,4           1      2,9%
+         INTERNAL RWA                         1.149,5   1.219,7   1.285,8       1.094,2      -192     -14,9%
+                                                                                                                                                                                                5
+
+Sezione 2 – Analisi dei Rischi di Liquidità
+    In data 12-04-2017 il CdA di Capogruppo ha approvato il RAS cascading down per le Business Unit/Legal Entities individuando per il rischio di liquidità le soglie di Risk Capacity e Risk Tolerance per gli indicatori
+    LCR e NSFR. Fino alla passata rilevazione di Giugno 2017, quindi, per quanto riguarda l’indicatore segnaletico di liquidità a breve LCR (Liquidity Coverage Ratio), è stato riportato il livello di Risk Tolerance pari
+    a 130% e per quanto riguarda l’indicatore strutturale di equilibrio finanziario NSFR (Net Stable Funding Ratio), è stato riportato il livello di Risk Tolerance per il 2017 pari a 105%.
+    A valere dalle rilevazioni del 31/07/2016 sono, invece, entrati in vigore i nuovi limiti operativi, approvati dall’AD di Capogruppo in data 24-05-2017.
+    Per quanto riguarda l’indicatore LCR, è stato stabilito un Risk Limit pari a 145% mentre per quanto riguarda l’indicatore NSFR, è stato stabilito un Risk Limit pari a 107%.
+     L’indicatore di copertura di Liquidità a breve LCR stimato in data 30-09-2017 è pari a 135%, in diminuzione rispetto all’ultima rilevazione trimestrale di giugno 2017 (398%) e inferiore al limite di 145%. Lo
+      sconfinamento è stato causato principalmente dalla scadenza senza rinnovo di un deposito di raccolta con una delle principali controparti, lo SHAPE (Supreme Headquarters Allied Powers Europe, i quartier
+      generali della NATO) per un ammontare di 100 €/mln. La Controllata prevede di rientrare all’interno dei limiti attraverso l’incremento del finanziamento presso la Capogruppo già a partire dalla rilevazione del
+      31/10/17.
+     L’indicatore Strutturale di equilibrio finanziario NSFR stimato in data 30-09-2017 è pari a 109%, stabile sul trimestre e superiore al Risk Limit di 107%.
+                                                                                                                                                                                                                            6
+
+Sezione 3 – ALM: Evoluzione delle sensitivity +25bp al 30-09-2017
+                                                                  Sensitivity del Valore Economico
+                                                                  (<U+2206>EVE[+25bps]) pari a -2,18 €/mln per uno scenario di incremento dei tassi di
+                                                                  25bp.
+                                                                  Sensitivity del Margine di Interesse
+                                                                  (<U+2206>NII[+25bps]) pari a +0,12 €/mln per uno scenario di incremento dei tassi di 25bp.
+                                                                                                                                                      7
+
+Sezione 3 – Analisi di Sensitivity per aggregato di operatività al 30-09-2017
+Nella tabella a fianco si evidenziano i contributi alle variazioni di sensitivity di MP BELGIO aperte per
+tipologia di operatività.
+SENSITIVITY DEL VALORE ECONOMICO: -2,18 €/mln.                                                                                                                                                                  EV Sens          NII Sens
+                                                                                                                                                                             Stock
+                                                                                                                                                                                                                 +25bps           +25bps
+ Impieghi MP Belgio: contributo alla sensitivity complessiva di -5,40 €/mln relativo sostanzialmente allo                                                                                              DELTA
+                                                                                                               Valori in €/mln                                            30/09/17                              30/09/17 DELTA   30/09/17 DELTA
+stock di mutui e finanziamenti a m/l termine a tasso fisso e a tasso variabile.                                                                                                                         TRIM             TRIM             TRIM
+ Debt Secutirities: contributo alla sensitivity complessiva di -1,04 €/mln.                                             AGGREGATO GESTIONALE               Fisso    Variabile     Vista       Total              All              All
+                                                                                                                                                            Fi xed   Fl oa ting   At s i ght    All      Al l     Al l    All      Al l    Al l
+ Debt securities isssued: contributo alla sensitivity complessiva di +0,87 €/mln relativo alla raccolta                 MP Belgio                           574       289           79         942      -59     -5,40   -0,04     1,44   -0,17
+clientela tramite depositi.
+                                                                                                                         Debt Securities                     263       245           0          508     -104     -1,04   0,53      0,46   0,01
+                                                                                                               ATTIVO
+ Raccolta Central Banks: contributo alla sensitivity complessiva di +0,64 €/mln. L’aggregato                            Poste Patrimoniali - altre poste     16        0            0           16       0       0,00   0,00      0,00   0,00
+comprende la raccolta in TLTRO I per 218 €/mln (scadenza 2018) e TLTRO II per 149 € /mln                                 Sofferenze lorde                     12        0            0           12       -1      0,00   0,00      0,00   0,00
+(scadenza 2020).                                                                                                         TOTALE ATTIVO PER CASSA             865       535           79        1.478    -163     -6,44   0,49      1,91   -0,16
+ Derivatives: contributo alla sensitivity complessiva di +2,74 €/mln relativo alle coperture sugli impieghi             Derivatives                          6        145            0         151      -7      -0,08   -0,01     0,28   -0,03
+a m/l termine.
+                                                                                                                         Central banks                       -368       0              0        -368      0       0,64   -0,46    -0,01   -0,01
+                                                                                                                         Debt securities issued              -497      -14             0        -511     177      0,87   0,02     -0,76   0,33
+                                                                                                                         MP Belgio                            -41       0            -448       -489     -36      0,00   0,00     -1,20   -0,07
+                                                                                                               PASSIVO
+SENSITIVITY DEL MARGINE DI INTERESSE: +0,13 €/mln.
+                                                                                                                         Held for trading                     -22       0              0         -22      3       0,00   0,00     -0,06   0,01
+ Impieghi MP Belgio: contributo alla sensitivity del margine complessiva di +1,44 €/mln relativo al                     Poste Patrimoniali - altre poste    -108       0              0        -108      -4      0,00   0,00      0,00   0,00
+comparto finanziamenti a medio e lungo termine.                                                                          TOTALE PASSIVO PER CASSA           -1.037     -14           -448      -1.499    140      1,51   -0,44    -2,02   0,26
+ Debt secutirities: contributo alla sensitivity del margine pari a 0,46 €/mln.                                          Derivatives                        -145        -6            0        -151       7       2,82   -0,11    -0,04   0,00
+ Debt securities isssued: contributo alla sensitivity del margine complessiva di -0,76 €/mln.
+                                                                                                                                                                                                                 -2,18   -0,08     0,13   0,08
+ Raccolta MP Belgio a vista: contributo alla sensitivity del margine complessiva di -1,20 €/mln.
+                                                                                                                                                                                                                                                  8
+
+Sezione 4 – Analisi dei Rischi di Mercato
+                                                                                             Di seguito il dettaglio del Portafoglio Obbligazionario per Paese (Guarantor) e per Scadenza in
+                                                                                              termini di Market Value e Nominale. Le esposizioni sono tutte di tipo AFS. Dall’analisi sono esclusi i
+                                                                                              titoli del Gruppo e i titoli emessi da emittenti in stato di default.
+                                                                                             Nel corso del trimestre si segnala sia una riduzione di circa 20 €/mln di titoli nel comparto Corporate
+                                                                                              che la riduzione di circa 52 €/mln di titoli nel comparto Financial.
+                                                                                             Alla data di analisi, il monitoraggio dei limiti effettuato rispetto alle nuove deleghe approvate dall’AD
+                                                                                              di Capogruppo del 16-06-2017 e attive dalla rilevazione del 17-07-2017, non rileva sconfinamenti
+                                                                                              da segnalare.
+                                                                                                                                                       MP Belgio - OPERATIONAL LIMITS
+                                                                                                                                               jun-17      sep-17         dec-17       Limit      Usage%
+                                                                                                   VaR Banking Book (PB)                          1,19       1,06                          2,00       53%
+                                                                                                   VPB Limit                                      7,98      10,87                        -16,00          -
+                                                                                                   MP BELGIO: Portafoglio obbligazionario                       MP BELGIO: Portafoglio obbligazionario
+                                                                                              Dati in EUR/mln al 30.09.2017                                Dati in EUR/mln al 30.09.2017
+                                                                                                  Dettaglio per Paese        MV       Nominale                Dettaglio per Scadenza            MV         Nominale
+                                                                                                        Corporate             10.02          9.47                     Corporate                  10.02           9.47
+       g MP Belgio                                                                            BELGIO                            2.48         2.14                        2018                      4.65          4.50
+          VaR PB 99% 1 day in EUR/m ln                                                        GERM ANIA                         1.02         1.00                        2019                      2.90          2.83
+                         VaR           Data                                                   ITALIA                            3.62         3.50                        2020                      2.48          2.14
+       Fine Periodo      1.06       30/09/2017                                                PAESI BASSI O OLANDA              2.90         2.83                     Financial                  30.57         30.15
+       Minimo            0.88       19/06/2017                                                          Financial             30.57        30.15                         2018                     10.60         10.50
+                                                                                              BELGIO                           10.00        10.00                        2019                     15.88         15.65
+       Massimo           1.38       13/03/2017
+                                                                                              CANADA                            2.01         2.00                        2020                      2.04          2.00
+       Media             1.13
+                                                                                              FINLANDIA                         2.09         2.00                        2021                      2.05          2.00
+                                                                                              GERM ANIA                         1.05         1.00               Gov/EMU/G10/Supra               463.19       440.18
+                                                                                              ITALIA                            7.29         7.15                        2017                      2.01          2.00
+                                                                                              NORVEGIA                          1.06         1.00                        2018                     57.68         56.30
+                                                                                              REGNO UNITO                       5.03         5.00                        2019                     90.42         84.50
+                                                                                              SVEZIA                            2.05         2.00                        2020                    163.14       154.83
+                                                                                                  Gov/EMU/G10/Supra          463.19       440.18                         2021                     26.86         23.50
+          Rischi di Mercato del Portafoglio Bancario di MP Belgio, in termini di misura di   BELGIO                           39.39        37.25                        2022                    114.94       112.80
+                                                                                              FRANCIA                          10.96         9.50                        2023                      7.77          6.00
+           rischio VaR, è pari a 1.06 €/mln, in lieve diminuzione rispetto al trimestre
+                                                                                              ITALIA                          352.61       340.43                        2028                      0.38          0.25
+           precedente, con prevalenza della componente Credit Spread VaR.                                                                                              Totale                    503.79      479.80
+                                                                                              PORTOGALLO                       12.21        11.00
+                                                                                              SPAGNA                           48.02        42.00
+                                                                                                          Totale              503.79      479.80
+                                                                                                                                                                                                                      9
+
+Sezione 5– Analisi Rischi Operativi al 30-09-2017
+       1) requisito                                                                                                Il Requisito Patrimoniale di MP Belgio è pari a circa 2,8 €/mln.
+                        requisito patrimoniale                2016        Q1 2017     Q2 2017        Q3 2017
+                                    per anno                (€/mln)       (€/mln)     (€/mln)        (€/mln)       Si segnala che Il Requisito Patrimoniale di MP Belgio è calcolato
+                                             MP Belgio         2,8           2,8          2,8           2,8         secondo il metodo «base» (BIA), viene quindi calcolato a
+                                                                                                                    dicembre e mantenuto costante durante l’anno.
+                                        Totale Gruppo 678,1                674,1         733,6         745,6
+                              % MP Belgio su totale 0,41%                  0,42%        0,38%         0,38%
+                                                                                                                           MP Belgio - ACCOUNTED OPERATIONAL LOSSES
+       2) perdite
+                    €/k                                                                                      dec-16          mar-17            jun-17           sep-17            dec-17
+                                                             First-time Accounted Events                        0,2             49,1            249,7              1,6
+                                          ACTUAL LOSSES      Events with losses accounted for in the past       0,0              0,0              0,0              0,0
+                                                             Total                                              0,2             49,1            249,7              1,6
+                                                             First-time Accounted Events                        0,0              0,0              0,0              0,0
+                    OPERATIONAL           PROVISIONS         Events with losses accounted for in the past       0,0              0,0              0,0              0,0
+                    LOSSES                                   Total                                              0,0              0,0              0,0              0,0
+                                                             First-time Accounted Events                        0,2             49,1            249,7              1,6
+                                          TOTAL              Events with losses accounted for in the past       0,0              0,0              0,0              0,0
+                                                             Total                                              0,2             49,1            249,7              1,6
+                    ESTIMATED LOSSES ESTIMATED LOSSES First-time Accounted Events                               0,0              0,0              0,0              0,0
+                    (Internal/External    (Internal/External Events with losses accounted for in the past       0,0              0,0              0,0              0,0
+                    Frauds)
+                                          Frauds)            Total                                              0,0              0,0              0,0              0,0
+                       Nel Q3 2017 sono state contabilizzate 6 perdite operative per un importo complessivo di poco inferiore ai 1,6 k/€, in netta riduzione rispetto al trimestri
+                       precedenti. Si tratta principalmente di frodi su carta di credito o errori nelle operazioni di incasso e pagamento.
+                                                                                                                                                                                         10
+
+11

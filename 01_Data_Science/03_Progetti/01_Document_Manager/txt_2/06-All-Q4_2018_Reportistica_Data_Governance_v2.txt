@@ -1,0 +1,679 @@
+                Data Governance
+        Rendicontazione Periodica
+              Data Owner Q4 2018
+Servizio Data Governance e
+Reporting Management
+Siena, gennaio 2019
+                           ALLEGATO 1
+
+Obiettivi del Documento
+                  Il documento ha l’obiettivo di rendicontare le attività
+                  effettuate dai Data Owner nel quarto trimestre 2018 in
+                  merito agli ambiti di Data Quality e Data Modeling
+                                                                          2
+
+Data Modeling – Sintesi delle BDE raccolte per fase di processo
+        Sintesi Raccolta Complessiva BDE
+             FASE DEL PROCESSO                                                                                      Q3 2018                              Q4 2018
+           Identificazione BDE e validazione                                                                           1.752                                 1.476
+           Caricamento su Business Glossary                                                                            9.044                                 9.753
+           TOTALE                                                                                                    10.796                                 11.229
+        Distribuzione BDE per Data Owner
+                                              Data Owner                                                      # BDE          # OR con BDE        # BDE con Ctr
+       Area Amministrazione e Bilancio                                                                         7.508              6 su 8              1.011*
+       Area Credit Portfolio Governance                                                                         769               8 su 8                 89
+       Area Lending Risk Officer                                                                                742               6 su 6                117
+       Servizio ALM-CFT                                                                                         113               1 su 1                 17
+       Servizio Supp. Spec. e Qualità Crediti Non Performing                                                     11               1 su 1                  7
+       Area Financial Risk Officier                                                                             274               2 su 4                228
+       Area Operating Risk Officier                                                                             506               1 su 1                166
+       Area Pianificazione, CdG e Data Governance                                                               770               3 su 8                 51
+       Area Finanza, Tesoreria e Capital Management                                                              81               1 su 1                 29
+       Area Compliance                                                                                            0               0 su 5                  0
+       Area Recupero Crediti                                                                                    181               1 su 1                  0
+       Servizio Validazione Sistemi di Rischio                                                                    0               0 su 2                  0
+       Servizio CD (tecniche)                                                                                   271                  -                    0
+       COG (tecniche)                                                                                             3                  -                    3
+                                                                                              TOTALE          11.229                                  1.718
+        * Al momento per le BDE di SISBA (6.498) è associata solo una BDE fittizia, pertanto la copertura delle BDE controllate può sembrare bassa, ma in realtà è completa
+                                                                                                                                                                            3
+
+Data Quality: view complessiva controlli
+                           Controlli Rendicontati                                         Distribuzione Controlli ed Esecuzioni per Data Owner
+                                                                                                                                    Q3                   Q4
+                                                                                            DATA OWNER
+                                                                                                                          Controlli  Esecuzioni Controlli Esecuzioni
+                                     26,6%         28,4%                AREA AMMINISTRAZIONE E BILANCIO                      161        3.819      161       3.536
+                                                                        AREA COMPLIANCE                                        9           2         7          4
+                                                                        AREA CREDIT PORTFOLIO GOVERNANCE                      17         262        17        262
+                                                   71,6%                AREA FINANCIAL RISK OFFICER                           27          79        27         81
+                                     73,4%
+                                                                        AREA FINANZA, TESORERIA E CAPITAL MANAGEMENT           5           0         5          0
+                                                                        AREA LENDING RISK OFFICER                            234         917       241        906
+                                   Valore Q3      Valore Q4             AREA OPERATING RISK OFFICER                           19          19        19         19
+          Controlli Manuali           162            155                AREA PIANIFICAZIONE, CDG E DATA GOVERNANCE            23          69        23         66
+                                                                        SERVIZIO ALM-CFT                                      57        1.271       63       1.309
+          Controlli Automatici        409            427
+                                                                        SERVIZIO SUPP. SPEC. E QUALITA' CREDITI NON PERF.     12          36        12         36
+          Totale Controlli            571            582
+                                                                        SERVIZIO VALIDAZIONE SISTEMI DI RISCHIO                7           0         7          0
+                                                                        TOTALE                                               571        6.474      582       6.219
+     <U+25AA> L’Area Finanza Tesoreria e Capital Management ha sospeso i controlli di data quality poiché sono in corso le attività di automatizzazione del report e di
+       adattamento al nuovo framework richiesto da BCE. L’implementazione di controlli strutturati avverrà post consolidamento del template da parte del Gruppo
+                                                                                                                                                                     4
+
+Data Quality: view complessiva esecuzioni
+                   Distribuzione Esecuzioni per esiti                              Performance per obiettivo del controllo
+                                           3,4%                       4,0%                             92%             97% 96%
+                                                        4,6%               100%            87%                92%                                         94% 95%       92% 91%
+                          4,6%                                                        85%                                                90% 91%
+                                                                            80%
+                                   91,9%                        91,4%
+                                                                            60%
+                                                                            40%
+                                     Q3                           Q4        20%
+           KO                       223                           247
+           WARNING                  299                           288        0%
+                                                                                     Completezza        Integrità     Correttezza       Accuratezza     Tempestività      Totale
+           Ok                      5.952                        5.683                                                             % Q3          % Q4
+           Totale                  6.474                        6.218
+                                                                                   Incremento / decremento esecuzioni per obiettivo del controllo
+                                                                                3%
+                                                                                           2%
+                                                                                2%
+  <U+25AA> Confermata la performance in termini di esiti OK (ca. 92%)                  2%
+                                                                                                                                             1%              1%
+    costante su tutti gli obiettivi dei controlli di data quality               1%
+                                                                                1%
+                                                                                                             0%
+                                                                                0%
+                                                                               -1%
+                                                                               -1%
+                                                                                                                           -1%                                           -1%
+                                                                               -2%
+                                                                                            Completezza     Integrità Correttezza    Accuratezza    Tempestività Totale
+                                                                                                                                                                                 5
+
+Data Quality: view complessiva Remediation
+          Tasso di risoluzione esecuzioni                                                                       Tasso di risoluzione Record Anomali
+                                     100%                   2,2%              2,0%
+                                               0,2%                           1,3%
+                                      90%                   2,4%
+                                               1,7%
+                                      80%
+                                      70%                                                                                  Totale                       85%                     15%
+                                               66,1%              60,9%                63,5%
+                                      60%
+                                      50%
+                                      40%
+                                      30%                                                                                     Q4                           98,6%                    1,4%
+                                      20%
+                                               32,0%              34,4%                33,2%
+                                      10%
+                                        0%
+                                                 Q3                 Q4                 Totale
+          Esecuzioni con tutte anomalie non                                                                                   Q3                  57%                   43%
+                                                  9                 12                   21
+                         risolte
+          Esecuzioni con anomalie risolte
+                                                  1                 13                   14
+                   parzialmente
+                                                                                                                                  0%        20%       40%         60%    80%        100%
+          Esecuzioni con anomalie in corso
+                                                345                326                   671
+                     risoluzione                                                                                                           Q3                 Q4            Totale
+          Esecuzioni con tutte anomalie                                                                       Anomalie Sanate           1.253.086         4.470.355       5.723.441
+                                                167                184                   351
+                      risolte                                                                                 Anomalie non Sanate        935.289            62.579         997.868
+          Totale esecuzioni con anomalie        522                535                  1057
+ <U+25AA> Il numero delle anomalie rilevate nel Q4 è stabile nell’andamento rispetto al trimestre precedente <U+25AA> Nel Q4 la risoluzione dei casi anomali è quasi completa (98,6%)
+                                                                                                                                                                                         6
+
+Analisi Incident di Data Quality                                                               Q4 – Stato Ticket
+                                                                                                                                                          • Nel Q4 sono stati aperti 373
+                                                                                                                                                            ticket di data quality
+                                                                             203            -193
+                                                                                                                                                          • Da un’analisi dei ticket aperti
+                                                                                                                                                            da portale 193 su 203 non
+                                                                                                                         62                                 erano di data quality. Tale
+                                                                170                                       180                                               evidenza è stata segnalata al
+                                                                                                                                     117
+                                                                                                                                                            COG        per   rafforzare    la
+                 # Ticket aperti per trimestre                                                                                                       1
+                                                                Irion       Portale         No DQ     Tot. effettivo   Annullati    Risolti e    In corso   formazione ai TDS sulla
+                                                                                                          ticket                     Chiusi                 catalogazione dei ticket
+                                                                                        Q4 – Ticket per Company
+                                                                                                                                                          • La maggior parte dei ticket di
+   233                                                                                                                                                      data quality è stata aperta dal
+                               209                  203                                                                              Annullato
+                  186                                                           Widiba        2                                                             Cog (anche se molti poi sono
+                                             170                                                                                     Risolti e Chiusi       stati annullati)
+                                       152
+                                                                                                 1
+                                                                   Direzione Generale        6
+       17             17            9
+             0            0                       0
+                                                                                  COG              61                          109
+       Q1             Q2           Q3            Q4
+           Irion    Rend. Manuale      Portale MPS                                        Q4 – Ticket per Ambito
+                                                                                                                                                          • Gli ambiti con maggiori
+                                                                                          Altro     1                                                       segnalazioni sono Vigilanza e
+                                                                 Reporting Direzionale e CDG    1
+                                                                                                                                                            Rischi
+                                                                                Commerciale         2
+• Dal rilascio del flag di data quality su portale della Banca,                                                                                           • Per l’Antiriciclaggio sono in
+                                                                                     Vigilanza                      61                        28
+  avvenuto a luglio 2018, si registra un incremento dei ticket                                                                                              corso le attività di fine tuning
+                                                                                        Rischi  0              50                                           dei controlli, pertanto i ticket
+  di data quality nel Q4 (+51 ticket rispetto al trimestre                             Credito    6
+  precedente; +34%)                                                                                                              Annullati                  non sono da considerare
+                                                                                 Tecnici DWH    1
+                                                                               Antiriciclaggio         30                        Risolti e Chiusi
+                                                                                                                                                                                        7
+
+                                                 ALLEGATI
+                                   SCHEDE DATA OWNER
+<U+F071> Le slide successive dettagliano i KPI di sintesi relativi alla Data Modeling e Data Quality per singolo data Owner
+<U+F071> Per ogni Data Owner sono previste due schede:
+    <U+27A2> Data Modeling: con evidenza dello stato della raccolta delle BDE
+    <U+27A2> Data Quality: con evidenza dei KPI di Data Quality relative alle esecuzioni, esiti e remediation
+<U+F071> Variazioni di perimetro degli Output Rilevanti
+                                             © 2016 Montepaschi. All rights reserved.                                8
+
+DATA MODELING: DATA OWNER AREA AMMINISTRAZIONE E BILANCIO
+                                                                    Area Amministrazione e Bilancio
+                       ID                       Nome OR                           # BDE         # BDE con CTR        STATO*
+                        1      Anacredit                                                   95                   95*
+                                                                                                                     In corso
+                        2      BASE A1                                                   101                    101  Caricato
+                        3      Base Dati Sisba                                         6.498                     1   Caricato
+                        4      BASE Y                                                    187                  187*   Caricato
+                        5      FINREP                                                    421                  421*   Caricato
+                        6      MREL                                                      206                  206*   Caricato
+                        7      NPE Strategy                                                                         Da avviare
+                        8      Schemi e Tabelle di Nota Integrativa                                                 Da avviare
+                                                                    TOTALE            7.508                  1.011
+                   * Rendicontazioni manuali di controlli: tutte le BDE vengono considerate come controllate
+         *LEGENDA:   Da avviare <U+F0E0> lavori non avviati
+                     In corso <U+F0E0> lavori avviati
+                     Raccolto <U+F0E0> inserito in Access
+                     Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                     Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                                               9
+
+DATA QUALITY: AREA AMMINISTRAZIONE E BILANCIO
+           Controlli Rendicontati - Totali                            Distribuzione Controlli rendicontati           Controlli         N.
+                                                                              per Output Rilevante                 rendicontati esecuzioni
+         # Controlli in Perimetro: 161                              Anacredit                                            5             15
+         # Esecuzioni Totali: 3.536                                 BASE A1                                              6             18
+                                                          35%
+                                                                    Base Dati Sisba                                      3            425
+                                                                    BASE Y                                              11             11
+                                      65%                           FINREP                                               3           1.879
+                                                                    MREL                                                48              0
+                                                                    NPE                                                  0              0
+                              Manuale (57)         Automatico (104) Schemi e Tab. di Nota Integrativa                   85           1.188
+             Distribuzione Esecuzione per Esiti                                Performance* per Obiettivo del Controllo
+                                                                                 TOTALE               3.536;99%
+         Esecuzioni (#)
+                                                0%   0%
+                                                                       COMPLETEZZA                     266;100%
+         Totali:   3.536
+         OK:       3.507                                                     INTEGRITÀ                     3;0%
+         Warning: 15                                                   CORRETTEZZA                    1.101;99%
+         KO:       14                             99%                  ACCURATEZZA                   2.166;100%
+                                                                       TEMPESTIVITÀ                         ND
+                                      Ok      Warning    Ko                                   0%     20%      40%    60%      80% 100%
+                                                                         # esec. Tot ; % performance  * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni                                   Tasso di Risoluzione* Record Anomali
+                                                                         Anomalie:             1.421
+                                                                         Sanate:               1.425
+          Totale KO + Warning                            29 100%
+          Esecuzioni con tutte anomalie risolte          10   34%          DA WARNING                  1.397;100%
+          Esecuzioni con tutte anomalie non risolte        0   0%                     DA KO              24;117%
+          Esecuzioni con anomalie risolte parzialmente     0   0%                  TOTALE              1.421;100%
+          Esecuzioni con anomalie in corso risoluzione   19   66%
+                                                                        -50%                   0%                 50%               100%
+                                                                         # Tot Anomalie; % performance     * Anomalie sanate/ Tot. anomalie
+                                                                                                                                            10
+
+DATA MODELING: DATA OWNER AREA CREDITO E PORTFOLIO GOVERNANCE
+                                                        Area Credito e Portafoglio Governance
+               ID                        Nome OR                           # BDE      # BDE con CTR      STATO*
+                1  LDT Sofferenze                                                181                 46 Caricato
+                2  LDT Credito (ex UTP)                                          342                    Caricato
+                3  Monitoraggio Costi                                               6                3  Caricato
+                   Overview Portafoglio Credito - Informativa
+                4                                                                 99                38  Caricato
+                   per il CDA
+                5  Report D2                                                      15                    Eliminato
+                6  Report Politiche Creditizie                                    41                 2  Caricato
+                7  Stock e Flussi Contenzioso                                     34                    Eliminato
+                8  Stock e Flussi Rischio Anomalo                                 51                    Eliminato
+                                                           TOTALE               769                 89
+         *LEGENDA: Da avviare <U+F0E0> lavori non avviati
+                   In corso <U+F0E0> lavori avviati
+                   Raccolto <U+F0E0> inserito in Access
+                   Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                   Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                                  11
+
+DATA QUALITY: AREA CREDIT PORTFOLIO GOVERNANCE
+           Controlli Rendicontati - Totali
+                                                                      Distribuzione Controlli rendicontati           Controlli         N.
+                                                                              per Output Rilevante                 rendicontati esecuzioni
+         # Controlli in Perimetro: 17           0%                  LDT Sofferenze                                       0              0
+         # Esecuzioni Totali: 262
+                                                                    LDT UTP                                              0              0
+                                                                    Monitoraggio Costi                                   5            240
+                                                                    Overview Port. Cred. - Inf. per CDA                  7              7
+                                                 100%
+                                                                    Report D2                                            0              0
+                                                                    Rpt Pol. Cr.(Din Men;Set/Rat.;Con.)                  5             15
+                                                                    Stock e Flussi Contenzioso                           0              0
+                                Manuale (17)        Automatico (0)  Stock e Flussi Rischio Anomalo                       0              0
+             Distribuzione Esecuzione per Esiti                                Performance* per Obiettivo del Controllo
+                                                                                 TOTALE                 262;94%
+         Esecuzioni (#)                     3%       3%
+         Totali:   262                                                 COMPLETEZZA                           ND
+         OK:       246                                                       INTEGRITÀ                  3;100%
+         Warning: 9
+         KO:       7                                                   CORRETTEZZA                        18;33%
+                                                                       ACCURATEZZA                     155;100%
+                                                                       TEMPESTIVITÀ                     86;95%
+                                                                94%
+                                      Ok      Warning    Ko                                   0%     20%       40%    60%      80% 100%
+                                                                         # esec. Tot ; % performance  * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni                                   Tasso di Risoluzione* Record Anomali
+                                                                         Anomalie:             523
+          Totale KO + Warning                            16 100%         Sanate:               4
+          Esecuzioni con tutte anomalie risolte           2   12%      DA WARNING                       106;4%
+          Esecuzioni con tutte anomalie non risolte       0    0%
+                                                                                 DA KO                  417;0%
+          Esecuzioni con anomalie risolte parzialmente    0    0%
+          Esecuzioni con anomalie in corso risoluzione                        TOTALE                    523;1%
+                                                         14   88%
+                                                                                           0%     20%        40%    60%     80% 100%
+                                                                         # Tot Anomalie; % performance      * Anomalie sanate/ Tot. anomalie
+                                                                                                                                             12
+
+DATA MODELING: DATA OWNER AREA FINANCIAL RISK OFFICER
+                                                                 Area Financial Risk Officer
+                      ID                      Nome OR                        # BDE    # BDE con CTR    STATO*
+                       1     E-RMR (Perdar)                                       247             201  Caricato
+                       2     ICAAP Statement                                                          Da avviare
+                       3     LCR                                                   27             27   Caricato
+                       4     RAM Monitoring                                                           Eliminato
+                                                              TOTALE             274             228
+         *LEGENDA: Da avviare <U+F0E0> lavori non avviati
+                   In corso <U+F0E0> lavori avviati
+                   Raccolto <U+F0E0> inserito in Access
+                   Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                   Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                                 13
+
+DATA QUALITY: AREA FINANCIAL RISK OFFICER
+           Controlli Rendicontati - Totali
+                                                                      Distribuzione Controlli rendicontati           Controlli        N.
+                                                                              per Output Rilevante                 rendicontati esecuzioni
+         # Controlli in Perimetro: 27                               E-RMR (Perdar)                                       0             0
+         # Esecuzioni Totali: 81
+                                                                    ICAAP Statement                                      0             0
+                                                           44%      LCR                                                 27            81
+                                     56%                            RAM Monitoring                                       0             0
+                               Manuale (12)         Automatico (15)
+             Distribuzione Esecuzione per Esiti                                Performance* per Obiettivo del Controllo
+                                                                                 TOTALE                  81;47%
+         Esecuzioni (#)                      4%
+         Totali:   81                                                  COMPLETEZZA                       51;57%
+         OK:       38                                                        INTEGRITÀ                   9;67%
+         Warning: 40                                        47%
+         KO:       3                                                   CORRETTEZZA                         6;0%
+                                     49%
+                                                                       ACCURATEZZA                        15;20%
+                                                                       TEMPESTIVITÀ                         ND
+                                      Ok      Warning    Ko                                   0%     20%      40%    60%      80% 100%
+                                                                         # esec. Tot ; % performance  * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni                                   Tasso di Risoluzione* Record Anomali
+                                                                         Anomalie:             1.350.278
+          Totale KO + Warning                             43 100%        Sanate:               1.350.011
+          Esecuzioni con tutte anomalie risolte           16  37%                                   1.350.278;1
+                                                                       DA WARNING                       00%
+          Esecuzioni con tutte anomalie non risolte        0    0%
+          Esecuzioni con anomalie risolte parzialmente
+                                                                                 DA KO                   0;0%
+                                                           0    0%                                  1.350.278;1
+          Esecuzioni con anomalie in corso risoluzione                        TOTALE                    00%
+                                                          27  63%
+                                                                                           0%     20%       40%     60%    80% 100%
+                                                                         # Tot Anomalie; % performance     * Anomalie sanate/ Tot. anomalie
+                                                                                                                                            14
+
+DATA MODELING: DATA OWNER AREA LENDING RISK OFFICER
+                                                                     Area Lending Risk Officer
+                   ID                           Nome OR                        # BDE           # BDE con CTR                          STATO*
+                           Documento di Rendicontazione
+                    1                                                            68                     28                           Caricato
+                           Periodica
+                    2      EAD                                                   29                       2                          Caricato
+                    3      IFRS9 – Impairment                                   184                                                   In corso
+                    4      LGD                                                  281                      17                          Caricato
+                    5      PD                                                   122                      25                          Caricato
+                    6      Rating Ufficiale Interno                              58                      45                          Caricato
+                    7      Svalutazione Collettiva                                                                                   Sostituito
+                                                               TOTALE           742                    117
+         *LEGENDA:    Da avviare <U+F0E0> lavori non avviati                             **Sono in corso le attività di revisione delle BDE
+                      In corso <U+F0E0> lavori avviati
+                      Raccolto <U+F0E0> inserito in Access
+                      Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                      Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                                                                15
+
+DATA QUALITY: AREA LENDING RISK OFFICER
+           Controlli Rendicontati - Totali
+                                                                      Distribuzione Controlli rendicontati           Controlli        N.
+                                                                              per Output Rilevante                 rendicontati esecuzioni
+         # Controlli in Perimetro: 241                 9%           Doc. di Rendicontaz. Periodica                       5            17
+         # Esecuzioni Totali: 906                                   EAD                                                  1             3
+                                                                    IFRS9 - Impairment                                   0             0
+                                                                    LGD                                                 27           209
+                                                                    PD                                                  84           244
+                                                                    Rating Ufficiale Interno                           111           417
+                                           91%
+                                                                    Svalutazione Collettiva                             13            16
+                              Manuale (22)         Automatico (219)
+             Distribuzione Esecuzione per Esiti                                Performance* per Obiettivo del Controllo
+                                                                                 TOTALE                 905;74%
+         Esecuzioni (#)                              4%
+         Totali:   906                 21%                             COMPLETEZZA                      197;88%
+         OK:       673                                                       INTEGRITÀ                 140;96%
+         Warning: 193
+         KO:       39
+                                                                       CORRETTEZZA                      43;93%
+                                                                       ACCURATEZZA                      517;62%
+                                                         74%           TEMPESTIVITÀ                      8;88%
+                                      Ok      Warning    Ko                                   0%     20%      40%    60%      80% 100%
+                                                                         # esec. Tot ; % performance  * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni                                   Tasso di Risoluzione* Record Anomali
+                                                                         Anomalie:             3.023.590
+                                                                         Sanate:               3.001.631
+          Totale KO + Warning                            232 100%
+          Esecuzioni con tutte anomalie risolte           36  16%      DA WARNING                     23.588;7%
+          Esecuzioni con tutte anomalie non risolte        0   0%                                   3.000.002;1
+                                                                                 DA KO                  00%
+          Esecuzioni con anomalie risolte parzialmente     0   0%                                   3.023.590;9
+                                                                              TOTALE                     9%
+          Esecuzioni con anomalie in corso risoluzione   196  84%
+                                                                                           0%     20%       40%     60%    80% 100%
+                                                                         # Tot Anomalie; % performance     * Anomalie sanate/ Tot. anomalie
+                                                                                                                                            16
+
+DATA MODELING: DATA OWNER Servizio Supp. Spec. E Qualità Crediti
+Non Performing
+                                             Servizio Supp. Spec. E Qualità Crediti Non Performing
+                      ID                      Nome OR                        # BDE # BDE con CTR   STATO*
+                             Mappatura Operazioni di
+                       1                                                       11        7         Caricato
+                             Ristrutturazione
+                                                              TOTALE           11        7
+         *LEGENDA: Da avviare <U+F0E0> lavori non avviati
+                   In corso <U+F0E0> lavori avviati
+                   Raccolto <U+F0E0> inserito in Access
+                   Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                   Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                            17
+
+DATA QUALITY: SERVIZIO SUPP. SPEC. E QUALITA' CREDITI NON PERF.
+           Controlli Rendicontati - Totali
+                                                                    Distribuzione Controlli rendicontati           Controlli         N.
+                                                                            per Output Rilevante                 rendicontati esecuzioni
+         # Controlli in Perimetro: 12           0%                 Mappatura Operazioni di Ristrutt.ne                 12            36
+         # Esecuzioni Totali: 36
+                                                 100%
+                                Manuale (12)        Automatico (0)
+             Distribuzione Esecuzione per Esiti                              Performance* per Obiettivo del Controllo
+                                                                               TOTALE                    36;8%
+         Esecuzioni (#)                                 8%
+                                                       0%
+         Totali:   36                                                COMPLETEZZA                           ND
+         OK:       3                                                       INTEGRITÀ                       ND
+         Warning: 0
+         KO:       33                                                CORRETTEZZA                          6;0%
+                                                                     ACCURATEZZA                        30;10%
+                                           92%                       TEMPESTIVITÀ                          ND
+                                      Ok      Warning     Ko                                0%     20%       40%    60%      80% 100%
+                                                                       # esec. Tot ; % performance  * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni                                 Tasso di Risoluzione* Record Anomali
+                                                                       Anomalie:             1.290
+          Totale KO + Warning                             33 100%      Sanate:               0
+          Esecuzioni con tutte anomalie risolte            0   0%    DA WARNING                      1.290;0%
+          Esecuzioni con tutte anomalie non risolte        0   0%
+                                                                               DA KO                   0;0%
+          Esecuzioni con anomalie risolte parzialmente     0   0%
+          Esecuzioni con anomalie in corso risoluzione                      TOTALE                   1.290;0%
+                                                          33 100%
+                                                                                         0%     20%        40%    60%     80% 100%
+                                                                       # Tot Anomalie; % performance      * Anomalie sanate/ Tot. anomalie
+                                                                                                                                           18
+
+DATA MODELING: DATA OWNER SERVIZIO AML - CFT
+                                               Servizio Antiriciclaggio
+                  ID                     Nome OR                    # BDE      # BDE con          STATO*
+                                                                                  CTR
+                   1                    Flusso Sara                  113           17    Caricato
+                                                     TOTALE           113          17
+        *LEGENDA:    Da avviare <U+F0E0> lavori non avviati
+                     In corso <U+F0E0> lavori avviati
+                     Raccolto <U+F0E0> inserito in Access
+                     Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                     Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                         19
+
+DATA QUALITY: SERVIZIO AML - CFT
+           Controlli Rendicontati - Totali                           Distribuzione Controlli rendicontati            Controlli       N.
+                                                                             per Output Rilevante                  rendicontati esecuzioni
+         # Controlli in Perimetro: 63           0%                 Flusso SARA                                          63         1.309
+         # Esecuzioni Totali: 1.309
+                                                 100%
+                                Manuale (0)        Automatico (63)
+             Distribuzione Esecuzione per Esiti                               Performance* per Obiettivo del Controllo
+                                                                                TOTALE                 1.309;87%
+         Esecuzioni (#)
+                                           11%
+                                    2%                                COMPLETEZZA                          23;0%
+         Totali:   1.309
+         OK:       1.142                                                    INTEGRITÀ                       ND
+         Warning: 23                                                  CORRETTEZZA                           ND
+         KO:       144
+                                                                      ACCURATEZZA                     1.286;89%
+                                                       87%            TEMPESTIVITÀ                          ND
+                                      Ok      Warning    Ko                                  0%      20%      40%    60%     80% 100%
+                                                                        # esec. Tot ; % performance   * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni                                  Tasso di Risoluzione* Record Anomali
+                                                                        Anomalie:              119.066
+                                                                        Sanate:                117.284
+          Totale KO + Warning                            167 100%
+          Esecuzioni con tutte anomalie risolte                                                     118.425;99
+                                                         120  72%     DA WARNING                          %
+          Esecuzioni con tutte anomalie non risolte       12   7%               DA KO                 641;67%
+          Esecuzioni con anomalie risolte parzialmente    12   7%                                   119.066;99
+                                                                             TOTALE                       %
+          Esecuzioni con anomalie in corso risoluzione    23  14%
+                                                                                          0%      20%       40%     60%    80% 100%
+                                                                                             * Anomalie sanate/ Tot. anomalie
+                                                                        # Tot Anomalie; % performance
+                                                                                                                                           20
+
+DATA MODELING: DATA OWNER AREA OPERATING RISK OFFICER
+                                                                 Area Operating Risk Officer
+                         ID                     Nome OR                      # BDE # BDE con CTR          STATO*
+                          1        Informativa al Pubblico Pillar 3            506      166      Caricato
+                                                              TOTALE          506       166
+         *LEGENDA: Da avviare <U+F0E0> lavori non avviati
+                   In corso <U+F0E0> lavori avviati
+                   Raccolto <U+F0E0> inserito in Access
+                   Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                   Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                                 21
+
+DATA QUALITY: AREA OPERATING RISK OFFICER
+           Controlli Rendicontati - Totali
+                                                                      Distribuzione Controlli rendicontati           Controlli        N.
+                                                                              per Output Rilevante                 rendicontati esecuzioni
+         # Controlli in Perimetro: 19                0%            Informativa al Pubblico Pillar 3                     19            19
+         # Esecuzioni Totali: 19
+                                                 100%
+                                Manuale (0)        Automatico (19)
+             Distribuzione Esecuzione per Esiti                                Performance* per Obiettivo del Controllo
+                                                                                 TOTALE                19;100%
+         Esecuzioni (#)                              0%
+         Totali:   19                                                  COMPLETEZZA                          ND
+         OK:       19                                                        INTEGRITÀ                      ND
+         Warning: 0
+         KO:       0                                                   CORRETTEZZA                     17;100%
+                                                 100%
+                                                                       ACCURATEZZA                      2;100%
+                                                                       TEMPESTIVITÀ                         ND
+                                      Ok      Warning    Ko                                   0%     20%     40%     60%     80% 100%
+                                                                         # esec. Tot ; % performance  * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni                                   Tasso di Risoluzione* Record Anomali
+                                                                         Anomalie:             0
+          Totale KO + Warning                                            Sanate:               0
+          Esecuzioni con tutte anomalie risolte
+          Esecuzioni con tutte anomalie non risolte
+          Esecuzioni con anomalie risolte parzialmente
+          Esecuzioni con anomalie in corso risoluzione
+                                                                                                     * Anomalie sanate/ Tot. anomalie
+                                                                         # Tot Anomalie; % performance
+                                                                                                                                           22
+
+DATA MODELING: DATA OWNER AREA PIANIFICAZIONE, CDG E DATA GOVERNANCE
+                                                                        Area Pianificazione
+                          ID                      Nome OR                     # BDE   # BDE con CTR  STATO*
+                           1            Backup per il Regolatore                                    Da avviare
+                           2                  Capital Adequacy                                      Da avviare
+                           3           Capital Plan e Monitoraggio                                  Da avviare
+                           4                   Flash Reporting                                      Da avviare
+                           5           Performance Risk Adjusted                                    Da avviare
+                           6                   Piano Recovery                  288          32       In corso
+                           7       Report Gestionale Gruppo MPS                454                   In corso
+                           8        Tableau de Bord (Progressivo)               28          19       Caricato
+                                                               TOTALE          770          51
+          *LEGENDA: Da avviare <U+F0E0> lavori non avviati
+                    In corso <U+F0E0> lavori avviati
+                    Raccolto <U+F0E0> inserito in Access
+                    Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                    Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                               23
+
+DATA QUALITY: AREA PIANIFICAZIONE, CDG E DATA GOVERNANCE
+           Controlli Rendicontati - Totali
+                                                                     Distribuzione Controlli rendicontati           Controlli        N.
+                                                                              per Output Rilevante                rendicontati esecuzioni
+         # Controlli in Perimetro: 23
+                                             9%                    Backup per il Regolatore                            1             1
+         # Esecuzioni Totali: 66
+                                                                   Capital Plan e Monitoraggio                         1             1
+                                                                   Flash Reporting                                     1             9
+                                                                   Performance Risk Adjusted                           1             1
+                                                                   Piano Recovery                                      1             1
+                                                                   Report Gestionale Gruppo MPS                        1             2
+                                                        91%
+                                                                   Tableau De Bord (Progressivo)                       16            48
+                                Manuale (21)        Automatico (2) Capital Adequacy                                    1             3
+             Distribuzione Esecuzione per Esiti
+                                                                              Performance* per Obiettivo del Controllo
+         Esecuzioni (#)                                                         TOTALE                 66;79%
+                                             9%
+         Totali:   66                                                 COMPLETEZZA                          ND
+                                    12%
+         OK:       52
+                                                                            INTEGRITÀ                      ND
+         Warning: 8
+         KO:       6                                                  CORRETTEZZA                      30;73%
+                                                                      ACCURATEZZA                      36;83%
+                                                         79%          TEMPESTIVITÀ                         ND
+                                      Ok      Warning     Ko                                 0%     20%      40%    60%      80% 100%
+                                                                        # esec. Tot ; % performance  * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni
+                                                                               Tasso di Risoluzione* Record Anomali
+                                                                        Anomalie:             36.766
+          Totale KO + Warning                             14 100%       Sanate:               0
+          Esecuzioni con tutte anomalie risolte            0   0%
+          Esecuzioni con tutte anomalie non risolte
+                                                                      DA WARNING                     36.766;0%
+                                                           0   0%
+          Esecuzioni con anomalie risolte parzialmente                          DA KO                   0;0%
+                                                           0   0%
+          Esecuzioni con anomalie in corso risoluzione    14 100%             TOTALE                 36.766;0%
+                                                                                          0%     20%       40%     60%    80% 100%
+                                                                         # Tot Anomalie; % performance    * Anomalie sanate/ Tot. anomalie
+                                                                                                                                           24
+
+DATA MODELING: DATA OWNER AREA FINANZA, TESORERIA E CM
+                                                 Area Finanza, Tesoreria e Capital Management
+                           ID                     Nome OR                      # BDE # BDE con CTR              STATO*
+                            1             SSM Liquidity Exercise                 81               29            Caricato
+                                                                TOTALE           81              29
+                   L’Area Finanza Tesoreria e Capital Management ha sospeso i controlli di data quality poiché sono in corso le attività di
+                   automatizzazione del report e di adattamento al nuovo framework richiesto da BCE. L’implementazione di controlli strutturati
+                   avverrà post consolidamento del template da parte del Gruppo
+         *LEGENDA:   Da avviare <U+F0E0> lavori non avviati
+                     In corso <U+F0E0> lavori avviati
+                     Raccolto <U+F0E0> inserito in Access
+                     Consolidato <U+F0E0> definito in Access e vadidato da Data Owner
+                     Caricato <U+F0E0> su IGC Business Glossary
+                                                                                                                                                25
+
+DATA QUALITY: AREA COMPLIANCE
+           Controlli Rendicontati - Totali
+                                                                     Distribuzione Controlli rendicontati           Controlli        N.
+                                                                              per Output Rilevante                rendicontati esecuzioni
+         # Controlli in Perimetro: 7            0%                 Compliance Plan                                     0             0
+         # Esecuzioni Totali: 4                                    Controlli ex post su privacy                        7             4
+                                                                   Operazione sospetta abusi di mercato                0             0
+                                                                   Relazione Annuale                                   0             0
+                                                 100%
+                                                                   Report trimestrale                                  0             0
+                                Manuale (7)         Automatico (0)
+             Distribuzione Esecuzione per Esiti                               Performance* per Obiettivo del Controllo
+                                                                                TOTALE                  4;75%
+         Esecuzioni (#)
+                                        25%                           COMPLETEZZA                      2;100%
+         Totali:   4
+         OK:       3                                                        INTEGRITÀ                      ND
+         Warning: 0                    0%
+         KO:       1
+                                                                      CORRETTEZZA                      1;100%
+                                                                      ACCURATEZZA                         1;0%
+                                                         75%          TEMPESTIVITÀ                         ND
+                                      Ok      Warning    Ko                                  0%     20%      40%    60%      80% 100%
+                                                                        # esec. Tot ; % performance  * Ctr esito OK/ Totale Ctr eseguiti
+             Tasso di Risoluzione Esecuzioni                                   Tasso di Risoluzione* Record Anomali
+                                                                        Anomalie:             0
+                                                                        Sanate:               0
+          Totale KO + Warning                              1 100%
+          Esecuzioni con tutte anomalie risolte            0    0%    DA WARNING                        0;0%
+          Esecuzioni con tutte anomalie non risolte        0    0%              DA KO                   0;0%
+          Esecuzioni con anomalie risolte parzialmente     1 100%
+                                                                              TOTALE                    0;0%
+          Esecuzioni con anomalie in corso risoluzione     0    0%
+                                                                                          0%     20%       40%     60%    80% 100%
+                                                                        # Tot Anomalie; % performance     * Anomalie sanate/ Tot. anomalie
+                                                                                                                                           26
+
+Variazione Perimetro Output Rilevanti
+   <U+25AA> Il Data Owner Area Credit Portfolio Governance ha comunicato che tre report gestionali, Report D2, Stock e Flussi Contenzioso e Stock e Flussi Rischio
+      Anomalo non sono più in produzione e sono in corso di sostituzione nell’ambito dei Progetti Sirio/ Merlino
+   <U+25AA> Il Data Owner Area Financial Risk Officer ha comunicato che le BDE sottostanti all’Output Rilevante RAM Monitoring sono un sottoinsieme di quelle
+      prodotte per l’Executive Risk Management Report trimestrale, pertanto il RAM Monitoring può essere eliminato dal perimetro
+   <U+25AA> Considerando la nuova definizione di Output Rilevante, essendo i report sopracitati di tipo gestionale si ritiene confermata l’eliminazione dal perimetro,
+      già dal Q3. La nuova mappatura degli Output Rilevanti, sulla base della nuova definizione, è stata attivata nel Q4, post incontro con il Comitato Gestione
+      Rischi del 7 novembre e sarà consolidata e presentata nel 2019
+    Nuova Definizione Output Rilevante
+    1. OR tipo 1: Report, Informative e Flussi dati obbligatori inviati verso l’esterno (es. Segnalazioni di Vigilanza, Comunicazioni al Mercato, ecc.)
+    2. OR tipo 2: Report, Informative e Flussi dati inviati ad Organi Apicali, ispirati a vincoli e criteri definiti da normative esterne (es.: criteri BCBS 239, NPE
+        Guidance, ecc.)
+    3. OR tipo 3: Report, Informative e Flussi dati previsti da relazioni contrattuali rilevanti (servicing, outsourcing, ecc.)
+                                                                                                                                                                      27
+

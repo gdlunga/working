@@ -1,0 +1,559 @@
+                             <U+200B>Proposta di revisione annuale dei
+                                      limiti operativi:
+                                    Market Limits 2018
+Direzione Chief Risk Officer
+
+Agenda
+  <U+F0FC>  Market Risk Limits 2018
+      <U+F0FC>  Revisione Limiti Operativi – Linee Guida
+      <U+F0FC>  Gruppo MPS – Early warning
+      <U+F0FC>  Gruppo MPS – Commitment EU
+      <U+F0FC>  Banca MPS
+      <U+F0FC>  MPS Capital Services
+      <U+F0FC>  Controllate Estere
+                                                  1
+
+  Rischio Mercato: Revisione limiti operativi
+  Linee Guida
+La rideterminazione dei limiti operativi viene effettuata ogni anno per adeguarsi al Risk Appetite Framework definito dal CdA della
+Capogruppo.
+                                                                                              GMPS
+                                                                                                                                       Fiduciaria
+Coerentemente con la direttiva RAF di Gruppo, i Risk limits sono definiti come                                      Wealth
+l’articolazione degli obiettivi di rischio in limiti operativi gestionali, definiti, in linea                                            MPSCS
+                                                                                                      CCO            Retail
+con il principio di proporzionalità, per tipologie di rischio, unità e/o linee di business,                                             MPSL&F
+linee di prodotto, tipologie di clienti.                                                                          Corporate
+                                                                                                                                       MPBanque
+                                                                                                                    Widiba             MPSBelgio
+                                                                                                                   PE Dept
+Il perimetro di applicazione dei limiti operativi attiene a tutte le entities di Gruppo               CLO
+                                                                                                                  NPE Dept
+soggette a Rischi di Mercato e monitorate quotidianamente in termini di VaR,
+P&L e altre misure di rischio.
+                                                                                                                   Finance
+Nel cascading down per legal entities/business units approvato dal CdA, i                             CFO
+soggetti sottoposti a monitoraggio dei limiti su Rischi di Mercato sono evidenziati                                  M&A
+in rosso.
+                                                                                                                 IT & Corp.S
+                                                                                                      COO
+                                                                                                                 Real Estate
+                                                                                                     CHCO
+                                                                                                             <U+F0A7> Audit
+                                                                                                             <U+F0A7> Risk
+                                                                                                    Control  <U+F0A7> Compliance
+                                                                                                   Functions <U+F0A7> AML
+                                                                                                             <U+F0A7> Validation
+                                                                                                             <U+F0A7> CEO/GM Secretariat
+                                                                                                    HO Staff <U+F0A7> Group General Counsel
+                                                                                                             <U+F0A7> Regulatory Relationship
+                                                                                                                                                  2
+
+     Rischio Mercato: Revisione limiti operativi
+     Linee Guida
+ Di seguito sono riportati i principali criteri che regolano il funzionamento dei limiti operativi sui Rischi di Mercato:
+<U+F071>Distinzione dei limiti applicabili tra Portafoglio di Negoziazione (PNV) e Portafoglio Bancario (PB, con riferimento alle sole esposizioni
+ riconducibili ad attività finanziarie e relativi hedge) secondo il seguente schema, da applicare in modo analogo su tutti i Risk Taking Center:
+<U+F071> PNV: il limite di Stop Loss 1y è da interpretarsi come limite di max drawdown raggiungibile; è istituito un limite di Stress, con la finalità di
+   contenere potenziali risultati economici negativi a fronte del verificarsi di scenari di mercato particolarmente avversi;
+<U+F071> PB: limiti di VaR e Valore del Portafoglio Bancario (VPB), definito come il risultato gestionale ottenuto tramite valutazione a Mark to Market del
+   portafoglio, a prescindere dalla categoria contabile di appartenenza; tale misura corrisponde, di fatto, ad una stima del risultato economico che
+   si otterrebbe in caso di liquidazione del portafoglio stesso a valori prossimi ai valori di mercato utilizzati per la valutazione delle singole
+   posizioni. I limiti non si applicano alle posizioni classificate a fini contabili come AC e relativi hedge;
+<U+F071> Unico limite generale di VaR sul PB della Capogruppo, comprensivo del portafoglio strategico costituito da titoli Sovereign Italia e relativi
+   hedge, in coerenza con quanto previsto in sede RAF;
+<U+F071> Applicazione sull’intero portafoglio, a prescindere dalla categoria contabile, di limiti di Rischio emittente e plafond specifici (ad es. hedge fund);
+<U+F071> Trattamento mediante specifici plafond dell’operatività non oggetto di monitoraggio tramite VaR (hedge fund, defaulted bond).
+                                                                                                                                                         3
+
+       Rischio Mercato: Revisione limiti operativi
+       Linee Guida
+I valori di Risk Tolerance per gli indicatori di adeguatezza patrimoniale, approvati dal CdA, sono espressi in termini di ratio patrimoniali (CET1
+ratio, TC ratio ed IC ratio). Questi sono stati tradotti in termini di impatti a P&L (numeratore) e variazioni di RWA (denominatore). Il risultato finale è
+l’allocazione definitiva di P&L ed RWA per voce patrimoniale e rischio che è stata utilizzata per calibrare le soglie di Risk Tolerance dei KRI a
+livello di BU/LE. Per la calibrazione dei Risk Limits sono stati utilizzati P&L e RWA relativi all’Internal Capital Ratio.
+                                      P&L                                 Il P&L Trading Book e l’AFS Reserve sono state allocate sulle
+             Voci patrimoniali            Allocazione                     varie Legal entities/Business Units in base alla volatilità storica dei
+             Credit Provisions                            200             risultati del 2017 e della prima parte del 2018. La componente
+             P&L Bond Banking Book                           0            definitiva P&L Bond del Banking Book è stata considerata
+             P&L Trading Book                               30
+                                                                          nell’ambito del più generale aggregato «AFS Reserve».
+             AFS Reserve                                  250
+             Operational Losses                             50            Tali valori sono stati utilizzati per definire i limiti di Stop Loss
+             Net Interest Income (IRRBB)                     0            Mensile e Annual Drawdown sul PNV e il Valore del Portafoglio
+             Totale diversificato                         454             Bancario (VPB).
+                                                                                                              RWA
+     I buffer relativi agli RWA Market Risk per le categorie di                          Rischi                 Allocazione
+     vigilanza PB e PNV sono stati sommati ai corrispettivi RWA                          RWA Credit                              300
+     stimati in Baseline e successivamente trasformati in termini di                     RWA Counterparty                        200
+     VaR medio PNV e VaR medio PB, coerentemente con le                                  RWA Market Risk PNV                     150
+     formule di determinazione del Capitale Interno.                                     RWA Market Risk PB                      500
+                                                                                         RWA Operational                         250
+     Tali valori sono stati utilizzati per definire le soglie di VaR PNV,
+                                                                                         RWA IRRBB                               450
+     Average VaR 3M PNV, VaR PB ed Average VaR 3M PB.
+                                                                                         Totale diversificato                  1,524
+                                                                                                                                                            4
+
+     Rischio Mercato: Revisione limiti operativi
+     Linee Guida
+ Di seguito è riportata in sintesi la metodologia utilizzata per la determinazione dei livelli dei limiti di VaR, Stop Loss e Stress sul PNV e VaR e
+ VPB sul PB, partendo dai buffer di P&L e RWA di Tolerance definiti in sede RAF.
+ <U+F071> I limiti operativi sono determinati a seguito della conclusione del Risk Appetite Framework, in modo da mantenere coerenza tra Capitale
+    Interno allocato e Perdita Massima sui diversi Risk Taking Center e limiti delegati.
+ <U+F071> Dato il livello di RWA definito in base al Risk Appetite in Baseline, e dato il buffer derivante dalla calibrazione della Risk Tolerance, viene
+    determinato un livello di VaR Medio, implicito nella somma delle due misure, in corrispondenza di un holding period giornaliero e di un livello
+    di confidenza del 99%*.
+                                              <U+0001D445><U+0001D44A><U+0001D434><U+0001D435><U+0001D44E><U+0001D460><U+0001D452><U+0001D459><U+0001D456><U+0001D45B><U+0001D452> + <U+0001D435><U+0001D462><U+0001D453><U+0001D453><U+0001D452><U+0001D45F>(<U+0001D445><U+0001D44A><U+0001D434> <U+0001D447><U+0001D45C><U+0001D459><U+0001D452><U+0001D45F><U+0001D44E><U+0001D45B><U+0001D450><U+0001D452> )                                                  <U+0001D445><U+0001D44A><U+0001D434><U+0001D435><U+0001D44E><U+0001D460><U+0001D452><U+0001D459><U+0001D456><U+0001D45B><U+0001D452> + <U+0001D435><U+0001D462><U+0001D453><U+0001D453><U+0001D452><U+0001D45F>(<U+0001D445><U+0001D44A><U+0001D434> <U+0001D447><U+0001D45C><U+0001D459><U+0001D452><U+0001D45F><U+0001D44E><U+0001D45B><U+0001D450><U+0001D452> )
+                    <U+0001D434><U+0001D463><U+0001D454> <U+0001D449><U+0001D44E><U+0001D445> <U+0001D443><U+0001D441><U+0001D449>99%,1<U+0001D451> =                                                                      <U+0001D434><U+0001D463><U+0001D454> <U+0001D449><U+0001D44E><U+0001D445> <U+0001D443><U+0001D435>99%,1<U+0001D451> =
+                                                          2.15 * 12.5 * 20                                                                          12.5 * 20
+ <U+F071> Determinato il VaR Medio, viene definito il VaR PB massimo giornaliero che può essere assorbito da ciascuna Business Unit. Si assume che
+    il valore del limite di VaR si distribuisca come una Normale con media pari al livello implicito al Risk Appetite più il buffer di Risk Tolerance e
+    deviazione standard pari a quella storicamente osservata nel 2017/18. Il limite di VaR è di conseguenza ricavato in base ad un intervallo
+    confidenza del 99%.
+ <U+F071> Il VaR PNV puntuale è determinato a partire dall’Avg VaR PNV, ipotizzando una percentuale di assorbimento medio nel corso del 2018.
+          <U+0001D449><U+0001D44E><U+0001D445> <U+0001D443><U+0001D441><U+0001D449>99%,1<U+0001D451> = <U+0001D434><U+0001D463><U+0001D454> <U+0001D449><U+0001D44E><U+0001D445>99%,,1<U+0001D451> /<U+0001D43B><U+0001D443>(%<U+0001D434><U+0001D460><U+0001D460><U+0001D45C><U+0001D45F><U+0001D44F><U+0001D456><U+0001D45A><U+0001D452><U+0001D45B><U+0001D461><U+0001D45C><U+0001D440><U+0001D452><U+0001D451><U+0001D456><U+0001D45C><U+0001D449><U+0001D44E><U+0001D445>)                                            <U+0001D449><U+0001D44E><U+0001D445> <U+0001D443><U+0001D435>99%,1<U+0001D451> = <U+0001D434><U+0001D463><U+0001D454> <U+0001D449><U+0001D44E><U+0001D445>99%,,1<U+0001D451> + <U+0001D44D><U+0001D6FC> * <U+0001D70E>(<U+0001D449><U+0001D44E><U+0001D445>99%,1<U+0001D451> |2017/18)
+  con <U+0001D44D><U+0001D6FC> = percentile della Normale Standard con probabilità 99%
+  e <U+0001D70E>(<U+0001D449><U+0001D44E><U+0001D445>99%,,1<U+0001D451> |2017/18) = deviazione standard del VaR giornaliero al 99% per il 2017 e la prima parte del 2018
+* Per PNV il capitale Interno:   IC1 y <U+F03D> <U+F062> <U+F0D7> AVG (VaR99%,1d <U+F0D7> t ) <U+F02B> <U+F062> <U+F0D7> AVG (sVaR99%,1d <U+F0D7> t ) mentre per PB: IC1 y <U+F03D> <U+F062> <U+F0D7> AVG (MarIRVaR99%,1d <U+F0D7> t ) con t=20 e ß=1
+                                                                                                                                                                          5
+
+   Rischio Mercato: Revisione limiti operativi
+   Linee Guida
+<U+F071> Nel cascading down dei limiti operativi di VaR è stata considerata la diversificazione storicamente osservata tra Legal entities/Business Units.
+  In base alle ipotesi sottostanti al RAF, per il 2018, sono state utilizzate le percentuali medie di diversificazione del 2017/18 nella ripartizione
+  dei limiti per i livelli inferiori al livello del Gruppo, separatamente per PB e PNV.
+<U+F071> I limiti di Stop Loss PNV sono coerenti con i buffer di Risk Tolerance definiti in sede RAF
+                                                                <U+0001D434><U+0001D45B><U+0001D45B><U+0001D462><U+0001D44E><U+0001D459><U+0001D437><U+0001D45F><U+0001D44E><U+0001D464><U+0001D451><U+0001D45C><U+0001D464><U+0001D45B><U+0001D443><U+0001D441><U+0001D449> = <U+0001D435><U+0001D462><U+0001D453><U+0001D453><U+0001D452><U+0001D45F>(<U+0001D443>&<U+0001D43F> <U+0001D447><U+0001D435><U+0001D447><U+0001D45C><U+0001D459><U+0001D452><U+0001D45F><U+0001D44E><U+0001D45B><U+0001D450><U+0001D452> )
+<U+F071>Il valore di Stop Loss Montly PNV è determinato a partire dal valore di annual drawdown e capitale interno prospettico definito in sede RAF.
+  Partendo dalla distribuzione di probabilità dell’aggregato descritto si stima la deviazione standard annuale e la si riscala per ottenere la
+  corrispettiva deviazione mensile. Data la deviazione standard mensile si determina la Stop Loss mensile implicita nella distribuzione di P&L
+  con una probabilità del 99%.
+<U+F071> I limiti di Valore del Portafoglio Bancario (VPB) sono ottenuti sommando alla stima della Riserva AFS in Baseline, il buffer di Risk Tolerance.
+                                                           <U+0001D449><U+0001D443><U+0001D435> = <U+0001D434><U+0001D439><U+0001D446> <U+0001D445><U+0001D452><U+0001D460><U+0001D452><U+0001D45F><U+0001D463><U+0001D452><U+0001D435><U+0001D44E><U+0001D460><U+0001D452><U+0001D459><U+0001D456><U+0001D45B><U+0001D452> + <U+0001D435><U+0001D462><U+0001D453><U+0001D453><U+0001D452><U+0001D45F>(<U+0001D434><U+0001D439><U+0001D446> <U+0001D445><U+0001D452><U+0001D460><U+0001D452><U+0001D45F><U+0001D463><U+0001D452><U+0001D447><U+0001D45C><U+0001D459><U+0001D452><U+0001D45F><U+0001D44E><U+0001D45B><U+0001D450><U+0001D452> )
+<U+F071> I valori di Stop Loss e VaR determinati risultano più stringenti rispetto ai limiti di Gruppo derivanti dai commitment della Commissione
+  Europea, che non possono in nessun caso essere derogati;
+<U+F071> Sul PNV sono istituiti limiti di stress, misurati come impatto in termini di variazione del valore di mercato delle posizioni a fronte di
+  determinati shock dei parametri di mercato rilevanti; l’opportunità di una tale tipologia di limite deriva dal fatto che, anche a fronte di eventi di
+  mercato estremi, si riesca a contenere le perdite entro specifiche soglie.
+                                                                                                                                                        6
+
+    Gruppo MPS – Early warning
+Per il Gruppo MPS, i limiti operativi per il livello di delega dell’AD sono declinati implicitamente in base ai Key Risk Indicators deliberati dal CdA
+in sede RAS 2018 sul portafoglio complessivo (PB+PNV).
+Tali livelli possono essere interpretati come un early warning per l’AD.
+I livelli di VaR e P&L impliciti per l’AD della Capogruppo, in coerenza con la delibera del CdA sono i seguenti:
+                                                                            Gruppo MPS
+                                        Delega       Tipologia Limite      Valore al 20/02/2018 Early Warning Early Warning new
+                                                     VaR PNV                           5,366,328    16,000,000         15,000,000
+                                                     Average VaR 3M PNV                5,360,081      9,500,000         8,500,000
+                                                     Stop Loss mensile PNV             5,069,099   -23,500,000        -21,500,000
+                                        AD Group MPS
+                                                     Annual drawdown PNV                       0   -30,000,000        -30,000,000
+                                                     VaR PB                           36,133,694 160,000,000           75,000,000
+                                                     VPB                             124,634,764 -521,000,000        -200,000,000
+                                                                                                                                                       7
+
+Gruppo MPS – Commitment UE
+La seguente proposta è finalizzata a stabilire i limiti operativi relativi al comparto Finanza per l’anno 2018 (riportati nelle slide che seguono),
+tenendo presenti gli impegni assunti da Banca MPS nei confronti del Ministero dell’Economia e delle Finanze, nell’ambito dell’approvazione da
+parte della Commissione Europea del Piano di Ristrutturazione aziendale.
+Di seguito i livelli dei limiti operativi proposti sulle singole unità operative (BMPS, MPS CS e controllate estere di Francia e Belgio) e sul livello
+Gruppo MPS – Portafoglio di Negoziazione di Vigilanza.
+Gruppo MPS: limiti derivanti dai Commitment assunti da BMPS
+Limiti sul portafoglio obbligazionario Sovereign Italia, categoria FVOCI
+Vengono adottate le limitazioni previste dal commitment 21; di conseguenza anche nel corso del 2018 e fino a successiva modifica,
+l’ammontare nominale massimo detenibile in titoli di Stato Italiani, categoria FVOCI, non può eccedere i 13.5 €/Mld a fine 2018.
+Limiti sul portafoglio di trading (PNV)
+Non ci sono modifiche rispetto ai limiti attualmente vigenti: per il 2018 i limiti sul portafoglio di trading di Gruppo continuano a corrispondere a
+quelli previsti dal Commitment 22.
+                                                                             Group MPS
+                                                     Delega              Tipologia Limite          Threshold
+                                                                         VaR PNV                   20,000,000
+                                                     Group MPS           Average VaR 3M PNV        14,400,000
+                                                                         Stop Loss mensile PNV    -31,000,000
+                                                                                                                                                       8
+
+Limiti Operativi - Banca MPS
+Si propone una variazione dei livelli dei limiti operativi per adeguare le soglie ai livelli di Tolerance stabiliti in sede RAF:
+                                                                                                       Banca MPS
+                                 Delega                             Tipologia Limite                           Valore al 20/02/2018 Limite attuale Limite proposto
+                                                                    VaR PNV                                                        12,917     1,800,000    2,800,000
+                                                                    Average VaR 3M PNV                                             33,748       800,000    1,800,000
+                                                                    Stop Loss mensile PNV                                         269,548    -1,000,000   -2,500,000
+                                                                    Annual drawdown PNV                                                   0  -4,500,000   -6,000,000
+                                                                    Limite di Stress PNV                                       -2,030,442   -20,000,000  -20,000,000
+                                              AFTCM                 VaR PB                                                    34,720,639 140,000,000      70,000,000
+                                                                    VPB                                                      120,311,713 -480,000,000   -190,000,000
+                                                                    Hedge fund - complessivo                                    1,006,771    15,000,000    5,000,000
+                                                                    Hedge fund - singola società                                 340,276     15,000,000    5,000,000
+                                                                    Defaulted - complessivo*                                              -  10,000,000   10,000,000
+                                                                    Defaulted - singolo emittente*                                        -   5,000,000    5,000,000
+                                 * limite applicato per nuove posizioni in titoli in default su amount complessivo e su singolo emittente
+                                                                                                                                                                     9
+
+Limiti Operativi - Banca MPS
+Banca MPS – Rischio Emittente: livelli attuali di delega per AD e Area Finanza, Tesoreria e Capital Management
+ Nella schema che segue sono riportati i valori dei limiti di Issuer attualmente vigenti. Si ricorda che per Banca MPS, i livelli di AFTCM sono
+ uguali a quello di AD, data la ormai sostanziale coincidenza dei due portafogli. La griglia viene mantenuta invariata.
+                                                             Governativi EMU* -
+                                                                                         Governativi Altri
+                                          AD NEW                Paesi G10** e                                          Corporate                  Financial                   ABS              Credito Strutturato
+                                                                                                Paesi
+                                                                 Sovranational
+                                                 Rating
+                                    Classe
+                                                (ECAI) -                     Sng.                     Sng.                       Sng.                    Sng.                       Sng.
+                                    Merito                    Globale                    Globale                  Globale                   Globale                 Globale                            Globale
+                                                   Fitch                    Issuer                   Issuer                     Issuer                  Issuer                     Issuer
+                                   Vigilanza
+                                                   Scale
+                                       1           AAA
+                                       1           AA+
+                                                                                            50          50          100          100          150         150           50           50
+                                       1            AA
+                                       1            AA-
+                                       2            A+
+                                       2              A                                     50          50          200          200          600         400           50           50
+                                       2             A-
+                                       3          BBB+
+                                       3            BBB        1000          1000          250         200          500          200          400         300           50           20
+                                       3           BBB-
+                                       4           BB+
+                                       4             BB         300           150          250         100          300          100          915         400           30           15                  100
+                                       4            BB-
+                                       5            B+
+                                       5              B          15            10          150          75          100           75          100          30           20           10
+                                       5             B-
+                                       6          CCC+
+                                       6            CCC
+                                       6           CCC-          10             5           10           5           10           10           15          10           20           20
+                                       6             CC
+                                       6              C
+                                                    Not
+                                                                 20             5            0           0           10            5           70          70           10            5
+                                                  Rated
+                                  *EMU : Austria, Belgio, Cipro, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Portogallo, Slovacchia, Slovenia, Spagna.
+                                  **G10 : Belgio, Canada, Francia, Germania, Giappone, Paesi Bassi, Regno Unito, Svezia, Svizzera, USA.
+Nel computo degli assorbimenti non sono computati i titoli di stato italiani inclusi nel commitment della commissione europea e i bond di gruppo.
+                                                                                                                                                                                                                        10
+
+ Limiti Operativi - Banca MPS
+In rosso le esposizioni attuali su Global Issuer di Banca MPS per la delega dell’AD, confrontate con le threshold L1 (in nero) attualmente vigenti.
+                                                    Governativi EMU* -
+                                                                                Governativi Altri
+                                  AD OLD               Paesi G10** e                                          Corporate                  Financial                   ABS              Credito Strutturato
+                                                                                       Paesi
+                                                        Sovranational
+                                        Rating
+                           Classe
+                                       (ECAI) -                     Sng.                     Sng.                       Sng.                    Sng.                       Sng.
+                           Merito                    Globale                    Globale                  Globale                   Globale                 Globale                            Globale
+                                          Fitch                    Issuer                   Issuer                     Issuer                  Issuer                     Issuer
+                          Vigilanza
+                                          Scale
+                              1           AAA
+                              1           AA+
+                                                                               50 (26)         50       100 (12)        100         150(6)       150           50           50
+                              1            AA
+                              1            AA-
+                              2            A+
+                                                                                                                                      600
+                              2              A                                     50          50       200 (59)        200                      400           50           50
+                                                                                                                                     (467)
+                              2             A-
+                              3          BBB+
+                                                      1000                                                  500                       400
+                              3            BBB                      1000          250         200                       200                      300           50           20
+                                                      (100)                                                (237)                     (530)
+                              3           BBB-
+                              4           BB+
+                                                                                                            300                       915                                                       100
+                              4             BB         300           150          250         100                       100                      400           30           15
+                                                                                                           (102)                     (474)
+                              4            BB-
+                              5            B+
+                              5              B          15            10          150          75       100 (20)         75       100 (34)        30           20           10
+                              5             B-
+                              6          CCC+
+                              6            CCC
+                              6           CCC-          10             5           10           5            10          10            15         10           20           20
+                              6             CC
+                              6              C
+                                           Not
+                                                        20             5            0           0         10 (4)          5        70 (63)        70           10            5
+                                         Rated
+                         *EMU : Austria, Belgio, Cipro, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Portogallo, Slovacchia, Slovenia, Spagna.
+                         **G10 : Belgio, Canada, Francia, Germania, Giappone, Paesi Bassi, Regno Unito, Svezia, Svizzera, USA.
+                                                                                                                                                                                                               11
+
+  Limiti Operativi - Banca MPS
+Si propone l’introduzione di un limite di Rischio Paese complessivo, nella forma di assorbimento in termini nominali di titoli obbligazionari e credit
+derivatives (bond equivalent value), per esposizioni classificate sulla base del Paese di appartenenza dell’emittente. Sono esclusi
+dall’applicazione del limite i paesi appartenenti al G10 ed i paesi EMU che abbiano un basso livello di rischio paese in base al sistema di scoring
+interno di Gruppo (fascia A di scoring). L’indice di rischio Paese considerato viene elaborato semestralmente dall’Area Lending Risk Officer di
+Gruppo.
+Nella tabella sono  Banca MPS
+                               evidenziati          gli assorbimenti (in rosso) al 20/02/2018 e le soglie proposte:
+                                              Rischio Paese*
+              Classe            Rating
+                                                                         Si riporta di seguito l’elenco dei Paesi EMU/G10 con basso rischio Paese e perciò esclusi da
+                                            Nominal Amount
+              Merito           (ECAI) -                                  tale metrica. Tutte le emissioni riconducibili a Paesi non appartenenti a tale gruppo sono
+                                                complessivo
+            Vigilanza        Fitch Scale
+                 1               AAA                                     considerati nell’assorbimento del limite introdotto (sono esclusi dal computo della metrica i
+                 1               AA+
+                                                  100 (26)
+                                                                         titoli obbligazionari riconducibili all’Italia):
+                 1                AA
+                 1               AA-
+                 2                A+
+                                                                                                             Paesi EMU/G10 a basso
+                 2                 A             550 (430)                                                   Rischio Paese:
+                 2                A-                                                                         Austria
+                 3              BBB+                                                                         Canada
+                                                    1000
+                 3               BBB
+                                                 (111+500)                                                   Finlandia
+                 3               BBB-
+                 4               BB+
+                                                                                                             Francia
+                 4                BB               100 (1)                                                   Germania
+                 4               BB-                                                                         Lussemburgo
+                 5                B+                                                                         Paesi Bassi
+                 5                 B                 20                                                      Regno Unito
+                 5                B-
+                                                                                                             Stati Uniti d'America
+                 6              CCC+
+                                                                                                             Svezia
+                 6               CCC
+                 6               CCC-                 0
+                                                                                                             Svizzera
+                 6                CC
+                 6                 C
+                                                                         In rosso è evidenziato l’assorbimento attuale e prospettico in base al RAF 2018 (acquisto di
+                             Not Rated                0
+                                                                         circa 500 mln di titoli governativi spagnoli di classe 3 di vigilanza, in seguito al rolling del ptf
+          * esclusi i paesi EMU-G10 con scoring paese interno a1/a2
+                                                                         sovereign in FVOCI).
+                                                                                                                                                                              12
+
+Limiti Operativi – MPS Capital Services
+I livelli dei limiti operativi su VaR e Average VaR proposti per MPS CS si differenziano dai limiti attualmente vigenti, per tener conto delle ipotesi
+definite in sede di RAF, mantenendo la coerenza con i limiti stabili dai Commitments dell’Unione Europea.
+Nella tabella che segue sono indicate le variazioni proposte ai limiti operativi per i livelli del DG:
+                                                                                                      MPS Capital Services
+                                    Delega                                     Tipologia Limite                          Valore al 20/02/2018 Limite attuale Limite proposto
+                                                                               VaR PNV                                                   5,427,857  15,000,000     13,500,000
+                                                                               Average VaR 3M PNV                                        5,372,180   9,000,000      8,000,000
+                                                                               Stop Loss mensile PNV - TP                                1,734,044 -11,000,000     -8,000,000
+                                                                               Annual drawdown PNV                                        -466,242     -          -23,500,000
+                                                                               Limite di Stress PNV                                 -161,026,911 -260,000,000    -260,000,000
+                                                       DG                      VaR PB                                                          631   2,000,000      3,000,000
+                                                                               VPB                                                             719  -5,000,000     -7,500,000
+                                                                               Hedge fund - complessivo                                          -  25,000,000      5,000,000
+                                                                               Hedge fund - singola società                                      -  25,000,000      5,000,000
+                                                                               Defaulted - complessivo*                                    120,000  30,000,000     30,000,000
+                                                                               Defaulted - singolo emittente*                              120,000  10,000,000     10,000,000
+                                    * limite applicato per nuove posizioni in titoli in default su amount complessivo e su singolo emittente
+                                                                                                                                                                              13
+
+Limiti Operativi – MPS Capital Services
+Nella tabella che segue sono indicate le variazioni proposte ai limiti operativi per la Direzione Global Market di MPS CS:
+                                                                        MPS Capital Services
+                               Delega                  Tipologia Limite               Valore al 20/02/2018 Limite attuale Limite proposto
+                                                       VaR PNV                                    5,427,859    14,500,000       13,000,000
+                                                       Average VaR 3M PNV                         5,372,383     8,800,000        7,000,000
+                                                       Stop Loss mensile PNV - TP                 1,734,044    -9,500,000       -7,500,000
+                                      Global Market
+                                                       Annual drawdown PNV - TP                    -466,242       -            -18,000,000
+                                                       VaR PB                                           631     2,000,000        3,000,000
+                                                       VPB                                              719    -4,500,000       -7,000,000
+Nella tabella che segue sono indicate le variazioni proposte ai limiti operativi per la Direzione Investment Banking di MPS CS:
+                                                                        MPS Capital Services
+                               Delega                  Tipologia Limite               Valore al 20/02/2018 Limite attuale Limite proposto
+                                                       VaR PNV                                            4       300,000          300,000
+                                                       Average VaR 3M PNV                             1,972       100,000          100,000
+                                       Dir Inv Bank
+                                                       Stop Loss mensile PNV                        244,821    -1,000,000       -1,000,000
+                                                       Annual drawdown PNV                              -13    -1,000,000       -1,000,000
+                                                                                                                                           14
+
+ Limiti Operativi – MPS Capital Services
+Nella tabella che seguono sono indicate le variazioni proposte ai limiti operativi per la delega Global Market di MPS CS, con riferimento al perimetro
+dei portafogli di Trading Proprietario:
+                                                                                 MPS Capital Services
+                                  Delega                        Tipologia Limite                Valore al 20/02/2018 Limite attuale Limite proposto
+                                                                VaR PNV                                      1,496,791    11,000,000        8,500,000
+                                                                Average VaR 3M PNV                           2,407,437     6,700,000        5,500,000
+                                  Global Market - Trading Prop
+                                                                Stop Loss mensile PNV                        1,734,044    -9,500,000       -7,500,000
+                                                                Annual drawdown PNV                           -466,242   -24,000,000     -18,000,000
+Nella tabella che seguono sono indicate le variazioni proposte ai limiti operativi per la delega Global Market di MPS CS, con riferimento al
+perimetro dei portafogli al servizio della clientela (Client Driven):
+                                                                                 MPS Capital Services
+                                 Delega                        Tipologia Limite                Valore al 20/02/2018 Limite attuale Limite proposto
+                                                               VaR PNV                                      4,365,745     9,000,000        8,500,000
+                                 Global Market - Client Driven Average VaR 3M PNV                           3,963,920     6,000,000        5,500,000
+                                                               Stop Loss mensile PNV*                       2,792,801   -11,000,000       -9,500,000
+                                 *Management Alert
+                                                                                                                                                      15
+
+Limiti Operativi – MPS Capital Services
+ Date le ipotesi evidenziate in sede di RAF, non si rende necessaria una revisione dei livelli di delega per i limiti di Issuer attualmente in vigore per
+ MPS Capital Services. In rosso sono evidenziati gli assorbimenti al 20/02/2018.
+                                                         Governativi EMU* -
+                                      MPS CS                Paesi G10** e           Governativi Altri Paesi             Corporate                  Financial                      ABS                   Credito Strutturato
+                                                             Sovranational
+                                             Rating
+                                Classe
+                                            (ECAI) -                     Sng.                        Sng.                          Sng.                    Sng.
+                                Merito                    Globale                    Globale                       Globale                    Globale                    Globale      Sng. Issuer               Globale
+                                               Fitch                    Issuer                      Issuer                        Issuer                  Issuer
+                               Vigilanza
+                                               Scale
+                                   1            AAA
+                                   1           AA+
+                                                                                      200(0)          70           200 (6)          100      150 (21)       125       200 (123)            100
+                                   1            AA
+                                   1            AA-
+                                   2            A+
+                                                                                                                                                300
+                                   2              A                                  200 (0)          70          150 (78)           75                     100        150 (57)             75
+                                                                                                                                               (177)
+                                   2             A-
+                                   3          BBB+
+                                                                                                                                                300
+                                   3            BBB         100            25        100 (0)          25         200 (188)           95                     100        200 (55)             85
+                                                                                                                                               (247)
+                                   3           BBB-
+                                   4            BB+
+                                                                                                                                                250                                                               100
+                                   4             BB       75 (0)           15         75 (0)          15          150 (40)           70                     100        100 (11)             50
+                                                                                                                                               (133)
+                                   4            BB-
+                                   5            B+
+                                   5              B       25 (0)           10         25 (0)          10            75 (8)           50      150 (35)       100             75              25
+                                   5             B-
+                                   6          CCC+
+                                   6            CCC
+                                   6           CCC-       30 (1)           15         20 (0)          10             40              20       75 (6)         30          25 (4)              5
+                                   6             CC
+                                   6              C
+                                                Not
+                                                              0             0            0             0          250 (17)           50      100 (30)        25         25 (12)              5
+                                              Rated
+                              *EMU : Austria, Belgio, Cipro, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Portogallo, Slovacchia, Slovenia, Spagna.
+                              **G10 : Belgio, Canada, Francia, Germania, Giappone, Paesi Bassi, Regno Unito, Svezia, Svizzera, USA.
+Nel computo degli assorbimenti non sono computati i titoli di stato italiani inclusi nel commitment della commissione europea e i bond di gruppo.
+                                                                                                                                                                                                                            16
+
+Limiti Operativi – MPS Capital Services
+In base alle indicazioni fornite dal Front Office della controllata si propone una parziale modifica (valori evidenziati in rosso) dello schema dei limiti
+di Rischio Emittente per MPS Capital Services, formulata in base all’ipotesi di invarianza degli RWA regolamentali assorbibili rispetto ai livelli
+attualmente vigenti.
+                                                     Governativi EMU* -
+                               MPS CS New               Paesi G10** e           Governativi Altri Paesi             Corporate                  Financial                      ABS                   Credito Strutturato
+                                                         Sovranational
+                                          Rating
+                            Classe
+                                         (ECAI) -                    Sng.                        Sng.                          Sng.                    Sng.
+                            Merito                    Globale                    Globale                      Globale                     Globale                    Globale      Sng. Issuer               Globale
+                                           Fitch                    Issuer                      Issuer                        Issuer                  Issuer
+                           Vigilanza
+                                           Scale
+                               1           AAA
+                               1           AA+
+                                                                                    100           70            200            100          150         125            200             100
+                               1            AA
+                               1            AA-
+                               2            A+
+                               2             A                                      100           70            150             75          300         100            150              75
+                               2            A-
+                               3          BBB+
+                               3           BBB          100            25           100           25            200             95          300         100            200              85
+                               3           BBB-
+                               4           BB+
+                               4            BB           75            15            75           15            150             70          250         100            100              50                    100
+                               4            BB-
+                               5            B+
+                               5             B          100            75            45           20             75             50          150          50             75              25
+                               5             B-
+                               6          CCC+
+                               6           CCC
+                               6           CCC-          30            15            20           10             40             20           75          30             25               5
+                               6            CC
+                               6             C
+                                            Not
+                                                          0             0             0            0            250             50          100          25             25               5
+                                          Rated
+                          *EMU : Austria, Belgio, Cipro, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Portogallo, Slovacchia, Slovenia, Spagna.
+                          **G10 : Belgio, Canada, Francia, Germania, Giappone, Paesi Bassi, Regno Unito, Svezia, Svizzera, USA.
+                                                                                                                                                                                                                        17
+
+ Limiti Operativi – MPS Capital Services
+Si propone l’introduzione di un limite di Rischio Paese, nella forma di assorbimento in termini nominali di titoli obbligazionari e credit derivatives (bond
+equivalent value), per esposizioni classificate sulla base del Paese di appartenenza dell’emittente. Sono esclusi dall’applicazione del limite i paesi
+appartenenti al G10 ed i paesi EMU che abbiano un basso livello di rischio paese in base al sistema di scoring interno di Gruppo (fascia A di scoring).
+L’indice di rischio Paese considerato viene elaborato semestralmente dall’Area Lending Risk Officer di Gruppo.
+Nella tabella sono evidenziati gli assorbimenti (in rosso) al 20/02/2018 e le soglie proposte :
+             MPS Capital Services             Rischio Paese*
+              Classe            Rating                               Si riporta di seguito l’elenco dei Paesi EMU/G10 con basso rischio Paese e perciò esclusi da
+                                            Nominal Amount
+              Merito           (ECAI) -
+            Vigilanza        Fitch Scale
+                                                complessivo          tale metrica. Tutte le emissioni riconducibili a Paesi non appartenenti a tale gruppo sono
+                 1               AAA                                 considerati nell’assorbimento del limite introdotto (sono esclusi dal computo della metrica i titoli
+                 1               AA+
+                                                 50 (15.2)           obbligazionari riconducibili all’Italia):
+                 1                AA
+                 1               AA-
+                 2                A+
+                 2                 A             100 (27.4)
+                                                                                               Si propone inoltre l’introduzione di un limite operativo su MPS CS
+                                                                    Paesi EMU/G10 a basso
+                 2                A-                                                           (inteso come management alert) sull’amount monitorabile di
+                                                                    Rischio Paese:
+                 3              BBB+                                                           investimenti finanziari non significativi su banche ed enti finanziari.
+                 3               BBB             150 (45.6)         Austria
+                 3               BBB-                               Canada
+                                                                                               Tale soglia ha l’obiettivo di contenere le esposizioni in oggetto entro la
+                 4               BB+                                Finlandia                  franchigia prevista (10% del CET1 di MPS CS). La finalità è di evitare
+                 4                BB             100 (7.9)          Francia                    una deduzione diretta dai fondi propri al 100% in termini di mark to
+                 4               BB-
+                                                                    Germania                   market per esposizioni superiori alla franchigia.
+                 5                B+
+                                                                    Lussemburgo
+                 5                 B             100 (1.5)
+                 5                B-
+                                                                    Paesi Bassi                Su MPS CS al 31.12.17 la franchigia è risultata pari a circa 137mln
+                 6              CCC+                                Regno Unito                (assorbimento a 121mln complessivo, riferito ad azioni-derivati per
+                 6               CCC                                Stati Uniti d'America
+                 6               CCC-             10 (2.1)
+                                                                                               12mln e titoli subordinati per 109mln).
+                                                                    Svezia
+                 6                CC
+                                                                    Svizzera
+                 6                 C                                                           Il livello di management alert verrà aggiornato in base all’ultimo valore
+                             Not Rated              5 (2)                                      disponibile della franchigia.
+          * esclusi i paesi EMU-G10 con scoring paese interno a1/a2
+                                                                                                                                                                          18
+
+Limiti Operativi – Controllate Estere
+Data l’ipotesi di vendita della controllata, evidenziata in sede di RAF, si propone di mantenere l’attuale struttura di limiti operativi per MP Belgio in
+termini di VaR sul PB e VPB, fino alla effettiva dismissione:
+                                                                               MP Belgio
+                                             Delega    Tipologia Limite Valore al 20/02/2018 Limite attuale Limite proposto
+                                                       VaR PB                         876,514     2,000,000        2,000,000
+                                             MP Belgio
+                                                       VPB                          5,701,201   -16,000,000      -16,000,000
+Data l’ipotesi di vendita della controllata, evidenziata in sede di RAF, si propone di mantenere l’attuale struttura di limiti operativi per MP Banque in
+termini di VaR sul PB e VPB, fino alla effettiva dismissione:
+                                                                              MP Banque
+                                             Delega    Tipologia Limite Valore al 20/02/2018 Limite attuale Limite proposto
+                                                       VaR PB                          92,183       500,000          500,000
+                                             MP Banque
+                                                       VPB                          5,201,054    -4,000,000       -4,000,000
+                                                                                                                                                          19
+

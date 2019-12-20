@@ -1,0 +1,187 @@
+                             Risk Management Report
+                               London Branch September 2017
+Direzione Chief Risk Officer
+
+Contents
+      Regulatory RWA and Internal RWA
+      Credit Risk Analysis of the Lending Portfolio
+      Interest Rate Risk Analysis of the Banking Book Portfolio
+      Operational Risk Management
+      Monitoring of credit risk by internally implemented portfolio model
+                                                                          2
+
+Regulatory RWA and Internal RWA as at 30-09-2017
+                                                          (Eur mln)                        LONDON
+                     Regulatory / Internal RWA                      dic-16 mar-17 giu-17        set-17     <U+2206>Q     <U+2206>Q%
+                     Credit and Counterparty Risk                   305,19 309,86 283,12          200,19     -83  -29,3%
+                                                        Credit Risk   264,95   269,72   243,42     160,71    -83   -34,0%
+                                                              AIRB       0,01     0,01     0,01       0,03      0  187,0%
+                                                         Standard      264,94   269,71   243,41     160,67    -83   -34,0%
+                                          Issuer Risk Banking Book     40,24     40,14    39,70      39,48      0    -0,6%
+                     Operational Risk                                 15,43    15,35    16,75       17,06       0    1,8%
+                     REGULATORY RWA                                 320,63    325,21   299,87     217,25     -83  -27,6%
+                     INTERNAL RWA                                   320,63    325,21   299,87     217,25     -83  -27,6%
+                                                                                                                           3
+
+Contents
+      Regulatory RWA and Internal RWA
+      Credit Risk Analysis of the Lending Portfolio
+      Interest Rate Risk Analysis of the Banking Book Portfolio
+      Operational Risk Management
+      Monitoring of credit risk by internally implemented portfolio model
+                                                                          4
+
+Credit Loans Portfolio – Regulatory measures
+                                                                                                   Credit Risk
+                       Values in €/mln                                       dec-16 mar-17 jun-17         sep-17   dec-17 <U+0394>QtD     <U+0394>YtD
+                                           TOTAL                              264,9  269,7   243,4          160,7          -34,0%    -39,3%
+                                             Standard                         264,9  269,7   243,4          160,7          -34,0%   -39,4%
+                                                            - of which Bonis  264,8  267,9  241,9           159,5          -34,1%   -39,8%
+                               RWA                       - of which Default     0,1    1,8     1,5            1,2          -17,3%  1264,2%
+                                             AIRB                               0,0    0,0     0,0            0,0          187,0%   179,3%
+                                                            - of which Bonis    0,0    0,0    0,0             0,0          187,0%   179,3%
+                                                         - of which Default     0,0    0,0    0,0             0,0             0,0%     0,0%
+                       Values in €/mln                                       dec-16 mar-17 jun-17         sep-17   dec-17 <U+0394>QtD     <U+0394>YtD
+                                           TOTAL                              280,0  285,4   262,8          167,0          -36,5%    -40,4%
+                                           of which Intragroup                  0,0    0,0     0,0             0,0            0,0%     0,0%
+                                           of which no Intragroup             280,0  285,4   262,8          167,0          -36,5%    -40,4%
+                                            Standard                          280,0  285,4   262,7          167,0          -36,5%    -40,4%
+                               EAD                          - of which Bonis  279,9  284,1  261,7           166,1          -36,5%   -40,6%
+                                                         - of which Default     0,1    1,2     1,0            0,8          -16,9%   840,4%
+                                            AIRB                                0,1    0,1     0,1             0,1           -0,3%    -3,0%
+                                                            - of which Bonis    0,1    0,1     0,1            0,1            -0,3%    -3,0%
+                                                         - of which Default     0,0    0,0     0,0            0,0             0,0%     0,0%
+                      The decrease of RWA and EAD, from the previous quarter (-34%, -83 €/mln), is due to the standard Corporate
+                      segment, in particular at the closing of several positions as «MASHREQBANK PSC», «EXPORT CREDIT BANK OF
+                      TURKEY» and «ZF FRIEDRICHSHAFEN AG» exposures.
+                                                                                                                                            5
+
+Contents
+      Regulatory RWA and Internal RWA
+      Credit Risk Analysis of the Lending Portfolio
+      Interest Rate Risk Analysis of the Banking Book Portfolio
+      Operational Risk Management
+      Monitoring of credit risk by internally implemented portfolio model
+                                                                          6
+
+Interest Rate Sensitivity
+                          7
+
+Contents
+      Regulatory RWA and Internal RWA
+      Credit Risk Analysis of the Lending Portfolio
+      Interest Rate Risk Analysis of the Banking Book Portfolio
+      Operational Risk Management
+      Monitoring of credit risk by internally implemented portfolio model
+                                                                          8
+
+Operational Risk Management – Loss Data Collection overview
+     The process of Loss Data Collection (LDC) consists of searching and registering loss data, triggered by operational risk events, and analytically
+     examining them in order to fully understand loss causes and their implications as far as mitigation is concerned.
+     The London Branch collects operational losses data from 2006; its operational losses are generally of a low amount (averagely 3,000GBP/year) and are
+     related to errors/delays in executing operations.
+     In the last years (2010-2017) the average annual operational losses suffered by the branch dropped to a very low amount.
+     Concerning the period under investigation, no operational risk event occurred in Q3 2017.
+                                                                                                                                                          9
+
+Contents
+      Regulatory RWA and Internal RWA
+      Credit Risk Analysis of the Lending Portfolio
+      Interest Rate Risk Analysis of the Banking Book Portfolio
+      Operational Risk Management
+      Monitoring of credit risk by internally implemented portfolio model
+                                                                          10
+
+Credit Portfolio Measurement System – Methodological Notes
+1. Measuring and monitoring of credit risk are made in Banca MPS by means of the internally implemented portfolio model.
+2. The model, under the responsability of the Risk Management Dept, takes into account:
+      a) probability of default (PD) derived from the internal rating system for AIRB portfolio counterparties and from External Rating (if available) or benchmark
+      approach for Standard portfolio counterparties. Until September 2015 the pd benchmark was estimated by average default rate approach above whole group
+      portfolio. Since December 2015 the pd benchmark was estimated by average default rate approach above foreign branch portfolio, improving approximately
+      70-80%;
+      b) loss given default (LGD) rates obtained from specific 7-year time series of recovering and costs relating to “close” defaulted position;
+      c) coefficients of exposure at default (EAD);
+      d) data relating to different types of guarantees supporting specific transactions.
+3. The model takes into account the diversification effect by means of a structural and dynamic correlation matrix which considers the concentration and
+   diversification effects of the risk, together with the marginal redistribution of risk at single counterparty level.
+4. The main measures regularly presented are:
+      a) expected loss, representing the annual average estimated loss;
+      b) unexpected loss, representing the difference between the loss - measured on a yearly holding period at 99,93% confidence interval - and the expected
+      loss;
+      c) economic capital, measure of the capital requirement originated from the positions held in the portfolio;
+      d) stress testing measures calculated on specific variables (i.e., increase in PD, etc.), representing extreme but possibile scenarios.
+5. LGD parameters are estimated according to the “workout LGD” concept. LGD is calculated on the basis of historical recoveries and costs relating to defaulted
+   positions over several years, discounted at the proper rates and adjusted through “cure-rate” methodology.
+6. The parameters utilized to compute economic capital are the same according to the international Regulatory framework for the validated AIRB approach.
+                                                                                                                                                                    11
+
+Credit Loans Portfolio – Bonis portfolio
+          Credit risk information, included from the current slide to ahead, are based on managerial measurements.
+                                                                               September 30, 2017 - London - €/mln
+               Portfolio                 Drawn                       EAD                         EL                   Ecap             EL / EAD (bp)            Ecap / EAD %             AVG PD %
+                   Corporate                    127,32                    129,69                       0,81                7,92                         62                  6,11%                    1,50%
+                Institutional                     28,75                    28,95                       0,08                0,38                         27                  1,32%                    0,63%
+         Total                                 156,07                    158,63                       0,89                 8,31                         56                 5,24%                    1,35%
+          Loans* exposures – at September 2017 – amount to 156,07 €/mln. Expected Loss (EL) and Economic Capital (ECap**) are respectively 0,89
+          €/mln and 8,31 €/mln.
+          127,32 €/mln of exposure, almost 82% of whole portfolio, is represented by Corporate counterparts.
+          In terms of relative credit risk ratios, EL/EAD ratio is equal to 56 bps while ECap/EAD is 5,24%.
+             * The Portfolio considered, in line with the analysis made at Bank and Group level, does not include the defaulted positions according to the international Regulatory framework for the validated
+               AIRB approach.
+             ** ECap is calculated taking into account the diversification effect at the entire Group Portfolio level
+                                                                                                                                                                                                                12
+
+Credit Loans Portfolio – Top 20 – Bonis portfolio
+          Top 20 *
+          September 30, 2017 - London - €/mln
+                       Counterparty Name                                 Drawn                   EAD          EL      Ecap      EL / EAD (bp)   Ecap / EAD %
+         INTERVIAS FINCO LIMITED                                              11,34                   11,34      0,29      1,35            258    11,87%
+         MINISTERIUM CAPITAL SA                                               11,02                   11,48      0,05      0,65             44     5,67%
+         B & M EUROPEAN VALUE RETAIL SA                                       10,05                   10,24      0,04      0,27             43     2,64%
+         ORPEA SA                                                             10,00                   10,00      0,04      0,57             44     5,66%
+         PIGMENTS II BV                                                         9,19                   9,19      0,04      0,51             43     5,59%
+         PEER HOLDING B.V.                                                      9,00                   9,00      0,04      0,51             44     5,66%
+         JACOBS DOUWE EGBERTS INTERNATION                                       7,99                   7,99      0,05      0,56             66     6,95%
+         GLOBAL BLUE ACQUISITION B.V.                                           6,00                   6,00      0,03      0,34             44     5,66%
+         HSBC BANK P.L.C.                                                       5,79                   5,79      0,00      0,01               1    0,09%
+         DELFO ILFORD LIMITED                                                   5,72                   5,89      0,03      0,33             44     5,67%
+         WATERLOGIC FINANCE LIMITED                                             5,67                   5,71      0,02      0,32             43     5,59%
+         CORIALIS GROUP LIMITED                                                 5,41                   5,61      0,02      0,31             43     5,54%
+         TURKIYE VAKIFLAR BANKASI T.A.O.                                        5,00                   5,00      0,02      0,05             31     0,98%
+         YAPI VE KREDI BANKASI A.S.                                             5,00                   5,00      0,02      0,05             31     0,98%
+         SPIE SA                                                                5,00                   5,00      0,02      0,28             43     5,52%
+         TI EX PANSION SA                                                       4,67                   4,67      0,02      0,27             44     5,71%
+         PLINIUS LIMITED                                                        4,54                   4,56      0,02      0,26             44     5,76%
+         QATAR LIQUEFIED GAS COMPANY LIMI                                       4,34                   4,34      0,00      0,03               1    0,64%
+         ACR II B.V.                                                            3,53                   3,88      0,02      0,22             43     5,66%
+         1908 ACQUISITION BV                                                    3,50                   3,50      0,02      0,20             43     5,62%
+                                         Total                               132,75                 134,19       0,79      7,07             59     5,27%
+           * Counterparties highlighted represent new entries in portfolio compared with the previous quarter
+                                                                                                                                                             13
+
+Credit Loans Portfolio – quality distribution – Bonis portfolio
+                                       Basis point                                On September 2017, the measurement of Exposures At Risk
+               Master Scale                              S&P's Rating Description
+                                   from           to                              (EAD), in terms of internal-external ratings (according to the
+           Highest Quality (IG)      -                16   AAA / A-               MPS Master Scale), results in the following counterparties
+                                                                      Investment
+            Good Quality (IG)            16           56 BBB+ / BBB-              distribution (as also represented in the graph below):
+             Fair Quality (SG)           56          298  BB+ / BB-               • Speculative Grade Class about 91% (see Fair and
+                                                                      Speculative
+         Speculative Quality (SG)       298        1.774   B+ / B-                   Speculative classes);
+         Hight Default Quality (W)   1.774       10.000   CCC+ / D      Watch
+                                                                                  • Investment Grade about 9%.
+                                                                                                                                                 14
+
+Credit Loans Portfolio – Default portfolio
+                  Default portfolio
+                  September 30, 2017 - London - €/mln
+                              Counterparty Name                    Drawn               EAD                  EL           LGD
+                  MONDIAL WINE LIMITED                              0,97               0,97                0,55        56,46%
+                  AL EZZ FLAT STEEL CO                             0,63               0,63                 0,36        56,40%
+                                          Total                    1,60               1,60                 0,90        56,44%
+                   Defaulted loans exposures – at September 2017 – amount to 1,60 €/mln. Expected Loss (EL) is equal to 0,90 €/mln.
+                   LGD of Mondial Wine Limited, which represents almost 61% of total default exposures, is 56,46%.
+                                                                                                                                    15
+
+16

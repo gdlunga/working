@@ -1,0 +1,1235 @@
+                             Group Risk Appetite Statement 2019
+                                    Risk Frameworks Review
+Direzione Chief Risk Officer
+October 2018
+
+RAS 2019 – Review dei Framework di Risk Management
+    Nell’ambito del Risk Appetite Framework (RAF) è prevista una revisione almeno annuale («Risk Appetite Review», RAR) dell’impianto metodologico complessivo.
+    In questa ottica sono presentate le principali modifiche metodologiche ai Risk Frameworks individuate dalla Funzione Risk Management di Gruppo, ai fini del processo RAS 2019-
+     2021 (Risk Appetite Statement per l’anno 2019).
+    I Framework di rischio modificati sostanzialmente rispetto ai modelli usati e comunicati al Supervisor in occasione dell’invio degli ultimi ICAAP e ILAAP Packages (Aprile 2018 sulle
+     risultanze riferite al 31-12-2017) sono:
+               • Credit Risk Framework;
+               • Liquidity Risk Framework;
+               • Strategic Risk Framework;
+ A livello di processo, il Consiglio di Amministrazione - previo passaggio in Comitato Rischi - è coinvolto nell’esame e approvazione delle modifiche sostanziali ai modelli di rischio e
+ sulle proposte metodologiche in materia Risk Appetite Framework (RAF).
+ Il Comitato Gestione Rischi (sulla base delle previsioni normative della Direttiva RAF di Gruppo D01930 e del Regolamento n.1) è chiamato ad esprimere una Validazione Preliminare
+ con rilascio di Parere a beneficio degli Organi Aziendali.
+                                                                                                                                                                                           2
+
+Credit Risk Framework– Evoluzione delle metriche di misurazione degli RWA
+  Nel quantificare i requisiti patrimoniali AIRB nel triennio oggetto di rilevazione RAS 2019 (anni 2019-2021), MPS utilizzerà come base di partenza le calibrazioni dei parametri di
+   PD e LGD oggetto di notifica ex ante alla BCE nel corso del terzo trimestre del 2018, già oggetto di comunicazione il 31 agosto 2018.
+   Sulla base delle ultime evidenze disponibili dei primi trimestri del 2018 verranno, se necessari, effettuati alcuni fine tuning sui parametri AIRB per un loro utilizzo flat nel periodo
+   2019-2021. Tale scelta risulterà in linea di principio prudenziale, dato che il miglioramento del quadro macroeconomico previsto nell’orizzonte triennale dovrebbe portare da un
+   lato alla riduzione del tasso di default e conseguentemente al miglioramento degli anchor point utilizzati per la calibrazione dei parametri di PD, dall’altro sia al progressivo
+   miglioramento dei cure rate sul portafoglio in Past Due e UtoP, sia all’incremento dei tassi di recupero sulle posizioni segnalate in sofferenza, ottenuto anche grazie all’utilizzo
+   della piattaforma Juliet, con riflessi quindi migliorativi sul tasso di LGD.
+  Rispetto al framework precedente, tuttavia, la principale variazione sulle modalità di calcolo dei RWA è relativa al portafoglio AIRB in default. Secondo le attuali regole, il
+   Gruppo segnala RWA su questi crediti in base alle limitations imposte dall’Autorità di Vigilanza a fine giugno 2018 sui portafogli Small Business e PMI, oggetto di ispezione nel
+   2015.
+   Il Gruppo, alla fine del primo trimestre 2019, farà istanza formale per ottenere da parte della BCE l’approvazione del nuovo modello sulla LGD dei Defaulted Asset, in linea con il
+   piano di roll-out; in attesa di tale approvazione, il Gruppo applicherà prudenzialmente le predette limitations a tutto il portafoglio AIRB.
+  Come effettuato nel RAS 2018-2020, per la stima del costo del credito del triennio 2019-2021 MPS utilizzerà l’attuale framework IFRS9 che sarà oggetto, nel quarto trimestre
+   del 2018, di aggiornamento in termini di serie storiche utilizzate per la stima di PD, LGD e NPE Sales.
+                                                                                                                                                                                            3
+
+Liquidity Risk Framework – Evoluzione dello Stress Test Framework                                                                                                            (1/5)
+  La posizione di liquidità e la relativa valutazione in termini di adeguatezza viene monitorata sia in condizioni di normale corso degli affari, sia in condizione di tensione di liquidità,
+   attraverso l’esecuzione di un impianto di prove di stress declinato all’interno del Liquidity Stress Test Framework. Il Liquidity Stress Test Framework è pertanto costituito
+   dall’insieme di approcci metodologici e di processi che consentono di valutare l’esposizione al rischio di liquidità in condizioni di turbolenza dei mercati o di tensioni specifiche.
+  Gli stress test di breve termine rappresentano una delle componenti fondamentali del Liquidity Stress Test Framework e si declinano attraverso un insieme di scenari di stress che
+   vanno a incidere sui fattori di rischio maggiormente rilevanti per l’analisi della tenuta della posizione di liquidità del Gruppo. Tale insieme di scenari di stress viene rivisto dalla
+   Funzione di Controllo del Rischio di Liquidità con cadenza almeno annuale o qualora emerga l’esistenza di un nuovo fattore di rischio.
+  Le modifiche proposte riguardano:
+        Il trattamento delle Controllate Estere;
+        L’aggiunta di un nuovo scenario di stress «Incremento margini iniziali per Cassa Compensazione e Garanzia»;
+        La Revisione del calcolo del Time-to-Survival stressato.
+                                                                                                                                                                                               4
+
+Liquidity Risk Framework – Evoluzione dello Stress Test Framework                                                                                                              (2/5)
+ Trattamento delle Controllate Estere
+  La cessione o il processo di run-off previsto per le Controllate Estere Monte Paschi Banque e Banca Monte Paschi Belgio all’interno del Piano di Ristrutturazione potrebbe
+   comportare significativi impatti in termini di liquidità, pertanto si è scelto di inserire tra gli stress test di breve termine di carattere idiosincratico un nuovo scenario che tenga in
+   considerazione tale nuovo fattore di rischio.
+   Poichè il Commitment 14 prevedeva come data cut-off il 30 Giugno 2018, lo scenario denominato «Run-off Foreign Subsidiaries» è stato applicato a partire da tale data, previa
+   approvazione da parte del CRO.
+  Descrizione scenario: si ipotizza il “run-off” delle Controllate Estere basato principalmente sul mancato rinnovo dei depositi in scadenza e sul ritiro dei conti correnti. Le uscite non
+   compensate dagli attivi in scadenza portano ad un sostegno finanziario temporaneo da parte della Capogruppo.
+  Approccio di stima: l’ammontare dello stress per i bucket fino a 1 mese viene ricavato sulla base dei dati resi disponibili attraverso le segnalazioni mensili LCR delle Controllate
+   Estere e comprende i soli outflows relativi ai 30 giorni successivi la data di riferimento. L’ammontare dello stress per il bucket a 1 anno viene invece ricavato a partire dai dati degli
+   NSFR delle Controllate Estere (disponibili mensilmente per Belgio e trimestralmente per Francia) e comprende tutte le passività in scadenza entro 1 anno, mitigate da tutte le
+   attività in scadenza entro 1 anno e dai proventi rivenienti dalla liquidazione dei titoli liberi. L’ammontare dello stress per i bucket intermedi tra 1 mese e 1 anno viene ricavato
+   tramite linearizzazione.
+  Analisi Impatto: l’applicazione dello scenario «Run-off Controllate Estere» ha portato a un impatto sul Time-to-Survival stressato pari a -6 giorni di calendario.
+  Evoluzioni future: nel momento in cui verrà conclusa l’operazione di vendita della controllata Banca Monte Paschi Belgio, lo scenario di stress sarà aggiornato di conseguenza per
+   riflettere il mutato contesto di rischio per il Gruppo. Eventuali linee di credito concesse all’acquirente saranno incluse nell’apposito scenario di stress relativo alla Credit Lines.
+                                                                                                                                                                                              5
+
+Liquidity Risk Framework – Evoluzione dello Stress Test Framework                                                                                                            (3/5)
+ Aggiunta nuovo scenario di stress «Incremento margini iniziali per Cassa Compensazione e Garanzia»
+  L’insorgere di nuove forti tensioni sul «rischio Paese Italia», nonché i prossimi appuntamenti di revisione del merito creditizio dell’Italia da parte delle principali agenzie di rating,
+   hanno reso indispensabile considerare tra gli scenari di stress test gestionali di liquidità anche elementi che fino ad oggi erano ritenuti a bassa probabilità di accadimento.
+  Oltre ad elementi già incorporati negli attuali scenari di stress, quali ad esempio la riduzione di controvalore della Counterbalancing Capacity a seguito di un innalzamento del
+   livello di credit spread, risulta pertanto opportuno considerare anche gli effetti che un downgrade multiplo del debito sovrano avrebbe sulla posizione di liquidità del Gruppo. Tra gli
+   effetti non ancora inclusi tra i fattori di rischio catturati dagli stress test gestionali di liquidità, vi è la potenziale richiesta di incremento di margini iniziali necessari per
+   l’operatività in repo su Titoli di Stato Italiani con Cassa Compensazione e Garanzia (CCG), per la quale si propone l’adozione di uno scenario di stress ad hoc.
+  Descrizione scenario: si ipotizza un incremento dei margini iniziali da versare a Cassa Compensazione e Garanzia per l’operatività in repo su Titoli di Stato Italiani a seguito di un
+   downgrade del debito sovrano italiano.
+  Approccio di stima: l’ammontare dello stress, istantaneo e quindi costante per tutti i bucket, viene ricavato facendo riferimento allo scenario storico avvenuto in occasione della
+   crisi del debito italiano del 2011. Da tale scenario vengono dedotti i più gravosi parametri di calcolo dei margini iniziali applicati in quella occasione dalla stessa Cassa
+   Compensazione e Garanzia per l’operatività in repo su Titoli di Stato. Tali parametri storici vengono poi applicati ai volumi attuali di operatività con CCG.
+  Analisi Impatto: l’applicazione dello scenario «Incremento margini iniziali per CCG» non porterebbe ad impatti diretti sul Time-to-Survival stressato in quanto lo scenario fa parte
+   del macro-scenario sistemico e di quello combinato, attualmente non utilizzati per il calcolo del Time-to-Survival stressato. Secondo i dati al 30/08/2018 la severity dello scenario
+   è di circa 250 €/mln.
+                                                                                                                                                                                              6
+
+Liquidity Risk Framework – Evoluzione dello Stress Test Framework                                                                                                                (4/5)
+ Revisione calcolo Time-to-Survival stressato
+  La Circ. Bankit 285/13 - “Disposizioni di Vigilanza per le banche” - nel Titolo IV, Capitolo 6, Sezione II, par.3 – Soglia di tolleranza al rischio di liquidità - Nota (2) – richiede quanto
+   segue: ”… Ferma restando la responsabilità degli organi aziendali nella determinazione della soglia di tolleranza al rischio di liquidità, l’orizzonte di sopravvivenza adottato non può
+   essere inferiore a 30 giorni.”
+  La metrica gestionale attraverso la quale viene monitorato l’orizzonte di sopravvivenza è il Time-to-Survival stressato. Il Time-to-Survival stressato viene dunque individuato come
+   il range temporale nel quale il Buffer di Liquidità Post Stress (dato dalla differenza tra il Profilo di Liquidità Operativa e l’assorbimento di un sottoinsieme degli stress test di
+   liquidità di breve termine) si annulla: questa grandezza, quindi, definisce il tempo di sopravvivenza della Banca in caso di realizzazione di situazioni avverse nell’andamento del
+   mercato o di natura specifica.
+  Attualmente il sottoinsieme di scenari di stress utilizzato per la determinazione del Time-to-Survival stressato è il più severo tra l’insieme degli scenari di stress idiosincratico
+   (corsa agli sportelli, tiraggio linee di credito, svalutazione auto covered bond, etc.) e l’insieme degli scenari di stress sistemico (aumento credit spread, curve dei tassi, etc.),
+   poiché si ipotizzava che fosse poco probabile un’occorrenza simultanea di entrambe le situazioni di stress.
+  Descrizione scenario e Approccio di stima: Alla luce del mutato contesto in cui opera il Gruppo, nonché considerata la forte interdipendenza esistente con lo Stato, si propone
+   l’inserimento, a fianco di uno stress di carattere idiosincratico e di uno di carattere sistemico, anche di uno stress di liquidità di natura combinata, ovvero che unisca al suo interno
+   elementi sia Bank specific che macroeconomici, attraverso una selezione plausibile e coerente degli scenari già esistenti.
+   Tale scelta garantisce inoltre una maggiore coerenza interna con l’impianto di stress test presente nel Recovery Plan di Gruppo, già caratterizzato dalla presenza dei macroscenari
+   Sistemico, Idiosincratico e Combinato.
+  Analisi Impatto: Attualmente (dati al 30/08/2018) lo scenario combinato risulterebbe essere, sui nodi del Profilo di Liquidità Operativa utilizzati per il calcolo del Time-to-Survival
+   stressato, ovvero 3 mesi e 4 mesi, meno severo rispetto allo scenario puramente idiosincratico. Al momento, pertanto, l’introduzione di uno scenario combinato non condurrebbe
+   a impatti sul Time-to-Survival stressato.
+                                                                                                                                                                                                 7
+
+Liquidity Risk Framework – Evoluzione dello Stress Test Framework (5/5)
+ Nella tabella a fianco è
+  rappresentata la proposta
+  per il 2019 relativamente
+  all’impianto di stress test di
+  breve termine.
+ Rispetto          all’impianto
+  presente nel RAS 2018,
+  sono stati aggiunti i nuovi
+  scenari «Run off controllate
+  estere» e «Incremento
+  margini iniziali per CCG».
+ È stata inoltre revisionata
+  la metodologia di calcolo
+  per il Time-to-Survival
+  stressato con l’aggiunta del
+  nuovo         macroscenario
+  Combinato.
+                                                                        8
+
+Strategic Risk Framework– Sintesi delle variazioni
+  Il rischio strategico (rif. Circolare 285/13 – Banca d’Italia – Parte Prima, Titolo III. Capitolo 1, Allegato A) è inteso come il rischio attuale e/o prospettico di incorrere in perdite
+   inattese derivanti da decisioni aziendali errate, attuazione inadeguata di decisioni, scarsa reattività a variazioni del contesto competitivo.
+  In termini di presidio qualitativo, in luogo di un approccio «expert layer» adottato in precedenza si propende per un sistema di indicatori volti a monitorare specifici ambiti/comparti
+   di business caratterizzanti le strategie deliberate.
+  In tale contesto, la componente legata a «decisioni aziendali errate» è ritenuta di secondo livello per MPS, essendo il Gruppo impegnato a realizzare un Piano di Ristrutturazione
+   concordato con la Commissione Europea.
+  D’altro canto, in specie per la componente di «inadeguata attuazione delle decisioni», il relativo rischio, per quanto, come detto, non misurato, viene gestito tramite la definizione,
+   per indicatori rilevanti che raffigurano le strategie deliberate dal CdA in sede di RAS/Budget, di opportune soglie e del relativo monitoraggio ed appropriata escalation.
+  In ottica 2019, le soglie vengono individuate su due livelli, tanto in termini di risk limits (limiti operativi) la cui gestione è in capo al CEO, quanto di soglie meno stringenti la cui
+   gestione è in capo al Comitato Rischi endoconsiliare, che, alla luce del monitoraggio periodico, valuterà una eventuale escalation nei confronti del Cda.
+                                              AS IS                                                                                         TO BE
+       1
+           Rischio di Business               “Earnings Volatility” approach
+                                              considera le componenti di Conto Economico               1   Rischio di Business             “Earnings Volatility” approach
+                                              la cui volatilità è riconducibile a decisioni                                                 considera le componenti di Conto Economico
+        APPROCCIO QUANTITATIVO                aziendali errate o inadeguata attuazione                                                      la cui volatilità è riconducibile a decisioni
+                                                                                                           APPROCCIO QUANTITATIVO
+                                                                                                                                            aziendali errate o inadeguata attuazione
+                                                                                              vs
+           Rischio Strategico               “Expert Layer” approach
+       2                                      analisi degli impatti patrimoniali e reddituali             Rischio Strategico               KRI MONITORING
+                                              derivanti dalla parziale realizzazione delle             2                                    sistema di indicatori volti a monitorare
+                                              ipotesi del piano                                                                             specifici ambiti/comparti di business
+       APPROCCIO QUALI/QUANTITATIVO
+                                                                                                                                            caratterizzanti le strategie deliberate
+                                                                                                           APPROCCIO QUALITATIVO
+                                                                                                                                                                                              9
+
+MPS Group Risk Map – Risk Relevance Classification
+MEASURED         RISKS-
+                 RISKS-TO-
+                         TO-CAPITAL                                 RISKS-
+                                                                    RISKS-TO-
+                                                                           TO-LIQUIDITY                  MEASURED
+                                         RELEVANCE CLASSES
+                      Credit Risk                                       Funding Risk
+                                                                                                             YES     FOCUS:
+                                                                                                                     FOCUS: HIGH RISKS NOT MEASURED
+                   Operational Risk                                     Liquidity Risk
+   YES                                                                                                               TREATMENT FOR NEW RAF
+              Business & Strategic Risk         HIGH
+                      Market Risk
+                                                                                                                      Reputational Risk captured via Liquidity stress
+   NO              Reputational Risk                                                                                   impacts and additional cost of funding;
+                                                                                                                      Model Risk, Emerging Risks  new potential
+                                                                                                                       risks (e.g. Cyber Crime Risk related to the
+               Interest Rate Risk in BB                         Funding Concentration Risk                             business digitalization of MPS Restructuring
+                                                                                                             YES
+                                                                                                                       Plan 2017-2021) included in Operational Risk or
+                  Counterparty Risk                               Asset Concentration Risk
+   YES                                                                                                                 (e.g. potential governance failures) considered
+                                               MEDIUM
+                      Issuer Risk                                                                                      via specific internal Pillar2 Capital Buffer
+                   Participation Risk                                                                                  comprehensive add-on.
+    NO                Model Risk
+                  Concentration Risk                               Intraday Liquidity Risk                   YES
+                   Real Estate Risk
+   YES               Country Risk
+                                                           * Correct and full realisation of strategies represents a
+              Settlement & Delivery Risk                   strictly binding element of the Restructuring Plan                Risk relevance changed with respect to RAS
+                                                LOW
+                                                           approved by Supervisory Institutions. For this reason, a          2018
+              Excessive Leverage Risk
+                                                           capital-at-risk amount is not estimated concerning
+                     Pension Risk                          Strategic Risk component.
+   NO               Residual Risk
+                                                           Expected perceived riskiness trends for 2019, with
+                     Transfer Risk                         respect to previous year identification process.
+                                                                                                                                                                        10
+
+                             Group Risk Appetite Statement 2019
+                                   Risk Identification Process
+Direzione Chief Risk Officer
+October 2018
+
+Summary
+   Introduction            3
+A. MPS Group Risk Map      5
+B. SSM Risk Map            12
+C. MPS Group Risk Taxonomy 22
+                              2
+
+Introduction – Reference Map
+                                                                                                                              Circolare 285/13 Banca d’Italia
+                                                                                                                              Le banche effettuano in autonomia un’accurata identificazione
+                                                                                                                              dei rischi ai quali sono esposte, avuto riguardo alla propria
+            CRD IV – Direttiva 2013/36 UE                                                                                     operatività e ai mercati di riferimento.
+            (Sezione II, Dispositivi, processi e
+            meccanismi degli enti, Art. 74)
+            Gli enti sono dotati di solidi dispositivi di
+            governance [] trasparenti e coerenti, di
+                                      'identificazione la
+                                      'identificazione,
+            processi efficaci per l'identificazione
+            gestione, la sorveglianza e la                                                                                                Guidelines on internal governance (EBA/GL/2017/11)
+            segnalazione dei rischi ai quali sono o                                                                                       The RMF should ensure that all risks are identified,
+                                                                                                                                                                                      identified
+            potrebbero essere esposti.                                                                                                    assessed, measured, monitored, managed and properly
+                                                                                                                                          reported on by the relevant units in the institution.
+                                                                                             RISK
+                                                                                                                                               Guidelines on ICAAP and ILAAP (EBA)
+                                                                                      IDENTIFICATION
+             Supervisory Expectations on ICAAP                                              SCOPE                                                                  framework competent authorities should
+                                                                                                                                               On risk appetite framework,
+             (ECB)                                                                                                                             ensure that they receive from institutions the following:
+             Gli enti hanno la responsabilità di attuare                                                                                       []
+             un regolare processo di identificazione di                                                                                        information on the identification of material risks the institution
+             tutti i rischi rilevanti ai quali sono o                                                                                          is or might be exposed to
+             potrebbero essere esposti.
+                                                                                                                                               [] Competent Authorities should ensure that they receive
+                                                                                                                                               from institutions:
+                                                                                                                                               • [] ICAAP and ILAAP and their key components, including
+                                                                                                                                                   inter alia risk identification
+                                                                            (EBA/GL/2018/03)
+                                                                                     /2018/03)
+                                                        SREP Guidelines (EBA/GL/2018/03
+                                                        Competent authorities should assess the ICAAP and ILAAP’s coverage of business lines, legal entities and risks to
+                                                        which the institution is or might be exposed. [] In particular, they should assess:
+                                                        • whether the ICAAP and ILAAP are implemented homogenously and proportionally for all the relevant
+                                                          institution’s business lines and legal entities with respect to risk identification and assessment
+                                                                                                                                                                                                                   3
+
+Introduction – Risk Identification Process
+                                             • Analysis of external regulation (European Union, European Central Bank, Bank of Italy,
+                                                European Banking Authority, other Supervisory Expectations)
+               EXTERNAL ENVIRONMENT
+                                             • Evaluation of main macroeconomic scenarios and of the reference operational environment
+                      ANALYSIS
+                                             • Competitors analysis, selected according to their business segments, aimed to identify
+                                                common risk sources
+                                             • Analysis of Group Business Model and strategies to be put in place in order to reach
+                BUSINESS MODEL AND                                    2016-2021 expected results
+                                                Restructuring Plan 2016-
+                STRATEGIES ANALYSIS
+                                             • Identification of risks to capital and risks to liquidity the Group is or might be exposed to; risk
+                                                relevance assessment, focusing on emerging risks and on risks arising exclusively in adverse
+                                                scenarios
+              GMPS RISK IDENTIFICATION
+                                             • Definition of Group risk taxonomy and MPS Risk Map and reconciliation with the Supervisory
+                   AND TAXONOMY
+                                                expectations (SSM Risk Map)
+                                             • Disclosure, communication and approval of MPS Risk Map by relevant Committees and BoD
+                                                                     MPS RISK MAP
+                                  Ex-ante identification of all risks which the Group is or might be exposed to, with
+                                            the purpose to include all related evaluations within the RAF
+                                                                                                                                                   4
+
+Summary
+   Introduction            3
+A. MPS Group Risk Map      5
+B. SSM Risk Map            12
+C. MPS Group Risk Taxonomy 22
+                              5
+
+MPS Group Risk Map – Risk Relevance Classification
+MEASURED         RISKS-
+                 RISKS-TO-
+                         TO-CAPITAL                                 RISKS-
+                                                                    RISKS-TO-
+                                                                           TO-LIQUIDITY                  MEASURED
+                                         RELEVANCE CLASSES
+                      Credit Risk                                       Funding Risk
+                                                                                                             YES     FOCUS:
+                                                                                                                     FOCUS: HIGH RISKS NOT MEASURED
+                   Operational Risk                                     Liquidity Risk
+   YES                                                                                                               TREATMENT FOR NEW RAF
+              Business & Strategic Risk         HIGH
+                      Market Risk
+                                                                                                                      Reputational Risk captured via Liquidity stress
+   NO              Reputational Risk                                                                                   impacts and additional cost of funding;
+                                                                                                                      Model Risk, Emerging Risks  new potential
+                                                                                                                       risks (e.g. Cyber Crime Risk related to the
+               Interest Rate Risk in BB                         Funding Concentration Risk                             business digitalization of MPS Restructuring
+                                                                                                             YES
+                                                                                                                       Plan 2017-2021) included in Operational Risk or
+                  Counterparty Risk                               Asset Concentration Risk
+   YES                                                                                                                 (e.g. potential governance failures) considered
+                                               MEDIUM
+                      Issuer Risk                                                                                      via specific internal Pillar2 Capital Buffer
+                   Participation Risk                                                                                  comprehensive add-on.
+    NO                Model Risk
+                  Concentration Risk                               Intraday Liquidity Risk                   YES
+                   Real Estate Risk
+   YES               Country Risk
+                                                           * Correct and full realisation of strategies represents a
+              Settlement & Delivery Risk                   strictly binding element of the Restructuring Plan                Risk relevance changed with respect to RAS
+                                                LOW
+                                                           approved by Supervisory Institutions. For this reason, a          2018 (see next slides)
+              Excessive Leverage Risk
+                                                           capital-at-risk amount is not estimated concerning
+                     Pension Risk                          Strategic Risk component.
+   NO               Residual Risk
+                                                           Expected perceived riskiness trends for 2019, with
+                     Transfer Risk                         respect to previous year identification process.
+                                                                                                                                                                        6
+
+MPS Group Risk Map – Risk Identification & Assessment (RISKS-TO-CAPITAL)
+RISK TYPE                                                            ASSESSMENT                                                         RELEVANCE LEVEL
+                                                                                                                                             (H,M,L)
+Credit Risk       Credit activity as core business of the Group.                                                                              HIGH
+                  Sensible credit portfolio quality improvement activities have been put in place (Siena NPL securitisations) and other
+                  have been addressed (whole NPE disposal programme as contained into MPS Restructuring Plan 2018-2021) in
+                  the last year. Overall credit risk relevance remains unchanged (high), even though with a decreasing perceived
+                  riskiness trend with respect to the previous year.
+Operational Risk The precautionary recapitalisation carried out with State support in the 2017 is likely to result in more litigations        HIGH
+                 against past capital increases. Furthermore, a key element of the ongoing Restructuring Plan is costs reduction,
+                 which will be mainly achieved by laying off 5.500 employees, who will join the Fondo di Solidarietà. This operation
+                 is also likely to result in more litigations.
+                 Another key pillar of the Restructuring Plan is a renewed operating model, aimed at improving efficiency, including
+                 an extensive automation/digitalisation of business processes which will involve the whole Group.
+                 The plan will also require a complete re-design of the bank's network by reducing the number of coordination
+                 centres and branches.
+                 This restructuring process exposes the Group to potential operational risks. Therefore, the high relevance remains
+                 unchanged with respect to previous year.
+                                                                                                                                                        7
+
+MPS Group Risk Map – Risk Identification & Assessment (RISKS-TO-CAPITAL)
+RISK TYPE                                                            ASSESSMENT                                                           RELEVANCE LEVEL
+                                                                                                                                               (H,M,L)
+Business &       Expected results of Restructuring Plan 2018-2021, in terms of economics evolution (NII & Commission growth and                 HIGH
+Strategic Risk   sensible reduction of administrative costs), will basically imply a high Business risk for the Group. Therefore, overall
+                 business risk relevance remains unchanged (high). Moreover, given 2018 mid-year and expected end-of-year
+                 results in terms of economics (lower NII & Commissions with respect to Restructuring Plan expectations), an
+                 increasing perceived riskiness trend is associated to such risk category.
+                 The implementation of pre-defined strategies, included into current MPS Restructuring Plan, represents a crucial
+                 preposition over the period 2018-2021 in order to carry the Group out of a critical situation. For such reason, the
+                 relevance level associated to strategic risk is “high” and, given the observed deviations from the expected timeline
+                 (especially referring to the disposal of foreign banks), the perceived riskiness increases with respect to previous
+                 year.
+Market Risk     The Group aims at stemming Market Risk, mainly generated by the Italian sovereign portion of FVOCI portfolio                    HIGH
+                (about 12,9 €/bn at the date of 30/06/2018), by operating a conversion of Sovereign positions. Notwithstanding
+                such strategy, incoming regulatory innovation on capital requirements calculation concerning Trading portfolio
+                (Fundamental Review of the Trading Book) and substantial exposure to Italian credit spread risk in FVOCI portfolio
+                make risk relevance assessed as “high”.
+                                                                                                                                                          8
+
+MPS Group Risk Map – Risk Identification & Assessment (RISKS-TO-CAPITAL)
+ RISK TYPE                                                             ASSESSMENT                                                       RELEVANCE LEVEL
+                                                                                                                                             (H,M,L)
+Reputational    The Group has been affected by strong problems in terms of credibility, with repercussions on its capital and                 HIGH
+Risk            liquidity position. MPS Restructuring Plan aims at attracting new clients and optimizing the relationship with existing
+                customers. The relaunch of the Bank’s commercial business will focus on Retail and Small Business customers of
+                the domestic market, through a new simplified and highly digitalised business model, with specific service lines,
+                which will also allow optimization of the value chain. In this context, restoring Group credibility towards current and
+                new customers and adopting a reputational risk framework are an essential driver in order to meet the business
+                plan, with a significant benefit in terms of profitability and of the Bank’s capital and liquidity position.
+                However, the persistence of uncertainty concerning the fact that the Group is able to carry out all targets and
+                commitments assumed under the Restructuring Plan also with reference to 2019 and the evolution of the
+                macroeconomic scenario, risk relevance is kept unchanged (high) with respect to previous year.
+                Risk relevance is kept unchanged (high).
+Interest Rate   NPE disposals push the Group balance sheet towards an “asset sensitive” structure. In particular, in case of +/- 100        MEDIUM
+Risk in Banking bps in interest rates level, at date of 30 June 2018, the Group would face variations in interest margin in a range of
+Book            [+151;-45] €/mln (pre-tax). Risk relevance is assessed as “medium”.
+Counterparty    MPS Group holds around 4,7 €/bn of regulatory exposure-at-default (EAD) at the date of 30/06/2018. Repurchase               MEDIUM
+Risk            agreements are expected to be realised with institution counterparties with high level of creditworthiness. An
+                increase of exposure in derivatives held with central counterparties is expected too. Risk relevance is assessed as
+                “medium”.
+Issuer Risk     Risk relevance is kept unchanged (“medium”). A Group strategy of partial disposal of Corporate & Financial bonds            MEDIUM
+                portfolio will not make relevant changes about the perceived riskiness with respect to the previous year.
+                                                                                                                                                        9
+
+MPS Group Risk Map – Risk Identification & Assessment (RISKS-TO-CAPITAL)
+RISK TYPE                                                              ASSESSMENT                                                       RELEVANCE LEVEL
+                                                                                                                                             (H,M,L)
+Participation Risk Similarly to the previous year, risk relevance is assessed as “medium”. Referring to the relevant partnership with       MEDIUM
+                   AXA group and given the sovereign exposures of the joint venture Axa Montepaschi Assicurazione Vita (AMAV)
+                   and Axa Montepaschi Assicurazione Danni (AMAD), the observed volatility in Italian credit spread is such that an
+                   increasing perceived riskiness trend is attributed to such risk category.
+Model Risk         The validated internal models, used to estimate main risks, concern the core business of the Group; in addition, the     MEDIUM
+                   Group use internal models to estimate other risks and pricing. The incoming targeted review of Internal models
+                   (TRIM) and planned internal validation activities make the risk relevance assessed as ‘medium’.
+Concentration      The level of exposure or RWA is considered low, hence their relevance level results low.                                   LOW
+Risk and Real
+Estate Risk
+Other Risks        Their relevance level, compared to other risk categories results low.                                                      LOW
+                                                                                                                                                        10
+
+MPS Group Risk Map – Risk Identification & Assessment (RISKS-TO-LIQUIDITY)
+ RISK TYPE                                                              ASSESSMENT                                                           RELEVANCE LEVEL
+                                                                                                                                                  (H,M,L)
+Liquidity Risk     Through 2016 the Group suffered phases of severe liquidity stress with events close to real bank runs that have                 HIGH
+                   been addressed by developing a specific business plan to limit the loss of stable funding. Although past
+                   weaknesses are being addressed during last two years, risk relevance is still assessed as “high” due to current
+                   systemic tension on Italian economy.
+Funding Risk       Sustainability of the funding profile, meaning the ability to fund banking activities with stable sources of funding, has       HIGH
+                   been strongly under pressure subsequently to the liquidity crisis of the last years. Restructuring Plan 2017-2021
+                   aims to restore a balanced structure of the medium/long term liquidity profile, including the substitution of GGB and
+                   secured funding by T-LTRO II. Nevertheless, current market conditions could make difficult to achieve such result
+                   in the short term, therefore risk relevance is assessed as “high” with an increasing perceived riskiness trend.
+Funding            Risk relevance is assessed as “medium”, mainly due to the relevant share of funding raised with CSEA (Cassa per               MEDIUM
+Concentration      i Servizi Energetici Ambientali), which shows high seasonality.
+Risk
+Asset              Risk relevance is assessed as “medium”, mainly due to the relevant share of Italian Government Bonds owned by                 MEDIUM
+Concentration      the Group. Such issue is going to be addressed within Restructuring Plan 2017-2021 through a progressive
+Risk               diversification of Government Bond issuers countries.
+Intraday Liquidity Intraday Liquidity Risk is strongly linked to Short Term Liquidity Risk; risk relevance is assessed as “low”.                   LOW
+Risk
+                                                                                                                                                             11
+
+Summary
+   Introduction            3
+A. MPS Group Risk Map      5
+B. SSM Risk Map            12
+C. MPS Group Risk Taxonomy 22
+                              12
+
+   SSM Risk Map – Taxonomy and MPS evaluation
+ #     Risk Category                                              Definition                                                                  Source                                MPS Evaluation
+                       The current or prospective risk to earnings and capital arising from an obligor’s
+                                                                                                                           CEBS 01/2006 - Guidelines
+                       failure to meet the terms of any contract with the institution or its failure to perform as
+ 1 CREDIT RISK                                                                                                             on the Application of the Supervisory        Assessed, Measured, Monitored
+                       agreed. This risk includes residual risk, the credit risk in securitisation and cross-
+                                                                                                                           Review Process under Pillar 2 - pg. 39
+                       border (or transfer) risk.
+                       The current or prospective risk to earnings and capital arising from an obligor’s                   CEBS 01/2006 - Guidelines
+1.1 Default Risk       failure to meet the terms of any contract with the institution or its failure to perform as on the Application of the Supervisory                Assessed, Measured, Monitored
+                       agreed.                                                                                             Review Process under Pillar 2 - pg. 39
+    Credit             The risk that the institution will incur significant credit losses stemming from a
+                                                                                                                           EBA/GL/2014/13 – SREP Guidelines -
+1.2 Concentration      concentration of exposures to a small group of borrowers, to a set of borrowers with                                                             Assessed, Measured, Monitored
+                                                                                                                           pg. 65
+    Risk               similar default behavior or to highly correlated financial assets.
+                       The current or prospective risk to the institution’s earnings and own funds arising                 EBA/GL/2014/13 - SREP Guidelines -
+1.3 FX Lending Risk                                                                                                                                                     Assessed (not material*)
+                       from FX lending to unhedged borrowers.                                                              pg. 17
+                       Risk arising from securitisation transactions in relation to which the credit institutions
+    Securitisation                                                                                                         DIRECTIVE 2013/36/EU - Article 82
+1.4                    are investor, originator or sponsor, including reputational risks, such as arise in                                                              Assessed, Measured, Monitored
+    Risk                                                                                                                   (CRD IV)
+                       relation to complex structures or products.
+    Country Risk       The risk for an institution to incur losses due to events manifested in foreign
+                                                                                                                           BANCA D'ITALIA - Circolare 285/13 -
+1.5 (includes other    countries. It refers to exposures towards all types of counterparty (individuals,                                                                Assessed, Measured, Monitored
+                                                                                                                           Parte Prima, Titolo III, Cap. 1, Allegato A
+    Risks)             corporations, banks and public administrations).
+                       The risk for an institution to face losses due to foreign currency exchange difficulties,
+                                                                                                                           BANCA D'ITALIA - Circolare 285/13 -
+1.6 Transfer Risk      arising in case the institution lends to a borrower whose income sources are                                                                     Assessed (not material*)
+                                                                                                                           Parte Prima, Titolo III, Cap. 1, Allegato A
+                       denominated in a foreign currency.
+ASSESSMENT = A risk is identified and evaluated (as material or not material), If material, it can be managed by including risk factors into measurement model (in order to provide a quantification in terms
+of expected and/or unexepected losses) or solely defining operational limits in order to control such risk.
+MEASUREMENT = Providing a quantification in terms of expected and/or unexpected losses (RWA) for a material risk.
+MONITORING = Process put in place in order to periodically control the manifestation of a risk through pre-defined metrics (a risk can be monitored and not necessarily measured).
+                                                                                                            (*) The foreign currency lending exposure represents the 4.2% of the total lending exposure.
+                                                                                                                                                                                                              13
+
+   SSM Risk Map – Taxonomy and MPS evaluation
+ #    Risk Category                                             Definition                                                           Source                              MPS Evaluation
+                       The risk arising in the case of transactions in which debt instruments, equities,
+                       foreign currencies and commodities (excluding repurchase transactions and
+     Settlement and    securities or commodities lending and securities or commodities borrowing) are            REGULATION 575/2013/EU - Article 378
+1.7                                                                                                                                                             Assessed (not material)
+     Delivery Risk     unsettled after their due delivery dates. Therefore, it represents the risk for the       (CRR)
+                       institution to incur losses due to price differences between the agreed settlement
+                       price and its current market value.
+                       The risk arising in case recognised credit risk mitigation techniques used by             DIRECTIVE 2013/36/EU - Article 80              Not Assessed, partially
+1.8 Residual Risk
+                       institutions prove less effective than expected.                                          (CRD IV)                                       Measured(**), not Monitored
+                       The risk for an institution to face losses due to the worsening of a counterparty’s
+1.9 Migration Risk                                                                                               Internal definition                            Assessed, Measured, Monitored
+                       creditworthiness.
+                       The risk that the counterparty to a transaction could default before the final
+                       settlement of the transaction's cash flows; it refers to exposure value of derivative     REGULATION 575/2013/EU – Articles
+1.10 Counterparty Risk                                                                                                                                          Assessed, Measured, Monitored
+                       instruments, repurchase transactions, securities or commodities lending or borrowing 271-272 (CRR)
+                       transactions, long settlement transactions and margin lending transactions.
+                                                                                                    (**) LGD model captures effects deriving from guarantees inefficacy.
+                                                                                                                                                                                              14
+
+   SSM Risk Map – Taxonomy and MPS evaluation
+ #    Risk Category                                            Definition                                                       Source                         MPS Evaluation
+                     The current or prospective risk to earnings and capital arising from adverse
+                     movements in bond prices, security or commodity prices or foreign exchange
+                                                                                                               CEBS 01/2006 - Guidelines
+                     rates in the trading book. This risk can arise from market
+ 2 MARKET RISK                                                                                                 on the Application of the Supervisory  Assessed, Measured, Monitored
+                     making, dealing, and position taking in bonds,
+                                                                                                               Review Process under Pillar 2 - pg. 40
+                     securities, currencies, commodities, or derivatives (on bonds, securities,
+                     currencies, or commodities).
+                     Position risk on a traded debt instrument or equity instrument or derivative may be
+                     divided into two components: the first shall be its specific risk component and shall
+                     encompass the risk of a price change in the instrument concerned due to factors
+                     related to its issuer or, in the case of a derivative, the issuer of the underlying
+    Position Risk in                                                                                           REGULATION 575/2013/EU - Article 362
+2.1                  instrument. The general risk component shall encompass the risk of a price change                                                Assessed, Measured, Monitored
+    the Trading Book                                                                                           (CRR)
+                     in the instrument due in the case of a traded debt instrument or debt derivative to a
+                     change in the level of interest rates or in the case of an equity or equity derivative to
+                     a broad equity-market movement unrelated to any specific attributes of individual
+                     securities.
+                                                                                                               CEBS 01/2006 - Guidelines
+                     The current or prospective risk to earnings and capital arising from adverse
+2.2 FX Risk                                                                                                    on the Application of the Supervisory  Assessed, Measured, Monitored
+                     movements in currency exchange rates.
+                                                                                                               Review Process under Pillar 2 - pg. 40
+                                                                                                               CEBS 01/2006 - Guidelines
+                     The current or prospective risk to earnings and capital arising from adverse
+2.3 Commodity Risk                                                                                             on the Application of the Supervisory  Assessed, Measured, Monitored
+                     movements in [...] commodity prices [...].
+                                                                                                               Review Process under Pillar 2 - pg. 40
+                                                                                                                                                                                    15
+
+   SSM Risk Map – Taxonomy and MPS evaluation
+ #    Risk Category                                              Definition                                                   Source                            MPS Evaluation
+                       The risk arising from equity held that has been deployed in offshore branches and        EBA/GL/2014/13 - SREP Guidelines -
+2.4 Structural FX Risk                                                                                                                               Not existing
+                       subsidiaries in a currency other than the parent undertaking’s reporting currency.       pg. 18
+                       The risk to which the institution is exposed, due either to exposures to a single risk
+    Market             factor or to exposures to multiple risk factors that are correlated. It should be also
+                                                                                                                EBA/GL/2014/13 - SREP Guidelines -
+2.5 Concentration      considered concentration in complex products (e.g. structured products), illiquid                                             Assessed, Measured, Monitored
+                                                                                                                pg. 84
+    Risk               products (e.g. collateralised debt obligations (CDOs)) or products valued using mark-
+                       to-model techniques.
+    Credit Spread      The risk arising from changes in the market value of debt financial instruments due to EBA/GL/2014/13 - SREP Guidelines -
+2.6                                                                                                                                                  Assessed, Measured, Monitored
+    Risk               fluctuations in their credit spread.                                                     pg. 16
+                       The risk for the institution to incur losses due to adjustment to the mid-market
+                       valuation of the portfolio of transactions with a counterparty. That adjustment reflects
+    Credit Valuation                                                                                            REGULATION 575/2013/EU - Article 381
+2.7                    the current market value of the credit risk of the counterparty to the institution, but                                       Assessed, Measured, Monitored
+    Adjustment Risk                                                                                             (CRR)
+                       does not reflect the current market value of the credit risk of the institution to the
+                       counterparty.
+                                                                                                                                                                                   16
+
+   SSM Risk Map – Taxonomy and MPS evaluation
+ #    Risk Category                                              Definition                                                     Source                           MPS Evaluation
+    OPERATIONAL The risk of loss resulting from inadequate or failed internal processes, people and               REGULATION 575/2013/EU - Article 4
+ 3                                                                                                                                                   Assessed, Measured, Monitored
+    RISK              systems or from external events, and includes legal risk.                                   (CRR)
+    Operational Risk                                                                                              REGULATION 575/2013/EU - Article 4
+3.1                   See no 3. Operational Risk                                                                                                     Assessed, Measured, Monitored
+    (CRR definition)                                                                                              (CRR)
+                      The current or prospective risk to the institution’s earnings, own funds or liquidity       EBA/GL/2014/13 - SREP Guidelines -
+3.2 Reputational Risk                                                                                                                                Partially Monitored
+                      arising from damage to the institution’s reputation.                                        pg. 17
+                      It includes two distinct forms of risk:
+                                                                                                                                                     In relation to ii):
+                         i. risk relating to the underestimation of own funds requirements by regulatory
+                                                                                                                                                     partially Measured in Valuation
+                             approved models (e.g. internal ratings-based (IRB) models for credit risk); and      EBA/GL/2014/13 - SREP Guidelines -
+3.3 Model Risk                                                                                                                                       Adjustments, losses included in
+                         ii. risk of losses relating to the development, implementation or improper use of        pg. 93
+                                                                                                                                                     Operational Risk Requirement, not
+                             any other models by the institution for decision-making (e.g. product pricing,
+                                                                                                                                                     Monitored
+                             evaluation of financial instruments, monitoring of risk limits, etc.).
+                      The current or prospective risk of losses to an institution arising from inappropriate
+                      supply of financial services including cases of willful or negligent misconduct. It is
+                      meant as part of legal risk [], and in particular to: a) mis-selling of products, in both
+                      retail and wholesale markets, b) pushed cross-selling of products to retail customers,
+                      [] c) conflicts of interest in conducting business, d) manipulation of benchmark           EBA/GL/2014/13 - SREP Guidelines - Included in Operational Risk
+3.4 Conduct Risk
+                      interest rates, foreign exchange rates or any other financial instruments or indices to pg. 16;97                              Requirement, Monitored
+                      enhance the institution’s profits, e) barriers to switching financial products during their
+                      lifetime and/or to switching financial service providers, f) poorly designed distribution
+                      channels that may enable conflicts of interest with false incentives, g) automatic
+                      renewals of products or exit penalties, h) unfair processing of customer complaints.
+                                                                                                                                                                                       17
+
+   SSM Risk Map – Taxonomy and MPS evaluation
+ #    Risk Category                                             Definition                                                       Source                        MPS Evaluation
+    Information and
+                     The current or prospective risk of losses due to the inappropriateness or failure of the
+    Communication                                                                                             EBA/GL/2014/13 - SREP Guidelines -    Included in Operational Risk
+3.5                  hardware and software of technical infrastructures, which can compromise the
+    Technology (ICT)                                                                                          pg. 17                                Requirement, Monitored
+                     availability, integrity, accessibility and security of such infrastructures and of data.
+    Risk
+                                                                                                              EBA/RTS/2015/02 - Final Draft
+                                                                                                              Regulatory Technical Standards on the
+                                                                                                              specification of
+                     Losses or other expenses that are triggered by the breach of
+                                                                                                              the assessment methodology under      Included in Operational Risk
+3.6 Legal Risk       rules resulting in legal proceedings or in other voluntary actions with the view to
+                                                                                                              which competent authorities           Requirement, Monitored
+                     avoiding upcoming legal risks.
+                                                                                                              permit institutions to use Advanced
+                                                                                                              Measurement Approaches
+                                                                                                              (AMA) for operational risk  - pg. 15
+                     The current or prospective risk to earnings and capital arising from violations or non-                                        Assessed, Monitored
+                                                                                                              EBA/GL/2011/44 Guidelines on Internal
+3.7 Compliance Risk compliance with laws, rules, regulations, agreements, prescribed practices or ethical                                           (Losses included in Operational
+                                                                                                              Governance pg. 43
+                     standards.                                                                                                                     Risk)
+                     The risk arising from potential changes in interest rates that affect an institution's   DIRECTIVE 2013/36/EU - Article 84
+ 4 IRRBB                                                                                                                                            Assessed, Measured, Monitored
+                     non-trading activities.                                                                  (CRD IV)
+                     The risks related to the timing mismatch in the maturity and re-pricing of assets,       EBA/GL/2014/13 - SREP Guidelines -
+4.1 Repricing Risk                                                                                                                                  Assessed, Measured, Monitored
+                     liabilities and off-balance sheet short- and long-term positions.                        pg. 109
+                                                                                                              EBA/GL/2014/13 - SREP Guidelines -
+4.2 Yield Curve Risk The risk arising from changes in the slope and shape of the yield curve.                                                       Assessed, Measured, Monitored
+                                                                                                              pg. 109
+                     The risks arising from hedging exposure to one interest rate with exposure to a rate     EBA/GL/2014/13 - SREP Guidelines -
+4.3 Basis Risk                                                                                                                                      Assessed, Measured, Monitored
+                     that re-prices under slightly different conditions.                                      pg. 109
+                     The risks arising from options, including embedded options, e.g. consumers               EBA/GL/2014/13 - SREP Guidelines -
+4.4 Option Risk                                                                                                                                     Assessed, Measured, Monitored
+                     redeeming fixed-rate products when market rates change.                                  pg. 109
+                                                                                                                                                                                    18
+
+   SSM Risk Map – Taxonomy and MPS evaluation
+ #    Risk Category                                           Definition                                                            Source                              MPS Evaluation
+                    The risk resulting from an institution's vulnerability due to leverage or contingent
+    EXCESSIVE       leverage that may require unintended corrective measures to its business plan,               REGULATION 575/2013/EU - Article 4
+ 5                                                                                                                                                           Assessed, Measured, Monitored
+    LEVERAGE RISK including distressed selling of assets which might result in losses or in valuation            (CRR)
+                    adjustments to its remaining assets.
+                    Pension risk can be defined as the risk of a change (up or down) in the plan’s funding
+                                                                                                                 A Framework for Pension Risk
+                    deficit or surplus and the resulting change in the plan’s funding ratio. [] A number of
+                                                                                                                 Management - David R. Cantor and
+                    common risk factors impact a plan’s funding status; the two most important of these
+ 6 PENSION RISK                                                                                                  Brett B. Dutton                             Assessed (not material***)
+                    in terms of their influence are movements in interest rates and equity markets. Other
+                                                                                                                 Article from: Risk Management March
+                    risks, such as credit risk and longevity risk, could have a direct and meaningful
+                                                                                                                 2014 – Issue 29
+                    impact on a plan’s current funding status and long-term total cost.
+    INSURANCE       It represents the risk for an institution to pay claims for insured events. Similarly, it is
+ 7                                                                                                               -                                           Not existing
+    RISK            meant as the occurrence probability of insured events.
+    BUSINESS AND The current and/or prospective risk for the bank to incur in unexpected losses linked                                                       Assessed, Measured (only referring
+                                                                                                                 BANCA D'ITALIA - Circolare 285/13 -
+ 8 STRATEGIC        to business volatility (Business risk), wrong strategic decisions and/or poor reactivity                                                 to Business risk component),
+                                                                                                                 Parte Prima, Titolo III, Cap. 1, Allegato A
+    RISK            to competitive environment changes (Strategic risk).                                                                                     Monitored
+    REAL ESTATE     The risk to incur in losses generated by unexpected variation of prices referred to
+                                                                                                                 Internal definition                         Assessed, Measured, Monitored
+ 9 RISK             real estate assets, due to the relative market trend.
+    PARTICIPATION The risk for an institution to face losses due to participations in financial and/or non-
+10                                                                                                               Internal definition                         Assessed, Measured, Monitored
+    RISK            financial corporations.
+    SOVEREIGN
+11                  The risk for an institution to face losses due to sovereign exposures.                       Internal definition                         Assessed, Measured, Monitored
+    RISK
+                                                                                                 (***) The pension systems managed by MPS Group are monitored and in financial balance,
+                                                                                                 and concern a limited number of individuals.                                                   19
+
+    SSM Risk Map – Taxonomy and MPS evaluation
+  #    Risk Category                                              Definition                                                       Source                              MPS Evaluation
+                        The risk that an institution is not able to meet its financial obligations due to
+                                                                                                                  BANCA D'ITALIA - Circolare 285/13 -
+ 12 LIQUIDITY RISK difficulties to fund itself on the market (funding liquidity risk) and/or to liquidate its                                                 Assessed, Measured, Monitored
+                                                                                                                  Parte Prima, Titolo III, Cap. 1, Allegato A
+                        assets (market liquidity risk).
+     Intraday Liquidity The current or prospective risk that the institution will fail to manage its intraday     EBA/GL/2014/13 - SREP Guidelines -
+12.1                                                                                                                                                          Assessed, Measured, Monitored
+     Risk               liquidity needs effectively.                                                              pg. 17
+                        The risk arising when the funding structure of the institution makes it vulnerable to a
+                        single event or a single factor, such as a significant and sudden withdrawal of funds     CEBS (09/2010) - Guidelines on the
+     Funding
+                        or inadequate access to new funding. The amount that represents a funding                 management of concentration risk under
+12.2 Concentration                                                                                                                                            Assessed, Measured, Monitored
+                        concentration is an amount that, if withdrawn by itself or at the same time as similar    the supervisory review process (GL31) -
+     Risk
+                        or correlated funding sources would require the institution to significantly change its   pg. 19
+                        day-to-day funding strategy.
+                        The risk that the institution will not have stable sources of funding in the medium and
+                        long term, resulting in the current or prospective risk that it cannot meet its financial EBA/GL/2014/13 - SREP Guidelines -
+12.3 Funding Risk                                                                                                                                             Assessed, Measured, Monitored
+                        obligations, such as payments and collateral needs, as they fall due in the medium to pg. 16
+                        long term, either at all or without increasing funding costs unacceptably.
+                                                                                                                  CEBS (09/2010) - Guidelines on the
+     Asset
+                        The risk arising in case of an institution's inability to generate cash in times of       management of concentration risk under
+12.4 Concentration                                                                                                                                            Assessed, Measured, Monitored
+                        illiquidity or reduced market liquidity for certain asset classes.                        the supervisory review process (GL31) -
+     Risk
+                                                                                                                  pg. 19
+                                                                                                                                                                                            20
+
+    SSM Risk Map – Taxonomy and MPS evaluation
+  #    Risk Category                                          Definition                                                          Source                          MPS Evaluation
+                     The risk that large exposures, arisen within or across different risk categories            BCBS (04/2008) - Cross-sectorial review
+     RISK
+                     throughout an institution, produce: a) losses large enough to threaten the institution’s of group-wide identification and
+ 13 CONCENTRATIO                                                                                                                                         Assessed, Measured, Monitored
+                     health or ability to maintain its core operations, b) a material change in an institution’s management of risk concentrations - pg.
+     N
+                     risk profile.                                                                               2
+                                                                                                                 CEBS (09/2010) - Guidelines on the
+     Intra-Risk      The risk for an institution to face losses due to concentrations that may arise from        management of concentration risk under
+13.1                                                                                                                                                     Assessed, Measured, Monitored
+     Concentration   interactions between different risk exposures within a single risk category.                the supervisory review process (GL31) -
+                                                                                                                 pg. 6
+                     The risk for an institution to face losses due to concentrations that may arise from        CEBS (09/2010) - Guidelines on the
+     Inter-Risk      interactions between different risk exposures across different risk categories. The         management of concentration risk under
+13.2                                                                                                                                                     Assessed, Measured, Monitored
+     Concentration   interactions between the different risk exposures may stem from a common                    the supervisory review process (GL31) -
+                     underlying risk driver or from interacting risk drivers.                                    pg. 6
+                                                                                                                                                                                       21
+
+Summary
+   Introduction            3
+A. MPS Group Risk Map      5
+B. SSM Risk Map            12
+C. MPS Group Risk Taxonomy 22
+                              22
+
+ MPS Group Risk Taxonomy – Link to SSM Risk Map
+       MPS GROUP RISK TAXONOMY                                                                              SSM RISK MAP (Category / Sub-    Sub-Category)
+                                                            Credit Risk (Default Risk, FX Lending Risk, Migration Risk)
+ Credit Risk 1
+                                                            Sovereign Risk
+                                                            Credit Risk (Counterparty Risk)
+ Counterparty Risk
+                                                            Market Risk (Credit Valuation Adjustment Risk)
+                                                            Market Risk (Position Risk in TB, FX Risk, Commodity Risk, Structural FX Risk, Credit Spread Risk)
+ Market Risk 2
+                                                            Sovereign Risk
+ Operational Risk                                           Operational Risk (Operational Risk - CRR Def., Conduct Risk, ICT Risk, Legal Risk)
+ Model Risk 3                                               Model Risk
+                                                            Credit Risk (Default Risk, Securitisation Risk)
+ Issuer Risk
+                                                            Sovereign Risk
+(1) Credit risk refers only to lending exposures deriving from commercial activities (such as credit facilities, mortgages, etc.) and other financial transactions (such as collateral agreement, etc).
+(2) For Market Risk purpose, two measures are provided (Pillar 1 and Pillar 2 capital requirements). Within Pillar 1 scope, Banking Book positions are included into calculation of FX and Commodity
+    risk measures. Market exposures accounted into FVOCI category are included into Pillar 2 risk measures.
+(3) Relatively to point i) of definition in slide n. 10, model risk management scope in MPS Group covers only A-IRB, AMA and IRRBB models.
+                                                                                                                                                                                                        23
+
+ MPS Group Risk Taxonomy – Link to SSM Risk Map
+     MPS GROUP RISK TAXONOMY                                                                              Sub-Category)
+                                                                              SSM RISK MAP (Category / Sub-
+Interest Rate Risk BB          IRRBB (Repricing Risk, Yield Curve Risk, Basis Risk, Option Risk)
+Participation Risk             Participation Risk
+                               Credit Risk (Credit Concentration Risk)
+Concentration Risk             Market Risk (Market Concentration Risk)
+                               Risk Concentrations (Intra-Risk Concentration, Inter-Risk Concentration)
+Liquidity Risk                 Liquidity Risk (Liquidity Risk, Intraday Liquidity Risk, Funding Concentration Risk, Funding Risk, Asset Concentration Risk)
+Excessive Leverage Risk        Excessive Leverage Risk
+Real Estate Risk               Real Estate Risk
+Business & Strategic Risk      Business & Strategic Risk
+Reputational Risk              Reputational Risk
+                                                                                                                                                            24
+
+MPS Group Risk Taxonomy – Link to SSM Risk Map
+     MPS GROUP RISK TAXONOMY                                                      Sub-Category)
+                                                         SSM RISK MAP (Category / Sub-
+Settlement & Delivery Risk    Settlement & Delivery Risk
+Country Risk                  Country Risk
+Pension Risk                  Pension Risk
+Transfer Risk                 Transfer Risk
+Compliance Risk               Compliance Risk
+Residual Risk                 Residual Risk
+                                                                                                25
+
+26
+                              Group Risk Appetite Statement 2019
+                                       Key Risk Indicators
+Direzione CRO e Direzione CFO
+October 2018
+
+Index
+      Section 1 – Group KRI
+      Section 2 – Cascading Down KRI
+      Section 3 – Indicators Glossary
+                                      2
+
+RAS 2019-2021– Principali Evoluzioni
+<U+F071> Il RAS 2019-21 si pone tra gli obiettivi principali quello di includere tra i KRI di Gruppo gli indicatori principali del Recovery Plan, mirando ad integrare
+  sempre di più i due processi e ad uniformarne la governance e le attività di monitoraggio.
+<U+F071> In aggiunta agli indicatori ereditati dal Recovery Plan, la lista di KRI definiti per il Gruppo presenta quest’anno alcune novità che riguardano i seguenti
+  ambiti:
+     • Liability Quality – MREL, Minimum Requirements for Own Funds and Eligible Liabilities: introdotto in virtù della comunicazione pervenuta da parte del
+        Single Resolution Board con la quale sono stati trasmessi al Gruppo interim targets per quanto riguarda la struttura delle passività per il periodo
+        2018-2020, in previsione del vincolo regolamentare atteso dal 1° gennaio 2021;
+     • Controlli Interni – introdotto l’indicatore «Processes with Relevant Gaps»; indica il numero di processi che hanno ancora aperti almeno 1 gap con
+        rilevanza Media o Alta. Indicatore più oggettivo; sostituisce i precedenti indicatori basati sui giudizi espressi dalle Funzioni Aziendali di Controllo;
+     • Anti-Money Laundering (AML) – introduzione di un nuovo indicatore a livello di Gruppo; questo pone l’attenzione sulle segnalazioni di operazioni
+        sospette in termini di override effettuati a livello centrale sulle SOS della Rete.
+<U+F071> A livello di Legal Entity e Chief, si propone l’introduzione di determinati indicatori, volti a favorire il presidio della qualità del credito e della gestione dei
+  Non Performing Loans, in aggiunta ad indicatori di performance.
+<U+F071> Le Risk Capacity degli indicatori di Gruppo, ove definite, sono state ereditate dal Recovery Plan / RAS vigenti e sono pertanto passibili di
+  modifiche/ricalibrazioni anche alla luce delle indicazioni che saranno espresse dal Supervisor.
+<U+F071> Inoltre, come da indicazioni pervenute dal Comitato Rischi del 26/09/2018, viene prevista l’introduzione di ulteriori indicatori (KRI) – da monitorare
+  all’interno del Risk Management Report - finalizzati a catturare in maniera più stringente l’implementazione delle strategie approvate dal CdA. In funzione
+  delle relative evidenze, il Comitato Rischi potrà valutare l’interessamento in seduta plenaria del Consiglio per esaminare gli impatti della eventuale
+  deviazione dalle strategie predefinite. La proposta su tali indicatori sarà sottoposta al Comitato Rischi successivamente, alla luce dell’approvazione da
+  parte del CdA delle strategie e del cascading down del RAS.
+                                                                                                                                                                      3
+
+RAS 2019-2021– Group KRI
+    GRUPPOMONTEPAS CHI                                                                                                     Risk Appetite Statement 2019
+                                                                                            Appetite Appetite Appetite           Tolerance Tolerance Tolerance Capacity Capacity Capacity Regulatory
+                                                                                      U.M.                                  vs
+                                                                                            FY 2019E FY 2020E FY 2021E               1Y        2Y        3Y       1Y        2Y      3Y     Minimum §
+                              CET1 Ratio (°)                                            %                                    >                                  10,63%    10,69%  10,75%      10,13%
+    Capital Adequacy          Tier 1 Ratio (°)                                          %                                    >                                  12,13%    12,19%  12,25%      11,63%
+                              Total Capital Ratio (°)                                   %                                    >                                  14,13%    14,19%  14,25%      13,63%
+                              Net Cash Position 1M / Total Assets                       %                                    >
+                              LCR                                                       %                                    >                                    120%      120%    120%        100%
+    Liquidity Adequacy        NSFR (1)                                                  %                                    >                                    102%      102%    102%        100%
+                              Weighted Average Cost of wholesale funding               bps                                   <                                       95        95      95
+                              Gross Asset Encumbrance Ratio                             %                                    <                                     36%       36%      36%
+    Leverage                  Leverage Ratio (°)                                        %                                    >
+                              NPE Ratio                                                 %                                    <
+                              Texas Ratio                                               %                                    <
+    Asset & Liability Quality Coverage NPE Ratio                                        %                                    >
+                              Growth Rate of gross Non Performing Exposures             %                                    <
+                              Minimum Requirements of Eligible Liabilities (MREL) (2)   %                                    >
+                              RAROC                                                     %                                    >
+                              Net Margin                                              €/mln                                  >
+    Performance
+                              ROE                                                       %                                    >
+                              Operational Losses/Net Operating Revenues                 %                                   <
+                              Processes with Relevant Gaps                            num.                                   <
+    Internal Controls         AML - Suspicious Transaction Reports                      %                                    <
+                              IT Risk: High/Very High Risk Resources                  num.                                   <
+    Related Parties           Total Exposures on Related Parties / Eligible Capital     %                                    <
+                New Indicator                                                                      (°) Transitional ratios
+                                                                                                   (§) Valori minimi al 01-01-2019 per i Capital Adequacy Ratios da ultima SREP Decision (19-06-2017). Il valore
+                                                                                                   minimo per LCR è stabilito dal Reg UE 575/13 (CRR)
+                                                                                                   (1) Regulatory minimum del 100% a partire dal 2022 (CRR2)                                                     4
+                                                                                                   (2) Espresso come percentuale del Total Risk Exposure Amount atteso (Exp. TREA).
+
+Index
+      Section 1 – Group KRI
+      Section 2 – Cascading Down KRI
+      Section 3 – Indicators Glossary
+                                      5
+
+RAS 2019-2021– Unit Identification Perimeter
+                                                                                  <U+27A2> I KRI Primari di Gruppo vengono declinati solo sui C-Level e sulle Legal Entity.
+ RAS 2018                                            RAS 2019                     <U+27A2> I Risk Limits (limiti operativi gestionali) sono declinati sui livelli sottostanti ai
+                                                                                     C-Level e anche sulle Legal Entity
+                        WEALTH            Fiduciaria
+  GMPS                                                GMPS
+                                           MPSCS
+                        RETAIL                                         WIDIBA
+           CCO                            MPS L&F
+                      CORPORATE                                         COG
+                                                                                         WEALTH                     Fiduciaria
+                                         MPS Belgio
+                        WIDIBA
+                                                                    CCO                  RETAIL
+                                                                                                                     MPSCS
+                                         MP Banque
+                        PE Dept.
+           CLO                                                                         CORPORATE                    MPS L&F
+                       NPE Dept.
+                                                                                                                   MP Banque
+                                                                                         PE Dept.                                         Quantitative
+                                                                                                                                          KRI
+                        Finance                                     CLO
+           CFO                                                                          NPE Dept.
+                                                                                                                                                                 Quantitative
+                         M&A                                                                                                                                     & Qualitative
+                                                                                         Finance                                                                 KRI
+                                                                    CFO
+                         COG
+                                                                                           M&A
+           COO
+                       Real Estate
+                                                                    COO                 Real Estate
+          CHCO
+                                                                   CHCO
+                     <U+25AA> Control Functions
+            Other                                                                    <U+25AA> Control Functions
+                     <U+25AA> HO Staff                                         Other
+                                                                                     <U+25AA> HO Staff
+                                                                                                                                                                              6
+                                                              Explicit RAF cascading down               Implicit RAF cascading down
+
+RAS 2019-2021– Key Risk Indicator: MPS Capital Services
+    MPS CAPITAL SERVICES                                                              Risk Appetite Statement 2019
+                                                                                U.M. Appetite    vs   Tolerance   Capacity
+                                 CET1 Ratio (°)                                  %                >
+    Capital Adequacy
+                                 Total Capital Ratio (°)                         %                >
+    Liquidity Adequacy           Gap Ratio 1Y                                    %                >
+    Leverage                     Leverage Ratio (°)(*)                           %                >
+    Asset Quality                Growth Rate of gross Non Performing Exposures   %                <
+    Performance                  RAROC                                           %                >
+    Internal Controls            IT Risk: High/Very High Risk Resources        num.               <
+    (°) Transitional ratios
+    (*) I valori sono stimati considerando le operazioni infragruppo.
+                    New Indicator
+                                                                                                                           7
+
+RAS 2019-2021– Key Risk Indicator: MPS Leasing & Factoring
+    MPS LEASING & FACTO RING                                                          Risk Appetite Statement 2019
+                                                                                U.M. Appetite    vs   Tolerance   Capacity
+                                 CET1 Ratio (°)                                  %                >
+    Capital Adequacy
+                                 Total Capital Ratio (°)                         %                >
+    Liquidity Adequacy           Gap Ratio 1Y                                    %                >
+    Leverage                     Leverage Ratio (°)(*)                           %                >
+    Asset Quality                Growth Rate of gross Non Performing Exposures   %                <
+    Performance                  RAROC                                           %                >
+    Internal Controls            IT Risk: High/Very High Risk Resources        num.               <
+    (°) Transitional ratios
+    (*) I valori sono stimati considerando le operazioni infragruppo.
+                    New Indicator
+                                                                                                                           8
+
+RAS 2019-2021– Key Risk Indicator: WIDIBA
+    WIDIBA                                                                                      Risk Appetite Statement 2019
+                                                                                          U.M. Appetite    vs   Tolerance   Capacity
+                                 CET1 Ratio (°)                                            %                >
+    Capital Adequacy
+                                 Total Capital Ratio (°)                                   %                >
+    Liquidity Adequacy           Gap Ratio 1Y                                              %                >
+    Leverage                     Leverage Ratio (°)(*)                                     %                >
+    Asset Quality                Growth Rate of gross Non Performing Exposures             %                <
+    Performance                  RAROC                                                     %                >
+                                 IT Risk: High/Very High Risk Resources                  num.               <
+                                 IT Risk: High/Very High Risk IT Unit                    num.               <
+    Internal Controls
+                                 Major incidents on IT Resources                         num.               <
+                                 IB frauds (1)                                           €/mln              <
+    (°) Transitional ratios
+    (*) I valori sono stimati considerando le operazioni infragruppo.
+    (1) Importo complessivo delle perdite subite dalla clientela a causa di frodi su IB.
+                    New Indicator
+                                                                                                                                     9
+
+RAS 2019-2021– Key Risk Indicator: MP Banque
+    MP BANQ UE                                                                      Risk Appetite Statement 2019
+                                                                              U.M. Appetite    vs   Tolerance   Capacity
+                               CET1 Ratio (°)                                  %                >
+    Capital Adequacy
+                               Total Capital Ratio (°)                         %                >
+                               LCR                                             %                >
+    Liquidity Adequacy
+                               NSFR                                            %                >
+    Leverage                   Leverage Ratio (°)                              %                >
+    Balance Sheet              Total Assets                                  €/mln              <
+    Asset Quality              Growth Rate of gross Non Performing Exposures   %                <
+    Performance                RAROC                                           %                >
+    (°) Transitional ratios
+                  New Indicator
+                  Deleted Indicator
+                                                                                                                         10
+
+RAS 2019-2021– Key Risk Indicator: Consorzio Operativo di Gruppo
+       COG                                                                                                                                                    Risk Appetite Statement 2019
+                                                                                                                                                            U.M.     Appetite   vs Tolerance
+       Performance                Operational Losses (A)                                                                                                   €/mln                 <
+                                  IT Risk: High/Very High Risk Resources (1)(2)                                                                            num.                  <
+                                  IT Risk: High/Very High Risk IT Units (3)                                                                                num.                  <
+       Internal Controls
+                                  Major incidents on IT Resources                                                                                          num.                  <
+                                  IB frauds (4)                                                                                                            €/mln                 <
+       (A) Dato annualizzato
+       (1) Numero di risorse IT che presentano un rischio valutato Alto/Molto Alto (come combinazione di probabilità e impatto secondo la policy metodologica adottata), non mitigabile o
+       non mitigato entro il periodo massimo di 12 mesi
+       (2) Sono incluse nel conteggio anche le risorse di natura trasversale e le risorse ITxIT (come definite dalla policy metodologica adottata)
+       (3) Numero di unità organizzative all'interno della Funzione IT che presentano un rischio valutato Alto/Molto Alto (sulla base di indicatori che misurano nel continuo una serie di
+       anomalie tecnologiche e di processo, in ottica di early warning)
+       (4) Importo complessivo delle perdite subite dalla clientela a causa di frodi su IB
+                     New Indicator
+                                                                                                                                                                                             11
+
+RAS 2019-2021– Key Risk Indicator: Chief Commercial Officer
+       CHIEF COMMERCIAL OFFICER                                               Risk Appetite Statement 2019
+                                                                            U.M.    Appetite    vs Tolerance
+                                  Total Regulatory RWA                     €/mln                <
+       Capital Adequacy
+                                  Total Internal RWA                       €/mln                 <
+       Liquidity Adequacy         Loan to Deposit Ratio (Commercial)         %                  <
+                                  Commercial Lending - Average PD (AIRB)     %                  <
+                                  Commercial Lending - Average LGD (AIRB)    %                  <
+       Asset Quality
+                                  Commercial Lending - Default Rate          %                  <
+                                  Commercial Lending - Cured Exposures (°) €/mln                 >
+                                  Operational Losses (A)                   €/mln                <
+       Performance
+                                  RAROC                                      %                   >
+       Internal Controls          IT Risk: High/Very High Risk Resources   num.                 <
+       (°) Past Due e UtoP (Rete)
+       (A) Dato annualizzato
+                                                                                                             12
+
+RAS 2019-2021– Key Risk Indicator: Chief Lending Officer
+       CHIEF LENDING OFFICER                                                              Risk Appetite Statement 2019
+                                                                                        U.M.    Appetite    vs Tolerance
+       Capital Adequacy          Total Regulatory RWA                                  €/mln                <
+                                 Commercial Lending - Average PD (AIRB) on New Lending   %                  <
+                                 Commercial Lending - Cure Rate on UtoP Loans (*)        %                  >
+                                 Commercial Lending - Reduction (UtoP Loans) (*)       €/mln                 >
+       Asset Quality
+                                 Commercial Lending - Reduction (Bad Loans)            €/mln                 >
+                                 Commercial Lending - Vintage NPE                       yrs                  <
+       Internal Controls         IT Risk: High/Very High Risk Resources                num.                 <
+       (*) Rischio Anomalo e Crediti Ristrutturati
+                     New Indicator
+                                                                                                                         13
+
+RAS 2019-2021– Key Risk Indicator: Chief Financial Officer
+       CHIEF FINANCIAL OFFICER                                         Risk Appetite Statement 2019
+                                                                     U.M.    Appetite    vs Tolerance
+                             CET1 Capital (Group) (°)               €/mln                >
+                             Total Capital (Group) (°)              €/mln                >
+       Capital Adequacy
+                             Total Regulatory RWA                   €/mln                <
+                             Total Internal RWA                     €/mln                <
+                             Time to Survival under stress           days                >
+       Liquidity Adequacy
+                             Gap Ratio 3Y                             %                  >
+                             Operational Losses (A)                 €/mln                <
+       Performance
+                             RAROC (Finance Department)               %                  >
+       Internal Controls     IT Risk: High/Very High Risk Resources num.                 <
+       (°) Transitional
+       (A) Dato annualizzato
+                                                                                                      14
+
+RAS 2019-2021– Key Risk Indicator: Chief Operating Officer & Chief Human Capital Officer
+       CHIEF OPERATING OFFICER                                                                                                                        Risk Appetite Statement 2019
+                                                                                                                                                    U.M.    Appetite    vs Tolerance
+       Capital Adequacy           Total Internal RWA                                                                                               €/mln                <
+       Performance                Operational Losses (A)                                                                                           €/mln                <
+       Internal Controls          IT Risk: High/Very High Risk Resources (1)                                                                       num.                 <
+       (A) Dato annualizzato
+       (1) Sono incluse nel conteggio anche le risorse di natura trasversale e le risorse ITxIT (come definite dalla policy metodologica adottata)
+       CHIEF HUMAN CAPITAL OFFICER                                                                                                                    Risk Appetite Statement 2019
+                                                                                                                                                    U.M.    Appetite    vs Tolerance
+       Performance                Operational Losses (*) (A)                                                                                       €/mln                <
+       Internal Controls          IT Risk: High/Very High Risk Resources (1)                                                                       num.                 <
+       (*) Mainly Employments Litigations
+       (A) Dato annualizzato
+       (1) Sono incluse nel conteggio anche le risorse di natura trasversale e le risorse ITxIT (come definite dalla policy metodologica adottata)
+                                                                                                                                                                                     15
+
+Index
+      Section 1 – Group KRI
+      Section 2 – Cascading Down KRI
+      Section 3 – Indicators Glossary
+                                      16
+
+RAS 2019-2021– Indicators Glossary
+#      Category                              RAF Indicator  U.M.                                                    Definizione                                                Owner Dati a Consuntivo
+                                                                   Coefficiente di adeguatezza patrimoniale espresso dal rapporto tra CET1 Capital (transitional) e          Servizio Normativa
+1 Capital adequacy CET 1 Ratio (transitional)                 %
+                                                                   Total Regulatory RWA (requisito regolamentare).                                                           Regolamentare e Reporting
+                                                                   Coefficiente di adeguatezza patrimoniale espresso dal rapporto tra Tier 1 Capital (transitional) e        Servizio Normativa
+2 Capital adequacy Tier 1 Ratio (transitional)                %
+                                                                   Total Regulatory RWA (requisito regolamentare).                                                           Regolamentare e Reporting
+                                                                   Coefficiente di adeguatezza patrimoniale espresso dal rapporto tra Total Capital (transitional) e Total Servizio Normativa
+3 Capital adequacy Total Capital Ratio (transitional)         %
+                                                                   Regulatory RWA (requisito regolamentare).                                                                 Regolamentare e Reporting
+                                                                   Componente primaria di capitale , rappresentata principalmente dal capitale ordinario versato, dalle
+                                                                   relative riserve sovrapprezzo, dall'utile di periodo, dalle riserve, dal patrimonio di terzi (computabile Servizio Normativa
+4 Capital adequacy CET 1 Capital (transitional)            EUR/mln
+                                                                   entro determinati limiti) e da altre rettifiche regolamentari, così come previsto dal Regolamento (UE) Regolamentare e Reporting
+                                                                   N. 575/2013 (CRR) e dalla Circolare n. 285.
+                                                                   Patrimonio costituito dalla somma del patrimonio di base (Tier 1) e del patrimonio supplementare
+                                                                   (Tier 2), che viene ammesso nel limite massimo del patrimonio di base dedotte, con specifiche e           Servizio Normativa
+5 Capital adequacy Total Capital (transitional)            EUR/mln
+                                                                   dettagliate modalità, le partecipazioni e interessenze possedute in altri enti creditizi e/o finanziari   Regolamentare e Reporting
+                                                                   così come previsto dal Regolamento (UE) N. 575/2013 (CRR) e dalla Circolare n. 285.
+                                                                   Ammontare complessivo delle esposizioni ponderate per il rischio (risk weighted assets), con
+                                                                                                                                                                             Servizio Integrazione Rischi
+6 Capital adequacy Total Regulatory RWA per Business Unit  EUR/mln riferimento ai soli rischi di Primo Pilastro, così come previsto dal Regolamento (UE) N. 575/2013
+                                                                                                                                                                             e Reporting
+                                                                   (CRR) e dalle Circolare n. 285.
+                                                                                                                                                                                                          17
+
+ RAS 2019-2021– Indicators Glossary
+#       Category                              RAF Indicator       U.M.                                                     Definizione                                                Owner Dati a Consuntivo
+                                                                         Capitale interno complessivo espresso in termini di RWA Equivalent, con riferimento ai rischi di Primo Servizio Integrazione Rischi
+7 Capital adequacy Total Internal RWA per Business Unit          EUR/mln
+                                                                         e Secondo Pilastro.                                                                                        e Reporting
+                                                                         Indicatore di liquidità a breve termine a 30 giorni, dato dal rapporto tra ammontare di HQLA (High
+                                                                                                                                                                                    Servizio Rischi di Liquidità e
+8 Liquidity adequacy LCR                                            %    Quality Liquid Assets - attività liquide di elevata liquidità) e totale dei deflussi di cassa netti nei 30
+                                                                                                                                                                                    ALM
+                                                                         giorni di calendario successivi.
+                                                                         Indicatore di liquidità strutturale a 12 mesi dato dal rapporto tra ammontare disponibile di provvista Servizio Rischi di Liquidità e
+9 Liquidity adequacy NSFR                                           %
+                                                                         stabile e ammontare obbligatorio di provvista stabile.                                                     ALM
+                                                                                                                                                                                    Servizio Rischi di Liquidità e
+10 Liquidity adequacy Net Cash Position 1M / Total Assets           %    Rapporto tra la posizione netta di liquidità ad 1 mese ed il totale delle attività.
+                                                                                                                                                                                    ALM
+                                                                         Costo medio, espresso in punti base, del nuovo funding "wholesale" effettuato nel mese di                  Servizio Rischi di Liquidità e
+11 Liquidity adequacy Weighted Average Cost of wholesale funding   bps
+                                                                         riferimento, ponderato per i volumi.                                                                       ALM
+                                                                         Rapporto tra il totale delle attività collateralizzate (impegnate - lorde) e il totale delle attività      Servizio Rischi di Liquidità e
+12 Liquidity adequacy Gross Asset Encumbrance Ratio                 %
+                                                                         collateralizzabili (stanziabili - lorde).                                                                  ALM
+                                                                         Rapporto tra il totale dei flussi di cassa in entrata (inflow) ed il totale dei flussi di cassa in uscita  Servizio Rischi di Liquidità e
+13 Liquidity adequacy Gap Ratio 1Y                                  %
+                                                                         (outflow), oltre 1 anno.                                                                                   ALM
+                                                                                                                                                                                                                   18
+
+ RAS 2019-2021– Indicators Glossary
+#       Category                               RAF Indicator  U.M.                                                    Definizione                                                Owner Dati a Consuntivo
+                                                                     Rapporto tra il totale dei flussi di cassa in entrata (inflow) ed il totale dei flussi di cassa in uscita  Servizio Rischi di Liquidità e
+14 Liquidity adequacy Gap Ratio 3Y                              %
+                                                                     (outflow), oltre 3 anni.                                                                                   ALM
+15 Liquidity adequacy Loan to Deposit Ratio (Commercial)        %    Rapporto tra il totale dei prestiti commerciali ed il totale dei depositi commerciali.                     Servizio CDG e Reporting
+                                                                     Periodo di tempo (espresso in giorni) durante il quale il Gruppo è in grado di continuare ad operare
+                                                                                                                                                                                Servizio Rischi di Liquidità e
+16 Liquidity adequacy Time to Survival under stress            dd    facendo fronte a tutti i propri deflussi di cassa senza l’esigenza di ricorrere ad attività addizionali di
+                                                                                                                                                                                ALM
+                                                                     funding, in condizioni di stress.
+                                                                     Rapporto tra il Capitale di Classe 1 (Tier 1) e le Total Exposures (specifiche ai fini del calcolo del     Servizio Bilancio e
+17 Leverage           Leverage Ratio (transitional)             %
+                                                                     Leverage Ratio), inclusi gli elementi fuori bilancio.                                                      Contabilità
+                                                                                                                                                                                Servizio Bilancio e
+18 Balance Sheet      Total Assets                           EUR/mln Totale delle attività in bilancio.
+                                                                                                                                                                                Contabilità
+                                                                                                                                                                                                               19
+
+ RAS 2019-2021– Indicators Glossary
+#       Category                             RAF Indicator                U.M.                                                     Definizione                                               Owner Dati a Consuntivo
+   Asset & Liability                                                             Rapporto tra il Gross Book Value delle esposizioni creditizie per cassa e fuori bilancio verso clientela Servizio Bilancio e
+19                   NPE Ratio                                              %
+   quality                                                                       in default e il Gross Book Value dei crediti totali per cassa e fuori bilancio verso la clientela.         Contabilità
+   Asset & Liability                                                             Rapporto tra Gross NPE e la somma del patrimonio tangibile netto, patrimonio di terzi e fondi NPE. Il Servizio Bilancio e
+20                   Texas Ratio                                            %
+   quality                                                                       patrimonio netto tangibile è la differenza tra patrimonio netto e attività immateriali.                    Contabilità
+   Asset & Liability                                                             Rapporto tra rettifiche di valore sui crediti (lordi) non performing ed il totale dei crediti (lordi) non  Servizio Bilancio e
+21                   Coverage NPE Ratio                                     %
+   quality                                                                       performing.                                                                                                Contabilità
+   Asset & Liability                                                                                                                                                                        Servizio Bilancio e
+22                   Growth Rate of gross Non Performing Exposures          %    Tasso annuo di crescita dello stock di crediti deteriorati.
+   quality                                                                                                                                                                                  Contabilità
+   Asset & Liability                                                             Requisito minimo di fondi propri e di passività eleggibili in caso di bail-in (tale vincolo rappresenterà
+23                   Minimum Requirements of Eligible Liabilities (MREL)    %                                                                                                               Servizio Pianificazione
+   quality                                                                       un requisito regolamentare a partire dal 1° gennaio 2021).
+                                                                                 Flusso di default del periodo al netto dei rapporti che sono ritornati performing alla reporting date,
+   Asset & Liability                                                                                                                                                                        Servizio Credit Portfolio
+24                   Commercial Lending - Default Rate                      %    misurato in termini di utilizzo (drawn amount), con riferimento al portafoglio creditizio, rapportati allo
+   quality                                                                                                                                                                                  Models
+                                                                                 stock iniziale dei crediti performing.
+                                                                                 Esposizioni creditizie (in termini di utilizzi - drawn amount) che alla fine dell'anno precedente erano
+   Asset & Liability                                                                                                                                                                        Servizio Credit Portfolio
+25                   Commercial Lending - Cured Exposures                EUR/mln classificate come non performing (scadute, UtoP o bad loans) e che risultano performing alla
+   quality                                                                                                                                                                                  Models
+                                                                                 reporting date.
+                                                                                                                                                                                                                      20
+
+ RAS 2019-2021– Indicators Glossary
+#       Category                            RAF Indicator                   U.M.                                                   Definizione                                               Owner Dati a Consuntivo
+   Asset & Liability                                                               Probability-of-Default media del portafoglio creditizio, relativamente al solo segmento AIRB e riferita Servizio Credit Portfolio
+26                   Commercial Lending - Average PD (AIRB) on New Lending    %
+   quality                                                                         alle sole nuove erogazioni, ponderata per i singoli utilizzi (drawn amount).                             Models
+   Asset & Liability                                                               Probability-of-Default media del portafoglio creditizio (rischio di credito), relativamente al solo      Servizio Credit Portfolio
+27                   Commercial Lending - Average PD (AIRB)                   %
+   quality                                                                         segmento AIRB.                                                                                           Models
+   Asset & Liability                                                               Loss-Given-Default media del portafoglio creditizio (rischio di credito), relativamente al solo          Servizio Credit Portfolio
+28                   Commercial Lending - Average LGD (AIRB)                  %
+   quality                                                                         segmento AIRB.                                                                                           Models
+   Asset & Liability                                                               Tasso di cura delle esposizioni del portafoglio creditizio classificate come UtoP al 1° gennaio e        Servizio Credit Portfolio
+29                   Commercial Lending - Cure Rate on UtoP Loans          EUR/mln
+   quality                                                                         quindi rientrate negli stati del performing alla reporting date.                                         Models
+   Asset & Liability                                                               Esposizione creditizia lorda relativa alle attività recuperate che erano state classificate come UtoP al Servizio Credit Portfolio
+30                   Commercial Lending - Reduction (UtoP Loans)           EUR/mln
+   quality                                                                         1° gennaio e non oggetto di cura o scivolamento nel corso dell'anno.                                     Models
+   Asset & Liability                                                               Ammontare complessivo delle esposizioni creditizie lorda recuperate e che erano state classificate       Servizio Credit Portfolio
+31                   Commercial Lending - Reduction (Bad Loans)            EUR/mln
+   quality                                                                         come bad-loans al 1° gennaio.                                                                            Models
+   Asset & Liability                                                               Numero di anni di permanenza delle esposizioni nello stato di default, ponderato per l'ammontare         Servizio Credit Portfolio
+32                   Commercial Lending - Vintage NPE                        anni
+   quality                                                                         dell'esposizione.                                                                                        Models
+                                                                                                                                                                                                                      21
+
+ RAS 2019-2021– Indicators Glossary
+ #      Category                              RAF Indicator       U.M.                                                      Definizione                                           Owner Dati a Consuntivo
+                                                                         Rapporto tra il risultato netto di esercizio e l'ammontare di equity (quest'ultimo calcolato come media Servizio Bilancio e
+33 Performance       ROE                                            %
+                                                                         tra gli ammontari di inizio e fine esercizio).                                                          Contabilità
+                                                                         Indice di Performance che esprime in termini percentuali la capacità di creazione di valore per unità
+34 Performance       RAROC                                          %    di rischio assunto; calcolato come il rapporto tra la redditività caratteristica netta (NOPAT - Net     Servizio Pianificazione
+                                                                         Operating Profit After Tax) e il Capitale investito (Common Equity T1 al lordo delle deduzioni).
+                                                                         Differenza tra i ricavi totali e i costi operativi totali (spese del personale, spese amministrative,   Servizio Bilancio e
+35 Performance       Net Margin                                  EUR/mln
+                                                                         ammortamenti e svalutazioni)                                                                            Contabilità
+36 Performance       Operational Losses / Net Operating Revenues    %    Rapporto tra lo stock di perdite operative e i ricavi totali.                                           Servizio Rischi Operativi
+37 Performance       Operational Losses                          EUR/mln Stock complessivo delle perdite operative verificatesi per diverse cause.                               Servizio Rischi Operativi
+                                                                         Numero di incidenti su risorse IT classificati come “Major” secondo le soglie interne definite dalla
+38 Internal Controls Major incidents on IT Resources                n.                                                                                                           Servizio Rischi Operativi
+                                                                         banca.
+39 Internal Controls IB frauds                                   EUR/mln Importo complessivo delle perdite subite dalla clientela a causa di frodi su Internet Banking.          Servizio Rischi Operativi
+                                                                                                                                                                                 Servizio Segreteria
+40 Internal Controls Processes with Relevant Gaps                   n.   Numero di processi che hanno ancora aperti almeno 1 gap con rilevanza Media o Alta.                     Amministrativa e Supporto
+                                                                                                                                                                                 Amministratore Incaricato
+                                                                                                                                                                                                           22
+
+ RAS 2019-2021– Indicators Glossary
+#       Category                              RAF Indicator                U.M.                                                  Definizione                                                  Owner Dati a Consuntivo
+                                                                                Antiriciclaggio - Numero inattesi potenzialmente a rischio / inattesi valutati "da non segnalare" dalla
+41 Internal Controls AML - Suspicious Transaction Reports                   n.                                                                                                              Servizio AML-CFT
+                                                                                Rete (SOS).
+                                                                                Numero di unità organizzative all'interno della Funzione IT che presentano un rischio valutato «Alto»
+42 Internal Controls IT Risk - HIGH / VERY HIGH Risk IT Unit                n.  / «Molto Alto» (sulla base di indicatori che misurano nel continuo una serie di anomalie tecnologiche Servizio Rischi Operativi
+                                                                                e di processo, in ottica di early warning).
+                                                                                Numero di risorse IT che presentano rischi valutati di livello «Alto» / «Molto Alto» (come
+43 Internal Controls IT Risk - HIGH / VERY HIGH Risk Resources              n.                                                                                                              Servizio Rischi Operativi
+                                                                                combinazione di probabilità e impatto secondo la policy metodologica adottata).
+                                                                                Rapporto tra l'esposizione complessiva verso i soggetti collegati e il capitale ammissibile (somma
+                                                                                                                                                                                            Servizio Integrazione Rischi
+44 Related Parties   Total Exposures on Related Parties / Eligible Capital  %   degli elementi di capitale di classe 1 - di cui all'articolo 25 del Reg. Europeo 575/2013 - e di classe 2 -
+                                                                                                                                                                                            e Reporting
+                                                                                di cui all'articolo 71 del Reg. Europeo 575/2013 pari o inferiore a un terzo del capitale di classe 1).
+                                                                                                                                                                                                                         23
+

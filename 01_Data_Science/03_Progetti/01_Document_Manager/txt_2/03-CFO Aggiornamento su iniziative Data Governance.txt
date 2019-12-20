@@ -1,0 +1,818 @@
+ Data Governance
+Comitato Gestione Rischi (V1.1)
+     Siena, 07/11/2018
+
+Indice
+       Executive Summary
+       Sezione 1 – Iniziative di Data Governance - Remediation
+       Sezione 2 – Modello Semantico e Balanced Scorecard
+       Sezione 3 – PERDAR – BCBS239
+       Sezione 4 – GDPR
+       Sezione 5 – Principali altre Attività in corso
+       Sezione 6 – Allegati
+                                                               2
+
+Executive Summary
+                 <U+F071> La Data Governance prosegue le attività di remediation programmate:chiusura rapporti su clienti deceduti/ cessati, sostituzione/cancellazione caratteri
+                   unreadable e altri interventi sono in corso
+                 <U+F071> In collaborazione con il Data Owner Servizio Normativa Regolamentare e Reporting, sono in corso le sistemazioni sulle anomalie pregresse evidenziate
+                   dai controlli di SISBA sui vari Servizi Operazionali: dal Q1 al Q3 riduzione del 47% delle anomalie, è in corso la sistemazione di circa 700.000 anomalie
+Inziative DGOV
+ Remediation     <U+F071> Infine è in corso la remediation sul nuovo fenomeno identificato dei mutui ipotecari senza garanzia (ca. 2.400 per 230 mln€ di utilizzato) che impatta su
+                   svalutazioni di CE, sovrastima RWA e assorbimenti (ca. 6 mln€) e segnalazioni di vigilanza errate
+                 <U+F071> Sono state prodotte la Balanced Scorecard per gli Output Rilevanti (dati di sintesi) e la Balanced Scorecard Data Driven con POC su Anagrafe (dati
+                   elementari)
+       BSC
+     GDPR        <U+F071> Proseguono le attività della Data Governance, con propri cantieri progettuali, in merito ad alcuni progetti rilevanti quali il BCBS239 - PERDAR a guida
+        BCBS       CRO e il progetto GDPR a guida Compliance. Le attività sono fondamentali e abilitanti per la messa a terra della Data Discovery e del Data Lineage
+         239
+                 <U+F071> Sono in corso alcune attività di configurazione di Data Governance e prosecuzione lavori con i Data Owner, anche per indirizzare il finding #15
+                   dell’OSI 2018 Bankit:
+                   • stesura normativa Infoprovider e normativa Reporting Management
+                   • apertura ticket al business
+  Altre attività
+                   • crescita del grado di attivazione degli Output Rilevanti all’interno dei processi di Data Governance
+                   • proposta di nuova progettualità SISBA3 per rafforzamento data quality
+                 <U+F071> Infine sono in corso altre attività quali la stesura del capitolo MIS per il Recovery Plan di Gruppo, applicazione del modello di Data Governance ed in
+                   coerenza con la nuova direttiva sugli infoprovider dell’utilizzo dello score Experian per la concessione di carte di credito
+                 <U+F071> In relazione agli impegni sopra illustrati di remediation, gestione di cantieri in progetti rilevanti e l’indirizzamento di nuove attività, anche in risposta al
+                   finding #15 dell’OSI Bankit, alcuni stream del piano di lavoro sono stati ripianificati, ma il percorso di crescita della maturità della Data Governance di
+                   Gruppo rimane comunque confermato
+      Piano
+                                                                                                                                                                                    3
+
+Sezione 1 - Rendicontazione Iniziative di Data Governance
+ CLIENTI DECEDUTI E CESSATI
+ Rapporti aperti su clienti deceduti/cessati                      Evidenze presentate al Comitato rischi del 10/08/2018                                               Evidenze Prima Wave chiusura rapporti
+ Presentazione Iniziativa:                                                                                  138769
+ • Nel Comitato del 10/08 è stata presentata                                                62600                           59223
+                                                                                                                                                                         2539325393                                    Tot. 33.401
+   l’iniziativa di chiusura rapporti aperti a NDC                                                  9878                                        13793
+                                                                            7070                                  7535
+   deceduti e cessati;
+ • L’iniziativa aveva un Focus sui servizi RT, IP e
+                                                                                  779
+   PQ con proposta di chiudere quelli relativi ad                                       310              434            333              376                                        3808 2901
+   NDC con data di accensione del codice                                                                                                                                          3808 2901    410 372 328 115
+                                                                        61                                                                                                                    410 372 328 115 56 56 18 18
+   informativo precedente al 31/12/2017;                                                                                            35
+ Rendicontazione Attività                                         13                                                                                                           IP    TP  RA ES      NG    ZP RT DE FO
+                                                                                                                                                                           IP     TP    RA    ES    NG     ZP      RT     DE     FO
+ • Pianificata una prima wave di estinzione
+   massiva (entro dicembre 2018) dei rapporti con
+   perimetro NDC deceduti da più di 10 anni;                                                                                                                         Distribuzione per servizio dei rapporti aperti ad ndc
+                                                                      <2007           <2012             <2017         >=2017             n.a.
+ • Esteso perimetro ai servizi TP, RA, ES, NG ZP,                                                                                                                    deceduti e cessati da più di 10 anni, oggetto della
+   DE e FO**                                                                                         RT    PQ    IP                                                  prima wave di chiusura
+ SWIFFER UNREADABLE CHAR
+   Swiffer – Unreadable Char                                      Rendicontazione Swiffer Unreadable al 10/2018                                                      Evidenze Prima Wave cancellazione unreadable char
+                                                                                        249                                                                                                      230.591.177               239.701.527
+                                                                                                                                                                          9.110.350
+ Presentazione Iniziativa:                                                          183
+ • Nel Comitato del 10/08 è stata presentata
+   l’iniziativa di correzione dei caratteri sporchi                             131
+   (unreadable char) sui campi del DWH e                                   102
+   principali DB Operazionali attraverso la                            73
+   sostituzione dei campi non ammessi;                                                       40*
+ Rendicontazione Attività                                                                          15 15 10 11 11 10 10 11 11 12 7
+ • Sistemati i primi 239.701.527 campi su DWH e
+   DB operazionali nel mese di Ottobre 2018;
+ • Da pianificare ulteriori sistemazioni
+                                                                                                                                                                              HC                     WB                  Totale Sistemate
+                                                                               incidenza di errore per 1.000.000 di valore controllati                           I risultati saranno conteggiati nella rendicontazione Swiffer
+                                                                                                                                                                 di novembre 2018
+                                                    * La diminuzione della numerosità è stata causata da un filtro sul controllo. Nelle attività di sistemazione sono state sanate anche le anomalie escluse dal filtro.
+                                                    ** TP: Ticino Polizze, RA: Registro Antiriciclaggio, ES: Estero, NG: Carte, ZP: Polizze, DE: Dematerializzazione, FO: Fornitori, RT: Telematico, IP: Pensioni, PQ: Personale in
+                                                    Quiescenza                                                                                                                                                                            4
+
+Sezione 1 - Rendicontazione Iniziative di Data Governance
+   RECAPITI DELLA CLIENTELA ERRATI
+                                                                                                                              INTERVENTO IN CORSO
+               Scheda Attività                                                            Dettaglio Analisi
+                                                                                   Perimetro:                Applicabile a tutte le tabelle con campo email.
+                                                                                                             Analisi effettuata su tabella contenente ca 3,2 mln
+          Ambito:                 Anagrafe                                                                   di indirizzi distinti su più di 200k domini
+          Sotto Ambito:           Recapiti Clientela                               Servizio in esame         HA (anagrafe);
+          Obiettivo:              Individuazione recapiti                          Output:
+          Sotto-Obiettivo:        Individuazione indirizzi e-mail errati (domini   • individuazione caratteri non ammissibili, e possibili sostituzioni con
+                                  inesistenti o campi inconsistenti)                  validi (es. «,» sostituita con «.»);
+          Intervento Attivabili: Cancellazione/correzione centralizzata indirizzi  • Individuazione «@» multiple sullo stesso campo e possibile
+                                  e-mail errati                                       disaccoppiamento;
+                                                                                   • Analisi sui domini per individuazione domini errati e suggerimento
+                                                                                      dominio corretto (tramite funzione di similarità a basso indice)
+               Vantaggi                                                                  Evidenze E-mail
+                                                                                        CARATTERI NON AMMESSI (Casistiche)                       Remediation
+                                                                                   Indirizzi con carattere «Spazio»                      Cancellazione Carattere
+                                                                                   Multipla «@» e «..» sequenziali                       Cancellazione di un char
+                                                                                   Indirizzi Multipli                                    Separare su record diversi
+           • Pulizia dagli archivi dei campi inconsistenti;
+                                                                                   Indirizzi con caratteri non ammessi («,», «;»,        Sostituzione con «.»
+           • Evitare la diffusione sui canali di comunicazione con la clientela di ecc.)
+             indirizzi errati;
+           • Possibilità di correzione accentrata          a  basso  costo senza
+                                                                                            DOMINI ERRATI (Casistiche)                # mail        Remediation
+             coinvolgimento della Rete Commerciale.
+                                                                                   Domini con similarità pari a 1                     1.807    Correzione dominio
+                                                                                   Domini con similarità pari a 2                     3.327    Approfondimento
+                                                                                   Domini con similarità > 2                         198.495 Mantenere
+                                                                                                                                                                    5
+
+Sezione 1 - Rendicontazione Iniziative di Data Governance
+Sistemazione anomalie pregresse dei controlli SISBA (TA0060) sui Servizi Operazionali
+                                                                                                   Situazione sistemazione
+                                                                            • Il Data Owner Servizio Normativa Regolamentare e Reporting, in
+                                                                              collaborazione con la Data Governance, sta indirizzando le attività di
+                   220 tipi di anomalie su 40 Servizi Operazionali            remediation sulle anomalie evidenziate dai controlli di SISBA sui vari
+              # anomalie                                                      Servizi Operazionali (cd. controlli TA0060)
+                       1.337.647                                            • Dal Q1 2018 le attività di sistemazione hanno ridotto il numero di
+                                                                              anomalie del 47% (da 1,3 mln a 700K)
+                                         -47%
+                                                  716.153                   • Per circa il 77% delle anomalie le remediation sono state attivate e
+                                                                              prevedono degli interventi ordinari da parte dei TDS
+                                                                            • Per il restante 23% dei casi anomali la remediation è da attivare e
+                                                                              sono previste 2 modalità:
+                                                                               1. Definizione BR per il 3% dei casi
+                        Q1 2018                   Q3 2018                      2. Processo di sistemazione da determinare con il Business
+                                                                                   poiché più complessi e potrebbe essere necessaria attivare la
+                                                                                   Rete
+                                         Remediation
+                     (+ complessi)                                                           Fenomeno rilevante da sistemare
+                     140.645; 20%                                           • Per quanto riguarda gli interventi più complessi, quello di maggior
+                                                                              impatto ha rilevato «garanzie specifiche attive non associate a
+                 24.887; 3%                                                   rapporti o fidi»
+                                                                            • Si tratta di un problema di alimentazione che interessa 103.182
+                                                       550.621; 77%           garanzie per un importo garantito di circa 12,5 miliardi (Fonte
+                                                                              estrazione controlli TA0060 SISBA – FA0820)
+                                                                            • La presenza di garanzie non associate a rapporti/ fidi non genera
+                                                                              anomalie contabili, ma ha impatti sull’integrità delle segnalazioni di
+                 In corso   Da attivare con BR Processo da definire con BUS   vigilanza e altre reportistiche
+                                                                            • Il processo di risoluzione è da definire con l’Area Credit Portfolio
+                                                                              Governance e monitorato in ambito Data Governance
+                                                                                                                                                     6
+
+Sezione 1 - Rendicontazione Iniziative di Data Governance
+Nuovi Fenomeni di monitoraggio di qualità dei dati: caso Mutui ipotecari senza garanzia
+                                Numero rapporti                                                                   CONTESTO
+                                                                             • Il Data Owner Servizio Normativa Regolamentare e Reporting ha rilevato,
+                                         -2%                                   tramite i propri controlli di data quality, il mancato censimento/ raccordo delle
+                    2.399         264            313                           garanzie ipotecarie con il fido attivo
+                                                             2.350
+                                                                             • L’anomalia riguarda circa 2.400 rapporti per un utilizzo totale di circa 230 mln€,
+                                                                               con impatti su svalutazioni di Conto Economico, sovrastima RWA e maggiori
+                                                                               assorbimenti patrimoniali (ca. 6 mln€) e segnalazioni di vigilanza errate
+                                                                                                                REMEDIATION
+                                                                             • Il caso è stato discusso dal GDL composto da Data Owner, Data Governance e
+                                                                               funzioni CLO competenti
+                   Ago 2018      Nuovi        Rapporti      Set 2018
+                               Rapporti       Sistemati                      • L’analisi dei singoli casi ha evidenziato, problemi nei processi organizzativi e
+                                                                               l’impossibilità di effettuare un intervento accentrato massivo, pertanto il GdL
+                                                                               ha deciso di ingaggiare la Rete per la sistemazione
+                                      Utilizzo                               • L’intervento è coordinato dallo Staff Direzione Rete, con il supporto tecnico delle
+            Dati in K€                                                         Funzioni CLO (Servizio Gestione del Collaterale e Settore Credit Standard
+                                          +5%                                  Performing). Alcune posizioni sono classificate ad inadempienze probabili e
+                                                                               pertanto sono stai stata ingaggiata la Direzione Crediti Non Performing
+                           36.931       25.369           47        231.830   • L’intervento di sistemazione è stato attivato dal 1° ottobre e dovrebbe
+             220.315                                                           concludersi entro fine anno
+                                                                             • Il fenomeno è monitorato nell’ambito di Data Governance e i risultati saranno
+                                                                               presentati al prossimo Comitato Gestione Rischi
+                                                                             • Sono in corso di approfondimento soluzioni strutturali per evitare il generarsi del
+                                                                               fenomeno da parte della Direzione CLO
+                                                                             • La Data Governance sta valutando insieme all’IT possibili interventi applicativi
+             Ago 2018       Nuovi      Rapporti      Variazioni     Set 2018   sulle procedure (AGAR)
+                          Rapporti       usciti/       Backlog               • La Data Governance informerà Organizzazione della necessità di rafforzare/
+                                       sistemati                               rivedere il processo organizzativo
+                                                                                                                                                                   7
+
+   Sezione 2 – Modello Semantico e Balanced Scorecard
+   Il Patrimonio Informativo di Gruppo e il monitoraggio di Data Governance
+                    Il Patrimonio Informativo del Gruppo MPS                                                                                                             Rappresentazione e Monitoraggio
+                                                                                                                                                                     Modello Semantico «Ambito-Output Rilevanti»
+                                                                                                                                                                               Credito               Rischi             A/R
+                                                                                                                                                       Approccio          OR1; OR2; OR3        OR4; OR5; OR6;   OR7;
+                                                                                                                                                        Output                                     Reporting
+                                                                                                                                                                              Finanza                              Vigilanza
+ Output Rilevanti                                                                                                                                                                                    Direz.
+                                                                                                                                                       Rilevanti,         OR8;                 OR9; OR10;       OR11; OR12; …
+ (dato aggregato)
+                                                                                                                                                       con nuova
+                                                                                                                                                                              Mercato               Comm.               …
+                                                                                                                                                      definizione*
+                                                                                                                                                                          OR16; OR17; …        OR19; OR20;      ORn; ..
+                                                                                                                                                                   • L’approccio per Output Rilevanti è confermato, ma viene
+                                                                                                                                                                     modificata la definizione di Output Rilevante, per ottenere un
+                                                                                                                                                                     perimetro stabile, come detto al precedente Comitato
+                                                                                                                                                                   • Post Comitato sarà avviato l’assessment con i Data Owner per
+                                                                                                                                                                     determinazione nuovo perimetro
+                         Open
+                                                                                                                                                                              Modello Semantico «Data Driven»
+                          Data
+      Basi Dati
+(dato elementare)                                                                                                                                                                                Raccolta
+                                                                                                                                                       Approccio
+                                                                                                                           Infoprovider                                   Anagrafi                Impieghi              Contratti
+                                                                                                                              esterni
+                                                                                                                                                      Data Driven
+                                                                                                                        (CRIF, Cerved, …)
+                                                                                                                                                                                                    Servizi
+  *Nuova Definizione Output Rilevante
+                                                                                                                                                                   • L’approccio Data Driven permette di agire sul dato elementare e
+  1. OR tipo 1: Report, Informative e Flussi dati obbligatori inviati verso l’esterno (es. Segnalazioni di Vigilanza, Comunicazioni al Mercato, ecc.)
+  2. OR tipo 2: Report, Informative e Flussi dati inviati ad Organi Apicali soggetti ai criteri BCBS 239 (E-RMR, RMR, NPE Guidance, ecc.)
+                                                                                                                                                                     creare benefici cross sui dati aggregati
+  3. OR tipo 3: Report, Informative e Flussi dati previsti da relazioni contrattuali rilevanti (servicing, outsourcing, ecc.)                                      • In corso la selezione delle Basi Dati Rilevanti che impattano
+                                                                                                                                                                     maggiormente gli OR e con valutazione di rischio alta
+                                                                                                                                                                                                                                  8
+
+   Sezione 2 – Modello Semantico e Balanced Scorecard
+   Modello Semantico «Data Driven»
+                                   BDE Censite per Entità Semantica – TOTALE BDE 7894
+                                                                                                                                                                        Data Driven
+                                                                                                                                                   • Sul Modello Semantico è stata fatta una prima
+                      CLIENTI                                                    IMPIEGHI                                     CONTRATTI              classificazione delle BDE già censite relative alle
+                                                                                                                                                     Basi Dati Rilevanti: SISBA*, LDT (Sofferenze e
+Inform azioni Anagrafiche  Profilo di Rischio                                                                                                        UTP), AUI, Modello di Portafoglio e Servizio
+# BDE Censite          91  # BDE Censite      205    Linee di Credito            Garanzie                 Beni                                       CD;
+Profilo Com m erciale      Profilo AML            On Balance              Personali             Anagrafe Beni                                      • La qualità della singola Entità Semantica viene
+# BDE Censite          48  # BDE Censite      113 # BDE Censite       811 # BDE Censite     117 # BDE Censite       11    Anagrafe Prodotti          misurata attraverso il modello di Balanced
+Profilo Gestionale                                Off Balance             Reali                                        Prodotti Com m erciali        Scorecard Data Driven (cfr POC slide
+# BDE Censite         109                         # BDE Censite       597 # BDE Censite     196                        # BDE Censite          4208   successive su Entità Clienti – Informazioni
+                                                                                                                                                     Anagrafiche)
+                  CONTROPARTI                                                    RACCOLTA                                                          • In questa prima fase la riconduzione sulle entità
+                                                                                                                                                     semantiche delle BDE associate alla Base Dati
+Inform azioni Anagrafiche  Profilo di Rischio                                                                                                        Sisba è avvenuta secondo un principio di
+# BDE Censite          24  # BDE Censite        5          Diretta                Indiretta                PCT                                       prevalenza. È in corso una riconduzione
+                                                                                                                                                     analitica;
+Profilo Com m erciale      Profilo AML            Depositi                Gestita               PCT
+# BDE Censite           0  # BDE Censite        0 # BDE Censite         4 # BDE Censite       0 # BDE Censite        0   Anagrafe Strumenti        • L’introduzione dei sistemi di Data Discovery
+                                                                                                                                                     faciliterà la riconduzione semantica delle BDE, in
+Profilo Gestionale                                Em issioni              Am m inistrata                               Dom estici                    quanto       potrà    essere   automatizzato      il
+# BDE Censite           6                         # BDE Censite        43 # BDE Censite       0                        # BDE Censite          1182   collegamento delle BDE alle entità attraverso le
+                                                                                                                                                     regole di data Discovery.
+               SOGGETTI ESTERI                                                    SERVIZI
+                                                                                                                                                                      Output Rilevanti
+Inform azioni Anagrafiche  Profilo di Rischio                                                                          Esteri
+# BDE Censite           0  # BDE Censite        0          Estero         Sistemi di Pagamento        Altri Servizi    # BDE Censite             0
+                                                                                                                                                   • Le BDE relative ad Output Rilevanti che
+Profilo Com m erciale      Profilo AML            Negoziazione Divise     Carte e Pos           Digital banking
+                                                                                                                                                     contengono informazioni di sintesi continuano ad
+# BDE Censite           0  # BDE Censite        0 # BDE Censite         0 # BDE Censite       0 # BDE Censite        0                               essere classificate secondo il Modello Ambito
+                                                                                                                                                     Output Rilevante (cfr. allegato)
+Profilo Gestionale                                Trasferim enti          Rim esse
+                                                                                                                                                   • La Balanced Scorecard viene calcolata a livello
+# BDE Censite           0                         # BDE Censite       123 # BDE Censite       0
+                                                                                                                                                     di singolo Output Rilevante secondo il modello
+                                                                                                                                                     già in produzione
+                                                                                                                                                                                                      9
+
+  Sezione 2 – Modello Semantico e Balanced Scorecard
+  Balanced Scorecard Data Driven – Clienti – Informazioni Anagrafe
+                                       Bde Censite (100)     # Bde Censite      # Bde Totali
+                                                    100,00%                 91              91
+                  Data Model (20)
+                             100,00%
+                                       Bde Non Censite          # Bde non                                                             # Occorrenze    # Totale
+                                                                                # Bde Totali                      Accuratezza (30)
+                                                (0)              Censite                                                                   OK        Occorrenze
+                                                         0%                  0              91                                 99,98%     4,180 m ln    4,181 m ln • Dati Controllati la metrica
+                                                                                                                                      # Occorrenze    # Totale       utilizzata per la base di riferimento
+                                                                                                                  Correttezza (30)
+                                                                                                                                           OK        Occorrenze
+                                                                                                                                                                     è la somma dei Dati dei Technical
+                                                                                                                               97,74%    76,120 m ln   77,883 m ln
+                                                                                                Occorrenze OK                         # Occorrenze    # Totale
+                                                                                                                                                                     Data Component che fanno
+                                                                                                     (100)
+                                                                                                                    Integrità (30)
+                                                                                                                                           OK        Occorrenze      riferimento ad un’entità;
+                                                                                                           89,31%            100,00%       2767 m ln    2.767 m ln • Dati OK la metrica è la somma
+                                         Dati Controllati          # Dati                                                             # Occorrenze    # Totale       delle occorrenze dei singoli
+                                                                               # Totale Dati                      Tem pestività (5)
+                                               (100)            Controllati                                                                OK        Occorrenze      controlli riconducibili ad un’entità.
+                                                     44,24%           890 m ln      2.013 m ln                                  0,00%              0             0
+   Balanced                                                                                                                           # Occorrenze    # Totale     LEGENDA SEMAFORI
+                 Data Quality (79,95)                                                                             Com pletezza (5)
+Scorecard (100)                                                                                                                            OK        Occorrenze
+          51,61%              39,51%                                                                                            0,00%              0             0
+                                                                                                                                                                     >= 80% (per occorrenze KO <= 20%)
+                                      Dati non Controllati      # Dati non                                                            # Occorrenze    # Totale
+                                                                               # Totale Dati                      Accuratezza (30)
+                                                (0)             Controllati                                                                KO        Occorrenze
+                                                     55,76%         1.112 m ln      2.013 m ln                                  0,02%           969     4,181 m ln   50% <= X < 80% (per occorrenze KO
+                                                                                                                                      # Occorrenze    # Totale       20%<x<=50%)
+                                                                                                                  Correttezza (30)
+                                                                                                                                           KO        Occorrenze
+                                                                                                                                2,26%     1,764 m ln   77,883 m ln
+                                           Occorrenze         # Occorrenze     # Occorrenze                                           # Occorrenze    # Totale       < 50% (per occorrenze KO >50%)
+                                                                                               Occorrenze KO (0)    Integrità (30)
+                                         Sistem ate (60)        Sistem ate        KO Totali                                                KO        Occorrenze
+                                                      0,00%                  0    1,770 m ln               10,69%               0,00%         5.100     2.767 m ln
+                                                                                                                                      # Occorrenze    # Totale
+                                                                                                                  Tem pestività (5)
+                                                                                                                                           KO        Occorrenze
+                                         Occorrenze in        # Occorrenze # Occorrenze
+                 Rem ediation (0,05)
+                                       corso di Sist. (40)  in corso di sist.     KO Totali                                  100,00%               0             0
+                                                                                                                                      # Occorrenze    # Totale
+                                                                                                                  Com pletezza (5)
+                              39,81%                 99,54%         1,761 m ln    1,770 m ln                                               KO        Occorrenze
+                                                                                                                             100,00%               0             0
+                                        Occorrenze non        # Occorrenze # Occorrenze
+                                          sistem ate (0)     non sistem ate       KO Totali
+                                                      0,00%                  0    1,770 m ln
+                                                                                                                                                                                                        10
+
+Sezione 2 – Modello Semantico e Balanced Scorecard
+Modello Semantico Output Rilevanti
+                     BDE Censite per AMBITO/OUTPUT RILEVANTE: Totale BDE #2.129
+                                                                                               <U+25AA> Il Data Owner Area Credit Portfolio Governance
+                                                                                                 ha comunicato che tre report gestionali, Report
+       Credito                         # BDE 257   Rischi                            # BDE 848
+                                                                                                 D2, Stock e Flussi Contenzioso e Stock e Flussi
+       Monitoraggio Costi              # BDE  6    E-RMR (Perdar)                    # BDE 247   Rischio Anomalo non sono più in produzione e
+       Overview Portafoglio Credito -                                                            sono in corso di sostituzione nell’ambito dei Progetti
+                                       # BDE 99    LCR                               # BDE  27   Sirio/ Merlino
+       Inform ativa per il CDA
+       Mappatura Operazioni di                     Docum ento di Rendicontazione
+                                       # BDE 11                                      # BDE  68
+       Ristrutturazione                            Periodica
+                                                                                               <U+25AA> Il Data Owner Area Financial Risk Officer ha
+       Report Politiche Creditizie     # BDE 41    Inform ativa al Pubblico Pillar 3 # BDE 506   comunicato che le BDE sottostanti all’Output
+       Stock e Flussi Contenzioso      # BDE 34                                                  Rilevante RAM Monitoring sono un sottoinsieme
+       Stock e Flussi Rischio Anom alo # BDE 51    Reporting vs Mercato              # BDE 421   di quelle prodotte per l’Executive Risk
+       Report D2                       # BDE 15                                                  Management Report trimestrale in corso di analisi
+                                                   FINREP                            # BDE 421   nell’ambito del progetto BCBS239-Perdar, pertanto
+                                                                                                 il RAM Monitoring può essere eliminato dal
+                                                   Reporting Direz. E CDG            # BDE  28
+                                                                                                 perimetro
+       Segnalazioni di Vigilanza       # BDE 494
+                                                   Tableau De Bord (Progressivo)     # BDE  28 <U+25AA> Considerando la nuova definizione di Output
+       BASE A1                         # BDE 101                                                 Rilevante, essendo i report sopracitati di tipo
+       BASE Y                          # BDE 187   Finanza                           # BDE  81   gestionale si ritiene confermata l’eliminazione
+       MREL                            # BDE 206   SSM Liquidity Exercise            # BDE  81   dal perimetro, già da adesso. La nuova
+                                                                                                 mappatura degli Output Rilevanti, sulla base
+                                                                                                 della nuova definizione, sarà attivata nel Q4, post
+                                                                                                 incontro con il Comitato Gestione Rischi del 7
+                                                                                                 novembre
+                                                                                                                                                        11
+
+     Sezione 2 – Modello Semantico e Balanced Scorecard
+     Balanced Scorecard Output Rilevanti – Rilevazione Q3
+                                                                                                                   KPI REMEDIATION
+  FONTE                  OUTPUT RILEVANTE
+                                                              Kpi Data    Trend KPI Esiti  Trend
+                                                                                                    KPI      Trend  Tasso di    Trend             Trend
+                                                                                                                                                           KPI
+                                                                                                                                                                       Maturity Model        • Nel Q3 la produzione della
+                                                             Governance    T-1  Controlli   T-1                                       Tempi Medi        Qualitativo
+                                                                                                 Remediation T-1   Risoluzione   T-1               T-1                                         Balanced Scorecard degli
+Irion     Documento di Rendicontazione periodica                   87,93%   nd      73,33%   nd      100,00%   nd       100,00%   nd     100,00%    nd        95,33% Quantitavamente Gestito   Output Rilevanti è stata
+Irion     EAD                                                      56,33%           50,00%                                                                    64,76% Quantitavamente Gestito
+                                                                                                               nd                 nd                nd                                         estesa a tutti gli Output che
+Irion     Flusso SARA                                              74,37%   nd      56,25%   nd      100,00%   nd       100,00%   nd     100,00%    nd        72,89% Quantitavamente Gestito
+                                                                                                                                                                                               rendicontano la Funzione
+Irion     Informativa al Pubblico Pillar 3                         87,99%   nd     100,00%   nd                nd                 nd                nd        71,99% Quantitavamente Gestito
+                                                                                                                                                                                               Data Governance;
+Irion     LCR                                                      73,15%           64,94%            76,83%             70,00%            97,33%             80,42% Quantitavamente Gestito
+Irion     LGD                                                      78,35%           74,57%           100,00%            100,00%          100,00%              61,75% Quantitavamente Gestito
+Irion     Mappatura Operazioni di ristrutturazione                 31,16%            8,33%                                                                    61,60% Quantitavamente Gestito
+                                                                                                                                                                                             • La nuova definizione degli
+                                                                            nd               nd                nd                 nd                nd
+Irion     Monitoraggio costi                                       74,85%   nd      84,78%   nd                nd                 nd                nd        61,60% Quantitavamente Gestito
+                                                                                                                                                                                               Output Rilevanti comporterà
+Irion     PD                                                       75,65%           83,13%                     nd                 nd                nd        65,66% Quantitavamente Gestito   una revisione del perimetro
+Irion     Rating ufficiale interno                                 86,39%           89,35%            93,82%            100,00%            75,29%             75,00% Quantitavamente Gestito   di     rilevazione       della
+Irion     Tableau De Bord (Progressivo)                            78,79%           83,33%                     nd                 nd                nd        72,74% Quantitavamente Gestito   Scorecard con decorrenza il
+Man       Backup per il Regolatore                                 65,34%   nd     100,00%   nd                nd                 nd                nd        19,13%          Iniziale         Q1 2019;
+Man       BASE A1                                                  45,67%   nd      70,00%   nd        0,00%   nd         0,00%   nd                nd        58,89%         Gestito
+Man       Base Dati Sisba                                          84,75%           99,07%                     nd                 nd                nd        65,66%         Gestito         • Per ogni Output Rilevante
+Man       BASE Y                                                   62,37%           63,64%                                                                    60,69%         Gestito
+                                                                            nd               nd                nd                 nd                nd                                         sono definite anche delle
+Man       Capital Plan e Monitoraggio                              65,08%   nd     100,00%   nd                nd                 nd                nd        18,52%          Iniziale
+                                                                                                                                                                                               raccomandazioni al fine di
+Man       Controlli ex post su privacy                             41,65%   nd      25,00%   nd                nd                 nd                nd        63,86%         Gestito
+                                                                                                                                                                                               aumentare il grado di
+Man       FINREP                                                   43,52%   nd      66,55%   nd        0,00%   nd         0,00%   nd                nd        56,33%         Gestito
+                                                                                                                                                                                               maturità degli stessi rispetto
+Man       Flash Reporting                                          78,70%   nd     100,00%   nd                nd                 nd                nd        50,30%          Iniziale
+          Overview Portafoglio Credito - Informativa per il
+                                                                                                                                                                                               agli Standard di Data
+Man                                                                87,54%          100,00%                                                                    70,93%         Definito
+          CDA                                                               nd               nd                nd                 nd                nd                                         Governance
+Man       Performance Risk Adjusted                                 8,97%   nd       0,00%   nd                nd                 nd                nd        20,93%          Iniziale
+Man       Piano Recovery                                           69,54%   nd     100,00%   nd                nd                 nd                nd        28,92%         Gestito
+                                                                                                                                                                                             • Si rimanda al documento di
+Man       Report Politiche Creditizie                              63,55%   nd      50,00%   nd                nd                 nd                nd        81,63%         Definito
+                                                                                                                                                                                               Rendicontazione Periodica
+Man       Schemi e Tabelle di Nota Integrativa                     75,44%   nd      92,59%   nd                nd                 nd                nd        52,56%         Gestito
+                                                                                                                                                                                               del Q3 per le analisi dei
+Man       Svalutazione Collettiva                                  72,37%   nd      98,08%   nd                nd                 nd                nd        38,10%         Gestito
+          Valutazione della Capital Adequacy per il Gruppo e
+                                                                                                                                                                                               punteggi rilevati
+Man                                                                32,99%           33,33%                                                                    32,53%          Iniziale
+          per le singole Legal Entity                                       nd               nd                nd                 nd                nd
+   Output con BDE Censite nel Modello
+   Semantico
+                                                                                                                                                                                                                          12
+
+Sezione 3 – PERDAR – BCBS239
+Introduzione
+                                 Organizzazione Progettuale
+     La Data Governance ha la responsabilità del cantiere «Data
+     Governance» del progetto «BCBS239 Perdar» a guida dell’Area
+     Financial Risk Officer
+                                        Obiettivo di lavoro
+     L’obiettivo del cantiere è quello di effettuare un assessment di Data
+     Governance/ Data Quality in merito ai processi di produzione dei dati
+     dei report E-RMR e RMR al fine di certificarne la produzione,
+     fornendo anche delle raccomandazioni, a livello di singolo Data Owner,
+     al fine di attivare un percorso di miglioramento continuo dei processi
+     di produzione dei dati
+                                    Framework metodologico
+     La metodologia di lavoro seguita è quella del modello operativo di Data
+     Governance, in particolare la fase di assessment che prevede il
+     seguente framework metodologico
+     * Nota Metodologica: il perimetro delle BDE è stato individuato a partire dalle informazioni esposte sul report sui due report del Risk, senza proseguire nel drill-down dei dati su
+     livelli successivi/ inferiori. L’analisi in drill-down delle BDE sarà effettuata secondo il piano strategico di iniziative di Data Governance sulla base di un approccio Data Driven e
+     secondo le linee guida di lineage in corso di definizione. Pertanto anche l’assessment dei controlli di data quality farà emergere per la quasi totalità controlli di business
+                                                                                                                                                                                            13
+
+Sezione 3 – PERDAR – BCBS239
+Principali informazioni sul processo di produzione, funzioni coinvolte e architettura
+                                                                                   Funzioni
+                              BDE                                                                                                         Item Architetturali
+                                                                                   coinvolte
+                                                        Data Owner             TDS/IT       Altre Entità coinvolte
+                                                                                                                                                    Item                 #      %
+                                                                                                                                                    APP                 18 25%
+                       247                                 11                     7                    5                         71                 Input/ man adj
+                                                                                                                                                    Excel Tool *
+                                                                                                                                                                        38 54%
+                                                                                                                                                                        10 14%
+                                                                                                                                                    Infoprovider         1     1%
+                                                                                                                                                    DB/Cruscotto         4     6%
+                     204 Final                             6 CRO                                  2 Banche estere
+                     21 Fwd Looking                        4 CFO                                  1 Prometeia
+                     22 Stressed                           1 CLO                                  2 DG MPS (DO)
+                                                                                                                                                      * 9 CRO e 1 CFO
+      <U+25AA> I report E-RMR e RMR espongono                <U+25AA> Macro-processo di produzione<U+F0E0> articolato in 11             <U+25AA> L’Architettura di produzione dei dati risulta essere composta da
+        complessivamente 247 Business Data              processi.                                                      71 item architetturali (APP, DB, Tool Excel, input, …) che
+        Element (BDE) di cui 204 sono dati di                                                                          concorrono alla produzione dei due report
+        consuntivo (Final).
+                                                      <U+25AA> Presidio processi<U+F0E0>                                             • Circa il 31% (#22)** degli Item Architetturali sono rappresentati
+                                                                                                                         «APP» censite in ambito Rischi informatici. La provenienza
+                       8%                                •  Ogni processo è presidiato da 11 Funzioni
+                                                                                                                         della quasi totalità dei dati elementari necessari alla produzione
+                                                            specialistiche, cd Data Owner, supportati da 7
+                                                                                                                         delle BDE già presidiate da una valutazione di rischio
+                               Produzione da APP/DB         funzioni tecniche (Technical Data Steward)
+                                                                                                                       • Il restante 70% ca. degli item è così composto:
+                               Produzione Artigianale
+                                                         •  Inoltre nella quasi totalità dei processi intervengono       o 54% (#38) sono input/ manual adjustement (xls/ pdf)che
+            92%                                             integrazioni/ input di dati da provider interni (3               integrano una quota parte limitata di BDE (es.: flussi
+                                                            Funzioni di Capogruppo ed esterni MP Banque e                    provenienti da MP Belgio, MP Banque)
+                                                            Belgio e Prometeia
+  Il 92% delle BDE esposte nei report risk sono                                                                          o 14% (#10) sono importanti elaborazioni utente (9 CRO e 1
+  prodotte da Tool dei Data Owner (# 10), che                                                                                CFO) effettuate mediante Tool, tipicamente excel, sviluppati
+  anche se fortemente presidiati dagli stessi, in                                                                            e gestiti in house dai Data Owner e contenenti logiche di
+  quanto ne rappresentano il core business, sono                                                                             integrazione/ rielaborazione del dato prodotto.
+  un elemento di rischio da tenere conto
+                                                                                                                    ** Ca. il 6% sono cruscotti/ DB che sono a valle delle APP, pertanto
+                                                                                                                    ricompresi nelle APP stesse                                             14
+
+Sezione 3 – PERDAR – BCBS239
+Data Quality                                                                                 Dati non definitivi
+                                                                                Highlights
+                                               <U+25AA> Controlli performati da tutti i Data Owner
+                                   500-600
+                              435              <U+25AA> Controlli di business ancora incompleti delle informazioni chiave dei
+                                                 controlli (es.: soglie di individuazione anomalie)<U+F0E0> Ad oggi la
+              Nr. Controlli                      completezza anagrafica del dizionario controlli è al 53%
+                                               <U+25AA> Evidenze rendicontate per il solo 36% dei controlli
+                             31/10   30/11
+                                               <U+25AA> 500-600 controlli di business, effettuati dai Data Owner, stimati per fine
+                                                 assessment
+                                               <U+25AA> Copertura (BDE controllate) si attesta al 45%. Si stima di arrivare ad una
+                                                 copertura adeguata (80-90%) entro fine progetto
+                Copertura                      <U+25AA> Le BDE Forward Looking e Stressed (#43; 18%) sono dichiarabili in
+                                                 sicurezza in quanto garantite dal calcolo definito e normato dai Data
+                  (BDE
+               controllate)
+                                 45%             Owner
+                                               <U+25AA> Le BDE, in alcuni casi, beneficiano dei controlli effettuati da altre funzioni
+                                                 e dai controlli nativi effettuati su alcune basi dati rilevanti (es: SISBA).
+                                           112   Tuttavia in assenza di lineage non possono essere contabilizzati/
+                                           247   ricondotti puntualmente alle BDE
+                                                                                                                                15
+
+Sezione 3 – PERDAR – BCBS239
+KPI e raccomandazioni per monitoraggio percorso di miglioramento continuo                                                         Dati non definitivi
+       <U+25AA> Come illustrato il processo di produzione dei report è complesso, coinvolge molte funzioni aziendali e ha molte attività artigianali, necessarie comunque alla
+         flessibilità e variabilità dei fenomeni da monitorare nei report del Risk
+       <U+25AA> Nel complesso il processo è fortemente presidiato e le attività delle singole funzioni Data Owner garantisce l’integrità e l’affidabilità dei report E-RMR e RMR
+       <U+25AA> Comunque al fine di aumentare l’integrità e l’affidabilità dei report e proseguire nel percorso di miglioramento conitnuo, sulla base dei KPI esposti, si definiscono
+         alcune raccomandazioni, che nella relazione finale sono declinate per singolo Data Owner/ TDS:
+                                            KPI di Processo                                                                   RACCOMANDAZIONI
+                      Automazione BDE                       % Input/ manual adj*
+                                                                        50%
+                           20%        50%                                                        <U+25AA> Proseguire il percorso di automazione e riduzione degli input/manual
+                                                                                35%
+                                                                                                   adjustement già avviato con la progettualità nel 2018 (Data Owner e
+                                                                                                   TDS/IT)
+                                 33%                                  54%
+               8% ad inizio progetto                   * Non comprende i tool
+                                                                                                 <U+25AA> Dotarsi di una tecnologia atta a tracciare le variazioni sui processi excel
+                                                                                                   (Progetto BCBS239)
+                                         KPI di Data Quality
+                            # Controlli                       Completezza info                   <U+25AA> Aumentare il numero dei controlli in coerenza con gli obiettivi
+                                                                                                   regolamentari (Data Owner)
+                          435          TBD                           50%
+                                                                               80%
+                                                                                                 <U+25AA> Completare le informazioni anagrafiche del dizionario controlli,
+                                                                     53%                           soprattutto quelle prioritarie come le soglie degli esiti (Data Owner)
+                         2018          2019
+                            Copertura                        % Ctr Rendicontati                  <U+25AA> Avviare la rendicontazione dei controlli per cui non si hanno evidenze
+                                                                                                   (Data Owner)
+                                50%
+                                                                40%         70%
+                                        85%
+                                                                                                 <U+25AA> Attivare progressivamente gli Standard di Data Governance
+                               44%                                   36%                           (Documentazione, Strumenti e processi) in merito alle attività di Data
+                                                                                                   Quality (Data Owner)
+               85%-100% stima fine progetto
+                                                                                                                                                                               16
+
+Sezione 4 – GDPR
+                           Organizzazione Progettuale
+     La Data Governance ha la responsabilità/ impatti rilevanti per quanto
+     riguarda il cantiere di «Data Discovery» del progetto «GDPR»
+                                Obiettivo di lavoro
+     L’obiettivo del cantiere è quello di attivare la Data Discovery sui dati (127
+     BDE totali, ma selezionate 25 prioritarie) rilevanti ai fini GDPR, al fine di
+     permettere ai clienti l’esercizio dei propri diritti previsti dal regolamento
+     (es.: diritto oblio, …)
+                             Framework metodologico
+     <U+25AA> Il framework metodologico di Data Governance rimane valido, in
+        particolare il censimento delle BDE è propedeutico alla Data                 BDE             Funzioni coinvolte                  APP
+        Discovery                                                                        Data Owner/            Società con
+     <U+25AA> La Data Discovery è una nuova fase di lavoro core della Data                       Ut. Resp.   TDS/ IT    trattamenti
+        Governance e dovrà essere applicata a «tutti» i dati della Banca; il
+        progetto GDPR rappresenta il percorso pilota                               127     116         39            14               582
+     <U+25AA> La messa a terra della Data Discovery è abilitante per:
+         • Evoluzione di controlli di data quality                                                              Da aggiungere    Da aggiungere
+                                                                                                                dati su ambienti file/ documenti
+         • Costruzione di indicatori avanzati di Balanced Scorecard                                             residuali (BAM,  salvati      su
+                                                                                                                Biver, BAV, …)   server,
+         • Data Lineage                                                                                                          sharepoint, …)
+                                                                                                                                                 17
+
+Sezione 5 – Principali altre Attività in corso
+ Attività               Descrizione                                                                                                                           Benefici                    Scadenza
+ Documenti normativi    Stesura/ integrazioni documenti normativi di Data Governance in tema di:                                                              • Compliance 285            Q4 2018
+                        • Information Provider Esterni, al fine di normare il governo dei dati acquisiti da infoprovider esterni come previsto dalla          • Finding OSI IT Risk       Q1 2019
+                             Circolare 285. La Direzione COO sta verificando la richiesta della Direzione CFO – Data Governance di avere la
+                             responsabilità del MasterPlan Banche Dati
+                        • Direttiva di Processo di Reporting Management, con particolare attenzione per la diffusione della reportistica accreditata
+                             verso la Rete
+ SISBA 3                La Base Dati SISBA è interessata dal finding #15 dell’OSI Bankit del 2018 in merito al basso grado di attivazione all’interno         • Risp. Finding OSI IT Risk Q4 2020
+                        dei processi di Data Governance.                                                                                                      • Data Lineage
+                        La Data Governance oltre a supportare il Data Owner nelle attività di remediation illustrate nel presente documento ha                • Data Dictionary (BIRD/
+                        richiesto l’attivazione del progetto SISBA3 con primo obiettivo del rafforzamento della data quality. Il progetto richiederà il         DPM)
+                        contributo del Data Owner Servizio Normativa Regolamentare e Reporting per effettuare le attività di test/ parallelo dei nuovi        • Data Quality
+                        controlli di DQ.                                                                                                                      • Frequenza dati
+ MIS Recovery Plan      Stesura del capitolo Management Information System del Recovery Plan, previsto dalle ECB Action Plan entro fine 2018                  • Richieste BCE             Q4 2018
+ Infoprovider Experian  Nell’ambito del progetto 2017_CLO23 Credit Standard è previsto l’utilizzo del motore Experian per ottenere uno score su               • Gestione Inforprovider    Q4 2018
+                        concessione di carte di credito e variazione plafond. Tutte le informazioni interrogate dai gestori (oltre allo score) saranno
+                        storicizzate nel DWH. L’attività (BR 76656) è stata ricondotta all’interno del modello di Data Governance ed in coerenza con la
+                        nuova Direttiva sugli infoprovider.
+ Segnalazione Bankit    La Data Governance ha definito, in collaborazione con il Data Owner (CCO – Area Controlli, Conformità e Reclami), il BR               • Creazione nuova           Q1 2019
+ Questionario costi CC  (75880) per l’implementazione automatica della segnalazione a Bankit, effettuata sino all’anno scorso tramite attività artigianali,     segnalazione (OR)
+                        con effettivi benefici di tempo e riduzione rischi operativi. Sono in corso le analisi di fattibilità e stima IT                      • Accuratezza dati
+ Swiffer                Ampliamento perimetro controlli Swiffer su 3 dati: codice LEI, ISIN e Swift. Implementazione entro fine 2018                          • Rafforzamento DQ          Q4 2018
+ Controlli Data Quality Approvato BR per ripristino funzionamento controlli di data quality sull’Antiriciclaggio. Rilascio della soluzione ad inizio dicembre • Rafforzamento DQ          Q4 2018
+                        In corso sviluppi di implementazione controlli di data quality su PD ed LGD in seguito a finding TRIM (mandatory checks)              • Rafforzamento DQ          Q4 2018
+ Controlli Data Quality                                                                                                                                       • Finding TRIM – BCE
+ Ticket Business        Apertura ticket a funzioni di Capogruppo (business) per effettuare attività di sistemazione dei dati derivanti da controlli di        • Finding OSI IT Risk       Q1-Q2 2019
+                        business . implementati per gli Output Rilevanti, al fine di completare processi organizzativi/ operativi ad oggi non effettuati e/o  • Completamento processi
+                        non tracciati.                                                                                                                          organizzativi
+                        Il finding #15 dell’OSI Bankit fa riferimenti anche a questa tematica.
+                                                                                                                                                                                                     18
+
+                       ALLEGATI
+Allegato 1 - Piano lavori di Data Governance
+Allegato 2 - Modelli Semantici e Balanced Scorecard
+    • Data Driven
+    • Output Rilevanti
+Documenti allegati
+    • Rendicontazione Output Rilevanti:
+        • Rapporto di Sintesi
+        • Rendicontazione
+        • Balanced Scorecard
+                                                    19
+
+Piano Iniziative di Sviluppo Data Governance 2018-2019                                                                                                                                                       ALLEGATO 1
+                                                                                2018                                                                           2019
+              Iniziative DGOV                  Lug           Ago           Set        Ott         Nov      Dic        Gen          Feb        Mar        Apr        Mag        Giu             Lug      Ago
+         1. Controlli Tecnici (Swiffer)             Primi interventi + nuovi CTR
+         2. Anagrafe Clientela (AOG)                                     Assessment               Sviluppi             Nuove analisi
+         3. Anagrafe Controparti                                                                               Assessment                           Piano sviluppo            Avvio Sviluppi
+         4. Beni                                                      Assessment                                     Piano sviluppo                      Avvio Sviluppi
+         5. Anagrafe Strumenti Finanziari                                                                                    Assessment                       Piano Sviluppo                  Avvio Sviluppi
+         6. Controlli tecnici DWU              Assessment                  Sviluppi        Rilascio
+                Legenda:
+                Tempi medi stimati              5 gg                               90 gg                                         90 gg                                   TBD (da piano sviluppo)
+                                               Pre-Ass.                         Assessment                                Piano Sviluppo                  Go live                  Avvio Sviluppi
+                                          <U+25AA> Produzione <U+25AA> Disegno Macro Architettura                            <U+25AA> Definizione      delle   azioni     di                  <U+25AA> Messa a terra delle azioni di
+                                            rendicontazioni<U+25AA> Quantificazione Perimetro Informativo               remediation (strutturate e spot) sulle                    Remediation
+                                            di data quality (DB,      Tabelle,    Campi,    ecc.)   e            principali problematiche                                <U+25AA> Controlli attivati su Irion
+                                            già disponibili identificazione BDE                                <U+25AA> Definizione requisiti IT (BR) per                       <U+25AA> Monitoraggio nel continuo
+                                            su             <U+25AA> Rilevazione principali problematiche ed
+                                                     controlli                                                   attivazione su Irion dei controlli
+                                            esistenti          evidenze                                          (Attuali e Nuovi)
+                                                           <U+25AA> Riclassificazione controlli DQ AS IS su
+                        Ripianificazione
+   Concluse                                                    standard di Data Governance
+                                                           <U+25AA> Definizione nuovi controlli
+                                                                                                                                                                                                                        20
+
+Progetti Obbligatori                                                                                                                                                     ALLEGATO 1
+                                                                  2018                                                            2019
+               Progetti obbligatori         Lug     Ago       Set       Ott       Nov      Dic Gen       Feb       Mar       Apr         Mag           Giu           Lug Ago
+            1. Anacredit                   Ass                          Piano sviluppo         Avvio Sviluppi
+            2. SISBA                       Ass                            Sviluppi                         Conf. SISBA3, in valutazione Piano Progetti 2019
+            3. MREL                        Ass                         Piano sviluppo               Avvio Sviluppi             Gli sviluppi dei controlli (ca. 600) sono
+                                                                                                                               dipendenti dal progetto MREL fase 2 che
+                                                                                                                               avvia nel 2019
+            4. E-RMR (BCBS239)             Ass                Relazione DGOV                          Monitoraggio e
+                                                                                                  prosecuzione lavori nel
+            5. RMR (BCBS239)               Ass                Relazione DGOV                    2019 su Progetto PERDAR
+            6. SSM Liquidity Exercise           Assessment                  Piano Sviluppo     Avvio Sviluppi
+            7. LGD (sviluppo mandatory                  Piano
+                                           Ass                         Avvio Sviluppi
+            checks)                                   Sviluppo
+            8. PD (sviluppo mandatory                   Piano
+                                           Ass                         Avvio Sviluppi
+            checks)                                   Sviluppo
+            9. Piano di Recovery                Ass                 Relazione sul MIS
+            10. Segnalazione Offerta Fuori              Piano
+                                           Ass                         Avvio Sviluppi
+            Sede                                      Sviluppo
+            11. Questionario Bankit costo              Ass                     Piano Sviluppo  Avvio Sviluppi
+            CC
+                   Ripianificazione
+   Concluse
+                                                                                                                                                                                    21
+
+Configurazione data Governance                                                                                                                                           ALLEGATO 1
+                                                                2018                                                                         2019
+             Configurazione DGOV
+                                           Lug     Ago      Set      Ott         Nov          Dic        Gen        Feb       Mar        Apr      Mag       Giu Lug  Ago
+           1. Data Discovery (prima             Assessment                  Piano Sviluppo               Avvio Sviluppi
+           applicazione GDPR)
+                                                                                                                                                                    Avvio
+           2. Data Lineage                                                                               Assessment                             Piano Sviluppo      Svilu
+                                                                                                                                                                     ppi
+           3. Assessment Data Owner
+                                                                                     Assessment                Piano sviluppo
+           (Questionario Data Governance)
+           4. Definizione nuova                Assessment                Piano Sviluppo                  Avvio Sviluppi
+           Architettura Strumenti DGOV
+           5. Change Management                                      Analisi soluzione per individuazione BR con impatti
+                                          Ass        Sviluppi                               DGOV
+           6. Apertura ticket al Business              Assessment
+                                                    Assessment                                     Piano Sviluppo             Avvio Sviluppi
+           7. Balanced Scorecard               Assessment                POC                         Soluzione strutturale               Avvio Sviluppi
+                      Ripianificazione
+  Concluse
+                                                                                                                                                                                    22
+
+         Modello Semantico Data Driven                                                                                                                            ALLEGATO 2
+         Ambiti: Anagrafi Soggetti                                Ambiti: Grandezze di Bilancio            Ambiti: Anagrafi Contratti
+                   Clienti                                                  Impieghi                                    Contratti       • Il perimetro informativo del Gruppo è
+                                                   Linee di Credito         Garanzie              Beni                                    rappresentato     da     un   modello
+           Informazioni      Profilo di                                                                          Anagrafe Prodotti        semantico nel quale collocare tutti i
+           Anagrafiche       Rischio                                                          Anagrafe
+                                                      On Balance            Personali                                                     fenomeni bancari rilevanti;
+                                                                                                               Entità
+                                                                                                                          Prodotti
+Entità                                    Entità
+                                                                                                Beni
+            Profilo
+                          Profilo AML                                                                                   Commerciali     • Le foglie del Modello sono le
+          Commerciale
+                                                      Off Balance              Reali                                                      Informazioni di Business (BDE) da
+            Profilo                                                                                                                       associare alle Entità Logiche che
+           Gestionale                                                                                                                     raggruppano      concetti    informativi
+                                                                                                                                          omogenei (cfr slide successiva);
+               Controparti                                                  Raccolta
+                                                                                                                                        • Le entità dei diversi ambiti sono
+           Informazioni                                Diretta              Indiretta             PCT         Anagrafe Strumenti          collegate con chiavi di raccordo al
+                             Profilo di
+           Anagrafiche       Rischio                                                                                                      fine di governare le informazioni
+                                                                                                                                          aggregate di sintesi;
+Entità
+             Profilo                                   Depositi              Gestita              PCT                    Domestici
+                                          Entità
+                          Profilo AML
+                                                                                                               Entità
+           Commerciali                                                                                                                  • La riconduzione della BDE all’interno di
+                                                       Emissioni           Amministrata                                    Esteri         un concetto di business consente di:
+            Profilo
+           Gestionale                                                                                                                     <U+27A2> Individuare l’ambito di riferimento
+                                                                                                                                            delle attività di Data Governance;
+            Soggetti Esteri                                                   Servizi
+                                                                                                                                          <U+27A2> Misurare l’ampiezza dell’ambito
+                                                                                                                                            coperto attraverso il collegamento
+           Informazioni      Profilo di                                    Sistemi
+                                                       Estero                              Altri Servizi                                    BDE – TDC (se implementato nei
+           Anagrafiche       Rischio                                      Pagamento
+                                                                                                                                            sistemi informatici);
+Entità
+                                                      Negoziazion                              Digital
+             Profilo                                                       Carte e POS
+                          Profilo AML                                                                                                     <U+27A2> Misurare
+                                          Entità
+                                                       e Divise                               Banking                                                   la    percentuale di
+           Commerciali
+                                                                           Trasferimenti                                                    copertura come rapporto tra il
+            Profilo                                  Trasferimenti                                                                          numero di dati controllati e
+                                                                             /Rimesse
+           Gestionale
+                                                                                                                                            l’ampiezza dell’ambito;
+                                                                                                                                                                                     23
+
+Modello Balanced Scorecard Data Driven – logiche di calcolo                                                                                                                                       ALLEGATO 2
+                                                                                                                                                                     Logiche di Calcolo
+                                                                     BDE censite
+                    Data Model                             Score       Calcolo      Peso                                                  • La Balanced Scorecard è il punteggio complessivo che misura il
+ ESEMPIO      Score   Calcolo       Peso           90%      90%          9/10      100%                                                     livello di qualità di un’entità semantica, ed è la somma pesata degli
+               18%   90%*20%         20%                         BDE non censite                                                            indicatori di Data Model, Data Quality e Remediation;
+                                              (9/10*100% +
+                                                 1/10*0%)  Score       Calcolo      Peso                                                  • L’indicatore di Data Model misura la % di BDE censite sul
+                                                                                                                  Data OK
+                                                            10%          1/10        0%                                                     Business Glossary sul totale BDE riconducibili all’entità misurata;
+                                                                                                         Score     Calcolo    Peso
+                    Data Quality
+                                                                 Data controllati                                                         • L’indicatore di Data Quality è funzione dell’indicatore di Copertura
+                                                                                                          75%       60/80    100%
+                                                           Score       Calcolo      Peso     75%                                            Dati Controllati (# di dati oggetto di almeno un controllo, sul totale
+                                                                                                                  Data KO
+              Score   Calcolo       Peso                                                                                                    dei dati riconducibili all’entità misurata) e dell’Indicatore di Qualità
+                                                  60%       80%         80/100      100% 60/80*100% +    Score     Calcolo    Peso
+   62%         36%   60%*60%        80%*
+                                 (100%-25%)     75%*80%
+                                                               Data non controllati        20/80*0%
+                                                                                                          25%       20/80      0%
+                                                                                                                                            – Dati OK (Dati OK / Dati controllati)*
+                                                           Score       Calcolo      Peso                                                  • I pesi degli indicatori di Data Quality e di Remediation sono
+                                                             0%         20/100        0%                                                    inversamente proporzionali. Se la Qualità è alta, il peso della
+                                                                                                                                            remediation diminuisce (es.: Dati OK al 99%, il peso della Data
+                                     Score KO                     Dati sistemati                                                            Quality è 99% e il peso della Remediation è 1%; ovviamente poi
+                                                           Score       Calcolo      Peso                                                    ponderati per l’80%);
+                                                            50%          10/20       60%
+                     Remediation                                                                                                          • L’indicatore della Remediation è la somma ponderata degli
+                                                               Dati in sistemazione                                                         indicatori Dati Sistemati (# delle anomalie sanate / totale
+              Score   Calcolo       Peso
+                                                   40%     Score       Calcolo      Peso                                                    anomalie) e Dati in Corso di Sistemazione (# di anomalie in
+                8%   40%*20%        80%*                                                                                                    corso di sistemazione (es. Ticket, BR, …) / totale anomalie). I non
+                                               10/20*60% +  25%           5/20       40%
+                                 (100%-75%)
+                                                5/20*40% +      Dati non sistemati
+                                                                                                                                            sistemati pesano zero
+                                                 5/20*0%
+                                                           Score       Calcolo      Peso
+                                     Score OK               25%           5/20        0%
+                                                                                                      * Per la costruzione dell’indicatore di qualità si tiene conto della copertura degli Obiettivi del Controllo
+                                                                                                      (accuratezza, integrità, ecc) ponderando gli stessi per i relativi pesi.
+                                                                                                                                                                                                                   24
+
+Modello Balanced Scorecard Output rilevanti – logiche di calcolo                                                                                                                     ALLEGATO 2
+L’attuale prototipo di Balanced Scorecard definisce un KPI di Data Governance, per ciascun O.R., costituito da: KPI Esiti Controlli, KPI Remediation, KPI
+Qualitativo. L’elasticità del modello permette di modificare ogni singolo coefficiente dello schema di riferimento, senza modificarne tuttavia la struttura di base.
+                                                                    Controlli Peso 1        • Il calcolo del KPI Esiti Controlli presuppone un peso specifico diverso per ciascun controllo
+                                                                                                definito dal Data Owner.
+                                     KQI Esiti Controlli            Controlli Peso 2        • In funzione degli esiti (OK, KO, Warning) delle esecuzioni dei singoli controlli, viene attribuito
+                                            40%                                                 un punteggio pesato.
+                                                                                            • La somma dei punteggi delle esecuzioni rilevate nel periodo osservato, determinano il valore
+                                                                    Controlli Peso 3            del KPI espresso su base 100.
+                                                                        Tasso di            Il calcolo del KPI Remediation, considera il Tasso di Risoluzione ed i Tempi Medi:
+                                                                       Risoluzione
+        Balance Score                 KPI Remediation                                       - Tasso di Risoluzione: valuta le risoluzioni dei ticket aperti nel periodo di osservazione.
+         Card 100%                          30%
+                                                                                            - Tempi Medi di Risoluzione: misura lo scostamento della durata dei ticket rispetto al tempo
+                                                                       Tempi Medi
+                                                                                                obiettivo*.
+                                                                      Modello Org.,
+                                                                   Oper. e Normativo
+                                                                                            • Il calcolo del KPI Qualitativo avviene sulla base di un questionario mirato a fornire un indice
+                                                                     Data Modelling             numerico rappresentativo del grado di maturità dei principali requisiti di Data Governance, per
+                                                                                                l’O.R. considerato.
+                                       KPI Qualitativo                                      • Il questionario è compilato dalla Data Governance e prevede delle risposte chiuse a ciascuna
+                                                                    Data Protection
+                                            30%                                                 delle quali è associato un punteggio che esprime il giudizio del livello di coerenza della
+                                                                                                specifica area analizzata.
+                                                                      Data Quality          • Il questionario può essere utilizzato come scheda da sottoporre ai Data Owner per un loro
+                                                                                                adeguamento alle linee guida di DGOV (Mandatory).
+                                                                   Data Architecture
+*Considerato che il tempo obiettivo è un parametro definito dal D.O., è possibile valutare dei meccanismi di bonus/malus per evitare comportamenti opportunistici
+                                                                                                                                                                                                 25
+

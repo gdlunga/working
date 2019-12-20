@@ -1,0 +1,115 @@
+Proposta per il Consiglio di Amministrazione              Protocollo:
+Siena, 22/02/2019
+Oggetto               Modelli Comportamentali: Model Change
+1. MOTIVAZIONE
+•   Il Consiglio di Amministrazione è coinvolto nell’approvazione di un affinamento metodologico sul
+    modello comportamentale delle poste a vista secondo quanto previsto dalla Direttiva di Gruppo
+    in materia di Gestione del Rischio Modello (1030D02357).
+•   L’intervento proposto è stato effettuato dal Servizio Rischi di Liquidità e ALM della Direzione CRO
+    a seguito dell’ispezione condotta dalla Funzione di Revisione Interna sulla struttura di controllo
+    dell’Interest Rate Risk of Banking Book (IRRBB) nel secondo trimestre del 2018 e della
+    conseguente apertura di gap per il mancato rispetto di alcune assunzioni modellistiche per una
+    parte rilevante dei cluster di clientela. In parallelo il Servizio Rischi di Liquidità e ALM ha
+    effettuato anche la calibrazione periodica dei parametri dei modelli stessi. Si precisa che gli
+    interventi proposti hanno effetto anche sul Rischio di Liquidità, per cui l’approvazione è da
+    intendersi estesa anche a quell’ambito.
+2. ELEMENTI CHIAVE DELLA DECISIONE DA ASSUMERE
+•   Si propone l’adozione del Model Change a valere su IRRBB e Liquidity Risk, come meglio descritto
+    in seguito, contestualmente all’approvazione del cascading down del Risk Appetite Statement
+    (RAS) 2019.
+•   Si precisa infatti che le stime delle RWA interne Pillar2 relative all’IRRBB del RAS 2019 già
+    includono gli impatti legati all’aggiornamento delle poste a vista oggetto della presente memoria
+    e che, sulla base dell’attuale profilo di rischio IRRBB, l’introduzione dell’affinamento modellistico
+    non genera uno sconfinamento dai limiti operativi in vigore.
+•   L’effetto congiunto dell’affinamento metodologico e della ricalibrazione determina impatti
+    significativi sul profilo di IRRBB e di Rischio Liquidità del Gruppo MPS. Poiché il modello di
+    misurazione gestionale IRRBB rientra nel perimetro di applicazione della Direttiva di Gruppo in
+    materia di Gestione del Rischio Modello (1030D02357) e poiché la casistica rappresenta un
+    Material Model Change si rende necessaria l’approvazione da parte del Consiglio di
+    Amministrazione, previo rilascio del parere favorevole da parte del Comitato Gestione Rischi,
+    acquisito anche il parere della Funzione di Convalida Interna.
+SISIFO                                                                                        Pagina 1
+
+ •    Il Comitato Gestione Rischi della Capogruppo Bancaria nella sessione Financial Risk del 19
+      dicembre 2018 e successivamente in quella del 21 febbraio 2019, preso atto del nulla-osta della
+      Funzione di Convalida Interna, ha rilasciato parere favorevole in merito alle modifiche
+      metodologiche sul modello comportamentale delle poste a vista a valere sul Rischio Tasso di
+      Interesse del Banking Book e sul Liquidity Risk oggetto della presente proposta.
+ •    Resta inteso che il Consiglio sarà interessato nuovamente a conclusione anche delle modifiche
+      modellistiche e delle verifiche di Convalida in corso sul rischio di prepagamento anticipato dei
+      mutui (Prepayment Risk).
+ •    La presente proposta è sottoposta al Comitato Rischi per le necessarie determinazioni.
+ 3. INFORMAZIONI RILEVANTI
+ •    Per poste a vista (o Non-Maturity Deposits, NMDs) si intende un insieme di rapporti, sia di
+      Impiego sia di Raccolta, caratterizzati da:
+      - assenza di una scadenza contrattualmente definita, oppure di una scadenza contrattuale
+          formalmente a vista;
+      - assenza di un piano di ammortamento predefinito;
+      - condizioni finanziarie prontamente rivedibili, in particolare a discrezione della banca.
+•    Nell’ambito del Rischio di Tasso di Interesse del Banking Book, il Gruppo MPS, in linea con quasi la
+     totalità del sistema bancario italiano, ha adottato da molti anni un approccio statistico di
+     valutazione dei NMDs costituito da:
+     - un modello “Volumi” noto in letteratura come Bond Portfolio Replication (Bond Replica) per la
+         stima della stabilità dei volumi;
+     - un modello “Tassi” noto con il nome di Error Correction Model (ECM) per la stima della
+         elasticità.
+•    Tale approccio dallo scorso anno, è adottato anche per il Liquidity Risk.
+ 3.1 Proposta di evoluzione
+ •    L’affinamento metodologico sulle poste a vista ha coinvolto entrambi i modelli, “Volumi” e
+      "Tassi”, ed entrambi i lati, “Raccolta” ed “Impiego”. In sintesi:
+      - sul modello “Volumi” per i NMDs di Raccolta si propongono la destagionalizzazione delle serie
+          storiche dei cluster Key Client, PMI e Small Business e l’utilizzo di un approccio semplificato di
+          letteratura per il cluster Private;
+ SISIFO                                                                                         Pagina 2
+
+      -   sul modello “Volumi” per i NMDs di Impiego si propone di estendere la destagionalizzazione
+          delle serie storiche anche ai cluster “Enti” e “Private”, di effettuare la consueta calibrazione
+          sul solo portafoglio Performing e di introdurre per la parte Non Performing un approccio di
+          stima di tipo credit risk basato sui parametri di Cure Rate e di Loss Given Default (LGD);
+      -   sul modello “Tassi” per i soli NMDs di Impiego si propone la sospensione dell’attuale modello
+          e l’adozione di una stima contrattuale dell’elasticità a seguito delle mutate condizioni di
+          mercato (tassi decrescenti e livelli molto bassi).
+•    Per la verifica dalla performance complessiva dei modelli comportamentali è stato sviluppato uno
+     specifico framework di backtesting, di cui ora si propone l’introduzione per le poste a vista.
+•    Si precisa che gli impatti sulle misure IRRBB sono determinati prevalentemente dall’incremento
+     delle quote stabili della Raccolta, legate alle dinamiche di crescita complessiva degli stock.
+     Pertanto al fine di ridurre i potenziali cliff effect sulle misure di rischio in concomitanza delle date
+     di applicazione dei nuovi parametri, si propone di modificare la modalità di determinazione delle
+     quote stabili per consentire a quest’ultime di adeguarsi via via ai livelli degli stock che si registrano
+     nel corso del periodo di validità dei parametri, per mezzo di una loro determinazione in forma
+     percentuale e non in valore assoluto.
+•    Infine in ambito Liquidity Risk si propone l’affinamento dello Stress Test con la variazione dello
+     scenario di sight deposit run-off in coerenza con le modifiche su IRRBB sopra riportate.
+ 3.2 Sintesi dei principali impatti
+•    Le risultanze numeriche evidenziano che:
+          - gli affinamenti modellistici non generano impatti rilevanti nelle misure IRRBB,
+              diversamente dal Time to Survival lato Liquidity Risk dove invece l’impatto non è
+              trascurabile;
+          - la ricalibrazione annuale dei parametri presenta impatti rilevanti sul profilo IRRBB,
+              soprattutto sulle misure di Delta EVE e più contenuti sul Liquidity Risk.
+ SISIFO                                                                                            Pagina 3
+
+•    Tutti i dettagli modellistici e la documentazione tecnica elaborata dalla Funzione di Controllo dei
+     Rischi, comprese le risultanze della Funzione di Convalida Interna, sono a disposizione presso la
+     Segreteria del Comitato Gestione Rischi.
+    FIRME                                                                   DATA
+    Servizio Rischi di Liquidità e ALM
+    Area Financial Risk Management
+    Direzione Chief Risk Officer
+                                                        ***
+                                       Il Responsabile della Direzione CRO
+                                                    PROPONE
+                                      al CONSIGLIO DI AMMINISTRAZIONE
+                                         di adottare la seguente delibera:
+              Il CONSIGLIO DI AMMINISTRAZIONE esaminata la proposta del 22 febbraio 2019
+                                redatta dalla Direzione CRO avente ad oggetto:
+              "Modelli Comportamentali: Model Change", riposta agli atti con il n. ____/2019,
+                                                   su proposta
+                                               della Direzione CRO
+                           raccolto il parere favorevole del Comitato Rischi
+                                                     DELIBERA
+     - di approvare l’evoluzione dell’attuale approccio di stima del Rischio Tasso di Interesse del
+        Banking Book e del Rischio di Liquidità per le poste a vista (NMDs) come descritto in proposta a
+        valere sul Risk Appetite Statement (RAS) riferito all’anno 2019.
+ SISIFO                                                                                       Pagina 4
+

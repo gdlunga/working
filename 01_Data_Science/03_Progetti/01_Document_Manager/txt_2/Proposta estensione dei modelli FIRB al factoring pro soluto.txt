@@ -1,0 +1,328 @@
+  Approfondimento sulla possibile
+      estensione dei modelli PD
+alle esposizioni factoring pro soluto
+                     Direzione Chief Risk Officer
+                         Area Lending Risk Officer
+                                    August, 2019
+
+Summary
+Il Gruppo MPS ha effettuato nel corso del 2H2018-1Q2019 una serie di interventi al fine di efficientare il sistema IRB in modo da garantire la
+continuità di applicazione del sistema IRB sui segmenti Corporate e Retail ed da eliminare le casistiche di passaggio da IRB a Standard.
+In tale ambito sono stati effettuati approfondimenti anche sul portafoglio dei crediti factoring pro soluto: una parte significativa delle controparti
+di tale portafoglio risulta segnalata in Standard per la componente pro-soluto ma in IRB per altre tipologie di esposizioni erogate dalle altre
+banche del Gruppo.
+Al fine di efficientare il sistema IRB, si propone di utilizzare il rating valido ai fini AIRB anche per le esposizioni dei crediti pro soluto: i rating
+sono stati assegnati utilizzando gli stessi modelli statistici IRB e gli stessi processi di attribuzione del rating.
+Per quanto riguarda la LGD le evidenze storiche osservate su tale portafoglio non consentono, data la scarsa numerosità dei default (circa 50
+posizioni classificate in sofferenza negli ultimi 20 anni), né di stimare un modello ad hoc né di valutare le condizioni per l’estensione dei modelli
+LGD in essere.
+In base a tali valutazioni, la Banca propone l’utilizzo del metodo FIRB per le esposizioni dei crediti pro soluto per le quali è
+disponibile un rating IRB.
+A tale scopo sono state verificate le performance dei modelli PD sulle esposizioni oggetto di model change e la conformità dei processi
+utilizzati per attribuire il rating a tali controparti.
+In considerazione degli esiti delle analisi svolte e dei relativi impatti in termini di RWA, la proposta di model change può essere avanzata
+tramite il processo di notifica ex ante.
+                                                                                                                                                         2
+
+  Overview portafoglio MPS LF al 31 Marzo 2019
+                                                                                                    CLASSI DI RISCHIO STANDARD
+                                                                                     AMM. CENTRALI E BANCHE CENTRALI        • 65,68 €/mln
+                                                                                     INTERMEDIARI VIGILATI                  • 3,70 €/mln
+                                                               METODOLOGIA
+                                                                                     AMM. REGIONALI O AUTORITA LOCALI       • 26,87 €/mln
+   CRUSCOTTO VIGLANZA L&F – 31/03/2019 – RWA                                         ORGANISMI DEL SETTORE PUBBLICO         • 10,55 €/mln
+                                                          AIRB      • 2.194,68 €/mln
+Rischio di Credito e Controparte       • 2.905,46 €/mln                              BANCHE MULTILATERALI DI SVILUPPO       •        -
+                                                        STANDARD    • 710,77 €/mln   ORGANIZZAZIONI INTERNAZIONALI          •        -
+Rischio di Credito - Cartolarizzazioni • 0,57 €/mln
+                                                                                     IMPRESE ED ALTRI SOGGETTI              • 453,84 €/mln
+Rischio Mercato                        •        -                                    ESPOSIZIONI AL DETTAGLIO               • 34,76 €/mln
+                                                                                     ESPOSIZIONI A BREVE VERSO IMPRESE      •        -
+Rischio Operativo                      • 268,20 €/mln
+                                                                                     ESPOSIZIONI VERSO O.I.C.R.             • 4,94 €/mln
+Rischio di Aggiust.valutazione del
+                                       •        -                                    ESPOSIZIONI GARANTITE DA IMMOBILI      • 19,35 €/mln
+credito (CVA)
+                                                                                     ESPOSIZIONI OBBL. BANCARIE E GARANTITE •        -
+Rischio di Concentrazione              •        -
+                                                                                     ESPOSIZIONI IN STATO DI DEFAULT        • 40,00 €/mln
+Rischio di Regolamento                 •        -
+                                                                                     ESPOSIZIONI AD ALTO RISCHIO            •        -
+                TOTALE = 3.174,23 €/mln                                              ESPOSIZIONI IN STRUMENTI DI CAPITALE   • 0,04 €/mln
+                                                                                     ALTRE ESPOSIZIONI                      • 51,05 €/mln
+                                                                                     CLASSI PER ANALISI RAPPORTI PRO SOLUTO SLIDE 8
+                                                                                                                                           3
+
+Approfondimenti modelli PD attuali (1/2)
+Al fine di verificare la tenuta degli attuali modelli di rating AIRB sulla clientela della MPS L&F sono state effettuate una serie di analisi in termini di
+numerosità, tassi di default, probabilità di default, esposizione e modello di rating, utilizzando una serie storica recente di 3 anni, dal Dicembre 2015 al
+Dicembre 2018. L’analisi è stata effettuata sulle controparti caratterizzate da factoring pro-soluto che presentano anche altri rapporti su MPS e/o Capital
+Service, in sostanza su clienti condivisi con il Gruppo MPS. Nelle analisi sotto riportata è stata utilizzata la definizione di default adottata per la
+calibrazione dei modelli attualmente in produzione (paste due atecnico).
+Su questo aggregato si è confrontata la PD media con i Tassi di Default effettivamente osservati (in totale sono stati osservati 4 default in 3 anni). Nel
+confronto si rileva che il rapporto PD/TD in termini di teste è pari al 163% (1.23%/0.75%) nettamente superiore alla soglia interna di buon
+funzionamento dei modelli pari all’ 80%. Il TD e la PD sono stati osservati su 3 anni poiché per l’ultimo anno non è stato possibile ricostruire l’indicatore
+del default su un periodo di 12 mesi. Si rileva comunque che nei primi mesi del 2019 non sono stati rilevati default.
+Le tabelle seguenti riportano anche l’esposizione totale del cliente (comprensiva dei rapporti diversi dal pro-soluto) e la sola esposizione relativa ai soli
+rapporti pro-soluto. La distribuzione per modello riguarda i tre anni su cui è stato possibile costruire l’indicatore di default (dal 2015 al 2018).
+L’esposizione è concentrata nei segmenti Large Corporate, Corporate e PMI.
+        Data       N     N Default TD         PD     PD/TD   Esp €/mln   Esp pro                                    MODELLO
+                                                                       soluto €/mln    RSK_MOD          N     TD        PD     ESP_MLN_TOT ESP_MLN_PROSOLUTO
+      01/12/2015     132         0 0,00%      1,19%               1638           96
+                                                                                            LC         115 0.00%      0.84%        3 657          264
+      01/12/2016     167         1 0,60%      1,11%  184,63%      2245          172
+      01/12/2017     232         3 1,29%      1,35%  104,43%      2335          159       CORP         61 0.00%       1.16%         870            49
+   Totale            531         4 0,75%      1,23%  163,28%      6219          428        PMI         235 1.28%      1.04%        1 416           77
+                                                                                          SPMI         57 0.00%       1.59%         101            13
+      01/12/2018     310         0            1,07%               3626          225        PLU         25 0.00%       1.56%         162            22
+                                                                                            SB         23 0.00%       2.15%          11             1
+                                                                                           SDP          9 11.11%      2.15%          2              2
+                                                                                           DIN          4   0.00%     2.95%          0              0
+                                                                                       SB_POOL1         1   0.00%     0.09%          0              0
+                                                                                       SB_POOL2         1   0.00%     31.63%         0              0
+                                                                                         Totale        531 0.75%      1.23%        6 219          428
+                                                                                                                                                              4
+
+Approfondimenti modelli PD attuali (2/2)
+Anche le analisi per singolo anno confermano che la PD è sempre conservativa con unica eccezione per il modello PMI nella terza coorte (2017-2018).
+                                                               DISRIBUZIONE PER MODELLO E DATA RIFERIMENTO
+                                       DATA_RIFERIMENTO RSK_MOD            N       TD           PD      ESP_MLN_TOT ESP_MLN_PROSOLUTO
+                                           20151231         LC            28     0.00%        0.69%         847.06         62.02
+                                           20151231       CORP            17     0.00%        0.96%         268.40          9.36
+                                           20151231        PMI            56     0.00%        1.14%         477.78         17.79
+                                           20151231       SPMI            11     0.00%        2.45%          9.75           2.46
+                                           20151231        PLU             5     0.00%        0.92%         31.79           3.73
+                                           20151231         SB             7     0.00%        1.26%          2.31           0.38
+                                           20151231        SDP             5     0.00%        1.05%          0.66           0.29
+                                           20151231        DIN             3     0.00%        3.78%          0.29           0.13
+                                            TOTALE                        132    0.00%        1.19%        1 638.04        96.16
+                                           20161231         LC            42     0.00%        0.95%        1 336.59       106.06
+                                           20161231       CORP            20     0.00%        1.15%         320.77         16.87
+                                           20161231        PMI            73     1.37%        1.17%         455.44         26.62
+                                           20161231       SPMI            19     0.00%        1.04%         69.56           6.41
+                                           20161231        PLU             7     0.00%        1.00%         61.10          15.46
+                                           20161231         SB             4     0.00%        1.59%          1.18           0.12
+                                           20161231        SDP             2     0.00%        1.56%          0.63           0.59
+                                            TOTALE                        167    0.60%        1.11%        2 245.28       172.13
+                                           20171231         LC            45     0.00%        0.83%        1 472.94        95.63
+                                           20171231       CORP            24     0.00%        1.31%         280.39         22.68
+                                           20171231        PMI            106    1.89%        0.90%         482.73         32.24
+                                           20171231       SPMI            27     0.00%        1.63%         21.86           4.52
+                                           20171231        PLU            13     0.00%        2.10%         69.08           2.59
+                                           20171231         SB            12     0.00%        2.86%          7.13           0.78
+                                           20171231        SDP             2    50.00%        5.50%          0.69           0.65
+                                           20171231        DIN             1     0.00%        0.46%          0.05           0.02
+                                           20171231     SB_POOL1           1     0.00%        0.09%          0.33           0.02
+                                           20171231     SB_POOL2           1     0.00%       31.63%          0.11           0.11
+                                            TOTALE                        232    1.29%        1.35%        2 335.31       159.24
+                                           20181231         LC            59                  0.60%        2 269.04       131.03
+                                           20181231       CORP            37                  0.98%         433.36         44.18
+                                           20181231        PMI            147                 1.04%         786.94         40.15
+                                           20181231       SPMI            33                  1.93%         23.93           4.12
+                                           20181231        PLU            15                  1.56%         102.33          4.23
+                                           20181231         SB            13                  1.50%          7.58           0.77
+                                           20181231        SDP             1                  0.69%          0.45           0.01
+                                           20181231        DIN             1                  0.69%          0.07           0.06
+                                           20181231     SB_POOL1           4                  0.09%          1.95           0.28
+                                            TOTALE                        310                 1.07%        3 625.66       224.84
+                                                                                                                                                    5
+
+Approfondimenti modelli PD model change
+Le analisi sono state effettuate anche con i modelli aggiornati ed oggetto del model change materiale 2019. I default rimangono esattamente gli stessi,
+anche con la definizione di default adottata per il model change (rimozione del paste due atecnico). Il livello di PD/TD
+Le PD media su tre anno dei nuovi modelli aumenta di c.a. +40%, di conseguenza anche il livello PD/TD aumenta fino a 233%.
+    Data       N     N Default   TD      PD      PD/TD  Esp €/mln   Esp pro        RSK_MOD      N          TD        PD    Esp €/mln Esp pro soluto
+                                                                  soluto €/mln                                                           €/mln
+  01/12/2015     132         0   0,00%   1,82%               1638           96    LC              115      0,00%     1,17%      3657            264
+  01/12/2016     167         1   0,60%   1,51%  252,97%      2245          172    CORP             61      0,00%     1,97%       870             49
+  01/12/2017     232         3   1,29%   1,90%  147,19%      2335          159    PMI             235      1,28%     1,39%      1416             77
+Totale           531         4   0,75%   1,76%  233,62%      6219          428    SPMI             57      0,00%     1,98%       101             13
+                                                                                  PLU              25      0,00%     3,33%       162             22
+  01/12/2018     310         0   0,00%   1,62%               3626          225    SB               23      0,00%     2,65%        11              1
+                                                                                  SDP               9     11,11%     3,56%         2              2
+                                                                                  DIN               4      0,00%     4,86%         0              0
+                                                                                  SB_POOL1          1      0,00%     0,30%         0              0
+                                                                                  SB_POOL2          1      0,00%    45,00%         0              0
+                                                                                  Totale          531      0,75%     1,76%      6219            428
+                                                                                                                                                        6
+
+Processi di gestione del rischio di credito per factoring pro-soluto (1/2)
+Il processo di attribuzione del rating del GMPS è basato su una logica di controparte; il rating è lo stesso a livello di Gruppo e per qualsiasi richiesta di
+finanziamento. Tale processo si differenzia per tipologia di controparte: semplificato per le controparti Corporate di piccole dimensioni o con esposizione
+inferiore ad 1 €/mln, approfondito per il Corporate di grandi dimensioni e con esposizioni superiori a 1 €/mln. Il rating per le posizioni in scope del model
+change viene assegnato con gli stessi processi adottati dal Gruppo MPS: di seguito si riporta la rappresentazione della numerosità di tali controparti per
+tipologia di processo utilizzato per l’attribuzione del rating al 31/03/2019. L’80% dell’esposizione oggetto del model change è coperta da un rating da
+processo approfondito Corporate, che si basa su più elementi (rating statistico, qualitativo, override, valutazione Gruppo Economico di appartenenza).
+Il processo di attribuzione del rating è regolato dal documento normativo interno D00767 «Regole in materia di gestione del rischio di credito: il sistema
+dei Rating Interni» destinato a tutte le Business Unti del Gruppo incluso MPS Leasing&Factoring.
+                            Numero
+        Tipologia processo controparti      %   EAD €/mln   %                                                Descrizione
+                                                                Per la clientela Small Business o PMI con accordato superiore a 1 €mln il rating ufficiale
+                                                                interno viene attribuito mediante un processo completamente automatico che prevede
+                                                                l’assegnazione di un rating denominato Rating Statistico.
+       Processo
+                                    163 68,5%       42,92 20,7% Non è prevista la possibilità di utilizzare il giudizio umano per modificare il Rating Statistico
+       Semplificato
+                                                                (Override), ma il Rating Individuale può essere modificato sulla base dei legami presenti
+                                                                con la Holding del Gruppo di riferimento.
+                                                                Riferimento normativo D00767 par.4, 5 e 6
+                                                                Per le controparti PMI Holding, PMI non Holding con accordato superiore a 1 €mln, Large
+                                                                Corporate e NBFI, il Rating Ufficiale interno viene attribuito mediante un processo (da qui il
+       Processo
+                                                                nome Rating di Processo) che prende avvio dal Rating Statistico calcolato con procedure
+       Approfondito                    75 31,5%    164,06 79,3%
+                                                                automatiche e può essere modificato attraverso il giudizio umano (override) in seguito alla
+       Corporate
+                                                                valutazione di ulteriori elementi di natura sia quantitativa che qualitativa.
+                                                                Riferimento normativo D00767 par.7
+       Totale                       238            206,98
+                                                                                                                                                                  7
+
+Processi di gestione del rischio di credito per factoring pro-soluto (2/2)
+Il sistema di rating interno è finalizzato alla formulazione di valutazioni sintetiche della rischiosità di una controparte o di una operazione creditizia;
+rappresenta la base informativa comune per il supporto alle decisioni strategiche e per la gestione del rischio di credito.
+Il sistema di rating coinvolge trasversalmente le diverse strutture interne alla Banca: funzioni responsabili del processo di origine del credito, strutture
+coinvolte nella valutazione e nella gestione operativa del rischio di credito e la struttura di Risk Management, responsabile della quantificazione e gestione
+del rischio di credito (cfr. documento 1030D01020 -“Direttiva di Gruppo in materia di Gestione dei Rischi di Credito” ).
+Anche per quanto riguarda il factoring pro soluto, il sistema di rating è integrato nel processo di valutazione del merito creditizio del factoring (Documento
+3210D187, Sistema dei Rating interni; Documento 3210D139, Pratica elettronica di fido factoring).
+Il rating sul debitore ceduto è quindi un’informazione su cui si basano gli organi deliberanti competenti per il perfezionamento dell’operazione creditizia di
+factoring pro-soluto: la PEF factoring recepisce il Rating di Gruppo e tale Rating viene utilizzato per definire le autonomie deliberative e gli organi
+deliberanti per la concessione di operatività sul debitore ceduto (definizione Notional Limit). Inoltre il processo di seguimento della clientela con segnali di
+deterioramento («early detection» del Monitoraggio del Credito-MoCre) è attivata anche su MPS Leasing Factoring, con la costituzione di una specifica
+filiera High Risk; tale processo, che copre anche il portafoglio pro-soluto di MPS LF, è allineata a quello della Capogruppo: tra i trigger a rilevanza alta per
+la classificazione della clientela in High Risk è presente anche il rating IRB (rating peggiore o uguale a D2). Le autonomia differenziate per rating e il
+processo di classificazione in High Risk sono regolati nella normativa interna di MPS LF (Documento 3210D008 Regolamento delle Autonomie in materia
+creditizia).
+In caso di assenza di un rating valido IRB (out of scope del model change), viene comunque determinato un rating statistico con le informazioni disponibili
+ed il rating simulato, allo stesso modo del rating IRB, è parte integrante del processo decisionale.
+                                                                                                                                                               8
+
+ Overview portafoglio MPSLF – simulazione applicazione FIRB
+Di seguito si riportano le simulazioni applicando l’approccio FIRB sulle esposizioni factoring pro soluto già coperte da modelli IRB, sui dati al 31/03/2019.
+                                                                    TIPOLOGIA NGR                                                             RWA – AIRB   DELTA RWA
+          IMPRESE E ALTRI SOGGETTI – RWA
+                                                          a) NGR – CON RATING AIRB                   • 196,49 €/mln                          107,18 €/mln -89,31 €/mln
+           FACTORING
+                                • 374,79 €/mln
+          PRO SOLUTO
+                                                          b) NGR – SENZA RATING AIRB                 • 178,30 €/mln
+             ALTRO              • 79,04 €/mln
+          ESPOSIZIONI AL DETTAGLIO – RWA
+                                                          a) NGR – CON RATING AIRB                   • 4,51 €/mln                            2,62 €/mln   -1,89 €/mln
+           FACTORING
+                                • 15,96 €/mln
+          PRO SOLUTO
+                                                          b) NGR – SENZA RATING AIRB                 • 11,46 €/mln
+             ALTRO              • 18,80 €/mln
+       ESPOSIZIONI IN STATO DI DEFAULT – RWA
+                                                          a) NGR – CON RATING AIRB                   • 2,04 €/mln                            0 €/mln      --2,04 €/mln
+           FACTORING
+                                • 4,20 €/mln
+          PRO SOLUTO
+                                                          b) NGR – SENZA RATING AIRB                 • 2,16 €/mln
+             ALTRO              • 35,80 €/mln
+                                                                TOTALE a) NGR - AIRB                 203,04 €mln                             109,80 €/mln -93,24 €/mln
+             LEGENDA
+  a) NGR – CON RATING AIRB                                  • Controparti CORPORATE con rating valido ai fini AIRB
+  b) NGR – SENZA RATING AIRB                                • Controparti CORPORATE con solo rapporti pro soluto in STD senza rating valido ai fini AIRB
+                                                                                                                                                                       9
+
+       Overview portafoglio MPSLF – simulazione FIRB: distribuzione per classe di rating e classe
+       regolamentare
+                                                                                                                                          RWA Density
+                                                                                                 80                                                                                           100,0%
+    Nella rappresentazione dell’EAD per classe di rating si osserva come il perimetro pro        70
+                                                                                                                                                                                              90,0%
+    soluto delle controparti CORPORATE con rating valido ai fini AIRB si concentra sulle                                                                                                      80,0%
+    classi di rating A3 (PD=0,30%) e B1 (PD=0,46%).                                              60
+                                                                                                                                                                                              70,0%
+                                                                                                 50
+    Evidenziando l’RWA density cumulata si ha un dimezzamento del peso degli RWA                                                                                                              60,0%
+    sull’EAD rispetto al trattamento a standard dovuto all’utilizzo dei modelli interni.         40                                                                                           50,0%
+                                                                                                                                                                                              40,0%
+                                                                                                 30
+                                                                                                                                                                                              30,0%
+                                                                                                 20
+                                                                                                                                                                                              20,0%
+                                                                                                 10
+                                                                                                                                                                                              10,0%
+         Corep             EAD      RWA        PA         DE         DPA         LGD      PD      0                                                                                           0,0%
+                                                                                                      AA1   AA2    AA3    A1     A2    A3 B1    B2     B3      C1 C2    C3    D1       D2 DEF
+                                                                                                                      EAD AIRB (€/mln)    RWA AIRB Density Cum      RWA STD Density - Cum
+Corporate                  185,38    101,95      0,56       0,14        0,41      45,00%   0,67%
+            of which PE    185,38    101,95      0,56       0,14        0,42      45,00%   0,67%
+           of which NPE       0,00      -        0,00       0,00 -      0,00      45,00% 100,00%    Nella rappresentazione per segmento di segnalazione di vigilanza (Corep)
+PMI                         12,62      5,23      0,37       0,34        0,03      45,00%   3,94%    si avrebbe una segmentazione regolamentare quasi totalmente di tipo
+            of which PE     12,20      5,23      0,03       0,01        0,03      45,00%   0,63%    Altre Imprese con una PD media dello 0,67% e una LGD media del 45%;
+           of which NPE       0,42      -        0,34       0,33        0,01      45,00% 100,00%    sugli altri tipi di segmenti la LGD e PD risultano allineate a tali valori tranne
+Other PMI                     8,98     2,62      0,60       0,09        0,51      45,00%  13,95%    per la PD delle esposizione PMI al dettaglio che risulta più elevata (1,97%)
+            of which PE       7,88     2,62      0,07       0,01        0,06      45,00%   1,97%
+           of which NPE       1,10      -        0,53       0,08        0,45      45,00% 100,00%
+                          206,98    109,80      1,53        0,57        0,96     45,00%   1,44%
+                                                                                                                                                                                              10
+
+Overview portafoglio MPSLF – simulazione applicazione modelli interni al factoring pro soluto
+Top 10 NGR cluster a) e b)
+TOP 10 - a) NGR - CON RATING AIRB       NGR     EAD       RWA_STD RWA_AIRB             TOP 1 0 - b) NGR - NO RATING AIRB                            NGR     EAD    RWA_STD
+  1) FIAT GROUP AUTOMOBILES S.P.A.     96455196   29,9           29,9       12,1         1) KERING EYEWEAR S.P.A                                  313612074  29,94    29,94
+  2) TELECOM ITALIA SPA                57544228   18,4           18,4         9,5        2) ACEA ATO2 GRUPPO ACEA SOCIETA' P                       87413990  15,24    15,24
+  3) YARA ITALIA S.P.A.               142637965   17,6           17,6         7,7        3) ACEA ATO 5 S.P.A.                                     136792830   4,70     4,70
+  4) AGSM ENERGIA S.P.A.              195624806   12,4           12,4         6,9        4) LNPB LEGA NAZIONALE PROFESSIONIS                      315243405   4,18     4,17
+  5) CARTIERE CARRARA S.P.A.           42177998   10,5           10,5         8,2        5) BLUE META SPA                                         140783923   4,01     4,01
+  6) ILLUMIA SPA                      200025796    9,8             9,8        7,6        6) ENERXENIA SPA                                         136702099   3,88     3,88
+  7) MAGNETI MARELLI S.P.A.           144713919    8,0             8,0        3,5        7) RIVOIRA OPERATIONS S.R.L                              318526932   3,24     3,24
+  8) CONSORZIO CASALASCO DEL POMODORO  87037073    6,9             6,9        6,3        8) ASCOPIAVE ENERGIE SPA                                 191330381   3,11     3,11
+  9) BARILLA G. E R. FRATELLI SOCIETA  16053815    6,4             6,4        0,7        9) ALPERIA TRADING SRL                                   318360185   3,08     3,08
+ 10) FERRIERE NORD SPA                   722000    3,5             3,5        1,4       10) SOGEI SOCIETA GENERALE D INFORMA                       64517789   2,73     2,73
+Importi in €/mln.                                                                       Importi in €/mln;
+                                                                                        (*) Esclusi NGR con Cluster Corporate Estero e Enti.
+             LEGENDA
+a) NGR – CON RATING AIRB                             • Controparti CORPORATE con rating valido ai fini AIRB
+b) NGR – NO RATING AIRB                              • Controparti CORPORATE con solo rapporti pro soluto in STD senza rating valido ai fini AIRB
+                                                                                                                                                                            11
+
+Model change assessment (1/2)
+In base al regolamento UE n.529/2014, l’estensione di un sistema di rating autorizzato ad un tipo supplementare di prodotto si configura come «material
+model change» (allegato I, parte I, sezione 1, art. 1, lettera b), a meno che questo soddisfi i criteri di cui alla lettera c dello stesso articolo:
+- rappresentatività dei dati sui quali è fondato il modello per l'assegnazione delle esposizioni a classi o a pool, in termini di caratteristiche salienti delle
+   esposizioni supplementari dell'ente in caso di erogazione del prestito decisa da un terzo, a norma dell'articolo 174, lettera c), del regolamento (UE) n.
+   575/2013;
+- comparabilità della popolazione delle esposizioni rappresentata nei dati impiegati per la stima, dei criteri seguiti per l'erogazione dei prestiti nel
+   momento in cui i dati sono stati prodotti e delle altre caratteristiche rilevanti, con i dati relativi alle esposizioni supplementari in caso di erogazione del
+   prestito decisa da un terzo, a norma dell'articolo 179, paragrafo 1, lettera d), del regolamento (UE) n. 575/2013.
+Per permettere l'accertamento della rappresentatività e della comparabilità, l'ente deve fornire una descrizione completa dei criteri e delle misure
+impiegati. Il model change ha come oggetto l’estensione del sistema AIRB alle posizioni che risultano cedute nell’ambito di operatività di factoring pro
+soluto e che presentano anche altre esposizioni coperte dal sistema AIRB; per questa tipologia di controparti sono verificate le condizioni di
+rappresentatività e comparabilità:
+1. rappresentatività: le controparti sono incluse nel perimetro AIRB e quindi le loro caratteristiche sono di fatto state considerate nelle fasi di sviluppo e
+    di monitoraggio dei modelli PD AIRB.
+2. comparabilità dei dati: trattandosi di esposizioni coperte da AIRB, le fonti e i dati sono le stesse utilizzate dai PD modelli AIRB: centrale bilanci per le
+    informazioni finanziarie, anagrafica di gruppo per gli identificativi delle controparti, centrale rischi di gruppo e di sistema. Si rileva inoltre che i modelli
+    statistici Large Corporate e Corporate, che coprono c.a. l’80% delle esposizioni oggetto di model change, non presentano un modulo andamentale di
+    rapporti interni al Gruppo e quindi le informazioni sui crediti ceduti non entrerebbero comunque nel calcolo del rating statistico.
+3. per quanto riportato, sono state effettuate delle analisi di performance dei modelli PD AIRB su tali crediti senza introdurre alcun intervento correttivo.
+    Le analisi hanno evidenziato una rischiosità specifica molto bassa (numero di default ridotto) e che i modelli PD AIRB coprono adeguatamente il
+    rischio osservato.
+                                                                                                                                                                     12
+
+  Model change assessment (2/2)
+Di seguito si riporta la verifica delle soglie regolamentari per sistema di rating e per totale AIRB:
+   Impatto complessivo a livello consolidato al 31/03/2019 (€/mln)
+   Rating system           EAD IRB     EAD Model Totale EAD    RWA IRB    RWA as is     Totale RWA    RWA new      Totale RWA    RWA var     RWA        Soglia
+                                       change       new                   Model change                Model change new           assoluta    var %      regolamentare
+   PD1 Large Corporate          4.168          101       4.269      2.742           101         2.842           49         2.790 -        52     -1,86%               -15%
+   PD2 Corporate                2.596           60       2.656      1.820            60         1.880           39         1.859 -        22     -1,17%               -15%
+   PD3 PMI                     12.304           42      12.346      8.442            38         8.480           21         8.463 -        17     -0,20%               -15%
+   Altro                       28.441            4      28.445     11.505             4        11.509            2        11.507 -         2     -0,02%               -15%
+   Totale Corporate IRB        47.509          207      47.716     24.508           203        24.711          110        24.618 -        93     -0,38%
+   Totale IRB                  78.382                   78.589     28.889                      29.092                     28.999                 -0,32%             -1,50%
+  Assessment model change
+Il model change è valutato come «non materiale», in quanto, come riportato nella precedente slide, sussistono le condizioni per considerare il model
+change non materiale da un punto di vista qualitativo. Inoltre, gli impatti in termini di RWA sono inferiori alle soglie regolamentari previste nel
+regolamento UE n.529/2014, art. 4 lettera c.
+Per quanto sopra, la Banca procederà a comunicare alla BCE la proposta di applicare l’approccio FIRB su tali esposizioni tramite il processo
+di notifica ex ante.
+                                                                                                                                                                           13
+
+14

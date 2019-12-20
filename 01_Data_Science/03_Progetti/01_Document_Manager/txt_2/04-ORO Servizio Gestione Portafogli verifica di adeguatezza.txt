@@ -1,0 +1,157 @@
+                                                    Comitato Gestione Rischi del 21-05-2018
+                                            Servizio Gestione Portafogli: verifica di adeguatezza
+                                                                    (Proposta)
+Direzione CRO – Area Operating Risk Officer – Servizio Wealth Risk Management
+
+Servizio Gestione Portafogli: verifica di adeguatezza (Proposta)
+<U+F0D8>  Valutazione di adeguatezza GP in Consulenza Base e Accentramento operatività GP su Advice: al fine di uniformare la valutazione di adeguatezza GP alla stessa
+   metodologia applicata all’operatività sui portafogli in amministrato e come previsto nel processo di accentramento sulla piattaforma Advice dell’operatività in GP,
+   iniziato lo scorso 09 aprile, si è reso necessario modificare le attuali modalità di verifica di adeguatezza su mandati GP.
+                         Valutazione di rischio GP                   Cliente                                   Valutazione di adeguatezza GP
+                                                                                                             Applicazione        dei    controlli   di
+                                                                                                             adeguatezza su ogni singola linea del                  LIMITI
+      as is              VaR statico per                           Obiettivo di                              mandato, mediante confronto tra classe      •   Approccio valutazione
+                                linea GP                       investimento GP                               di rischio della linea (VaR statico) e          non di portafoglio
+                                                                                                             obiettivo di investimento GP del cliente    •   Mancanza di
+                                                                                                                                                             coerenza con
+                                                                                                                                                             valutazione effettuata
+                                                                                                                                                             in Amministrato
+                            VaR dinamico
+                           e di portafoglio                         Obiettivo
+                                                                                                             Calcolo del VaR del portafoglio oggetto             VANTAGGI
+                     Determinazione di un VaR                     Specifico di                               di      verifica     di     adeguatezza,  •   Approccio valutazione di
+                     dinamico per ogni linea GP del            investimento GP                                                                             portafoglio
+                                                                                                             rappresentato dalle linee sottostanti il
+      to be          mandato, mediante elaborazione
+                     del rischio mercato sul portafoglio
+                                                                                                             singolo      mandato,    e    successivo  • Coerenza con
+                                                                                                             confronto con il VaR soglia associato         valutazione effettuata in
+                     di indici benchmark della linea e                                                                                                     Amministrato
+                                                         Introdotto da gennaio 2018 con il                   all’obiettivo di investimento GP del
+                     applicazione di un floor pari al                                                                                                  <U+F0A7> Diversificazione rischio
+                                                         nuovo questionario di profilatura                   cliente
+                     VaR statico attuale, in modo da                                                                                                       mercato utilizzato come
+                                                         MiFID
+                     garantire la stabilità nel tempo                                                                                                      driver beneficio nel
+                     della classe di rischio assegnata                                                                                                     controllo costi/benefici
+                     alla linea in fase di filiera
+                                                                                                                                                                                     2
+
+Servizio Gestione Portafogli: verifica di adeguatezza (Proposta)
+<U+F0D8> Requisito Normativo
+Art. 54 Regolamento Delegato
+Comma 11: Quando prestano servizi di consulenza in materia di investimenti o di gestione del portafoglio che comportano dei
+cambiamenti negli investimenti, mediante la vendita di uno strumento e l’acquisto di un altro o mediante l’esercizio del diritto di
+apportare una modifica a uno strumento esistente, le imprese di investimento raccolgono le necessarie informazioni sugli investimenti
+esistenti del cliente e sui nuovi investimenti raccomandati e effettuano un’analisi dei costi e benefici del cambiamento, in modo tale da
+essere ragionevolmente in grado di dimostrare che i benefici del cambiamento sono maggiori dei relativi costi.
+<U+F0D8> Per rispettare il suddetto requisito normativo si propone di introdurre anche nella verifica di adeguatezza del
+    Servizio di Gestione Portafogli il controllo costi/benefici, già adottato da gennaio 2018 per il servizio di Consulenza,
+    previa delibera del Comitato Gestione Rischi del 21/12/2017.
+                                                                                                                                          3
+
+Servizio Gestione Portafogli: verifica di adeguatezza (Proposta)
+                                                     Alta
+                                                            I                                                                                   II
+                                    Qualità di                            SEMPRE                                 AMMISSIBILE IN FUNZIONE DEL                              Il tasso di sostituzione
+                                        ptf                            AMMISSIBILE                                 SAGGIO DI SOSTITUZIONE                           (pendenza) tra costi e benefici
+                                                                                                                   COSTI/BENEFICI PREVISTI
+                                                                                                                                                                    è pari a 0,10 (un aumento dell’
+                                                                                                                                 SCELTA
+                                                                            OK                                                   BANCA
+                                                                                                                                                                      1% dei costi necessita di un
+                                                                                                                                                                         aumento di 10 punti dei
+                                                                                                                                                                             benefici per essere
+                                                                                Modello di servizio A
+                                                                                                                                                                                 compensato)
+                      Quali pesi per i                                      OK                                                    KO
+                                                                                         Modello di servizio B
+                        componenti
+                 dell’indicatore sintetico                                   SEMPRE
+                                                                                                                       SEMPRE NON                                        Si considerano, in termini
+                                                                                                                        AMMISSIBILE
+                  di qualità? (vedi slide
+                                                                           AMMISSIBILE                                                                                 monetari, sia costi diretti sia
+                                                                  CONTROLLO NON APPLICATO
+                        successiva)                Bassa    IV                                                                                 III                                costi indiretti:
+                                                          Bassi                                                                                Alti
+                                                                                                                                                                        • Costi iniziali :Tutti i costi
+                                                                                                                                                                                 sostenuti all’inizio
+                                                                                                                                             Delta costi                     dell’investimento (costi
+                                                                                                                                                                              iniziali / di ingresso, di
+                                                                                                                                                                                   negoziazione)
+                                                                                                                                                                      • Costi ricorrenti: Tutti i costi
+                beneficio = (Qualità PTF NEW – Qualità PTF OLD)                                                                                                               ricorrenti sostenuti nel
+                                     + Bonus                                                                                                                                 corso dell’investimento
+                                                                                <U+2206> <U+0001D484><U+0001D490><U+0001D494><U+0001D495><U+0001D48A>% = <U+0001D483><U+0001D486><U+0001D48F><U+0001D486><U+0001D487><U+0001D48A><U+0001D484><U+0001D48A><U+0001D490> * a (<U+0001D495><U+0001D482><U+0001D494><U+0001D494><U+0001D490> <U+0001D485><U+0001D48A> <U+0001D494><U+0001D490><U+0001D494><U+0001D495><U+0001D48A><U+0001D495><U+0001D496><U+0001D49B><U+0001D48A><U+0001D490><U+0001D48F><U+0001D486>)
+                                                                                                                                                                        • Costi uscita: Tutti i costi
+                                      <U+0001D450><U+0001D45C><U+0001D460><U+0001D461><U+0001D45C> <U+0001D45A><U+0001D452><U+0001D451><U+0001D456><U+0001D45C> <U+0001D44E><U+0001D45B><U+0001D45B><U+0001D462><U+0001D45C>
+                         <U+2206> <U+0001D450><U+0001D45C><U+0001D460><U+0001D461><U+0001D456> % =                                                                                                                                            sostenuti in sede di
+                                       <U+0001D461><U+0001D45C><U+0001D461><U+0001D44E><U+0001D459><U+0001D452> <U+0001D443><U+0001D447><U+0001D439> <U+0001D441><U+0001D438><U+0001D44A>                                                                                                                       disinvestimento (costi di
+                                                                                                                                                                                  uscita / finali, di
+                                                                                                                                                                                   negoziazione)
+   Ptf di partenza        Ptf potenziale di arrivo di cui non è definibile a priori l’ammissibilità            Ptf potenziale di arrivo ammissibile      Ptf potenziale di arrivo non ammissibile
+                                                                                                                                                                                                         4
+
+ Servizio Gestione Portafogli: verifica di adeguatezza (Proposta)
+ <U+F0D8>    Valutazione controllo costi/benefici GP. Si considera il seguente perimetro del controllo costi/benefici:
+        <U+F0A7>    Switch tra linee sottostanti un mandato Multilinea
+        <U+F0A7>    Switch della linea sottostante un mandato Monolinea
+        <U+F0A7>    Switch Mono-Multinea (chiusura mandato Monolinea vs. apertura nuovo mandato Multilinea)
+     Riguardo al controllo costi/benefici per il Servizio GP, sono stati adottati analoghi driver e parametrizzazioni previsti per lo stesso controllo applicato all’operatività in
+     Amministrato.
+                                   Controllo Costi/Benefici - Indicatori di                Operatività in                      Gestioni
+                                                                                                                Pesi                             Pesi
+                                                                                           amministrato                      Patrimoniali
+                                   qualità
+                                  DIVERSIFICAZIONE RISCHIO               Continuo                                35%                             35%
+                                           MERCATO                  Discontinuo (fasce)                          30%                             30%
+Indicatori Qualità di                                                                                                                                      Indicatore qualità per
+     portafoglio                                                                                                                                             diversificazione GP
+                                     INDICATORE QUALITA’          Score Quantitativo Fondi                       35%                             35%
+                                           PRODOTTI                                                                                                         Indicatore qualità per
+                                                                                                                                                         View di mercato Comitato
+                                                                                                                                                             Guida Investimenti
+                                       ADEGUATEZZA DI
+                                                                                                                100%                            100%
+                                        PORTAFOGLIO
+                                  ASSORBIMENTO BUDGET DI
+  Indicatori Bonus                                                                                               20%                             20%
+                                            RISCHIO
+                                                                     Prodotti a cedola                           10%                             N.A.
+                                    PREFERENZE CLIENTE
+                                                                    Prodotti assicurativi                        10%                             N.A.
+                                                                             Adottato           N.A.
+                                                                                                                                                                                   5
+
+Servizio Gestione Portafogli: verifica di adeguatezza (Proposta)
+  <U+F0D8>  Valutazione controllo costi/benefici GP. Si considera il seguente perimetro del controllo costi/benefici:
+         <U+F0A7>   Switch tra linee sottostanti un mandato Multilinea
+         <U+F0A7>   Switch della linea sottostante un mandato Monolinea
+         <U+F0A7>   Switch Mono-Multinea (chiusura mandato Monolinea vs. apertura nuovo mandato Multilinea)
+     Riguardo al controllo costi/benefici per il Servizio GP, sono stati adottati analoghi driver e parametrizzazioni previsti per lo stesso controllo applicato
+     all’operatività in Amministrato. Nel dettaglio, si è provveduto alla definizione di uno score quantitativo associato alla singola linea GP, mediante:
+           <U+F071> Indicatore Qualità per diversificazione GP: Utilizzo dell’indicatore di diversificazione del rischio mercato calcolato sul portafoglio di indici
+               benchmark della linea GP (in caso di linee prive di benchmark, calcolato sul portafoglio effettivo della linea) per definire una classificazione
+               suddivisa in dieci classi di qualità.
+           <U+F071> Indicatore di qualità per View di Mercato: Attribuzione di un bonus di 2 punti da sommare al precedente punteggio basato sulla diversificazione
+               assegnato alla linea, di cui al punto precedente, con l’obiettivo di ‘premiare’ tutte le linee GP che risultano essere espressione delle view di
+               mercato ‘positive’ elaborate dal Comitato Guida Investimenti ogni trimestre: ciascuna linea GP è stata scomposta in Asset Type in base alla
+               relativa mappatura Advice; le view di mercato che il CGI delibera trimestralmente in forma qualitativa (++/+/=/-/--) sono state mappate in scala
+               numerica con valori da 1(--) a 5(++) ed è stato quindi assegnato un punteggio ad ogni Asset Type sulla quale il CGI si è espresso; ad ogni linea
+               GP è stato quindi assegnato un punteggio ottenuto come media ponderata dei punteggi delle singole Asset Type sulle quali la linea è mappata;
+               infine viene assegnato il bonus di 2 punti a tutte le linee con punteggio maggiore di 3
+           <U+F071>   Indicatore Qualità Prodotto (Score quantitativo GP): Il punteggio massimo attribuibile allo score quantitativo GP è pari a 10. Il peso massimo attribuibile
+               all’indicatore qualità prodotto è il 35%
+                                                                                                                   punteggio maggiore di 3.                                6
+
+Servizio Gestione Portafogli: verifica di adeguatezza (Proposta)
+<U+F0D8> La normativa interna (D01762) prevede che la Direzione Chief Risk Officer presenti una specifica proposta al Comitato Gestione Rischi ogni
+   qualvolta si renda necessario aggiornare o effettuare una modifica evolutiva dei modelli e/o dei parametri di verifica di
+   appropriatezza/adeguatezza e/o di mappatura di rischio dei prodotti/portafogli di investimento, al fine di ottenere la necessaria autorizzazione per
+   l’introduzione delle modifiche proposte e per il relativo aggiornamento dei documenti normativi di contesto.
+<U+F0D8> Si propone pertanto al Comitato Gestione Rischi di approvare gli interventi rappresentati nelle slide precedenti.
+<U+F0D8> Tali modifiche saranno recepite all’interno del documento normativo D1030D01782
+                                                                                                                                                     7
+
+8

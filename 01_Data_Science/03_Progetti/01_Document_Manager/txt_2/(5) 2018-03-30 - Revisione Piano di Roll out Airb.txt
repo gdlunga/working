@@ -1,0 +1,297 @@
+Revisione Piano di Roll-Out Irb
+                          Direzione CRO
+                 Area Lending Risk Officer
+                             Marzo, 2018
+
+Executive Summary (1/2)
+  <U+F071>  Nel corso degli ultimi due anni (2016 e 2017) il Gruppo MPS ha avviato una serie di interventi evolutivi sui modelli Irb che hanno
+     trovato una prima conclusione nell’istanza di material model changes approvata dal Board a fine giugno 2017 e inviata
+     ufficialmente alla BCE il 10 novembre del 2017; a questa fase doveva seguire nel 2018 la chiusura del piano di Roll-Out con
+     l’istanza di validazione dei modelli Irb applicati alle controparti NBFI, Banche, Corporate estero, Small Business (limitatamente alle
+     SDC senza dati di bilancio disponibili) e alla controllata Widiba.
+  <U+F071>  L’istanza di material model change comprendeva oltre al Roll-Out del parametro di EAD, una nuova metodologia sia per la stima
+     degli RWA dei Defaulted Assets sia per la stima dell’Elbe, l’inclusione dei past due tecnici nella definizione di default, il trattamento
+     dei default multipli e altri interventi correttivi volti a migliorare le performance e la conservatività delle stime dei parametri di PD,
+     LGD e EAD.
+  <U+F071>  La pianificazione di questi interventi era stata effettuata anche sulla base dell’incontro avvenuto con il JST a Roma nel 3q del 2016,
+     durante il quale i regolatori avevano evidenziato come gap per il Gruppo la non presenza di un modello validato di EAD, sul quale
+     però era stata presentata istanza da parte del Gruppo già dal 2013, la non presenza di un modello di stima degli RWA sui
+     Defaulted Assets, il disallineamento rispetto alle prassi non domestiche del trattamento dei past due tecnici.
+  <U+F071>  Gli interventi dell’istanza vennero poi ridiscussi con il JST nel corso del primo semestre del 2017 quando, al momento della
+     comunicazione del SEP 2017, il regolatore comunicò alla Banca l’avvio di una Trim (review dei modelli attualmente validati) e non
+     di una Trimix (review dei modelli oggetto di material model change) sul portafoglio mutui assistito da garanzie reali erogato a
+     controparti retail.
+
+Executive Summary (2/2)
+  <U+F071>  Nel corso dei primi mesi del 2018 il Gruppo ha ricevuto dalla BCE nel giro di poche settimane, fra metà gennaio e i primi di marzo, i
+     risultati (ufficiali i primi, in draft i secondi) dei General Topics della Trim e dell’Internal Model Investigation (IMI40) effettuata dalla
+     BCE a fine 2015, da cui sono emersi deviations e findings su cui la banca è tenuta a porre rimedio nel corso del 2018-2019.
+  <U+F071>  A queste evidenze si dovrebbero poi aggiungere quelle rivenienti dalla TRIM, effettuata a fine 2017 primi del 2018, il cui exit
+     meeting ufficiale dovrebbe svolgersi nel mese di aprile 2018, con successiva formale comunicazione dei risultati.
+  <U+F071>  Rileva infine il fatto che nel SEP del 2018 il JST ha comunicato al Gruppo la pianificazione di un’ispezione nel 2q del 2018 sui
+     modelli Irb oggetto di istanza di material change models solo sugli aspetti collegati agli RWA dei defaulted assets e all’ELBE.
+  <U+F071>  In seguito a tale comunicazione il Gruppo ha fatto presente che tali modelli si basano anche sulle altre modifiche oggetto di istanza
+     (ad esempio trattamento dei past due tecnici e dei default multipli), ma il JST ha comunicato che essendo momentaneamente in
+     discussione all’interno della BCE il tema della revisione della definizione di default con suo conseguente impatto sui modelli, ritiene
+     che al momento non siano da apportare modifiche materiali su tali punti fino a quando non verranno richiesti esplicitamente dal
+     revisore.
+  <U+F071>  Pertanto si ritiene opportuno rivedere sulla base di quanto sopra riportato il piano delle attività previsto per il 2018 (che sarà
+     incentrato prevalentemente oltre che sull’aggiornamento annuale dei modelli sul recepimento delle deviations e dei findings sopra
+     riportati)
+  <U+F071>  In particolare, i findings relativi alla stima del parametro di LGD (time to workout e incomplete work out) saranno trattati solo nel
+     secondo semestre del 2018, auspicando la decisione del regolatore sull’istanza di waiver presentata dal Gruppo a seguito delle
+     cessioni dei bad loans previste per il 2018 (Valentine, Leasing e Small Tickets) dal Piano di Ristrutturazione.
+  <U+F071>  Alla luce di quanto riportato nei precedenti punti si rende, inoltre, necessario rivedere il piano di Roll-Out, per pianificare le attività in
+     maniera congruente con i findings comunicati e le nuove priorità individuate. Nelle successive slides si riporta un assesment sul
+     portafoglio creditizio oggi non trattato con il metodo Irb e si presenterà il nuovo piano di Roll-Out finalizzato al raggiungimento delle
+     soglie minime di copertura attualmente previste dalle recenti linee guida della TRIM.
+
+Risk Weighted Assets del Gruppo al 31/12/2017
+                                              RWA
+     Tipologia di rischio
+                                             (€/mln)                  Rischio di Credito        EAD      RWA
+     Rischio di Credito e Controparte          47.713                 Metodologia standard     (€/mln)  (€/mln)
+                      Metodologia standard      20.699                Permanent Partial Use      44.770   16.500
+                           Metodologia IRB     27.006                 Piano di Roll-Out          11.765    4.198
+                           Cartolarizzazioni         8                Totale                     56.535   20.699
+     Rischio di Mercato                          2.493
+     Rischio Operativo                         10.012
+     Rischio aggiustamento CVA                     346
+     Totale                                    60.563
+I RWA sul rischio di Credito segnalati con la metodologia Standard sono pari a 20,7 €/bln. Sulla base del piano di Roll-Out che verrà
+proposto nelle successive slides i RWA in PPU (Permanent Partial Use) ammonteranno a 16,5 €/bln, mentre quelli in Roll-Out a 4,2
+€/bln.
+                                                                                                                                      4
+
+Revisione Piano di Roll-Out
+Banche: fino ad oggi previsto Roll-Out in Firb. Modello di rating sviluppato nel 2016
+e validato internamente nel settembre 2017. Il popolamento da parte delle agenzie
+                                                                                                                                                                                   Tempistica
+di rating ha fino ad oggi riguardato un perimetro ridotto di controparti (circa 100 su
+poco meno di 900) rappresentative in termini di EAD di circa l’80%-90% delle                        Piano di Roll-Out                                       EAD              Attuale           Nuova
+esposizioni. Attività in ritardo per non adeguato numero di risorse disponibili sia                 Banche                                                  8.000          31/12/2018        31/12/2020
+all’interno del CRO che del CLO (Area Erogazione Crediti, Settore Erogazione
+                                                                                                    NBFI                                                    1.440          31/12/2018        31/12/2020
+Estero e Istituzioni Finanziarie). Probabilmente necessaria una ricalibrazione del
+modello sulla base dei chiarimenti sulla nuova definizione di default che il                        Widiba                                                   260           31/12/2018        31/12/2019
+regolatore dovrebbe emanare nel corso del 2018. Si propone pertanto uno                             Corportate ex Specialized Lending <5 €/mln               523                             31/12/2019
+slittamento al 2020, al termine del quale il modello avrà di fatto avuto un periodo                 Ottimizzazione procedure di calcolo del rating           531                             31/12/2019
+sufficiente di use test (tre anni) e la conferma del trattamento con il metodo Firb.
+                                                                                                    Inclusione carte revolving (ex Consum.it)                216                             31/12/2019
+NBFI: fino ad oggi previsto Roll-Out in Airb. Modelli PD e LGD sviluppati e validati                Ottimizzazione processo rating retail                    298                             31/12/2018
+internamente dal 2013; in produzione ai fini gestionali e di use test dal novembre                  Ottimizzazione processo rating corporate                 498                             31/12/2018
+2013. Necessaria una ricalibrazione del modello sulla base dei chiarimenti sulla                    EAD su portafogli Corporate e Retail                                                     31/12/2019
+nuova definizione di default che il regolatore dovrebbe emanare nel corso del 2018.
+Si ritiene opportuno posticipare il Roll-Out a fine 2020. Basilea 3+ (entrata in vigore             Totale                                                 11.765
+2022) non prevede per questa tipologia di clientela l’utilizzo dell’Airb, pertanto si
+ritiene corretto prevedere soltanto il trattamento con il metodo Firb.
+Widiba: la crescita del portafoglio Widiba risulta ancora ridotta; per tale motivo si ritiene opportuno includere il portafoglio Widiba nei DB di Gruppo in occasione della prossima attività di ristima
+completa dei modelli Retail prevista a partire dal 3Q 2018. Il Roll-Out viene quindi posticipato a fine 2019 contestualmente alla ripresentazione della richiesta di material model change dei modelli retail
+del Gruppo.
+Corporate ex -Specialized Lending <5 €/mln: Inclusione delle IPRE < 5 €/mln nei modelli Airb corporate validati (precedentemente autorizzati al PPU). Al fine di rafforzare il seguimento di tale
+esposizioni, si ritiene opportuno classificare le controparti come Corporate e attribuire un rating IRB dal momento in cui sono disponibili tutte le informazioni necessarie per l’applicazione dei modelli di
+rating. Il roll-out è stato posto a fine 2019, in linea con gli altri interventi di material model change.
+Ottimizzazione procedure di calcolo del rating: presenza di esposizioni residuali che potranno essere incluse nel perimetro IRB con la revisione delle procedure di calcolo del rating (risoluzione del
+disallineamento temporale di un mese fra segnalazione e procedura di calcolo del rating).
+Inclusione carte revolving (ex Consum.it): inserimento delle informazioni sulle carte revolving (ex prodotto Consum.it fino ad oggi inserito in PPU) nella ristima dei modelli. Il roll-out è stato posto a
+fine 2019, in linea con gli altri interventi di material model change.
+Ottimizzazione processo rating retail e corporate: trattamento delle posizioni che passano da IRB a Standard (ad esempio nel momento in cui l’informazione di bilancio risulta obsoleta per
+l’applicazione del modello).
+Per il Corporate Estero, precedentemente inserito nel piano di Roll-Out, data anche la chiusura delle filiali estere prevista nel Restructuring Plan, si prevede invece il trattamento nel portafoglio PPU.
+                                                                                                                                                                                                               5
+
+Permanent Partial Use
+Al fine di comprendere meglio le motivazioni che portano ad escludere dai modelli Irb oltre 44 €/bn di portafoglio (in termini di EAD) è
+necessario innanzitutto individuare quei crediti che sono previsti in run off/cessione all’interno del Piano di Ristrutturazione.
+              Rischio di Credito          EAD       RWA
+                                                                             Il portafoglio in PPU si può infatti dividere in due distinti sub
+              Metodologia standard       (€/mln)   (€/mln)                   portafogli, nel primo dei quali sono ricondotti:
+              MP BANQUE                      1.312       656
+                                                                             1) i crediti erogati dalle controllate estere, MP Banque e MP
+              MP BELGIO                      1.674       783
+                                                                                 Belgio oggetto di cessione nel 2018 o progressiva
+              Altre Partecipazioni           1.836     2.374
+                                                                                 liquidazione
+              Crediti Ex Consum.it             641       442
+              Filiali Estere                   894       532                 2) le partecipazioni non strategiche e/o funzionali all’attività
+              Subtotale (1)                  6.356     4.787                     del Gruppo (fra le quali la Società Perimetro Gestione
+              Altro PPU                     38.413    11.713                     Proprietà Immobiliari risulta essere la più rilevante)
+              Roll-Out                      11.765     4.198                 3) i prestiti personali ex Consumit in progressivo run-off;
+              Subtotale (2)                 50.179    15.912
+              Totale                        56.535    20.699
+                                                                             4) I crediti delle Filiali estere oggetto di prevista chiusura nel
+                                                                                 piano di ristrutturazione nel corso del 2018.
+Al netto quindi dei crediti oggetto di cessione e run off in arco piano il portafoglio non coperto da modelli è pari a 15,9 €/bln di RWA.
+                                                                                                                                                6
+
+Requisiti normativi : copertura modelli interni (Irb)
+La normativa relativa all’estensione dei metodi Irb alle diverse classi di portafoglio ha subito nel corso del tempo una sensibile
+evoluzione che tuttavia non ha avuto ancora una legiferazione vera dal 2014 in poi.
+Il principio alla base di tutte le normative/proposte/linee guida è che l’estensione progressiva del metodo Irb non deve essere
+utilizzata selettivamente, allo scopo di ridurre i requisiti patrimoniali minimi per classi di esposizioni non ancora incluse nei modelli
+interni.
+Si riportano di seguito le principali evoluzioni normative osservate nel corso degli ultimi anni:
+•    la circ 285/2013 di Banca d’Italia prevede che per le singole classi (o sotto-classi) la copertura, in termini di RWA, dei modelli Irb
+     deve essere pari ad almeno il 75%;
+•    il Draft regulatory technical standards on the sequential implementation of the IRB Approach and permanent partial use under
+     the Standardised Approach under Articles 148(6), 150(3) and 152(5) of Regulation (EU) No 575/2013 (EBA/CP/2014/10),
+     attualmente sempre in consultazione, prevede che le esposizioni per le quali è consentito l’uso dei modelli IRB devono
+     rappresentare almeno il 50% del totale di EAD e Rwas (prevedendo alcuni aggiustamenti specifici per determinate classi quali
+     Central Banks, Governments, Equity);
+•    le linee guida della TRIM (Guide for the Targeted Review of Internal Models – TRIM February 2017) in relazione all’applicazione
+     dell’approccio Irb propongono una copertura in termini di EAD a fine piano di Roll-Out dell’80%, a livello di asset class e a livello
+     consolidato.
+                                                                                                                                            7
+
+Permanent Partial Use – Roll-Out – soglie per EAD
+                                                                                                                                        Coverage
+                                                                    Cessioni                                               Coverage
+     Segmentazione CRR- EAD       (€/m ln) IRB     SA     Totale                (b) - (d)   (a) + (e)   Roll-Out   PPU                   Irb fine
+                                                                    e run off                                              Irb attuale
+                                                                                                                                         Roll-Out
+                                            a      b         c          d          e            f          g        h           a/f       (a+g)/f
+Central governments or central banks             - 25.837    25.837      1.078     24.759       24.759           -  24.759           0%         0%
+Regional governments or local authorities        -  1.990     1.990           -      1.990       1.990           -   1.990           0%         0%
+Public sector entities                           -    730       730         29         701         701           -     701           0%         0%
+Institutions                                     -  9.150     9.150        362       8.788       8.788       7.736   1.052           0%        88%
+Corporates - Specialised Lending             2.279    523     2.802           -        523       2.802         523       -          81%       100%
+Corporates - Other                          14.223  6.540    20.763      1.457       5.082      19.305       2.251   2.831          74%        85%
+Corporates - SME                            32.445    225    32.669        167          58      32.502           1      57        100%        100%
+Retail - Secured by real estate SME          6.383    279     6.662        219          60       6.443           2      58          99%        99%
+Retail - Secured by real estate non-SME     26.377    728    27.105        342         386      26.763         221     165          99%        99%
+Retail - Other SME                          18.269    562    18.831        123         439      18.708         357      81          98%       100%
+Retail - Other non-SME                       6.086  1.613     7.699        715         899       6.985         674     225          87%        97%
+Retail - Qualifiying revolving                  94      -        94           -           -         94           -       -        100%        100%
+Equity                                           -  1.798     1.798        380       1.418       1.418           -   1.418           0%         0%
+Claims in the form of CIU                        -    454       454           -        454         454           -     454           0%         0%
+Securitisation positions                         0      0                     0                       0          0
+Other items                                      0  6.106     6.106      1.484       4.622       4.622           0   4.622           0%         0%
+Total                                      106.156 56.535  162.691       6.356     50.179     156.335      11.765   38.413          68%        75%
+La percentuale di copertura complessiva in termini di EAD attuale (post Cessioni e run off previsti in arco piano) è pari al 68% che diventa
+pari al 75% a termine del piano di Roll-Out.
+                                                                                                                                                   8
+
+Permanent Partial Use – Roll-Out – soglie per RWA
+                                                                                                                                           Coverage
+                                                                       Cessioni                                               Coverage
+Segmentazione CRR- RWA (€/mln)            IRB        SA       Totale               (b) - (d)   (a) + (e)   Roll-Out   PPU                   Irb fine
+                                                                       e run off                                              Irb attuale
+                                                                                                                                            Roll-Out
+                                           a         b          c          d          e            f          g        h           a/f       (a+g)/f
+Central governments or central banks            -     2.720      2.720        208       2.512       2.512           -   2.512           0%         0%
+Regional governments or local authorities       -       400        400           -        400         400           -     400           0%         0%
+Public sector entities                          -       577        577           5        572         572           -     572           0%         0%
+Institutions                                    -     2.200      2.200        109       2.091       2.091       1.684     407           0%        81%
+Corporates - Specialised Lending            1.536       381      1.917           -        381       1.917         381       -          80%       100%
+Corporates - Other                          8.325     5.198     13.523      1.351       3.847      12.172       1.395   2.453          68%        80%
+Corporates - SME                            8.575       191      8.766        136          55       8.630           1      54          99%        99%
+Retail - Secured by real estate SME         1.923       108      2.032         85          23       1.947           1      23          99%        99%
+Retail - Secured by real estate non-SME     3.028       278      3.306        121         157       3.185          80      77          95%        98%
+Retail - Other SME                          3.231       275      3.506         70         204       3.435         158      46          94%        99%
+Retail - Other non-SME                        379     1.136      1.515        473         663       1.042         499     165          36%        84%
+Retail - Qualifiying revolving                  9         -          9           -           -           9          -       -        100%        100%
+Equity                                          -     3.028      3.028        791       2.237       2.237           -   2.237           0%         0%
+Claims in the form of CIU                       -       453        453           -        453         453           -     453           0%         0%
+Securitisation positions
+Other items                                     0     3.755      3.755      1.439       2.316       2.316           0   2.316           0%         0%
+Total                                      27.006    20.699     47.705      4.787     15.912       42.918       4.198  11.713          63%        73%
+La percentuale di copertura complessiva in termini di RWA (post Cessioni e run off previsti in arco piano) è pari al 63% che diventa pari al
+73% a termine del piano di Roll-Out. Pertanto il piano risulterebbe in linea con la attuale normativa in vigore (circ 285 del 2013) che
+prevede sulle singole classi oggetto di modelli Irb una soglia minima pari al 75%.
+                                                                                                                                                      9
+
+Permanent Partial Use – Roll-Out Coverage – criteri TRIM
+                                                                                                                                            Coverage
+                                                                       Cessioni                                               Coverage
+Coverage TRIM- EAD (€/mln)                IRB        SA      Totale                (b) - (d)   (a) + (e)   Roll-Out   PPU                    Irb fine
+                                                                       e run off                                              Irb attuale
+                                                                                                                                             Roll-Out
+                                           a          b         c          d          e            f          g        h           a/f        (a+g)/f
+Sovereigns                                       -     2.360     2.360      1.078       1.283       1.283           -   1.283           0%          0%
+Banks                                            -     9.150     9.150        362       8.788       8.788       7.736   1.052           0%         88%
+Corporates - Specialised Lending            2.279        523     2.802           -        523       2.802         523       -          81%        100%
+Corporates                                 46.668      6.764    53.432      1.624       5.140      51.808       2.252   2.888          90%         94%
+Retail - Secured by real estate            32.760      1.007    33.767        561         446      33.206         223     223          99%         99%
+Retail - Other                             24.355      2.175    26.531        838       1.338      25.693       1.032     306          95%         99%
+Retail - Qualifiying revolving                  94         -        94           -           -         94           -       -        100%         100%
+Total                                     106.156     21.980  128.136       4.463     17.517     123.673      11.765    5.752          86%         95%
+                                                                                                                                            Coverage
+                                                                       Cessioni                                               Coverage
+Coverage TRIM- RWA (€/mln)                IRB        SA      Totale                (b) - (d)   (a) + (e)   Roll-Out   PPU                    Irb fine
+                                                                       e run off                                              Irb attuale
+                                                                                                                                             Roll-Out
+                                           a          b         c          d          e            f          g        h           a/f        (a+g)/f
+Sovereigns                                       -       212       212        208            4           4          -       4             -           -
+Banks                                            -     2.200     2.200        109       2.091       2.091       1.684     407           0%         81%
+Corporates - Specialised Lending            1.536        381     1.917           -        381       1.917         381       -          80%        100%
+Corporates                                 16.900      5.389    22.289      1.487       3.902      20.802       1.395   2.506          81%         88%
+Retail - Secured by real estate             4.951        386     5.337        206         181       5.132          81     100          96%         98%
+Retail - Other                              3.610      1.410     5.020        543         867       4.477         657     211          81%         95%
+Retail - Qualifiying revolving                   9         -         9           -           -           9          -       -        100%         100%
+Total                                      27.006      9.978    36.985      2.552       7.426      34.432       4.198   3.228          78%         91%
+In base alle indicazioni riportate nella TRIM Guide, la copertura deve essere pari ad almeno il 50% dell’EAD sulle classi di attività riportate
+nella tabella, con un target a fine piano dell’ 80%. Attualmente la copertura (post Cessioni e run off previsti in arco piano) è pari all’86% per
+l’EAD e 78% per l’RWA e a fine piano diventa pari al 95% per l’EAD e al 91% per RWA.
+                                                                                                                                                        10
+
+Permanent Partial Use – Dettagli
+                                           SA netto
+PPU - EAD (€/m ln)
+                                           cessioni
+Central governments or central banks          24.759            Si tratta di classi di esposizione per le quali la Banca, in conformità con l’art 150 del CRR, ha
+Regional governments or local authorities      1.990            ritenuto ingiustificatamente oneroso dotarsi di un sistema di rating, in considerazione del limitato
+Public sector entities                           701            set informativo disponibile, della tipologia di esposizione, della numerosità e della materialità in
+Institutions                                   1.052            termini sia di EAD sia di RWA. La maggioranza dei portafogli sono stati inseriti in PPU sin dal
+Equity                                         1.418            primo piano di roll-out. Solo a titolo esemplificativo si evidenzia che all’interno dei 24,7 €/bln di
+Claims in the form of CIU                        454            crediti verso Central governments or central banks circa 16 €/bln sono verso la Stato Italiano,
+Totale                                        30.374            circa 6 €/bln verso la Banca d’Italia.
+                                           SA netto
+PPU Corporate e Retail - EAD (€/mln)
+                                           cessioni
+Esposizioni e titoli su MPS o CS                 959
+Corporate estero                                 603
+Enti no lucro                                    478           Si tratta di esposizioni residuali classificate nei segmenti corporate e retail (Corporates – Other;
+Factoring pro soluto                             453           Corporates – SME;Retail - Secured by real estate SME; Retail - Secured by real estate non-SME;
+Partitari e ratei                                365           Retail - Other SME;Retail - Other non-SME) che la Banca ha deciso si trattare in PPU per la
+Esposizione fine mese carte a saldo              244           scarsa materialità delle controparti per cui sarebbe risultato eccessivamente oneroso recuperare il
+Start up                                         145           set informativo necessario per lo sviluppo e l’applicazione dei modelli Irb.
+Altro                                            171
+Totale                                         3.417
+                                                                                                                                            SA netto
+                                                                                                 PPU Altro - EAD (€/mln)
+                                                                                                                                            cessioni
+                                                                                                 Cassa                                           2.607
+                                                                                                 Partitari e Ratei                               1.024
+  Altre esposizioni rappresentate principalmente a partitari, ratei e cassa MPS.                 Covered Bond MPS e MPS CS                         688
+                                                                                                 High risk                                          94
+                                                                                                 Altro                                             209
+                                                                                                 Totale                                          4.622
+                                                                                                                                                                      11
+
+Piano delle attività Modelli Irb
+Sulla base di quanto riportato nelle slides precedenti si prevedono pertanto nel corso del prossimo triennio le seguenti        Time line
+attività:
+1.   ritiro dell’istanza di material change model inviata a novembre 2017 alla BCE;                                              2q 2018
+2.   aggiornamento, con shift temporale delle serie storiche, delle attuali metriche validate dei modelli PD/LGD in essere;      3q 2018
+3.   recepimento dei finding e delle deviation della BCE entro le scadenze attualmente previste (in attesa di feedback da
+     parte della BCE). Dato che alcuni dei finding della BCE sono strettamente interessati dal tema LGD Waiver                 In attesa di
+     (13,14,21), la risoluzione di questi potrà essere avviata solo dopo la comunicazione da parte della BCE                    feedback
+     sull’accoglimento o meno di tale istanza. Il recepimento di essi prevede la definizione di un modello per la                  BCE
+     determinazione dei RWA sui Defaulted Assets e per la stima dell’Elbe, che saranno pertanto oggetto di istanza di
+     material change models nel corso del 2019;
+4. Ottimizzazione del processo di rating della clientela Corporate e Retail                                                      4q 2018
+5. Roll-Out Ead                                                                                                                  4q 2019
+6. Assegnazione di un rating alle controparti Corporate ex Specialised Lending con affidamenti <5 €/mln                          4q 2019
+7. Ottimizzazione delle procedure di calcolo del rating                                                                          4q 2019
+8. Inclusione delle carte revolving (ex Consum.it) nei crediti Irb                                                               4q 2019
+9. Roll-Out Widiba                                                                                                               4q 2019
+10. Roll-Out Nbfi e Banche                                                                                                       4q 2020
+Su tutte le attività riportate dal punto 5 al punto 10 impatteranno le comunicazioni che la BCE effettuerà sul tema della
+nuova definizione di default, la cui implementazione è attesa entro il 2021 e su cui il regolatore deve ancora dare chiare
+linee guida (ad esempio sulla quantificazione delle nuove soglie assolute e relative).
+La nuova definizione di default comporterà la necessita di ristimare e ricalibrare tutti i modelli già validati (con probabile
+istanza di material model change), pertanto le tempistiche e il piano delle attività potranno essere oggetto di ulteriore
+review negli anni successivi.
+                                                                                                                                            12
+
+13

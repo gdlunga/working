@@ -1,0 +1,1290 @@
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+                            Rapporto di Sintesi Annuale di Data Governance 2018
+ Versione: 1.0
+Sommario
+1.     Obiettivi del Documento ................................................................................................................. 2
+2.     Executive Summary ........................................................................................................................ 2
+3.     Rapporto Annuale 2018 .................................................................................................................. 5
+    3.1      Standard di Data Governance .................................................................................................. 5
+    3.2      Sistema di Gestione della Data Governance ............................................................................. 6
+       3.2.1        Aree di intervento o framework di Data Governance ............................................................... 8
+       3.2.2        Modello Organizzativo ............................................................................................................... 8
+       3.2.3        Perimetro di Riferimento ......................................................................................................... 10
+       3.2.4        Modello operativo di Riferimento ........................................................................................... 11
+       3.2.5        Framework degli Strumenti ..................................................................................................... 14
+    3.3      Avanzamento delle attività di Data Governance ..................................................................... 19
+       3.3.1        Roll Out Output Rilevanti......................................................................................................... 19
+       3.3.2        Roll Out Base Dati Rilevanti ..................................................................................................... 21
+       3.3.3        Attività Straordinarie ed Altri Progetti .................................................................................... 24
+4.     Rendicontazione Annuale ............................................................................................................. 26
+    4.1      Data Modeling ...................................................................................................................... 26
+    4.2      Data Quality e Remediation (compreso focus incident) ........................................................... 28
+    4.3      Balanced Scorecard ............................................................................................................... 35
+5.     Strategia di Sviluppo della Data Governance.................................................................................. 38
+                                                                    1
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+      1. Obiettivi del Documento
+Il “Rapporto di Sintesi Annuale di Data Governance” è il documento che ha l’obiettivo di rappresentare i lavori
+effettuati nel corso del 2018 nell’ambito del Sistema di Gestione di Data Governance del Gruppo ed illustrare
+le linee guida evolutive per l’anno 2019.
+Il documento è predisposto dalla Funzione Data Governance e validato dal Chief Data Officer che lo
+condivide all’Amministratore Delegato in qualità di Organo con Funzione di Gestione, come richiesto dalla
+Circolare di Banca d’Italia 285 e Regolamento 38 IVASS e recepito nella Direttiva di Processo “Sistema di
+Gestione di Data Governance” (1030D02214) inserendolo tra i flussi informativi della Direttiva stessa.
+La rendicontazione offre una view sullo stato di copertura della Data Governance all’interno del Gruppo,
+dando evidenza delle attività in corso e la pianificazione delle attività previste rispetto agli ambiti non ancora
+avviati.
+Il rapporto si articola nei seguenti ambiti di approfondimento:
+<U+25AA>      Standard di Data Governance e Sistema di Gestione della Data Governance, descrivendo in particolare
+       le evoluzioni in termini di aree di intervento e perimetro, modello organizzativo, modello operativo e
+       strumenti;
+<U+25AA>      Avanzamento attività di data Governance, offrendo una view sull’avanzamento delle iniziative di Data
+       Governance, sulle attività obbligatorie in cui la funzione è coinvolta e sulle attività di configurazione della
+       macchina operativa;
+<U+25AA>      Rendicontazione e Monitoraggio, rendicontando le principali evidenze di Data Quality (compresa la
+       remediation) e Data Modeling;
+<U+25AA>      Strategia di Sviluppo della Data Governance, illustrando le linee strategiche e di sviluppo della Data
+       Governance e gli obiettivi in termine di copertura del patrimonio informativo aziendale.
+      2. Executive Summary
+Il 2018 per la Data Governance ha rappresentato un anno di profondi cambiamenti: l’esperienza maturata
+dall’avvio delle attività nel 2016 e la necessità di aumentare il grado di maturità della Data Governance
+rispetto al complessivo patrimonio informativo del Gruppo, ha comportato una serie di evoluzioni di seguito
+sintetizzate e che saranno oggetto della relazione.
+Standard di Data Governance e Sistema di Gestione della Data Governance
+<U+25AA>      Gli Standard di Data Governance, rappresentati dalla Policy e dalle Direttive di Processo, sono stati
+       aggiornati per revisionare il Modello Organizzativo in seguito alla cancellazione del Comitato di Data
+       Governance decisa nel 2017 nel contesto della razionalizzazione dei Comitati. Nell’ambito della revisione
+       degli Standard rileva l’ampliamento del perimetro di intervento con l’inserimento degli Ambiti
+       Informativi Finanza, Commerciale ed Anagrafe.
+<U+25AA>      L’aggiornamento dell’impianto normativo non è comunque esaustivo rispetto alle evoluzioni del
+       Sistema di Gestione della Data Governance avviate nel 2018 dalla Funzione. L’esigenza di aumentare
+       il grado di pervasività della Data Governance e di copertura del complessivo patrimonio informativo del
+       Gruppo (aspetti evidenziati anche nelle recenti ispezioni di BCE/Bankit) ha comportato un’evoluzione
+       dell’approccio: la mappatura e messa in sicurezza del patrimonio informativo di Gruppo non avviene
+       solo a partire dagli Output Rilevanti, ma anche a partire dalle Basi Dati. Questo favorisce
+       un’accelerazione della copertura del patrimonio informativo del Gruppo, un efficientamento delle
+                                                             2
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+       attività di Data Quality, una maggior accuratezza nella certificazione delle informazioni grazie
+       all’implementazione di sistemi di Data Discovery1 e Data Lineage2.
+<U+25AA>      L’evoluzione dell’approccio ha impatti 1) sul modello organizzativo, con un maggior grado di
+       accentramento delle responsabilità sulla Funzione di Data Governance, 2) sul framework degli
+       strumenti, con l’introduzione nell’architettura di Data Governance di un sistema di Data Discovery e
+       Data Lineage che sarà operativo nel 2019 e con l’evoluzione del Business Glossary introducendo un
+       Modello Semantico per clusterizzare le informazioni mappate e valutare il grado di copertura della Data
+       Governance e 3) sul sistema di Rendicontazione e Monitoraggio con l’introduzione di un sistema di
+       Balanced Scorecard Data Driven finalizzato a fornire un indicatore sintetico espressivo della qualità di
+       un determinato ambito informativo.
+<U+25AA>      Per quel che riguarda gli Output Rilevanti, nel 2018 sono state variate le regole di individuazione degli
+       stessi, contemplando tre diverse tipologie:
+       o Output Rilevante Tipo 1: report, Informative e Flussi dati obbligatori inviati verso l’esterno (es.
+             Segnalazioni di Vigilanza, Comunicazioni al Mercato, ecc.);
+       o Output Rilevante Tipo 2: report, Informative e Flussi dati inviati ad Organi Apicali, ispirati a vincoli
+             e criteri definiti da normative esterne (es.: criteri BCBS 239, NPE Guidance, ecc.);
+       o Output Rilevante Tipo 3: report, Informative e Flussi dati previsti da relazioni contrattuali rilevanti
+             (servicing, outsourcing, ecc.).
+       Le priorità d’intervento saranno sugli Output di Tipo 1 e di Tipo 2. Di fatto vengono esclusi i Report
+       Gestionali il cui presidio viene ricondotto nell’ambito del processo di Gestione del Reporting di Sintesi.
+       Gli effetti sul perimetro complessivo degli interventi sopra citati saranno evidenti alla fine del Q1 2019
+       con i risultati del nuovo censimento avviato tramite questionario rivolto a tutti i Data Owner della Banca.
+<U+25AA>      Nell’ambito della Remediation è stato rilasciato il “Flag di Data Quality” all’interno degli applicativi di
+       assistenza al fine di connotare i ticket aperti per carenze di Qualità dei Dati. Tale attività consente un
+       monitoraggio strutturato degli incident di Data Quality richiesto dal JST nel 2017.
+Avanzamento delle Attività di Data Governance
+<U+25AA>      Nel 2018 è proseguita l’attività sugli Output Rilevanti secondo la nuova accezione sopra definita e sono
+       state avviate le attività sulle Basi Dati Rilevanti, in particolare l’Anagrafe della Clientela, la Procedura
+       Beni, l’Anagrafe Controparti e Strumenti e i Depositi a Risparmio con diversi gradi di avanzamento.
+<U+25AA>      La Data Governance ha promosso e finalizzato le prime iniziative di remediation massive soprattutto in
+       ambito anagrafico con l’annullamento di rapporti ed anagrafiche anomale. Ha inoltre avviato delle
+       iniziative finalizzate alla sistemazione dell’archivio dei Depositi a Risparmio che verranno finalizzate nel
+       2019.
+<U+25AA>      Sono state inoltre gestite alcune attività “straordinarie” e partecipato/ supportati Progetti Obbligatori:
+       ispezione JST su “Data Quality e IT Risk”, TRIM, GDPR, BCSB239 – Perdar.
+Rendicontazione e Monitoraggio
+<U+25AA>      Rispetto al 2017 il sistema di KPI è stato potenziato con l’introduzione di una Balanced Scorecard sia per
+       gli Output che per le Basi Dati Rilevanti. Il principio base è comunque comune, ovvero quello di
+       esprimere con un punteggio sintetico la performance rispetto alle principali attività di Data Governance:
+       censimento delle BDE (Data Model), esecuzione dei controlli (Data Quality) e sistemazione delle
+       anomalie (Remediation).
+1
+  I sistemi di Data Discovery consentono di verificare il puntamento fisico delle Informazioni di Business all’interno degli
+archivi della banca (attraverso l’impostazione di regole semantiche sui metadati o direttamente sui campi delle tabelle)
+in ottica di razionalizzazione e verifica della qualità delle stesse oltre che di compliance ai requisiti GDPR.
+2
+  Data Lineage è definito come la descrizione del ciclo di vista di un dato, dall’origine del dato stesso e del processo o
+dei processi tramite il quale esso è utilizzato e/o derivato
+                                                                3
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+<U+25AA>      È proseguita l’attività di monitoraggio delle anomalie rilevate dall’iniziativa “Swiffer”, ovvero i controlli
+       tecnici massivi sul DWH Aziendale incrementando sensibilmente il perimetro controllato (+14% delle
+       colonne e +25% dei campi controllati) e sono stati avviati nuovi monitoraggi nell’ambito dei Mutui
+       Ipotecari e delle Garanzie.
+Strategia di Sviluppo della Data Governance
+<U+25AA>      Nel 2018 sono state definite le linee guida di sviluppo della Data Governance per il triennio 2019-2021,
+       propedeutiche alla formalizzazione di una strategia intesa come formalizzazione degli obiettivi di
+       crescita della Data Governance all’interno del Gruppo.
+<U+25AA>      La formalizzazione degli obiettivi è prevista entro la fine del primo trimestre 2019 e ne sarà data evidenza
+       in sede di Comitato Operativo Progetti (previsto ad aprile 2019) con l’illustrazione delle iniziative
+       progettuali proposte. Verrà quindi chiuso uno specifico Gap del CAE - Area Revisione Specialistica.
+<U+25AA>      Lo sviluppo della Data Governance avverrà tramite l’approccio Data Driven sulle principali Basi Dati
+       secondo un percorso di attivazione disegnato sul modello semantico che riconduce gli ambiti informativi
+       ai principali fenomeni dell’attività bancaria, e tramite l’approccio Output Rilevanti dando priorità ai
+       report e ai flussi informativi di tipo 1 con focus sul regulatory reporting.
+L’evoluzione dell’approccio sopra descritto ha supportato il raggiungimento dei primi risultati in termini di
+miglioramento complessivo della qualità dei dati che sono di seguito evidenziati ed approfonditi nei paragrafi
+successivi:
+     Ambito                                      Iniziativa                             Anomalie            Benefici
+                                                                                         Sanate
+  Clienti           Chiusura rapporti accesi a clientela deceduta/cessata da oltre 5    109.363    • Riduzione invii postali;
+  Anagrafe          anni. Chiusura su un perimetro limitato di servizi: IP, RA, PI, PQ,
+                                                                                                   • Minori rischi operativi;
+                    ES, NG, RT, DE e FO
+                    Annullamento degli NGR con anomalie di censimento per i quali       240.471
+                    non risultano rapporti anagrafici in essere o estinti
+                    Annullamento degli NGR di tipo Ditta Individuale per i quali il     45.989
+                    titolare non è mai esistito
+                    Riallineamento archivi: chiusura rapporti che risultano aperti in   1.096
+                    Anagrafe ma chiusi nei diversi sistemi alimentanti
+  DWH               Swiffer     –      controlli   tecnici     massivi     su    DWH    250 mln    Accuratezza sistemi di
+                    Cancellazione/Sostituzione caratteri non ammessi (unreadable                   sintesi
+                    char)
+  Segnalazioni      SISBA – Segnalazioni di Vigilanza: remediation su anomalie          700 K      Accuratezza
+                    segnalati dai controlli SISBA sui servizi operazionali                         segnalazioni
+  Depositi a        Sospensione dell’invio del rendiconto periodico a mezzo posta       265.000    Saving stimati 350k €
+  Risparmio         ordinaria, mantenendo la produzione in “formato digitale”, per
+                    Depositi a risparmio Nominativi candidati Fermi
+  Reportistica      Disabilitata la funzione di export dati del tool Explora (CRM) per  n.a.       • Maggior          tutela
+                    le strutture di Rete, mentre per le strutture di Direzione è stata                informazioni sensibili;
+                    limitata l’esportazione a 100.000 righe (eccezioni gestite con
+                                                                                                   • Minori rischi operativi.
+                    profili ad hoc).
+Altre iniziative sono in corso (viene data evidenza nel documento) e saranno finalizzate nel corso del 2019.
+                                                                  4
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+       3. Rapporto Annuale 2018
+           3.1 Standard di Data Governance
+Lo Standard di Data Governance (di seguito Standard DG) all’interno del Gruppo è rappresentato
+formalmente dall’impianto normativo costituito dalla “Policy di Gruppo in materia di Data Governance”
+(1030D02148) e dalle relative Direttive di Processo “Sistema di Gestione della Data Governance”
+(1030D02214), “Presidio del Perimetro Informativo” (1030D02215) e “Gestione Qualità dei Dati”
+(1030D02216). Lo Standard di Data Governance è stato divulgato a tutte le Società del Gruppo, che lo hanno
+formalmente recepito3, e per rilevanza le attività si sono concentrate, in questa fase iniziale, sulla
+Capogruppo.
+Nel corso del 2018 è stato modificato lo Standard DG, con la revisione dell’impianto normativo. I punti
+essenziali oggetto di variazione sono i seguenti:
+• cancellazione del Comitato di Data Governance (in seguito all’attività di razionalizzazione dei Comitati
+     promossa dall’AD nel Q4 2017) e ridefinizione, nell’ambito del Modello adottato dal Gruppo di tipo
+     distribuito, dei meccanismi di salvaguardia del coordinamento e dell’integrazione dei vari ambiti
+     informativi e delle azioni atte a garantire la condivisione formalizzata delle decisioni da assumere,
+     precedentemente garantiti dalle adunanze del Comitato Data Governance. È stato quindi previsto:
+     a. un Tavolo Tecnico per la gestione collettiva delle scelte operative e strategiche, che il CDO ha la facoltà
+         di convocare per l’assolvimento di compiti e deliverable precedentemente assegnati al Comitato Data
+         Governance. La convocazione può avvenire contestualmente al Comitato Gestione Rischi – Sessione
+         Operational Risk;
+     b. un passaggio informativo nel Comitato Gestione Rischi, Sessione Operational Risk, per la presentazione
+         del Rapporto di Sintesi Annuale di Data Governance;
+• recepimento dell’evoluzione dell’assetto organizzativo del Gruppo MPS nel 2018 che ha inciso
+     sull’individuazione dei Data Owner;
+• variazione del perimetro di applicazione con l’inserimento di nuovi Ambiti Informativi e la
+     razionalizzazione/accorpamento di quelli esistenti. In particolare sono stati inseriti Finanza, Commerciale
+     e Anagrafe per aumentare la copertura perimetro informativo e rafforzare la compliance alla normativa,
+     attivando nel Sistema di Data Governance analisi su informazioni rilevanti inerenti il monitoraggio della
+     liquidità e dei dati sulla clientela, rilevanti anche per la normativa sulla privacy “GDPR”;
+• attribuzione all’Utente Responsabile4 delle responsabilità di presidio del patrimonio informativo
+     afferente a Basi Informative che non sono governate da uno specifico Data Owner;
+• Esplicitazione della Data Strategy intesa come la gestione integrata degli elementi del framework di Data
+     Governance (Data Quality, Data Protection, Data Management, Data Model) finalizzata all’estrazione di
+• 3MPS L&F: Delibera del CDA del 04/01/2019 (C79EF33EC0)
+• Widiba: Delibera del CDA del 17/12/2018 con emanazione analoga normativa interna (3442D00219; 3442D00216;
+  3442D00217; 3442D00218);
+• MPSCS: Delibera CDA del 28/09/2016;
+• COG: Recepito in normativa 0010D00132 “Direttive e Policy di Gruppo” V28 del 14/11/2016
+• Magazzini Generali fiduciari di Mantova: Delibera del CDA del 20/10/2016
+• MPS Fiduciaria: Delibera del CDA del 29/09/2016
+4
+ La figura dell’Utente Responsabile è definita negli Standard di Data Governance fa riferimento alla Normativa
+1030D020445 “Direttiva di Gruppo in Materia di Rischio Informatico” e viene identificata come Figura aziendale
+identificata per ciascun sistema o applicazione che ne assume formalmente la responsabilità in rappresentanza degli
+utenti e nei rapporti con le Funzioni preposte allo sviluppo e alla gestione tecnica. L’Utente Responsabile partecipa al
+processo di gestione del rischio informatico e approva formalmente il rischio residuo
+                                                             5
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+     valore dal patrimonio informativo aziendale e l’utilizzo delle informazioni per la definizione ed il
+     raggiungimento degli obiettivi di business.
+Nel corso del 2019 è prevista un’attività di revisione ed integrazione degli standard di Data Governance con
+impatti sul sistema normativo attualmente vigente. I contenuti dei principali interventi sono di seguito
+schematizzati:
+• Variazione Normative già pubblicate: i principali interventi sono riconducibili alla necessità di
+     formalizzare il nuovo approccio Data Driven (cfr. paragrafi successivi) avviato dal Servizio Data
+     Governance nel corso del 2018 che prevede un allargamento del perimetro d’intervento dagli Output
+     Rilevanti alle Basi Dati ed una focalizzazione rispetto a temi di Data Quality. A tal fine si rende necessario:
+     a. formalizzare la nuova definizione di Output Rilevante ed introdurre la definizione di Base Dati
+         Rilevante;
+     b. prevedere oltre al Modello Organizzativo di tipo Distribuito (confermato per l’approccio ad Output
+         Rilevanti) un Modello di tipo misto per l’approccio Data Driven caratterizzata da maggior
+         accentramento decisionale sulla Data Governance relativamente a temi di Qualità dei Dati;
+     c. Integrare il ruolo del Comitato Gestione Rischi – Sessione Rischi Operativi anche alla luce dei passaggi
+         effettuati nelle sessioni del 2018;
+     d. Ampliare le responsabilità e il framework degli strumenti di Data Governance con i tool di Data
+         Discovery
+     e. Definire le linee guida del Data Lineage funzionale alla tracciatura e certificazione della qualità dei dati
+         come richiesta dalle normative esterne (BCBS 239, NPE Guidance, Recovery/Resolution);
+• Integrazione/completamento degli standard attraverso l’emanazione di due nuove Direttive di Processo
+     finalizzate a normare l’utilizzo delle banche dati esterne e la diffusione e divulgazione del reporting
+     gestionale indirizzato sia alle Strutture Centrali che alle Unità Periferiche. Mentre per le banche dati
+     esterne deve essere creato un processo ad hoc5, per il reporting gestionale si tratta di normare il processo
+     Presidio del Reporting di Sintesi già inserito nella tassonomia dei processi del Gruppo nell’ambito del
+     Macro Processo di Data Governance.
+  CONTESTO            PROCESSO DI RIFERIMENTO                      NORMATIVA IMPATTATA             RILASCIO PREVISTO
+  Evoluzione          • Sistema di Gestione della Data             • 1030D02214                    Q2 2019
+  Standard              Governance
+                      • Presidio del Perimetro Informativo         • 1030D02215
+  Integrazione Presidio del Perimetro Informativo                  • 1030D02148                    Q1 2019
+  Standard            Esterno (new)                                • Direttiva di Gruppo in
+                                                                     materia di Presidio del
+                                                                     perimetro Informativo
+                                                                     Esterno (New)
+  Integrazione Presidio Del Reporting di Sintesi                   Direttiva di Gruppo in Q2 2019
+  Standard                                                         materia di Presidio del
+                                                                   Reporting di Sintesi
+Tabella 1 - Evoluzioni 2019 previste
+           3.2 Sistema di Gestione della Data Governance
+Il Sistema di Gestione di Data Governance (di seguito Sistema) definisce, del complesso modello
+organizzativo stabilito per il Gruppo, la componente di governo del “Sistema di Gestione dei Dati” di Gruppo.
+Esso si sostanzia nei seguenti elementi:
+<U+25AA>      Aree di Intervento o Framework di Data Governance;
+5
+  già inoltrata la richiesta ad Organizzazione. In corso di finalizzazione il testo normativo.
+                                                               6
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+<U+25AA>      Modello Organizzativo;
+<U+25AA>      Perimetro di Riferimento o Ambiti Informativi Rilevanti;
+<U+25AA>      Impianto Normativo e Processi (citati nel precedente paragrafo);
+<U+25AA>      Aspetti specifici di processo legati alla Data Quality e alle linee guida di Remediation, comprese le
+       tassonomie e nomenclature standard di Gruppo e i KQI
+<U+25AA>      Modalità Operative di attivazione dei Data Owner nel Modello, compresi gli standard documentali da
+       utilizzare
+<U+25AA>      Framework degli strumenti
+Nel 2018 la Data Governance ha evoluto l’approccio di gestione in modo significativo con impatti su tutti gli
+elementi sopra citati. In particolare all’approccio per Output Rilevanti è stato affiancato un approccio
+denominato Data Driven dove viene dato un maggior focus su tematiche di Data Quality inerenti le basi dati
+elementari. Quindi, se nella fase di avvio della Data Governance il perimetro d’intervento era definito sulla
+base di report finali contenenti per lo più informazioni aggregate di sintesi, in questa nuova fase si completa
+il framework d’intervento inserendo nel perimetro le basi dati rilevanti di riferimento per tali report in modo
+da certificare con un maggior grado di completezza la qualità dell’informazione rispetto a tutto il ciclo di vita
+della stessa (dall’introduzione nei sistemi, fino all’aggregazione nelle reportistiche di sintesi). Di seguito una
+rappresentazione semplificata del Patrimonio Informativo di Gruppo presidiato dalla Data Governance:
+                                      Figura 1: Patrimonio Informativo Gruppo MPS
+L’evoluzione sopra descritta è la risposta ad una serie di fattori sia esogeni che interni al Gruppo quali:
+<U+25AA> ispezioni del regolatore che hanno evidenziato la necessità di mappare con maggiore granularità il
+     patrimonio informativo aziendale;
+<U+25AA> normative esterne sempre più prescrittive in tema di certificazione dei dati con particolare riferimento
+     agli aspetti di Data Quality e Data Lineage (es. BCBS 239, Npe Guidance, Recovery Plan);
+<U+25AA> necessità di efficientare i processi di Data Quality correggendo i dati nei primi stadi del loro ciclo di vita;
+<U+25AA> esperienza maturata nella fase Progettuale 2016-2018 che suggerisce un’evoluzione dell’approccio per
+     aumentare la pervasività dei principi di Data Governance nel Gruppo;
+<U+25AA> crescente utilizzo di Basi Dati Esterne;
+<U+25AA> necessità di processi di produzione del dato anche in ottica di contenimento dei costi.
+Rispetto a tali esigenze, l’approccio Data Driven presenta vantaggi quali:
+<U+25AA> Maggior efficienza delle attività di Data Quality correggendo il dato nei primi stadi del ciclo di vita;
+                                                             7
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+<U+25AA> Benefici propagati ed estesi su tutti i sistemi utenti delle informazioni;
+<U+25AA> Possibilità di utilizzare algoritmi per la correzione massiva di Dati Elementari;
+<U+25AA> La maggiore qualità degli archivi è funzionale ad una valorizzazione del patrimonio informativo;
+Naturalmente tale approccio fornisce dei benefici misurabili prevalentemente nel lungo periodo.
+L’approccio per Output Rilevanti non viene abbandonato, ma confermato solo per ambiti in cui le normative
+esterne prescrivono la certificazione dei dati aggregati (es. BCBS 239, Recovery/Resolution), mentre le linee
+di sviluppo della Data Governance all’interno del Gruppo vengono definite attraverso l’approccio Data
+Driven.
+I due approcci, benché logicamente collegati nella visione complessiva del patrimonio informativo aziendale,
+comportano delle differenze in termini di applicazione degli elementi costitutivi del Sistema, che quindi nel
+2018 hanno subito delle evoluzioni spiegate nei paragrafi successivi.
+                3.2.1     Aree di intervento o framework di Data Governance
+La nuova versione della Policy (1030D02148) ha confermato le Aree d’Intervento definite nella prima
+emanazione degli Standard, ossia: Data Governance, Data Quality, Data Protection, Data Management, Data
+Modeling, Data Architecture e Data Strategy.
+Rispetto a tali Aree, il 2018 si caratterizza per le seguenti innovazioni:
+<U+25AA> Data Governance: è stato formalizzato il Servizio Data Governance e Reporting Management all’interno
+     dell’organigramma del Gruppo su cui sono state ricondotte le responsabilità ed il ruolo della Funzione di
+     Supporto al CDO definito all’interno delle normative.
+<U+25AA> Data Quality: l’introduzione dell’approccio Data Driven ha comportato un maggior focus su tale area
+     attraverso l’avvio di iniziative di remediation su specifiche basi dati e l’evoluzione dei KPI per la
+     misurazione della qualità degli archivi.
+<U+25AA> Data Protection: la Data Governance è stata coinvolta nel progetto GDPR finalizzato a garantire la
+     protezione dei dati sensibili e personali della clientela.
+<U+25AA> Data Management: sono stati individuati gli strumenti tecnologici a supporto della Data Discovery e del
+     Data Lineage. L’installazione è prevista per il 2019 e consentirà la tracciabilità del ciclo di vita dei dati.
+<U+25AA> Data Modeling: finalizzato nel 2018 il modello semantico di riferimento per la classificazione delle
+     informazioni aziendali.
+<U+25AA> Data Architecture: proposti interventi architetturali funzionali ad una maggiore qualità dei Dati (es. Sisba
+     3, Quadratura Chiavi Contabili/Sap);
+<U+25AA> Data Strategy: Esplicitata all’interno delle normative come gestione integrata degli elementi del
+     framework di Data Governance (Data Quality, Data Protection, Data Management, Data Model) finalizzata
+     all’estrazione di valore dal patrimonio informativo aziendale e all’utilizzo delle informazioni per la
+     definizione ed il raggiungimento degli obiettivi di business
+                3.2.2     Modello Organizzativo
+Nel 2018 è stata formalizzata la cancellazione del Comitato Data Governance che costituiva una delle funzioni
+di Governo nell’ambito del Modello Organizzativo definito dagli Standard DG insieme al CDO ed alla Data
+Governance. Il nuovo assetto delle responsabilità derivanti dall’eliminazione del Comitato suddetto, ha
+previsto l’istituzione di:
+<U+25AA> un Tavolo Tecnico per la gestione collettiva delle scelte operative e strategiche, che il CDO ha la facoltà di
+     convocare per l’assolvimento di compiti e deliverable precedentemente assegnati al Comitato Data
+     Governance;
+<U+25AA> un passaggio informativo nel Comitato Gestione Rischi, Sessione Operational Risk, per la presentazione
+     del Rapporto di Sintesi Annuale di Data Governance;
+                                                             8
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Nei fatti, il ruolo e le responsabilità previste dalla normativa per i due organi collegiali sopra elencati sono
+stati concentrati sul Comitato Gestione Rischi – Sessione Operational Risk che per composizione,
+rappresentatività e tematiche trattate è stato considerato adatto ad assolvere anche le responsabilità del
+Tavolo Tecnico.
+Nel 2018 la Data Governance ha effettuato due passaggi nel Comitato Gestione Rischi, Sessione Operational
+Risk nelle sedute del 10/08/2018 e del 07/11/2018, di seguito una sintesi delle degli argomenti presentati:
+  Data Comitato                                             Argomenti Proposti
+         Rischi
+  10/08/2018            •  Presentazione Piano d’investimenti 2019-2021 proposta a Bankit;
+                        •  Presentazione Piano Operativo di Data Governance 2018-2019;
+                        •  Illustrazione approccio Data Driven;
+                        •  Esigenze evolutive del Framework degli strumenti;
+                        •  Proposte di remediation Accentrata:
+                           o Chiusura Rapporti su clienti deceduti e cessati (RT, PQ e IP);
+                           o Correzione Recapiti E-Mail della Clientela;
+                           o Sistemazione caratteri sporchi sui campi del DWH (Unreadable Char);
+  07/11/2018            • Rendicontazione delle Principali iniziative di remediation in Corso:
+                           o Mutui Ipotecari senza Garanzia Ipotecaria;
+                           o Garanzie Attive non collegate a fidi operativi;
+                           o Chiusura rapporti su clienti deceduti e cessati;
+                           o Sistemazione UnreadableChar;
+                        • Presentazione Modello Semantico e Balanced Scorecard Data Driven
+                        • Illustrazione dello Stato di Avanzamento Lavori dei progetti Perdar e GDPR in cui la
+                           Data Governance è coinvolta su specifici moduli progettuali.
+Tabella 2 - Sintesi Passaggi in Comitato Rischi
+Nel corso del 2019 l’aggiornamento degli standard dovrà formalizzare il Ruolo del suddetto Comitato nei
+processi di Data Governance, prescrivendo il passaggio in tutte le sessioni previste e non solo per la
+presentazione del Rapporto Annuale, ed individuandolo come il contesto in cui la Data Governance:
+<U+25AA> Illustra lo stato di avanzamento delle iniziative di Data Governance rispetto ai piani di azione formalizzati;
+<U+25AA> Presenta le Rendicontazioni Trimestrali e sottopone la Relazione Annuale per il successivo invio
+     all’Organo con Funzione di Gestione (AD);
+<U+25AA> Propone per l’autorizzazione iniziative di remediation accentrata per la correzione di dati riferiti a Base
+     Dati Rilevanti;
+<U+25AA> Indirizza le escalation in caso di tematiche rilevanti di Data Governance con impatti trasversali sulle
+     Funzioni del Gruppo.
+Oltre all’abolizione del Comitato, nel 2018 con l’approccio Data Driven ha comportato la previsione di un
+modello di tipo misto rispetto a quello totalmente distribuito disciplinato nella prima versione degli
+standard. Tale approccio comporta:
+<U+25AA> la conferma del modello distribuito per l’approccio ad Output Rilevanti, con un affinamento della
+     modalità di identificazione degli stessi (cfr. paragrafo 3.2.3);
+<U+25AA> l’introduzione di un modello di tipo accentrato per l’approccio Data Driven in cui la Funzione Data
+     Governance si propone con un maggior grado di proattività rispetto alle iniziative tese al miglioramento
+     della qualità delle Basi Dati Rilevanti, quindi:
+                                                             9
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+      •    promuovere e disegnare (anche attraverso attività di Data Intelligence) soluzioni di correzione dei
+           dati minimizzando quanto più possibile il coinvolgimento della Rete;
+      •    promuovere la variazione di processi, policy e normative interne funzionali ad ottenere una maggiore
+           qualità delle informazioni;
+      •    autorizzare le attività di sistemazione dei dati relative ad iniziative di Data Quality presentate nei
+           piani condivisi con il Comitato Gestione Rischi – Sessione Rischi Operativi
+I primi ambiti in cui è stato testato il nuovo modello è stato quello dell’Anagrafe e dei Depositi a Risparmio,
+nei quali la Data Governance, previo passaggio al Comitato rischi, ha promosso iniziative di sistemazione dei
+Dati informando il Data Owner.
+La Data Governance nel 2019 consoliderà l’evoluzione dell’approccio «Data Driven». È stata quindi avviata
+con Area Organizzazione una riflessione sui perimetri organizzativi della Capogruppo per verificare
+l’opportunità di prevedere sulla Funzione Data Governance l’accentramento di specifiche attività di Data
+Quality attualmente decentrate in terze funzioni con l’obiettivo di:
+<U+25AA> gestire la Qualità dei Dati di Basi Dati trasversali a diversi ambiti informativi con una visione d’insieme
+     aumentando quindi l’efficacia delle Remediation;
+<U+25AA> standardizzare processi di Data Quality relativi a Basi Dati Rilevanti aumentando l’efficienza delle attività
+     anche in termini di assorbimenti di FTE;
+<U+25AA> ampliare il set di competenze della Funzione anche in ottica di ampliamento degli ambiti di intervento.
+                3.2.3     Perimetro di Riferimento
+La revisione degli Standard DG formalizzata nel 2018 ha introdotto nella Policy i nuovi ambiti informativi
+“Anagrafe”, (per ma mappatura delle Informazioni Anagrafiche della Clientela – cfr Figura 4 - Modello
+Semantico Data Driven) e “Commerciale” (per la mappatura delle informazioni relative alla Raccolta,
+Impieghi e Servizi - cfr Figura 4 - Modello Semantico Data Driven), soprattutto al fine di estendere la
+copertura informativa sulla spinta della nuova regolamentazione sui dati sensibili (GDPR).
+L’esito di ispezioni esterne, che hanno rilevato la necessità di maggiore pervasività della Data Governance nel
+Gruppo, e il nuovo approccio Data Driven hanno spinto la funzione ad una riflessione sui perimetri definiti
+nella Policy che ha comportato:
+1.     ridefinizione del concetto di Output Rilevante attraverso la prescrizione di criteri oggettivi per
+       l’individuazione da parte dei Data Owner;
+2.     Introduzione del concetto di Base Dati Rilevante, che insieme all’Output Rilevante, sono i driver
+       principali per mappare le Informazioni di Business che compongono il Patrimonio Informativo Aziendale;
+3.     ampliamento della platea dei Data Owner superando i limiti definiti dagli Ambiti Informativi elencati
+       nella Policy;
+4.     inclusione delle Banche Dati esterne nel perimetro di applicazione della Data Governance;
+5.     Attivazione delle altre società del Gruppo.
+Per quanto riguarda la nuova definizione6 di Output Rilevante, sono state definite tre tipologie di Output
+Rilevanti ai fini della Data Governance:
+6
+ La Definizione AS IS ex DO103002214 recita: Relazioni, informative, report e flusso di dati di responsabilità dei Data
+Owner, la cui importanza coinvolge direttamente sia l’interno della Banca (output di monitoraggio rivolti alla rete
+commerciale e di performance direzionale), sia l’esterno (Mercato e Organi di Vigilanza)
+                                                            10
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+<U+25AA> Output Rilevante tipo 1: report, Informative e Flussi dati obbligatori inviati verso l’esterno (es.
+     Segnalazioni di Vigilanza, Comunicazioni al Mercato, ecc.);
+<U+25AA> Output Rilevante tipo 2: report, Informative e Flussi dati inviati ad Organi Apicali, ispirati a vincoli e criteri
+     definiti da normative esterne (es.: criteri BCBS 239, NPE Guidance, ecc.);
+<U+25AA> Output Rilevante tipo 3: report, Informative e Flussi dati previsti da relazioni contrattuali rilevanti
+     (servicing, outsourcing, ecc.).
+La nuova definizione avrà come benefici principali:
+<U+25AA> minore arbitrarietà nell’individuazione degli Output Rilevanti e verificabilità dei criteri da parte della Data
+     Governance;
+<U+25AA> riconciliazione delle informazioni della stessa natura inviate su segnalazioni diverse e da diverse funzioni;
+<U+25AA> selezione di Output Rilevanti con template pre-definiti e contenuti informativi stabili.
+La nuova definizione esclude dal perimetro i Report Gestionali e di Monitoraggio della Rete Commerciale il
+cui presidio viene ricondotto nell’ambito del processo Presidio reporting di Sintesi.
+Per quanto riguarda il concetto di Base Dati Rilevante, essa viene definita come: Archivio, Data Base, Tabella
+di pertinenza di un’applicazione informatica, alimentate tramite front end, input manuali o flussi automatici,
+in cui sono residenti informazioni elementari e native utilizzate dai sistemi di sintesi per la produzione degli
+Output Rilevanti o applicazioni di riferimento di processi gestionali.
+Quindi, il driver per verificare la rilevanza di una Base Dati è la trasversalità rispetto a processi prioritari sia
+gestionali che di produzione di reportistica.
+L’ampliamento della platea dei Data Owner ha comportato di estendere la rilevazione degli Output Rilevanti
+e delle Basi Informative del Gruppo su tutte le funzioni aziendali ed a prescindere dagli Ambiti Informativi
+definiti nella Policy.
+Sulla base della nuova definizione dei perimetri d’intervento la Data Governance:
+<U+25AA> ha avviato, a dicembre 2018, un nuovo assessment per la rilevazione degli Output Rilevanti tramite un
+     questionario inviato a tutte le funzioni del gruppo. La rilevazione è in corso e si prevede di avere le
+     evidenze definitive nel Q2 2019;
+<U+25AA> ha individuato 10 Base Dati Rilevanti selezionandole all’interno del catalogo delle Applicazioni gestito ai
+     fini dell’IT Risk;
+<U+25AA> ha definito le linee guida per la Gestione delle Banche Dati Esterne ed avviato con A.O. l’iter di
+     pubblicazione della relativa normativa (cfr. par. 3.1 Standard di Data Governance). Nel 2019, a valle della
+     pubblicazione della Direttiva si provvederà alla Mappatura degli Info Provider;
+<U+25AA> in seguito al recepimento della Policy da parte di Widiba, la Data Governance ha avviato l’assessment con
+     il referente Data Owner designato per l’attivazione nel perimetro di Data Governance della legal entity;
+<U+25AA> ha avviato con la Funzione Organizzazione del COG una ricognizione sui monitoraggi di Data Quality da
+     effettuare in ottica di coordinamento.
+                3.2.4     Modello operativo di Riferimento
+Per Modello Operativo s’intendono le fasi necessarie per l’attivazione di un Ambito Informativo rilevante
+all’interno del Sistema di Data Governance. Il livello di attivazione di uno specifico ambito viene misurato
+attraverso il posizionamento dello stesso all’interno del workflow di attivazione dove sono evidenziate i
+diversi step del Modello operativo.
+Nel 2017 era stato definito e consolidato il Modello Operativo di riferimento per l’approccio ad Output
+Rilevanti.
+                                                            11
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Nel 2018 tale Modello Operativo è stato confermato, anche se sono variati i contenuti e gli strumenti utilizzati
+in ogni fase per tener conto delle specificità dell’approccio sulle Basi Dati Rilevanti, rispetto a quello sugli
+Output.
+Le differenze sostanziali, il cui dettaglio è comunque mostrato nella Figura 2, possono essere sintetizzate
+come di seguito:
+<U+25AA> Assessment:
+       o     Fase Perimetro Rilevante: le Basi Dati Rilevanti sono individuate dalla Data Governance, mentre gli
+             Output sono individuati dai Data Owner;
+       o Fase Business Glossary: la mappatura delle informazioni avviene a partire dai Technical Data
+             Component della Base Dati analizzata e non dal report finale;
+<U+25AA> Implementazione: la parte implementativa non riguarda solo la messa in produzione di controlli, ma
+     anche iniziative di remediation e bonifica dei dati;
+<U+25AA> Rendicontazione: misurazione della qualità attraverso il modello di Balanced Scorecard Data Driven.
+                                                            12
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Di seguito viene data evidenza delle differenze nei due modelli:
+Figura 2 - Processo Operativo
+                                                                                            13
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+                3.2.5     Framework degli Strumenti
+Nel corso del 2018, il framework degli strumenti di Data Governance si è arricchito con il tool di Data
+Discovery selezionato nell'ambito progettuale del GDPR e che nel corso del 2019 verrà pienamente integrato
+nell’architettura complessiva degli strumenti di Data Governance. Inoltre, è stato potenziato il sistema di
+monitoraggio e misurazione della qualità dei dati attraverso la messa in produzione di una Balanced
+Scorecard applicata sia agli Output Rilevanti che alle Basi Dati Rilevanti.
+Di seguito la rappresentazione del nuovo set di strumenti riconducibili alle attività di Data Governance:
+Figura 3 - Framework Strumenti
+Di seguito vengono descritte le principali caratteristiche ed evoluzioni del framework strumenti:
+<U+25AA>      Business Glossary: l’acquisto della suite di Informatica prevedendo anche il modulo di Business Glossary,
+       ai fini di una razionalizzazione tecnologica, ha comportato l’abbandono dell’IBM Business Catalogue a
+       favore della nuova soluzione (AXON). L’installazione della nuova soluzione sarà finalizzata nel Q1 2019,
+       ed      in      tale      sede  saranno       migrate        le     BDE       censite       sul     vecchio tool.
+       In funzione della migrazione, la Data Governance ha avviato un’attività di normalizzazione e
+       razionalizzazione delle informazioni censite al fine di eliminare concetti duplicati, mantenendo
+       comunque la granularità dei Data Element attraverso la creazione di uno strato semantico che raggruppa
+       concetti omogenei.
+       Ai fini di migliorare il Governo delle informazioni, il Servizio Data Governance ha implementato due
+       distinti modelli semantici su cui mappare tutte le informazioni censite a seconda se rilevate tramite
+       l’Approccio “Data Driven” o ad “Output Rilevanti”. Per quanto riguarda l’approccio Data Driven, il
+       modello è rappresentato da Aree Tematiche ed Entità individuate sulla base delle attività tipiche della
+       banca (Impieghi, Raccolta, Servizi, ecc). Il modello è funzionale sia per una migliore organizzazione delle
+       BDE che, in ottica strategica, per definire le linee di sviluppo della Data Governance e calcolare il grado
+       di copertura del Sistema di Data Governance rispetto al complessivo patrimonio informativo di Gruppo
+       attraverso l’applicazione di sistemi di Balanced Score Card. Nella prossima figura sono rappresentate in
+       dettaglio le Aree Tematiche e le Entità. Si rimanda al paragrafo 4.1 per le evidenze della distribuzione
+       delle Informazioni di Business già mappate sulle singole entità.
+                                                            14
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Figura 4 - Modello Semantico Data Driven
+     Per quanto riguarda l’approccio ad “Output Rilevanti” il modello è rappresentato secondo lo schema
+     Ambito Informativo – Output Rilevante. Nella figura seguente è data evidenza del dettaglio degli ambiti,
+     Si rimanda al paragrafo 4.1 per le evidenze della distribuzione degli Output Rilevanti sui diversi Ambiti con
+     il relativo numero di Informazioni di Business già mappate.
+                                      Figura 5 - Modello Sematico Output Rilevanti
+     Nel 2018 la Data Governance ha già avviato la riclassificazione delle BDE sui modelli sopra descritti (cfr.
+     paragrafo 4.1 per le evidenze numeriche). Nel 2019 con l’installazione di Axon i modelli verranno resi
+                                                            15
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+     operativi anche nel tool del Business Glossary. Inoltre, con il sistema di Data Discovery si finalizzerà il
+     collegamento BDE-TDC.
+• Data Discovery: nell’ambito del progetto GDPR è stata selezionata la suite di Informatica per le attività di
+     Data Discovery relativa ai Dati Sensibili della clientela. L’installazione e la messa in produzione del tool è
+     prevista per il Q2 2019. Il Servizio Data Governance è stato designato quale Utente Responsabile
+     dell’applicazione. L’integrazione dello strumento con gli altri tool di Data Governance, ottimizzerà sia le
+     attività di Data Modeling, Data Quality che di Monitoraggio.
+     Con riferimento al Data Modeling, abiliterà l’associazione dei termini di Business (BDE) con il Technical
+     Data Component (TDC), consentendo, peraltro, la possibilità tracciare il lineage dei dati e, quindi,
+     consentire alla Data Governance un maggior grado di certificazione degli stessi. Per quel che concerne la
+     Data Quality, la verifica degli intervalli di confidenza riferiti all’aderenza delle regole di Discovery con i
+     campi fisici individuati, consentirà di verificare la presenza di campi anomali su cui attivare le remediation.
+     Infine, i risultati della Discovery in termini di ampiezza dei Tecnichal Data Component (numero di righe)
+     alimenteranno le misure di Balanced Scorecard potenziando gli strumenti di Misura e Monitoraggio della
+     qualità dei dati.
+• Data Quality: nel corso del 2018 sono stati raggiunti i seguenti risultati:
+     o Incremento del 38% (da ca 680 a oltre 900) del numero dei controlli censiti sulla Piattaforma Irion,
+         soprattutto in ambito AIRB. Al fine di un efficiente utilizzo della piattaforma, le attività di censimento
+         e sviluppo si sono concentrati sui controlli automatici svolti direttamente dal motore di Data Quality
+         dello strumento, evitando nuove implementazioni riferite al porting di esiti esterni per i quali si è
+         proceduto con un monitoraggio esterno;
+     o Swiffer: la Data Governance ha rivisto e migliorato le attività di seguimento e la manutenzione dei
+         controlli tecnici riferiti all’iniziativa Swiffer, ampliando il set dei controlli e promuovendo le prime
+         attività di remediation rispetto alle anomalie rilevate;
+     o Change Management: nell’ottica di tracciare il processo di variazione del framework dei controlli
+         relativi ad uno specifico Ambito Informativo, la Data Governance ha definito un processo di Change
+         Management per garantire la completa ricostruibilità del versioning dei controlli. A tal fine, è stato
+         predisposto un teamsite dedicato e manutenuto dalla Funzione Data Quality IT in cui per ogni attività
+         di change (nuovi controlli, variazione di quelli già in essere, ecc) vengono registrate le informazioni
+         necessarie a ricostruire il processo salvando la documentazione tecnica e di business relativa ai
+         controlli, sia prima che dopo la messa in produzione del change. Con tale attività è stato chiuso uno
+         specifico gap in Rigam aperto dalla Funzione di Convalida.
+• Remediation: Remedy rimane il tool di riferimento per quel che concerne la gestione delle remediation.
+     A luglio 2018 è stato rilasciato in produzione il flag di data quality attraverso l’implementazione nei front
+     end dedicati all’apertura dei ticket di uno specifico campo che consente di connotarli come di Data Quality
+     al fine di monitorare tutti gli incident verificatesi per carenza di qualità dei dati. Il flag può essere inserito
+     sia in fase di apertura, limitatamente agli Utenti di DG, che in fase di gestione da parte del gruppo di
+     supporto incaricato della lavorazione dello stesso. Tale implementazione ha consentito di automatizzare
+     la rilevazione ed il monitoraggio degli incident di Data Quality precedentemente effettuata attraverso una
+     richiesta artigianale a tutte le funzioni della banca. La Data Governance effettua dei controlli di secondo
+     livello verificando a campione la corretta valorizzazione del Flag. Da tali controlli è emersa la necessità di
+     rafforzare la consapevolezza su tale Flag soprattutto sui Techinical data Steward: a tal fine nel 2019 sono
+     previste delle attività formative specifiche in collaborazione con la Funzione Organizzazione del COG. Per
+     il 2019 l’obiettivo è quello di consentire l’apertura dei ticket di Data Quality anche verso le Funzioni di
+                                                             16
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+     Business al fine di colmare un gap rilevato in sede di verifiche ispettive esterne. A tal fine nell’anno in
+     corso la Data Governance ha espresso l’esigenza ad A.O. di un avvio delle verifiche di fattibilità.
+• Balanced Scorecard: nel 2018 la Data Governance ha potenziato il sistema di KQI volto alla misurazione
+     della qualità delle informazioni attraverso l’implementazione di un sistema di Balanced Scorecard
+     finalizzato all’attribuzione di un punteggio di sintesi che esprime la qualità di un determinato ambito
+     informativo. Il principio base della Balanced Scorecard è quello di misurare la performance rispetto alle
+     principali componenti del Framework Data Governance andando a verificare:
+     o Data Model: grado di rilevazione dei Business Data Element e censimento nel Business Glossary;
+     o Data Quality: grado di copertura dei controlli rispetto alle informazioni mappate e, relativamente a
+         questi, il numero di anomalie rilevate;
+     o Remediation: tasso di risoluzione delle anomalie.
+     Nell’applicazione pratica sono stati sviluppati due distinti modelli per tener conto della specificità
+     dell’approccio            “Output         Rilevanti”        rispetto       all’approccio         “Data   Driven”.
+     Approccio Output Rilevante:
+     si definisce un KPI di Data Governance, per ciascun O.R., costituito da: KPI Esiti Controlli, KPI
+     Remediation, KPI Qualitativo ognuno dei quali partecipa al risultato complessivo con un peso differente:
+                                           Figura 6 - Balanced Scorecard Data Driven
+              KPI                                               LOGICHE DI CALCOLO
+       Esiti Controlli       • Il calcolo del KPI Esiti Controlli presuppone un peso specifico diverso per ciascun
+                               controllo definito dal Data Owner.
+                             • In funzione degli esiti (OK, KO, Warning) delle esecuzioni dei singoli controlli, viene
+                               attribuito un punteggio pesato.
+                             • La somma dei punteggi delle esecuzioni rilevate nel periodo osservato,
+                               determinano il valore del KPI espresso su base 100.
+       Remediation          Il calcolo del KPI Remediation, considera il Tasso di Risoluzione ed i Tempi Medi:
+                             • Tasso di Risoluzione: valuta le risoluzioni dei ticket aperti nel periodo di
+                               osservazione;
+                             • Tempi Medi di Risoluzione: misura lo scostamento della durata dei ticket rispetto
+                               al tempo obiettivo
+       KPI                   • Il calcolo del KPI Qualitativo avviene sulla base di un questionario mirato a fornire
+       Qualitativo             un indice numerico rappresentativo del grado di maturità dei principali requisiti di
+                               Data Governance, per l’O.R. considerato.
+                                                               17
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+                             • Il questionario è compilato dalla Data Governance e prevede delle risposte chiuse
+                               a ciascuna delle quali è associato un punteggio che esprime il giudizio del livello di
+                               coerenza della specifica area analizzata.
+                             • Il questionario può essere utilizzato come scheda da sottoporre ai Data Owner per
+                               un loro adeguamento alle linee guida di DGOV (Mandatory)
+     Nel 2018, l’indicatore è stato prodotto a partire dalla rendicontazione trimestrale del Q1 2018 su un
+     perimetro di 8 Output Rilevanti, fino ad arrivare ad una rendicontazione a regime nel Q4 sulla totalità
+     degli Output Rilevante sulla quale è presente una rendicontazione quantitativa.
+     Per il 2019 si prevedono piccole evoluzioni del modello: in particolare rendere esplicita la performance
+     relativa al Data Model attraverso uno specifico KPI, mentre nella versione attuale viene misurata
+     attraverso la previsione di una domanda specifica nel questionario Qualitativo.
+     Approccio Data Driven:
+     La Balanced Scorecard applicata al modello Data Driven ha come driver di misurazione la qualità delle
+     informazioni residenti all’interno delle Basi Dati Rilevanti. L’oggetto della misurazione sono le entità
+     semantiche secondo il percorso logico che lega Modello Semantico - Informazioni di Business (BDE) e
+     Controlli (cfr. Figura 7):
+     Figura 7 - Logica di misurazione Balanced Scorecard Data Driven
+     All’interno del modello semantico le BDE sono clusterizzate per entità in modo da raggruppare
+     informazioni appartenenti allo stesso ambito informativo. Le singole BDE, censite all’interno del business
+     glossary, sono associate ai Technical Data Component (TDC), ossia ai campi fisici dei Data Base Rilevanti
+     in perimetro Data Governance. Il collegamento BDE-TDC abilita la verifica della copertura della Data
+     Quality attraverso l’osservazione della presenza di controlli su quel determinato campo. Infine, con il
+     monitoraggio delle esecuzioni dei controlli è possibile osservare la qualità dell’informazione attraverso il
+     conteggio delle anomalie rilevate.
+     Il framework logico sopra descritto, trova applicazione in un KPI – Tree (cfr Figura 8) che, attraverso un
+     sistema di pesature porta alla determinazione di un punteggio di sintesi su base 100 rappresentativo delle
+     performance nei tre ambiti rilevanti già citati (Data Model, data Quality e Remediation):
+                                                            18
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+     Figura 8 - KPI Tree Balanced Scorecard Data Driven
+     L’indicatore di Data Model misura la % di BDE censite nel Business Glossary sul totale BDE riconducibili
+     all’entità misurata. Ad esso è stato attribuito un peso del 20%.
+     L’indicatore di Data Quality è funzione di due distinti KPI: la Copertura Dati Controllati (# di dati oggetto
+     di almeno un controllo, sul totale dei dati riconducibili all’entità misurata) e dell’Indicatore di Qualità –
+     Dati OK (Dati OK / Dati Controllati). Su tale indicatore viene effettuata una correzione al fine di tener conto
+     della completezza dei controlli rispetto agli obiettivi regolamentari definiti negli standard
+     Infine, l’indicatore di Remediation è calcolato come somma ponderata di tre distinti KPI: Dati Sistemati
+     (# di dati sistemati, sul totale delle anomalie rilevate), Dati in Sistemazione (# di dati per i quali la
+     sistemazione è in corso (es. ticket aperto in corso di lavorazione), sul totale delle anomalie rilevate) e Dati
+     Non Sistemati (# di dati per i quali la sistemazione non è stata avviata, sul totale delle anomalie rilevate).
+     I pesi degli indicatori di Data Quality e di Remediation sono inversamente proporzionali. Se la Qualità è
+     alta, il peso della remediation diminuisce (es.: Dati OK al 99%, il peso della Data Quality è 99% e il peso
+     della Remediation è 1%; ovviamente poi ponderati per l’80%).
+     Nel 2018 è stato effettuato un primo POC del sistema di Balanced Scorecard Data Driven sull’entità
+     semantica Informazioni Anagrafiche. Obiettivo del 2019 è quella di estendere la misurazione su tutto il
+     modello semantico.
+           3.3 Avanzamento delle attività di Data Governance
+                3.3.1     Roll Out Output Rilevanti
+Nel 2018, il perimetro dei 46 Output Rilevanti oggetto della rendicontazione 2017 ha subito delle modifiche
+dovute principalmente al nuovo approccio della Data Governance:
+<U+25AA>      l’introduzione dell’approccio Data Driven ha comportato una migrazione verso Data Base Rilevanti di
+       entità che precedentemente erano classificate come Output Rilevanti (# 8 Output Rilevanti ricondotti su
+       5 Data Base);
+<U+25AA>      la nuova definizione di Output Rilevante ha comportato l’eliminazione dal perimetro dei report che non
+       rientrano nelle tre tipologie declinate nel paragrafo 3.2.3. (# 19 Output Rilevanti)
+                                                            19
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Inoltre nel corso del 2018 sono stati inseriti nuovi Output rispetto ai 46 che costituivano il perimetro di
+riferimento del 2017. L’evoluzione del perimetro 2017 al 31/12/2018 è di seguito evidenziata:
+                                      Figura 9 - Evoluzione Perimetro Output Rilevanti
+La Data Governance nel 2018 ha comunque avviato una nuova rilevazione degli Output Rilevanti basata
+sulla nuova definizione (attività da concludersi entro il Q1 2019), quindi la numerosità evidenziata nel
+grafico (25) non è indicativa della quantità di Output Rilevanti che costituiranno il perimetro di attività.
+Relativamente ai 25 Output Rilevanti in essere al 31/12/2018, di seguito viene data sintesi del livello di
+attivazione nel sistema di Data Governance:
+A.     MACRO-ARCHITETTURA: Il 60% (nr. 15 su 25) degli Output Rilevanti ha la macro-architettura disegnata
+B.     BUSINESS GLOSSARY: Il 60% (nr. 15 su 25) degli Output Rilevanti ha individuato oltre 2400 BDE
+C.     CONTROLLI: per il 52% degli Output Rilevanti (nr 13 su 25) sono stati individuati i controlli e sono soggetti
+       a rendicontazione trimestrale;
+D.     BALANCED SCORECARD: per il 40% (10 su 25) degli Output Rilevanti è attiva la Balanced Scorecard –
+       “Approccio Output Rilevante”. Per i 15 Output Rilevanti non oggetto di misurazione non sono disponibili
+       evidenze quantitative di esiti dei controlli e remediation (12) o comunque sono in via di consolidamento.
+       Di seguito il Dettaglio:
+Figura 10 - Attivazione Balanced Scorecard
+                                                             20
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+       Nel 2019 la misurazione verrà estesa anche agli Output Rilevanti senza evidenze quantitative (esiti
+       controlli e remediation), conteggiando solo il risultato del questionario qualitativo.
+                3.3.2     Roll Out Base Dati Rilevanti
+Nel corso del 2018 la Data Governance ha avviato le prime attività per l’attivazione nel sistema di Data
+Governance delle Base Dati Rilevanti secondo il nuovo approccio Data Driven. L’insieme dei Database su cui
+la Data Governance ha proseguito/avviato le attività è formato da ambiti informativi che al 31/12/2017 erano
+classificati come Output Rilevanti (#8) e da nuovi Data Base inseriti all’interno del Sistema di Data Governance
+(#5) come di seguito evidenziato:
+                                                   Perimetro DB al 31/12/2018
+                                Nuovi:                                                          Migrati
+                                1. DWH Aziendale                                                1. Base dati
+                                2. Servizio CD                                                     Sisba
+                                3. DWH U_Livello                                5; 38%          2. Flusso Sara
+                                   unificante DWH                                               3. LDT Soff
+                                4. AOG - Anagrafe                                               4. LDT Credito
+                                   Clientela                                                    5. Modelli Rischi
+                                5. Depositi a        8; 62%                                        di Credito
+                                   Risparmio                                                       (PD/Rating/L
+                                6. Procedura Beni                                                  GD e EAD)
+                                7. Deposito Titoli
+                                8. PeopleSoft
+                                                     OR Migrati a DB Rilevante   Nuovi BD
+Relativamente ai 13 Database Rilevanti in essere al 31/12/2018, di seguito viene data sintesi del livello di
+attivazione nel sistema di Data Governance:
+E.     MACRO-ARCHITETTURA: Il 69% (nr. 9 su 13) dei Database Rilevanti ha la macro-architettura disegnata
+F.     BUSINESS GLOSSARY: Il 85% (nr. 11 su 13) dei Database Rilevanti ha individuato 8000 BDE
+G.     CONTROLLI: per il 46% dei Database Rilevanti (nr 6 su 13) sono stati individuati i controlli e sono soggetti
+       a rendicontazione trimestrale con applicazione della Balanced Scorecard.
+Per quanto riguarda i nuovi Database, l’inserimento all’interno del perimetro è coerente con il piano di
+attività 2018 - 2019, presentato anche in sede di ispezione JST, che per l’approccio Data Driven prevede un
+focus specifico sulle anagrafi, in particolare:
+      •    Anagrafe della Clientela;
+      •    Anagrafe degli Strumenti/Anagrafe Controparti;
+      •    Procedura Beni.
+Per i Depositi a Risparmio, invece, l’avvio delle attività è dovuto prevalentemente alla necessità di indirizzare
+una serie di criticità riguardante un elevato numero di Libretti con saldi residui immateriali che attivi nei
+sistemi, non sono movimentati da oltre 10 anni e quindi presumibilmente da estinguere.
+Su questi 4 ambiti, di seguito viene data evidenza dello stato di attivazione rispetto alle principali fasi del
+modello operativo descritto nel paragrafo 3.2.4 Modello operativo di Riferimento ed una view sulle principali
+iniziative di remediation finalizzate o avviate nel 2018.
+Anagrafe della Clientela
+Livello di Attivazione:
+                                                               21
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+L’Ambito Informativo è attivato nel Sistema di Data Governance. Nel 2019 proseguiranno le iniziative in ottica
+di aumento della copertura e miglioramento della Balanced Scorecard.
+Attività di Remediation:
+Concluse le prime attività di Remediation relativamente ad anagrafi sporche e rapporti accesi a clienti
+deceduti e cessati:
+   Id              Anomalia                          Remediation                   Modalità                  Numeri
+  1      Rapporti estinti nei servizi e  Riallineamento archivi             Chiusura massiva          1.096 Rapporti
+         che risultano ancora aperti     attraverso la chiusura di tali
+         in Anagrafe                     rapporti in Anagrafe Generale
+  2      Rapporti accesi a clientela     Chiusura dei rapporti su un        Chiusura massiva          109.363 Rapporti
+         deceduta/cessata da oltre 5     perimetro limitato di servizi: IP,
+         anni                            RA, PI, PQ, ES, NG, RT, DE e FO
+  3      NGR di tipo “DIN” privo di      Annullamento degli NGR per i       Annullamento              45.905 NGR
+         titolare                        quali il titolare non è mai        massivo NGR
+                                         esistito
+  4      NGR di tipo “COI” privi di      Annullamento degli NGR per i       Annullamento              270.440 NGR
+         cointestatari                   quali non risultano rapporti       massivo
+                                         anagrafici in essere o estinti
+Tabella 3 - Remediation Concluse nel 2018
+Obiettivi 2019:
+•    Sistemazione degli NDC censiti su una Filiale Anagrafica chiusa o non più attiva;
+•    Consolidare le attività sui clienti deceduti e cessati ampliando il perimetro dei servizi oggetto di chiusura;
+•    Chiusura rapporti aperti su NDC non clienti, senza un’effettiva erogazione di un servizio;
+•    Arricchimento Dati Anagrafici (es. Flag Cliente Attivo, Geolocalizzazione);
+•    Razionalizzazione Codici informativi e regole di attivazione.
+Anagrafe Strumenti/Controparti
+Livello di attivazione:
+Nel 2018 è stata finalizzata la prima fase di assessment con l’individuazione della Base Dati di Riferimento ed
+il Disegno della Macro Architettura. Il grado di avanzamento delle attività è stato influenzato dagli sviluppi in
+corso sull’architettura di riferimento tesa a sostituire East con EDM come master anagrafico.
+Attività di Remediation:
+n.a.
+                                                               22
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Obiettivi 2019
+<U+25AA> Completare le fasi di attivazione nel Sistema di Data Governance
+Procedura Beni
+Livello di Attivazione:
+Nel 2018 è stata conclusa la fase di assessment.
+Obiettivi 2019
+<U+25AA> Implementazione controlli di Data Quality finalizzati a verificare i domini delle principali variabili ed
+     eventuali andamenti anomali, il corretto collegamento dei beni con le garanzie reali di rifermento ed il
+     corretto e costante allineamento delle informazioni presenti nella Procedura Beni e le relative tabelle del
+     DWH;
+<U+25AA> Arricchimento delle alimentazioni delle informazioni residenti nella Procedura Beni verso il DWH;
+<U+25AA> Predisposizione di una procedura di individuazione e storicizzazione dei “beni inattivi”, ovvero dei beni
+     collegati a garanzie estinte da più di 25 mesi;
+<U+25AA> Revisione delle procedure di normalizzazione degli indirizzi dei beni con sostituzione dell’attuale provider
+     del servizio in ottica di efficientamento complessivo dei processo.
+Depositi a Risparmio
+Livello di Attivazione
+L’attività sui depositi a Risparmio è stata attivata sul finire del 2018 con la finalità di gestire le problematiche
+derivanti dalla non operatività di una procedura che intercettasse i Depositi Fermi, quindi non movimentati
+da più di un anno e con saldo inferiore a € 258,23, e quindi interrompesse una serie di adempimenti quali ad
+esempio l’invio per corrispondenza del resoconto annuale come stabilito dalla normativa con aggravi di costo
+per la Banca.
+Da tale fattispecie la Data Governance ha avviato delle analisi finalizzate a verificare la complessiva qualità
+degli archivi di riferimento con l’evidenza di una serie di anomalie quali:
+      <U+25AA>    presenza di depositi categorizzati come anomalie d’impianto: trattasi di libretti creati negli archivi in
+           seguito ad operazioni straordinarie con la sola finalità tecnica di gestire gli scarti nelle operazioni di
+           migrazione dei rapporti dal sistema incorporato al sistema incorporante. Su tali libretti non è
+           possibile individuare ed eventualmente ricostruire i presupposti di un diritto di credito da parte di un
+           portatore/intestatario. Nella sostanza si tratta di partitari contabili;
+      <U+25AA>    depositi nominativi ed al portatore con saldi immateriali e non movimentati da oltre 10 e non
+           riconducibili al perimetro dei dormienti;
+      <U+25AA>    assenza di informazioni quali la data di emissione.
+                                                            23
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+La Data Governance ha quindi avviato un GDL interessando la Funzione Legale, Compliance, Bilancio e
+Prodotti Retail al fine di verificare le azioni di remediation. Il GDL è in corso e si prevede di concludere le
+attività nel H1 2019.
+Attività di Remediation:
+Sospensione dell’invio della Comunicazione Periodica Annuale a mezzo posta ordinaria e produzione in
+“formato digitale” per i 265.000 Depositi Nominativi Candidati Fermi (non movimentati da oltre 10 anni e
+con saldo residuo inferiore ad € 258,23). L’intervento ha comportato un risparmio stimato per circa €
+350.000.
+Obiettivi 2019
+Per il 2019 l’obiettivo è di finalizzare le seguenti iniziative in corso di definizione con il GDL:
+<U+25AA>      Estinzione d’iniziativa di 22.436 libretti categorizzati nei sistemi come anomali, senza alcun limite di
+       saldo (saldo contabile complessivo circa € 2,2 mln) con incameramento del saldo residuo da parte della
+       Banca;
+<U+25AA>      Estinzione Massiva dei Depositi Nominativi ed al Portatore con saldo inferiore ad € 100 e non
+       movimentati da oltre 10 anni con incameramento del saldo residuo da parte della Banca;
+<U+25AA>      Estinzione Massiva dei Depositi Nominativi ed al Portatore con saldo compreso tra € 100 ed € 258,23 e
+       non movimentati da oltre 10 anni. Su questi si verificherà la necessità di applicare la normativa dei
+       Dormienti e quindi riversare il saldo residuo alla CONSAP;
+<U+25AA>      Riattivazione della “Procedura Fermi”, alimentazione delle date di accensione missing ed altre iniziative
+       di data Cleansing.
+                3.3.3     Attività Straordinarie ed Altri Progetti
+Oltre al Roll-Out degli Output Rilevanti, nel corso del 2018 la Data Governance è stata coinvolta in
+progettualità rilevanti, soprattutto ai fini di compliance regolamentare, con impatti sul mondo dei dati ed in
+attività straordinarie dal carattere ispettivo.
+Progettualità Rilevanti
+<U+25AA>      Anacredit: progettualità avviata nel 2017. Nel corso del 2018 è proseguito il supporto metodologico
+       della Data Governance per il disegno della Macro Architettura, la mappatura delle BDE e la definizione
+       dei Controlli di Business. Output Rilevante inserito nel perimetro di rendicontazione;
+<U+25AA>      BCBS 239: la Data Governance è stata coinvolta nella seconda fase del progetto in owneriship CRO
+       avviato nel giugno 2018 con l’assegnazione della responsabilità sullo specifico Modulo Progettuale di
+       Data Governance. Il deliverable del modulo è stato rappresentato dalla ricognizione e certificazione del
+       Processo di Produzione degli Output Rilevanti ERMR e RMR attraverso l’individuazione delle BDE (247),
+       il Disegno della Macro Architettura con evidenza degli applicativi coinvolti (80+ Item Architetturali) e
+       l’elenco dei controlli (550+) effettuati da tutte le funzioni contributrici del report;
+<U+25AA>      Recovery Plan: la Data Governance ha contribuito con la redazione del Capitolo relativo al Management
+       Information System in cui è stato fornito l’elenco delle BDE, la Macroarchitettura e la lista dei controlli
+       a presidio della qualità delle informazioni rappresentate nell’output;
+<U+25AA>      GDPR: La Data Governance ha la responsabilità/ impatti rilevanti per quanto riguarda il cantiere di «Data
+       Discovery» il cui obiettivo è quello di attivare la Data Discovery sui dati (127 BDE totali, ma selezionate
+       25 prioritarie da identificare su circa 600 applicazioni della Banca) rilevanti ai fini GDPR, al fine di
+       permettere ai clienti l’esercizio dei propri diritti previsti dal regolamento (es.: diritto oblio, …). In tale
+       contesto la Data Governance contribuisce con i requisiti funzionali per la configurazione dei nuovi
+                                                            24
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+       strumenti compresi nella Suite di Informatica essendone “Utente Responsabile”, in particolare Axon, il
+       glossary che sostituirà l’attuale IGC di IBM, e EDC il tool di Data Discovery.
+<U+25AA>      MREL: nuova segnalazione prevista dalla BCE, la Data Governance ha fornito il supporto per il disegno
+       della Macro Architettura, la mappatura delle BDE e la definizione dei Controlli di Business. Output
+       Rilevante inserito nel perimetro di rendicontazione;
+<U+25AA>      NPE Guidance: partecipazione alla fase di assessment per la definizione del Data Model di riferimento
+       per la compliance alle linee guida sulla gestione degli NPL definite dalla BCE;
+<U+25AA>      Quadratura Chiavi Contabili/Chiavi Sap: attività tesa a raccordare le Chiavi Contabili SAP con le Chiavi
+       Sisba con il beneficio prospettico di effettuare delle quadrature giornaliere ed anticipare le correzioni
+       dei dati anche in ottica di Fast Closing;
+<U+25AA>      Sirio: progettualità avviata nel 2017 e finalizzata alla gestione in service esterno dei crediti in sofferenza.
+       Nel 2018 la Data Governance ha partecipato al cantiere relativo al disegno del framework di reportistica
+       fornendo supporto nelle attività tipiche dell’applicazione del modello di Data Governance.
+Attività Straordinarie (Ispezioni)
+<U+25AA>      Trim Retail: Sviluppati in collaborazione con il Data Owner circa 150 controlli di data quality per
+       potenziare il presidio dei modelli di rischio di credito e in risposta ai mandatory checks richiesti
+       dall’Organo di Vigilanza. Sono previsti a piano 2019 ulteriori sviluppi di circa 70 controlli di data quality
+       oltre all’applicazione della Balanced Scorecard Data Driven ai modelli di rischio di credito;
+<U+25AA>      OSI IT Risk e data Quality: l’ispezione avviata ad aprile 2018 e conclusasi a luglio 2018 ha aperto uno
+       specifico Finding (#15) sulla Data Governance evidenziando:
+       o la necessità di aumentare la pervasività e l’efficacia della Data Governance nel gruppo;
+       o la mancanza di Sistema di indicatori di Data Quality;
+       o un processo di remediation non efficacie che coinvolge solo le funzioni IT: necessario maggiore
+           coinvolgimento dei Data Owner e anche della Rete;
+       o il mancato coinvolgimento della DGOV sulla remediation dei dati catastali (Finding ECB OSI 2015-
+           2016).
+       Su tale finding sono state comunicate le seguenti azioni di mitigazione con scadenza il 31/12/2019:
+       o avvio del nuovo approccio Data Driven su basi dati rilevanti e mantenimento dell’approccio ad Output
+           Rilevanti per i report obbligatori inviati verso l’esterno;
+       o attivazione due nuove progettualità «DGOV evolution» e «SISBA3» finalizzate ad aumentare la
+           copertura della Data Governance nel gruppo e rafforzare la Data Quality sulle segnalazioni di
+           Vigilanza;
+       o utilizzo della Data Discovery a supporto della certificazione dei Dati;
+       o rafforzamento processi e normative con focus particolare sulle banche dati esterne e reportistica
+           gestionale interna;
+<U+25AA>      SSM Liquidity Exercise: Indirizzata la Remedial actions in merito alla definizione del Data Model
+       (Architettura + Business Glossary) per l’SSM Liquidity Exercise. Ad oggi non sono stati sviluppati dal Data
+       Owner controlli strutturati compliance con gli standard di Data Governance;
+<U+25AA>      Ispezione Interna Data Governance: l’ispezione interna ha assegnato alla Data Governance un rating
+       complessivo pari a 2 (giallo – medio) con l’apertura di 2 finding sui «processi» (entrambi con scadenza
+       31/03/2019) per i quali di seguito viene data evidenza con le rispettive azioni di mitigazione:
+       o requisiti e obiettivi di progetto futuri della Data Governance non declinati: nel 2019 sarà formalizzata
+           la strategia da presentare al COP e all’Audit
+       o difficoltà ad intercettare nuovi sviluppi che hanno impatto sulla Data Governance <U+F0E0> individuata
+           soluzione, in corso condivisione con le opportune funzioni (Orga, IT, Demand).
+                                                            25
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+      4. Rendicontazione Annuale
+           4.1 Data Modeling
+La Data Governance nei monitoraggi trimestrali rileva l’andamento del popolamento del Business Glossary
+verificando il numero delle BDE raccolte in attesa di validazione, il numero di quelle effettivamente caricate
+nel Business Glossary e, di queste, quelle con associati controlli di Data Quality. Di seguito le rilevazioni del
+2018:
+                                                           2017 Q1 2018         Q2 2018 Q3 2018 Q4 2018
+           Identificazione BDE e validazione              1.883      1.861           1.203       1.752        1.476
+           Caricamento su Business Glossary               8.750      8.831           9.477       9.044        9.753
+                                             TOTALE 10.692         10.692         10.680       10.796        11.229
+         Tabella 4: Sintesi delle BDE raccolte e censite
+La distribuzione delle BDE per Data Owner è esposta nella seguente tabella:
+                             Data Owner                          # BDE      # OR con BDE       # BDE con Ctr     % BDE con CTR
+ Area Amministrazione e Bilancio                                 7.508          6 su 8             1.011              13%
+ Area Credit Portfolio Governance                                 769           8 su 8               89               12%
+ Area Lending Risk Officer                                        742           6 su 6              117               16%
+ Servizio ALM-CFT                                                 113           1 su 1               17               15%
+ Servizio Supp. Spec. e Qualità Crediti Non Performing             11           1 su 1                7               64%
+ Area Financial Risk Officier                                     274           2 su 4              228               83%
+ Area Operating Risk Officier                                     506           1 su 1              166               33%
+ Area Pianificazione, CdG e Data Governance                       770           3 su 8               51               7%
+ Area Finanza, Tesoreria e Capital Management                      81           1 su 1               29               36%
+ Area Compliance                                                    0           0 su 5                0                -
+ Area Recupero Crediti                                            181           1 su 1                0               0%
+ Servizio Validazione Sistemi di Rischio                            0           0 su 2                0                -
+ Servizio CD (tecniche)                                           271              -                  0               0%
+ COG (tecniche)                                                     3              -                  3              100%
+                                                         TOTALE 11.229         30 su 46            1.718              15%
+           Tabella 5: Distribuzione BDE per Data Owner
+Le 11.229 BDE sono riconducibili a 28 Output Rilevanti su 46 in perimetro al 01/01/2018, più 2 output al
+momento non assegnati a Data Owner: DWH poiché, come citato precedentemente, è in ownership a COG
+in coerenza con IT Risk, essendo un output trasversale e Servizio alimentante CD (Crediti di Firma), analizzato
+come servizio pilota nell’ambito del progetto di migrazione alimentazioni da SISBA a DWH.
+Nel 2018 si è proceduto con una prima riconduzione delle BDE sui modelli semantici ai fini della produzione
+della Balanced Scorecard.
+Sul Modello Data Driven, sono state classificate le BDE (8.036) relative alla quota parte dei 46 Output
+Rilevanti che con l’introduzione dell’approccio Data Driven sono considerati base Dati Rilevanti (cfr. 3.3.1)
+quindi: Base Dati Sisba, Flusso Sara, LDT Sofferenze, LDT Credito, Modelli Rischi di Credito (PD, Rating, LGD
+e EAD). Di seguito l’evidenza della distribuzione:
+                                                              26
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Figura 11 - Distribuzione BDE su Modello Semantico Data Driven
+                                                                                            27
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Per gli Output Rilevanti, la classificazione semantica delle BDE (3.150) è stata effettuata in una logica Ambito
+– Output Rilevante. Di seguito viene data evidenza della distribuzione delle BDE, tra le quali vengono incluse
+anche quelle relative a report usciti dal perimetro in ragione della nuova definizione di Output Rilevante:
+Figura 12 - distribuzione BDE su modello semantico O.R.
+Nel 2019 è stata avviata un’attività di normalizzazione e razionalizzazione delle BDE con la finalità di
+individuare informazioni duplicate e verificare, per quanto riguarda le Basi Dati Rilevanti, la corretta
+riconduzione sulle entità semantiche. Questo di fatto produrrà una variazione del numero di BDE oltre che
+una ridistribuzione tra le entità semantiche.
+           4.2 Data Quality e Remediation (compreso focus incident)
+Di seguito l’evidenza sui dati andamentali 2018 su esecuzioni e controlli:
+                                                            28
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Rendicontati 2223 controlli di business per oltre 33.140 esecuzioni. Circa il 71% dei controlli e automatico.
+Figura 13 - Distribuzione controlli rendicontati per modalità d'esecuzione
+Nel 92% dei casi la prima esecuzione dei controlli ha dato esito positivo (OK), mentre il 8% delle esecuzioni ha generato approfondimenti/interventi di
+remediation. Gli obiettivi regolamentari sono tutti coperti seppur in modo non omogeneo su tutti gli Output Rilevanti.
+Figura 14 - Andamento esiti dei controlli
+                                                                                            29
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+                    80,00%
+                                                                             70,73%     67,68%
+                    70,00%
+                                                                                 61,31%
+                                                    59,47%
+                    60,00%
+                    50,00%
+                    40,00%                                          28,33%
+                                                                27,83%
+                    30,00%
+                                                             22,15%
+                                                                      19,65%
+                    20,00% 5,49%
+                                     8,46% 8,67%
+                                                 2,59% 2,49%                                     1,48%
+                    10,00%        7,03%                                                               1,51%
+                                              1,01%                                2,26%   0,62%1,25%
+                      0,00%
+                                Completezza      Integrità     Correttezza     Accuratezza    Tempestività
+                                                     %Q1    %Q2     %Q3     %Q4
+                              Figura 15: Distribuzione delle Esecuzioni per obiettivo del Controllo
+Relativamente alla Remediation, di seguito le evidenze dei dati andamentali 2018:
+                                                               30
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Le esecuzioni che hanno dato esito anomalo sono state completamente risolte ne 50% dei casi (1299 su 2594) ed il restante 50% sono in corso di risoluzione.
+Figura 16 - Andamentale remediation
+Nel 2018 è continuato il monitoraggio sugli incident di Data Quality avviato nel 2017 su richiesta del JST. Peraltro dal mese di luglio sugli applicativi di apertura
+dei ticket è stato rilasciato il cd Flag di data Quality che consente agli utenti di DG di categorizzare gli incident aperti per carenza di qualità dei dati. Tale fattispecie
+ha comportato il passaggio da una rilevazione tramite questionario ai Data Owner a una tramite interrogazione diretta degli archivi di Remedy. Dalle prime
+rilevazioni si rileva un utilizzo del flag non sempre appropriato, sia in fase di apertura che di gestione dei ticket. Nel 2019 si procederà con interventi formativi
+soprattutto nei confronti dei Technical Data Steward per favorire la corretta valorizzazione del flag. Di seguito le principali evidenze.
+                                                                                            31
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+                                                                                            32
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Nel 2018 è proseguita l’iniziativa “Swiffer”, ovvero un set di controlli tecnici definiti dal Settore DWH e Data Quality – COG finalizzati all’esecuzioni di verifiche
+massive di dominio ed integrità dei dati sui campi del DWH Aziendale.
+Le tipologie principali di controlli implementati sono:
+<U+25AA> Cleansing (sul valore): presenza di caratteri di controllo nelle stringhe
+<U+25AA> Dominio statico, sintattico (accuratezza): codice azienda e codice fiscale
+<U+25AA> Domini statici, dinamici, sintattici (accuratezza): recapiti email, telefonici, sigla provincia e codice Belfiore
+<U+25AA> Sintattici e semantici: controlli sulle date
+Il Set dei controlli comprende 15 diverse regole e di seguito viene data evidenza dell’andamento della numerosità dei campi controllati nel 2018 (fonte COG):
+Figura 17 Andamentale campi controllati 2018 per regola
+Di seguito l’andamento 2018 degli warning per ogni singolo controllo con l’evidenza degli scostamenti percentuali rispetto al mese di gennaio 2018 (fonte COG):
+                                                                                            33
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Figura 18 Evoluzione warning 2018 per singola regola
+La Data Governance nel 2018, ha avviato delle attività tese al fine tuning delle regole ed ampliare il perimetro dei dati controllati. In particolare, sui controlli
+Unreadable Char, ha richiesto la rimozione di alcuni filtri che escludevano la rilevazione di numerosi warning. Questo ha comportato la rilevazione a settembre
+di ulteriori 250 mln di Warning su tali controlli rispetto ai 10 milioni rilevati nelle reportistiche del Consorzio. Su richiesta della Data Governance tali anomalie
+sono state rimosse a partire dal mese di ottobre.
+                                                                                            34
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+           4.3 Balanced Scorecard
+Nel 2018 è stata attivata la Balanced Scorecard – “Approccio Output Rilevanti” (le cui logiche sono descritte
+al paragrafo 3.2.5.) su 26 dei 46 Output Rilevanti che costituivano il perimetro iniziale al 01/01/2018. Il calcolo
+del punteggio è stato effettuato per tutti gli Output sui quali la Data Governance ha avuto evidenze
+quantitative dalle rendicontazioni periodiche dei Data Owner (esiti controlli ed esecuzioni). Nel perimetro
+dei 26 rientrano:
+      •    10 Output Rilevanti confermati nel perimetro al 31/12/2018 (cfr. par. 3.3.1);
+      •    10 Output Rilevanti eliminati dal perimetro al 31/12/2018, per i quali la produzione cesserà a partire
+           dal Q1 2019;
+      •    6 Output Rilevanti “migrati” a DB Rilevanti, per il quali nel 2019 si procederà all’applicazione della
+           Balanced Scorecard – “Approccio Data Driven”
+I punteggi, rappresentati nella figura seguente con una vista andamentale sui trimestri 2018, sono stati forniti
+dalla Data Governance nelle rendicontazioni trimestrali al Comitato Rischi:
+                               Figura 19 - Andamento 2018 Balanced Scorecard Output Rilevanti
+                                                            35
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Il 42% degli Output Rilevanti misurati (11 su 26) si posiziona su un livello alto del Maturity Model in uno stato
+di Quantitativamente Gestito7, mentre il 39% (10 su 26) si posiziona in uno stato intermedio tra Gestito e
+Definito. Solo 5 Output Rilevanti si trovano in uno stato Iniziale.
+Il 54% (14 su 26) degli Output Rilevanti ha registrato un miglioramento del punteggio a partire dalla prima
+misurazione della Balanced Scorecard, mentre solo nel 12% dei casi (3 su 26) c’è stato un peggioramento.
+Sulla base delle evidenze dei punteggi calcolati trimestralmente e rappresentati nelle rendicontazioni
+periodiche, la Data Governance effettua una serie di raccomandazioni ai Data Owner finalizzate al
+miglioramento del punteggio ed all’aumento del livello di Maturità (es. si richiede la verifica delle soglie di
+tolleranza per evitare falsi positivi, l’attivazione dei controlli su obiettivi scoperti, l’aggiornamento delle
+proprie normative per recepire gli Standard di Data Governance, ecc). Le raccomandazioni costituiscono
+allegato alle rendicontazioni trimestrali inoltrate nelle sessioni del Comitato Rischi – Sessione Rischi
+Operativi nelle quali interviene il CDO.
+Nel 2018 è stata effettuata una prima applicazione della Balanced Scorecard – “Approccio Data Driven” (cfr.
+3.2.5) nell’ambito delle informazioni Anagrafiche della Clientela. Il perimetro di riferimento è stato
+individuato nei campi delle Tabelle Anagrafiche delle Dimensioni Condivise. Per quanto concerne il calcolo
+delle performance, la copertura (dati controllati totale dei dati) e la qualità (totale di dati OK su dati
+controllati) sono state calcolate applicando le evidenze delle esecuzioni dei controlli Swiffer e delle iniziative
+avviate relativamente ai rapporti aperti su clientela deceduta e cessata. Le evidenze delle performance sono
+di seguito evidenziate:
+7
+  Il Maturity Model, definito nella relazione annuale 2017, misura il livello di maturità rispetto all’attivazione nel sistema
+di Data Governance. Gli stati previsti (in ordine di grado di maturità) sono:
+      • Iniziale: OR censito in Business Glossary, Individuati ruoli e responsabilità, Rendicontazione Qualitativa;
+      • Gestito: BDE censite nel Business Glossary, Controlli Definiti, Rendicontazione Quantitativa;
+      • Definito: pianificati sviluppi IT per attivazione controlli su piattaforma;
+      • Quantitativamente Gestito: Implementazione su strumenti di DGOV, Rendicontazione Automatica, Normative
+           aggiornate;
+      • Ottimizzato: Controlli tecnici attivi, Alta copertura della Data Quality, Tracciatura e Lineage delle BDE.
+                                                             36
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Figura 20 - Prima Applicazione della Balanced Scorecard Data Driven
+                                                                                            37
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Lo score complessivo è del 51%. Dall’analisi dei KPI rilevano margini di miglioramento soprattutto nella
+copertura, fattispecie giustificata dal fatto che le attività sull’anagrafe sono in uno stadio iniziale.
+Nel 2019 si procederà con l’ampiamento del perimetro di applicazione dello strumento sulle altre Basi Dati
+Rilevanti oggetto delle attività della Data Governance.
+      5. Strategia di Sviluppo della Data Governance
+Le evoluzioni della Data Governance avvenute nel 2018 e descritte all’interno della presente relazione, hanno
+comportato una riflessione e una ridefinizione delle linee guida di sviluppo di medio-lungo periodo sulle
+diverse componenti del Framework per aumentare la pervasività degli Standard di Data Governance nei
+processi di produzione e gestione del Patrimonio Informativo del Gruppo.
+Nel 2019, con la definizione delle risorse economiche a disposizione della Data Governance, tali linee guida
+verranno incorporate nella definizione di una Strategia di Sviluppo intesa come sistema di obiettivi di medio-
+lungo periodo che la funzione si prefigge per allargare il grado di copertura del Patrimonio Informativo
+soggetto agli Standard di Data Governance.
+A tal fine il Servizio Data Governance ha proposto due specifiche iniziative progettuali:
+<U+25AA> Data Governance Evolution: finalizzato al roll out dell’approccio Data Driven sulle principali Basi Dati
+     Rilevanti anche avvalendosi dei nuovi strumenti/processi di Data Discovery e Data Lineage;
+<U+25AA> Evoluzione Sisba: finalizzato al rafforzamento della qualità della verifica e certificazione delle Segnalazioni
+     di Vigilanza e dei processi di Fast Closing attraverso una maggiore frequenza delle elaborazioni a supporto
+     dei processi di Trim, SSM Liquidity nonché Recovery/Resolution.
+Nell’ambito di presentazione dei progetti al Comitato Operativo Progetti (previsto ad aprile 2019) verranno
+indicati gli obiettivi pluriennali relativi a:
+<U+25AA> tasso di crescita delle Informazioni di Business censite nel Business Glossary;
+<U+25AA> tasso di crescita delle Informazioni di Business controllate (copertura della Data Quality);
+<U+25AA> numero di Output Rilevanti attivati nel Sistema di Gestione della Data Governance.
+Con la formalizzazione della Strategia di Sviluppo, verrà chiesta la chiusura del Gap aperto dall’Audit interno
+con scadenza 31/03/2019, che con riferimento al Sistema di Gestione della Data Governance rilevava una
+carenza in termini di analisi strategica sulle scelte di configurazione della Data Governance.
+Le linee guida definite e formalizzate nelle sessioni del Comitato Rischi – Sessione Rischi Operativi in cui la
+Data Governance è intervenuta, possono essere distinte in ragione della specifica Area d’Intervento del
+Framework di Data Governance cui fanno riferimento.
+Relativamente al Data Modeling l’obiettivo è quello di raggiungere un elevato grado di mappatura del
+Patrimonio Informativo aziendale attraverso il censimento nel Business Glossary delle BDE. A tal fine vengono
+previsti due diversi approcci:
+<U+25AA> Data Driven: la mappatura avviene a partire dalle Basi Dati Rilevanti. La definizione del percorso di
+     attivazione delle Basi Dati Rilevanti avviene a partire dal Modello Semantico Data Driven in cui il
+     patrimonio informativo della banca è suddiviso per cluster omogenei riconducibili alle principali attività
+     del Gruppo (Anagrafe, Raccolta, Impieghi, Erogazione di Servizi, ecc). La Data Governance ha quindi
+     definito lo sviluppo sul modello semantico secondo le seguenti priorità:
+     o Anagrafi: principali silos anagrafici del gruppo contenenti le informazioni sui clienti, controparti e
+           strumenti finanziari. La ratio è quella di partire da ambiti con un elevato grado di trasversalità rispetto
+           ai principali processi aziendali in modo da mettere in sicurezza le chiavi di raccordo su cui vengono
+           registrati i principali fenomeni bancari;
+                                                            38
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+     o     Anagrafi Condizioni: principali silos informativi contenenti i prezzi dei prodotti e servizi offerti alla
+           clientela;
+     o     Valori di Mercato, prezzi e tassi per la rivalutazione degli stock;
+     o     Impieghi/Raccolta: principali silos informativi in cui sono presenti i saldi creditori e debitori nei
+           confronti della clientela;
+     Lo sviluppo su tali ambiti nei prossimi 3 anni è coerente con le caratteristiche del Gruppo MPS con
+     focalizzazione sul comparto Retail è consentirà, quindi, di coprire la parte prevalente del patrimonio
+     informativo del Gruppo.
+<U+25AA> Output Rilevanti: mappatura di informazioni aggregate e di sintesi a partire dai principali report e flussi
+     informativi prodotti dal Gruppo. Le linee di sviluppo prevedono una prioritizzazione degli Output di
+     Tipologia 1, quindi rivolti verso l’esterno ed in particolare le Segnalazioni di Vigilanza.
+Relativamente alla Data Quality l’obiettivo è quello di aumentare il tasso di informazioni controllate
+(copertura), secondo un percorso coerente con quello delineato per la mappatura del Patrimonio
+Informativo. Da questo punto di vista l’approccio Data Driven consente una maggiore efficienza delle attività
+in quanto:
+<U+25AA> il dato viene corretto ai primi stati del ciclo di vita, e quindi la remediation viene ribaltata su tutti i sistemi
+     alimentati;
+<U+25AA> non c’è duplicazione del censimento delle informazioni, quindi i controlli non vengono replicati nei sistemi
+     dipartimentali. Inoltre il collegamento delle informazioni con il relativo campo tecnico (Technical data
+     Component) consente di individuare sinonimi e quindi stabilire livelli di coerenza tra le stesse;
+Per aumentare il grado di Copertura, le principali linee guida sono:
+<U+25AA> aumentare il numero di controlli tecnici sia relativi alla semantica del dato che ai controlli di Dominio. A
+     tal fine la Data Governance definirà un processo di gestione ed aggiornamento delle principali tabelle di
+     governo che tuttavia implica anche una revisione di tipo organizzativo;
+<U+25AA> definire ed implementare uno standard di controlli tecnici relative alle alimentazioni dei Dati sul DWH, in
+     modo da poter applicare le misurazioni di qualità direttamente sul DWH anche favorendo la migrazione
+     verso piattaforme tra loro omogenee;
+<U+25AA> sfruttare il tool di Data Discovery che restituisce una confidenza rispetto alle regole di Discovery definite
+     gestendo le eccezioni rilevate;
+<U+25AA> valorizzare i dati forniti da Infoprovider esterni o Open Data.
+In tale contesto sarà importante aumentare l’efficacia del processo di Remediation: la Data Governance
+privilegerà, ove possibile, forme di remediation massiva con interventi accentrati minimizzando l’intervento
+delle strutture periferiche, anche attraverso l’applicazione di algoritmi finalizzati a calcolare il valore corretto
+da immettere nei sistemi.
+Sarà comunque necessario rendere più pervasivo il processo di ticketing, consentendo la gestione degli
+incident di Data Quality anche alle funzioni di Business (ad oggi il ticket sono aperti solo verso il COG),
+chiudendo peraltro uno specifico Gap aperto in sede di ispezione JST. Su tale tema è già stata ingaggiata
+l’Organizzazione.
+Per quanto riguarda gli Output Rilevanti, la priorità agli output di tipo 1 con focus quindi sul mondo delle
+Segnalazioni di Vigilanza, rientra nell’ambito dell’iniziativa progettuale sopra citata finalizzata all’upgrade del
+motore di Sisba che ha un sistema diagnostico con un framework di controlli più ampio e un sistema di
+reporting dei controlli strutturato ed importabile nelle rendicontazioni di Data Governance.
+Inoltre, la configurazione degli strumenti forniti dalla Suite di Informatica, grazie agli strumenti di Data
+Discovery e Lineage consentirà un maggior grado di certificazione delle informazioni aggregate presenti negli
+                                                            39
+
+BANCA MONTE DEI PASCHI DI SIENA SPA
+Titolo: Rapporto Data Governance 2018
+Z:\100_DATA_GOVERNANCE\04_Monitoraggio\02_Rapporti_2018\2018_Relazione Annuale\Corpo_Relazione_2018_v10.docx
+Output Rilevanti ricostruendo il processo di produzione ed alimentazione delle stesse, anche in compliance
+con le principali normative esterne in tema di Reporting e Data Aggregation (BCBS 239, Recovery/Resolution,
+NPE Guidance).
+La centralità del DWH, che la Data Governance ha individuato in prospettiva come master source su cui
+attivare le misure di qualità dei dati comporta la necessità aumentare il grado di copertura dello stesso
+rispetto alle informazioni residenti negli archivi alimentanti e definire standard di storicizzazione e
+archiviazione delle informazioni per perimetrare i campi su cui calcolare i KQI di qualità.
+I fattori abilitanti per l’attuazione delle linee di sviluppo sopra descritte sono:
+<U+25AA> un sistema di KQI finalizzato a verificare il raggiungimento degli obiettivi: in tale ambito la Data
+     Governance ha già sviluppato un sistema di Balanced Scorecard attualmente attivo su pochi ambiti
+     informativi. Obiettivo del 2019 è quello di ampliare il perimetro e l’accuratezza delle misurazioni anche
+     attraverso l’integrazione con gli strumenti di Data Discovery e Data Quality per favorire delle misurazioni
+     più automatizzate;
+<U+25AA> aumento delle risorse impiegate nel Servizio Data Governance e Reporting Management: ad oggi la
+     funzione è composta da 9 risorse a fronte di un dimensionamento di 11 (due risorse sono uscite dal
+     servizio e non sostituite). Con la prossima attivazione del Fondo di Solidarietà è prevista la fuoriuscita di
+     un ulteriore risorsa. Peraltro il dimensionamento a 11 risorse era basato sull’approccio ad Output Rilevanti
+     con un modello organizzativo distribuito. L’approccio Data Driven comporta sicuramente maggiori
+     assorbimenti, soprattutto nell’ottica di un’accelerazione delle attività come richiesto dalle Autorità di
+     Vigilanza. Quindi, sarà necessario rivedere il dimensionamento ottimale della funzione, ed in ogni caso
+     l’ingresso di nuove risorse dovrà avvenire valutando profili specialistici con competenze tecniche
+     sull’utilizzo dei principali sistemi di interrogazione delle Basi Dati;
+<U+25AA> revisione perimetri organizzativi: collegato al punto precedente, driver di crescita della Data Governance
+     è anche l’accentramento sulla funzione di attività ad oggi distribuite in altre funzioni ma di fatto incentrate
+     sulla Data Quality. Questo consentirebbe potenziali efficienze in termini di FTE e la possibilità di accelerare
+     la standardizzazione di tali attività secondo quando definito nelle normative di Data Quality. Si ritiene che
+     le maggiori sinergie possano essere ricercate nell’ambito delle Direzioni CFO/CRO.
+                                                            40
+

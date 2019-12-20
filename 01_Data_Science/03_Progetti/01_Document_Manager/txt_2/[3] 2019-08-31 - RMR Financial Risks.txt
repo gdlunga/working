@@ -1,0 +1,1306 @@
+                               Risk Management Report
+                             MPS Group Risk Profile as at 31-08-2019
+                                       Financial Risks
+Direzione Chief Risk Officer
+
+Index
+      Executive Summary
+      Section 1 – Strategic KRIs & Adequacy (IXAAP on-going)
+      Section 2 – Integrated Risks
+      Section 3 – Credit Risks (Lending, Securitization)
+      Section 4 – Operational Risks (Operational, Legal)
+      Section 5 – Financial Risks (Market, Issuer, Counterparty, IRRBB, Liquidity)
+      Section 6 – IT Risks
+      Section 7 – Wealth Risk Management
+      Annexes
+                                                                                   2
+
+Executive Summary – Highlights as at 31-08-2019
+Strategic KRI
+ <U+25AA> The MLT commercial lending dynamics still shows not coherent with the planned mix. As in the previous months, the most relevant gap is highlighted by the unsecured component (-
+   45.5% w.r.t. the target), and mainly attributable to the retail segment. On the other side, the secured corporate and retail segments keep improving, fostering a reduction of the gap
+   on the secured component.
+Adequacy: ICAAP & ILAAP
+ <U+25AA> Capital Ratios: all ratios are above the FY Appetite as well as the period one. A small increase w.r.t. July (+8 bps) is registered, mainly attributable to a slight reduction in RWAs.
+ <U+25AA> Liquidity Ratios: as in the previous months, the operational liquidity still appears stronger than the structural one. The LCR is substantially stable w.r.t. the last observation (192% vs.
+   195% in July); NSFR improves (111.7% vs. 109.5% in July), thanks to an increase in commercial funding and to a decrease in commercial lending, and it does not breach Risk Limit
+   anymore. Gross Asset Encumbrance Ratio (GAER) is stable MoM, standing beyond the FY Risk Tolerance/Amber trigger as well as the period one. As in July, the breach has been
+   evaluated as not material, in line with the Management Committee decision not to activate the Recovery Plan, since the GAER trend is linked to the actions in progress to support the
+   reduction of NPE and the NSFR level.
+RWA
+ <U+25AA> Regulatory (Pillar 1) RWAs decrease (-356 €/mln). The most relevant variation is registered on Credit Risk (-503 €/mln), attributable to a reduction of the CCO exposure, and to the
+   Non-Performing RWAs decrease stemming from the NPL disposal implemented in August. Market Risk BB RWAs rise (+308 €/mln), due to the increase in the value adjustment of
+   assets subject to macro-hedging caused by the further decrease of interest rates.
+ <U+25AA> Internal (Pillar 2) RWAs decrease (-1.768 €/mln). The variation is mainly driven by IRRBB, which registers a substantial reduction (-747 €/mln), due to the further interest rates
+   decrease experienced in the last month and to the increase in the NMDs stock. A further reduction is shown by Market Risk BB FV (-326 €/mln), mainly due to the rolling of the time
+   window considered for the VaR calculation, which has gradually come to exclude some of the severe scenarios hitting the Italian Sovereign Credit Spread during the second half of
+   2018, and to a reduction in the FVOCI exposure (-1.6 €/bln in August), as a result of the new market portfolio strategies approved by the BoD on August 1st.
+ Risk Limits
+ <U+25AA> NSFR does not breach Risk Limit anymore.
+ <U+25AA> A Market Risk Limit on Banking Book ITA Credit sensitivity was breached on august 28-30. The breach was authorized by the CEO until 31-12-2019.
+                                                                                                                                                                                                3
+
+Executive Summary – IXAAP on-going as at 31-08-2019
+                                                                                                                                          6+6 Forecast*
+                                                   6+6 Forecast*
+                                                                                                                                           Exercise =
+                                                     Exercise =
+                                                                          115%                                                              111,2%
+                                                      16,36%
+                                                                          113%
+                                                                                                                                              Risk Limit 111%
+                                                  Risk Tolerance 15,10%   111%
+                                                                                                                                              Risk Tolerance 109%
+                                                                          109%
+                                                   Risk Capacity 14,00%
+                                                                          107%
+                                                                          105%
+                             Expected Profile                             103%
+                            August 19: 15,17%                                                                                                 Risk Capacity 102%
+                                Pro-forma
+                                                                          101%                      Expected Profile
+                            Tolerance: 14,29%
+                                                  Threshold Stress 11,00%                         August 19: 112,0%
+                                                                           99%                         Pro-forma
+                                                                                                  Tolerance: 109,1%
+                                                                           97%
+                                                                           95%
+                                                                               NSFR%  Available Stable  Required Stable NSFR%  RAS dec-19
+                                                                               jul-19  Funding, ASF      Funding, RSF   aug-19  baseline
+* As represented to the BoD on September 26, 2019
+                                                                                                                                                              4
+
+Executive Summary – Main issues as at 31-08-2019
+                                                                                  MPS GROUP
+                                                                                      CEO
+                                                   CCO                   CHCO                   CFO                CLO               COO
+                                                                  WEALTH
+                                    CORPORATE                                                    AFTCM             PERFORMING
+                          WIDIBA                 RETAIL DEPT.   MANAGEMENT                                                               ICT
+                                      DEPT.                                                                        LOANS DEPT.
+                                                                   DEPT.
+                                                                                                                       NON
+                                         MPSCS                                                                     PERFORMING
+                                                                                                                   LOANS DEPT.
+                                         MPSL&F
+                                        MPBanque                                                                               : Risk Limits breach
+                                                                                                                               : Risk Tolerance breach
+                                                                                                                               : Risk Capacity breach
+     <U+25AA> CCO Corporate:                                      <U+25AA> MPSCS:                                               <U+25AA> CLO Non Performing     Loans Department:
+           <U+25AA> Credit Limits Breaches                             <U+25AA> Credit Limits Breaches                                 <U+25AA> Credit Limits Breaches
+     <U+25AA> CCO Retail:                                         <U+25AA> MPSL&F:
+           <U+25AA> Credit Limits Breaches                             <U+25AA> Credit Limits Breaches
+     <U+25AA> CCO Wealth:                                         <U+25AA> AFTCM:
+           <U+25AA> Credit Limits Breaches                             <U+25AA> Liquidity and Market Limits Breaches
+                                                                                  Note: the chart highlights only Risk Limits breaches.                      5
+
+  Section 1 – Strategic KRIs
+                                                                                               Profile                     Appetite                  D August
+                                                                                                                                                           D % vs.
+                                                                                                                                                                      In August the following is highlighted:
+                                                                                                                                              D vs. App.
+                                    Strategic KRI                       Scope     U.M.  Jul 31st Aug 31st        Jul 31st Aug 31st  FY 2019                 App.
+                                                                                                                                               Periodo
+                                                                                                                                                          Periodo     <U+25AA> IRRBB – NII sensitivity is substantially stable
+          Total Tier2 Capital Issuances                                 GMPS      €/mln       300         300 vs       200      200       700         100      50,0%     w.r.t. July and slightly higher than the target.
+Liquidity Total Unsecured Issuances (retail)                            GMPS      €/mln          -          - vs         -        -       950           -           -    EVE sensitivity still shows a substantial
+Strategy  Total Senior Issuances (institutional)                        GMPS      €/mln       500         500 vs       500      500     1.750           0       0,0%     deviation from the target, due to the further
+          Total Covered Bond Issuances                                  GMPS      €/mln     1.000       1.000 vs     1.000    1.000     1.750           0       0,0%     lowering of the interest rate curve.
+IRRBB     NII Sensitivity (+100 bps)                                    GMPS      €/mln       142         146 vs       122      122       122          24      19,8%
+Strategy  EVE Sensitivity (+100 bps)                                    GMPS      €/mln       258         247 vs       135      135       135         112      82,8%  <U+25AA> Financial Portfolio – FVTPL Credit Sensitivity
+          Credit Sensitivity - Ptf Sovereign ITA FVTPL                  GMPS      €/mln     -0,08       -0,09 vs     -0,29    -0,29     -0,29        0,20     -67,5%     is stable. The FVOCI Credit Sensitivity
+Financial
+          Credit Sensitivity - Ptf Sovereign ITA FVOCI                  GMPS      €/mln     -2,31       -1,69 vs     -2,29    -2,23     -1,98        0,54     -24,1%     reduction is attributable to asset disposals,
+Portfolio
+          Credit Sensitivity - Ptf Sovereign ITA AC                     GMPS      €/mln     -4,50       -5,37 vs     -3,42    -3,40     -3,34       -1,97      57,8%     whereas the AC Credit Sensitivity increase is
+Strategy
+          Credit Sensitivity - Ptf Sovereign Other (Banking Book)       GMPS      €/mln     -0,54       -0,78 vs     -0,49    -0,49     -0,49       -0,29      58,4%     due to new bonds purchases classified as AC.
+          Commercial Lending (Performing) - New Lending (MLT
+                                                                    Dir Corporate €/mln       820         877 vs       615      621     1.133         256      41,2%     These variations reflect the new banking book
+          secured) - Corporate
+                                                                                                                                                                         portfolio strategies approved by the BoD in
+          Commercial Lending (Performing) - New Lending (MLT
+                                                                    Dir Corporate €/mln     1.003       1.101 vs     1.458    1.609     2.270        -508     -31,6%     August.
+          unsecured) - Corporate
+          Commercial Lending (Performing) - New Lending (MLT
+                                                                       Dir Retail €/mln     2.650       2.976 vs     3.132    3.355     4.829        -379     -11,3%  <U+25AA> Commercial Lending – the unsecured MLT
+          secured) - Retail
+          Commercial Lending (Performing) - New Lending (MLT                                                                                                             new commercial lending is still below the
+                                                                       Dir Retail €/mln       364         364 vs     1.005    1.077     1.474        -713     -66,2%
+Credit    unsecured) - Retail                                                                                                                                            target. Nevertheless, both the corporate and
+Strategy  Commercial Lending (Performing) - Average PD on New                                                                                                            the retail division keep showing a slight
+                                                                    Dir Corporate   %      1,30%       1,23% vs    1,82%     1,82%     1,82%      -0,59%      -32,3%
+          Lending (MLT secured) - Corporate                                                                                                                              reduction of the gap on the secured segment.
+          Commercial Lending (Performing) - Average PD on New
+                                                                    Dir Corporate   %      0,95%       0,98% vs    1,43%     1,43%     1,43%      -0,45%      -31,5%     The gap is instead stable on the unsecured
+          Lending (MLT unsecured) - Corporate                                                                                                                            component. Average PDs still far below the
+          Commercial Lending (Performing) - Average PD on New                                                                                                            target on all the considered segments.
+                                                                       Dir Retail   %      0,76%       0,76% vs    1,30%     1,30%     1,30%      -0,54%      -41,5%
+          Lending (MLT secured) - Retail
+          Commercial Lending (Performing) - Average PD on New
+                                                                       Dir Retail   %      1,00%       1,00% vs    2,44%     2,44%     2,44%      -1,44%      -59,1%  <U+25AA> NPE Strategy – a positive signal is highlighted
+          Lending (MLT unsecured) - Retail
+                                                                                                                                                                         by the Reduction UtoP & Past Due – Sales,
+          NPE - Reduction UtoP & Past Due - Sales                       DCNP      €/mln       187       1.069 vs       958      958     1.060         111      11,6%
+                                                                                                                                                                         which show a complete recovery of the gap
+          NPE - Reduction UtoP & Past Due - Recoveries                  DCNP      €/mln       316         399 vs        69       74       113         325    441,6%
+          NPE - Reduction UtoP & Past Due - Debt to Equity Sw ap        DCNP      €/mln          -          - vs         -        -       156           -           -
+                                                                                                                                                                         (due to the sales implemented in August).
+NPE                                                                                                                                                                      Recoveries on UtoP & Past Due far above the
+Strategy  NPE - Reduction UtoP & Past Due - Debt to Funds/ABS Sw ap     DCNP      €/mln          -          - vs         -        -       780           -           -    FY target.
+          NPE - Reduction Bad Loans - Sales                             DCNP      €/mln       400         400 vs       409      409       818          -9      -2,2%
+          NPE - Reduction Bad Loans - Recoveries                        DCNP      €/mln       199         214 vs       272      313       603         -99     -31,7%
+                                                                                                                                                                                                                        6
+
+Section 1 – Capital Adequacy overview
+                                                                                                                                                                                                                                                          6+6 Forecast*
+                                     CET 1 Ratio               6+6 Forecast*                                                  TIER 1 Ratio                  6+6 Forecast*                                                             TC Ratio               Exercise =
+                                                                  Exercise =                                                                                   Exercise =
+                                                                                                                                                                                                                                                               16,36%
+                                                                    13,77%                  14,21%                                                               13,77%                     16,19%                     15,97%                                             15,75%
+  14,21%                                                                                                                                                                                                                                          15,13%        15,30%
+                                                                                                    13,00%         13,33% 13,00%                          13,30%     13,23%                          15,10%                     15,10%
+                          13,33%                                         13,23%
+                                                                                                                                          12,61%                                                                               13,78%                            14,00%
+                                                 12,61%
+          11,80%                                                                                                                                           12,00%                                     14,00%
+                                                                11,80%
+                                 11,18%                                                            12,00%                 11,18%
+                                                                                                                                                                                                                                                         11,95%                    11,76%
+          10,50%                                                10,50%
+                                                                                                                                                                                                      11,00%                                                      11,00%
+                                                         9,47%                                                                                    9,47%                      9,25%
+                                                                                9,25%             9,00%                                                      9,00%
+          7,50%                                                 7,50%
+      ago-19                dec-19 RAS            dec-20 RAS              dec-21 RAS           ago-19                dec-19 RAS             dec-20 RAS                dec-21 RAS                  ago-19                 dec-19 RAS                dec-20 RAS               dec-21 RAS
+                 Baseline               Stressed               Risk Tolerance                                                                                                                                 Baseline                   Stressed                Risk Tolerance
+                                                                                                          Baseline               Stressed                  Risk Tolerance
+                 Risk Capacity          Threshold Stress                                                                                                                                                      Risk Capacity              Threshold Stress
+                                                                                                          Risk Capacity          Threshold Stress
+                                                 CET1 RATIO (ago-19 vs lug-19 = +7 bps)                                                                                                          Internal P2R vs Regulatory P2R
+                                                                                                                                                   3,3%
+                                                                                                                                                                                                                 3,00%                                                                    3,00%
+                                                                                                                                                   2,8%
+                                                                                                                                                                                                                                    2,28%               2,30%               2,27%
+                                                                                                                                                   2,3%
+                                                                                                                                                                                                                                                                                          2,02%
+                                                                                                                                                   1,8%
+                                                                                                                                                                                                                                                        1,54%               1,49%
+                                                                                                                                                           1,47%                                                                   1,50%
+                                                                                                                                                                                                           1,23%                                                                          1,24%
+                                                                                                                                                   1,3%                                  1,07%
+                                                                                                                                                                           1,02%
+                                                                                                                                                                                                                   1,23%
+                                                                                                                                                   0,8%
+                                                                                                                                                      dic-17              mar-18           giu-18              set-18               dic-18              mar-19              giu-19      ago-19
+                 CET1 Impacts -0,01%                                  RWA P1 Impacts +0,08%                                                                                        Internal P2R           Reg P2R            Internal P2R - Net Market Risk AC
+                                                                                                                                        * As represented to the BoD on September 26, 2019
+                                                                                                                                                                                                                                                                                            7
+
+Section 1 – Liquidity Adequacy overview
+                                        6+6 Forecast 6+6 Forecast
+                                         Exercise =   Exercise =
+                                           218%        111,2%
+                                                                  8
+
+Section 2 – Integrated Risks: Group Regulatory RWA (Pillar 1) and Internal RWA (Pillar 2) as at 31-08-2019
+                                                                                                MPS GROUP
+                                       (Eur mln)                               Risk Profile                                            Risk Appetite
+                                                                                                                                                                  %/                                                                                    76.463
+   Regulatory / Internal RWA                     dic-18   mar-19   giu-19   lug-19    ago-19     <U+0394>      <U+0394>%     <U+0394>Q        <U+0394>Q%      dic-19       <U+0394>       <U+0394>%      INT.RWA
+                                                                                                                                                                          75.000    75.025   75.252          77.099 76.682 76.795 75.135 74.731 72.963
+                                                                                                                                                                                                    75.822
+   Credit and Counterparty Risk                  45.925   46.617   45.641   45.537    45.182    -355     -1%   -459        -1% 46.204 -1.022             -2%
+                                     Credit Risk  35.852   35.777   34.497   34.310    33.806    -503     -1%   -690        -2%    35.972   -2.165        -6%      46,3%
+                                           AIRB    28.221   28.595   28.062   28.049    27.738    -310     -1%   -324       -1%     28.980   -1.242        -4%
+                                     Standard**     7.631    7.182    6.435    6.261      6.068   -193     -3%   -367       -6%      6.992      -924     -13%             65.000
+               Counterparty Risk - Default Risk    1.577    1.621    1.583    1.701     1.560    -142     -8%     -23       -1%     1.851      -291     -16%        2,1%
+ P                                                                                                                                                                                                       59.880 59.253
+                     Issuer Risk Banking Book        902      914      903      923        921       -2     0%    18         2%       896        25         3%      1,3%         58.372 58.372 58.746                   59.328  58.533 58.623 58.268
+ I                  Market Risk Banking Book         182      186      790      913     1.222    308      34%   432        55%        184   1.038      565%
+ L
+                             Participation Risk    1.895    1.882    2.069    2.073     2.067        -6     0%      -2       0%     1.844      223        12%       2,8% 55.000
+ L                                                                                                                                                                                  dic-18 gen-19 feb-19 mar-19 apr-19 mag-19 giu-19 lug-19 ago-19
+                               Real Estate Risk    2.099    2.097    2.173    2.173     2.174        2      0%      2        0%     2.000      174          9%      3,0%
+ A
+ R                                     DTA Risk    1.967    1.990    1.880    1.884     1.883        -1     0%      3        0%     2.011      -128       -6%       2,6%
+                                                                                                                                                                                    Regulatory RWA          Internal RWA       Internal RWA (Risk Appetite dic-19)
+                                      Other Risk   1.452    2.151    1.747    1.560     1.549      -11    -1%   -198      -11%      1.447      102          7%      2,1%
+ 1 Market Risk                                    2.426    2.863    2.677    2.823     2.822         -1    0%  146          5%     2.800         22        1%
+                      Market Risk Trading Book      2.086    2.508    2.328    2.468      2.446     -22    -1%    118        5%      2.446         0        0%                    Credit Risk (-503 €/mln): Performing RWA
+                       Issuer Risk Trading Book       340      355      348      355        376      22     6%      28       8%        354        22        6%      0,5%          down mainly as a result of the reduction in the
+   Operational Risk                               9.562    9.947    9.685    9.685     9.685          -      -       -        -    9.587         98        1%    13,3%            performing exposures of the CCO, partially
+   Counterparty Risk - CVA Risk                     458      453      530      578        578        0     0%     47        9%       516         62     12%        0,8%           offset by the growth of retail segment “Valore”.
+   REGULATORY RWA                                58.372   59.880   58.533   58.623    58.268    -356     -1%   -265         0% 59.108         -840       -1%     79,9%            Non performing RWA down due to NPL
+   Market Risk                                   12.010   12.842   12.982   12.673    12.375    -298     -2%   -606        -5% 13.495 -1.119             -8%     17,0%            disposal. RWA density decreases by 42 bps.
+ P                          Market Risk BB (AC)     5.696    5.718    5.671    5.632      5.682      50     1%      11       0%      6.580      -899     -14%
+ I                                                                                                                                                                                Pillar1 Market Risk BB (+308 €/mln): increase in
+                            Market Risk BB (FV)     5.285    5.997    6.167    5.935      5.609   -326     -5%   -558       -9%      5.437       172        3%
+ L                                                                                                                                                                                adjustment of asset value subject to macro-
+                                 Market Risk TB     1.028    1.127    1.144    1.106      1.085     -22    -2%     -59      -5%      1.478      -393     -27%
+ L                                                                                                                                                                                hedging due to lower interest rate.
+ A
+   Interest Rate Risk BB                          1.771    2.095    1.910    2.047     1.300    -747    -37% -611        -32% 1.727           -427     -25%        1,8%
+ R Concentration Risk                             1.402    1.384    1.398    1.398     1.398          -      -       -        -    1.402          -4       0%      1,9%           Interest Rate Risk BB (-747 €/mln): reduction is
+   Business and Strategic Risk                    3.739    3.591    3.430    3.371     3.289       -81   -2% -140          -4% 3.361             -72     -2%       4,5%           mainly due to the interest rates decrease and to
+ 2 INTERNAL RWA                                  75.025   77.099   75.135   74.731    72.963 -1.768      -2% -2.172        -3% 76.463 -3.501             -5%    100,0%            the increase in the NMDs stock.
+   PILLAR 1 Component *                           56.103   57.187   55.415   55.242    54.600   -642     -1% -815          -1% 56.478 -1.878             -3%      74,8%
+                                                                                                                   * = Regulatory RWA - Market Risk Banking Book - Market Risk Trading Book
+                                                                                                                   ** MPBanque giu-19 : 731 €/mln                                                                                                              9
+
+Section 2 – Integrated Risks: RWA per BU/LE’s as at 31-08-2019
+                                                   (Eur mln)                                                   ago-19
+   Regulatory / Internal RWA                                 MPS GROUP    MPS CS    MPS L&F     WIDIBA      CCO          CFO           CEO           COO             CLO          CHCO
+                                                                                                                                                                                               CCO: starting from July and
+   Credit and Counterparty Risk                                  45.182     5.940      2.850         344    31.733          5.137        2.727          2.240          3.396               -
+                                                                                                                                                                                               following the update of
+                                                 Credit Risk      33.806     4.965      2.735         243    29.292            887          359              -          3.392              -
+                                                                                                                                                                                               company           reports, CCO
+                                                       AIRB        27.738     4.207      2.201            -   24.812               -           0              -          2.926              -
+                                                                                                                                                                                               includes subsidiary WIDIBA.
+                                                  Standard          6.068       759        534         243     4.480            887          359              -            465              -
+ P                         Counterparty Risk - Default Risk        1.560       627           -           -      817            742             -             -               -             -
+                                 Issuer Risk Banking Book            921        54           1          0        85            820           19              -               -             -
+                                                                                                                                                                                               COO: starting from July and
+ I
+ L                              Market Risk Banking Book           1.222        12           5           -       17            160        1.044              -               -             -
+                                                                                                                                                                                               following the update of
+ L                                       Participation Risk        2.067        58           0          0     1.118            638             -             -               4             -
+                                                                                                                                                                                               company           reports, COO
+ A                                         Real Estate Risk        2.174        12         30           -1         -              -            -         2.174               -             -
+                                                                                                                                                                                               includes subsidiary Consorzio
+ R                                                DTA Risk         1.883       121         55          25       202          1.883             -             0               0             -   Operativo di Gruppo.
+                                                 Other Risk        1.549        90         23          77       202               8       1.304             65               0             -
+ 1
+   Market Risk                                                    2.822     2.766            -           -   2.766              56             -             -               -             -
+                                  Market Risk Trading Book          2.446     2.390           -           -    2.390             56             -             -               -             -
+                                   Issuer Risk Trading Book           376       376           -           -      376              0             -             -               -             -
+   Operational Risk                                               9.685       569        260           85    6.476            593        1.622            490                -          575
+   Counterparty Risk - CVA Risk                                     578       275            -           -     291            287              -             -               -             -
+   REGULATORY RWA                                                58.268     9.550      3.110         429    41.266          6.074        4.348          2.730          3.396            575
+   Market Risk                                                   12.375     1.346           2            -   1.357        11.063           240               -               -             -
+ P                                      Market Risk BB (AC)         5.682       139          2            -      142          5.516           75              -               -             -
+ I                                   Market Risk BB (FVOCI)         5.609       133           -           -      140          5.510          159              -               -             -
+ L
+                                             Market Risk TB         1.085     1.075           -           -    1.075             37            5              -               -             -
+ L
+ A
+   Interest Rate Risk BB                                          1.300       277          30           6          -        1.300              -             -               -             -
+ R Concentration Risk                                             1.398       611        206            1    2.301                -            -             -               -             -
+   Business and Strategic Risk                                    3.289       756        182         188     3.849            363          162               -           169               -
+ 2 INTERNAL RWA                                                  72.963    10.139      3.525         624    46.366        18.583         3.705          2.730          3.565            575
+   PILLAR 1 Component                                             54.600     7.148      3.105         429    38.859          5.858        3.304          2.730          3.396            575
+   REGULATORY RWA - Dec-19                                       59.108     9.604      3.157         434    42.650          6.151        3.119          2.551          3.654            568
+   Regulatory RWA Ago-19/Regulatory RWA Dec-19                  99%        99%        99%         99%       97%           99%          139%           107%           93%            101%
+   INTERNAL RWA - Dec-19                                         76.463    10.405      3.640         537    48.076        19.644         3.479          2.551          4.233            568
+   Internal RWA Ago-19/Internal RWA Dec-19                      95%        97%        97%        116%       96%           95%          107%           107%           84%            101%
+                                                                                                                                                                                                                              10
+                                                                                                               The Group is based on consolidated data. LE and Chief Level RWA drill down are based on "individual" data.
+
+Section 2 – Integrated Risks: Risk Concentrations as at 31-08-2019
+                                                                   11
+
+Section 5 – Financial Risks: Short Term Liquidity Inherent Risk
+     No significant changes have been experienced in LCR estimation between July
+     and August.
+     The expected outflows rise is mainly related to the secured funding transactions
+     expiring in the following 30 days (+0,72 €/bn) as well as the unsecured funding
+     growth (both for retail and wholesale customers, +0,68 €/bn overall).
+     The expected inflows increase is mainly related to the non financial customers
+     expected flows admission within the 30 days time horizon (+1,02 €/bn).
+                                                                                      12
+
+Section 5 – Financial Risks: M/L Term Liquidity Inherent Risk
+    The increase of NSFR is mainly due to an increase in commercial funding (+1,5 €/bn)    As of 31/08/2019, Gap Ratio 3Y increases due to an increase in commercial
+    and to a decrease in commercial lending and NPL disposal (-1,0 €/bn), partially offset funding, a decrease in commercial lending and a new operation of NPL disposal.
+    by a growth of assets encumbrance (+0,7 €/bn).
+    NSFR doesn’t breach Risk Limit anymore.                                                Gross Asset Encumbrance Ratio is stable. As in July, it breaches both FY Risk
+                                                                                           Tolerance/Amber threshold and the period one.
+                                                                                                                                                                          13
+
+Section 5 – Financial Risks: Liquidity Limits/Processes
+                                                          Liquidity Operating Limits
+                                                          <U+27A2> MPS Group:
+                                                             <U+25AA> Gross Asset Encumbrance
+                                                                breaches Risk Limit.
+                                                             <U+25AA> NSFR doesn’t breach Risk Limit
+                                                        <U+2716>
+                                                                anymore.
+                                                          Processes: Open Gaps
+                                                          <U+27A2> No relevant Gaps Detected
+                                                                                         14
+
+Section 5 – Financial Risks: IRRBB Inherent Risk
+                                                 IRRBB Internal Capital is equal to 104 €/mln and it has been evaluated as the highest loss in
+                                                 terms of the actual sensitivity of GMPS stemming from a set of rate scenarios (both <U+2206>EVE and
+                                                 <U+2206>NII).
+                                                 The RWA equivalent reduction is mainly due to the interest rates decrease; <U+2206>NII measure
+                                                 defines the risk profile.
+                                                                                                                                               15
+
+Section 5 – Financial Risks: IRRBB Limits/Processes
+                                                                         Risk Profile
+                                        IRRBB Indicators                                           Risk Profile 31/08/2019
+                                                                         31/07/2019                                                          Risk
+     Entity        Owner
+                                                                          Scenario                           Risk                           Limit                                                            IRRBB Limits: Group MPS
+                                  Metrics           Scenario                            Scenario Value                     Limits Check
+                                                                            Value                         Appetite
+                                             parallel s hift (+100 bps )      258             247              135                                                                                           Risk Limit: -104 €/mln (around 58%)
+                                             parallel s hift (-100 bps )     -141             -40             -132
+                                                                                                                                                                                                                         Delta NII stemming from
+                                                                                                                                                                                                             due to the Sens.
+                                             s teepening                      139              72             74,0
+                                             flattening                       -47              16              -33
+                                                                                                                                                                                                             the parallel shock -100bps. The
+                  CFO - Finance
+                                   <U+2206>EVE
+                                             long rate up                     164             107               97                                                                                           possible addition of Basis Risk
+       Group                                                                                                                   -104           -178
+                   Department                long rate down                  -164             -71             -105                                                                                                               to 23,3
+                                                                                                                                                                                                             contribution (equal to 23,3mln
+                                                                                                                                                                                                                                         €/mln)
+                                                                                                                                                                                                                                             €) to
+                                             s hort rate up
+                                             s hort rate down
+                                                                               70
+                                                                              -15
+                                                                                               93
+                                                                                              -28
+                                                                                                                30
+                                                                                                                -8
+                                                                                                                                                                                                             Sens.  NII measure
+                                                                                                                                                                                                             Delta NII  measure would not have
+                                             parallel s hock (+100 bps )      142             146              122                                                                                           impact on the delegated limit
+                                   <U+2206>NII
+                                             parallel s hock (-100 bps )      -63            -104             -138                                                                                           absorption.
+                                          IRRBB Indicators                                 Risk Profile 31/08/2019                                  Sens. EVE highlights a sensible reduction mainly due to the impact of a general decrease
+Entity           Owner                                                                          Tier 1 capital                        Risk Limit    of interest rates (approximatively 43 bp on long term maturities) to the implicit options
+                                   Metrics               Scenario                 Value                             Limits Check                    (zero floor on strike to customer rates) embedded in the asset side, partially offset by the
+                                                                                                30/06/2019
+                                                                                                                                                    impact on the options in liability side (floor on NMDs).
+                                                 parallel shift (+100 bps)          -22                                                 2,5% Tier 1
+             MPS Capital Services    <U+2206>EVE                                                                  1.290 1,7% Tier 1 capital
+                                                                                                                                          capital
+  Italian
+                                                 parallel shift (-100 bps)           4
+                                                                                                                                                    Sens. NII shows the impact deriving from the increase of about 2 €/bn of notional on a
+                                                 parallel shift (+100 bps)           -2
+   Legal
+               MPS Leasing &
+                  Factoring
+                                     <U+2206>EVE                                                                    462 0,5% Tier 1 capital
+                                                                                                                                        2,5% Tier 1
+                                                                                                                                          capital
+                                                                                                                                                    very short-term form of assets (eg. 1.3 €/bn in RTGS account and 0.7 €/bn of collateral
+                                                 parallel shift (-100 bps)           -2
+ Entities
+                                                 parallel shift (+100 bps)           -1
+                                                                                                                                                    paid) partially compensated by an increase in commercial deposits (around 1,9 €/bn) with
+                                                                                                                                        2,5% Tier 1
+                   WIDIBA            <U+2206>EVE
+                                                 parallel shift (-100 bps)           6
+                                                                                                              91 0,6% Tier 1 capital
+                                                                                                                                          capital   slower repricing period.
+Processes: Open Gaps                                                                        IRRBB Limits: Italian Legal Entities
+No relevant Gaps Detected                                                                   No Risk Limit breach
+                                                                                                                                                                                                                                                   16
+
+Section          5 – Financial
+ MPS GROUP - REGULATORY                      Risks:- P1Market
+                             CAPITAL REQUIREMENTS          TB         Inherent Risk – Trading Book
+ MPS GROUP
+ PILLAR       - REGULATORY
+         1 Market  risk TB             REQUIREMENTSAug-19
+                              CAPITAL Jul-19          - P1 TB   <U+0394>
+           Market
+ PILLAR 1Risk
+ Position          risk TB
+               on Debt                 Jul-19       Aug-19      <U+0394>
+ Position Risk on Debt
+ Generic                           1,232.6       1,400.1      167.5        MPS GROUP - SENSITIVITY                                         TB
+ Generic
+ Specific                           1,232.6
+                                      105.6      1,400.1
+                                                    112.4     167.5
+                                                                  6.8      Risk Area                             Shock         Delta           Vega*
+ Specific
+ Funds                                105.6
+                                         0.6        112.4
+                                                        0.6       6.8
+                                                                 -0.0                IR sens.                                      -302.2              153
+ Funds Vega
+ Gamma                                   0.6
+                                        31.8            0.6
+                                                      27.4       -0.0
+                                                                 -4.5                               o/w EUR                        -260.8
+ Gamma Vega                             31.8          27.4       -4.5           IR                               +1 bp
+ Securization                         249.3         264.0       14.7                                     USD                         -33.5
+ Securization       Total             249.3
+                                    1,619.9         264.0
+                                                  1,804.4       14.7
+                                                              184.5                                    Other                           -8.0
+                    Total
+ Position Risk on Capital           1,619.9       1,804.4     184.5            EQ    EQ sens.                     +1%            -3,521.3              428
+ Position Risk on Capital
+ Generic                              131.4           68.6     -62.8           CO    CO sens.                     +1%                 11.9               -0
+ Generic
+ Specific                             131.4
+                                      285.2           68.6
+                                                    247.8      -62.8
+                                                               -37.4                 CS sens.                                      -274.6
+ Specific
+ Funds                                285.2
+                                      334.9         247.8
+                                                    266.7      -37.4
+                                                               -68.2            CS        o/w Sovereign Italy    +1 bp             -100.0
+ Funds Vega
+ Gamma                                334.9
+                                      144.5         266.7
+                                                    119.4      -68.2
+                                                               -25.1                                   Other                       -174.6
+ Gamma Vega         Total             144.5
+                                      895.9         119.4
+                                                     702.5     -25.1
+                                                              -193.4                 FX sens.                                       105.3              378
+ Position Risk on FXTotal             895.9          702.5    -193.4                            o/w EURUSD                         123.9
+ Position Risk on FX                                                            FX                                +1%
+ FX                                   222.5         240.7       18.2                                 EURJPY                          23.0
+ FX
+ Gamma    Vega                        222.5
+                                         7.3        240.7
+                                                        1.7     18.2
+                                                                 -5.7                                 Other                         -41.7
+ Gamma Vega         Total                7.3
+                                      229.9             1.7
+                                                     242.4       -5.7
+                                                                12.5       31/08/2019 - K€                * Vega sens. are calculated by 1 point vol shock
+                    Total
+ Position Risk on Commodities         229.9          242.4      12.5                                                                                        TB VaR: Slight decrease: 4.46 €/mln by the end of Aug2019 vs
+ Position Risk on Commodities
+ Commodity                              72.1          68.6       -3.5      SENSITIVITY: TB sensitivities are related to the activity of                     about 5.19 €/mln by the end of Jul2019 (Decrease in VaR All and
+ Commodity
+ Gamma    Vega                          72.1
+                                         5.2          68.6
+                                                        4.6      -3.5
+                                                                 -0.6
+                                                                           the subsidiary MPSCS (short delta EQ exposure due to                             CS VaR of about 0.73 €/mln and about 0.09 €/mln respectively);
+ Gamma Vega         Total                5.2
+                                        77.3            4.6
+                                                       73.2      -0.6
+                                                                  -4.1
+  TOTAL RWA         Total               77.3
+                                     2,823.0           73.2
+                                                   2,822.5        -4.1
+                                                                   -0.5
+                                                                           options and futures on EU equity market indices carried out                      the pattern is due to trading/primary broker activity on Italian
+  TOTAL RWA                          2,823.0       2,822.5         -0.5
+                                                               €/mln       for bancassurance products structuring and related hedges;                       Government Bonds of the subsidiary MPS Capital Services within
+                                                               €/mln       short CS delta exposure stemming from short-term Italian                         recent auctions. In details, a decrease is recorded within the first
+ MPS GROUP - INTERNAL CAPITAL REQUIREMENTS - P2 TB                         Gov due to market making/specialist purposes).                                   decade of August, almost totally driven by a partial sell-out of
+ MPS GROUP
+ PILLAR       - INTERNAL
+         2 Market  risk    CAPITAL REQUIREMENTS
+                                       Jul-19    - P2  TB
+                                                   Aug-19       <U+0394>                                                                                           Italian short term Gov bonds. In the second part of August, again,
+ PILLAR  2 Market
+ Market Risk TB    risk                Jul-19
+                                   1,106.5          Aug-19
+                                                 1,084.7        <U+0394>
+                                                               -21.8                                                                                        it can be noticed a new cycle of purchases in short term auction
+ Market Risk TB                     1,106.5      1,084.7       -21.8
+                                                               €/mln                                                                                        and the following deflating of the exposure concurrently with sales
+P1 RWA: Aug-Jul no overall significant change.                 €/mln                                                                                        to clients.
+The increase (+167.5 €/mln) of generic IR Risk on
+                                                                                                                                                            To be noticed the entry of a new scenario in the Historical
+Securities, due to IR derivatives transactions of MPSCS
+                                                                                                                                                            Simulation VaR tail, related to the widening of Italian credit spread
+is offset by a decrease of EQ Risk (-193.4€/mln) given by
+                                                                                                                                                            triggered by the event of the government crisis (day scenario:
+a revised representation in regulatory systems of the
+                                                                                                                                                            09.08.19 with an increase of about +30bps of CS Ita curve).
+exposure on structured products of MPSCS for client
+driven purposes (i.e. generic and specific components)                                                                                                      Issuer Risk: on a monthly basis (end of August19-July19) the
+and trades in ETFs to hedge bancassurance products                                                                                                          FVTPL portfolio is substantially flat.
+exposure. P2 RWA: slight decrease (-21.8€/mln).
+                                                                                                                                                                                                                               17
+
+   Section 5 – Financial Risks: Market Inherent Risk – Banking Book
+MPS GROUP - REGULATORY CAPITAL REQUIREMENTS - P1 BB                                     MPS GROUP - SENSITIVITY                  BB FV        BB AC
+PILLAR 1 Market risk BB                                        Jul-19   Aug-19   <U+0394>      Risk Area                          Shock Delta        Delta
+                            Market Risk BB (Eq. exposure)     913.0    1,222.0  309.0             IR sens.                              -981      -3,226
+                                                                                                                 o/w EUR               -954      -3,264
+ ow: Adjustment Asset Value under generic hedging scope       734.0    1,044.0  310.0        IR                            +1 bp
+                                                                                                                      USD                -27          38
+                                            Issuer Risk BB    924.0      921.0    -3.0
+                                                                                                                    Other                   0          0
+ TOTAL RWA                                                  1,837.0    2,143.0  306.0       EQ    EQ sens.                  1%        1,201        1,155
+                                                                                €/mln       CO    CO sens.                  1%              0          0
+                                                                                                  CS sens.                           -1,927       -8,230
+MPS GROUP - INTERNAL CAPITAL REQUIREMENTS - P2 BB                                            CS        o/w Sovereign Italy +1 bp    -1,695       -5,372
+                                                                                                                    Other              -232      -2,858
+PILLAR 2 Market risk BB                                        Jul-19   Aug-19   <U+0394>
+                                                                                                  FX sens.                                21        436
+Market Risk BB                                             11,566.6   11,290.5 -276.1                        o/w EURUSD                  -12        436
+                                                                                             FX                             1%
+                                                   OW: FV   5,935.1    5,608.9 -326.2                             EURJPY                   -1          0
+                                                   OW: AC   5,631.5    5,681.6   50.1                              Other                  34           0 BB VaR (FV+AC): Decrease: about 116.40 €/mln at end-
+                                                                                €/mln
+                                                                                        31/08/2019 - K€                                                  Aug2019 vs. about 128.56 €/mln end-Jul2019. The decrease
+P1 RWA: RWA increased (306 €/mln). The increase is almost                                                                                                is totally driven by market parameters (CS Ita 5Y -19bps in
+                                                                                       SENSITIVITY: FV BB CS sensitivity (FVTPL+FVOCI) is                August).
+entirely explained by the corresponding variation of the Value
+                                                                                       mainly due to exposure on mid/long - term Italy Gov. bonds
+Adjustment for asset under generic hedging scope (+310mln/€),
+                                                                                       in FVOCI portfolio.                                               To be noticed the entry of a new scenario in Historical
+due to the decrease of long-term rate.
+                                                                                       The Italian Sov. Credit sensitivity of AC portfolio amounts       Simulation VaR tail, related to the widening of Italian credit
+P2 RWA: RWA decreased on Market Risk BB (FV + AC) for -276.1
+                                                                                       to about -5.4 €/mln (the total BB, AC+FV, sums up to -7.1         spread triggered by the event of Italian government crisis
+€/mln, mainly due to the time window considered for the calculation
+                                                                                       €/mln).                                                           (day scenario: 09.08.19 with an increase of about +30bps of
+of the internal capital for FVOCI positions, via the 1year rolling
+                                                                                                                                                         CS Ita curve).
+average VaR, that has gradually excluded some scenarios of the
+latest six months of 2018 on Italian Sov. credit spread, including
+recent VaR measures driven by a reduction of exposure on FVOCI
+Sov Ita positions (Jul-Aug reduction of about 1.6€/bn).                                                                                                  Issuer Risk: on a monthly basis (end of August19-July19)
+RWA slight increase of BB AC positions (+50 €/mln) as a result of                                                                                        decrease of about -1.1€/bln of nominal amount, mainly on
+the Board of Director’s deliberation on 01.08.19 related to the                                                                                          Italian Sovereign exposure due to: a decrease of -1.6€/bln
+financial strategies of BB portfolio for the second half of 2019                                                                                         in OCI portfolio of MPS and an increase of +0.5 €/bln in AC
+(increase of about 400€mln of Italian long-term Sov. bonds).                                                                                             portfolio according to the new financial strategies of BB
+                                                                                                                                                         portfolio for the second half of 2019 (based on Board
+BB FV positions consist of positions classified in Banking Book                                                                                          deliberation of 01.08.19).
+accounted at FV, with the respective related hedge (i.e. FVOCI
+positions and mandatory FVTPL positions to a lesser extent).
+                                                                                                                                                                                                                    18
+
+  Section 5 – Financial Risks: Market Limits/Processes
+                                                                                                                      RISK LIMITS
+€/mln                                                           Dec-18             Mar-19             Jun-19            Jul-19     Aug-19  Limit     Usage% Check Breaches Recorded
+                                                                                                                                                                                    In the panel on the left, the Limits on Market Risk framework, descending from
+    MPS GROUP       Issuer OCI Bond Portfolio*                9,660.35          7,790.35          7,767.55          7,212.55     5,601.55   13,500       41%  <U+2713>            -        RAS2019, are monitored and reported, with respect to the autonomies
+                    VaR Trading Book (PNV)°                          6.62              7.37              5.14             5.19        4.46    16.00      28%  <U+2713>            -        approved by the resolution of the CEO dated 14-03-2019. RAS 2019 limits are
+                    Average VaR Trading Book (3M PNV)°°              7.18              6.08              5.81             5.13        4.73    10.50      45%  <U+2713>            -
+                    Stop Loss Annual Drawdown Trading               -3.59              0.00              0.00             0.00       -0.15   -25.00       1%  <U+2713>
+                                                                                                                                                                                    reported starting from 19-03-2019.
+                                                                                                                                                                           -
+                    Monthly Stop Loss Trading Book °°°               9.29            13.07               8.51             9.63      12.71    -18.00       0%  <U+2713>            -
+                    VaR Banking Book (PB)                          90.10             72.05             65.50            56.61       38.50   105.00       37%  <U+2713>            -
+   MPS GROUP ^                                                                                                                                                                      Operating Limits
+                    VPB Limit                                      14.74          -141.62             -60.77            55.69      100.00  -425.00      -24%  <U+2713>            -
+                    Nominale Sov ITA BB                           -                12,295            12,272           11,902       10,693   13,000       82%  <U+2713>            -        Actual breaches have been ratified by the CEO with the following details:
+                    Nominale Sov ITA AC                           -                  4,504             4,505            4,690       5,092     5,200      98%  <U+2713>            -
+                    Nominale Sov ITA TB                           -                  5,330             3,941            4,319       4,157     6,250      67%  <U+2713>            -
+                    Sensitivity CR01 ITA BB                       -                   -6.24             -6.38            -6.81       -7.07     -7.00   101%   <U+2716>
+                                                                                                                                                              <U+2713>       Aug 28-30
+                    VaR Trading Book (PNV)                           0.23              0.66              0.11             0.07        0.04      2.30      2%  <U+2713>            -        AFTCM
+                    Average VaR Trading Book (3M PNV)                0.30              0.54              0.18             0.11        0.08      1.30      6%  <U+2713>            -
+                    Stop Loss Annual Drawdown Trading                0.00              0.00             -1.13            -0.01        0.00     -4.00      0%  <U+2713>            -
+                                                                                                                                                                                    •  Sensitivity CR01 ITA BB: breaches ratified until 31-12-2019 with
+                    Monthly Stop Loss Trading Book                   0.22              0.59             -0.05             0.40        0.15     -2.00      0%  <U+2713>            -           commitment to hold/reduce the CR sensitivity on Italian government bonds
+                    Stress Limit Trading Book (PNV)                 -2.29           -10.90              -0.93            -0.68       -1.49   -45.00       3%  <U+2713>            -           for subsequent trades both on FVOCI and AC accounting categories.
+                    VaR Banking Book (PB)                          87.54             70.04             64.44            55.54       37.48   100.00       37%  <U+2713>            -
+                    VPB Limit                                       -4.68         -135.88             -53.02            50.01       93.66  -410.00        0%  <U+2713>            -
+  BMPS - AFTCM Nominale Sov ITA BB                                -                12,072            12,272           11,902       10,693   13,000       82%  <U+2713>            -
+                    Nominale Sov ITA AC                           -                  4,504             4,505            4,690       5,092     5,200      98%  <U+2713>            -
+                    Nominale Sov ITA TB                           -                     100               100              100         100       250     40%  <U+2713>            -
+                    Sensitivity CR01 ITA BB                       -                   -6.19             -6.38            -6.81       -7.07     -7.00   101%   <U+2716>
+                                                                                                                                                              <U+2713>       Aug 28-30
+                    Hedge fund - complessivo                         1.00              1.01              0.64             0.63        0.64      5.00     13%  <U+2713>            -
+                    Hedge fund - singola società***                  0.34              0.36              0.33             0.33        0.33      5.00      7%  <U+2713>            -
+                    Defaulted - complessivo                          0.00              0.00              0.02             0.02        0.02    10.00       0%  <U+2713>            -
+                    Defaulted - singolo emittente***                 0.65              0.62              0.02             0.02        0.02      5.00      0%  <U+2713>            -
+                    VaR Trading Book (PNV)                           6.46              7.45              5.04             5.11        4.44    15.00      30%  <U+2713>            -
+                    Average VaR Trading Book (3M PNV)                6.93              6.30              5.73             5.07        4.67    10.00      47%  <U+2713>            -
+                    Stop Loss Annual Drawdown Trading               -3.86              0.00              0.00            -0.07       -0.18   -21.00       1%  <U+2713>            -
+                    Monthly Stop Loss Trading Book - CD**         -                    6.65              7.20             5.91        8.88     -7.00      0%  <U+2713>            -
+                    Monthly Stop Loss Trading Book - TP            11.66               5.76              1.31             3.31        3.70     -9.00      0%  <U+2713>            -
+                    Stress Limit Trading Book (PNV)              -91.80           -162.52             -78.89           -65.73     -200.36  -260.00       77%  <U+2713>            -
+      MPS CS        VaR Banking Book (PB)                            0.41              0.49              0.50             0.24        0.26      2.00     13%  <U+2713>            -
+                    VPB Limit                                       -1.90             -0.97              0.54             0.39        1.04     -7.50      0%  <U+2713>            -
+                    Nominale Sov ITA TB                           -                  5,230             3,841            4,219       4,057     6,000      68%  <U+2713>            -
+                    Hedge fund - complessivo                         0.00              0.00              0.00             0.00        0.00      5.00      0%  <U+2713>            -
+                    Hedge fund - singola società***                  0.00              0.00              0.00             0.00        0.00      5.00      0%  <U+2713>            -
+                    Defaulted - complessivo                          6.84              6.84              8.03             8.03        8.03    30.00      27%  <U+2713>            -
+                    Defaulted - singolo emittente***                 7.51              7.51              8.00             8.00        8.00    10.00      80%  <U+2713>            -
+                    VaR Banking Book (PB)                            0.10              0.10              0.10             0.10        0.09      0.50     18%  <U+2713>            -
+     MP Banque
+                    VPB Limit                                        5.00              2.43              3.63             4.34        4.90     -4.00      0%  <U+2713>            -
+° Commitment DG Comp limit 20 €/mln                       * The limit will tend towards the end of 2019 on the level of 13 €/bn
+°° Commitment DG Comp limit 14,4 €/mln                    ** M anagement Alert
+°°° Commitment DG Comp limit -31 €/mln                    *** For Single Issuer the maximun utilization is reported
+^ Early Warning
+                                                                                                                                                                                                                                                               19
+
+Section 5 – Financial Risks: Counterparty Inherent Risk
+                                                        Relevant RWA variations – Aug 19 / Jul 19
+                                                        Default Risk: decrease (-142 €/mln)
+                                                        • STANDARD: decrease (-123 €/mln)
+                                                        - SFT: decrease (-118 €/mln)
+                                                          For BMPS: RWA decrease is transitory since it is due to technical issues in the
+                                                          representation of SFT maturities in regulatory systems of some positions held with
+                                                          NATWEST MARKETS PLC (-41€/mln) and BANCA IMI S.P.A. (-41€/mln).
+                                                        - Derivatives&LST: increase (-5 €/mln) No relevant variations.
+                                                        • AIRB: decrease (-20€/mln)
+                                                        - SFT: No relevant variations.
+                                                        - Derivatives&LST: decrease (-20 €/mln)
+                                                          For MPS CS: RWA decrease is due to an upgrade in the method used to
+                                                          determine risk weights applied to exposures linked to specialized lending activity
+                                                          according to CRR art.153, 5. The main impact is on STRADA DEI PARCHI SPA (-
+                                                          14€/mln).
+                                                        CVA risk: no relevant variations.
+                                                        RWAs Composition – August 19
+                                                        GMPS level:
+                                                        • SFT: relevant activity in structured funding mainly on J.P. MORGAN SECURITIES
+                                                          PLC (164 €/mln) and NATWEST MARKETS PLC (149€/mln) for about 46% of total
+                                                          RWAs of SFT;
+                                                        • Derivatives & LST: 37% for activity with commercial (non financial) customers and
+                                                          32% for activity in AXA products;
+                                                        Exposure with Central Counterparties (1.506 €/mln) is about 33% of total outstanding
+                                                        EAD - Default Risk - corresponding to 3% of total RWAs.
+                                                                                                                                             20
+
+Section 5 – Financial Risks: Counterparty Risk Limits
+                                                                                                                                                                  €/mln
+                                                                                                                                                                                                        Entity BMPS                                                                 Entity BMPS
+                                                                                                       RISK LIMITS
+                                                                                                                                                                                          Derivatives & Lst as of 31/08/2019                                                  SFT as of 31/08/2019
+€/mln                                             may-19       jun-19         jul-19       aug-19         Limit      Usage%        Check        Breaches Recorded   Credit                                        EAD*                            Credit                                      EAD*
+                                                                                                                                                                    quality  Rating scale     Financial    Other counterparty CCPs      EAD*      quality  Rating scale   Financial    Other counterparty CCPs      EAD*
+                      EAD* SFT                    1,803.25     1,748.88       1,749.24     1,686.26      2,500.00          67%       <U+2713>                  -
+     MPS GROUP °                                                                                                                                                     step                   Institutions                                           step                 Institutions
+                      EAD* Derivatives&Lst           961.95       958.42        974.55       949.79      1,100.00          86%       <U+2713>                  -
+                                                                                                                                                                            AAA a AA-                 0.39                 -          -      0.39         AAA a AA-             18.87                  -          -      18.87
+                                                                                                                                                                       1                                                                             1
+                      EAD* SFT                    1,658.11     1,629.96       1,627.01     1,602.83      2,300.00          70%       <U+2713>                  -              2    A+ a A-                 85.85                  -          -    85.85     2    A+ a A-              549.72                  -          -     549.72
+    BMPS - AFTCM
+                                                                                                                                                                       3    BBB+ a BBB-             89.92                  -          -    89.92     3    BBB+ a BBB-        1,034.16                  -          -   1,034.16
+                      EAD* Derivatives&Lst           209.25       215.62        212.24       210.44        300.00          70%       <U+2713>                  -
+                                                                                                                                                                       4    BB+ a BB-                    -                 -          -         -    4    BB+ a BB-                  -                 -          -          -
+                      EAD* SFT                       145.14       118.92        122.24         83.43       200.00          42%       <U+2713>                  -
+                                                                                                                                                                            B+ a B-                      -                 -          -         -         B+ a B-                    -                 -          -          -
+        MPS CS                                                                                                                                                         5                                                                             5
+                      EAD* Derivatives&Lst           752.70       742.80        762.31       739.35        800.00          92%       <U+2713>                  -              6    below B-                     -                 -          -         -    6    below B-                   -                 -          -          -
+EAD * metric value obtained by multiplying the EAD to the conversion coefficient level, which is function of counterparty category and rating value                   NR                            21.72                  -          -    21.72    NR                               -                 -          -          -
+                                                                                                                                                                     CCPs                                -                 -     12.56     12.56   CCPs                              -                 -       0.08       0.08
+° Early warning
+                                                                                                                                                                     Tot.                         197.87                  -     12.56    210.44    Tot.                    1,602.75                   -      0.08   1,602.83
+                                                                                                                                                                                                       Entity MPS CS                                                               Entity MPS CS
+   In the panel above Limits on Counterparty Risk framework, descending from RAS2019,                                                                                                     Derivatives & Lst as of 31/08/2019                                                  SFT as of 31/08/2019
+   are monitored and reported, with respect to the autonomies approved by the resolution of                                                                         Credit                                        EAD*                            Credit                                      EAD*
+                                                                                                                                                                    quality  Rating scale     Financial    Other counterparty CCPs      EAD*      quality  Rating scale   Financial    Other counterparty CCPs      EAD*
+   the CEO dated 05-06-19 and reported from 31-05-2019.                                                                                                              step                   Institutions                                           step                 Institutions
+   Counterparty Risk Limits only refer to Derivatives&Lst and SFT transactions held with                                                                               1    AAA a AA-                 0.87                 -          -      0.87    1    AAA a AA-               0.20                 -          -       0.20
+   counterparties within Standard regulatory approach.                                                                                                                 2    A+ a A-                150.64                  -          -   150.64     2    A+ a A-               47.05                  -          -      47.05
+                                                                                                                                                                       3    BBB+ a BBB-             42.33                  -          -    42.33     3    BBB+ a BBB-           20.59                  -          -      20.59
+                                                                                                                                                                       4    BB+ a BB-                 3.20                 -          -      3.20    4    BB+ a BB-                  -                 -          -          -
+   Operating Limits.
+                                                                                                                                                                       5    B+ a B-                      -                 -          -         -    5    B+ a B-                    -                 -          -          -
+   No breaches have been reported at 31-08-2019.                                                                                                                       6    below B-                  0.00                 -          -      0.00    6    below B-                   -                 -          -          -
+                                                                                                                                                                      NR                            19.24             514.20          -   533.44    NR                            0.01                 -          -       0.01
+                                                                                                                                                                     CCPs                                -                 -       8.86      8.86  CCPs                              -                 -     15.58       15.58
+                                                                                                                                                                     Tot.                         216.29             514.20      8.86    739.35    Tot.                        67.86                  -     15.58       83.43
+   Entity MPS
+   SFT: almost total of EAD* is linked to repo transactions mainly held with good credit standing financial counterparties. EAD* decreases for 24 €/mln.
+   Derivatives&Lst: 84% of EAD* is linked to derivative transactions held with good credit standing financial counterparties (no variations from the end of July).
+   Entity MPS CS
+   SFT: 81% of EAD* is linked to transactions held with high credit standing financial counterparties. EAD* decreases for 39 €/mln.
+   Derivatives&Lst: 70% of EAD* is linked to activity in AXA products (NR counterparties) and another 26% is linked to derivative transactions held with high credit standing financial
+   counterparties. EAD* decreases for 23 €/mln.
+                                                                                                                                                                                                                                                                                                                       21
+
+Annexes
+        22
+
+Allegato Sezione 5 – Liquidity Risk: Analisi regolamentare
+ Liquidity Coverage Ratio (LCR): indicatore secondo Atto Delegato al 31-08-2019
+ L’indicatore è sostanzialmente stabile rispetto alla fine mese precedente.
+                                                             (a) La variazione del liquidity buffer è principalmente spiegata dagli effetti positivi generati dall’andamento delle dinamiche commerciali (+0,61 € /mld),
+                                                                  solo parzialmente mitigati dall’andamento negativo delle dinamiche finanziarie (-0,42 €/mld). L’assorbimento di titoli HQLA in Pooling BCE è stabile
+                                                                  a 1,80 €/mld.
+                                                             (b) Lo stock degli outflows in scadenza nei 30 giorni è riconducibile all’incremento della raccolta con controparti retail e wholesale (+0,68 €/mln) ed
+                                                                  all’entrata di due operazioni di secured funding all’interno dell’orizzonte temporale di analisi (+0,72 €/mld, di cui +0,43 €/mld relativi al contratto di
+                                                                  funding strutturato con Banca Caboto avente come sottostante la tranche mezzanina del programma di cartolarizzazione SIENA MORTGAGES
+                                                                  2010 e +0,29 €/mld riconducibili al contratto di collateral swap con Sogenere Paris avente il GGB BMPS 0.75 MR20 come sottostante).
+                                                             (c) L’incremento degli inflows è riconducibile all’aumento degli afflussi da controparti non finanziarie (+1,02 €/mld), principalmente determinato
+                                                                  dall’inclusione del successivo fine mese all’interno dell’orizzonte temporale di analisi.
+ Net Stable Funding Ratio (NSFR): indicatore stimato al 31-08-2019
+ La variazione dell’indicatore è principalmente determinata da dinamiche commerciali positive, oltre che dalla cessione dei crediti deteriorati..
+                                                            (a) L’aumento dell’Available Stable Funding è dovuta prevalentemente all’aumento della raccolta retail (+1,0 €/mld) e wholesale (+0,5 €/mld).
+                                                            (b) La riduzione del Required Stable Funding rispetto al mese precedente è principalmente dovuto alle cessioni di NPL (Papa, Quebec, Lima) avvenute
+                                                                 nel mese di agosto oltre che per una diminuzione degli impieghi commerciali (complessivamente -1,0 €/mld), effetto parzialmente compensato da
+                                                                 un incremento di reverse repos e posizioni corte su titoli (+0,5 €/mld).
+                                                                                                                                                                                                                     23
+
+ Allegato Sezione 5 – Liquidity Risk: Liquidità Operativa
+Di seguito si riporta, per la data del 31-08-2019, il profilo di liquidità operativa del Gruppo (Maturity Ladder). Per CBC e saldo netto di liquidità a 1 mese viene inoltre indicato il rapporto percentuale rispetto al
+totale dell’attivo di Gruppo, secondo i dati di bilancio al 30-06-2019.
+Al 31-08-2019 il profilo di liquidità operativa del Gruppo e il rapporto percentuale tra saldo netto di liquidità ad 1 mese su totale dell’attivo di Gruppo si pongono al di sopra dei rispettivi livelli di Risk Appetite.
+<U+25AA> La CBC si attesta intorno a 23,29 €/mld, in diminuzione rispetto al mese precedente (23,56 €/mld):                    <U+25AA> Al 31/08/2019 il saldo netto di liquidità ad 1 mese del Gruppo si attesta intorno a 21,23
+         <U+27A2> -0,76 €/mld per collateral cash                                                                                €/mld, in diminuzione rispetto al mese precedente (22,08 €/mld).
+         <U+27A2> + 0,52 €/mld per dinamiche commerciali (di cui le più rilevanti : -1,80 €/mld tributi, +1,16                 <U+25AA> Il rapporto tra saldo ad 1 mese ed attivo consolidato di Gruppo è pari a 16,14%, in
+             €/mld stipendi e pensioni, +0,78 €/mld c/c reciproco, +0,45 €/mld tesoreria telematica)                      diminuzione rispetto al mese precedente (16,80%). Il dato al 31/08/2019 è calcolato
+                                                                                                                          secondo i dati di bilancio al 30/06/2019.
+         <U+27A2> -0,37 €/mld per attività derivante da ‘Forex & Commodities’
+         <U+27A2> +0,35 €/mld per altri regolamenti banche
+                                                                                                                                                                                                                            24
+
+Allegato Sezione 5 – Liquidity Risk: Analisi della Counterbalancing Capacity
+Di seguito si propone, per la data del 31-08-2019, l’analisi della composizione della Counterbalancing Capacity e il confronto tra il saldo del buffer di liquidità del LCR-DA e il saldo della CBC operativa.
+                                                                                                                                                                                                               25
+
+  Allegato Sezione 5 – Liquidity Risk: Analisi Stress Test
+Liquidity Stress Test e Time-to-survival stressato
+                                                                                    Il Time-to-Survival di Gruppo (TTS) in condizioni di Stress a fine agosto è pari a 165 giorni di calendario
+                                                                                    (con l’applicazione del profilo di stress idiosincratico), stabile rispetto al fine mese precedente (162
+                                                                                    giorni).
+                                                                                    Il TTS a fine agosto, senza ipotesi di stress, è superiore a 12 mesi.
+   Il Time-To-Survival di Gruppo in condizioni di Stress a fine agosto non presenta
+   sconfinamento dei limiti.
+                                                                                                                                                                                              26
+
+Allegato Sezione 5 – Liquidity Risk: Backtesting Stress Test Gestionali di Breve Termine
+L’analisi di backtesting degli Stress Test gestionali di breve termine è volta a verificare la corretta calibrazione dei parametri degli scenari di stress in un ottica prudenziale, ovvero valutando
+che l’impatto ipotizzato dallo scenario sia sempre superiore a quanto effettivamente verificatosi.
+Descrizione
+L’analisi degli Stress Test gestionali di breve termine è effettuata con riferimento al solo bucket temporale «1 month», in ragione del ruolo cruciale rivestito da tale nodo sia nell’ambito
+del monitoraggio del rischio, sia in quello della determinazione dei limiti. La modalità di backtesting si sviluppa mediante un duplice test sulla valenza del singolo scenario di stress e
+sull’effetto cumulato dell’applicazione di tutti gli scenari individuati. Il metodo prevede di effettuare il calcolo dello scostamento percentuale tra l’impatto stimato e l’impatto realizzato di
+ciascuno scenario di stress e di verificare il numero di volte in cui, all’interno di una serie storica con profondità triennale, lo scostamento si pone al di sopra delle soglie prefissate.
+Risultati
+Di seguito si riportano i risultati dell’analisi mensile di backtesting:
+Il backtesting risulta superato per tutti gli indicatori.
+                                                                                                                                                                                                   27
+
+Allegato Sezione 5 – Liquidity Risk: Liquidità Strutturale Gruppo MPS
+ Dal mese di marzo 2019 la rappresentazione della liquidità strutturale adotta il nuovo modello delle poste a vista.
+ Analisi su base consolidata: sintesi
+ <U+F071> Gap Ratio 1Y - 5Y in aumento nel mese prevalentemente per il forte aumento della raccolta commerciale, per la riduzione dell’attivo commerciale oltre che per la cessione di crediti deteriorati. Gap Ratio
+    commerciale in aumento nel mese per l’aumento della raccolta commerciale, per la riduzione dell’attivo commerciale oltre che per la cessione di crediti deteriorati
+ Analisi su base consolidata: dettagli
+ <U+F071> Gap Ratio 1Y in aumento prevalentemente per l’aumento della raccolta commerciale (+1.624 €/mln oltre 1 anno), oltre che per la
+   riduzione dell’attivo commerciale e per la cessione dei crediti deteriorati (-590 €/mln oltre i 1 anno).
+ <U+F071> Gap Ratio 3Y in aumento nel mese prevalentemente per l’aumento della raccolta commerciale (+1.214 €/mln oltre i 3 anni), oltre che
+   per la riduzione dell’attivo commerciale e per la cessione dei crediti deteriorati (-389 €/mln oltre i 3 anni).
+ <U+F071> Gap Ratio Commerciale in aumento nel mese per l’aumento della raccolta commerciale (+1.915 €/mln, di cui +2.107 €/mln da poste
+   a vista e -192 €/mln da poste a scadenza), oltre che per la riduzione dell’attivo commerciale e per la cessione di NPL (-1.166 di cui -
+   573 €/mln da poste a vista e -593 €/mln da poste a scadenza).
+                                                                                                                                                                                                          28
+
+ Allegato Sezione 5 – Liquidity Risk: Liquidità Strutturale su base individuale
+Analisi su base individuale: sintesi
+<U+F071>   MPS CS: GR1Y – GR5Y in aumento a causa della riduzione dell’attivo commerciale e della cessione di NPL. MPS L&F: Gap ratios a 4Y e 5Y a causa della riduzione della vita residua della
+    raccolta infragruppo. WIDIBA: Gap Ratio da 1Y a 5Y in aumento nel mese a causa dell’aumento della raccolta commerciale a vista.
+Analisi su base individuale: dettagli
+<U+F071> MPS CS: GR1Y – GR5Y in aumento a causa della riduzione dell’attivo commerciale e della cessione di NPL (-86 €/mln oltre 1 anno, -39 €/mln oltre 2 anni, -41 €/mln oltre 3 anni, -43 €/mln oltre 4
+  anni, -40 €/mln oltre 5 anni).
+<U+F071> MPS L&F: Gap ratios a 4Y e 5Y a causa della riduzione della vita residua della raccolta infragruppo (-41 €/mln oltre 4 anni, -118 €/mln oltre 5 anni).
+<U+F071> WIDIBA: Gap Ratio da 1Y a 5Y in aumento nel mese a causa dell’aumento della raccolta commerciale a vista (+50 €/mln oltre 1 anno, +41 €/mln oltre 2 anni, +37 €/mln oltre 3 anni, +34 €/mln oltre
+  4 anni, +32 €/mln oltre 5 anni).,
+                                                                                                                                                                                               29
+
+Allegato Sezione 5 – Liquidity Risk: Asset Encumbrance
+                     157.315
+Gli indicatori di Asset Encumbrance Lordo e Netto risultano stabili nel mese: l’aumento degli assets encumbered
+(+0,6 €/mld) risulta compensato dall’aumento del total assets e total collateral received (+1,3 €/mld, dovuto in larga
+parte all’aumento della raccolta commerciale avvenuto nel mese).
+                                                                                                                        FY 2019
+                                                                                                                       Thresholds 30
+
+Allegato Sezione 5 – Liquidity Risk: Additional Liquidity Monitoring Metrics (ALMM)
+ Di seguito si propone l’andamento dei template 67, 68 e 71 afferenti agli Additional Liquidity Monitoring Metrics oggetto di segnalazione di vigilanza.
+                                                                                                                                                         31
+
+Allegato Sezione 5 – Liquidity Risk: Additional Liquidity Monitoring Metrics (ALMM)
+ Di seguito si propone un’analisi del template 69 afferente alle Additional Liquidity Monitoring Metrics oggetto di segnalazione di vigilanza.
+                                                                                                       I valori relativi al weighted average cost e weighted average tenure dell’unsecured
+                                                                                                       wholesale funding non tengono conto dell’emissione subordinata di 300 €/mln effettuata nel
+                                                                                                       mese di luglio.
+                                                                                                                                                                                                  32
+
+Allegato Sezione 5 – Liquidity Risk: Controllate estere
+Limiti operativi Controllate Estere al 31-08-2019
+Monte Paschi Banque S.A.
+L’indicatore di Liquidità di breve termine LCR, stimato in data 31-08-2019, è pari a 322%, in riduzione rispetto alla stima del 31-07-2019 (553%) e superiore al Risk Limit di 165%. L’indicatore Strutturale di
+equilibrio finanziario NSFR stimato in data 30-06-2019 è pari a 121%, in aumento rispetto all’ultima rilevazione trimestrale di marzo 2019 (117%) e superiore al Risk Limit di 111%.
+                                                                                                                                                                                                                33
+
+ Allegato Sezione 5 – Liquidity Risk: Early Warning Indicators
+   Di seguito il monitoraggio mensile degli Early warning Indicators previsto dal Liquidity Risk Framework:                                                                                 Indicatori generici
+                                                                                                                                                                                             1. Indice azionario europeo;
+                                                                                                                                                                                             2. Indice      azionario   del    comparto
+                                                                                                                                                                                                bancario;
+                                                                                                                                                                                             3. Indice che combina spread, volatilità
+                                                                                                                                                                                                ed indici relativi ai mercati finanziari
+                                                                                                                                                                                                dell’area Euro;
+                                                                                                                                                                                             4. Rifinanziamento       marginale    delle
+                                                                                                                                                                                                banche europee presso la BCE;
+                                                                                                                                                                                             5. Valore assoluto del delta tra Euribor
+                                                                                                                                                                                                (tasso di riferimento unsecured) ed
+                                                                                                                                                                                                EONIA;
+                                                                                                                                                                                             6. Spread tra rendimento dei Titoli di
+                                                                                                                                                                                                Stato tedeschi e quelli italiani.
+                                                                                                                                                                                            Indicatori specifici
+                                                                                                                                                                                             1. Indice del Rating di Lungo Termine di
+                                                                                                                                                                                                BMPS (Second Best);
+                                                                                                                                                                                             2. Cash flows dei Canali al dettaglio;
+                                                                                                                                                                                             3. Cash flows dai Canali all’ingrosso;
+                                                                                                                                                                                             4. Spread tra performance del titolo
+                                                                                                                                                                                                azionario rispetto all’andamento dei
+                                                                                                                                                                                                titoli del settore;
+                                                                                                                                                                                             5. Spread del CDS emissioni Senior di
+                                                                                                                                                                                                MPS a 5 anni di BMPS rispetto
+                                                                                                                                                                                                all’indice;
+                                                                                                                                                                                             6. Spread         del    CDS      emissioni
+                                                                                                                                                                                                Subordinati di MPS a 5 anni di BMPS
+Gli indicatori di Early Warnings sono metriche di breve termine che consentono di individuare tempestivamente le vulnerabilità della Banca sia di natura specifica sia sistemica. Per           rispetto all’indice;
+ciascun indicatore vengono calcolate due tipologie di segnale: 1) Variazione: il segnale si attiva quando la variazione della metrica rispetto al valore precedente eccede predeterminate    7. Riacquisto delle obbligazioni del
+soglie; 2) Livello: il segnale si riferisce al livello corrente rispetto a predeterminate soglie di livello.                                                                                    Gruppo;
+                                                                                                                                                                                             8. Rapporto tra il valore di quotazione
+<U+25AA>      ANALISI PER LIVELLO - Nel corso del mese di agosto non si rilevano particolari segnali di tensione tra gli indicatori generici eccetto per l’indicatore ‘2. Dow Jones EURO STOXX         dell’azione BMPS ed il rispettivo Book
+       Banks’ che permane in zona rossa per tutto il corso del mese. Da segnalare tra gli indicatori specifici l’indicatore ‘5. MONTE 5 YRS SEN - ITRAXX EURO FIN SEN’ che passa dalla          value;
+       zona gialla ad inizio mese a quella rossa per tornare nuovamente in zona gialla in concomitanza agli avvenimenti del panorama politico italiano alla fine del mese, l’indicatore ‘6.  9. Counterbalancing Capacity;
+       MONTE 5YRS SUB – ITRAXX EURO FIN SUB’ risulta stabile in zona rossa per l’intero periodo e l’indicatore ‘8. BMPS Stock price/Book value’ che torna in zona ambra a fine mese          10.Saldo netto di liquidità ad 1M;
+       in conseguenza del clima polito italiano.                                                                                                                                             11.Time to Survival.
+<U+25AA>      ANALISI PER VARIAZIONE - Nel corso del mese di agosto non si rilevano segnali particolari tra gli indicatori generici ne’ tra quelli specifici.
+                                                                                                                                                                                                                                    34
+
+ Allegato Sezione 5 – Liquidity Risk: Concentration’s Early Warning
+Focus
+Migliora, tornando in zona gialla, il segnale per l’indicatore «Funding concentration risk by product type» in virtù del miglioramento del posizionamento dell’indicatore di riferimento NSFR per il mese in analisi.
+                                                                                                                                                                                                                      35
+
+Allegato Sezione 5 - Liquidity Risk: Backtesting Early Warning Indicators
+L’analisi di backtesting degli Indicatori di Early Warning è volta a misurare la capacità di predizione (ottica forward) di ogni singolo indicatore a partire dall’effettiva realizzazione del
+fenomeno (ottica backward), ovvero se un deterioramento della posizione di liquidità del Gruppo abbia trovato conferma nei segnali di Early Warning.
+Descrizione
+La metodologia è basata sul confronto tra le serie storiche di un Indicatore Sintetico di Backtesting (ISB) e quelle degli indicatori di liquidità Counterbalancing Capacity (CBC), Saldo
+Netto di Liquidità Complessivo ad un mese (SNLC_ 1M) e Time To Survival (TTS). Per ciascun indicatore, l’ISB viene calcolato come media ponderata della frequenza percentuale di
+accadimento di ciascun segnale di Early Warning registrato nei 20 giorni lavorativi precedenti la data di osservazione.
+Il backtesting non viene effettuato sugli indicatori di Early Warning relativi alla Counterbalancing Capacity, al Time to Survival e al Saldo Netto di Liquidità Complessivo ad un mese,
+essendo essi stessi parametri di confronto per valutare la capacità predittiva del singolo indicatore di Early Warning. L’ISB, inoltre, non viene calcolato per l’indicatore relativo al Rating
+BMPS e per l’indicatore ITALIAN GDP GROWTH a causa dell’intrinseca staticità di tali dati.
+Risultati
+Di seguito si riportano i risultati dell’analisi mensile di backtesting:
+Il backtesting risulta superato per tutti gli indicatori.
+                                                                                                                                                                                                36
+
+Allegato Sezione 5 – IRRBB profile: Market Parameters
+   Market rates trend
+   <U+25AA> Short term rates: in reduction compared to July.
+                                      Short Term Rates
+                     Eonia     Eur1M     Eur3M      Eur6M     MRO
+              Aug-19   -0,37%     -0,43%     -0,43%    -0,42%    0,00%
+       Delta 12m       -0,01%     -0,06%     -0,11%    -0,16%    0,00%
+   <U+25AA> Long term swap rates: decrease compared to July (around 33bps IRS10Y)
+                                          Swap Rates
+                     IRS3Y      IRS5Y      IRS7Y     IRS10Y    IRS15Y
+              Aug-19    -0,56%     -0,53%     -0,44%    -0,28%    -0,07%
+       Delta 12m        -0,55%     -0,82%     -1,00%    -1,17%    -1,31%
+   <U+25AA> Zero coupon curve: decrease compared to July (around 31bps bucket 10Y)
+                                                                            37
+
+Allegato Sezione 5 – IRRBB profile: parallel 25bps sensitivity
+     <U+2206>EVE Exposure:
+     (<U+2206>EVE[+25bps]): an interest rates parallel shift would imply a increase of
+     economic value of equity of around +56 €/mln (-8 €/mln compared to July).
+     (<U+2206>EVE[-25bps]): an interest rates parallel shift would imply a reduction of
+     economic value of equity of around -35 €/mln (+12 €/mln compared to July).
+     <U+2206>NII Exposure:
+     (<U+2206>NII[+25bps]): an interest rates parallel shift would imply a increase of Net
+     Interest Income is equal to +23 €/mln (+9 €/mln compared to July).
+     (<U+2206>NII[-25bps]): an interest rates parallel shift would imply a reduction of Net
+     Interest Income is equal to -24 €/mln (-9 €/mln compared to July).
+                                                                                     38
+
+ Allegato Sezione 5 – IRRBB profile: monthly analysis
+                                                                                 <U+2206>EVE                                                                          <U+2206>EVE
+                                           GMPS Exposure       <U+0394>     Shock          Shock                                                         Shock           Shock
+                                                                                                                                                            <U+0394>                <U+0394>
+                                                                              <U+0394>               <U+0394>                                                   + 25 bp         - 25 bp
+                                                                     + 25 bp        - 25 bp
+                                                                                                     Currency
+Contractual Maturity Mismatch                          33.205   -299     -127    -4      130      4   EUR                                               79     -9       -58    12
+          Fixed Rate                                   11.214 -2.189      -90    -9        92    10   USD                                               -1      0         1      0
+                     Short Term                         6.927 -1.428      -19     2        19    -2   OTHER                                              0      0         0      0
+                     Long Term                          4.287   -761      -70   -11        72    12  NPLs ("Sofferenze")                               -30     -1        31      1
+       Floating Rate                                   21.991  1.890      -37     5        38    -6  Financial Held for Trading Mismatch                 0      0         0      0
+                     Short Term                        -4.597  1.967        1     0        -1     0  Other Item                                          7      0        -7      0
+                     Long Term                         26.588    -76      -38     6        39    -6
+                                                                                                     Total Exposure                                     55    -10       -34    13
+                                     EONIA              3.102  1.037        0     0         0     0
+                                      MRO                   0      0        0     0         0     0  Subsidiary                                          2      1        -2    -1
+                                    EUR1M              -2.792   -185        0     0         0     0
+                                    EUR3M               5.573   -350       -4     2         4    -2  Total                                              56     -8       -35    12
+                                    EUR6M              20.599   -568      -33     4        34    -4
+                                    ALTRO                 106     -8       -1     0         1     0 Legenda
+      Non Maturing Operation Mismatch                 -38.205 -1.722      224     7     -229     -7
+                     Contractual                        4.184    354        0     0         0     0 <U+25AA> Contractual Maturity Mismatch: IRR stemming from operations with
+                     Core Quote                       -31.183   -352      223     7     -229     -7 contractual maturity. W.r.t long term loans portfolio, (either fixed rate or
+                     No Core Quote                    -11.206 -1.723        0     0         0     0 floating rate) reported figures include Prepayment Risk.
+               Automatic Options                            -      -      -18   -12        41    15 <U+25AA> Non Maturing Mismatch: IRR stemming from operations without
+                     Embedded                               -      -      -68   -22        99    25 contractual maturity (i.e. NMDs).
+                     Explicit                               -      -       50    10       -58   -10
+NPLs ("Sofferenze")                                     2.964      0      -30    -1        31     1
+                                                                                                    <U+25AA> Automatic Options (Embedded ed Explicit): IRR arising from Automatic
+Financial Held for Trading Mismatch                     6.907   -105        0     0         0     0
+                                                                                                    options.
+Other Item                                             -5.897     74        7     0        -7     0 <U+25AA> Non performing loans (NPLs “Sofferenze”) evaluated as an amortizing
+                                                                                                    fixed rate loan.
+Subsidiary                                               -367    -91        2     1        -2    -1
+                                                                                                    <U+25AA> Financial held for trading mismatch: replicating portfolio loan financing
+                                                                                                    the TB mismatch.
+Total Exposure                                         -1.393 -1.232       56    -8       -35    12
+                                                                                                                                                                                   39
+
+                                                                                                                                                                                                      Stock                                                EV Sens +25bps                    NII Sens +25bps
+Allegato Sezione 5 – IRRBB profile: monthly analysis                                                                                                                                                 31/08/19
+                                                                                                                                                                                                                                              DELTA
+                                                                                                                                                                                                                                                              31/08/19
+                                                                                                                                                                                                                                                                                DELTA
+                                                                                                                                                                                                                                                                                                31/08/19
+                                                                                                                                                                                                                                                                                                                 DELTA
+                                                                                                      AGGREGATO GESTIONALE                                                 Fixed          Floating              At sight       Total                           Total                              Total
+                                                                                                      Loans&Advances at amortized cost                                        27.694          47.754                18.843      94.290           1.280                 -283           -8                  114             3
+                                                                                                          Performing Loans                                                    26.672          45.044                17.410      89.127           2.178                 -271          -10                  107             4
+The table highlights sensitivity and monthly evolution with different business                                      Central banks and general governments                          0               0                 8.645        8.645          1.319                      0          0                   22             3
+type drill down.                                                                                                    Credit Institutions and other financial corporations         251           4.134                 1.992        6.377            706                     -1          0                   16             2
+                                                                                                                    Reverse Repo                                               6.903               0                     0        6.903            535                     -5          0                   14             0
+                                                                                                                    Non-financial corporation                                  9.027          14.323                 5.365       28.715           -452                    -49          2                   11            -1
+<U+2206>EVE[+25bps]: +56 €/mln (-8 €/mln compared to July).                                                                Households                                                 9.380          19.251                   895       29.526             40                  -194         -11                   28            -1
+                                                                                                                    Mps Capital Services                                          72           4.376                     0        4.448             42                     -4          1                    8             1
+                                                                                 ASSET EXPOSURE
+                                                                                                                    Mps Leasing&Factoring                                        474           2.691                   406        3.571            -16                     -3          0                    8             0
+Debt Securities: -8 €/mln. -7€/mln due to the rolling of government bonds                                           Widiba                                                       446             139                    36          620              3                    -14         -1                    0             0
+                                                                                                                    Foreign Branch                                                52              32                    19          103             -5                      0          0                    0             0
+outright. Residual impact on the measures due to the reduction of interest                                          Other                                                         67              99                    52          217              7                      0          0                    0             0
+rates (-1 €/mln).                                                                                         Non performing loans                                                 1.022           2.710                 1.432       5.164            -898                    -12          1                    7            -1
+                                                                                                      MP Banque                                                                1.018               0                     0       1.018               0                      0          0                    0             0
+                                                                                                      Debt Securities                                                         11.466           4.368                     0      15.834          -1.138                 -229           -8                   12             2
+Household: -11 €/mln. mainly due from the interest rate curve reduction                               Held for trading                                                        10.042               0                     0      10.042             -98                      0          0                   23             0
+                                                                                                      Other Items                                                             11.899               0                     0      11.899            -245                      0          0                    0             0
+(around -43 basis points in the medium/long period).                                                  NPLs "Sofferenze"                                                        7.553               0                     0       7.553               0                   -30          -1                    0             0
+                                                                                                      Unpaid installments                                                      1.407               0                     0       1.407              74                      0          0                    0             0
+                                                                                                      Provisions                                                              -7.821               0                     0      -7.821             718                      0          0                   -4             1
+Derivatives: +11 €/mln: -3,7 €/mln mainly due from the interest rate curve                            TOTAL ASSETS                                                           63.258          52.121                18.843      134.222             590                 -543         -17                   144             6
+reduction (around -43 basis points in the medium/long period).                                        Derivatives                                                             23.772            4.608                      0     28.381         -2.160                 -119             2                  23            1
+                                                                                                      Credit Institutions and other financial corporations                      -883           -1.948               -1.034       -3.864           -174                   27              1                  -6           0
+Households: +6 €/mln: due from the interest rate curve reduction and the stock                        Non-financial corporation                                               -3.448                0              -18.221      -21.670           -695                   39              1                 -21           0
+                                                                                                                                                                              -6.960                0              -31.364      -38.324           -748                  248              6                  -2           0
+increase.                                                                                             Households
+                                                                                                      Widiba                                                                  -1.315                0               -1.747       -3.062            -30                    2              0                  -3           3
+                                                                                 LIABILITY EXPOSURE
+                                                                                                      Foreign Branch                                                              -1                0                   -2           -2             -1                    0              0                   0           0
+                                                                                                                                                                                   0                0               -4.680       -4.680           -434                    0              0                   0           0
+Automatic Embedded Option & Explicit Option: -12 €/mln Interest rate curve                            Other
+                                                                                                      Central banks                                                          -16.500                0                    0      -16.500              0                   38             -3                  -6           0
+reduction impact on floor embedded and hedging (floor sold).                                          Repo                                                                    -8.883           -5.601                    0      -14.484           -231                    5              0                 -32           0
+                                                                                                      Debt securities issued                                                 -10.473           -2.041                    0      -12.514            153                   94              0                  -9           0
+                                                                                                      MP Banque                                                               -1.018                0                    0       -1.018              0                    0              0                   0           0
+<U+2206>NII[+25bps]: +23 €/mln (+9€/mln compared to July)                                                    Held for trading                                                        -3.135                0                    0       -3.135             -7                    0              0                  -7           0
+                                                                                                      Other Items                                                            -15.499                0                    0      -15.499              0                    7              0                   0           0
+                                                                                                      TOTAL LIABILITIES                                                     -68.114           -9.590              -57.048      -134.752         -2.166                  459              4                 -87           3
+Central banks and general governments and credit Institutions/other financial
+                                                                                                      Derivatives                                                             -3.256         -25.149                       0    -28.405         2.157                   275             13                 -61           0
+corporations : +5 €/mln : due from the stock increase around 2 €/bn.
+                                                                                                      Automatic Embedded Option on Asset Side                                      680        47.350                  9.898      57.928         -1.819                 -145         -31                     0            0
+                                                                                                      Automatic Embedded Option on Liability Side                                  -750      -19.239               -55.472      -75.461         -1.976                   76             9                   0            0
+                                                                                                      Automatic Explicit Option Bought                                               0          2.751                      0      2.751           -12                      4            -1                  0            0
+                                                                                                      Automatic Explicit Option Sold                                                 0         -4.918                      0     -4.918               1                  47             10                  5            1
+                                                                                                      Subsidiary                                                                   -165               56               -258            -367           -7                   2            1                   0            0
+                                                                                                                                                                                                                                                                         56             -8                 23            9
+                                                                                                                                                                                                                                                                                                                          40
+
+Allegato Sezione 5 – IRRBB profile: indexation analysis
+                                                        Basis Risk is equal to 23,3 €/mln.
+                                                        The possible addition of Basis Risk contribution to Delta NII measure
+                                                        would not have impact on the delegated limit absorption.
+                                                        Starting from 31/07/2019 the indexation analysis is assessed taking into
+                                                        NMDs and NMAs contribution (with contraclual view). The analysis
+                                                        doesn’t include reserve requirement.
+                                                                                                                                 41
+
+Allegato Sezione 5 – IRRBB profile: – Liabilities Hedged by Securities classified as AC
+   The mismatch between assets and liabilities (as delta EVE) is reported with reference to the recent integration of the business model amortizing cost (approved by
+   board of directors on 27/09/2018). The measure is for risk management purposes only.
+       Monthly update
+       <U+25AA> None
+      Starting from 30/06/2019 the variable <U+0394> Economic Value (monthly) is appropriately
+      assessed taking into consideration any coupon detachments occurred in the month of
+      analysis.
+                                                                                                                                                                      42
+
+Allegato Sezione 5 – Update of Risk Exposure: GMPS Portfolio Composition as of 31-08-2019 (delta vs. 31-07-2019)
+ g Mps Group: Bankng Book Portfolio Analysis
+                                                                                             The MV difference recorded in August 19 vs. July
+     M arket Value in EUR/mln at 31.08.2019 and delta period ( <U+0394> M V)
+                                                                                             19 of «Bond Portfolio» (-0.97/bln) is mainly due to:
+ Instrument                                BB                TB         Tot        <U+0394> MV      -on the BB: a decrease of about -1.2 €/bln of
+ Portafoglio Obbligazionario             16,867.03          5,021.86   21,888.89     -966.01 nominal amount on Italian Sovereign (-1.61 €/bln
+ Derivati di credito                           0.00           -79.29      -79.29      -11.26 from OCI accounting category and +0.40 €/bln from
+ Derivati su tassi d'interesse              -575.39         1,777.99    1,202.60     -166.32 AC accounting category);
+                                                                                             -on the TB: a decrease of Italian Sovereign bonds (-
+ Portafoglio azionario                       257.73            87.74      345.46      -20.35
+                                                                                             166 €/mln of nom. amount) holdings due to market
+ Derivati azionari                             0.00           -12.79      -12.79        0.82 making/auctions activity;
+ Derivati su tassi di cambio                   0.00           -18.14      -18.14       -5.83 - changes in market parameters with market value
+ Totale                                 16,549.37         6,777.37    23,326.74   -1,168.95  mitigating effect.
+  Global Bond Portfolio Analysis                                                                        Global Italy Sovereign Portfolio Analysis
+  Nominal Value in EUR/mln at 31.08.2019 and delta period (<U+0394> NOM)                                       Nominal Value in EUR/mln at 31.08.2019 and delta period (<U+0394> NOM)
+                                     ACCOUNTING                                                                                            ACCOUNTING
+     Maturity                                                         Total      <U+0394> NOM                     Maturity                                                        Total     <U+0394> NOM      <U+0394> NOM OCI    <U+0394> NOM PL    <U+0394> NOM AC
+                         OCI               PL              AC
+                                                                                                                               OCI               PL              AC
+       2019                 655.00           467.91             0.00   1,122.91      -69.94
+                                                                                                             2019                 450.00           441.57            0.00     891.57     -40.82         0.00      -40.82        0.00
+       2020               1,242.91         3,190.11             9.97   4,442.98      143.52
+                                                                                                of           2020                 794.60         3,071.22            0.00   3,865.82     157.93         0.00      157.93        0.00
+    2021-2024             4,228.96         1,088.73        1,625.56    6,943.25   -1,404.34
+                                                                                              which       2021-2024             3,795.00           880.14        1,463.60   6,138.74  -1,431.19    -1,230.00     -201.33        0.14
+    2025-2034               614.98           183.58        5,689.68    6,488.24     -108.43
+                                                                                                          2025-2034               562.04          -177.38        2,767.10   3,151.76    -115.81      -381.00      -31.81      297.00
+      >2034                   9.53           267.04        1,698.12    1,974.69      110.36
+                                                                                                            >2034                   0.00           -58.40          946.73     888.32      55.87         0.00      -50.00      105.86
+       Total            6,751.38          5,197.37        9,023.32   20,972.07   -1,328.85
+                                                                                                             Total            5,601.64          4,157.15        5,177.42  14,936.21  -1,374.03    -1,611.00     -166.03      403.00
+ MPS Group: Global Italian Sovereign Portfolio exposure amounts to about 14.94
+ €/bln of nominal value at 31.08.2019. The variations reported are related to:
+ Banking Book portfolios of BMPS, of which -1.61 €/bln in OCI accounting
+ category and of which +0.40 €/bln in AC accounting category, as a result of the
+ Board of Director’s deliberation of 01.08.19 related to the financial strategies of
+ BB portfolio for the second half of 2019.
+ To be noticed a decrease recorded in PL Accounting Category (-0.17 €/bln of
+ nom. value), due to cyclical brokerage activity carried on by MPS CS.
+ MPS Group: Global Bond Portfolio exposure amounts to about 20.97 €/bln of
+ nominal value at 31.08.2019 (21.89 €/bn of market value) of which 14.94 €/bln of
+ nominal value of Italian Sovereign bonds.
+                                                                                                                                                                                                                              43
+
+Allegato Sezione 5 – Update of Risk Exposure: GMPS Trading Book Portfolio Composition as of 31-08-2019
+         g Mps Group: Trading Book Portfolio Analysis                                                                   MPS GROUP - SENSITIVITY                                            TB
+              M arket Value in EUR/mln at 31.08.2019                                                                    Risk Area                                Shock         Delta           Vega*
+         Instruments                      TB                                                                                          IR sens.                                     -302.2              153
+                                                                    <U+27A2> MPS Group Trading Book: market                                                 o/w EUR                       -260.8
+         Bond Portfolio                    5,021.86
+                                                                       value at 31-08-2019 amounts to about                  IR                                  +1 bp
+         Credit Derivatives                  -79.29                                                                                                      USD                         -33.5
+                                                                       6.77 €/bln (o.w. 5.02 €/bln of Bond
+         Interest rate Derivatives         1,777.99                    Portfolio positions).                                                            Other                          -8.0
+         Equity Portfolio                     87.74                                                                          EQ       EQ sens.                    +1%            -3,521.3              428
+                                                                    <U+27A2> Trading Book weight is concentrated in
+         Equity Derivatives                  -12.79                    MPS Capital Services positions (6.68                  CO       CO sens.                    +1%                 11.9               -0
+         Forex Derivatives                   -18.14                    €/bln), while Banca MPS positions are                          CS sens.                                     -274.6
+         Total                            6,777.37                     marginal (92 €/mln).                                  CS           o/w Sovereign Italy    +1 bp             -100.0
+                                                                                                                                                        Other                      -174.6
+Mps Group: Trading Book Portfolio P&L                                                                                                 FX sens.                                      105.3              378
+                      EUR/mln     30/09/2018      31/12/2018   31/03/2019     30/06/2019     31/07/2019   31/08/2019                             o/w EURUSD                        123.9
+                                                                                                                             FX                                   +1%
+MPS Capital Services                     32.96           57.66        45.97          75.80          87.18        99.43                                EURJPY                         23.0
+Banca MPS                                 8.27           11.37         2.68           3.85           5.84         6.16                                 Other                        -41.7
+Mps Group                                41.23           69.03        48.65          79.65          93.02       105.58
+                                                                                                                        31/08/2019 - K€                   * Vega sens. are calculated by 1 point vol shock
+                                                                                                                     <U+27A2> GMPS TB Sensitivities as of 31.08.19: GMPS sensitivity is related almost entirely
+                                                                    <U+27A2> MPS Group Trading Book PL: at the end            to the activity of the subsidiary MPSCS as follows:
+                                                                       of August 2019 P&L amounts to about           • Total short delta EQ exposure is mainly related to options and positions held on
+                                                                       +105.58 €/mln, of which about +99.43            EQ market indices carried out for bancassurance products purposes and related
+                                                                       €/mln on MPS Capital Services and               hedges. The increase recorded is due to new operativity on the indices above.
+                                                                       about +6.16 €/mln on Banca MPS. The
+                                                                                                                     • Long vega sensitivity exposure for EQ risk is due to trading activity on equity
+                                                                       monthly Banca MPS P&L (+0.32 €/mln)
+                                                                                                                       options on European indices, with the main contribution given by DJ 50 EURO
+                                                                       is mainly due to ptf CVA; in MPS CS it
+                                                                                                                       index.
+                                                                       is due to: client driven activity (about
+                                                                       +8.47 €/mln) and proprietary trading          • CS short delta exposure (mainly on long term corporate bonds and short term
+                                                                       activity (about +3.77€/mln).                    Italian Sovereign bonds) is due to bancassurance product structuring and liquidity
+                                                                                                                       providing and to trading activity on Italian Sovereign Bonds, within MPS CS
+                                                                                                                       market making/specialist purposes.
+                                                                                                                     • FX Vega exposure (i.e. 378K) on bancassurance product structuring activities.
+                                                                                                                                                                                                            44
+
+Allegato Sezione 5 – Update of Risk Exposure: Trading Book VaR                                          VaR Dynamics
+ MPS Group:Trading Book Portfolio VaR                                                                   VaR measures show a trend influenced by the subsidiary MPS
+                                                                                                        Capital Services for Trading and Client Driven activities
+ Values in EUR/mln                    31/12/2018
+                                        11.043349  29/03/2019
+                                                     11.043349  30/06/2019
+                                                                  11.043349  31/07/2019   30/08/2019
+                                                                                                        (structuring and hedging activities), mainly in Credit Spread and
+ MPS Capital Services                         6.46         7.45         5.04         5.11 4.44     98%
+                                                                                                        Interest Rate sectors (Italian Government securities and
+ Banca MPS                                    0.20         0.65         0.11         0.08 0.08       2% derivatives, mainly long futures and interest rate future options),
+ MPS Group                                    6.62         7.37         5.14         5.19 4.46    100%  and to a lesser extent in the Equity sector (options and equity
+                                                                                                        futures on main equity indices).
+                                                                                                        The VaR measure is slight decreased in Aug 2019: 4.46 €/mln by
+                                                                                                        the end of Aug2019 vs about 5.19 €/mln by the end of Jul2019
+                                                                                                        (decrease of about           0.73 €/mln); the pattern is due to
+                                                                                                        trading/primary broker activity on Italian Government Bonds of the
+                                                                                                        subsidiary MPS Capital Services within recent auctions. In details,
+                                                                                                        a decrease is recorded within the first decade of August, almost
+                                                                                                        totally driven by a partial sell-out of Italian short term Gov bonds. In
+                                                                                                        the second part of August, again, it can be noticed a new cycle of
+                                                                                                        purchases in short term auction and the following deflating of the
+                                                                                                        exposure concurrently with sales to clients.
+                                                                                                        To be noticed the entry of a new scenario in the Historical
+                                                                                                        Simulation VaR tail, related to the widening of Italian credit spread
+                                                                                                        triggered by the event of the government crisis (day scenario:
+                                                                                                        09.08.19 with an increase of about +30bps of CS Ita curve).
+                                                                                                        The VaR breakdown upon Risk Factor categories shows that CS is
+                                                                                                        the most relevant risk factor, accounting for 56.0% of GMPS TB
+                                                                                                        gross VaR, whereas EQ accounts for 18.8%, IR for 19.6%, FX for
+                                                                                                        2.2% and CO for 3.3%.
+                                                                                                        GMPS TB Back Testing Analysis
+                                                                                                        Five breaches recorded during 2018, due to the worsening of
+                                                                                                        Italian credit spread started from the second half of May (breaches
+                                                                                                        on May 25,28,29 and June 06, 21).
+                                                                                                        No breaches recorded from the beginning of 2019.
+                                                                                                                                                                             45
+
+Allegato Sezione 5 – Update of Risk Exposure: Trading Book sVaR
+   • The increase of VaR and Stressed VaR measures starting in the second half of May18 is entirely driven by the widening of Italian credit spread.
+   • Starting on 25/06/2018 to 30/09, Stressed VaR and Point In Time (PIT) VaR coincide, since sVaR was prudentially floored to PIT VaR, to take into account recent, severe scenarios not
+     yet incorporated in stressed VaR scenario quarterly updated “selection window”.
+   • Starting in October 2018 a sharp divergence is recorded between VaR and sVaR, (since then the distance is maintained). This is caused by the inclusion of recent severe scenarios
+     (widening of Italian Credit spread and increase of its volatility recorded in May-June 2018) in sVaR selection window, that is currently set on January 2018 - December 2018 time span.
+                                                                                                                                                                                             46
+
+  Allegato Sezione 5 – Update of Risk Exposure: GMPS Banking Book Portfolio composition
+                                                                                                                                   MPS GROUP - CR SENS. BOND BB  Profile     Appetite     Appetite - Profile
+   g Mps Group: Banking Book Portfolio Analysis                                                                                          Portfolio               ago-19       dic-19               <U+0394>
+       M arket Value in EUR/mln at 31.08.2019
+                                                                                                                                              Sov Ita TOT              -7.07       -5.32                 1.75
+   Instruments                     BB
+                                                                                                                                                  of which FVOCI       -1.69       -1.98                -0.29
+   Bond Portfolio                 16,867.03
+                                                                                                                                                 of which AC           -5.37       -3.34                 2.03
+   Credit Derivatives                   0.00
+                                                                                                                                              Sov Other                -0.78       -0.49                 0.29
+   Interest rate Derivatives         -575.39
+                                                                                                                                    +1bp - CR Sensitivity                                              €/mln
+   Equity Portfolio                   257.73
+                                                                                                                          <U+27A2> GMPS BB Sensitivities: current Sovereign Italy CS short sensitivity exposure is
+   Equity Derivatives                   0.00
+                                                                                                                             higher than Appetite target for the end of 2019, as defined from RAS2019. The
+   Forex Derivatives                    0.00                                                                                 variation of CS sensitivities of August is a result of the Board of Director’s
+   Total                         16,549.37                                                                                   deliberation of 01.08.19 related to the financial strategies of BB portfolio for the
+                                                                                                                             second half of 2019 (+400€mln of Italian AC long-term sov. Bonds and -1.6€/bn of
+                                                                                                                             FVOCI short-term Italian sov. Bonds).
+<U+27A2> MPS Group Banking Book: market value at 31-08-2019 is about 16.55 €/bn (16.87 €/bn of Bond holdings). The main exposure is represented by Italian Sovereign Bonds (in the accounting
+  category FVOCI for about 41%). Banking Book portfolio is split into Banca MPS (15.84 €/bn), MPS Capital Services (630 €/mln) and MP Banque (84 €/mln) positions.
+ Mps Group: Banking Book Portfolio P&L
+                       EUR/mln     30/09/2018    31/12/2018   31/03/2019     30/06/2019    31/07/2019    31/08/2019
+ Banca MPS                               -647.02      -172.95       -397.13        -49.23        229.39        432.23
+ MPS Capital Services                     -94.61       -96.66         -99.51       -94.75        -90.68        -87.71
+ MPS Group                               -741.63      -269.61       -496.64       -143.98        138.72        344.52
+<U+27A2> MPS Group Banking Book P&L at the end of August 2019 is about +344.52 €/mln, of which -87.71 €/mln on
+  MPS Capital Services and +432.23 €/mln on Banca MPS. The monthly P&L for Banca MPS (+202.84 €/mln) is
+  mainly due to changes in market parameters; in the period the medium-term Italian credit spread decreased (-19
+  bp asw spread 5y and -23 bp asw spread 10y with a total delta P&L of +135 €/mln); so did risk free IR: -18bp for
+  IRS 5y and -36bp for IRS 10y accounted for about +70 €/mln P&L. The monthly P&L for MPS CS is not relevant.
+                                                                                                                                                                                                              47
+
+Allegato Sezione 5 – Update of Risk Exposure: GMPS Banking Book VaR
+                                                          Mps Group:Banking Book Portfolio VaR
+                                                                                   31/12/2018
+                                                               Values in EUR/mln VaR            VaR30/04/2019    VaR30/06/2019    31/07/2019        30/08/2019
+                                                          Banca MPS                      152.48           142.55           134.25       126.44 114.73          98.5%
+                                                          MP Belgio                        1.86             1.55             0.00         0.00   0.00            0.0%
+                                                          MPS Capital Services             1.95             1.46             1.23         1.64   1.65            1.4%
+                                                          MP Banque                        0.10             0.12             0.00         0.10   0.09            0.1%
+                                                          MPS Group                      145.00           145.83           135.47       128.56 116.40           100%
+                                                           MPS Group Banking Book VaR: risk exposure of the MPS Group portfolio is almost entirely
+                                                           associated to BMPS portfolio.
+                                                           In August a decrease in BB VaR was recorded: 116.4 €/mln end-Aug2019 vs about 128.56
+                                                           €/mln end-July2019, almost entirely driven by market parameters (CS Ita 5Y -19bps).
+                                                           To be noticed the entry of a new scenario in Historical Simulation VaR tail, related to the
+                                                           widening of Italian credit spread triggered by the event of Italian government crisis (day
+                                                           scenario: 09.08.19 with an increase of about +30bps of CS Ita curve).
+                                                          Risk composition: Credit spread is the most
+                                                          relevant risk factor (88% of gross GMPS BB
+                                                          VaR) followed by Interest Rate (8%), Equity
+                                                          (4%), and Forex (negligible impact).
+                                                          GMPS BB Back Testing Analysis: Ten breaches recorded during 2018, due to the worsening
+                                                          of Italian credit spread starting from the second half of May (breaches on May 16-21-25-28-
+                                                          29, June 05-06-08-21 and September 30).
+                                                          No breaches recorded from the beginning of 2019.
+                                                                                                                                                                      48
+
+Allegato Sezione 5 – Update of Risk Exposure: BMPS - FVOCI Reserve Trend up to 31-08-2019
+                                                                                                                        Grooss Oci     Net Oci                   Spread       Asw Spread   Eur Swap
+                                                                                                            Date                                   CDS Ita 5Y
+                                                                                                                         Reserve      Reserve                   BTP/BUND         10y         10y
+                                                                                                          31-Dec-17          -59.41        -40.10        118.37      154.10         125.26       0.90
+                                                                                                          31-Jan-18           93.71         63.26         97.14      132.20          98.98       1.06
+                                                                                                          28-Feb-18           94.18         63.57         98.51      131.31          93.41       1.09
+                                                                                                          31-M ar-18         165.34        111.60        101.74      129.70          83.16       0.96
+                                                                                                          30-Apr-18          148.63        100.33         89.81      121.60          80.40       0.99
+                                                                                                          31-M ay-18        -413.77       -279.29        233.04      250.60         183.20       0.91
+                                                                                                          30-Jun-18         -272.29       -183.80        218.69      236.30         172.39       0.87
+                                                                                                          31-Jul-18         -284.35       -191.94        214.60      229.00         171.74       0.94
+                                                                                                          31-Aug-18         -538.65       -363.59        265.38      289.40         218.78       0.87
+                                                                                                          30-Sep-18         -408.84       -275.97        249.66      266.10         204.77       0.99
+                                                                                                          31-Oct-18         -461.49       -311.51        270.50      303.60         231.46       0.95
+                                                                                                          30-Nov-18         -356.73       -240.79        246.60      289.70         221.80       0.88
+                                                                                                          31-Dec-18         -215.32       -145.34        207.50      249.50         189.77       0.81
+                                                                                                          31-Jan-19         -164.61       -111.11        203.75      243.20         191.75       0.67
+                                                                                                          28-Feb-19         -201.61       -136.09        206.60      256.39         203.61       0.70
+                                                                                                          31-M ar-19        -172.56       -116.48        208.12      255.51         213.58       0.47
+                                                                                                          30-Apr-19         -165.77       -111.90        189.21      253.96         202.74       0.51
+                                                                                                          31-M ay-19        -222.49       -150.18        232.79      286.75         231.24       0.34
+                                                                                                          30-Jun-19         -123.38        -83.28        198.27      242.29         197.48       0.18
+                                                                                                          31-Jul-19          -41.53        -28.03        164.26      197.72         162.95       0.09
+                                                                                                          31-Aug-19          -17.51        -11.82        165.86      169.16         139.66      -0.27
+                                                                                                                     g GMPS Group: FVtOCI Italy Sovereign Bond
+                                                                                                                      Nominal Amount EUR/mln - Duration Years
+                                                                                                                       Date        Net Open Position Modified Duration
+                                                                                                                     31-Dec-18                    9,660                    2.76
+                                                                                                                     31-Jan-19                    7,790                    2.93
+  Gross Reserve on BMPS FVOCI Securities
+                                                                                                                     28-Feb-19                    7,790                    2.86
+  <U+27A2> The Gross FVOCI Reserve at 31-08-2019 amounts to about -17.51 €/mln with an increase of about +24
+                                                                                                                     31-M ar-19                   7,790                    2.80
+    €/mln compared to the end of July 2019 (was -41.53 €/mln), due to a combined effect: a decrease of 5y
+    Asw Spread (-19 bps), a decrease of 5Y Eur Swap (-18bps) and about 20 €/mln of profit due to sales of            30-Apr-19                    7,790                    2.75
+    profitable positions.                                                                                            31-M ay-19                   7,990                    2.61
+                                                                                                                     30-Jun-19                    7,767                    2.77
+                                                                                                                     31-Jul-19                    7,213                    2.77
+                                                                                                                                                                                                49
+                                                                                                                     30-Aug-19                    5,727                    2.60
+
+Allegato Sezione 5 – Stress Testing: Discretionary Scenarios and TB Stress Limits 31-08-2019
+<U+27A2> The stress measure is applied to Trading Book (TB) positions and is calculated as the change in portfolio value due to the occurrence of the worst possible combination of impacts, whenever
+  negative, generated by a stress scenario assumed on each family of risk factors.
+<U+27A2> GMPS TB Stress Limits are applied to portfolios of the Parent Company BMPS and of the subsidiary MPS CS. As of 30-08-2019, discretionary scenario analysis yields the impacts detailed below:
+                TB Stress Limit: 29/08/2019
+                      29/08/19            Threshold         Usage (%)
+                                                                                       <U+27A2> MPSCS discretionary stress test in details:
+ AD - MPSCS              -75,920,285        -260,000,000               29.20%
+ AD - BMPS                   -964,717        -60,000,000                1.61%             1) The positive Credit Spread shock is the most relevant stress factor (accounts for 70.9% of total stress
+                                                                                             outcome), mainly due to liquidity providing and market making/specialist activity on Italian Sovereign Bonds
+  RiskFactor Stress Scenario   MPSCS       BMPS             <U+0394> MPSCS       <U+0394> BMPS             (partially hedged by positions in BTP Futures) and partly to bancassurance products structuring activities.
+      CO     CO_+30%                                           0.5           0.0          2) The negative Interest Rate Shock is the second most relevant stress factor (13.4% of total stress outcome),
+             CO_-30%               -0.9                                                      and is mainly due to the position held for client driven purposes.
+      CS     CS_+Stress           -53.9        -0.2            -5.0         -0.2
+             CS_-Stress
+      EQ     EQ_+30%                                           0.0           0.0
+             EQ_-30%                           -0.0
+      FX     FX_+20%                           -0.0            -3.0          0.6
+             FX_-20%               -3.9
+     INF     INF_+50bps                                        -3.2          0.0
+             INF_-50bps            -4.4
+       IR    IR_+75bps            -10.2                        -0.5         -0.7
+             IR_-75bps                         -0.7
+    VOLCO    VOLCO_+30%                                        0.0           0.0
+             VOLCO_-30%            -0.0
+    VOLEQ    VOLEQ_+30%            -0.9                        0.3           0.0
+             VOLEQ_-30%
+    VOLFX    VOLFX_+30%                                        0.0           0.0
+             VOLFX_-30%            -0.2        -0.0
+    VOLIR    VOLIR_+40%                                        0.6           0.0
+             VOLIR_-40%            -1.6        -0.0
+   TOTALE                         -75.9        -1.0               -10.2           -0.3
+ €/mln                                                    Delta Amount Aug - July        <U+27A2>   A negligible discretionary stress effect is reported for BMPS portfolio at the end of August.
+                                                                                                                                                                                                         50
+
+51

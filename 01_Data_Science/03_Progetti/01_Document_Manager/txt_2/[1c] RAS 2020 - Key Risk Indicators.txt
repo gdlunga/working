@@ -1,0 +1,628 @@
+                              Group Risk Appetite Statement 2020
+                                       Key Risk Indicators
+Direzione CRO e Direzione CFO
+October 2019
+
+Index
+      RAS 2020-2022– Principali Evoluzioni
+      Section 1 – Group KRI
+      Section 2 – Cascading Down KRI
+      Section 3 – Indicators Glossary
+                                           2
+
+RAS 2020-2022– Unit Identification Perimeter
+                                                                                 <U+27A2> I KRI Primari di Gruppo vengono declinati solo sui C-Level e sulle Legal Entity.
+ RAS 2019                                           RAS 2020                     <U+27A2> I Risk Limits (limiti operativi gestionali) sono declinati sui livelli sottostanti ai
+                                                                                    C-Level e anche sulle Legal Entity
+  GMPS                                               GMPS
+            WIDIBA                                            Banca
+                                                               MPS                                                Fiduciaria
+              COG
+                         WEALTH          Fiduciaria                                    WEALTH                      WIDIBA
+                                                                                      MERCATI e
+          CCO            RETAIL
+                                          MPSCS
+                                                                  CCO                 PRODOTTI                     MPSCS
+                       CORPORATE          MPS L&F                                        RETE                      MPS L&F
+                                         MP Banque                                                               MP Banque
+                         PE Dept.                                                      PE Dept.
+           CLO                                                    CLO
+                        NPE Dept.                                                     NPE Dept.
+                                                                                                                                           Quantitative
+                                                                                                                                           & Qualitative
+                         Finance                                                        Finance                                            KRI
+           CFO                                                    CFO
+                           M&A                                                            M&A
+          COO           Real Estate                              COO                  Real Estate
+                                                                                          COG
+          CHCO                                                  CHCO
+                     <U+25AA> Control Functions                                          <U+25AA> Chief Risk Officer
+           Other
+                     <U+25AA> HO Staff
+                                                                 Other
+                                                                                  <U+25AA> Comunicazione e Relazioni Istituzionali
+                                                                                                                                                                         3
+                                                             Explicit RAF cascading down               Implicit RAF cascading down             Update
+
+RAS 2020-2022 – New KRI (1/2)
+In ordine alla lista dei KRI definiti per il Gruppo/BU/LE vengono propose alcune integrazioni rispetto al RAS 2019-2021, che rispondono ad esigenze di
+rafforzato controllo dei rischi, anche emergenti, così come a indicazioni formulate dal Supervisore nell’ambito di recenti review e della draft di SREP decision
+2019.
+In sintesi, tali integrazioni riguardano i seguenti ambiti:
+IT Risk - Le modifiche proposte intendono dare evidenza alla tematica della cybersecurity. In particolare, sono stati separati:
+• il KRI “High/Very High Risk IT Units”, tra Funzione IT esclusa la sicurezza e Funzione Sicurezza;
+• il KRI “Major incidents on IT Resources”, tra Major operational incidents e Major cybersecurity incidents.
+Reputational Risk – Sono stati introdotti nuovi indicatori di Reputational Risk, al fine di porre maggiormente l’attenzione alla ricostruzione e alla tutela della
+reputazione, anche in risposta alle evidenze emerse dalle precedenti SREP decision. Il Gruppo si è dotato di un framework di rischio reputazionale volto a
+monitorarne l’andamento sulla base di indicatori identificati per ciascun stakeholder rilevante. Il framework, approvato dal CdA lo scorso luglio, prevede
+l’inserimento di indicatori qualitativi che permettano uno stringente monitoraggio già a partire dal RAS 2020, al fine anche di rafforzare l’importanza del tema
+per il raggiungimento degli obiettivi del Piano di Ristrutturazione.
+Legal Risk – E’ stato introdotto un nuovo indicatore a livello di Gruppo (Net Exposure) al fine di presidiare maggiormente e dare opportuna evidenza ai rischi
+legali, ritenuti significativi per il Gruppo, coerentemente con quanto emerso nell’ambito dell’OSI sul Legal Risk (OSI -2019-4125).
+                                                                                                                                                                   4
+
+RAS 2020-2022 – New KRI (2/2)
+Operational Risk - L’indicatore relativo alle perdite operative (definito precedentemente a livello di Chief) viene introdotto anche a livello delle singole
+Controllate e sulla Direzione CLO, in modo da facilitare il monitoraggio del rischio operativo anche sulle subsidiaries e per tener conto delle contestazioni legali
+seguite dalla Direzione CLO, coerentemente con quanto emerso nell’ambito dell’OSI sul Legal Risk (OSI -2019-4125).
+Macroeconomic Risk – È stato rafforzato il presidio, anche in ottica di prossimo Recovery Plan, dei rischi connessi al contesto macroeconomico, con opportuni
+KRI a livello di Gruppo.
+Leveraged Transactions – È stato inserito anche un indicatore specifico per BMPS e per le Controllate MPSCS e MPSL&F, al fine di intercettare i nuovi flussi di
+erogazione creditizia di tipo leveraged, come richiesto anche dalla normativa di Vigilanza e da rilievi dell’Internal Audit.
+Inoltre:
+• È stata introdotta una nuova scheda RAS per Banca MPS a livello individuale.
+• Sono state introdotte due nuove schede RAS per Direzione CRO e Comunicazione e Relazioni Istituzionali, al fine di monitorare alcuni indicatori di Rischio
+    Reputazionale specifici per queste strutture.
+                                                                                                                                                                     5
+
+Index
+      RAS 2020-2022– Principali Evoluzioni
+      Section 1 – Group KRI
+      Section 2 – Cascading Down KRI
+      Section 3 – Indicators Glossary
+                                           6
+
+ RAS 2020-2022– Group KRI                                                                                                                                                                          (1/2)
+GRUPPOMONTEPASCHI                                                                                                                      Risk Appetite Statement 2020
+                                                                                             Recovery
+                                                                                                                Appetite Appetite Appetite        Tolerance Tolerance Tolerance Capacity Capacity Capacity Regulatory
+                                                                                                        U.M.                               vs
+                                                                                                                FY 2020E FY 2021E FY 2022E            1Y        2Y        3Y       1Y       2Y       3Y    Minimum §
+                            CET1 Ratio                                                      YES          %                                   >                                                                11,30%
+Capital Adequacy            Tier 1 Ratio                                                    YES          %                                   >                                                                12,80%
+                            Total Capital Ratio                                             YES          %                                   >                                                                14,80%
+                            Net Cash Position 1M / Total Assets                             YES          %                                   >
+                            LCR                                                             YES          %                                   >                                                                  100%
+                            NSFR                                                            YES          %                                   >                                                                  100%
+Liquidity Adequacy
+                            Gap Ratio 3Y                                                    YES          %                                   >
+                            Weighted Average Cost of wholesale funding                      YES          bps                                 <
+                            Gross Asset Encumbrance Ratio                                   YES          %                                   <
+Leverage                    Leverage Ratio                                                  YES          %                                   >                                                                 3,00%
+                            NPE Ratio                                                       YES          %                                   <
+                            Texas Ratio                                                     YES          %                                   <
+Asset & Liability Quality   Coverage NPE Ratio                                              YES          %                                   >
+                            Growth Rate of gross Non Performing Exposures                   YES          %                                   <
+                            Minimum Requirements of Eligible Liabilities (MREL)             YES          %                                   >
+                            RAROC                                                              -         %                                   >
+Performance                 Total Revenues                                                  YES         €/mln                                >
+                            ROE                                                             YES          %                                   >
+(§) Valori minimi al 01-01-2020 per i Capital Adequacy Ratios da ultima Draft SREP Decision, inclusivi del P2G (1,3%). Il valore minimo per LCR è stabilito dal Reg UE 575/13 (CRR)
+                                                                                                                                                                                                                        7
+
+RAS 2020-2022– Group KRI                                                                                                                                                            (2/2)
+GRUPPOMONTEPASCHI                                                                                                         Risk Appetite Statement 2020
+                                                                                 Recovery
+                                                                                                    Appetite Appetite Appetite      Tolerance Tolerance Tolerance Capacity Capacity Capacity Regulatory
+                                                                                            U.M.                               vs
+                                                                                                    FY 2020E FY 2021E FY 2022E          1Y        2Y        3Y       1Y       2Y       3Y    Minimum §
+                         Italian GDP growth                                      YES         %                                 >
+Macroeconomic            Italian Government Rating variation                     YES        notch                              <
+                         BTP 10YRS - BUND                                        YES         bps                               <
+                         Reputational Index (IR)                                 YES        num.                               >
+                         IT Risk: High/Very High Risk Resources                    -        num.                               <
+                         Cybersecurity Risk: High/Very High Risk Resources         -        num.                               <
+Operating                IT Risk: High/Very High Risk IT Units                     -        num.                               <
+                         Cybersecurity Risk: High/Very High Risk IT Units          -        num.                               <
+                         Legal Risk: Net Exposure                                  -        €/mln                              >
+                         Operational Losses/Net Operating Revenues               YES         %                                 <
+                         Processes with Relevant Gaps                              -        num.                               <
+Internal Controls
+                         AML - Suspicious Transaction                              -         %                                 <
+Related Parties          Total Exposures on Related Parties / Eligible Capital     -         %                                 <
+             New Indicator RAS 2020
+                                                                                                                                                                                                          8
+
+Index
+      RAS 2020-2022– Principali Evoluzioni
+      Section 1 – Group KRI
+      Section 2 – Cascading Down KRI
+      Section 3 – Indicators Glossary
+                                           9
+
+RAS 2020-2022– Key Risk Indicator: Banca Monte dei Paschi di Siena                             (NEW)
+  BANCA MO NTE DEI PASCHI DI SIENA                                                      Risk Appetite Statement 2020
+                                                                                  U.M. Appetite    vs   Tolerance   Capacity
+                               CET1 Ratio                                          %                >
+  Capital Adequacy             Tier 1 Ratio                                        %                >
+                               Total Capital Ratio                                 %                >
+  Leverage                     Leverage Ratio (*)                                  %                >
+                               Growth Rate of gross Non Performing Exposures       %                <
+  Asset Quality
+                               New Granting on Leverage Transactions             €/mln              <
+                               Operational Losses (A)                            €/mln              <
+  Operating                    IT Risk: High/Very High Risk Resources            num.               <
+                               Cybersecurity Risk: High/Very High Risk Resources num.               <
+  (*) I valori sono stimati considerando le operazioni infragruppo.
+  (A) Dato annualizzato
+                  New Indicator RAS 2020
+                                                                                                                             10
+
+RAS 2020-2022– Key Risk Indicator: MPS Capital Services
+MPS CAPITAL SERVICES                                                                  Risk Appetite Statement 2020
+                                                                                U.M. Appetite    vs   Tolerance   Capacity
+                             CET1 Ratio                                          %                >
+                             Tier 1 Ratio                                        %                >
+Capital Adequacy             Total Capital Ratio                                 %                >
+                             Regulatory RWA - Credit Risk (Commercial Lending) €/mln              <
+                             Regulatory RWA - Market Risk                      €/mln              <
+Liquidity Adequacy           Gap Ratio 1Y                                        %                >
+Leverage                     Leverage Ratio (*)                                  %                >
+                             Growth Rate of gross Non Performing Exposures       %                <
+Asset Quality
+                             New Granting on Leveraged Transactions            €/mln              <
+Performance                  RAROC                                               %                >
+                             Operational Losses (A)                            €/mln              <
+Operating
+                             IT Risk: High/Very High Risk Resources            num.               <
+(*) I valori sono stimati considerando le operazioni infragruppo.
+(A) Dato annualizzato
+                New Indicator RAS 2020
+                                                                                                                           11
+
+ RAS 2020-2022– Key Risk Indicator: MPS Leasing & Factoring
+MPS LEASING & FACTO RING                                                              Risk Appetite Statement 2020
+                                                                                U.M. Appetite    vs   Tolerance   Capacity
+                             CET1 Ratio                                          %                >
+                             Tier 1 Ratio                                        %                >
+Capital Adequacy
+                             Total Capital Ratio                                 %                >
+                             Regulatory RWA - Credit Risk (Commercial Lending) €/mln              <
+Liquidity Adequacy           Gap Ratio 1Y                                        %                >
+Leverage                     Leverage Ratio (*)                                  %                >
+                             Growth Rate of gross Non Performing Exposures       %                <
+Asset Quality
+                             New Granting on Leveraged Transactions            €/mln              <
+Performance                  RAROC                                               %                >
+                             Operational Losses (A)                            €/mln              <
+Operating
+                             IT Risk: High/Very High Risk Resources            num.               <
+(*) I valori sono stimati considerando le operazioni infragruppo.
+(A) Dato annualizzato
+                New Indicator RAS 2020
+                                                                                                                           12
+
+RAS 2020-2022– Key Risk Indicator: WIDIBA
+  WIDIBA                                                                                      Risk Appetite Statement 2020
+                                                                                        U.M. Appetite    vs   Tolerance   Capacity
+                               CET1 Ratio                                                %                >
+                               Tier 1 Ratio                                              %                >
+  Capital Adequacy
+                               Total Capital Ratio                                       %                >
+                               Regulatory RWA - Credit Risk (Commercial Lending)       €/mln              <
+  Liquidity Adequacy           Gap Ratio 1Y                                              %                >
+  Leverage                     Leverage Ratio (*)                                        %                >
+  Asset Quality                Growth Rate of gross Non Performing Exposures             %                <
+  Performance                  RAROC                                                     %                >
+                               Operational Losses (A)                                  €/mln              <
+                               IT Risk: High/Very High Risk Resources                  num.               <
+                               Cybersecurity Risk: High/Very High Risk Resources       num.               <
+                               IT Risk and Cybersecurity: High/Very High Risk IT Units num.               <
+  Operating
+                               Major incidents on IT Resources (A)                     num.               <
+                               Major operational incidents on IT Resources (A)         num.               <
+                               Major cybersecurity incidents on IT Resources           num.               <
+                               IB frauds (A)                                           €/mln              <
+  (*) I valori sono stimati considerando le operazioni infragruppo.
+  (A) Dato annualizzato.
+                  Deleted Indicator with respect to RAS 2019
+                  New Indicator RAS 2020
+                                                                                                                                   13
+
+RAS 2020-2022– Key Risk Indicator: MP Banque
+ MP BANQ UE                                                                    Risk Appetite Statement 2020
+                                                                         U.M. Appetite    vs   Tolerance   Capacity
+                          CET1 Ratio                                      %                >
+ Capital Adequacy         Tier 1 Ratio                                    %                >
+                          Total Capital Ratio                             %                >
+                          LCR                                             %                >
+ Liquidity Adequacy
+                          NSFR                                            %                >
+ Leverage                 Leverage Ratio                                  %                >
+ Balance Sheet            Total Assets                                  €/mln              <
+ Asset Quality            Growth Rate of gross Non Performing Exposures   %                <
+ Operating                Operational Losses (A)                        €/mln              <
+ (A) Dato annualizzato.
+              New Indicator RAS 2020
+                                                                                                                    14
+
+RAS 2020-2022– Key Risk Indicator: Consorzio Operativo di Gruppo
+     COG                                                                                                                                            Risk Appetite Statement 2020
+                                                                                                                                                  U.M.    Appetite    vs Tolerance
+                                 Operational Losses (A)                                                                                          €/mln                 <
+                                 IT Risk: High/Very High Risk Resources (1)                                                                      num.                  <
+                                 IT Risk and Cybersecurity Risk: High/Very High Risk IT Units                                                    num.                  <
+     Operating                   Major incidents on IT Resources (A)                                                                             num.                  <
+                                 Major operational incidents on IT Resources (A)                                                                 num.                  <
+                                 Major cybersecurity incidents on IT Resources                                                                   num.                  <
+                                 IB frauds (A)(2)                                                                                                €/mln                 <
+     (A) Dato annualizzato
+     (1) Sono incluse nel conteggio anche le risorse di natura trasversale e le risorse ITxIT (come definite dalla policy metodologica adottata)
+     (2) In corso di valutazione la riattribuzione da COG a COO (ASI)
+                    Deleted Indicator with respect to RAS 2019
+                    New Indicator RAS 2020
+                                                                                                                                                                                   15
+
+RAS 2020-2022– Key Risk Indicator: Chief Commercial Officer
+    CHIEF COMMERCIAL OFFICER                                                                 Risk Appetite Statement 2020
+                                                                                           U.M.    Appetite    vs Tolerance
+                               Total Regulatory RWA                                       €/mln                <
+    Capital Adequacy           Total Internal RWA                                         €/mln                <
+                               Regulatory RWA - Credit Risk (Commercial Lending)          €/mln                <
+                               Loan to Deposit Ratio (Commercial)                           %                  <
+    Liquidity Adequacy
+                               Commercial Gap Ratio 3Y                                      %                  >
+                               Commercial Lending - Average PD (AIRB) (°)                   %                  <
+                               Commercial Lending - Average LGD (AIRB) (°)                  %                  <
+    Asset Quality
+                               Commercial Lending - Default Rate                            %                  <
+                               Commercial Lending - Exposure Amount (Performing)          €/mln                <
+                               RAROC                                                        %                  >
+    Performance
+                               Total Revenues                                             €/mln                >
+                               Operational Losses (A)                                     €/mln                <
+    Operating
+                               Reputational Risk - Gap Acquisition Rate vs Churn Rate (%)   %                  >
+    (°) Sono escluse le esposizioni del tipo Specialized Lending
+    (A) Dato annualizzato
+    (*) Sono escluse le posizioni di MP BANQUE
+                  New Indicator RAS 2020
+                                                                                                                            16
+
+RAS 2020-2022– Key Risk Indicator: Chief Lending Officer
+     CHIEF LENDING OFFICER                                                                                           Risk Appetite Statement 2020
+                                                                                                                   U.M.    Appetite    vs Tolerance
+                                  Total Regulatory RWA                                                            €/mln                <
+     Capital Adequacy
+                                  Regulatory RWA - Credit Risk (Commercial Lending) - NPE (°)                     €/mln                <
+                                  Commercial Lending - Average PD on New Lending                                    %                  <
+                                  Commercial Lending - Cure Rate on UtoP Loans (*)                                  %                  >
+                                  Commercial Lending - Reduction (UtoP and Past Due Loans)                        €/mln                 >
+                                  Commercial Lending - Reduction (Bad Loans)                                      €/mln                 >
+     Asset Quality
+                                  Commercial Lending - Cured Exposures (A)                                        €/mln                 >
+                                  Commercial Lending - Vintage NPE (Secured Exposures)                             yrs                  <
+                                  Commercial Lending - Vintage NPE (Unsecured Exposures)                           yrs                  <
+     Operating                    Operational Losses (B)                                                          €/mln                <
+     (°) Esclude le posizioni classificate come Past Due e UtoP Rete.
+     (*) Rischio Anomalo e Crediti Ristrutturati di Banca MPS.
+     (A) Past Due e UtoP Rete di Banca MPS.
+     (B) Dato annualizzato. Perdite operative afferenti al contenzioso relativo all'attività di recupero crediti.
+                                                                                                                                                    17
+
+RAS 2020-2022– Key Risk Indicator: Chief Financial Officer
+     CHIEF FINANCIAL OFFICER                                                                                             Risk Appetite Statement 2020
+                                                                                                                       U.M.    Appetite    vs Tolerance
+                              CET1 Capital (Group)                                                                    €/mln                >
+                              Total Capital (Group)                                                                   €/mln                >
+                              Total Regulatory RWA                                                                    €/mln                <
+     Capital Adequacy         Total Internal RWA                                                                      €/mln                <
+                              Internal RWA - Market Risk Banking Book - FVOCI                                         €/mln                <
+                              Internal RWA - Market Risk Banking Book - AC                                            €/mln                <
+                              Internal RWA - Interest Rate Risk on Banking Book                                       €/mln                <
+     Liquidity Adequacy       Time to Survival under stress                                                            days                >
+     Performance              RAROC (Finance Department)                                                                %                  >
+                              Operational Losses (A)                                                                  €/mln                <
+     Operating
+                              Reputational Risk - Quarterly average of analyst recommendations - Gap% (%Buy - % Sell)   %                  >
+     (A) Dato annualizzato
+                  New Indicator RAS 2020
+                                                                                                                                                        18
+
+RAS 2020-2022– Key Risk Indicator: Chief Operating Officer, Chief Human Capital Officer
+     CHIEF OPERATING OFFICER                                                               Risk Appetite Statement 2020
+                                                                                         U.M.    Appetite    vs Tolerance
+     Capital Adequacy         Total Internal RWA                                        €/mln                <
+                              Operational Losses (A)                                    €/mln                <
+     Operating                IT Risk: High/Very High Risk Resources                    num.                 <
+                              Cybersecurity Risk: High/Very High Risk Resources         num.                 <
+     (A) Dato annualizzato
+                  New Indicator RAS 2020
+     CHIEF HUMAN CAPITAL OFFICER                                                           Risk Appetite Statement 2020
+                                                                                         U.M.    Appetite    vs Tolerance
+                              Operational Losses (*) (A)                                €/mln                <
+     Operating
+                              Reputational Risk - Absenteeism Rate (%)                    %                  <
+     (*) Mainly Employments Litigations
+     (A) Dato annualizzato
+                  New Indicator RAS 2020
+                                                                                                                          19
+
+RAS 2020-2022– Key Risk Indicator: Chief Risk Officer, Direzione Comunicazione e Relazioni Istituzionali            (NEW)
+     CHIEF RIS K OFFICER                                                                       Risk Appetite Statement 2020
+                                                                                             U.M.    Appetite    vs Tolerance
+     Operating             Reputational Risk - N. of finding F4                             num.                 <
+               New Indicator RAS 2020
+     DIREZIONE COMUNICAZIONE E RELAZIONI IS TITUZIONALI                                        Risk Appetite Statement 2020
+                                                                                             U.M.    Appetite    vs Tolerance
+     Operating             Reputational Risk: Negative sentiment on-line                    num.                 <
+               New Indicator RAS 2020
+                                                                                                                              20
+
+Index
+      RAS 2020-2022– Principali Evoluzioni
+      Section 1 – Group KRI
+      Section 2 – Cascading Down KRI
+      Section 3 – Indicators Glossary
+                                           21
+
+RAS 2020-2022– Indicators Glossary
+ #      Category                        RAF Indicator  U.M.                                                          Definizione                                                    Owner Dati a Consuntivo
+                                                              Coefficiente di adeguatezza patrimoniale espresso dal rapporto tra CET1 Capital e Total Regulatory RWA             Servizio Normativa
+ 1 Capital adequacy CET 1 Ratio                          %
+                                                              (requisito regolamentare).                                                                                         Regolamentare e Reporting
+                                                              Coefficiente di adeguatezza patrimoniale espresso dal rapporto tra Tier 1 Capital e Total Regulatory RWA           Servizio Normativa
+ 2 Capital adequacy Tier 1 Ratio                         %
+                                                              (requisito regolamentare).                                                                                         Regolamentare e Reporting
+                                                              Coefficiente di adeguatezza patrimoniale espresso dal rapporto tra Total Capital e Total Regulatory RWA            Servizio Normativa
+ 3 Capital adequacy Total Capital Ratio                  %
+                                                              (requisito regolamentare).                                                                                         Regolamentare e Reporting
+                                                              Componente primaria di capitale , rappresentata principalmente dal capitale ordinario versato, dalle relative
+                                                              riserve sovrapprezzo, dall'utile di periodo, dalle riserve, dal patrimonio di terzi (computabile entro determinati
+ 4 Capital adequacy CET 1 Capital                     EUR/mln                                                                                                                    Servizio Bilancio e Contabilità
+                                                              limiti) e da altre rettifiche regolamentari, così come previsto dal Regolamento (UE) N. 575/2013 (CRR) e dalla
+                                                              Circolare n. 285.
+                                                              Rappresenta il patrimonio composto dall'insieme di strumenti di CET1 Capital (componente primaria di capitale)
+ 5 Capital adequacy Tier1 Capital                     EUR/mln                                                                                                                    Servizio Bilancio e Contabilità
+                                                              e dal capitale aggiuntivo di classe 1, come definito all'interno del Regolamento (UE) N. 575/2013.
+                                                              Patrimonio costituito dalla somma del patrimonio di base (Tier 1) e del patrimonio supplementare (Tier 2), che
+                                                              viene ammesso nel limite massimo del patrimonio di base dedotte, con specifiche e dettagliate modalità, le
+ 6 Capital adequacy Total Capital                     EUR/mln                                                                                                                    Servizio Bilancio e Contabilità
+                                                              partecipazioni e interessenze possedute in altri enti creditizi e/o finanziari così come previsto dal Regolamento
+                                                              (UE) N. 575/2013 (CRR) e dalla Circolare n. 285.
+                                                              Ammontare complessivo delle esposizioni ponderate per il rischio (risk weighted assets ), con riferimento ai soli Servizio Integrazione Rischi e
+ 7 Capital adequacy Total Regulatory RWA              EUR/mln
+                                                              rischi di Primo Pilastro, così come previsto dal Regolamento (UE) N. 575/2013 (CRR) e dalle Circolare n. 285.      Reporting
+                                                                                                                                                                                                                 22
+
+RAS 2020-2022– Indicators Glossary
+ #        Category                         RAF Indicator                  U.M.                                                           Definizione                                                    Owner Dati a Consuntivo
+                                                                                 Capitale interno complessivo espresso in termini di RWA Equivalent, con riferimento ai rischi di Primo e Secondo Servizio Integrazione Rischi e
+ 8 Capital adequacy    Total Internal RWA                                EUR/mln
+                                                                                 Pilastro.                                                                                                           Reporting
+                                                                                 Ammontare delle esposizioni ponderate per il rischio (risk weighted assets), afferenti al rischio di credito        Servizio Integrazione Rischi e
+ 9 Capital adequacy    Regulatory RWA - Credit Risk (Commercial Lending) EUR/mln
+                                                                                 (commercial lending).                                                                                               Reporting
+                                                                                                                                                                                                     Servizio Integrazione Rischi e
+ 10 Capital adequacy   Regulatory RWA - Market Risk                      EUR/mln Ammontare delle esposizioni ponderate per il rischio (risk weighted assets), afferenti ai rischi di mercato.
+                                                                                                                                                                                                     Reporting
+                                                                                 Ammontare delle esposizioni ponderate per il rischio (risk weighted assets), afferenti ai rischi di mercato di
+                                                                                                                                                                                                     Servizio Integrazione Rischi e
+ 11 Capital adequacy   Internal RWA - Market Risk Banking Book - FVOCI   EUR/mln Secondo Pilastro generati dalle posizioni del portafoglio bancario iscritte nella categoria contabile Fair Value to
+                                                                                                                                                                                                     Reporting
+                                                                                 Other Comprehensive Income (FVOCI).
+                                                                                 Ammontare delle esposizioni ponderate per il rischio (risk weighted assets), afferenti ai rischi di mercato di
+                                                                                                                                                                                                     Servizio Integrazione Rischi e
+ 12 Capital adequacy   Internal RWA - Market Risk Banking Book - AC      EUR/mln Secondo Pilastro generati dalle posizioni del portafoglio bancario iscritte nella categoria contabile Amortised
+                                                                                                                                                                                                     Reporting
+                                                                                 Cost (AC).
+                                                                                 Ammontare delle esposizioni ponderate per il rischio (risk weighted assets), afferenti al rischio di tasso di       Servizio Integrazione Rischi e
+ 13 Capital adequacy   Internal RWA - Interest Rate Risk on Banking Book EUR/mln
+                                                                                 interesse del portafoglio bancario.                                                                                 Reporting
+                                                                                 Indicatore di liquidità a breve termine a 30 giorni, dato dal rapporto tra ammontare di HQLA (High Quality Liquid
+                                                                                                                                                                                                     Servizio Rischi di Liquidità e
+ 14 Liquidity adequacy LCR                                                  %    Assets - attività liquide di elevata liquidità) e totale dei deflussi di cassa netti nei 30 giorni di calendario
+                                                                                                                                                                                                     ALM
+                                                                                 successivi.
+                                                                                                                                                                                                                                    23
+
+RAS 2020-2022– Indicators Glossary
+ #        Category                        RAF Indicator           U.M.                                                         Definizione                                                           Owner Dati a Consuntivo
+                                                                       Indicatore di liquidità strutturale a 12 mesi dato dal rapporto tra ammontare disponibile di provvista stabile e           Servizio Rischi di Liquidità e
+ 15 Liquidity adequacy NSFR                                         %
+                                                                       ammontare obbligatorio di provvista stabile.                                                                               ALM
+                                                                                                                                                                                                  Servizio Rischi di Liquidità e
+ 16 Liquidity adequacy Net Cash Position 1M / Total Assets          %  Rapporto tra la posizione netta di liquidità ad 1 mese ed il totale delle attività.
+                                                                                                                                                                                                  ALM
+                                                                       Costo medio, espresso in punti base, del nuovo funding "wholesale" effettuato nel mese di riferimento,                     Servizio Rischi di Liquidità e
+ 17 Liquidity adequacy Weighted Average Cost of wholesale funding  bps
+                                                                       ponderato per i volumi.                                                                                                    ALM
+                                                                                                                                                                                                  Servizio Rischi di Liquidità e
+ 18 Liquidity adequacy Gross Asset Encumbrance Ratio                %  Rapporto tra il totale delle attività collateralizzate (impegnate - lorde) e il totale delle attività.
+                                                                                                                                                                                                  ALM
+                                                                       Rapporto tra il totale dei flussi di cassa in uscita (outflow) ed il totale dei flussi di cassa in entrata (inflow), oltre Servizio Rischi di Liquidità e
+ 19 Liquidity adequacy Gap Ratio 1Y                                 %
+                                                                       1 anno.                                                                                                                    ALM
+                                                                       Rapporto tra il totale dei flussi di cassa in uscita (outflow) ed il totale dei flussi di cassa in entrata (inflow), oltre Servizio Rischi di Liquidità e
+ 20 Liquidity adequacy Gap Ratio 3Y                                 %
+                                                                       3 anni.                                                                                                                    ALM
+                                                                       Rapporto tra il totale dei flussi di cassa comerciali in uscita (outflow) ed il totale dei flussi di cassa commerciali Servizio Rischi di Liquidità e
+ 21 Liquidity adequacy Commercial Gap Ratio 3Y                      %
+                                                                       in entrata (inflow), oltre 3 anni.                                                                                         ALM
+                                                                                                                                                                                                                                 24
+
+RAS 2020-2022– Indicators Glossary
+ #        Category                        RAF Indicator    U.M.                                                          Definizione                                                           Owner Dati a Consuntivo
+ 22 Liquidity adequacy Loan to Deposit Ratio (Commercial)    %    Rapporto tra il totale dei prestiti commerciali ed il totale dei depositi commerciali.                                    Servizio CDG e Reporting
+                                                                  Periodo di tempo (espresso in giorni) durante il quale il Gruppo è in grado di continuare ad operare facendo
+                                                                                                                                                                                            Servizio Rischi di Liquidità e
+ 23 Liquidity adequacy Time to Survival under stress        dd    fronte a tutti i propri deflussi di cassa senza l’esigenza di ricorrere ad attività addizionali di funding, in condizioni
+                                                                                                                                                                                            ALM
+                                                                  di stress.
+                                                                  Rapporto tra il Capitale di Classe 1 (Tier 1) e le Total Exposures (specifiche ai fini del calcolo del Leverage Ratio), Servizio Normativa
+ 24 Leverage           Leverage Ratio                        %
+                                                                  inclusi gli elementi fuori bilancio.                                                                                      Regolamentare e Reporting
+ 25 Balance Sheet      Total Assets                       EUR/mln Totale delle attività in bilancio.                                                                                        Servizio Bilancio e Contabilità
+    Asset & Liability                                             Rapporto tra il Gross Book Value delle esposizioni creditizie per cassa verso clientela in default e il Gross Book
+ 26                    NPE Ratio                             %                                                                                                                              Servizio Bilancio e Contabilità
+    quality                                                       Value dei crediti totali per cassa verso la clientela.
+                                                                  Rapporto tra Gross Book Value delle esposizioni creditizie per cassa verso clientela in default e la somma del
+    Asset & Liability
+ 27                    Texas Ratio                           %    patrimonio tangibile netto, patrimonio di terzi e fondi NPE su esposizioni creditizie per cassa verso clientela. Il       Servizio Bilancio e Contabilità
+    quality
+                                                                  patrimonio netto tangibile è la differenza tra patrimonio netto e attività immateriali.
+    Asset & Liability                                             Rapporto tra rettifiche di valore sui crediti per cassa verso clientela (lordi) non performing ed il totale dei crediti
+ 28                    Coverage NPE Ratio                    %                                                                                                                              Servizio Bilancio e Contabilità
+    quality                                                       per cassa verso clientela (lordi) non performing .
+                                                                                                                                                                                                                            25
+
+RAS 2020-2022– Indicators Glossary
+ #        Category                       RAF Indicator                U.M.                                                            Definizione                                                      Owner Dati a Consuntivo
+    Asset & Liability
+ 29                   Growth Rate of gross Non Performing Exposures     %    Tasso annuo di crescita dello stock di crediti deteriorati per cassa verso clientela.                                  Servizio Bilancio e Contabilità
+    quality
+                                                                             Requisito minimo di fondi propri e di passività eleggibili in caso di bail-in (tale vincolo rappresenterà un requisito
+    Asset & Liability Minimum Requirements of Eligible Liabilities                                                                                                                                  Servizio Normativa
+ 30                                                                     %    regolamentare a partire dal 1° gennaio 2021). Il requisito è espresso in termini di TLOF (Total Liabilies and Own
+    quality           (MREL)                                                                                                                                                                        Regolamentare e Reporting
+                                                                             Funds ).
+    Asset & Liability                                                        Flusso di default del periodo al netto dei rapporti che sono ritornati performing alla reporting date , misurato in    Servizio Credit Portfolio
+ 31                   Commercial Lending - Default Rate                 %
+    quality                                                                  termini di utilizzo alla reporting date, rapportati allo stock iniziale dei crediti performing .                       Models e Controls
+    Asset & Liability Commercial Lending - Exposure Amount                                                                                                                                          Servizio Credit Portfolio
+ 32                                                                  EUR/mln Ammontare totale delle esposizioni performing .
+    quality           (Performing)                                                                                                                                                                  Models e Controls
+                                                                             Esposizioni creditizie (in termini di utilizzo iniziale) che alla fine dell'anno precedente erano classificate come
+    Asset & Liability                                                                                                                                                                               Servizio Credit Portfolio
+ 33                   Commercial Lending - Cured Exposures           EUR/mln non performing (con specifico riferimento alle esposizioni Past Due e UtoP Rete di Banca MPS) e che risultano
+    quality                                                                                                                                                                                         Models e Controls
+                                                                             performing alla reporting date .
+    Asset & Liability                                                        Probability-of-Default media del portafoglio creditizio delle sole nuove erogazioni effettuate su clienti classificati Servizio Credit Portfolio
+ 34                   Commercial Lending - Average PD on New Lending    %
+    quality                                                                  in "Sviluppo", ponderata per i singoli utilizzi.                                                                       Models e Controls
+    Asset & Liability                                                        Probability-of-Default media del portafoglio creditizio (rischio di credito), relativamente al solo segmento AIRB,     Servizio Credit Portfolio
+ 35                   Commercial Lending - Average PD (AIRB)            %
+    quality                                                                  rilevata alla reporting date .                                                                                         Models e Controls
+                                                                                                                                                                                                                                    26
+
+RAS 2020-2022– Indicators Glossary
+ #        Category                      RAF Indicator                U.M.                                                         Definizione                                                      Owner Dati a Consuntivo
+    Asset & Liability                                                       Loss-Given-Default media del portafoglio creditizio (rischio di credito), relativamente al solo segmento AIRB,      Servizio Credit Portfolio
+ 36                   Commercial Lending - Average LGD (AIRB)          %
+    quality                                                                 rilevata alla reporting date .                                                                                      Models e Controls
+    Asset & Liability                                                       Tasso di cura delle esposizioni del portafoglio creditizio classificate come UtoP al 1° gennaio (non IP Rete) e     Servizio Credit Portfolio
+ 37                   Commercial Lending - Cure Rate on UtoP Loans     %
+    quality                                                                 quindi rientrate negli stati del performing alla reporting date.                                                    Models e Controls
+    Asset & Liability Commercial Lending - Reduction (UtoP and Past         Ammontare delle diminuzioni dell'utilizzo riferito alle posizioni che erano state classificate come UtoP o Past     Servizio Credit Portfolio
+ 38                                                                 EUR/mln
+    quality           Due Loans)                                            Due al 1° gennaio e non sono state oggetto di cura o di scivolamento nel corso dell'anno.                           Models e Controls
+    Asset & Liability                                                       Ammontare delle diminuzioni dell'utilizzo riferito alle posizioni che erano state classificate come Bad Loans al 1° Servizio Credit Portfolio
+ 39                   Commercial Lending - Reduction (Bad Loans)    EUR/mln
+    quality                                                                 gennaio e non sono state oggetto di cura.                                                                           Models e Controls
+    Asset & Liability                                                       Numero di anni di permanenza delle esposizioni nello stato di default, ponderato per l'ammontare                    Servizio Credit Portfolio
+ 40                   Commercial Lending - Vintage NPE                anni
+    quality                                                                 dell'esposizione.                                                                                                   Models e Controls
+    Asset & Liability                                                       Valore delle esposizioni delle nuove leveraged transactions , in accordo con la Dir. D02054 "Regole in materia di   Servizio Credit Portfolio
+ 41                   New Granting on Leveraged Transactions        EUR/mln
+    quality                                                                 concessione e revisione del credito"                                                                                Models e Controls
+                                                                            Rapporto tra il risultato netto di esercizio e l'ammontare di equity (quest'ultimo calcolato come media tra gli
+ 42 Performance       ROE                                              %                                                                                                                        Servizio Bilancio e Contabilità
+                                                                            ammontari di inizio e fine esercizio).
+                                                                                                                                                                                                                                27
+
+RAS 2020-2022– Indicators Glossary
+ #       Category                    RAF Indicator             U.M.                                                          Definizione                                                        Owner Dati a Consuntivo
+                                                                      Indice di Performance che esprime in termini percentuali la capacità di creazione di valore per unità di rischio
+ 43 Performance   RAROC                                          %    assunto ; calcolato come il rapporto tra la redditività caratteristica netta (NOPAT - Net Operating Profit After       Servizio Pianificazione
+                                                                      Tax) e il Capitale investito (Common Equity T1 al lordo delle deduzioni).
+ 44 Performance   Total Revenues                              EUR/mln Ammontare complessivo dei ricavi generati a livello di Gruppo ed a livello di CCO.                                     Servizio CDG e Reporting
+                                                                      Variazione tendenziale del risultato finale dell’attività di produzione delle unità produttrici residenti, espresso in
+                                                                      valori concatenati rispetto all’anno di riferimento in modo da misurare la dinamica reale degli aggregati
+ 45 Macroeconomic Italian GDP growth                             %                                                                                                                           Servizio Pianificazione
+                                                                      economici e destagionalizzato, ovvero considerato al netto delle fluttuazioni stagionali e corretto per gli effetti
+                                                                      di calendario laddove questi risultano significativi.
+ 46 Macroeconomic Italian Government Rating                    notch Rating emessi da ECAI riconosciute dal Gruppo.                                                                          Servizio Pianificazione
+                                                                      Differenza percentuale (o in punti base) tra rendimento del titolo decennale italiano e rendimento dell’omologo
+ 47 Macroeconomic BTP 10YRS - BUND Spread                       bps                                                                                                                          Servizio Pianificazione
+                                                                      tedesco.
+                                                                      Esposizione netta al Rischio Legale determinata come totale del petitum sulle contestazioni legali a rischio           Servizio Rischi Operativi, IT e
+ 48 Operating     Legal Risk: Net Exposure                     €/mln
+                                                                      soccombenza probabile, al netto dell'accantonamento presente a fondo rischi sulle medesime contestazioni.              Reputazionali
+                                                                                                                                                                                             Servizio Rischi Operativi, IT e
+ 49 Operating     Operational Losses / Net Operating Revenues    %    Rapporto tra le perdite operative contabilizzate nel periodo e i ricavi totali.
+                                                                                                                                                                                             Reputazionali
+                                                                                                                                                                                                                             28
+
+RAS 2020-2022– Indicators Glossary
+ #       Category                    RAF Indicator                   U.M.                                                        Definizione                                                        Owner Dati a Consuntivo
+                                                                                                                                                                                                 Servizio Rischi Operativi, IT e
+ 50 Operating     Operational Losses                                EUR/mln Perdite operative contabilizzate nel periodo.
+                                                                                                                                                                                                 Reputazionali
+                                                                            Numero di operational incidents su risorse IT (definizione Bankit) classificati come “Major” secondo le soglie       Servizio Rischi Operativi, IT e
+ 51 Operating     Major operational incidents on IT Resources          n.
+                                                                            interne definite dalla banca.                                                                                        Reputazionali
+                                                                            Numero di cybersecurity incidents su risorse IT (definizione Bankit) classificati come “Major” secondo le soglie     Servizio Rischi Operativi, IT e
+ 52 Operating     Major cybersecurity incidents on IT Resources        n.
+                                                                            interne definite dalla banca.                                                                                        Reputazionali
+                                                                            Numero di unità organizzative all'interno della Funzione IT che presentano un rischio valutato «Alto» / «Molto
+                                                                                                                                                                                                 Servizio Rischi Operativi, IT e
+ 53 Operating     IT Risk: High/Very High Risk IT Units                n.   Alto» (sulla base dell'andamento degli indicatori di rischio o del livello di implementazione delle misure di
+                                                                                                                                                                                                 Reputazionali
+                                                                            mitigazione del rischio).
+                                                                            Numero di unità organizzative all'interno della Funzione Sicurezza IT che presentano un rischio valutato «Alto» /
+                                                                                                                                                                                                 Servizio Rischi Operativi, IT e
+ 54 Operating     Cybersecurity Risk: High/Very High Risk IT Units     n.   «Molto Alto» (sulla base dell'andamento degli indicatori di rischio o del livello di implementazione delle misure di
+                                                                                                                                                                                                 Reputazionali
+                                                                            mitigazione del rischio).
+                                                                            Numero di risorse IT che presentano rischi valutati di livello «Alto» / «Molto Alto» (come combinazione di           Servizio Rischi Operativi, IT e
+ 55 Operating     IT Risk - HIGH / VERY HIGH Risk Resources            n.
+                                                                            probabilità e impatto secondo la policy metodologica adottata) - non mitigabili o mitigati entro 12 mesi.            Reputazionali
+                                                                            Numero di piattaforme di sicurezza che presentano rischi valutati di livello «Alto» / «Molto Alto» (come
+                                                                                                                                                                                                 Servizio Rischi Operativi, IT e
+ 56 Operating     Cybersecurity Risk: High/Very High Risk Resources    n.   combinazione di probabilità e impatto secondo la policy metodologica adottata) - non mitigabili o mitigati entro
+                                                                                                                                                                                                 Reputazionali
+                                                                            12 mesi.
+                                                                                                                                                                                                                                 29
+
+RAS 2020-2022– Indicators Glossary
+ #       Category                    RAF Indicator                  U.M.                                                        Definizione                                                       Owner Dati a Consuntivo
+                                                                           Somma equipesata dei 5 driver (KRI strategici), riportati su una stessa scala (0;100), identificati per misurare la Servizio Rischi Operativi, IT e
+ 57 Operating     Reputational Index (IR)                           num.
+                                                                           forza della relazione e la relativa reputazione percepita da ciascun stakeholder ritenuto rilevante per il Gruppo.  Reputazionali
+                  Reputational Risk: Gap Acquisition Rate vs Churn                                                                                                                             Servizio Rischi Operativi, IT e
+ 58 Operating                                                         %    Tasso di acquisizione nuovi clienti del trimestre (%) - tasso di abbandono rilevato nel trimestre (%)
+                  Rate (%)                                                                                                                                                                     Reputazionali
+                                                                           Media trimestrale (%) delle raccomandazioni degli analisti ottenuta come differenza tra il numero di
+                  Reputational Risk: Quarterly average of analyst                                                                                                                              Servizio Rischi Operativi, IT e
+ 59 Operating                                                         %    raccomanzioni Buy (% sul totale raccomandazioni) e il numero di raccomanzioni Sell (% sul totale
+                  recommendations - Gap% (%Buy - % Sell)                                                                                                                                       Reputazionali
+                                                                           raccomandazioni)
+                                                                                                                                                                                               Servizio Rischi Operativi, IT e
+ 60 Operating     Reputational Risk: Absenteeism Rate (%)             %    Nr. di gg di assenza / Nr. totale dei GG lavorativi moltiplicato per la forza lavoro
+                                                                                                                                                                                               Reputazionali
+                                                                                                                                                                                               Servizio Rischi Operativi, IT e
+ 61 Operating     Reputational Risk: N. of finding F4               num.   Nr. di finding con ranking F4 evidenziati per ciascuna ispezione.
+                                                                                                                                                                                               Reputazionali
+                                                                           Numero delle conversazioni con polarità negativa registrate nel trimestre/ Totale conversazioni registrate nel      Servizio Rischi Operativi, IT e
+ 62 Operating     Reputational Risk: Negative sentiment on-line     num.
+                                                                           trimestre                                                                                                           Reputazionali
+                                                                                                                                                                                               Servizio Rischi Operativi, IT e
+ 63 Operating     IB frauds                                        EUR/mln Importo complessivo delle perdite subite dalla clientela a causa di frodi su Internet Banking.
+                                                                                                                                                                                               Reputazionali
+                                                                                                                                                                                                                               30
+
+RAS 2020-2022– Indicators Glossary
+ #        Category                      RAF Indicator                       U.M.                                                          Definizione                                                       Owner Dati a Consuntivo
+                                                                                                                                                                                                         Servizio Segreteria
+                                                                                 Numero di macroprocessi per ciascuno dei quali i) risultano attivi gap a rilevanza alta e ii) per tali gap la somma
+ 64 Internal Controls Processes with Relevant Gaps                           n.                                                                                                                          Amministrativa e Supporto
+                                                                                 dei giorni fra l’apertura e la prevista chiusura (incluse eventuali riscadenzature) supera i 180 giorni.
+                                                                                                                                                                                                         Amministratore Incaricato
+ 65 Internal Controls AML - Suspicious Transaction                           %   Antiriciclaggio - Numero inattesi potenzialmente a rischio / inattesi valutati "da non segnalare" dalla Rete (SOS). Servizio AML-CFT
+                                                                                 Rapporto tra l'esposizione complessiva verso i soggetti collegati e il capitale ammissibile (somma degli elementi
+                                                                                                                                                                                                         Servizio Integrazione Rischi e
+ 66 Related Parties   Total Exposures on Related Parties / Eligible Capital  %   di capitale di classe 1 - di cui all'articolo 25 del Reg. Europeo 575/2013 - e di classe 2 - di cui all'articolo 71 del
+                                                                                                                                                                                                         Reporting
+                                                                                 Reg. Europeo 575/2013 pari o inferiore a un terzo del capitale di classe 1).
+                                                                                                                                                                                                                                        31
+

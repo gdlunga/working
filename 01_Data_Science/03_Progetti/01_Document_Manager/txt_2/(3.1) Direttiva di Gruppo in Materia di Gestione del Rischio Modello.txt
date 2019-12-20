@@ -1,0 +1,897 @@
+                                                       E seg u it a macro
+DATA:                         GG/MM/2018                                  DATA SCADENZA:       Fino a revoca
+CODICE TESTO:                 D 00000 001 NMIG                            CODICE RISORSA
+OGGETTO:
+                              Direttiva di Gruppo in materia                                                 di
+                              Gestione del Rischio Modello
+MACROPROCESSO:                RISK MANAGEMENT
+PROCESSO:                     Gestione del Rischio Modello
+SEGMENTO DI MERCATO:          Non applicabile
+(prevalentemente interessato)
+RUOLI:                        Capogruppo - Responsabile di struttura; Capogruppo - Addetto
+(prevalentemente interessati)
+SERIE/SETTORE/SERVIZIO:       23         /   2         /                  1
+TESTI ANNULLATI:
+PRESA VISIONE:                1            senza formalità
+ASSISTENZA DI TIPO            .
+TECNICO/OPERATIVO:
+STRUTTURA EMANANTE:           (2121)       AMM. DELEG.
+FIRMA PER APPROVAZIONE CONTENUTI
+FIRMA:                                                                                   DATA:
+FIRMA:                                                                                   DATA:
+FIRMA PER APPROVAZIONE ASPETTI FORMALI
+FIRMA:                                                                                   DATA:
+FIRMA PER PUBBLICAZIONE
+FIRMA:                                                                                   DATA:
+
+                      Oggetto:   Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Pag. 2 di 21
+                                                     INDICE
+1. QUADRO DI SINTESI .................................................................................................. 4
+   1.1. PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI ............................................... 4
+   1.2. AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE .................. 4
+   1.3. DESTINATARI E MODALITA’ DI RECEPIMENTO ......................................................... 4
+   1.4. DECORRENZA ..................................................................................................... 5
+   1.5. ELENCO FUNZIONI INTERESSATE .......................................................................... 5
+2. ASPETTI GENERALI .................................................................................................... 5
+   2.1. DEFINIZIONE DI MODELLO INTERNO ..................................................................... 5
+   2.2. DEFINIZIONE DEL RISCHIO MODELLO E PERIMETRO DI APPLICAZIONE ..................... 6
+   2.3. FRAMEWORK DI MODEL RISK MANAGEMENT .......................................................... 7
+   2.4. MODEL RISK GOVERNANCE .................................................................................. 7
+   2.5. STANDARD DOCUMENTALE DEI MODELLI INTERNI .................................................. 7
+     2.5.1. Generalità .................................................................................................... 7
+     2.5.2. PROTOCOLLO DI SVILUPPO E MONITORAGGIO ................................................. 8
+     2.5.3. SCHEDA MODELLO ........................................................................................ 8
+     2.5.4. REGISTRO DEL MODELLO ............................................................................... 9
+     2.5.5. MONITORAGGIO MODELLI .............................................................................. 9
+     2.5.6. INVENTARIO DEI MODELLI ........................................................................... 10
+   2.6. MODEL CHANGE ................................................................................................ 10
+   2.7. CICLO DI VITA DEI MODELLI INTERNI .................................................................. 11
+     2.7.1. Generalità .................................................................................................. 11
+     2.7.2. ANALISI DEI REQUISITI ............................................................................... 11
+     2.7.3. SVILUPPO DEL MODELLO .............................................................................. 11
+     2.7.4. TESTING .................................................................................................... 11
+     2.7.5. VALIDAZIONE ............................................................................................. 12
+     2.7.6. IMPLEMENTAZIONE ..................................................................................... 12
+     2.7.7. UTILIZZO DEL MODELLO .............................................................................. 12
+     2.7.8. MANUTENZIONE .......................................................................................... 12
+   2.8. VALUTAZIONE E MISURAZIONE DEL RISCHIO MODELLO ........................................ 13
+     2.8.1. Generalità .................................................................................................. 13
+     2.8.2. VALUTAZIONE DEL RISCHIO MODELLO .......................................................... 13
+     2.8.3. QUANTIFICAZIONE DEL RISCHIO MODELLO .................................................... 13
+   2.9. REPORTING ...................................................................................................... 14
+3. ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO ................................................. 14
+   3.1. RESPONSABILITÀ DELLA CAPOGRUPPO E DELLE SOCIETA’ DEL GRUPPO .................. 14
+
+                      Oggetto:   Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Pag. 3 di 21
+   3.1. RESPONSABILITA' DEGLI ORGANI DI VERTICE DELLA CAPOGRUPPO E DELLE SOCIETA’
+   DEL GRUPPO ........................................................................................................... 14
+     3.1.1. ORGANO CON FUNZIONE DI SUPERVISIONE STRATEGICA ................................ 14
+     3.1.2. ORGANO CON FUNZIONE DI CONTROLLO ....................................................... 16
+   3.2. RESPONSABILITA’ DELLE FUNZIONI AZIENDALI DELLA CAPOGRUPPO E DELLE SOCIETÀ
+   DEL GRUPPO ........................................................................................................... 17
+     3.2.1. CHIEF RISK OFFICER - CRO .......................................................................... 17
+     3.2.2. FUNZIONE DI SVILUPPO MODELLI ................................................................. 18
+     3.2.3. FUNZIONE MODEL USER .............................................................................. 19
+     3.2.4. FUNZIONE SISTEMI INFORMATIVI ................................................................. 19
+     3.2.5. FUNZIONE MODEL RISK MANAGEMENT (MRM) ................................................ 20
+     3.2.6. FUNZIONE DI CONVALIDA INTERNA .............................................................. 20
+     3.2.7. FUNZIONE ICAAP ........................................................................................ 21
+     3.2.8. FUNZIONE DI REVISIONE INTERNA ............................................................... 21
+4. ELENCO TESTI NORMATIVI DI RIFERIMENTO .............................................................. 21
+
+                        Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                        Codice: D000XX 001          Pubblicato il: 08/08/2018            Pag. 4 di 21
+1. QUADRO DI SINTESI
+     1.1. PRINCIPALI CONTENUTI NORMATIVI E INFORMATIVI
+La Direttiva definisce i principi e le linee guida adottate dal Gruppo MPS per il processo di
+“Gestione del Rischio Modello (Model Risk Management - MRM)”.
+Il processo è volto ad identificare, valutare e gestire il Rischio Modello durante il corso del ciclo
+di vita dei modelli interni rientranti nel perimetro di applicazione della presente direttiva.
+Il processo è accentrato presso la Capogruppo che è responsabile della Gestione del Rischio
+Modello definendo criteri, responsabilità, processi e strumenti.
+Il processo ha l’obiettivo di:
+     <U+F0A7>   fornire la definizione di “modello interno” per il Gruppo MPS;
+     <U+F0A7>   definire gli standard documentali previsti per l’utilizzo dei suddetti modelli interni;
+     <U+F0A7>   descrivere il ciclo di vita previsto a fronte dell’adozione dei modelli interni;
+     <U+F0A7>   definire il “rischio modello” ed il “perimetro di applicazione” in termini di valutazione e
+         misurazione del rischio modello per il Gruppo MPS
+     <U+F0A7>   definire il modello di governance, i ruoli e le responsabilità degli Organi e delle Funzioni
+         coinvolte nella gestione del Rischio Modello.
+In particolare, il “Rischio Modello” è definito come “…la perdita potenziale che un ente potrebbe
+subire a seguito di decisioni che potrebbero essere principalmente basate sui risultati di modelli
+interni, a causa di errori nello sviluppo, nell'attuazione o nell'utilizzo di tali modelli” ai fini della
+determinazione del capitale interno.
+Nello specifico la valutazione e misurazione del Rischio Modello trova applicazione con
+riferimento ai seguenti modelli interni AIRB, AMA, IRRBB.
+  Prima di stampare questo documento, assicurarsi che sia strettamente necessario.
+     1.2. AGGIORNAMENTI E MODIFICHE RISPETTO ALLA VERSIONE PRECEDENTE
+Prima versione del documento.
+     1.3. DESTINATARI E MODALITA’ DI RECEPIMENTO
+La presente Direttiva è rivolta alla Banca MPS e alle seguenti Società del Gruppo che utilizzano
+i risultati dei modelli inclusi nel perimetro nella determinazione del requisito prudenziale (MPS
+Capital Services Banca per le Imprese S.p.A., MPS Leasing & Factoring S.p.A., Widiba S.p.A.) e
+ed al Consorzio Operativo Gruppo MPS in qualità di Società del Gruppo con compiti di gestione
+dei sistemi informativi.
+Le Società del Gruppo recepiscono la Direttiva con delibera dei propri Organi Apicali,
+adeguando responsabilità, processi e regole interne, in coerenza con le proprie caratteristiche
+e dimensioni.
+Il recepimento deve essere notificato alle seguenti Strutture e Funzioni della Capogruppo:
+-    Struttura cui fa capo il riporto societario della singola società;
+-    Servizio Validazione Sistemi di Rischio;
+-    Area Organizzazione.
+
+                     Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                     Codice: D000XX 001            Pubblicato il: 08/08/2018               Pag. 5 di 21
+    1.4. DECORRENZA
+Data di pubblicazione.
+    1.5. ELENCO FUNZIONI INTERESSATE
+Di seguito è riportata l’associazione tra le Funzioni citate nella descrizione delle attività
+disciplinate dalla Direttiva e le strutture del Gruppo MPS.
+Nome Convenzionale
+                                      Struttura Organizzativa
+Funzione
+                                      BMPS:
+                                      <U+F02D> Direzione Chief Risk Officer – Area Lending Risk Officer -
+                                         Servizio Credit Risk Models
+Sviluppo Interno
+                                      <U+F02D> Direzione Chief Risk Officer – Area Operating Risk Officer –
+                                         Servizio Rischi Operativi
+                                      <U+F02D> Direzione Chief Risk Officer – Area Financial Risk Officer –
+                                         Servizio Rischi di Liquidità ed ALM
+                                      BMPS:
+Model Risk Management (MRM)
+                                      <U+F02D> Direzione Chief Risk Officer - Servizio Validazione Sistemi di
+                                         Rischio
+                                      BMPS:
+Convalida Interna
+                                      <U+F02D> Direzione Chief Risk Officer - Servizio Validazione Sistemi di
+                                         Rischio
+                                      BMPS:
+Revisione Interna
+                                      Direzione Chief Audit Executive – Area Revisione Specialistica
+Sistemi Informativi                   Consorzio Operativo di Gruppo
+                                      - Area Applicazioni Governo
+                                      BMPS:
+Model User
+                                      <U+F02D> Chief Risk Officer
+                                      BMPS:
+ICAAP                                 Direzione Chief Risk Officer – Area Financial Risk Officer - Servizio
+                                      Integrazione Rischi e Reporting
+NOME CONVENZIONALE RUOLO              RUOLO AZIENDALE
+CRO                                   Responsabile della Direzione Chief Risk Officer
+2. ASPETTI GENERALI
+    2.1. DEFINIZIONE DI MODELLO INTERNO
+Per il Gruppo MPS un “modello interno” è definito come un metodo quantitativo, sistema o
+approccio di un sistema di misurazione dei rischi, basato su teorie o assunzioni di natura
+
+                        Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                        Codice: D000XX 001               Pubblicato il: 08/08/2018      Pag. 6 di 21
+statistica, matematica, economica e finanziaria che, attraverso l’elaborazione di dati di input, è
+volto ad ottenere stime quantitative utilizzate nella misurazione del risk to capital, previa
+validazione dello stesso.
+Sono, in particolare, modelli interni quei modelli utilizzati per la determinazione del requisito
+patrimoniale, autorizzati dall’Autorità di Vigilanza (1030D01482), nonché quei modelli interni,
+rientranti nel perimetro di Convalida Interna (1030D02208) approvato annualmente dal CdA
+con il Validation Plan, ed utilizzati per la valutazione dell’adeguatezza patrimoniale
+(1030D01308).
+     2.2. DEFINIZIONE DEL RISCHIO MODELLO E PERIMETRO DI APPLICAZIONE
+Il Gruppo MPS adotta una definizione di Rischio Modello in linea con la direttiva 2013/36/EU
+(CRD IV)1. In particolare, il “Rischio Modello” è definito come “…la perdita potenziale che un
+ente potrebbe subire a seguito di decisioni che potrebbero essere principalmente basate sui
+risultati di modelli interni, a causa di errori nello sviluppo, nell'attuazione o nell'utilizzo di tali
+modelli” ai fini della determinazione del capitale interno.
+Tale definizione definisce pertanto la linea di confine del Rischio Modello rispetto ad altri rischi
+quali il Rischio di Business, il Rischio Strategico, il Rischio Operativo o il Rischio Residuo.
+Coerentemente alla definizione di modello interno, esula dalla definizione di Rischio Modello la
+componente di rischio connessa ai processi ancillari ai modelli di misurazione nonché a quei
+processi che, prendendo in input le stime derivanti dai modelli, vanno a modificarne i risultati,
+quali ad esempio, i processi di assegnazione dei rating (es. override), o a combinarne le
+evidenze con dati di altra origine. Tali processi possono ad esempio contribuire al generico
+rischio operativo.
+Il Rischio Modello è valutato con riferimento alle seguenti possibili cause (di seguito anche
+driver MRM):
+     <U+F0B7>    carenze nel design e nella metodologia alla base di un modello interno di misurazione
+          nonché errori nella fase di implementazione dello stesso;
+     <U+F0B7>    consistente riduzione della performance del modello interno rispetto a quella rilevata in
+          fase di stima e validazione/approvazione dello stesso;
+     <U+F0B7>    obsolescenza presunta del modello interno rispetto alla durata predefinita del ciclo di
+          vita;
+     <U+F0B7>    bassa qualità dei dati utilizzati per la stima dei modelli interni rivenienti dai controlli
+          effettuati all’interno della piattaforma di Data Governance di Gruppo;
+     <U+F0B7>    errata applicazione di un modello interno (c.d. Model Misuse), intesa come applicazione
+          dello stesso per finalità diverse da quelle per cui questo è stato progettato, sviluppato,
+          validato ed eventualmente approvato;
+     <U+F0B7>    rilievi sollevati dall’Autorità di Vigilanza a valere sui modelli.
+Nello specifico la valutazione e misurazione del Rischio Modello trova applicazione con
+riferimento ai seguenti modelli interni:
+<U+F0B7>    Modelli AIRB del Sistema dei Rating Interni autorizzati per la misurazione del Rischio di
+     Credito (1030D01020);
+<U+F0B7>    Modello AMA di misurazione del Rischio Operativo (1030D00906);
+<U+F0B7>    Modelli IRRBB di misurazione del Rischio Di Tasso di Interesse del Banking Book
+     (1030D01508).
+1
+  Direttiva 2013/36/EU (CRD IV) - Articolo 3(1) sotto-paragrafo (11)
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Codice: D000XX 001          Pubblicato il: 08/08/2018            Pag. 7 di 21
+Nei suddetti sistemi di misurazione dei rischi, la valutazione del “Rischio Modello” attiene
+esclusivamente ai modelli interni, rimanendo esclusa la componente connessa ai “processi”
+ancillari al modello stesso o che intervengono a valle di quest’ultimo modificandone i risultati o
+combinandone le evidenze con dati di altra origine.
+    2.3. FRAMEWORK DI MODEL RISK MANAGEMENT
+Il Gruppo MPS ha adottato un framework di Model Risk Management (Gestione del Rischio
+Modello) è composto dai seguenti elementi costitutivi con l’obiettivo di presidiare in maniera
+efficace il Rischio Modello:
+    <U+F0B7>   Model risk governance;
+    <U+F0B7>   Standard documentale modelli interni;
+    <U+F0B7>   Ciclo di vita dei modelli interni;
+    <U+F0B7>   Model Change;
+    <U+F0B7>   Valutazione, misurazione e monitoraggio del rischio modello per i modelli rientranti in
+        perimetro.
+    2.4. MODEL RISK GOVERNANCE
+Il modello di governance adottato dal Gruppo MPS per il presidio del Rischio Modello prevede:
+    <U+F0B7>   Prima linea di difesa, composta dalla Funzione di Sviluppo Modelli (in qualità di
+        “owner” dei modelli interni) dal Model User degli stessi e dalla Funzione Sistemi
+        Informativi, cheprovvede allo sviluppo, al monitoraggio, alla manutenzione,
+        all’implementazione, al funzionamento e all’utilizzo dei modelli interni e presidiano il
+        Rischio Modello nell’ambito dell’esecuzione delle responsabilità assegnate;
+    <U+F0B7>   Seconda linea di difesa, identificata nella Funzione Model Risk Management (MRM) in
+        quanto entità indipendente dalle funzioni coinvolte nella prima linea di difesa, che
+        definisce gli standard documentali per la descrizione dei modelli interni, ne valuta il
+        livello di conformità rispetto alle linee guida definite con la presente direttiva, esprime
+        un giudizio in merito alla performance dei modelli in perimetro e predispone una
+        reportistica periodica con alcuni indicatori relativi all’andamento dei modelli stessi;
+        inoltre può individuare eventuali aree di miglioramento per i modelli interni e ne
+        indirizza la risoluzione da parte delle competenti Funzioni di Gruppo. La quantificazione
+        dell’esposizione al Rischio Modello della Banca è effettuata dalla Funzione ICAAP sulla
+        base del giudizio della Funzione MRM. In ambito MRM sono applicate le metodologie ed
+        il perimetro di analisi proprio della Funzione di Convalida Interna, non comportando così
+        modifiche rilevanti ai fini di quanto previsto dal Regolamento UE N.529/2014;
+    <U+F0B7>   Terza linea di difesa, costituita dalla Funzione di Revisione Interna deputata allo
+        svolgimento dei controlli di terzo livello, che esercita le responsabilità definite all’interno
+        della Policy di Gruppo in materia di Sistema di Controlli Interni (1030D00793 - Policy di
+        Gruppo in materia di Sistema dei Controlli Interni).
+    <U+F0B7>   Organi di Vertice che approvano il processo per lo sviluppo e la convalida dei sistemi
+        interni di misurazione dei rischi e ne valutano periodicamente il corretto funzionamento
+        anche ai fini della valutazione del Rischio Modello.
+    2.5. STANDARD DOCUMENTALE DEI MODELLI INTERNI
+        2.5.1. Generalità
+I Modelli Interni devono essere adeguatamente descritti                 e monitorati    mediante      la
+predisposizione della documentazione di seguito indicata:
+
+                        Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                        Codice: D000XX 001          Pubblicato il: 08/08/2018           Pag. 8 di 21
+     <U+F0B7>   Protocollo di sviluppo e monitoraggio, con indicazione della filosofia sottostante al
+         modello, delle specifiche sul ciclo di vita dei modelli, delle principali scelte
+         metodologiche applicate;
+     <U+F0B7>   Scheda modello, contenente il dettaglio dei Margini di Conservativismo (MOC) applicati
+         e dei relativi criteri di quantificazione;
+     <U+F0B7>   Registro del modello;
+     <U+F0B7>   Monitoraggio modelli;
+     <U+F0B7>   Inventario dei modelli.
+Uno stesso documento, tra quelli sopra definiti, può descrivere due o più modelli interni facenti
+parte di uno stesso sistema di misurazione dei rischi. Analogamente è ammesso che uno
+stesso documento, all’interno di sezioni distinte, possa riportare due o più documenti
+metodologici tra quelli sopra indicati.
+         2.5.2. PROTOCOLLO DI SVILUPPO E MONITORAGGIO
+All’interno del documento di “Protocollo di Sviluppo e Monitoraggio” del modello devono essere
+riportati:
+<U+F0B7>    Filosofia del modello: deve essere definita la filosofia del modello. In particolare, nella
+     descrizione della filosofia del modello rientrano la finalità per cui il modello è stato ritenuto
+     necessario, approccio metodologico, perimetro di applicazione e lunghezza della serie
+     storica di riferimento per la stima dei parametri nonché, ove possibile, la finalità di
+     correlazione con il ciclo economico;
+<U+F0B7>    Ciclo di vita del modello: descrive, in particolare, la durata massima di utilizzo in
+     produzione di un determinato modello. Tale durata massima si applica ancorché il modello
+     non presenti problemi di performance. In presenza di sforamento di determinati triggers
+     definiti all’interno del protocollo di monitoraggio il ciclo di vita dei modelli viene rivisto con
+     scadenze più ravvicinate;
+<U+F0B7>    Protocollo di sviluppo: devono essere definite le regole da utilizzare per lo sviluppo
+     modellistico. Ad esempio per i modelli di rischio di credito devono essere definite le regole
+     per la selezione delle variabili, la verifica della loro significatività (correlazione e
+     predittività). Nel documento devono essere descritte eventualmente le modalità di gestione
+     dei c.d. “Outliers” nonché dei criteri di sostituzione dei valori mancanti o ritenuti non
+     coerenti. Deve essere riportato il dettaglio dei test da applicare alle singole variabili (ove
+     applicabili) ai fini di comprovare i criteri sopra definiti nonché i rispettivi limiti di
+     accettabilità;
+<U+F0B7>    Protocollo di monitoraggio: documenta le valutazioni di performance (KPI), tra cui rientrano
+     le analisi di backtesting, previste per i modelli interni e le relative soglie di accettabilità. Il
+     documento, inoltre, descrive la combinazione di condizioni in base alle quali si debba
+     ritenere che le performance, assolute o relative rispetto a quelle realizzate in stima,
+     misurate con uno più KPI, si siano degradate al punto tale da richiedere un’azione
+     correttiva. A fronte della violazione di ogni KPI, o combinazione di questi, tenuto conto
+     anche della rilevanza e della severità della violazione, il documento predefinisce quali azioni
+     debbano essere intraprese. Lo stesso documento declina con quale frequenza i KPI
+     debbano essere monitorati nonché le modalità di informativa circa le anomalie riscontrate.
+         2.5.3. SCHEDA MODELLO
+La ”Scheda Modello” deve riportare un set minimo di informazioni relativo all’ultima versione
+del modello interno. Le informazioni minime necessarie sono di seguito elencate:
+<U+F0B7> Anagrafica del documento: informazioni generali sul documento e cronologia delle versioni e
+   delle variazioni apportate;
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Codice: D000XX 001            Pubblicato il: 08/08/2018        Pag. 9 di 21
+<U+F0B7> Processo di sviluppo: evidenza dell’applicazione delle regole definite nel documento
+   “Protocollo di Sviluppo e Monitoraggio”. La sezione definisce, inoltre, nel dettaglio le
+   evidenze circa l’applicazione dei criteri di stima e ricalibrazione del modello;
+<U+F0B7> Performance e valutazione del modello: valutazione delle performance dei modelli in sede di
+   sviluppo, descrizione dei limiti e delle aree di debolezza del modello ed evidenze di possibili
+   elementi di prudenzialità del modello;
+<U+F0B7> Implementazione del modello: indicazione delle specifiche tecniche per l’implementazione dei
+   modelli e descrizione dell’ambiente di produzione nonché risultati dei test di
+   implementazione del modello stesso;
+<U+F0B7> Utilizzo del modello: ambiti di applicazione del modello;
+<U+F0B7> Margini di Conservativismo (MOC): nel documento devono essere riportate le assunzioni e le
+   scelte che determinano la presenza di un margine di conservativismo quantificabile nelle
+   stime nonché i criteri in base ai quali viene quantificato il MOC. I MOC inseriti nei modelli
+   saranno considerati anche ai fini della quantificazione del Rischio Modello. I MOC devono
+   essere monitorati ed eventualmente rivisti in occasione di ogni ristima o ricalibrazione.
+         2.5.4. REGISTRO DEL MODELLO
+Il “Registro del Modello” deve riportare per ogni modello un set minimo di informazioni relativo
+all’ultima versione dello stesso nonché alle precedenti versioni rilevate con una profondità di
+almeno tre anni. Il registro deve essere manutenuto costantemente in modo da poter garantire
+che questo riporti sempre informazioni aggiornate e corrette.
+In particolare, il registro deve fornire una rappresentazione del modello, contenente un
+riferimento alla documentazione di dettaglio del modello interno, i riferimenti normativi rispetto
+ai quali il modello è conforme nonché i dettagli operativi per l’applicazione dello stesso.
+Tale registro deve riportare, con riferimento alle diverse versioni del modello interno, almeno:
+<U+F0B7> Identificativo del modello, struttura owner dello stesso, progressivo versione, link agli altri
+    documenti previsti dalla presente direttiva;
+<U+F0B7> Obiettivo del modello interno di misurazione;
+<U+F0B7> La data di validazione, l’Organo o la Funzione approvante e la data di approvazione;
+<U+F0B7> Per le modifiche apportate una valutazione quali/quantitativa ai fini della corretta
+    applicazione dei criteri definiti nel Regolamento UE N. 529/2014 e, se applicabile, la data di
+    notifica/istanza alla BCE ed alle eventuali altre competenti Autorità;
+<U+F0B7> La data di implementazione/rilascio della versione;
+<U+F0B7> Una breve descrizione di ogni modifica apportata al modello interno rispetto alla precedente
+    versione e/o alla relativa documentazione;
+<U+F0B7> Perimetro di applicazione e materialità del perimetro di applicazione del modello.
+Il registro deve, inoltre, riportare:
+ <U+F0B7>   Struttura del modello con evidenza di eventuali sub modelli e moduli;
+ <U+F0B7>   Caratteristiche e riferimento alle serie storiche dei dati utilizzate in stima;
+ <U+F0B7>   Metodologia di stima e tipologia di approccio statistico (es. regressione lineare, regressione
+     logistica, media di cella, VaR, ecc.);
+ <U+F0B7>   Eventuale modalità di trattamento dei valori missing e outlier del campione;
+ <U+F0B7>   Ove possibile, le logiche di test applicate ai dati di input;
+ <U+F0B7>   Eventuale presenza di campione di test in sviluppo;
+ <U+F0B7>   Performance del modello: indicatori KPI individuati e valori limite definiti;
+ <U+F0B7>   Sintesi delle principali limitazioni e dei punti di debolezza del modello;
+ <U+F0B7>   indicazioni di eventuali restrizioni per l’utilizzo dei modelli.
+         2.5.5. MONITORAGGIO MODELLI
+Il documento “Monitoraggio Modelli” riporta l’esito dei monitoraggi periodici circa le
+performance dei modelli interni in applicazione. A tal fine il documento è strutturato per data e
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                       Codice: D000XX 001         Pubblicato il: 08/08/2018         Pag. 10 di 21
+riporta l’evidenza delle analisi di monitoraggio della performance dei modelli al fine di dare
+evidenza di come questa si stia evolvendo rispetto alla data di ultima ristima/ricalibrazione.
+          2.5.6. INVENTARIO DEI MODELLI
+Il complesso dei modelli riferibili all’ambito di applicazione del Rischio Modello viene descritto
+nell’ambito di un inventario dei modelli interni.
+IL documento “Inventario dei Modelli” interni ha la finalità di facilitare una comprensione
+olistica di tali modelli in essere e di fornire agli Organi di Vertice del Gruppo MPS un quadro
+d’insieme degli stessi.
+L’inventario, ripartito per ambito di rischio (es. AIRB, AMA, ecc.), riporta per ogni modello le
+informazioni essenziali per la comprensione delle finalità, dello stato autorizzativo e della fase
+del ciclo di vita. Tali informazioni, aggiornate con frequenza annuale, sono coerenti con quanto
+riportato nel registro dei modelli.
+     2.6. MODEL CHANGE
+La necessità di sviluppo di un nuovo modello interno o di aggiornamento di uno esistente
+possono emergere prevalentemente dalla stessa Funzione di Sviluppo o dal Model User. Le
+esigenze originano, altresì, dai rilievi da parte dell’Autorità di Vigilanza.
+I processi di approvazione interna sono differenziati a seconda che si tratti di modelli interni
+regolamentari o gestionali. Peraltro, l’iter autorizzativo da seguire per giungere
+all’approvazione di un Model Change è stabilito in base della materialità del Model Change
+(modifica materiale o meno), in applicazione di quanto previsto dal Regolamento UE
+N.529/2014.
+Per ciò che concerne i modelli interni di misurazione dei rischi utilizzati ai fini
+regolamentari (AIRB e AMA), in accordo con la normativa vigente – art.143 della CRR e il
+Regolamento (UE) - i Model Change possono essere classificati in relazione alla materialità
+come:
+-    Material Model Change (Model Change sostanziali) ovvero modifiche sostanziali ai sensi
+     di quanto previsto dal Regolamento UE N.529/2014 che richiedono l’autorizzazione
+     dell’Autorità di Vigilanza prima di poter essere implementate;
+-    Non Material Model Change (Model Change non sostanziali) ovvero modifiche rilevanti,
+     ma non sostanziali, per le quali il Regolamento UE N.529/2014 prevede la comunicazione
+     all’Autorità di Vigilanza prima dell’implementazione (notifica ex-ante) o successivamente
+     all’implementazione (notifica ex-post).
+Per ciò che concerne il modello di misurazione del rischio gestionale IRRBB (ovvero di
+secondo pilastro) i Model Change possono ugualmente essere classificati in:
+-    Material Model Change, ovvero modifiche ai modelli, che sulla base della materialità,
+     richiedono l’approvazione da parte del Consiglio di Amministrazione;
+-    Non Material Model Change, ovvero modifiche ai modelli di bassa materialità per la cui
+     implementazione non è richiesta la preventiva approvazione da parte del Consiglio di
+     Amministrazione (rendicontazione ex-post).
+L’attribuzione degli interventi a una delle categorie sopra riportate avviene tenendo in
+considerazione sia aspetti qualitativi (ad es. modifiche della definizione di default ai sensi
+dell'articolo 178 del regolamento (UE) n. 575/2013) sia aspetti quantitativi (ad es. impatto in
+termini di RWA delle variazioni proposte). Per ciò che concerne i modelli avanzati per la
+misurazione dei rischi di primo pilastro la valutazione circa la classificazione da attribuire
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Codice: D000XX 001          Pubblicato il: 08/08/2018           Pag. 11 di 21
+all’intervento sono eseguite in accordo con il Regolamento UE N.529/2014. In particolare, in
+relazione alle valutazioni di ordine quantitativo, il Regolamento UE prevede specifiche soglie in
+termini di importi ponderati per il rischio (RWA) e/o requisiti patrimoniali.
+     2.7. CICLO DI VITA DEI MODELLI INTERNI
+         2.7.1. Generalità
+Il ciclo di vita dei Modelli Interni prevede diversi momenti. La figura seguente riporta il ciclo di
+vita dei modelli definito dal Gruppo MPS.
+         2.7.2. ANALISI DEI REQUISITI
+L’analisi dei requisiti e le linee guida per lo sviluppo dei modelli interni sono documentate e
+portate all’attenzione delle Funzioni di Controllo aziendali (1030D00793) che poi saranno
+coinvolte nelle successive fasi del ciclo di vita del modello.
+A fronte di modifiche materiali (Material Model Change) ai modelli in essere (cfr. par. 2.6),
+ovvero di rilascio di nuovi modelli, l’analisi dei requisiti e le principali linee guida
+implementative sono sottoposte ad approvazione da parte del CRO.
+         2.7.3. SVILUPPO DEL MODELLO
+Lo sviluppo del modello interno deve avvenire utilizzando un approccio strutturato e in linea
+con le migliori prassi di mercato, adottando metodologie solide, coerenti e comprovate dal
+punto di vista modellistico, matematico e statistico, utilizzando dati robusti e documentando in
+maniera esaustiva, e con le dovute analisi, la tenuta delle scelte adottate durante tutta la fase
+di sviluppo del modello. In tale ottica, devono essere manutenuti ed implementati i protocolli e
+gli standard del Gruppo MPS nel rispetto dei quali i modello sono sviluppati.
+Inoltre, per garantire la piena comprensione e la replicabilità del processo di sviluppo del
+modello da parte delle Funzioni di Controllo aziendali (1030D00793), è necessario siano
+documentate in maniera completa ed accurata le metodologie e le scelte adottate.
+         2.7.4. TESTING
+Lo sviluppo dei Modello Interno deve essere seguito da esaustivi e documentati test. In
+particolare, tra questi rilevano le analisi di verifica delle performance e del potere predittivo dei
+modelli, delle analisi di backtesting che ne comprovino l’efficacia in stima e, anche mediante
+proxy, in applicazione su periodi pregressi sufficientemente lunghi.
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Codice: D000XX 001         Pubblicato il: 08/08/2018           Pag. 12 di 21
+Le metriche di riferimento, le relative soglie di accettabilità, compresi eventuali cut-off, devono
+essere preventivamente documentate così come debbono essere motivate in modo tracciabile
+eventuali scelte adottate a fronte di risultati non soddisfacenti.
+Ove possibile, il test del modello deve ricomprendere anche analisi di benchmarking rispetto ad
+analoghe valutazioni fornite da terze parti (es. rating interni vs rating esterni comparabili).
+L’esito dei test a completamento della fase di sviluppo è parte integrante della Scheda Modello.
+         2.7.5. VALIDAZIONE
+Il Modello Interno sviluppato e testato è sottoposto ad analisi di Convalida secondo gli standard
+metodologici in uso. Tale standard prevede attività di verifica e controllo finalizzate ad
+accertare il livello di conformità del modello rispetto alle predefinite dimensioni di analisi. Nello
+specifico, la Convalida dei sistemi di misurazione dei rischi è normata nella “Direttiva di Gruppo
+in materia di Convalida Interna (1030D02208)”.
+         2.7.6. IMPLEMENTAZIONE
+L’implementazione in produzione di un nuovo modello interno o di modifiche materiali ad uno
+esistente richiede la preventiva approvazione da parte del Consiglio di Amministrazione
+nonché, per i modelli utilizzati a fini regolamentari, dell’Autorità di Vigilanza.
+Una volta che le modifiche al modello interno sono state approvate e, se previsto, autorizzate,
+è generalmente necessario l’intervento della Funzioni Sistemi Informativi per il rilascio in
+produzione del modello secondo una pianificazione concordata con la Funzione di Sviluppo.
+Laddove applicabile, è da prevedersi l’autorizzazione di Convalida per il rilascio in produzione di
+modifiche significative ai modelli (1030D02208).
+Prima del rilascio sono necessari opportuni test volti a confermare la rispondenza di quanto
+predisposto rispetto alle logiche approvate per lo sviluppo del modello nonché la capacity
+operativa dello stesso.
+         2.7.7. UTILIZZO DEL MODELLO
+L’utilizzo del Modello Interno è consentito ai soli fini per i quali lo stesso è stato progettato,
+sviluppato ed approvato. Eventuali perdite connesse in violazione di tale disposto sono valutate
+quali generici errori operativi.
+Nell’ambito dell’uso ordinario dei modelli, gli utilizzatori degli stessi identificano e segnalano
+eventuali anomalie riscontrate, sia per la sistemazione delle stesse che per una valutazione
+complessiva della capacità del modello di fornire stime attendibili.
+         2.7.8. MANUTENZIONE
+La manutenzione del Modello Interno deve avvenire nel continuo accertando dapprima che la
+normativa applicabile coincida con quella vigente al momento in cui lo stesso è stato
+predisposto, stimato e calibrato.
+Inoltre, mediante periodiche analisi deve essere verificata la tenuta delle assunzioni
+modellistiche sottostanti nonché il livello delle performance del modello rispetto a quelle
+accertate in stima, adottando le azioni predefinite nel documento “Protocollo di Sviluppo e
+Monitoraggio” in caso di deterioramento di queste o di violazione di uno o più dei test previsti.
+
+                                Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                                Codice: D000XX 001                        Pubblicato il: 08/08/2018                               Pag. 13 di 21
+Dalla manutenzione del modello può originare l’esigenza di intervenire sul modello mediante
+un Model Change effettivo o, anche, per il normale aggiornamento delle serie storiche su base
+annuale.
+Per la manutenzione del modello sono indispensabili periodiche attività di backtesting e,
+laddove possibile, di benchmarking rispetto ad evidenze terze, interne e/o esterne alla Banca
+(es. rating esterni), di consolidato rilievo.
+Le analisi svolte devono, inoltre, accertare la stabilità delle performance nel tempo e la
+costante applicazione del modello per le finalità per cui è stato predisposto.
+Con cadenza annuale, viene rilasciato un giudizio di Convalida circa la coerenza del modello
+interno rispetto alle previsioni regolamentari vigenti. Sulla base di tale giudizio è poi
+aggiornata la quantificazione del Rischio Modello.
+      2.8. VALUTAZIONE E MISURAZIONE DEL RISCHIO MODELLO
+            2.8.1. Generalità
+Il Rischio Modello per i modelli interni rientranti in perimetro (cfr. par. 2.2) è soggetto ad una
+valutazione e quantificazione da rivedere con frequenza annuale.
+Dalle attività di controllo svolte dalle Funzioni di Controllo aziendali (1030D00793) possono
+essere identificate eventuali aree di miglioramento che rilevano per la valutazione anche del
+Rischio Modello. La gestione di tali aree di miglioramento avviene con modalità definite
+nell’ambito della “Policy in materia di gestione dei GAP segnalati dalle Funzioni con compiti di
+Controllo” (1030D01822).
+            2.8.2. VALUTAZIONE DEL RISCHIO MODELLO
+L’attività di assessment prevede l’assegnazione di un giudizio complessivo a livello di singolo
+sistema di misurazione dei rischi con l’ottica di valutazione del Rischio Modello nella
+determinazione del patrimonio di vigilanza o del capitale interno allocato a copertura del rischio
+stesso. Tale giudizio è determinato secondo un approccio expert-based, tenendo conto di 2
+macro-ambiti di valutazione nonché della materialità e della rischiosità, in termini di Risk
+Weighted Assets (RWA) dei diversi modelli partecipanti ad uno stesso sistema di misurazione
+dei rischi.
+Il primo macro-ambito deriva dalle valutazioni indipendenti svolte dalla Funzione MRM e
+rientranti nel perimetro di applicazione della presente Direttiva. Tale valutazione risulta
+tenendo conto dei driver riportati al Par. 2.22.
+Il secondo tiene conto del numero e della rilevanza delle aree di miglioramento rilevate dalle
+altre Funzioni di Controllo aziendali (1030D00793) nonché dall’Autorità di Vigilanza ed a
+valere sui modelli di uno stesso sistema di misurazione dei rischi.
+            2.8.3. QUANTIFICAZIONE DEL RISCHIO MODELLO
+Il Gruppo MPS prevede, in via prudenziale, di allocare un buffer di capitale per fare fronte al
+Rischio Modello, da quantificare nell’ambito del processo interno di valutazione
+dell’adeguatezza patrimoniale (ICAAP) e da esplicitare - annualmente - in occasione della
+definizione delle soglie minime degli indicatori di Capital Adequacy, nell’ambito del Risk
+2
+  Tale ambito sarà integrato con le evidenze rivenienti dal confronto delle valutazioni ottenute mediante i modelli interni ufficiali della Banca rispetto
+a quanto ottenuto utilizzando Modelli Challenging che insistono sullo stesso ambito di rischio, una volta che questi saranno disponibili e la cui
+validità sarà stata comprovata.
+
+                               Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                               Codice: D000XX 001                          Pubblicato il: 08/08/2018                             Pag. 14 di 21
+Appetite Statement. A tal fine è fatto riferimento a quanto definito nella Relazione Annuale di
+Convalida più recente.
+Tale buffer è determinato sulla base del giudizio relativo al Rischio Modello di ognuno dei
+sistemi di misurazione dei rischi in perimetro ed è determinato considerando anche il numero e
+la rilevanza di eventuali Margini di Conservativismo (MOC), considerati all’interno dei singoli
+modelli e la cui entità sia stata oggetto di un percorso di assessment
+      2.9. REPORTING
+I risultati annuali delle attività di valutazione e misurazione del Rischio Modello sono
+documentati e sottoposti alla valutazione dei competenti Organi aziendali. Le evidenze di
+sintesi circa la valutazione riferita ad ogni sistema di misurazione dei rischi sono riportate in
+allegato alla Relazione Annuale di Convalida ancorché tale integrazione non costituisca
+variazione significativa del framework operativo della suddetta Funzione (1030D02208)3.
+Inoltre, con cadenza semestrale, viene predisposto un report destinato al Comitato Gestione
+Rischi con il quale viene data evidenza analitica di alcuni indicatori di performance dei modelli
+per i quali è valutato il Rischio Modello, delle aree di miglioramento attive individuate dalle
+diverse Funzioni di Controlli e dall’Autorità di Vigilanza nonché della relativa rilevanza. Tale
+report riporta, inoltre, evidenza del trend del numero di aree di miglioramento attive.
+3. ARTICOLAZIONE DELLE RESPONSABILITA’ DI GRUPPO
+      3.1. RESPONSABILITÀ DELLA CAPOGRUPPO E DELLE SOCIETA’ DEL GRUPPO
+Il modello adottato dal Gruppo MPS prevede un unico presidio del processo di “Gestione del
+Rischio Modello” in Capogruppo ancorché a valere per le aziende che siano state autorizzate
+all’utilizzo di modelli interni di misurazione dei rischi ai fini della determinazione del requisito
+prudenziale. A tal fine rilevano i riporti che le Funzioni di Controllo, competenti in tema di
+Rischio Modello, hanno presso le società controllate (cfr. 1030D01114 e 1030D02208).
+Non è prevista la ripartizione del buffer quantificato a fronte del Rischio Modello sul patrimonio
+di vigilanza o capitale interno delle Società controllate.
+  3.1. RESPONSABILITA' DEGLI ORGANI DI VERTICE DELLA CAPOGRUPPO E DELLE
+         SOCIETA’ DEL GRUPPO
+            3.1.1. ORGANO CON FUNZIONE DI SUPERVISIONE STRATEGICA
+Il Consiglio di Amministrazione (C.d.A.) della Capogruppo nell'ambito del proprio ruolo di
+supervisione strategica approva le linee guida ed il quadro organizzativo in materia di gestione
+del Rischio di Modello.
+Con cadenza annuale, il Consiglio di Amministrazione approva:
+3
+  Sono soggette ad istanza alla BCE le modifiche della metodologia e/o dei processi di validazione che inducono l'ente a modificare la valutazione
+dell'accuratezza e della coerenza della stima dei parametri rilevanti di rischio, dei processi di rating o della performance dei propri sistemi di rating
+[…] così come quelle ai processi di validazione […] che determinino una modifica della logica e delle metodologie seguite per la validazione o
+revisione interne del quadro AMA. Sono, invece, soggette alla notifica ex ante le modifiche della metodologia e/o del processo di validazione […] se
+non già classificate sostanziali […] oltre che le modifiche della posizione all'interno dell'organizzazione e delle competenze dell'unità in termini di
+validazione […].
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                       Codice: D000XX 001           Pubblicato il: 08/08/2018           Pag. 15 di 21
+-   la Relazione Annuale di Convalida che in tema di Rischio Modello documenta, tra l’altro, i
+    risultati annuali delle attività di valutazione e misurazione del Rischio Modello svolti dalla
+    Funzione MRM o rivenienti dalle valutazioni della Funzione di Convalida Interna. La
+    Relazione è preventivamente esaminata da parte del Comitato Rischi, del Collegio
+    Sindacale e del Comitato Gestione Rischi;
+-   il piano di estensione (Piano di Roll Out) ed il complesso degli interventi sui modelli interni
+    volti a garantirne la conformità rispetto alle previsioni normative ed alle disposizioni
+    dell’Autorità di Vigilanza, preventivamente esaminata dal Comitato Rischi e dal Comitato
+    Gestione Rischi. In tal ambito assegna le risorse necessarie (umane, tecnologiche e
+    finanziarie) ed assegna le responsabilità;
+-   le priorità e gli interventi significativi necessari per mantenere nel tempo l’efficienza e
+    l’affidabilità dei sistemi IT e dei dati dei sistemi di misurazione dei rischi per cui è valutato il
+    Rischio Modello, previo esame da parte del Comitato Rischi;
+-   le proposte di istanza di autorizzazione preventiva per i nuovi modelli regolamentari e per i
+    model change materiali da inviare all’Autorità di Vigilanza, preventivamente validate dal
+    Comitato Gestione Rischi e dal Comitato Rischi;
+-   le proposte di model change materiali per quanto concerne i modelli gestionali (Pillar 2),
+    preventivamente validate dal Comitato Gestione Rischi e dal Comitato Rischi;
+-   capienza del buffer nel cui ambito rientra, tra l’altro, la copertura del Rischio Modello
+    nell’ambito del processo di valutazione dell’adeguatezza Patrimoniale (ICAAP),
+    preventivamente esaminato dal Comitato Rischi;
+Il Comitato Rischi (1030D00751, 1030D01788) svolge funzioni di supporto al Consiglio di
+Amministrazione della Capogruppo nella definizione e approvazione degli indirizzi in materia di
+gestione del Rischio di Modello.
+Con cadenza annuale esamina:
+-   la Relazione Annuale di Convalida che in tema di Rischio Modello documenta, tra l’altro, i
+    risultati annuali delle attività di valutazione e misurazione del Rischio Modello svolti dalla
+    Funzione MRM o rivenienti dalle valutazioni della Funzione di Convalida Interna. La
+    Relazione è preventivamente esaminata da parte del Comitato Gestione Rischi;
+-   il piano di estensione (Piano di Roll Out) ed il complesso degli interventi sui modelli interni
+    volti a garantirne la conformità rispetto alle previsioni normative ed alle disposizioni
+    dell’Autorità di Vigilanza, preventivamente esaminata dal Comitato Gestione Rischi;
+-   le priorità e gli interventi significativi necessari per mantenere nel tempo l’efficienza e
+    l’affidabilità dei sistemi IT e dei dati dei sistemi di misurazione dei rischi per cui è valutato il
+    Rischio Modello;
+-   le proposte di istanza di autorizzazione preventiva per i nuovi modelli regolamentari e per i
+    model change materiali da inviare all’Autorità di Vigilanza, preventivamente validate dal
+    Comitato Gestione Rischi;
+-   le proposte di model change materiali per quanto concerne i modelli gestionali (Pillar 2),
+    preventivamente validate dal Comitato Gestione Rischi;
+-   capienza del buffer nel cui ambito rientra, tra l’altro, la copertura del Rischio Modello
+    nell’ambito del processo di valutazione dell’adeguatezza Patrimoniale (ICAAP).
+Gli Organi di Supervisione Strategica delle Società del Gruppo (come definiti da
+regolamentazione interna delle stesse) rientranti nel perimetro di applicazione:
+-   recepiscono il quadro organizzativo e le linee guida in materia di gestione del Rischio
+    Modello definite dalla Capogruppo;
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                       Codice: D000XX 001           Pubblicato il: 08/08/2018          Pag. 16 di 21
+-    approvano la Relazione Annuale di Convalida per la Controllata che, tra l’altro, sintetizza i
+     risultati annuali delle attività di valutazione e misurazione del Rischio Modello svolti a livello
+     di Gruppo, previo esame da parte del Collegio Sindacale della stessa Società.
+         3.1.2. ORGANO CON FUNZIONE DI CONTROLLO
+Il Collegio Sindacale della Capogruppo, ed i Collegi Sindacali delle Società del Gruppo,,
+vigilano sull’adeguatezza e sulla rispondenza del sistema di gestione e controllo del Rischio
+Modello ai requisiti stabiliti dalla normativa.
+Il Collegio Sindacale della Capogruppo, in particolare:
+-    vigila sulla esaustività, funzionalità, adeguatezza, affidabilità e rispondenza alla normativa
+     regolamentare ed alle disposizioni delle Autorità di Vigilanza dei sistemi interni di
+     misurazione dei rischi, con particolare attenzione per quelli utilizzati a fini regolamentari o
+     che hanno modelli interni per la determinazione del capitale interno da valutare ai fini
+     dell’adeguatezza patrimoniale e del relativo Rischio Modello;
+-    esamina i riferimenti forniti dalle Funzioni di Controllo aziendali nell’esercizio delle proprie
+     responsabilità (1030D00793) relativi, in particolare, ai modelli interni di misurazione dei
+     rischi per la determinazione del requisito regolamentare ed al relativo Rischio Modello ed
+     esprime un parere circa il rispetto dei requisiti minimi necessari per l’utilizzo dei sistemi
+     stessi.
+3.2.4 - ORGANO CON FUNZIONE DI GESTIONE
+L’Amministratore Delegato della Capogruppo garantisce la corretta realizzazione del quadro
+organizzativo in materia di gestione del Rischio di Modello definito dal Consiglio di
+Amministrazione.
+A tal fine, in relazione anche alle osservazioni emerse dal processo di gestione del Rischio
+Modello, impartisce le disposizioni necessarie affinché i sistemi siano realizzati secondo le linee
+strategiche individuate e nel rispetto della propensione al rischio approvata.
+Gli Organi con funzione di Gestione delle Società del Gruppo (come definiti da
+regolamentazione interna delle stesse) rientranti nel perimetro di riferimento, per gli aspetti ad
+essi applicabili e nell’ambito delle proprie realtà aziendali, sono responsabili dell’attuazione
+degli indirizzi definiti dalla Capogruppo e dal proprio Organo con funzione di supervisione
+strategica.
+Il Comitato Gestione Rischi (1030D00751, 1030D002044), con funzione di supporto
+all’organo con funzione di gestione della Capogruppo, esamina preventivamente la Relazione di
+Convalida Interna di Gruppo che, in allegato riporta una sezione relativa al Rischio Modello, ed
+indirizza il superamento delle aree di miglioramento più rilevanti che emergono dalla Relazione
+stessa o in corso d’anno.
+Il Comitato svolge un ruolo di rilievo ai fini della governance del processo di gestione del
+Rischio Modello in quanto esprime un parere in merito a:
+-    Relazione Annuale di Convalida che in tema di Rischio Modello documenta, tra l’altro, i
+     risultati annuali delle attività di valutazione e misurazione del Rischio Modello svolti dalla
+     Funzione MRM o rivenienti dalle valutazioni della Funzione di Convalida Interna;
+-    piano di estensione (Piano di Roll Out) ed il complesso degli interventi sui modelli interni
+     volti a garantirne la conformità rispetto alle previsioni normative ed alle disposizioni
+     dell’Autorità di Vigilanza;
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                       Codice: D000XX 001          Pubblicato il: 08/08/2018            Pag. 17 di 21
+-    le proposte di istanza di autorizzazione preventiva per i nuovi modelli regolamentari e per i
+     Model Change materiali da inviare all’Autorità di Vigilanza;
+-    le proposte di Model Change materiali per quanto concerne i modelli gestionali (Pillar 2);
+-    analizza gli scenari evolutivi proposti per i modelli rientranti nel perimetro della presente
+     Direttiva e ne valuta gli impatti sulle strategie aziendali, in coerenza con gli obiettivi di
+     Piano Industriale.
+Inoltre, il Comitato Gestione Rischi:
+-    è informato circa l’esito delle notifiche di autorizzazione preventiva riguardanti modelli
+     regolamentari trasmesse all’Autorità di Vigilanza;
+-    monitora il funzionamento e la performance, presidia l’aggiornamento, la coerenza e la
+     documentazione dei modelli rispetto alle evoluzioni normative ed alle disposizioni delle
+     Autorità di Vigilanza;
+-    approva i Model Change non materiali ai modelli interni utilizzati a fini regolamentari e
+     predispone la notifica ex-ante per l’Autorità di Vigilanza;
+-    approva i Model Change non materiali ai modelli interni utilizzati a fini gestionali e ne
+     autorizza il rilascio in produzione;
+-    assicura l’adeguatezza e l’efficacia dell’architettura dei sistemi di misurazione e di reporting
+     dei rischi, valutando la coerenza tra gli indirizzi di business e gli strumenti e processi di
+     gestione del rischio. In particolare, in tal ambito, il Comitato supervisiona le risultanze del
+     processo di MRM;
+-    svolge un ruolo attivo nella valutazione dell’entità del Rischio Modello, sulla base delle
+     indicazioni fornite dalla Funzione MRM, e sulla coerenza del buffer patrimoniale a presidio;
+-    approva la classificazione dei MOC inseriti nell’ambito dei modelli, la quantificazione della
+     prudenzialità sul sistema di misurazione del rischio ed i relativi criteri di determinazione del
+     buffer a copertura del Rischio Modello;
+-    approva la valutazione espressa dalla Funzione MRM con cadenza annuale circa la rilevanza
+     del Rischio Modello per ogni sistema di misurazione dei rischi;
+-    esamina la reportistica inerente il Rischio Modello e supporta l’implementazione delle
+     attività a rimedio.
+     3.2. RESPONSABILITA’ DELLE FUNZIONI AZIENDALI DELLA CAPOGRUPPO E DELLE
+          SOCIETÀ DEL GRUPPO
+         3.2.1. CHIEF RISK OFFICER - CRO
+Il Chief Risk Officer della Capogruppo è responsabile di:
+-    proporre il perimetro in materia valutazione e misurazione del Rischio Modello;
+-    approvare:
+   <U+F0B7>    i documenti “Protocollo di Sviluppo e Monitoraggio”, “Scheda Modello” e “Monitoraggio
+       Modelli”, previo parere della Funzione MRM;
+   <U+F0B7>   l’analisi dei requisiti e le principali linee guida implementative connesse alle modifiche
+       materiali ai Modelli Interni in essere (cfr. par. 2.6), ovvero necessarie per il rilascio di
+       nuovi modelli rientranti nel Piano di Roll Out;
+   <U+F0B7>   la classificazione dei Model Change proposta dalla Funzione di Sviluppo Modelli, previo
+       parere della Funzione di Convalida Interna;
+-    presentare al Comitato Gestione Rischi le modifiche materiali ai modelli interni utilizzati, sia
+     a fini regolamentari che gestionali, per approvazione finale da parte del CdA previo parere
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Codice: D000XX 001          Pubblicato il: 08/08/2018           Pag. 18 di 21
+    del Comitato Rischi, salvo che per i modelli regolamentari è necessario presentare
+    successivamente istanza all’Autorità di Vigilanza, nonché quelle non materiali di
+    competenza dello stesso Comitato.
+        3.2.2. FUNZIONE DI SVILUPPO MODELLI
+La Funzione di Sviluppo Modelli della Capogruppo cura in maniera accentrata la gestione e
+l’aggiornamento dei diversi modelli di misurazione dei rischi, anche per le aziende del Gruppo,
+gestendo processi strettamente funzionali all’utilizzo dei modelli (cfr. 1030D01114); in
+particolare è responsabile di:
+-   sviluppare e manutenere i modelli in linea con i principi definiti all’interno della presente
+    Direttiva;
+-   documentare le limitazioni e le eventuali restrizioni all’utilizzo dei modelli interni nonché le
+    istruzioni per l’utilizzo degli stessi;
+-   fornire tempestiva informativa alla Funzione di Convalida Interna dell’esito delle verifiche
+    previste nel “Protocollo di Sviluppo e Monitoraggio”, ed implementa ed indirizza le azioni
+    predefinite nel documento in caso in cui si verifichi la violazione di uno o più test;
+-   documentare il ciclo di vita ed avvia il processo di Model Change per la ristima o la
+    ricalibrazione dei modelli al superamento della durata in servizio massima prevista,
+    indipendentemente dal livello delle performance dei modelli stessi;
+-   eseguire l’aggiornamento annuale di quei modelli per i quali è richiesto espressamente dal
+    Regolamento UE N. 575/2013 ovvero dalla Circolare Bankit N. 285/2013 e s.a.;
+-   verificare le evoluzioni normative ed il mantenimento della validità delle assunzioni su cui i
+    modelli si basano, sia in stima che in applicazione, avviando il processo di Model Change in
+    caso vi siano modifiche da apportare. Analogamente recepisce le disposizioni delle Autorità
+    di Vigilanza;
+-   identificare direttamente, o recepire se rilevata da altre Funzioni, la necessità di effettuare
+    Model Change ai modelli interni, valutandone i relativi impatti e proponendo la
+    classificazione di materialità che definisce il successivo iter di approvazione. A tal fine cura
+    la coerenza anche delle scelte applicate tra sistemi di misurazione dei rischi diversi, laddove
+    questi condividano le medesime assunzioni modellistiche ed osservazioni sui dati di
+    produzione;
+-   redigere la documentazione circa i Model Change e l’integrazione della documentazione di
+    analisi predisposta d anche dalle altre funzioni Controllo Aziendali nell’esercizio delle proprie
+    responsabilità (1030D00793) per l’applicazione all’Autorità di Vigilanza;
+-   valutare e recepire eventuali richieste di miglioramento dei modelli avanzate dalle Funzioni
+    di Convalida e Revisione Interna, definendo un opportuno action plan;
+-   implementare il piano di Roll-Out approvato dal CdA e comunicato all’Autorità di Vigilanza
+    di concerto con la Funzione di Convalida Interna;
+-   curare la predisposizione, proposta ed approvazione delle linee guida per lo sviluppo dei
+    nuovi modelli o l’implementazione dei modelli interni esistenti, documenta le specifiche
+    tecnico/funzionali per l’implementazione da parte della Funzioni Sistemi Informativi;
+-   definire, eseguire e documentare i controlli di corretta implementazione dei modelli, di
+    concerto con la funzione Sistemi Informativi e concorda con la Funzione di Convalida
+    Interna tempi e modi per l’entrata in produzione di tali evoluzioni. Al termine dei test
+    documenta l’esito delle verifiche al fine di confermare il corretto passaggio in produzione;
+-   predispone gli interventi necessari per risolvere le carenze e gli ambiti di miglioramento
+    riscontrati in ambito Rischio Modello;
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Codice: D000XX 001          Pubblicato il: 08/08/2018           Pag. 19 di 21
+-   svolge i controlli di Data Quality previsti nell’ambito del processo di Data Governance sui
+    dati in ingresso ed in uscita dai modelli interni;
+-   risolve, o laddove necessario, indirizza la risoluzione, degli ambiti di miglioramento di cui è
+    funzione owner, in particolare attinenti tematiche di Rischio Modello.
+-   predispone e manutiene i documenti “Protocollo di Sviluppo e Monitoraggio”, “Scheda
+    modello”, “Registro dei Modelli” e “Monitoraggio Modelli”, garantendo che le informazioni
+    siano complete, accurate e aggiornate;
+-   predisporre e monitorare periodicamente i Margini di Conservativismo (MOC), cura
+    l’approvazione da parte del Comitato Gestione Rischi degli stessi MOC ed il relativo criterio
+    di quantificazione;
+-   eseguire il “Protocollo di Sviluppo e Monitoraggio” accertando l’accuratezza, la capacità
+    predittiva, la performance, l’adeguatezza e la coerenza dei modelli interni le cui evidenze
+    vanno ad integrare il documento circa il monitoraggio dei modelli. Eventuali violazioni di
+    uno o più test sono notificate tempestivamente alla Funzione MRM unitamente alle azioni
+    predefinite da intraprendere;
+-   manutenere, aggiornare e archiviare il “Registro dei modelli” e garantisce nel tempo che le
+    informazioni ivi riportate siano complete, accurate e aggiornate;
+-   fornire alla Funzione MRM, su base periodica nonché a fronte di specifiche richieste, gli
+    elementi utili per contribuire alla corretta ed esaustiva valutazione del Rischio Modello.
+        3.2.3. FUNZIONE MODEL USER
+La Funzione Model User è responsabile di:
+-   identificare e segnalare alla Funzione di Sviluppo Modelli ed alla Funzione MRM eventuali
+    problematiche attinenti tematiche di Rischio Modello riscontrate e da cui potrebbero
+    originare potenziali perdite a seguito di decisioni che potrebbero essere principalmente
+    basate sui risultati di modelli interni. La tempestiva segnalazione è indispensabile sia per la
+    correzione delle eventuali anomalie, laddove confermate, che per una valutazione
+    complessiva dell’esposizione al Rischio Modello per ogni sistema di misurazione dei rischi in
+    perimetro.
+-   indirizzare la risoluzione degli ambiti di miglioramento di cui è funzione owner attinenti
+    tematiche di Rischio Modello.
+        3.2.4. FUNZIONE SISTEMI INFORMATIVI
+La Funzione Sistemi Informativi è responsabile di:
+-   eseguire gli interventi IT necessari alla predisposizione dei modelli interni, alla gestione del
+    change management implementando i requisiti definiti dalle Funzioni Sviluppo e ricevuti per
+    tramite del processo di Demand;
+-   accertare la presenza della preventiva autorizzazione della Funzione di Convalida Interna
+    per la messa in produzione delle modifiche ai modelli interni;
+-   presidiare i sistemi informativi utilizzati dai modelli garantendone il corretto funzionamento
+    e comunicando tempestivamente alla Funzione di Sviluppo Modelli ed alla Funzione MRM
+    eventuali problematiche riscontrate dalla propria attività di controllo o di anomalie emerse
+    in fase di esecuzione delle elaborazioni che possono avere impatto sulla correttezza e
+    validità dei risultati;
+-   assicurare il rispetto degli standard di Gruppo in termini di IT Data Quality e fornisce
+    tempestiva evidenza alle Funzioni di Sviluppo Modelli e MRM circa le anomalie di Data
+    Quality riscontrate in fase di implementazione o di elaborazione dei dati;
+
+                       Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                       Codice: D000XX 001         Pubblicato il: 08/08/2018           Pag. 20 di 21
+-   risolvere, o laddove necessario, indirizzare la risoluzione, degli ambiti di miglioramento di
+    cui è funzione owner, attinenti tematiche di Rischio Modello.
+         3.2.5. FUNZIONE MODEL RISK MANAGEMENT (MRM)
+La Funzione Model Risk Management è responsabile di:
+<U+F02D>    definire gli standard a livello di Gruppo per la valutazione del Rischio Modello;
+<U+F02D>    manutenere l’”Inventario dei modelli” aggiornando con cadenza annuale le informazioni
+     riportate avendo a riferimento quanto presente nel “Registro dei modelli”. L’”Inventario dei
+     modelli” è aggiornato in corso d’anno in occasione dei Model Change;
+<U+F02D>    analizzare ed esprimere un parere vincolante in merito agli aggiornamenti dei documenti
+     “Protocollo di Sviluppo e Monitoraggio”, “Scheda Modello” e “Monitoraggio Modelli”
+     indicando eventuali aree di miglioramento;
+<U+F02D>    esprimere una valutazione annuale circa la rilevanza del Rischio Modello per i modelli
+     interni in perimetro (cfr. par. 2.2). A tal fine, oltre all’esito dei controlli svolti
+     indipendentemente, tiene conto del numero e della rilevanza delle aree di miglioramento
+     rilevate dalle altre Funzioni di Controllo aziendali nonché dall’Autorità di Vigilanza ed a
+     valere sui modelli di uno stesso sistema di misurazione dei rischi;
+<U+F02D>    fornire alla Funzione ICAAP il giudizio circa il Rischio Modello per ogni sistema di
+     misurazione dei rischi;
+<U+F02D>    produrre la reportistica semestrale relativa al Rischio Modello per il Comitato Gestione
+     Rischi;
+<U+F02D>    verificare la coerenza delle modifiche metodologiche dei modelli interni di misurazione dei
+     rischi al fine di accertare l’insorgenza di eventuali anomalie da analizzare prontamente con
+     la Funzione Sviluppo Modelli o con le altre Funzioni di volta in volta competenti;
+<U+F02D>    risolvere, o laddove necessario, indirizzare la risoluzione, degli ambiti di miglioramento di
+     cui è funzione owner, in particolare attinenti tematiche di Rischio Modello;
+<U+F02D>    esprimere un parere vincolante circa la metodologia di definizione e quantificazione dei
+     MOC.
+         3.2.6. FUNZIONE DI CONVALIDA INTERNA
+La Funzione di Convalida Interna è responsabile di verificare la coerenza dei sistemi di
+misurazione del rischio rispetto alla normativa primaria di riferimento, alla regolamentazione
+dell’Autorità di Vigilanza ed ai documenti aziendali, coerentemente con quanto previsto nella
+Direttiva in materia di Convalida Interna dei Sistemi di Misurazione dei Rischi (1030D02208).
+In tal ambito la Funzione esprime per i modelli interni rientranti nell’ambito di valutazione del
+Rischio Modello una valutazione del “Model Risk” in termini di performance dei modelli stessi in
+continuità con il framework metodologico di Convalida approvato dal CdA.
+In particolare, la Funzione di Convalida Interna, nell’ambito delle attività di convalida dei
+modelli interni è responsabile di:
+<U+F02D>    verificare la coerenza dei modelli interni facenti parte dei sistemi di misurazione del rischio
+     rispetto alla normativa primaria di riferimento, alla regolamentazione dell’Autorità di
+     Vigilanza e ai regolamenti aziendali;
+<U+F02D>    verificare periodicamente l’accuratezza delle stime ed esprime un giudizio in merito al
+     regolare funzionamento, alla capacità predittiva e alla performance dei sistemi di
+     misurazione dei rischi e, in particolare, ai connessi modelli interni;
+
+                      Oggetto: Direttiva di Gruppo in materia di Gestione del Rischio Modello
+                      Codice: D000XX 001          Pubblicato il: 08/08/2018            Pag. 21 di 21
+<U+F02D>    fornire autorizzazione preventiva al rilascio in produzione delle modifiche ai modelli
+     esistenti o di nuovi modelli interni che abbiano preventivamente esperito i passaggi
+     autorizzativi previsti da parte del cdA e, laddove previsto, dell’Autorità di Vigilanza;
+<U+F02D>    individuare le aree di miglioramento attinenti ai modelli interni nei confronti delle Funzioni
+     owner aziendali, delle Società Controllate o del Consorzio Operativo MPS ai sensi di quanto
+     previsto in normativa interna di riferimento (cfr. 1030D01822);
+<U+F02D>    garantire il follow-up per la risoluzione delle aree di miglioramento riscontrate e valuta
+     l’adeguatezza delle implementazioni atte a colmare le carenze riscontrate ed attiva i
+     meccanismi previsti qualora si ravvisino ritardi significativi nel completamento delle azioni
+     correttive.
+         3.2.7. FUNZIONE ICAAP
+La Funzione ICAAP è responsabile del processo di valutazione dell’adeguatezza patrimoniale
+(1030D02208) ed in particolare per modelli interni rientranti nell’ambito di applicazione del
+Rischio Modello è responsabile di:
+<U+F02D>    quantificare ai fini ICAAP e RAF il buffer patrimoniale da considerare nelle soglie dei KRI di
+     Capital Adequacy, comprensivo anche del Model Risk, tenuto conto delle risultanze
+     prodotte dalla Funzione MRM;
+<U+F02D>    risolvere, o laddove necessario, indirizzare la risoluzione, degli ambiti di miglioramento di
+     cui è funzione owner, attinenti tematiche di Rischio Modello.
+         3.2.8. FUNZIONE DI REVISIONE INTERNA
+La Funzione di Revisione Interna esercita le responsabilità definite all’interno della Policy di
+Gruppo in materia di Sistema di Controlli Interni (1030D00793 - Policy di Gruppo in materia di
+Sistema dei Controlli Interni).
+4. ELENCO TESTI NORMATIVI DI RIFERIMENTO
+Si riportano di seguito le policy e direttive del Gruppo MPS di riferimento:
+1030D02208         Direttiva di Gruppo in materia di Convalida interna dei sistemi di misurazione
+dei rischi
+1030D01020         Direttiva di Gruppo in materia di Gestione dei Rischi di Credito
+1030D00906         Direttiva di Gruppo in materia di Gestione dei Rischi Operativi
+1030D01508         Direttiva di Gruppo in materia di Gestione del Rischio di Tasso di Interesse del
+Banking Book (IRRBB)
+1030D00793         Policy di Gruppo in materia di Sistema dei Controlli Interni.
+1030D02044        Comitato Gestione Rischi: Regolamento Interno
+1030D01788        Comitato Rischi: Regolamento Interno
+

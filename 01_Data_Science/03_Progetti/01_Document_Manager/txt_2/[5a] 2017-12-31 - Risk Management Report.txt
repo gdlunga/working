@@ -1,0 +1,1235 @@
+                               Risk Management Report
+                             Rischi del Gruppo Montepaschi al 31-12-2017
+Direzione Chief Risk Officer
+
+Indice
+       Executive Summary
+       Sezione 1 – RWA Pillar 1 e Pillar 2
+       Sezione 2 – Analisi dei Rischi del Portafoglio Creditizio
+       Sezione 3 – Analisi di Interest Rate Risk BB
+       Sezione 4 – Analisi dei Rischi di Liquidità
+       Sezione 5 – Analisi dei Rischi di Mercato
+       Sezione 6 – Analisi del Rischio Controparte
+       Sezione 7 – Analisi dei Rischi Operativi
+                                                                 2
+
+Executive Summary - principali evidenze gestionali di dicembre 2017
+Analisi RWA di Gruppo
+ <U+F0A7> Internal RWA e Regulatory RWA pari rispettivamente a 71,6 €/mld e a 60,6 €/mld, entrambi in diminuzione del 3% rispetto al mese precedente.
+Rischio di Credito
+ <U+F0A7> RWA gestionali e EAD gestionali (al netto delle esposizioni verso Banca d’Italia) entrambe in diminuzione a dicembre.
+ <U+F0A7> Portafoglio in bonis (76 €/mld, al netto delle esposizioni verso Banca d’Italia) in diminuzione di circa 2,7 €/mld. PD media al 2,17% (-3 bps rispetto a novembre e -23 bps rispetto a fine 2016).
+ <U+F0A7> Stock del deteriorato in lieve diminuzione (-32 €/mln): a dicembre diminuiscono tutti gli stati di default ad eccezione della sofferenza (+ 545 €/ml, di cui 247 €/mln dovuta a Rizzo Bottiglieri De Carlini).
+ <U+F0A7> Costo del credito di dicembre pari a 456 €/mln: sulla dinamica di dicembre impattano diversi eventi straordinari tra cui il costo della piattaforma Sirio (170 €/mln), l’incremento delle coperture sul perimetro OSI (49
+     €/mln) e la riduzione delle sofferenze del perimetro Valentine (circa 600 €/mln con storno di accantonamenti per circa 49 €/mln). Escludendo tali eventi straordinari, il costo del credito sarebbe pari a 286 €/mln,
+     principalmente riconducibile al nuovo flusso di default, ai peggioramenti e all’incremento delle coperture sugli stabili.
+ <U+F0A7> Il monitoraggio dei limiti operativi sul Rischio di Credito evidenzia diversi nuovi sconfinamenti, principalmente dovuti all’incremento del flusso di default e del danger rate. Rientra la PD media di MPS CS.
+Rischio Tasso del Banking Book
+ <U+F0A7> La sensitivity del Valore Economico e la Sensitivity del Margine di Interesse si attestano a fine 2017 rispettivamente a +45 €/mln e a +20 €/mln per uno scenario di +25bp nei tassi.
+ <U+F0A7> Il monitoraggio dei limiti operativi sul Rischio Tasso Banking Book continua ad evidenziare lo sconfinamento su Widiba (autorizzato fino al 31-12-17) mentre si registra il rientro di quello su MPSCS.
+Rischio di Liquidità
+ <U+F0A7> Indicatore regolamentare LCR in diminuzione, a seguito dell’inclusione negli outflows della scadenza del GGB BMPS 0.5 JA18, evento parzialmente compensato dal significativo incremento del buffer, principalmente
+     dovuto al completo azzeramento dell’impegno dei titoli HQLA in Pooling BCE.
+ <U+F0A7> Indicatore regolamentare NSFR in miglioramento a seguito del minor assorbimento della componente finanziaria .
+ <U+F0A7> Al 31-12-2017 il monitoraggio dei limiti operativi sul Rischio di Liquidità evidenzia:
+     • il permanere dello sconfinamento del Gap Ratio 3Y di Gruppo e di Banca MPS <U+F0D8> Tale sconfinamento è già stato autorizzato dall’AD e non sono previste nel breve specifiche azioni di riequilibrio se non quelle già
+         previste nel Piano di Ristrutturazione (emissione del subordinato avvenuta a gennaio 2018 per 750 €/mln)
+Rischi di Mercato del Portafoglio Finanziario
+ <U+F0A7> Portafoglio di titoli di stato italiani pari a 16,2 €/mld nominali, in diminuzione di circa 2,2 €/mld a dicembre per operatività in aste titoli di Stato sul PNV di MPSCS.
+ <U+F0A7> Riserva Lorda sui titoli AFS pari a -59,4 €/mln, in netto peggioramento (-117 €/mln) per peggioramento del merito creditizio Italia e rialzo dei tassi di interesse.
+ <U+F0A7> Il monitoraggio al 31-12-2017 dei limiti operativi sui Rischi di Mercato non evidenzia sconfinamenti. <U+F0D8> in alcune giornate di dicembre si registrano sconfinamenti sul limite di Stop Loss Annual di MPSCS, per le deleghe di
+     Global Market TP - P&L PNV. Tali sconfinamenti sono già stati autorizzati da parte del livello gerarchico superiore con comunicazione del 13.12.2017. <U+F0D8> al 05/12/2017 si registra uno sconfinamento sui limiti di rischio
+     emittente di MPSCS - Single Issuer (categoria Financial BB+/BB) per esposizione su BANCO BPM; tale sconfinamento, comunicato all’AD di Capogruppo, è rientrato il giorno seguente.
+Rischio Controparte
+ <U+F0A7> RWA complessive del Rischio di Controparte pari a 1.774 €/mln, in diminuzione rispetto al mese precedente (-7,8%).
+Rischi Operativi
+ <U+F0A7> Requisito Patrimoniale pari a 800,9 €/mln, in aumento nel trimestre (+7% circa, pari a 55 €/mln) principalmente per gli accantonamenti effettuati in relazione all’attività di segnalazione di clientela per operatività in
+     diamanti e per l’incremento del Fondo Rischi e Oneri per contestazioni relative agli aumenti di capitale passati.
+ <U+F0A7> Le perdite operative complessive (155,9 €/mln) risultano in significativo aumento rispetto ai trimestri precedenti principalmente per gli accantonamenti in ambito diamanti e accantonamento in ambito AUCAP.
+ <U+F0A7> Sul Legal Risk si segnala una complessiva diminuzione delle contestazioni in termini di numerosità (-8%).
+                                                                                                                                                                                                                             3
+
+Sezione 1 – Regulatory RWA (Pillar1) e Internal RWA (Pillar2) al 31-12-2017
+                           (Eur mln)                                    GROUP MPS
+Regulatory / Internal RWA            dic-16 mar-17 giu-17 set-17 ott-17 nov-17 dic-17                      <U+0394>          <U+0394>%
+                                                                                                                              Internal RWA e Regulatory RWA pari rispettivamente a 71,6 €/mld e a 60,6 €/mld,
+Credit and Counterparty Risk         53.521 52.343 48.656 50.026 49.935 49.702 47.713 -1.990                           -4%    entrambi in diminuzione del 3% rispetto al mese precedente.
+                         Credit Risk  40.477  39.969   38.918     37.487   37.319    37.251    35.600    -1.651 1       -4%
+                               AIRB    29.918  29.865   29.068     28.337   28.052    28.095    26.650    -1.446         -5%
+                          Standard     10.559  10.103    9.850      9.150    9.268     9.156     8.951       -205        -2%  Principali variazioni mensili sui singoli fattori di rischio :
+   Counterparty Risk - Default Risk     2.285   2.180    2.055      1.621    1.683     1.575     1.429      -146        -9%  1<U+F0A7> Credit Risk: la riduzione degli RWA (-1.651€/mln) è dovuta
+                                                                                                                                 • alla parte AIRB (-1.446 €/mln) principalmente per una generale riduzione
+         Issuer Risk Banking Book       1.673   1.648    1.346      1.752    1.775     1.760     1.705        -54       -3%
+                                                                                                                                   dell’esposizione (-857 €/mln) soprattutto sui segmenti PMI, SMALL BUSINESS,
+         Market Risk Banking Book         196     200      186        186      163       152       228          76      47%        AREA GRANDI GRUPPI e CORPORATE TOP, e per flusso in default (-460 €/mln);
+                 Participation Risk     1.715   1.356      845      2.534    2.549     2.528     2.525          -3        0%     • alla parte STANDARD (-205 €/mln) principalmente per una generale riduzione
+                   Real Estate Risk     2.219   2.245    2.199      2.192    2.198     2.199     2.157        -41       -2%        dell’esposizione (-176 €/mln) soprattutto sull’AREA GRANDI GRUPPI.
+                          DTA Risk      3.538   3.251    1.544      2.806    2.804     2.804     2.697      -107        -4%   <U+F0A7> Market Risk TB: la riduzione degli RWA è principalmente dovuta a MPSCS per:
+                                                                                                                              2
+                         Other Risk     1.417   1.495    1.563      1.448    1.444     1.434     1.371        -63       -4%      • Rischio di posizione titoli di debito – Rischio Generico: diminuzione dovuta
+                                                                                                                                   alla riduzione della sensitivity tasso sul comparto governativo
+Market Risk                           3.046   3.307     2.846      3.594   3.217     3.205     2.493       -713       -22%       • Rischio di posizione titoli di capitale – Rischio Generico: decremento per
+          Market Risk Trading Book      2.810   3.044    2.605      3.268    2.829     2.831     2.177       -653 2    -23%        effetto della chiusura della posizione corta sull'indice NASDAQ.
+           Issuer Risk Trading Book       235     263      241        326      387       375       315         -60     -15%
+                                                                                                                             3<U+F0A7> Operational Risk: aumento per lo più dovuto alle perdite contabilizzate nel
+Operational Risk                      8.476 8.426 9.170 9.320 9.320 9.320 10.012                            691     3    7%      quarto trimestre. In particolare si evidenzia un accantonamento al Fondo Rischi
+Counterparty Risk - CVA Risk             480     407      365        351      409       349       346           -3     -1%       e Oneri per l’operatività in diamanti e l’incremento degli accantonamenti a
+REGULATORY RWA                       65.522 64.483 61.038 63.291 62.881 62.577 60.563 -2.015                           -3%       fronte delle cause relative ai precedenti aumenti di capitale.
+Market Risk                           7.476 7.643 7.257 6.800 6.476 5.827 5.450                            -377        -6%   4<U+F0A7> Interest Rate Risk BB: riduzione degli RWA dovuta al refixing semestrale degli
+                    Market Risk AFS     6.733   6.897    6.450      5.954    5.626     4.995     4.620       -374        -7%     impieghi a tasso variabile a m/l termine .
+                    Market Risk HFT       743     747      807        846      849       832       829           -3       0%
+Interest Rate Risk BB                 2.705 1.302         578 2.384 2.523 2.640 1.959                      -681     4 -27%
+Concentration Risk                    1.138 1.105         600 1.132 1.132 1.132 1.145                          13        1%
+Business and Strategic Risk           4.990 4.962 5.018 5.078 4.992 4.901 4.837                               -65      -1%
+INTERNAL RWA                         78.824 76.251 71.699 75.232 75.011 74.095 71.547 -2.548                           -3%
+Gli Internal RWA sono ottenuti da quelli Regulatory sottraendo la componente Regulatory del Market Risk e sommando i
+corrispondenti Internal RWA, oltre ad aggiungere gli Internal RWA a fronte dell’Interest Rate Risk del Banking Book
+(IRRBB), del Concentration Risk e del Business and Strategic Risk.
+                                                                                                                                                                                                                 4
+
+Sezione 2 - Total Credit Portfolio and focus AIRB BONIS
+                                                                                CREDIT RISK
+ Values in €/mln                                 Dec-16     Mar-17       Jun-17      Sep-17      Oct-17  Nov-17  Dec-17  <U+0394>MtD       <U+0394>QtD        <U+0394>YtD
+                Regulatory                       40.477     39.969      38.918       37.487                      35.600              -5,03%   -12,05%
+                                                                                                                                                       • Management RWA decreases vs. November 2017 (-3,72%, -1,3
+                Regulatory (4 banks*)            39.028     38.531      37.492       36.124                      34.266              -5,14%   -12,20%
+                                                                                                                                                         €/bn). This dynamic is fully due to the AIRB portfolio, mainly
+ RWA            Management (4 banks*)            38.285     37.730      36.502       35.239     34.892   34.895  33.597   -3,72%     -4,66%   -12,24%
+                         - of which Standard
+                                                                                                                                                         related to the EAD reduction (-2,1 €/bn), the default flows (0,43
+                                                  8.713      8.236        7.809       7.297      7.231    7.280   7.355    1,04%      0,80%   -15,58%
+                                - of which AIRB  29.573     29.493      28.693      27.943      27.661   27.615  26.242   -4,97%     -6,09%   -11,26%
+                                                                                                                                                         €/bn in the month) and the PD improvement.
+                Standard                         18.789     18.011      22.038       20.301     14.372   14.574  20.318  39,41%       0,08%      8,14%
+                               - of which Bonis  16.299     15.555      19.667      18.084      12.158   12.359  17.828  44,25%      -1,41%      9,38% • Management EAD down by 1,9 €/bn in the month of December
+                            - of which Default    2.490      2.456        2.371       2.217      2.214    2.215   2.490  12,38%     12,28%      -0,01%   excluding the “BANCA D’ITALIA” exposure (increased by 5,5 €/bn on
+ EAD            AIRB                            112.710    112.102    110.282      108.630     108.567  108.562 106.459   -1,94%     -2,00%     -5,55%   Standard Portfolio). The EAD decreases mainly on the Corporate
+                               - of which Bonis  69.147     68.470      66.997      65.745      65.491   65.570  63.704   -2,85%     -3,10%     -7,87%   counterparties (-4,13% vs. November), but also on Retail (-0,99%),
+                            - of which Default   43.563     43.632      43.285      42.885      43.076   42.992  42.754   -0,55%     -0,31%     -1,86%   both affected by a seasonal concentration of repayment at the end
+                Total                           131.498    130.113    132.320      128.931     122.940  123.137 126.776    2,96%     -1,67%     -3,59%   of December. There aren’t big counterparties with a high
+ *MPS, MPS CS, MPS LF, WIDIBA                                                                                                                            contribution to reduction of EAD.
+                                                                 PERFORMING AIRB CREDIT PORTFOLIO
+ Values in €/mln, management risk measures       Dec-16     Mar-17       Jun-17      Sep-17      Oct-17  Nov-17  Dec-17  <U+0394>MtD       <U+0394>QtD        <U+0394>YtD
+                Corporate                        26.104     26.023      25.282       24.546     24.300   24.275  22.949   -5,46%     -6,50% -12,09%
+ RWA            Retail                            3.469       3.471       3.411       3.397       3.361   3.340   3.293   -1,42%     -3,05%     -5,06%
+                Total                            29.573     29.493      28.693       27.943     27.661   27.615  26.242   -4,97%     -6,09% -11,26%
+                Corporate                        41.306     40.950      39.774       38.710     38.549   38.731  37.131   -4,13%     -4,08% -10,11%
+ EAD            Retail                           27.841     27.520      27.223       27.036     26.942   26.839  26.573   -0,99%     -1,71%     -4,55%
+                Total                            69.147     68.470      66.997       65.745     65.491   65.570  63.704   -2,85%     -3,10%     -7,87%
+                Corporate                         3,32%      3,16%        3,17%       3,15%      3,06%    2,99%   2,89%   -3,19%     -8,05% -12,83%
+ PD**           Retail                            1,23%      1,23%        1,16%       1,19%      1,11%    1,11%   1,13%    1,56%     -5,00%     -8,34%
+                Total                             2,46%      2,36%        2,33%       2,32%      2,24%    2,20%   2,14%   -2,80%     -7,84% -12,98%
+                Corporate                        34,55%     34,93%      34,94%      34,91%      34,96%   35,00%  34,90%   -0,27%     -0,01%      1,02%
+ LGD**          Retail                           13,32%     13,31%      13,31%      13,31%      13,32%   13,32%  13,31%   -0,06%      0,00%     -0,09%
+                Total                            25,79%     25,99%      25,93%      25,80%      25,84%   25,90%  25,67%   -0,87%     -0,50%     -0,47%
+ ** Average PD and LGD are calculated without considering the exposures to «Specialised Lending»                        Perimeter: MPS, MPS CS, MPS LF
+                                                                                                                                                                                                                           5
+
+Sezione 2 - Credit Portfolio: AIRB+STD
+                                                                                 PERFORMING CREDIT PORTFOLIO - Stock by risk category
+Values in €/mln - Gross book value *                                  Dec-16         Mar-17       Jun-17    Sep-17    Oct-17    Nov-17   Dec-17  % PTF    <U+0394>MtD        <U+0394>YtD
+                                                                                                                                                                                <U+F0A7> Performing portfolio (net of exposures to the Bank of Italy)
+                                                A                     31.319         30.048       33.265    32.712    26.848    26.934   31.437             16,7%        0,4%
+                                                A**                   27.753         26.585       26.015    25.893    25.693    25.790   24.826  33%         -3,7%    -10,5%
+                                                                                                                                                                                  decreases by approx. 2,7 €/bn vs. November on all rating
+                                                B                     25.883         26.089       25.459    24.966    24.732    24.852   24.182  32%         -2,7%      -6,6%     classes.
+            RATING                              C                     20.376         20.270       20.365    19.230    20.174    19.978   19.270  25%         -3,5%      -5,4%   <U+F0A7> Average PD at 2,17%, down by 3 bps vs. previous month,
+                                                D                       7.795          7.741       7.199     6.742     6.886     6.825    6.557   9%         -3,9%    -15,9%      thank to the quality of new lending (PD at 1,24%) that
+                                                E                       1.681          1.552       1.513     1.436     1.154     1.286    1.207   2%         -6,2%    -28,2%
+                                             Total**                  83.488         82.238       80.552    78.266    78.638    78.732   76.041  100%        -3,4%      -8,9%
+                                                                                                                                                                                  replace outflows with highest average PD (repayments 2,34%,
+                                                                                                                                                                                  overhauling 10,05%).
+                         AVERAGE PD**                                  2,40%          2,38%        2,31%     2,29%     2,20%     2,20%    2,17%              -1,1%      -9,3%
+                          PROVISIONS                                      621            619         592       548       532       572      545              -4,8%    -12,3%
+* Budget format - Loans on/off balance sheet and related provisions both inclusive of default interest                                                             AIRB + STD
+**net of exposures to Bankit
+                                                                              NON PERFORMING CREDIT PORTFOLIO - Stock by risk category
+                                                                                                                                                                               <U+F0A7> Default portfolio substantially stable in the month (-32
+Values in €/mln - Gross book value *                                  Dec-16         Mar-17       Jun-17    Sep-17    Oct-17    Nov-17   Dec-17  % PTF    <U+0394>MtD        <U+0394>YtD        €/mln). All default states decreases except bad loans (+545
+                                 Past due                                 490            483         401       394       440       315      243   1%       -22,7%     -50,3%      €/mln) of which Rizzo Bottiglieri De Carlini 247 €/mln.
+                                 Substandard (Obj. Assessed)              648            491         384       386       335       330      286   1%       -13,3%     -55,8%
+                                 Restructured                           1.542          1.508       1.503     1.539     1.552     1.544    1.506   3%         -2,5%      -2,3%
+            DEFAULT
+                                 Substandard (Subj. Assessed)         13.779         12.948       11.881    10.744    10.745    10.462   10.038  22%         -4,0%    -27,2%
+                                 Bad Loans                            29.628         30.699       31.474    32.080    32.254    32.603   33.148  73%          1,7%     11,9%
+                                 Total                                46.088         46.129       45.642    45.142    45.327    45.254   45.222  100%        -0,1%      -1,9%
+                          PROVISIONS                                  25.464         25.788       29.958    29.964    30.026    30.015   30.447               1,4%     19,6%
+* Budget format - Loans on/off balance sheet and related provisions both inclusive of default interest                                                             AIRB + STD
+                                                                                                   DISTRIBUTION OF ITALIAN CREDIT SYSTEM
+                                                                              Dec-16          Mar-17      Jun-17     Sep-17      Oct-17   Nov-17   Dec-17
+Values in %                                                                                                                                                                   <U+F0A7> Market share stable since the beginning of the year. Slight
+                                     Bonis                                       5,0%            4,9%       4,8%       4,8%                                                      reduction for Bonis exposures. Default portfolio market share
+                                     Past Due/overdue exposures                14,7%            13,4%      11,8%      11,6%
+                                                                                                                                                                                 decreases from 2016 year-end on Past Due/overdue exposures
+          MARKET SHARE               Unlikely to Pay                           13,1%            12,6%      13,1%      12,6%
+                                                                                                                                                                                 and Unlikely to Pay. Grows the market share of the bad loans.
+                                     Bad Loans                                 14,7%            15,1%      16,4%      18,5%
+                                     Total                                       6,6%            6,6%       6,5%       6,6%
+                                                                                                                                                                                                                                               6
+
+Sezione 2 - Credit Portfolio: Credit Cost
+                                                                                                           FLOWS AND COST OF CREDIT                                  Budget
+                                                                                                                                                                                     Delta
+                                                                                                                                                                      YtD
+Values in €/mln                                                                            Dec-16   Mar-17        Jun-17    Sep-17     Oct-17    Nov-17     Dec-17
+                                                                               Volumes      -1.757   -1.089         1.385       -997    -5.957     -5.827    -2.558                              • Credit cost for the month of December at 456
+          PERFORMING               Dynamics of PTF - volumes                   Net Bankit               -985       -2.298    -4.250     -3.545     -3.404    -5.603         -352        -5.251     €/mln (vs. 34 €/mln of the previous month),
+                                                                               Cost           -47,8      -0,8        -12,2     -29,9      -29,5      -27,2     -37,1       -18,3          -18,8    impacted by several extraordinary items: the cost
+Beginning of year stock (dec -16):
+                                   Dynamics of PTF - riskiness
+                                                                               Volumes     87.946   86.398       85.967     85.573     85.229     85.123    84.650      85.028             -379    of Sirio Platform (170 €/mln), the increase of the
+             83.488                                                            Cost            69,0     19,1          16,3        4,5       -0,7      25,1      18,3         -2,9          21,1    coverage in OSI perimeter (49 €/mln), the
+        End of year stock:                                                     Volumes       2.538       647        1.035     1.369      1.687      1.770     2.194       2.029             164
+                                   Net default flow (from PE to NPE)                                                                                                                               reduction in Valentine bad loans securitization
+             76.041                                                            Cost          740,0    128,0         248,0     343,8      428,6      492,5     670,5       540,8          129,7
+                                                                                                                                                                                                   (approax. 600 €/mln with reversal of provision by
+                                                                               Volumes          989      418           636       724        745        808       833         940           -107
+       NON PERFORMING              Cure of default (from NPE to PE)
+                                                                               Cost         -121,7     -59,0         -85,2   -110,8     -115,9     -121,8    -127,5      -153,5            26,0    approx. 49 €/mln). Excluding that effects the
+Beginning of year stock (dec -16):                                             Volumes       6.138    1.454         2.622     3.372      3.608      3.953     4.574       4.228             345    credit cost would be approx. 286 €/mln, mainly
+                                   Worsening
+             46.088                                                            Cost       1.108,1     136,9         328,0     387,1      420,1      404,6     559,5       631,6           -72,1    related to the net default flow, the worsening of
+                                   Improvements
+                                                                               Volumes          883      113           305       429        483        483       511         582             -72   NPE exposure and the increase of coverage on
+        End of year stock:                                                     Cost            13,6      -1,9        -11,7     -26,7      -26,4      -34,2     -30,1       -61,3           31,2
+                                                                                                                                                                                                   stable NPE position
+             45.222                                                            Volumes     36.529   43.914       41.682     39.972     39.549     39.048    37.944      10.260        27.684
+                                   Stable
+                                                                               Cost       2.620,4       78,5    4.095,5    4.174,9    4.124,4    4.095,7   4.237,1     4.063,7           173,4
+                                                                               Volumes     24.968   29.528       29.203     29.071     29.018     28.978    28.865          675       28.190     • Credit cost as of December 2017 at 5.290,7
+                                                            of which bad loans
+                                                                               Cost       1.299,6        7,7    3.959,6    4.011,8    4.025,8    3.986,4   4.047,7     3.994,6            53,2     €/mln, +290,5 €/mln vs. the budget. Excluding the
+                                        of which bad loans object of disposal  Cost                   -12,8     3.938,0    3.956,0    3.957,0    3.881,7   3.833,0     3.876,0           -43,0     bad loans object of disposal (Valentine perimeter)
+                                                                               Volumes     11.561   14.386       12.478     10.901     10.531     10.070     9.079       9.585            -507     the credit cost would be approx. 1.458 €/mln,
+                                                        of which other default
+                                                                               Cost       1.320,8      70,9        135,9     163,1        98,5     109,3     189,4         69,2         120,2
+                                                                                                                                                                                                   +334 €/mln vs Budget, mainly due to the increase
+                                                                  TOTAL COST              4.381,6     300,9     4.578,6    4.742,9    4.800,6    4.834,8   5.290,7     5.000,2           290,5
+                                        Total ex. bad loans object of disposal              4.382       314           641       787        844        953  1.457,7       1.124          333,5      of the coverage in OSI perimeter (approax. 300
+                                                                                                                                                                                                   €/mln YtD not foresee in the Budget) and to the
+                                   % default flow                                           2,80%    2,97%         2,38%     2,10%      2,22%      2,17%     2,52%       2,33%          0,19%
+                                                                                                                                                                                                   cost of Sirio higher than expected (170 €/mln vs.
+                                   % default flow coverage                                 32,60%   25,56%       28,96%     29,54%     29,62%     31,28%    34,31%      30,25%          4,06%
+               KPI*
+                                   % cure rate                                                                                                                           5,71%         -0,65%
+                                                                                                                                                                                                   113 €/mln of the Budget)
+                                                                                            4,83%    6,77%         5,15%     5,03%      4,94%      5,12%     5,06%
+                                   % flow to bad loans from other Npe categories           20,29%   28,97%       27,91%     24,34%     23,36%     23,66%    23,60%      20,90%          2,71%
+* Annualized values                                                                                                                                                               AIRB + STD
+<U+F0D8> Performing Portfolio:
+    • Dynamics of PTF Volumes: despite the volumes are highly lower than the budget (-5,2 €/mld ex. Bank of Italy), the cost for the year remains close to the forecast due to a slight deterioration of portfolio quality
+    • Net Default Flow: cost at 178 €/mln in the month of December, higher of the previous month (when it was 64 €/mln), due to the grow of the volume, equal to 423 €/mln (vs. 83 €/mln of November). The cost of the
+      month is attributable for approx. 45% to the top 20 position (in particular: Società Italiana Condotte, Atac, Consorzio Agrario Nordest). Cost of the year at 670,5 €/mln (+ 130 €/mln vs Budget), with volumes equal to
+      2.194 €/mln (+164 €/mln vs. Bdg) and coverage at 34,3% (+4,06% vs. Budget)
+<U+F0D8> Non Performing Portfolio:
+    • Cure of default: reversal of provisions at 6 €/mln in December, in line with the previous month, but lower than the budget (-26 €/mln YtD)
+    • Worsening: cost at 155 €/mln in the month of December with volumes equal to 621 €/mln (vs. 345 €/mln of November), of which 573 €/mln related to flows from UTP to Bad Loans (approx.250 €/mln related to Rizzo
+      Bottiglieri to be securitized , with no additional provision). Cost of the year at 560 €/mln vs. 631,6 of the Budget
+    • Stable: Cost at 141 €/mln in the month of December of which approx. 45% related to the top 20 names
+                                                                                                                                                                                                                                                      7
+
+Sezione 2 - Recovery on positions in Bad Loans and dynamic «Sofferenze Allargate»
+                                                                                                      GROUP MPS - RECOVERY ON BAD LOANS                            Budget                  Budget
+                                                                                                                                                                               Delta
+   Values in €/mln                                                                   Dec-16      Mar-17     Jun-17     Sep-17     Oct-17     Nov-17     Dec-17      YtD                     2017
+                                                                                                                                                                                                         •    Recovery on bad loans positions higher than expected (+5%)
+             RECOVERY
+                                    Beginning of year stock (dec -16): 29.401           697        171         463        650        720        797       931           887          44         887
+                (YtD)
+   Total recovery / Initial Gross Exposure                                             2,6%       0,6%        1,6%       2,2%       2,4%       2,7%      3,2%          3,0%       0,1%         3,0%
+                                                                                                  GROUP MPS - "SOFFERENZE ALLARGATE"*
+   Values in €/mln                                                                 Dec-16     Mar-17      Jun-17       Sep-17        Oct-17      Nov-17       Dec-17        <U+0394>MtD          <U+0394>YtD
+                                                                                                                                                                                                          •    The “Sofferenze Allargate” decrease by 7% in November
+                                         Performing                                   172        156          161          147          148          138                      -6,3%        -19,4%
+                                                                                                                                                                                                               (last data available at the date of the report)
+                                         UtoP Network                                 639        626          669          403          433          419                      -3,2%        -34,4%
+   CLASSIFICATION
+                                         UtoP and Restructured                      2.259      2.086       1.961         1.508        1.600        1.478                      -7,6%        -34,6%
+                                         TOTAL                                      3.070      2.867       2.790         2.058        2.181        2.036                      -6,7%        -33,7%
+   * Positions classified as bad loans by the system but not by the MPS Group
+                                                                                                                                                                                                 GROUP MPS - "SOFFERENZE ALLARGATE"*
+                                                                                                                            Values in €/mln                                    Dec-16       Mar-17      Jun-17     Sep-17       Oct-17    Nov-17  Dec-17 <U+0394>MtD     <U+0394>YtD
+                               Source: "CENTRALE DEI RISCHI" NOVEMBER 2017                                                                                     up to 25%           492         466         496         395         420        418           -0,5%  -15,1%
+                                                                                                                                                                25%-50%            489         436         431         434         482        446           -7,3%    -8,8%
+      Share current accounts                    Share bad loans on current accounts net system group                        Share current accounts
+                                                                                                                                                                50%-75%            411         371         322         287         300        249         -17,1%   -39,5%
+   group on net system group                                                                                                group on net system group
+                                            up to 25%         25%-50%         50%-75%    over 75%      Total                                                    over 75%        1.678        1.594       1.540         943         979        924           -5,7%  -44,9%
+                            up to 25%                238                54          24        102         418                                                      TOTAL        3.070        2.867       2.790       2.059       2.181      2.036           -6,6%  -33,7%
+                             25%-50%                 197                65          38        146         446                                                                          Share current accounts group on net system group up to 25%
+                             50%-75%                   55               30          50        113         249               Values in €/mln                                    Dec-16       Mar-17      Jun-17     Sep-17       Oct-17    Nov-17  Dec-17 <U+0394>MtD     <U+0394>YtD
+                                                                                                                                                               up to 25%           220         221         232         208         228        238            4,4%     8,2%
+                             over 75%                142             149            53        579         924
+                                                                                                                                                                25%-50%              64          57         84          54          51         54            5,2%  -15,3%
+                                                                                                                            Share bad loans on current
+                                   Total             633             298          165         939       2.036                                                   50%-75%              37          37         34          25          35         24         -31,7%   -36,2%
+                                                                                                                            accounts net system group
+                                                                                                                                                                over 75%           171         151         146         108         106        102           -3,7%  -40,4%
+                                                                                                                                                                   TOTAL           492         466         496         395         420        418           -0,5%  -15,1%
+                                                                                                                                                                                                                                                                           8
+
+  Sezione 2 - Danger rate financial companies and families producing by economic sectors
+                                                                                  PERFORMING                       ESTIMATE                          SYSTEM
+                                                                                                                                                                            ACTUAL GMPS
+                             ECONOMIC SECTORS                                        LOANS                       PROMETEIA                      (1H 2017/estimate
+                                                                                                                                                                             (annualised)
+                     (in order of performing loans GMPS)                        (December 2016)               (October 2016)                        Prometeia)
+                                                                                           €/mnl                    tdec%        rank            tdec%   rank     <U+2206> rank  tdec%     rank  <U+2206> rank
+  REAL ESTATE ACTIVITIES                                                                   6.313                    3,92%         28             3,76%     26        -2   6,38%      26     -2
+  CONSTRUCTION COMPANIES                                                                   6.100                    6,32%         30             8,77%     30        0   13,20%      30      0
+  AGRICULTURE, FORESTRY AND FISHERIES                                                      3.248                    3,42%         25             2,69%     24        -1   5,76%      23     -2
+  UTILITIES                                                                                3.142                    1,41%          4             1,09%     6         2    2,58%       8      4
+  TRANSPORT AND STORAGE                                                                    3.098                    1,51%          7             2,45%     20        13  12,43%      29     22
+  ACCOMODATION AND CATERING SERVICES                                                       2.439                    3,26%         24             2,65%     23        -1   4,64%      16     -8
+  WHOLESALE INDUSTRIAL GOODS                                                               2.283                    2,30%         16             2,15%     16        0    4,97%      18      2
+  FOOD, BEVERAGES AND TOBACCO PRODUCTS                                                     2.000                    2,01%         13             1,90%     12        -1   4,03%      12     -1
+  WHOLESALE CONSUMER GOODS                                                                 1.914                    2,62%         20             2,55%     22        2    5,45%      22      2
+  PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES                                        1.646                    2,40%         17             1,59%     10        -7   8,34%      28     11
+  TEXTILES, LEATHER AND FOOTWEAR, CLOTHING                                                 1.437                    3,02%         23             2,30%     17        -6   5,78%      24      1
+  METAL PRODUCTS, EXCLUDING MACHINERY AND EQUIPMENT                                        1.366                    1,95%         12             1,59%     9         -3   3,09%       9     -3
+  PRODUCT DETAIL AT MEDIUM/LOW BUYING FREQUENCY                                            1.361                    3,45%         26             3,81%     28        2    7,79%      27      1
+  RENTAL, TRAVEL AGENCIES, BUSINESS SUPPORT SERVICES                                       1.258                    2,79%         21             1,70%     11       -10   4,38%      14     -7
+  RESIDUAL ACTIVITY (SECTIONS O P Q R S T)                                                 1.239                    2,21%         15             2,01%     13        -2   3,91%      11     -4
+  MACHINERY AND EQUIPMENT NCA                                                              1.209                    1,62%          8             1,27%     8         0    1,70%       3     -5
+  HIGH-FREQUENCY PRODUCT PURCHASE DETAIL                                                   1.074                    2,12%         14             2,36%     18        4    3,17%      10     -4
+  INTERMEDIATE PRODUCTS                                                                    1.042                    1,71%          9             1,06%     5         -4   2,36%       5     -4
+  CIVIL ENGINEERING                                                                          945                    2,89%         22             3,93%     29        7    4,71%      17     -5   • The danger rate observed on corporate customers in
+  TRADE AND CAR REPAIR MOTORCYCLES                                                           935                    2,62%         19             2,55%     21        2    5,07%      20      1     December 2017 is higher than the previous quarter, in
+  RESIDUAL MANUFACTURING ACTIVITY (DIVISIONS 16, 32,33)                                      874                    2,52%         18             2,08%     14        -4   4,10%      13     -5     line with the first half of 2017
+  METALLURGY                                                                                 769                    1,15%          3             0,76%     2         -1   1,16%       2     -1
+  INFORMATION AND COMMUNICATION SERVICES                                                     652                    1,47%          6             1,19%     7         1    5,18%      21     15
+  FINANCIAL AND INSURANCE ACTIVITIES                                                         646                    1,92%         11             2,45%     19        8    2,30%       4     -7
+                                                                                                                                                                                                 • The danger rate of the group is higher than the system
+  NON-METALLIC MINERAL PROCESSING PRODUCTS                                                   575                    4,06%         29             3,80%     27        -2   4,99%      19    -10
+  ELECTRICAL ENGINEERING AND ELECTRONICS                                                     574                    1,87%         10             2,08%     15        5    4,60%      15      5
+  MEANS OF TRANSPORT                                                                         459                    1,42%          5             1,05%     4         -1   2,40%       6      1
+  FURNITURE                                                                                  364                    3,52%         27             3,24%     25        -2   5,79%      25     -2
+  CHEMICAL AND PHARMACEUTICAL PRODUCTS                                                       351                    0,84%          1             0,55%     1         0    0,54%       1      0
+  ENERGY PRODUCTS AND EXTRACTION                                                             251                    0,92%          2             0,78%     3         1    2,45%       7      5
+  TOTAL SECTORS                                                                           49.566                    2,92%                        2,98%                    6,26%*
+ Internal data related to MDS Enti, Pmi, Pmi Top, Small Business, Grandi Gruppi, MPS LF, MPS CS - default rates of December annualised
+* Budget 5%                                                                                        Correct estimate                   (+/- 5)                     80,0%                   76,7%
+                                                                                                   Pa rti a l l y correct es ti ma te (+/- 10)                    16,7%                   13,3%
+                                                                                                   Wrong estimate                     (over 10)                    3,3%                   10,0%
+                                                                                                                                                                                                                                                            *
+                                                                                                                                                                                                                                                          9
+
+Sezione 2 - Credit Policies: dynamic flows strengthening, overhauling and repayment
+                                                                                                               DYNAMIC FLOWS STRENGTHENING AND OVERHAULING                                                        Budget             Delta volumes
+  Values in €/mln                                            2016                         Mar-17            Jun-17                 Set-17              Oct-17            Nov-17            Dec-17                    YtD                 from bdg
+                                                     volumes           pd            volumes      pd   volumes      pd        volumes      pd     volumes      pd   volumes      pd   volumes      pd      volumes        pd            <U+0394>         <U+0394>%
+                          Strengthening                   4.028 1,34%                      967 1,46%       1.673 1,43%            2.191 1,41%         2.593 1,41%       3.053 1,40%       3.315 1,41%          6.133      1,24%       -2.819     -46,0%
+  Div. RETAIL             Overhauling                       -153 8,01%                      -34 10,20%      -110 9,97%             -206 9,68%          -218 9,60%        -229 9,51%        -268 9,38%           -380      9,37%          112     -29,5%
+                          Repayment                      -5.389         N.D.            -1.338 2,34%      -2.694 2,10%           -3.696 2,09%        -4.222 2,05%      -4.552 2,03%      -5.092 2,00%         -5.312      1,94%          220       -4,1%
+                          Strengthening                   2.186 1,22%                    1.164 1,15%       1.618 1,23%            1.710 1,20%         1.997 1,18%       2.259 1,18%       2.142 1,16%          3.928      1,45%       -1.786     -45,5%
+  Div. CORPORATE          Overhauling                       -603 9,02%                    -126 12,53%       -242 10,88%            -365 10,61%         -376 10,49%       -404 10,64%       -493 10,79%          -343     12,02%         -150      43,8%
+                          Repayment                      -4.533         N.D.              -896 2,83%      -2.040 2,56%           -2.778 2,85%        -3.137 2,77%      -3.283 2,80%      -4.137 2,78%         -4.656      2,91%          520     -11,2%
+                          Strengthening                        73 0,79%                      27 1,05%          37 1,01%               32 1,01%            17 1,01%          23 1,02%          38 1,01%           150      1,04%         -112     -74,6%
+  Div. WEALTH
+                          Overhauling                           -2 4,87%                      -1 6,70%          -5 6,48%               -6 6,51%            -6 6,48%          -8 6,53%          -9 6,76%           -18     6,16%              9   -48,5%
+  MANAGEMENT
+                          Repayment                           -57       N.D.                -20 1,15%         -31 0,99%              -41 1,01%           -50 1,06%         -52 1,06%         -57 1,06%            -55     1,18%             -2      4,0%
+                          Strengthening                          5 0,87%                     15 1,36%          56 1,24%             113 1,18%           145 1,10%         175 1,07%         202 1,08%            231      0,56%           -29 -12,5%
+  WIDIBA                  Overhauling                           -1 5,90%                      -1 8,31%           1 7,82%                2 7,82%             3 7,76%           3 7,52%           4 7,40%             -5    5,99%              8 -184,3%
+                          Repayment                             -8      N.D.                  -1 2,34%          -2 1,68%               -3 1,49%            -4 1,45%          -5 1,53%          -6 1,42%           -26     0,82%            20 -76,3%
+                          Strengthening                   6.291 1,20%                    2.173 1,25%       3.385 1,30%            4.046 1,27%         4.753 1,26%       5.510 1,25%       5.696 1,24%        10.442       1,27%       -4.746     -45,4%
+  TOTAL                   Overhauling                       -759 8,45%                    -162 11,31%       -356 10,37%            -575 10,10%         -597 10,00%       -638 10,03%       -766 10,05%          -745     10,48%           -21       2,8%
+                          Repayment                      -9.986         N.D.            -2.255 2,53%      -4.768 2,29%           -6.518 2,41%        -7.413 2,35%      -7.892 2,35%      -9.291 2,34%       -10.049       2,38%          758       -7,5%
+                                                                                                                                                                                                    Perimeter: BMPS, MPS LF, MPS CS , Widiba – Cash Loans
+   Retail = Valore, Premium e Small Business
+   Corporate = PMI, Enti, Corporate Top, Grandi Gruppi, Filiali Estere, MPS CS e MLS LF
+   Wealth Management = Private e Private Top
+   •    Total strengthening flow lower than budget (-4,7 €/mld) for all divisions, especially for Retail Division (-2,8 €/mld) and Corporate Division (-1,8 €/mld)
+   •    Total overhauling flows higher than budget (+2,8%) due to the Corporate Division entirely (+150 €/mln vs. budget)
+                                                                                                                                                                                                                                                          10
+
+Sezione 2 - Credit Policies: dynamic flows strengthening, overhauling and repayment
+   R
+   E
+   T
+   A
+   I
+   L
+   C
+   O
+   R
+   P
+   O
+   R
+   A
+   T
+   E
+Retail = Valore, Premium e Small Business Corporate = PMI, Enti, Corporate Top, Grandi Gruppi, Filiali Estere, MPS CS e MLS LF
+                                                                                                                               11
+
+Sezione 2 - AIRB Corporate Performing Portfolio – Migration matrix and Flows (credit and counterpart)
+                                                                                             RATING Dec. 2017
+                    AA1     AA2       AA3      A1     A2         A3     B1    B2      B3       C1     C2       C3      D1      D2      D3      E1     E2       E3     #DF      #NO_RTG    Tot.
+              AA1        40     10         8        2    -            3     1     1        0       0      0        0       0     -         0     -      -        -       -            4        69
+        R     AA2        14     63        58       23       4        10     1     0        1       1      0        0       0         0  -           0   -        -       -           19       194
+        A     AA3        12  190        227        57      17        37    12     2        2       1      0        1       1         0  -           0   -           0    -           23       584
+        T      A1         7     13      120      268     111         91    16    56        7       5      1        0       0         0  -        -      -        -          1        59       755
+        I      A2         2     10        33     181     440       312    115    58       40      12      6        3       2         0     0        0      0        0       1        79     1.296
+        N      A3         0      3        55       78    348       957    402   182      162      66     50       16       3         0     0        1      0        0       1       148     2.472
+        G      B1         0      1        11       29    109       499    963   572      238     148     65       30      19         5     1        0      0        0       6       168     2.865
+               B2      -         0         2       21      99      223    808 1.523      690     363    165       99      30       14      4        0      0        0      38       221     4.303
+        D      B3      -         1         5       15      37      121    353 1.127    1.593     894    341      178      57       44     18        4      0        3    138        283     5.211
+        e      C1         0      0         1        3      16        56   124   270    1.110   1.777    894      311     113     105      29        6     14        1    138        296     5.265
+        c      C2      -         0         2        2       5        20    58   148      384     849  1.499      737     241     131      21       11      6       10    110        258     4.493
+        .      C3         0   -            0        1       1        18    34    68      162     331    824    1.408     539     269      55       25     16        4    288        327     4.367
+               D1      -      -            0        0       6         4    11    56       56     137    264      505   1.074     284    140        33     13        6    245        275     3.107
+        2      D2      -      -            0     -          0         1     5     8       51      25     79      214     344     368    161        56     20       11    198         93     1.634
+        0      D3      -      -         -        -       -            0     5     8        9      16     38       79     112     286    273        59     32       23    164         74     1.177
+        1      E1      -      -         -        -          0         8     0     1        2       3     11       14      26       42     64       72     33        9    171         22       479
+        6      E2      -      -         -        -       -            0     0     0        1       3      4        6      15         7    23       22     40       15      93        20       248
+               E3      -      -         -        -       -         -        0     0        2       0      2        1       5         9     8        7      6       52      82        21       196
+              Tot.       76  292        522      681   1.192     2.359  2.908 4.080    4.510   4.630  4.243    3.604   2.581   1.565    796     297    179      135    1.673      2.391    38.716
+     RATING   PD     TD                                                                                              EAD                                    AVG PD
+       AA1    0,03%  0,00%   •     The annualized default                                              Dec. 2016         Dec. 2017       Dec. 2016        Dec. 2017           D bps
+       AA2    0,05%  0,00%
+                                   rate      observed         at                          Upgrading         11.627           10.674            3,93%            1,76%                -63
+       AA3    0,09%  0,00%
+       A1     0,13%  0,09%
+                                   31/12/2017 is higher than                                  Stable        12.637           11.674            2,82%            2,76%                 -2     - 1 bps
+       A2     0,20%  0,11%         the average PD (4,32% vs.                          Downgrading           10.388             9.784           2,01%            4,33%                 64
+       A3     0,30%  0,02%         3,35%), mainly in the                               Default flow           1.673            1.530          10,96%         100,00%                 -37
+       B1     0,46%  0,22%         rating class from B2 to E2                                    Out          2.391                -           3,74%                                  -6
+       B2     0,69%  0,88%
+       B3     1,05%  2,65%                                                                    Cured              349             303         100,00%           10,95%                   8
+       C1     1,59%  2,63%                                                              New Inputs               -             2.490                            2,47%                 -4
+       C2     2,42%  2,45%
+       C3     3,99%  6,59%                                                        Total Performing          38.716           34.924            3,35%            2,94%                -40
+       D1     6,31%  7,87%
+       D2     9,95% 12,13%                                                       •  Average Corporate Portfolio PD down by 40 bps in 2017, mainly due to default flows (that
+       D3    16,03% 13,91%                                                          impact for 37 bps on the overall reduction of the PD), outflows (-6 bps) and new lending (-4
+       E1    22,12% 35,80%                                                          bps). Substantially unchanged the average PD of the positions remaining in bonis, therefore
+       E2    31,63% 37,28%                                                          subject to upgrading or stability or downgrading of the PD.
+       E3    45,00% 41,53%
+     Average  3,35%  4,32%
+                                                                                                                                                                                                     12
+
+Sezione 2 - AIRB Retail Performing Portfolio - Migration matrix and Flows (credit and counterpart)
+                                                                                    RATING Dec. 2017
+                         A1         A2       A3     B1       B2    B3    C1       C2       C3        D1      D2       D3        E1       E2     E3       #DF   #NO_RTG       Tot.
+                 A1       5.120     1.749       526   246      163    68    30       10       24         4       2         1        0        1      2       10        357      8.312
+        R        A2         638     1.537       776   237      161    67    39       14       17         3       2         2      -          3      1        7        162      3.664
+        A
+                 A3         313       413     1.100   625      293   115    52       20       22         6       3         3        1        2      1       11        136      3.114
+         T
+         I       B1         132       232       271   572      841   159    74       29       26        10       5         4        2        2      1       14        163      2.536
+        N        B2           68      132       190   273    1.213   466   125       56       36        13       6         5        2        5      2       13        146      2.749
+        G        B3           45       68        82   134      385 2.436   271       81       56        24      16         8        7        8      3       19        213      3.857
+                 C1           15       30        62    60      118   242   253      123       61        33      23        11        6        9      3       23         94      1.165
+        D
+         e
+                 C2            9       16        25    31       56   101   111      143       62        31      19        13        4        7      2       19         64        712
+         c       C3           18       26        29    32       51    74    62       70      284        49      27        20        9       15      5       62         53        885
+         .       D1            2        4         7    10       17    27    29       35       51        60      19        15        9        9      4       34         31        361
+                 D2            1        2         3     5        6    12    10       16       24        26      41        15        7        7      4       31         14        221
+         2
+         0       D3            1        3         3     3        7    11     9       11       17        15      13        30       10        9      5       39         11        196
+         1       E1            0        1         1     2        3     5     4        6        9         7       5        10       23        6      5       31          6        124
+         6       E2            0        0         1     2        3     6     3        7        8         7       6         8        9       19      8       45          6        137
+                 E3          -          1         0     1        1     1     2        3        2         3       4         3        3        4     14       36          3         83
+                Tot.      6.362     4.213     3.076 2.232    3.316 3.789 1.075      623      698       290     189      149        91     104      59      395      1.456     28.117
+     RATING   PD      TD                                                                                    EAD                                AVG PD
+       A1     0,13%   0,12%      The annualized default rate                                     Dec. 2016      Dec. 2017        Dec. 2016     Dec. 2017         D bps
+       A2     0,20%   0,20%      observed at 31/12/2017 is
+                                                                                  Upgrading            5.134          4.882            2,53%          0,83%            -31
+       A3     0,30%   0,34%      higher than the average PD                                                                                                                     + 7 bps
+                                                                                      Stable         12.846         11.998             0,77%          0,77%                1
+       B1     0,46%   0,56%      (1,40% vs. 1,26%).
+                                                                              Downgrading              8.288          7.816            0,64%          1,86%             37
+       B2     0,69%   0,47%
+                                                                               Default flow              395             380          13,41%     100,00%               -18
+       B3     1,05%   0,50%
+                                                                                         Out           1.456             -             1,37%                              -1
+       C1     1,59%   1,99%
+                                                                                      Cured              154             140        100,00%           8,95%                4
+       C2     2,42%   2,63%
+                                                                                New Inputs                -           2.033                           0,91%               -2
+       C3     3,99%   6,96%
+       D1     6,31%   9,31%                                              Total Performing            28.117         26.870             1,26%          1,15%            -11
+       D2     9,95%  13,98%
+       D3    16,03%  19,90%                                              •  Average Retail Portfolio PD down by 11 bps in 2017, mainly due to default flows (that impact
+       E1    22,12%  25,38%                                                 for 18 bps on the overall reduction of the PD), outflows (-1 bps) and new lending (-2 bps).
+       E2    31,63%  33,17%                                                 Substantially unchanged the average PD of the positions remaining in bonis, therefore subject
+       E3    45,00%  43,82%                                                 to upgrading or stability or downgrading of the PD.
+     Average  1,26%   1,40%
+                                                                                                                                                                                        13
+
+Sezione 2 - Credit Risk Limits – Summary of limits breaches
+                                                                                                                                                                            LIMITS
+                                                                                                                                                                   EXPECTED
+  Risk Limits                                            Aggregation Level 31/03/2017 30/06/2017 31/07/2017 31/08/2017 30/09/2017 31/10/2017 30/11/2017 31/12/2017   SIGN   dec-17
+  Danger Rate on UtoP Loans                                    CLO              6,10%     11,97%     13,76%     14,97%     15,81%     16,61%     18,55%     22,47%     <     21,26%
+  Cured Past Due Exposures                                     CCO                 90        121        121        123        122        117        121        120     >        150
+  Net Default Flow                                        CCO Corporate           349        527        669        674        700        930        971      1.289     <      1.135
+  Average Pd (Airb)                                         CCO Retail          2,02%      1,95%      1,90%      1,92%      1,94%      1,85%      1,85%      1,83%     <      1,77%
+  Cured Past Due Exposures                                    MPS CS               10         10          9         10          9          6          6          6     >           9
+  Danger Rate on UtoP Loans                                   MPS CS            2,19%      6,11%      6,92%      7,94%      8,72%      9,32%      9,54%     16,82%     <     12,15%
+  Exposures Amount (Performing)                               MPS CS            4.981      4.635      4.614      4.602      4.585      4.545      4.555      4.550     <      4.446
+  Average Pd (Airb)                                           MPS LF            3,04%      2,87%      2,80%      2,81%      2,78%      2,81%      2,82%      2,68%     <      2,62%
+  Danger Rate on UtoP Loans                                   MPS LF            5,03%     12,05%     13,17%     13,85%     14,00%     12,29%     14,51%     23,49%     <     17,75%
+  Average PD (AIRB) on New Lending                            WIDIBA            1,36%      1,24%      1,16%      1,17%      1,18%      1,10%      1,07%      1,08%     <      0,58%
+ •    In December it is reported several new limits breaks, mainly related to increase in Default Flows and Danger Rate, as showed in previous section of the document:
+      <U+F0FC> Danger Rate on UtoP Loans of Chief Lending Officer increases at 22,47% vs. 21,26% limit
+      <U+F0FC> Net Default Flows of Corporate Division at 1,3 €/bn vs. 1,1 €/bn limit
+      <U+F0FC> Average PD (AIRB) of Retail Division at 1,83%, slight better than the previous month, but above the limit at 1,77%
+      <U+F0FC> Danger Rate on UtoP Loans of MPS CS increases at 16,82% breaking the 12,75% limit
+      <U+F0FC> Danger Rate on UtoP Loans of MPS LF grows at 23,49%, + 8,98% vs. November, breaking the limit at 17,75%
+                                                                                                                                                                            LIMITS
+                                                                                                                                                                   EXPECTED
+  Risk Limits                                            Aggregation Level 31/03/2017 30/06/2017 31/07/2017 31/08/2017 30/09/2017 31/10/2017 30/11/2017 31/12/2017   SIGN   dec-17
+  Average Pd (Airb)                                           MPS CS            3,56%      3,83%      3,92%      3,99%      3,84%      3,93%      3,59%      3,32%     <      3,36%
+  •    The Average PD (AIRB) of the MPS Capital Services decreases by 27 bps compared to the previous month, falling down the required limit
+                                                                                                                                                                                     14
+
+Sezione 3 – Interest Rate Risk BB 31-12-2017
+ <U+F0A7> Di seguito il monitoraggio dei limiti effettuato rispetto alle deleghe approvate con delibera AD del 16-06-2017:
+                                                               Gruppo MPS                                                                                                                                    Controllate Italia
+                                                     IRRBB Indicators                    Risk Profile 31/12/2017                                                                                            IRRBB Indicators                    Risk Profile 31/12/2017
+Entity        Owner              Limit                                                     Tier 1                         Risk Limit                   Entity              Owner          Limit                                                                              Risk Limit
+                                           Metrics            Scenario           Value                     Limits Check                                                                                                                           Tier 1
+                                                                                          Dec-2017                                                                                                Metrics            Scenario           Value                 Limits Check
+                                                                                                                                                                                                                                                 Dec-2017
+                                                     parallel shift (+100 bps)    175                                                                                                                       parallel shift (+100 bps)     -15       1.245   1,2% Tier 1      2,5% Tier
+                                                                                                                                       Italian Legal Entities
+                                                                                                                                                                 MPS Capital Services              <U+2206>EVE
+                                                     parallel shift (-100 bps)    -131                                                                                                                      parallel shift (-100 bps)     12                  capital        1 capital
+                                                     steepening                   104                                                                                                                       parallel shift (+100 bps)      -3         319    1% Tier 1       2,5% Tier
+                                                                                                                                                                MPS Leasing & Factoring   LOG      <U+2206>EVE
+                                                     flattening                   116                                                                                                                       parallel shift (-100 bps)      -1                 capital        1 capital
+                                            <U+2206>EVE                                                                                                                                                            parallel shift (+100 bps)      -4          93   4,1% Tier 1      2,5% Tier
+                                                     long rate up                 145                                                                                  WIDIBA                      <U+2206>EVE
+                              1) LOG                                                                         -157           -385                                                                            parallel shift (-100 bps)      5                  capital        1 capital
+                                                     long rate down               -157
+                                                                                                                                       €/mln
+                                                     short rate up                 39
+Group    CFO - Finance Dpt.
+                                                     short rate down                -6                                                        Al 31-12-2017 si rileva il rientro del Risk Limit di MPSCS mentre si continua a rilevare lo
+                                                                                                                                              sconfinamento del Risk Limit di WIDIBA:
+                                                     parallel shift (+100 bps)    155
+                                            <U+2206>NII
+                                                     parallel shift (-100 bps)    -101                                                        <U+F0FC> MPSCS: l’assorbimento del limite di MPSCS è pari al 1,2% del Tier 1 Capital, entro il
+                                                                                                                                                limite del 2,5% del Tier 1 Capital. Il rientro è dovuto alla avvenuta contabilizzazione
+                              2) <U+2206>NII                parallel shift (+25 bps)      20
+                                            <U+2206>NII                                                             -22             -50                dell’Aumento di Capitale.
+                              Limit                  parallel shift (-25 bps)      -22
+                                                                                                                                              <U+F0FC> Widiba: L’assorbimento del limite di Widiba è pari al 4,1% del Tier 1 capital
+                              3) Outlier             parallel shift (+200 bps)    303                     0,1% Tier 1     15% Tier 1
+                                            <U+2206>EVE                                                  8,951                                         (sconfinamento autorizzato fino al 31-12-2017). Le attività di hedging intraprese e
+                              Test                                                                          capital        capital
+                                                     parallel shift (-200 bps)      -5                                                          l’aumento di capitale hanno permesso una sensibile riduzione dell’assorbimento
+€/mln                                                                                                                                           patrimoniale; tali misure, idonee per un ritorno entro la soglia delegata, non sono
+                                                                                                                                                risultate sufficienti a causa delle nuova operatività mensile.
+ Al 31-12-2017 non si evidenziano sconfinamenti a livello di Gruppo.
+                                                                                                                                                                                                                                                                                          15
+
+Sezione 3 – Interest Rate Risk BB 31-12-2017
+  80                                                                                                         40
+                                                    <U+2206>EVE [+/-25bps]               65                                                                         <U+2206>NII [+/-25bps]
+                                                                            62                                                                                                                           30
+  60                                                                   57                                    30                                                                                  28  29
+                                                                  52                                                                                         25
+                                                                                      45                                 22    22
+                                                                                                                                                                                                              20
+  40                                                       41                                                20                                                       17
+                                                                                                                                                      13                                     14
+  20                                                                                                         10                                                                6       5
+                                                10
+   0                                                                                                           0
+                                                      -2
+                                                                                             <U+2206>EVE[-25bps]                                       0                                                                              <U+2206>NII[+25bp]
+                                                      -4
+       -11    -8                   -10                                                       <U+2206>EVE[+25bps]                                                                                                                      <U+2206>NII[-25bp]
+ -20                                     -16   -15                                                          -10                     -7                                                -8
+                                                                                                                                          -9                                   -8
+                             -23
+ -40                                                                                                        -20                                                                              -17
+                  -36                                                                                                                                                -19
+                                                          -46                        -44                                                                                                                      -22
+                        -49
+ -60                                                             -54                                        -30
+                                                                      -59  -62                                                                                                                   -30 -31
+                                                                                 -65                                                                                                                     -32
+ -80                                                                                                        -40
+ La Sensitivity del Valore Economico (<U+2206>EVE) è pari a +45 €/mln per uno scenario di incremento
+ dei tassi di 25bp (-44 €/mln per -25bps), con una variazione di circa -20 €/mln rispetto alla
+                                                                                                             La Sensitivity del Margine di Interesse (<U+2206>NII) è pari a 20 €/mln per uno scenario di
+ rilevazione del mese precedente.                                                                            incremento dei tassi di 25bp (-22 €/mln per -25bps), con una variazione di circa -10 €/mln
+                                                                                                             rispetto alla rilevazione del mese precedente.
+ La variazione è da imputarsi principalmente al refixing semestrale degli impieghi a tasso
+ variabile a m/l termine e all’aggiornamento al 31/12 dello stock sofferenze nette.
+ Si evidenzia che nel mese di gennaio 2018 è stata emessa una obbligazione subordinata a tasso
+ fisso per nominali 750 €/mln totalmente coperta con uno swap. Tale copertura è stata                                                                               Bucket Sensitivity
+                                                                                                          €/mln
+ effettuata con un refixing semestrale a giugno e dicembre della gamba variabile, consentendo                 80
+                                                                                                                                                            Analisi di bucket per <U+2206>EVE[+25bps]
+ una naturale mitigazione, anche se parziale, del rischio di repricing del portafoglio di mutui.
+                                                                                                              60
+                                       Analisi per bucket temporali
+ <U+F0FC> [0-2y]: -36€/mln. Sul bucket 5m (maggio 2018) si evidenzia il contributo del ristoro degli                 40
+     obbligazionisti subordinati ricevuto dal MEF. Sul bucket 6m (giugno 2018) si evidenzia l’effetto
+     del repricing semestrale del ptf impieghi floating a mlt e il contributo del ptf sofferenze oggetto
+                                                                                                              20
+     di cessione (circa 5,1€/mld rappresentate come poste patrimoniali in via di dismissione).
+                                                                                                               0
+ <U+F0FC> [3-7y]: +20€/mln, contributo di sensitivity dovuto al ptf titoli non coperto e dalla esposizione
+     generata dal ptf mutui e sofferenze, offsettato dalle operazioni TLTRO II a tasso fisso per                                                                                                                 Sofferenze Nette (Perimetro cessione)
+                                                                                                             -20
+     nominali 16,5 €/mld sul pillar 3y (per la parte non coperta in Fair Value Hedge) e dalle quote                                                                                                              Non Maturing Operation Mismatch
+                                                                                                                                                                                                                 Automatic Options
+     core della raccolta a vista. Sul pillar 7y si evidenzia il contributo del covered bond.                 -40
+                                                                                                                                                                                                                 Sofferenze Nette
+ <U+F0FC> [8-15y]: +87€/mln, dovuto principalmente al contributo della raccolta a vista modellizzata e                                                                                                                  Tasso variabile
+                                                                                                                                                                                                                 Tasso Fisso
+     della raccolta tramite covered bond coperta solo parzialmente per durata, tale contributo è             -60                                                                                                 Bucket Sens Cumulata
+     parzialmente offsettato dall’esposizione del ptf titoli non coperto e del ptf mutui e sofferenze.           0d 1m 2m 3m 4m 5m 6m 7m 8m 9m 10m 11m 1y 18m 2y 3y 4y 5y 6y 7y 8y 9y 10y 11y 12y 13y 14y 15y 16y 17y 18y 19y 20y 25y 30y Oltre
+ <U+F0FC> [Oltre 15y]: -26€/mln, dovuto ai cap impliciti nel ptf mutui in aggiunta alla parte non coperta di
+     mutui e titoli.
+                                                                                                                                                                                                                                                       16
+
+Sezione 4 – Liquidity Risk 31-12-2017 – GROUP
+ <U+F0A7> Di seguito il monitoraggio dei limiti operativi del Gruppo MPS sul Rischio di Liquidità effettuato rispetto alle deleghe approvate con delibera dell’AD del 24/05/17.
+                                                                                                         LIQUIDITY RISK LIMITS - MPS GROUP
+                                                                       dec-16 mar-17   apr-17   may-17       jun-17       jul-17      aug-17  sep-17  oct-17  nov-17  dec-17 Risk Limits Check
+               Short Term
+                             Counterbalancing Capacity (CBC) €/mln      6.870 15.992  16.546     17.258     19.811      20.286       22.690  21.068  21.237  25.594  21.095     14.000     <U+F0FC>
+   SHORT       Liquidity
+                             Net 1M Position                   €/mln    6.675 14.931  15.234     15.106     17.739      23.268       20.959  19.616  19.517  20.833  18.726     12.000     <U+F0FC>
+   TERM
+                             Net 1M Position/tot assets          %       4,4%   9,8%   10,2%      10,2%      12,4%       16,2%        14,6%   13,5%   13,4%    14,3%   12,9%         9%    <U+F0FC>
+               Indicators
+                             Time-to-Survival                   days        0     80       76       102         119         142         137      114      88     130     136         90    <U+F0FC>
+               Regulatory    LCR                                         108%   164%    157%       204%       226%        262%         200%    234%    241%     218%    199%      145%     <U+F0FC>
+               Indicators    NSFR                                         88%    95%     96%        97%        98%          98%        104%    107%    104%     100%    110%        97%    <U+F0FC>
+               Asset
+                             Net Asset Encumberance ratio               80,9%  65,2%   64,7%      61,7%      59,4%       55,7%        51,8%   52,2%   57,8%    60,5%   50,2%        75%    <U+F0FC>
+               Encumberance
+   MEDIUM &
+                                                        Gap Ratio 1 Y 102,0%  106,8%  109,0%    109,3%     111,8%       120,1%       114,2%  119,1%  118,2%  114,1%  125,7%       103%     <U+F0FC>
+   LONG TERM
+                                                        Gap Ratio 2 Y 101,4%  105,1%  105,6%    105,1%     107,0%       114,4%       107,3%  115,3%  114,0%  108,4%  121,8%         98%    <U+F0FC>
+               Gap Ratio     MPS GROUP
+                                                        Gap Ratio 3 Y 104,8%  101,0%  102,2%    101,8%       85,2%       91,1%        98,7%   86,3%   85,6%    85,7%   87,7%        88%    •X
+                                                        Gap Ratio 4 Y   79,7%  75,3%   74,6%      74,2%      73,1%       78,0%        86,5%   85,7%   85,0%    85,3%   86,8%        73%    <U+F0FC>
+                                                        Gap Ratio 5 Y   79,0%  72,9%   74,2%      74,0%      72,3%       76,6%        86,0%   85,1%   84,5%    84,4%   86,0%        68%    <U+F0FC>
+                                                     Gap Ratio Com      63,3%  67,6%   69,9%      70,4%      75,1%       77,3%        77,8%   76,7%   75,8%    77,2%   78,8%        63%    <U+F0FC>
+ <U+F0A7> Il monitoraggio al 31-12-2017 evidenzia:
+   <U+F0A7> CBC in diminuzione (-4,5 €/mld ) principalmente per deposito di impiego c/o BCE e per dinamiche commerciali sfavorevoli. Si segnala l’azzeramento del deposito stanziato in MIC (+0,7 €/mld).
+   <U+F0A7> TTS in aumento (+6 gg) principalmente a seguito delle uscite effettive verso CCSE (circa -1,8 €/mld contro -2,6 €/mld di previsionale). Si segnala che l’aggiornamento mensile degli stress test ha
+       portato sul TTS di dicembre una perdita di 8gg di TTS.
+   <U+F0A7> LCR in riduzione. La variazione del LCR è principalmente determinata dall’inclusione negli outflows della scadenza del GGB BMPS 0.5 JA18. L’impegno di titoli HQLA in Pooling BCE è stato
+       completamente azzerato, generando un significativo beneficio in termini di buffer.
+   <U+F0A7> NSFR in miglioramento. La variazione del NSFR è causata dal minor assorbimento della componente finanziaria.
+   <U+F0A7> il permanere dello sconfinamento del Gap Ratio 3Y, in miglioramento. Si ricorda che tale sconfinamento è già stato autorizzato dall’AD e che non sono previste nel breve azioni di riequilibrio
+       del posizionamento di medio/lungo termine da parte della Funzione di Tesoreria, se non quelle già previste nel Piano di Ristrutturazione (emissione di subordinato di gennaio 2018 per 750 €/mln).
+                                                                                                                                                                                                     17
+
+Sezione 4 – Liquidity Risk 31-12-2017 - Focus indicatori di liquidità a breve
+ Liquidity Coverage Ratio (LCR): indicatore secondo Atto Delegato al 31-12-2017
+                                                       (a) L’andamento del liquidity buffer è originato dai benefici derivanti dal completo                            30/11/2017 31/12/2017   <U+0394>
+                                                           azzeramento dell’impegno dei titoli HQLA in Pooling BCE (+6,21 €/mld), dal rimborso del     (a) buffer        18.110     22.532     4.422
+                                                           deposito aperto presso il MIC (+0,71 €/mld) e dalle altre dinamiche di natura finanziaria   (b) outflows      12.250     14.307     2.056
+                                                           (+0,13 €/mld), che vengono solo parzialmente neutralizzati dall’andamento negativo          (c) inflows        3.943      3.010   -   933
+                                                           delle dinamiche di natura commerciale (-2,63 €/mld).                                        ratio [a/(b-c)]    218%       199%       -19%
+                                                       (b) L’andamento negativo degli outflows è causato dal rimborso del GGB BMPS 0.5 JA18, in
+                                                           scadenza all’interno dell’orizzonte temporale di analisi (+2,9 €/mld). In riduzione sia la
+                                                           raccolta con clientela wholesale (-0,69 €/mld) che il secured funding (-0,14 €/mld). La
+                                                           raccolta con clientela retail è sostanzialmente stabile.
+                                                       (c) La variazione degli inflows è principalmente riconducibile alla riduzione degli afflussi da
+                                                           posizioni con controparti finanziarie (-0,75 €/mld), essenzialmente relativa al completo
+                                                           rimborso del deposito aperto presso il MIC. Il secured lending è stabile.
+  Liquidità Operativa e Analisi Stress Test al 31-12-2017
+                                                                                                                                                                                                 18
+
+Sezione 4 – Liquidity Risk 31-12-2017 - Focus indicatori di medio-lungo termine
+ Net Stable Funding Ratio (NSFR): indicatore stimato al 31-12-2017
+                                                        (a) La riduzione dell’Available Stable Funding è dovuta alla diminuzione del poste
+                                                             patrimoniali (-0,9 €/mld) e della raccolta con clientela wholesale (-0,8 €/mld), effetti
+                                                             parzialmente compensati dall’aumento della raccolta con clientela retail (+0,7 €/mld).
+                                                        (b) La forte riduzione del Required Stable Funding è dovuta prevalentemente al forte
+                                                             decremento della componente finanziaria (-9,9 €/mld, di cui -7,3 €/mld di reverse
+                                                             repo e -2,6 €/mld di titoli di proprietà, in parte per la diminuzione dello stock ed in
+                                                             parte per il minor assorbimento di titoli HQLA in Pooling BCE), soltanto in piccola parte
+                                                             compensata da un incremento degli impegni sugli impieghi (+0,4 €/mld).
+  Asset Encumbrance Report al 31-12-2017
+                                                        Asset Encumbrance Netto pari al 50,22%, in miglioramento rispetto al 30-11-2017.
+                                                        Di seguito il dettaglio delle principali variazioni dell’indicatore:
+                                                        <U+F0A7> gli Assets Encumbered decrescono significativamente per il minor impegno di
+                                                           titoli di stato ottenuti in reverse repo (-30 €/mld). L’effetto del minor impegno
+                                                           di titoli di stato rispetto al maggior impegno di autocovered risulta pressoché
+                                                           nullo.
+                                                        <U+F0A7> gli Assets Encumberable risultano in forte decremento nel mese a seguito
+                                                           prevalentemente dei minori reverse repo (-34 €/mld).
+                                                                                                                                                       19
+
+Sezione 4 – Liquidity Risk 31-12-2017 – ENTITY
+ <U+F0A7> Di seguito il monitoraggio dei limiti a livello individuale effettuato rispetto alle deleghe approvate con delibera dell’AD del 24/05/2017:
+                                                                                                              LIQUIDITY RISK LIMITS
+                                                                   dec-16    mar-17     apr-17   may-17    jun-17       jul-17      aug-17  sep-17  oct-17  nov-17   dec-17 Risk Limits Check
+                                                   Gap Ratio 1 Y  102,2%     108,6%    110,7%    111,0%   113,4%      120,0%       113,3%  120,4%  119,3%  116,0%   126,4%       103%     <U+F0FC>
+                                                   Gap Ratio 2 Y  104,8%     110,9%    107,7%    107,3%   109,4%      114,7%       106,2%  117,2%  116,1%  111,0%   123,3%         98%    <U+F0FC>
+   PARENT
+                            BMPS
+                                                   Gap Ratio 3 Y  108,5%     106,1%    103,1%    102,8%    86,0%       90,2%        96,2%   86,1%   85,5%    86,2%    87,9%        88%   X•
+   COMPANY                                         Gap Ratio 4 Y    79,2%     76,3%     73,9%     73,4%    73,6%       77,3%        83,8%   86,1%   85,5%    86,0%    85,7%        73%    <U+F0FC>
+                                                   Gap Ratio 5 Y    78,3%     73,9%     73,5%     73,3%    73,2%       76,5%        83,9%   86,1%   85,6%    85,5%    85,1%        68%    <U+F0FC>
+                                                 Gap Com. Ratio     72,9%     77,4%     80,1%     80,6%    85,8%       88,2%        88,8%   87,2%   84,6%    85,9%    88,1%        63%    <U+F0FC>
+                                                   Gap Ratio 1 Y  108,8%     100,6%    100,7%    100,5%    99,7%      108,1%       117,1%  111,1%  115,3%  106,6%   109,6%       103%     <U+F0FC>
+                                                   Gap Ratio 2 Y  119,0%     111,6%    100,7%    101,4%    98,6%      110,4%       124,4%  112,6%  112,8%  105,8%   106,1%       103%     <U+F0FC>
+                            MPS CS                 Gap Ratio 3 Y  125,6%     117,4%    109,0%    110,1%   106,3%      118,0%       134,1%  128,5%  128,9%  123,6%   109,2%       103%     <U+F0FC>
+                                                   Gap Ratio 4 Y  138,7%     129,0%    117,2%    118,9%   103,8%      114,6%       135,0%  121,9%  122,5%  122,8%   121,6%       103%     <U+F0FC>
+                                                   Gap Ratio 5 Y  144,7%     128,1%    114,1%    115,9%    94,3%      103,2%       127,8%  116,5%  117,5%  118,9%   120,3%       103%     <U+F0FC>
+                                                   Gap Ratio 1 Y  105,0%     102,3%    102,1%    102,7%   101,0%      115,5%       116,1%  115,6%  111,9%  114,2%   117,9%       103%     <U+F0FC>
+   DOMESTIC
+                                                   Gap Ratio 2 Y  110,5%     104,2%    104,2%    104,7%   104,0%      116,0%       116,9%  118,5%  114,3%  116,6%   122,8%       103%     <U+F0FC>
+   SUBSIDIARIES
+                            MPS L&F                Gap Ratio 3 Y  115,9%     112,9%    112,4%    112,9%   113,1%      123,7%       124,2%  126,4%  121,7%  124,1%   132,3%       103%     <U+F0FC>
+                                                   Gap Ratio 4 Y  125,1%     122,5%    121,1%    121,7%   122,4%      132,2%       134,2%  136,9%  131,9%  134,7%   144,4%       103%     <U+F0FC>
+                                                   Gap Ratio 5 Y  135,7%     133,7%    131,1%    131,9%   132,7%      142,5%       142,1%  145,5%  140,5%  143,9%   154,9%       103%     <U+F0FC>
+                                                   Gap Ratio 1 Y  174,3%     172,6%    172,5%    168,7%   228,9%      217,4%       220,6%  213,8%  204,4%  193,6%   204,9%       160%     <U+F0FC>
+                                                   Gap Ratio 2 Y  294,1%     279,2%    205,1%    199,1%   247,2%      230,2%       232,0%  222,4%  207,8%  192,6%   202,2%       160%     <U+F0FC>
+                            WIDIBA                 Gap Ratio 3 Y  470,8%     422,0%    246,6%    236,3%   282,9%      258,3%       258,9%  245,8%  225,1%  205,6%   209,8%       160%     <U+F0FC>
+                                                   Gap Ratio 4 Y 1210,1%     880,1%    306,5%    288,4%   247,5%      226,6%       226,9%  215,7%  197,8%  181,1%   187,9%       160%     <U+F0FC>
+                                                   Gap Ratio 5 Y 1095,7%     792,0%    271,0%    255,4%   219,2%      201,2%       201,2%  191,6%  176,0%  161,6%   170,7%       160%     <U+F0FC>
+                            MP BANQUE
+                                                            LCR      194%      228%      168%      266%     368%        747%         689%    483%    550%     565%     562%      145%     <U+F0FC>
+   FOREIGN                                                NSFR       109%      108%       n.d.      n.d.    121%          n.d.        n.d.   116%     n.d.     n.d.    121%      107%     <U+F0FC>
+   SUBSIDIARIES
+                            MPS BELGIO
+                                                            LCR      150%      207%      173%      239%     398%        343%         238%    135%    161%     326%     556%      145%     <U+F0FC>
+                                                          NSFR       100%      107%      108%      111%     109%        112%         109%    109%    112%     111%     117%      107%     <U+F0FC>
+   Al 31-12-2017 si segnala:
+      <U+F0A7> Il permanere dello sconfinamento del Gap Ratio 3Y di Banca MPS. Tale sconfinamento è già stato autorizzato dall’AD in attesa delle azioni di riequilibrio già previste nel Piano di
+          Ristrutturazione (emissione di subordinati nel primo trimestre del 2018).
+                                                                                                                                                                                              20
+
+Sezione 4 – Liquidity Risk 31-12-2017 - Early Warning Indicators
+ Di seguito il monitoraggio mensile degli Early Warning Indicators previsto dal Liquidity Risk Framework.
+                                                                                                                                     Indicatori generici
+                                                                                                                                       1. Indice azionario europeo.
+                                                                                                                                       2. Indice azionario del comparto bancario.
+                                                                                                                                       3. Indice che combina spread, volatilità e indici relativi ai mercati finanziari dell’area Euro.
+                                                                                                                                       4. Rifinanziamento marginale delle banche europee presso la BCE.
+                                                                                                                                       5. Valore assoluto del delta tra Euribor (tasso di riferimento unsecured) ed EONIA.
+                                                                                                                                       6. Spread tra rendimento dei Titoli di Stato tedeschi e quelli italiani,.
+                                                                                                                                     Indicatori specifici
+                                                                                                                                      1. Indice del Rating di Lungo Termine di BMPS (Second Best).
+                                                                                                                                      2. Cash flows dei Canali al dettaglio .
+                                                                                                                                      3. Cash flows dai Canali all’ingrosso.
+                                                                                                                                      4. Spread tra performance del titolo azionario rispetto all’andamento dei titoli del settore
+                                                                                                                                      5. Spread del CDS emissioni Senior di MPS a 5 anni di BMPS rispetto all’indice .
+                                                                                                                                      6. Spread del CDS emissioni Subordinati di MPS a 5 anni di BMPS rispetto all’indice
+                                                                                                                                      7. Riacquisto delle obbligazioni del Gruppo.
+                                                                                                                                      8. Rapporto tra il valore di quotazione dell’azione BMPS ed il rispettivo Book value.
+                                                                                                                                      9. Counterbalancing Capacity.
+                                                                                                                                      10. Saldo netto di liquidità ad 1M.
+                                                                                                                                      11. Time to Survival.
+ Gli indicatori di Early Warnings sono metriche di breve termine che consentono di individuare tempestivamente le vulnerabilità della banca sia di natura specifica sia sistemica. Per ciascun indicatore
+ vengono calcolate due tipologie di segnale: 1) Variazione: il segnale si attiva quando la variazione della metrica rispetto al valore precedente eccede predeterminate soglie; 2) Livello: il segnale si
+ riferisce al livello corrente rispetto a predeterminate soglie di livello.
+ <U+F0A7> ANALISI PER LIVELLO - Nel corso del mese di dicembre non si rilevano segnali di tensione tra gli indicatori generici così come per gli indicatori specifici.
+ <U+F0A7> ANALISI PER VARIAZIONE - Nel mese di dicembre non si rilevano particolari segnali di tensione tra gli indicatori generici. Per gli indicatori specifici da evidenziare l’accensione del segnale rosso sia
+     per i canali wholesale, in corrispondenza dell’uscita verso CCSE per circa -1,3 €/mld in data 27/12, che per il saldo netto a 1 mese, in corrispondenza dell’entrata sul nodo a 1M della posta relativa
+     alla scadenza del GGB BMPS 0.5 JA18 in data 20/12.
+ Si segnala che la rilevazione dell’indicatore ”6. MONTE 5 YRS SUB - ITRAXX EURO FIN SUB” è sospesa non essendo presente sul mercato alcun subordinato verso controparti esterne.
+                                                                                                                                                                                                                                        21
+
+Sezione 5 – Market Risk 31-12-2017
+                                                                                                             MPS GROUP - VaR 99%1day
+ €/mln                                                dec-16      jan-17     feb-17    mar-17     apr-17    may-17         jun-17       jul-17    aug-17     sep-17    oct-17    nov-17    dec-17    <U+0394>MtD       <U+0394>YtD
+                                      Trading Book       0,39        0,36       0,40      0,38       0,41       0,37          0,39        0,41       0,36       0,36     0,06       0,04      0,08       0,05      -0,30
+                     BMPS
+                                     Banking Book     137,05     140,74     126,15     117,92    113,64       98,39         71,62       69,00      61,48      61,39     59,68     58,70     59,56        0,86    -77,49
+                                      Trading Book       5,77        8,32       9,33      7,33     10,30      11,04           6,75        7,14       7,06       6,31     6,71       6,28      6,37       0,09       0,60
+                     MPS CS
+                                     Banking Book        0,01        0,03       0,02      0,02       0,02       0,02          0,02        0,01       0,01       0,00     0,01       0,00      0,00       0,00      -0,01
+                                      Trading Book           -           -          -         -          -          -             -           -          -          -         -         -         -
+ VaR                 MP BELGIO
+                                     Banking Book        0,99        1,01       1,34      1,30       1,13       1,06          1,19        1,14       1,09       1,06     0,99       0,91      0,91       0,00      -0,08
+                                      Trading Book           -           -          -         -          -          -             -           -          -          -         -         -         -
+                     MP BANQUE       Banking Book        0,07        0,07       0,07      0,07       0,13       0,12          0,13        0,12       0,12       0,12     0,11       0,09      0,09       0,00       0,02
+                                      Trading Book       5,83        7,79       9,07      7,18     10,01      10,70           6,66        6,89       7,02       6,20     6,69       6,30      6,36       0,06       0,52
+                     MPS GROUP
+                                     Banking Book     137,71     141,42     127,21     118,94    114,79       99,20         73,36       70,59      62,59      62,34     60,55     59,52     60,39        0,87    -77,32
+ <U+F0A7> VaR PNV e VaR BB di Gruppo stabili rispetto al mese precedente.
+    La volatilità nelle misure di VaR PNV registrate a fine anno sono imputabili principalmente ai comparti Tasso e Credit Spread per operatività in asta a fine anno in titoli Governativi Italiani nei
+    portafogli di Trading Proprietario (rispetto a novembre riduzione nell’esposizione in titoli a breve termine per nominali 2,57 €/mld, compensata sulle misure di rischio dall’aumento nell’esposizione a
+    medio/lungo termine per nominali 0,46 €/mld) e per operatività in future nel book Tasso di trading proprietario.
+    In termini di VaR EQ si segnala la chiusura della posizione direzionale corta sul future sull’indice Nasdaq presente nel book EQ di trading proprietario (sensitivity EQ corta che si riduce nel complesso
+    da -2,8 mln a -1,1mln), che ha determinato una variazione dei contributi dei comparti di rischio sul VaR complessivo (predominanza del CS sulla misura di VaR, in precedenza determinata dal EQ).
+                                                                                                   MPS GROUP - Annual Cumulated P&L Mark-to-Market
+  €/mln                                                dec-16      jan-17     feb-17    mar-17     apr-17    may-17         jun-17       jul-17    aug-17     sep-17    oct-17    nov-17    dec-17    <U+0394>MtD       <U+0394>YtD
+                                       Trading Book       4,92       -1,99       5,85      7,21       8,15       7,77          7,62        8,45     12,07      13,12     16,15     14,48     18,69        4,21     13,77
+                      BMPS
+                                      Banking Book        5,59   -431,32    -412,23    -402,23   -354,47    -266,25       -229,75      -158,46   -166,24    -100,76       -3,24    82,77    -40,38    -123,15     -45,97
+                                       Trading Book    222,93         8,76     22,29     50,54      61,24      70,45         98,08      108,47    109,35     124,06    124,85    124,25    117,81        -6,44  -105,12
+                      MPS CS
+                                      Banking Book        3,36        0,26       0,30      0,30       0,46       0,59          1,42        4,18       4,20    -49,18    -44,41    -51,80    -47,94        3,86    -51,30
+                                       Trading Book           -           -          -         -          -          -             -           -          -          -         -         -         -          -          -
+  P&L                 MP BELGIO
+                                      Banking Book      12,33         3,75       4,27      4,94       6,19       7,78          7,98      10,99      10,11      10,87     12,25     13,33     12,25       -1,08      -0,07
+                                       Trading Book           -           -          -         -          -          -             -           -          -          -         -         -         -          -          -
+                      MP BANQUE       Banking Book        6,00        5,50       5,57      5,57       6,49       7,12          7,97        8,71       8,78       9,14      9,53      9,55      9,48      -0,07       3,48
+                                       Trading Book    227,85         6,77     28,14     57,75      69,40      78,22       105,70       116,92    121,42     137,17    141,01    138,73    136,50        -2,23    -91,35
+                      MPS GROUP
+                                      Banking Book        8,95   -431,06    -411,93    -401,93   -354,01    -265,66       -228,32      -154,28   -162,04    -149,94     -47,64     30,97    -88,32    -119,29     -97,27
+ <U+F0A7> P&L PNV e P&L PB del Gruppo: in peggioramento. In particolare il P&L PB di Banca (-123€/mln) peggiora a causa della crescita del premio per il rischio sovrano Italia.
+                                                                                                                    BMPS - AFS RESERVE
+   €/mln                                                dec-16      jan-17     feb-17    mar-17     apr-17    may-17         jun-17       jul-17    aug-17     sep-17    oct-17    nov-17    dec-17    <U+0394>MtD       <U+0394>YtD
+                       Gross Reserve                      -96,8     -276,2     -275,2    -296,1     -265,6     -192,4        -127,7        -77,6      -96,7      -64,5      21,5      57,5     -59,4    -117,0        37,4
+   AFS RESERVE
+                       Net Reserve                        -65,4     -186,4     -185,7    -199,9     -179,3     -129,9          -86,2       -52,3      -65,3      -43,5      14,5      38,8     -40,1      -78,9       25,3
+   <U+F0A7> Riserva Lorda sui titoli AFS della Banca MPS: in netto peggioramento rispetto al mese precedente (-117 €/mln) dovuto ad un peggioramento del merito creditizio Italia (aumento dello spread in
+     asw di circa +25 bps sui 10y) e ad un rialzo dei tassi di interesse (variazione dell’Eur Swap 10y: +6 bps sui 10y).
+                                                                                                                                                                                                                           22
+
+Sezione 5 – Issuer Risk 31-12-2017
+                                                                                                   MPS GROUP - BOND AND CREDIT DERIVATIVES
+€/mln                          Net Nominal Value    dec-16     jan-17     feb-17    mar-17     apr-17     may-17      jun-17        jul-17       aug-17        sep-17     oct-17     nov-17     dec-17    <U+0394>MtD       <U+0394>YtD
+                   ABS                                   98         99       105       133        139        131         129           135           171           201       200        245        265         20       167
+                   Corporate                           547        571        614       508        444        523         493           579           648           572       613        621        691         70       144
+                   Financial                         2.103      1.916      1.893     2.035      2.117      2.168       2.064        2.029          2.090        2.173      2.121      2.136      2.184         48         81
+ISSUER TYPE        Gov Other                             51         56         67        46         44         44         41            34            39             39       40          40         37         -3       -14
+                   Gov/EMU/G10/Supra                19.372    19.953     21.474     19.936    20.059      18.941     18.084        19.687        20.543        19.041    19.742      20.867     18.635     -2.232      -737
+                   TOTAL                            22.172    22.595     24.153     22.658    22.803      21.807     20.810        22.464        23.491        22.027    22.716      23.909     21.811     -2.098      -361
+                                                                                                                                                                         Trading   Banking
+                                                                                                                         MAIN ISSUER                                                           dec-17
+                                                                                                                                                                           Book      Book
+                                                                                                                         TESORO DELLO STATO                                 4.505   13.083      17.588
+ Nel mese di dicembre si evidenzia in particolare la riduzione della                                                     REPUBBLICA FRANCESE                                     0     410          410
+ posizione in titoli governativi italiani a breve/media scadenza, per circa                                              ASSICURAZIONI GENERALI SOCIETA' PER AZIO                3     350          353
+ 2,7 €/mld, dovuto prevalentemente all’operatività in aste di titoli di                                                  CAIXABANK SA                                                  213          213
+ Stato sul PNV di MPSCS.                                                                                                 BANCO BILBAO VIZCAYA ARGENTARIA SA                      0     200          200
+                                                                                                                         CASSA DEPOSITI E PRESTITI SOCIETA'PER AZ              15      184          198
+                                                                                                                         BANCO BPM SOCIETA' PER AZIONI                        110        64         175
+                                                                                                                         SPAGNA                                                  4     142          146
+                                                                                                                         EUROPEAN INVESTM ENT BANK                             73        48         121
+                                                                                                                         ERSTE EUROPAEISCHE PFANDBRIEF UND KOM M UN                    110          110
+                                                                                                                         Sub-Total                                          4.710   14.803      19.513
+                                                                                                                         Other                                                                    2.298
+                                                                                                                         TOTAL                                                                   21.811
+                                                                                              MPS GROUP -  EXPOSURE TO ITALIAN GOVERNMENT BONDS
+  €/mln                                               dec-16     jan-17     feb-17   mar-17      apr-17    may-17       jun-17        jul-17        aug-17       sep-17     oct-17     nov-17     dec-17    <U+0394>MtD      <U+0394>YtD
+                                      Trading Book     2.219      2.166      2.390     1.990      2.001      1.746         410          169           182            121        40          44          0        -44   -2.219
+                     2017
+                                      Banking Book       384        134          24        24        24         24          20            20            18            18        16          16          0        -16      -384
+                                      Trading Book       221        560     2.014     1.780      1.287      1.610       1.916         3.051         4.083         3.246     3.585       4.855      2.098     -2.757     1.878
+                     2018
+                                      Banking Book       214        589        572       522        522        522        522           522           522            522      522         522        539          16       325
+                                      Trading Book      -203       -135       -175      -148       -195       -108         -52           -42           -39          -126       -94        120        310        190        513
+                     2019
+                                      Banking Book     2.896     3.031      3.032     3.101      3.101      3.102       3.253         3.738         3.738         3.737     3.737       3.738      3.738           0       842
+                                      Trading Book       296        275        360       371        519        516        375           448           321            184      511          98        330        233         34
+                     2020-2024
+  MATURITY                            Banking Book     9.036     9.059      9.091     8.469      8.650      7.611       7.245         7.344         7.256         7.256     7.256       7.256      7.256           0   -1.780
+                                      Trading Book       153        282        133       134        241         83        230             77          220            120        40        159        294        135        141
+                     2025-2034
+                                      Banking Book       153        657        657       657        657        657        873           873           873            873      873         873        873           0       720
+                                      Trading Book        -14        -21        -21       -29        44         15          69             1            20            23        50          -1        38          39        53
+                     >2034
+                                      Banking Book     1.006     1.005      1.008     1.003      1.006      1.011         807           774           675            672      674         676        677           1      -329
+                                       Trading Book    2.671     3.127      4.700     4.097      3.898      3.863       2.947         3.705         4.787         3.569     4.134       5.275      3.071     -2.204        400
+                     TOTAL            Banking Book   14.192     14.475     14.385    13.776     13.960     12.928      12.720        13.272        13.082       13.078     13.079     13.082      13.083           1   -1.110
+                                              TOTAL  16.863     17.601     19.084    17.873     17.859     16.791      15.667        16.976        17.869       16.648     17.212     18.357      16.154     -2.204       -710
+                                                                                                                                                                                                                               23
+
+Sezione 5 – Market Risk Limits 31-12-2017
+     <U+F0A7> Di seguito il monitoraggio dei limiti effettuato rispetto alle deleghe approvate con delibera AD del 16-06-2017.
+     <U+F0A7> Al 31-12-2017 non si rilevano sconfinamenti da segnalare.
+                                                                                                                                         OPERATIONAL LIMITS
+ €/mln                                                                      apr-17         may-17            jun-17            jul-17  aug-17     sep-17      oct-17   nov-17   dec-17   Limit     Usage%
+                                                                                                                                                                                                           Si segnala che nelle giornate 11,
+ MPS GROUP                    Issuer AFS Bond Portfolio                    13.575          12.631           12.522           13.075    12.894     12.894     12.892    12.892   12.891    14.000      92%
+                                                                                                                                                                                                           13, 15 e 29 dicembre i limiti di
+                              VaR Trading Book (PNV) °                       10,01           10,70               6,72            6,89     7,02       6,20        6,69     6,31      6,36    16,00     40%
+                                                                                                                                                                                                           Stop Loss Annual (Drawdown) sul
+                              Average VaR Trading Book (3M PNV) °°             7,52            7,61              7,81            7,37     6,60       6,50        6,44     6,30      6,11      9,50    64%
+                              Stop Loss Annual Drawdown Trading               -1,56            0,00              0,00            0,00    -3,69      -0,78       -0,69    -6,84   -12,50    -30,00     42%  trading proprietario di MPS CS, per
+ CEO
+                              Monthly Stop Loss Trading Book *               11,19             8,73           17,79              8,27    -0,18     14,89         1,83    -1,74     -5,65   -23,50     24%  le deleghe di Global Market TP -
+                              VaR Banking Book (PB)                        105,08            86,36            70,04            67,92    61,07      61,34       58,54    54,87     55,64   160,00      35%  P&L PNV, ha superato la soglia
+                              VPB Limit                                   -188,82           -99,47           -48,58              3,78   13,40      40,78     118,72    154,60     26,19  -521,00         - deliberata per un amount massimo
+                              VaR Trading Book (PNV)                           0,41            0,37              0,36            0,41     0,36       0,36        0,06     0,04      0,08      2,00     4%  di 0,8 mln (in data 29.12), a fronte
+                              Average VaR Trading Book (3M PNV)                0,39            0,40              0,40            0,40     0,38       0,37        0,33     0,22      0,13      1,00    13%  di un limite di 24 mln.
+                              Stop Loss Annual Drawdown Trading               -0,13           -0,45             -0,63           -0,03    -0,03      -0,13        0,00    -0,81     -0,15     -5,00     3%
+                              Monthly Stop Loss Trading Book                   0,62           -0,31             -0,19            0,64     0,85       0,38        1,55    -0,68      0,66     -1,50       - <U+F0D8> tali sconfinamenti sono stati
+                              Stress Limit Trading Book (PNV)                 -1,06           -3,17             -4,84           -3,36    -3,65      -3,95       -1,25    -1,41     -0,90   -20,00      5%      autorizzati da parte del livello
+ BMPS                         VaR Banking Book (PB)                        103,37            85,56            68,29            66,31    59,56      59,88       57,22    54,05     54,81   150,00      37%      gerarchico superiore con una
+                              VPB Limit                                   -201,88         -114,88            -65,88              3,78    -9,61     40,78     118,72    183,60     52,47  -521,00         -
+                                                                                                                                                                                                               comunicazione pervenuta in
+                              Hedge fund - complessivo                         8,62            8,40              8,40            8,34     8,37       8,18        8,18     1,73      1,01    15,00      7%
+                              Hedge fund - singola società**                   7,16            7,16              7,16            7,16     7,16       7,16        7,03     1,08      0,36    15,00      2%      data 13.12.2017.
+                              Defaulted - complessivo                          0,00            0,00              0,00            0,00     0,00       0,00        0,00     0,00      0,00    10,00      0%
+                              Defaulted - singolo emittente**                  0,00            0,00              0,00            0,00     0,00       0,00        0,00     0,00      0,00      5,00     0%
+                              VaR Trading Book (PNV)                         10,30           11,04               6,75            7,14     7,06       6,31        6,71     6,28      6,37    15,00     42%
+                              Average VaR Trading Book (3M PNV)                7,72            7,79              8,00            7,58     6,78       6,64        6,50     6,35      6,12      9,00    68%
+                              Stop Loss Annual Drawdown Trading               -8,89           -8,60             -2,48            0,00    -3,97      -0,91       -2,00    -6,19   -13,26    -25,00     53%   Si segnala nella giornata del 5
+                              Monthly Stop Loss Trading Book - TP             -0,17            0,29              6,12           -4,38    -6,82       7,10       -9,89    -2,43     -4,23   -11,00     38%   dicembre uno sconfinamento sui
+                              Stress Limit Trading Book (PNV)             -145,48         -175,16          -125,07          -112,28   -122,14    -117,91    -136,08   -118,36  -217,89   -260,00      84%   limiti di rischio emittente di MPS
+ MPS CS                       VaR Banking Book (PB)                            0,02            0,02              0,01            0,01     0,01       0,01        0,01     0,00      0,00      2,00     0%   CS - Single Issuer per esposizione in
+                              VPB Limit                                        0,38            0,51              1,35            4,10     4,12      -0,12       -0,11     0,12      0,12     -5,00       -  titoli su BANCO BPM SpA (categoria
+                              Hedge fund - complessivo                         0,00            0,00              0,00            0,00     0,00       0,00        0,00     0,00      0,00    25,00      0%   Financial BB+/BB).
+                              Hedge fund - singola società**                   0,00            0,00              0,00            0,00     0,00       0,00        0,00     0,00      0,00    25,00      0%
+                              Defaulted - complessivo                          0,30            0,16              0,27            0,25     0,44       0,40        0,41     0,43      0,39    30,00      1%   <U+F0D8> tale sconfinamento, comunicato
+                              Defaulted - singolo emittente**                  0,30            0,16              0,27            0,25     0,44       0,40        0,41     0,43      0,39    10,00      4%       all’AD di Capogruppo, è poi
+                              VaR Banking Book (PB)                            1,13            1,06              1,19            1,14     1,09       1,06        0,99     0,91      0,94      2,00    47%       rientrato nei limiti delegati il
+ MP Belgio
+                              VPB Limit                                        6,19            7,78              7,98            9,54   10,11      10,87       12,25    13,33     12,25    -16,00        -
+                                                                                                                                                                                                                giorno seguente.
+                              VaR Banking Book (PB)                            0,13            0,12              0,13            0,12     0,12       0,12        0,11     0,09      0,09      0,50    18%
+ MP Banque
+                              VPB Limit                                        6,49            7,12              7,97            8,76     8,78       9,14        9,53     9,55      9,48     -4,00       -
+ ° Il limite da Commitment DG Comp è fissato a 20 €/mln            * Il limite da Commitment DG Comp è fissato a -31 €/mln
+ °° Il limite da Commitment DG Comp è fissato a 14,4 €/mln         ** Per singolo emittente/società si riporta l'assorbimento massimo
+                                                                                                                                                                                                                                                 24
+
+Sezione 5 - Prudent Valuation & Independent Price Verification
+•   Prudent Valuation: basandosi su contenuto del «Final Draft of Regulatory Technical Standard EBA for Prudent Valuation Calculation», la Banca, seguendo quanto previsto dal c.d. “Core Approach”
+    per come recepito nella normativa interna, ha calcolato i seguenti correttivi sulle posizioni consolidate di dicembre 2017:
+                                                                                     Additional Valuation Adjustment (AVA)
+              Instrument Type               Underlying                                                                                                               Total by Asset Class
+                                                                  MPU            COC              CP             MR               UCS               ET
+              Debt Securities Level 1                                 € 7.5 Mln
+                                                                                              € 15.4 Mln                                                                   € 24.2 Mln
+              Debt Securities Level 2                                 € 1.3 Mln
+                                       Eq Volatility                   € 1 Mln
+              Derivatives (OTC) Interest Rates                        € 5.4 Mln                              € 0.7 Mln        € 11.9 Mln        € 0 Mln                    € 19.7 Mln
+                                       Credit Spreads                 € 0.8 Mln
+              Total by AVA                                            € 15.9 Mln              € 15.4 Mln     € 0.7 Mln        € 11.9 Mln        € 0 Mln                    € 43.9 Mln
+              Total by AVA as of SEP 17                               € 14.4 Mln              € 20.2 Mln     € 0.5 Mln        € 15.9 Mln        € 0 Mln                     € 51 Mln
+              Total by AVA as of JUN 17                               € 20.2 Mln              € 21.3 Mln     € 0.5 Mln        € 17.2 Mln        € 0 Mln                    € 59.2 Mln
+                           = Not applicable
+               MPU = “Market Price Uncertainty”      La diminuzione di circa 7 €/mln tra i mesi di settembre e dicembre è dovuta principalmente al miglioramento di indicatori di
+               COC = “Close Out Cost”                liquidità del mercato sui titoli di Stato soprattutto in termini di volumi scambiati, che comporta una riduzione dei requisiti
+               CP = “Concentrated Position”          posizioni concentrate per quasi 5 mln, nonché alla riduzione del requisito UCS (per 4 mln) per la diminuzione della quota di
+               MR = “Model Risk”                     posizioni contenuta nella classe di rating D2, migrate nel trimestre all’interno di classi di rating migliori (D1 e C2).
+               UCS = “Unearned Credit Spread”
+               ET = “Early Termination”
+  •  Independent Price Verification: al 31-12-2017, sulla base delle verifiche effettuate sui comparti Bond di Livello 2 e Equity Volatility, non si rilevano eccezioni tali da attivare le procedure di
+     segnalazione e escalation.
+                                                                                                                                                                                                         25
+
+Sezione 6 – Counterparty Risk 31-12-2017
+                                                                 MPS GROUP - COUNTERPARTY RISK
+ €/mln, Regulatory Metrics                       dec-16  mar-17    jun-17    sep-17    oct-17  nov-17  dec-17   <U+0394>MtD     <U+0394>QtD    <U+0394>YtD   Principali variazioni in termini di RWA
+                 DEFAULT RISK          of which:  2,285   2,180     2,055     1,621     1,683   1,575   1,429   -9.3%   -11.9%  -37.5%  •   SFT: riduzione (delta -83 €/mln): si evidenza una
+                              Derivatives + LST      634     560       522       513       554     533     505    -5.3%   -1.6%  -20.4%   riduzione dell’operatività con la ctp centrale CCG che
+                 STANDARD                   SFT    1,251   1,225     1,145       709       728     650     567  -12.9%   -20.1%  -54.7%   comporta una riduzione in termini di RWA di -27 €/mln
+                                           Total  1,885   1,786     1,667     1,222     1,282   1,184   1,072    -9.5%  -12.3%  -43.2%    per MPSCS e di -10 €/mln per MPS .
+      RWA                     Derivatives + LST      398     391       381       395       398     387     352    -9.0%  -10.9%  -11.5% •   Derivatives+LST: lieve riduzione (delta -63 €/mln)
+                 AIRB                       SFT        2       4         7         4         3       4       5   14.8%    29.0%  181.5%
+                                           Total    400     395       388       399       400     391     357    -8.8%  -10.5%  -10.7%
+                 CVA RISK
+                                                                                                                                        Composizione dei comparti di rischio in termini di RWA
+                                                    480     407       365       351       409     349     346   -0.9%    -1.6%  -27.9%
+                 TOTAL RWA                                                                                                              A livello di Gruppo MPS gli RWA del comparto SFT sono
+                                                  2,765   2,587     2,421     1,972     2,092   1,924   1,774   -7.8%   -10.0%  -35.8%
+                                                                                                                                        generati dall’operatività in funding strutturato con
+                                                                                                                                        concentrazione su due nomi: BANCA IMI S.P.A. (+205
+                                                                 MPS GROUP - COUNTERPARTY RISK                                          €/mln) e THE ROYAL BANK OF SCOTLAND (+149 €/mln) e
+                                                                                                                                        per un totale pari al 62% degli RWA complessivi
+ €/mln, Regulatory Metrics                       dec-16  mar-17    jun-17    sep-17    oct-17  nov-17  dec-17   <U+0394>MtD     <U+0394>QtD    <U+0394>YtD
+                                                                                                                                        dell’aggregato di riferimento.
+                 DEFAULT RISK          of which:  6,851   5,890     5,217     4,293     5,366   5,738   3,711  -35.3%   -13.6%  -45.8%  A livello di Gruppo MPS gli RWA del comparto Derivatives
+                              Derivatives + LST    2,285   2,246     1,765     1,825     1,991   1,899   1,812    -4.6%   -0.7%  -20.7% & LST sono spiegati per il 46% dall’operatività con
+                                                                                                                                        clientela commerciale, in riduzione del 2%, e per il 26%
+                 STANDARD                   SFT    4,135   3,251     3,074     2,071     2,989   3,460   1,551  -55.2%   -25.1%  -62.5%
+                                                                                                                                        da operatività in polizze AXA.
+                                           Total  6,420   5,497     4,839     3,896     4,980   5,359   3,363  -37.2%   -13.7%  -47.6%  Le controparti centrali con un’esposizione complessiva
+      EAD                     Derivatives + LST      431     391       372       394       384     376     345    -8.3%  -12.6%  -19.9% pari 1.312 €/mln (ca il 35% del complessivo) hanno un
+                    AIRB                    SFT        1       2         6         3         2       3       3     7.1%   30.9%  328.3% impatto in termini di RWA del 3.3%.
+                                           Total    431     393       378       397       386     379     348    -8.2%  -12.3%  -19.3%
+                 CVA RISK                           868     768       691       674       738     681     674   -1.0%     0.0%  -22.3%
+                 TOTAL EAD                        7,719   6,659     5,908     4,967     6,105   6,419   4,385  -31.7%   -11.7%  -43.2%
+                                                                                                                                                                                               26
+
+Sezione 7 – Requisito patrimoniale al 31-12-2017
+                                                                                 MPS GROUP - REGULATORY CAPITAL REQUIREMENTS
+   €/mln                                                               dec-16           mar-17              jun-17         sep-17           dec-17      <U+0394>Q/Q
+                   AMA Regulatory Capital Requirements of which:        662.8             658.8             718.3           730.4           789.0            8%
+                   ET1 - Internal Fraud                                  205.4            197.3              251.5           249.7           230.9           -8%
+                   ET2 - External Fraud                                   78.3             80.7                35.5           34.6            38.5          11%
+                   ET3 - Employment Relationship                          34.3             33.4                16.4           17.0            23.7          39%
+   EVENT TYPE
+                   ET4 - Customers, products and operating practices     210.8            217.2              302.4           320.0           379.4          19%
+   (ET)
+                   ET5 - Property damage                                   5.8              5.6                 2.5            2.5             2.3           -9%
+                   ET6 - Business disruptions and system failures         16.8             16.2                16.4           16.3            14.2         -13%
+                   ET7 - Process management, execution and delivery      111.4            108.4                93.5           90.2           100.0          11%
+                   BIA Regulatory Capital Requirements                   15.2             15.2                15.2           15.2            11.9       -22%
+   TOTAL REGULATORY CAPITAL REQUIREMENT                                 678.1            674.1              733.6           745.6           800.9        7%
+   TOTAL RWA                                                         8,475.8           8,425.8            9,169.7         9,320.5          10,012        7%
+ <U+F0FC> Il Requisito Patrimoniale per i Rischi Operativi al 31 Dicembre 2017 è pari a circa 801 €/mln, in aumento rispetto a Settembre 2017. L’incremento di 55 €/mln (circa il 7%) è da
+   ricondurre alla componente AMA (Advanced Measurement Approach) del requisito.
+ <U+F0FC> La componente BIA (Basic Indicator Approach) diminuisce di circa 3 €/ mln rispetto a settembre 2017. La riduzione è dovuta ad una contrazione del margine di intermediazione.
+ <U+F0FC> La stima AMA è stata effettuata utilizzando i dati interni di perdita al 31/12/2017, il flusso DIPO (dati di sistema) al 30/06/2017 e le analisi di scenario del 2017. Riguardo al requisito AMA si
+   osserva in particolare:
+    <U+F0A7> Incremento sull’ET4 “Clienti, prodotti e prassi di mercato” per circa 60 €/mln (+19%), spiegato dagli accantonamenti effettuati in relazione all’attività di segnalazione di clientela per
+        operatività in diamanti e per l’incremento del Fondo Rischi e Oneri per contestazioni relative agli aumenti di capitale passati.
+    <U+F0A7> Incremento sull’ET7 “Esecuzione, consegna e gestione dei processi” per circa 10 €/mln (+11%), spiegato principalmente dalla perdita per 6,2 €/mln per il pagamento di sanzioni e interessi
+        in relazione alla contestazione dell’Agenzia delle Entrate per l’operazione di ricapitalizzazione c.d. “Fresh 2008”.
+    <U+F0A7> Incremento sull’ET3 “Rapporti di impiego” per circa 6.5 €/mln (+39%), dovuto sostanzialmente all’aggiornamento della serie storica e all’incremento di accantonamento di una vertenza di
+        importo rilevante con un ex dirigente.
+                                                                                                                                                                                                       27
+
+Sezione 7 – Perdite Operative contabilizzate al 31-12-2017
+                                                                               MPS GROUP - ACCOUNTED OPERATIONAL LOSSES
+                                                                        dec-16     mar-17           jun-17        sep-17    dec-17    <U+0394>Q/Q
+                           First-time Accounted Events                     6,2        3,8              3,3           4,1      11,5       178%
+      ACTUAL LOSSES        Events with losses accounted for in the past   28,5       30,2             26,5          18,9      36,2        91%
+                           Total                                          34,7       34,0             29,8          23,1      47,7       107%
+                           First-time Accounted Events                    20,7       51,3             10,6          21,4      13,5       -37%
+      PROVISIONS           Events with losses accounted for in the past  -55,5      -33,6            -20,0         -19,4      94,7       588%
+                           Total                                         -34,8       17,7             -9,3           2,0     108,2      5302%
+                           First-time Accounted Events                    26,9       55,1             13,9          25,5      25,0        -2%
+      TOTAL                Events with losses accounted for in the past  -27,0       -3,4              6,5          -0,5     130,9     27228%
+                           Total                                          -0,1       51,7             20,5          25,1     155,9       522%
+      ESTIMATED LOSSES First-time Accounted Events                         3,0        1,4              1,5           0,4       0,4        -5%
+      (Internal/External Events with losses accounted for in the past      1,7        6,6              3,0           1,3       0,2       -87%
+      Frauds) *            Total                                           4,7        8,0              4,5           1,7       0,6       -67%
+     (*) La maggior parte di queste perdite sono a contenzioso.
+  <U+F0FC> Le perdite complessive del trimestre (155,9€/mln) risultano in incremento significativo rispetto ai trimestri precedenti, sostanzialmente in ragione di alcuni eventi di importo rilevante
+    contabilizzati nel Q4 2017 (76,5/mln di accantonamento a fronte delle contestazioni in ambito diamanti e 59€/mln di accantonamento in ambito AUCAP). Anche le perdite complessive del
+    2017 (253,1€/mln) risultano pertanto in aumento rispetto al 2016 (96,2€/mln).
+  <U+F0FC> Le perdite effettive (47,7€/mln) sono in incremento rispetto al trimestre precedente. L’importo è principalmente attribuibile a cause legali (complessivamente 18€/mln dei quali
+    7,8€/mln coperti da Fondo Rischi e 5,6€/mln per spese legali), in particolare a cause per anatocismo (8€/mln), e al pagamento di 6,2€/mln per sanzioni e interessi in relazione alla
+    contestazione con l’Agenzia delle Entrate relativamente all’operazione di ricapitalizzazione c.d. “Fresh 2008”.
+  <U+F0FC> Gli accantonamenti a Fondo Rischi e Oneri evidenziano nel complesso un incremento per 108,2€/mln. Gli eventi principali sono:
+    <U+F0A7> nuovi accantonamenti per circa 90 €/mln, di cui 76,5€/mln in ambito diamanti e 6,1€/mln per cause legali su anatocismo;
+    <U+F0A7> incremento per 59€/mln degli accantonamenti in ambito AUCAP.
+  <U+F0FC> Per il fenomeno “anatocismo” si conferma il trend in diminuzione osservato nel 2016. Nel trimestre si registrano, a fronte di nuovi accantonamenti per 6,1€/mln, perdite effettive per
+    circa 8€/mln e una riduzione di accantonamenti per 17,4€/mln di cui 10,6€/mln per passaggio a contenzioso.
+                                                                                                                                                                                               28
+
+Sezione 7 – Legal Risk 31-12-2017
+                                                                            MPS GROUP - LEGAL RISK
+                                                                             dec-16            mar-17 jun-17 sep-17 dec-17 <U+0394>Q/Q
+ €/mln                                                                                                                              <U+F0FC> Complessivamente in diminuzione le contestazioni in
+                                                                              3.570            3.420  3.322  3.279   3.099      -5%
+                                                              N° o f Events
+                                                                                                                                      termini di numerosità (-8%).
+                             Compount interest (anatocism) P etitum             463               409    381    376    356      -5%
+                                                              P ro visio n      190               182    177    175    164      -6% <U+F0FC> Le principali vertenze in essere rimangono legate al
+                                                              N° o f Events     350              324    313    311     265    -15%    tema «anatocismo» e «aucap», che assorbono circa il
+                             Bankruptcy claw-back             P etitum          402               390    387    355    287    -19%    47% del provision totale.
+                                                              P ro visio n       78                77     72     69     60    -13%
+                                                              N° o f Events      62                57     57     61     60      -2%
+                                                                                                                                    <U+F0FC> La categoria «anatocismo» mostra una diminuzione
+                             Derivatives                      P etitum           20                23     34     30     30       0%   dovuta principalmente alla chiusura giudiziale di 281
+              LAWSUITS                                        P ro visio n       20                19     18     27     26      -4%   cause (riduzione complessiva di 37€/mln di petitum e
+               (clients and
+                                                              N° o f Events     920              871    832    811     637    -21%    15€/mln provision, con circa 5€/mln di esborsi).
+             counterparties) Bonds (defaulted counterparts)
+                                                                                 59                56     54     52     44    -15%
+                             and financial plans (pre mifid)
+                                                              P etitum
+                                                                                                                                    <U+F0FC> Per quanto riguarda la categoria «revocatorie», si
+                                                              P ro visio n       15                16     15     13     12      -8%
+                                                              N° o f Events   3.811            3.568  3.604  3.606   3.299      -9%
+                                                                                                                                      osserva una diminuzione dovuta principalmente alla
+                             Other                            P etitum        3.406             3.318  3.269  3.104  3.139       1%   chiusura giudiziale di 51 cause (riduzione complessiva di
+                                                              P ro visio n      209               195    191    189    242     28%    69€/mln di petitum e 10€/mln provision, con ca 19€/mln
+                                                              N° o f Events      17                17     19     20     23    15%     di esborsi).
+                                    of which Capital Increase P etitum          288              288    280    282     735   161%   <U+F0FC> Nella categoria «titoli» si registra una diminuzione
+                                                                                 20                20     19     19     78
+                                                              P ro visio n                                                   311%     dovuta sostanzialmente alla chiusura giudiziale di 181
+ LEGAL RISK                                                   N° o f Events       9                 9      9      9      7    -22%    vertenze (petitum complessivo 8€/mln, provision circa
+            TAX LITIGATIONS                                                      84                84     84     84     95     13%
+                                                              P etitum
+                                                                                                                                      2€/mln, con circa 5€/mln di esborsi).
+                                                              P ro visio n       18                18     18     18     19       6%
+                                                                                456              463    461    466     467
+                                                                                                                                    <U+F0FC> Nella categoria «altro» si osserva una riduzione dovuta
+                                                              N° o f Events                                                      0%
+            LABOR DISPUTES                                    P etitum           68                66     64     67     67       0%
+                                                                                                                                      alla chiusura giudiziale di 478 vertenze, per un petitum
+                                                              P ro visio n       27                27     28     26     28       8%   complessivo di 437€/mln e un provision di 9€/mln (cui
+                                                              N° o f Events     411              421    668    651     652       0%
+                                                                                                                                      corrispondono circa 10€/mln di esborsi). Tra le vertenze
+                             Total Complaints                 P etitum           51               579    597    598    598       0%   uscite, si segnala la «Antonio Merloni» (petitum 323
+                                                              P ro visio n        3                34     35     34     30    -12%    €/mln, nessun provision), contestazioni per aggravio
+            COMPLAINTS
+                                                              N° o f Events     325              332    559    564     584      4%    finanziario in seguito ad abusive concessioni di credito.
+                                    of which Capital Increase P etitum           49              571    588    590     597      1%  <U+F0FC> La categoria «aucap» risente, in termini di provision di
+                                                              P ro visio n        2                28     29     29     29      0%    un ulteriore accantonamento di 59€/mln. In termini di
+                                                              N° of Events    9.589            9.133  9.266  9.194   8.486      -8%   petitum si evidenzia una nuova vertenza rilevante
+            TOTAL                                             Petitum         4.553             4.925  4.870  4.666  4.616      -1%   («Alken Luxembourg, 434€/mln, nessun provision).
+                                                              Provision         560               568    554    551    581       5%
+                                                                                                                                    <U+F0FC> Tra i «reclami» si segnala la chiusura di 7 reclami
+                                                              N° o f Events     605              603    614    592     571      -4%
+            SUBSIDIARY COMPANIES                                                376               369    362    365    352
+                                                                                                                                      collegati alla frode del Centro Private di Prato (petitum
+                                                              P etitum                                                          -4%
+                                                              P ro visio n       39                39     42     39     38      -3%
+                                                                                                                                      7€/mln, provision 4€/mln) con un esborso di 2,6€/mln.
+                                                                                                                                                                                              29
+
+Sezione 7 – Piano di Mitigazione Rischi Operativi – SAL al 31/12/2017
+   In seguito alle analisi di Scenario, in condivisione con le singole direzioni/aree, è stato individuato il set di criticità da “aggredire” con opportuni interventi di mitigazione.
+                         Ambito                                     Mitigazione                            Scadenza                     SAL 31/12/17                       Owner
+                                                        Integrazione della normativa in materia di         31/12/2017                                                  BMPS – Area Finanza,
+                                                        finanza        proprietaria      esplicitando                                                                  Tesoreria e Capital
+                                                        espressamente il divieto di porre in essere                                                                    Management
+         Frodi nella negoziazione in conto proprio
+                                                        operazioni della fattispecie, richiedendone
+         di strumenti finanziari
+                                                        l'esplicita presa visione da parte degli
+                                                        operatori (gap RM_ 2017_ 00004)
+                                                       Rafforzamento del presidio in materia di           31/12/2017                                                   Widiba – Compliace e
+                                                       controlli      e      potenziamento        del                                                                  Antiriciclaggio
+         Prospettica                                   monitoraggio delle attività, in ragione di
+         Violazione delle disposizioni di legge in     alcuni       casi      di    mancata/errata
+         materia di antiriciclaggio                    segnalazione di operatività sospetta da
+                                                       parte dei promotori finanziari (gap
+                                                       RM_ 2017_ 00002)
+                                                       Implementazione di una procedura di                 31/12/2017                                                  MPS Capital Services –
+                                                       back up che estragga dai portafogli Murex
+         Prospettica                                                                                                                                                   Government e Money
+                                                       le posizioni in titoli lunghe/corte,
+         Procedure informatiche                                                                                                                                        Market
+                                                       procedura alternativa a FDWH ai fini del
+                                                       presidio e della corretta gestione della
+                                                       liquidità (gap RM_ 2017_ 00003)
+                                                       Miglioramenti nei criteri di alimentazione          30/06/2018                                                  MPS Capital Services –
+                                                       degli applicativi al fine di garantire la
+         Prospettica                                                                                                                                                   Government e Money
+                                                       correttezza dei saldi ai fini del presidio e
+         Procedure informatiche                                                                                                                                        Market
+                                                       della corretta gestione della liquidità (gap
+                                                       RM_ 2017_ 00008)
+                                                                                                                                                                                              30
+
+Sezione 7 – Piano di Mitigazione Rischi Informatici – SAL al 31/12/2017
+         Asset/ambito ICT                      Nr. Asset                      Mitigazione                               Scadenza                    SAL             Owner                   Contributor
+                                                                     Gestione abilitazioni ad
+        Analytics e Discovery                                        personam: verifica attuali utenti                                                              BMPS - Servizio      COG - Servizio DWH e
+        (applicativo per lo                                                                                              28/02/2018                        25%
+        svolgimento di analisi                        1              e implementazione processo                                                                     CRM e                Reporting
+        avanzate a supporto del                                      accentrato per concessione                                                                     Coordinamento
+        business)                                                    nuove abilitazioni e revisione                                                                 Commerciale
+                                                                     periodica.
+         LDAP e Info Provider                                         Ottimizzazione dell'infrastruttura
+         (componente sw per la                                        a supporto con l’obiettivo di                                                        10%      BMPS - Servizio      COG Servizio
+         verifica delle abilitazioni                                                                                      28/02/2018
+                                                       1              migliorare la performance e                                                                   Sicurezza Logica e   Sicurezza Informatica
+         degli utenti di Pashi Face e                                 ridurre il rischio gli incidenti                                                              Continuità Operativa
+         altri sistemi dipartimentali)                                                                                                                                                   e BCM
+                                                                     Obsolescenza applicativa:
+        Applicazioni estero                                          sostituzione con soluzione di                                                         35% 2    BMPS - Staff         COG – Settore
+        domestico (anticipi,                                                                                              31/03/2018 1                              Supporto             Finanza Proprietaria
+                                                      5              mercato e/o incorporazione
+        tesoreria, bonifici, rimesse                                                                                                                                Operatività          ed Estero
+        imp/exp, estero sconto)                                      funzionalità in settoriali Italia
+                                                                     (gap RM_ 2017_ 00001)                                                                          Rete Estera
+                                                                     Implementazione regole
+                                                                     filtraggio del traffico sul firewall                                                  0%       COG -
+        Firewall (apparato
+        sicurezza perimetrale di                      1              che controlla gli accessi ai servizi                31/12/2018                                 Servizio
+        rete)                                                        intranet, provenienti dal troncone                                                             Sicurezza
+                                                                     di rete ove sono attestati i server                                                            Informatica e
+                                                                     esposti verso l’esterno                                                                        BCM
+      Nel 2017 sono stati completati gli interventi di mitigazione di 8 rischi informatici di livello «Alto».
+     1.   Il gap ha scadenza il 30/09/2018, ma è previsto che gli interventi finalizzati a ricondurre il rischio entro il livello «Medio» termineranno il 31/03/18.
+     2.   Lo stato avanzamento si riferisce agli interventi finalizzati a ricondurre il rischio entro il livello «Medio» con scadenza il 31/03/18.
+                                                                                                                                                                                                               31
+
+Sezione 7 – KRI di Rischio Operativo
+Complessivamente nel 2017 si osserva
+un aumento delle perdite legate ad eventi
+di rischio operativo, in particolare in
+conseguenza        dell’accantonamento      a
+Fondo Rischi e Oneri in relazione
+all’attività di segnalazione di clientela per
+l’operatività in diamanti (76,5 €/mln). Nel
+dettaglio, nell’ultimo trimestre 2017, si
+osserva:
+<U+F0FC> In ambito Cause Legali un incremento
+    del Fondo Rischi a fronte di
+    accantonamenti       (59    €/mln)    per
+    contestazioni relative agli aumenti di
+    capitale passati.
+<U+F0FC> Aumento delle perdite per Contenzioso
+    Fiscale a causa di un accertamento
+    fiscale dell’Agenzia delle Entrate per
+    l’operazione di ricapitalizzazione c.d.
+    “Fresh 2008”. (perdita per sanzioni e
+    interessi per 6,2 €/mln).
+<U+F0FC> Crescita degli accantonamenti per
+    Cause                   Giuslavoristiche,
+    principalmente per incremento di
+    accantonamento per una vertenza con
+    un ex-dirigente di importo elevato
+    (Fondo accantonamento di 3,6 €/mln).
+<U+F0FC> Lieve         aumento      delle    perdite
+    contabilizzate in ambito Frodi Interne.
+<U+F0FC> Sostanzialmente stabili rispetto ai
+    trimestri precedenti le perdite ed il
+    numero di eventi per Carte Clonate,
+    Reclami e Rapine, Furti e Scassi.
+                                              32
+
+Sezione 7 – KRI di Rischio Informatico: transazioni fraudolente a danno dei clienti Internet Banking
+                                                            <U+F0FC> Clienti Retail BMPS – Nel 2017 i tentativi di
+                                                              frode sono leggermente diminuiti rispetto al
+                                                              2016. Tutti gli attacchi hanno interessato utenti
+                                                              del vecchio servizio Paskey IB. Il monitoraggio
+                                                              anti-frode è risultato molto efficace, con        <U+F0FC> Nel 2017 l’incidenza dei clienti Internet
+                                                              un’unica perdita di 6,4 K€ (bonifico segnalato      Banking che hanno subito perdite è risultata
+                                                              alla Filiale come sospetto e autorizzato dalla      significativamente inferiore alla soglie definite
+                                                              stessa senza attendere conferma del cliente).       nel RAS, sia per BMPS che per Widiba.
+                                                            <U+F0FC> Clienti Corporate BMPS - Da aprile 2017 i
+                                                              tentativi di frode si sono drasticamente
+                                                              ridimensionati,     grazie   alla    progressiva
+                                                              migrazione dei clienti su modalità di strong
+                                                              authentication delle operazioni dispositive. Il
+                                                              monitoraggio anti-frode è risultato molto
+          Tentativi 870K€ Tentativi 2.737K€ Tentativi 846K€
+ Importi
+          Perdite 145K€   Perdite 31K€      Perdite 11,9K€    efficace, con due perdite per complessivi 5,5
+                                                              K€.
+                                                            <U+F0FC> Nel 2017 Widiba ha registrato 3 transazioni
+                                                              fraudolente, attuate impossessandosi del
+                                                              numero di cellulare del cliente. Il presidio
+                                                              antifrode Widiba ha comunque rilevato
+                                                              l’anomalia delle operazioni e le ha bloccate.
+                                                              Pertanto non è stata registrata alcuna perdita.
+ Importi  Tentativi 274K€ Tentativi 14K€    Tentativi 82K€
+          Perdite 274K€   Perdite 2K€       Perdite -K€
+                                                                                                                                                                   33
+
+Sezione 7 – KRI di Rischio Informatico: incidenti IT
+<U+F0FC> Nel 2017 la somma pesata degli incidenti sulle risorse ICT gestite dal COG e sensibilmente diminuita                                                                          <U+F0FC> 10 incidenti IT sono stati classificati come «major», secondo i criteri e le soglie
+   rispetto al 2016 e si attesta su valori prossimi ai minimi della serie storica.                                                                                                   definiti internamente3. Tutti i major incident riguardano risorse gestite dal COG.
+                                                                                                                                                                                     La loro numerosità si colloca al di sotto delle soglie definite nel RAS.
+                                                                                                                                                                                                                               KRI INCIDENTI ICT CLASSIFICATI COME "MAJOR"                                 24
+                                                                                                                                                                                         25
+                                                                                                                                                                                         20
+                                                                                                                                                                                         15                                                                                                                12
+                                                                                                                                                                                                                                                                                                           10,0
+                                                                                                                                                                                         10
+                                                                                                                                                                                           5
+                                                                                                                                                                                                                            2  2                                  2           2
+                                                                                                                                                                                                          1                                   1    1     1   1        1            1         1        1     1
+                                                                                                                                                                                               0     0         0     0              0    0                                 0            0         0      0
+                                                                                                                                                                                           0
+<U+F0FC> Nel 2017 la somma pesata degli incidenti IT sul sistema di Banca Widiba rimane su ordini di grandezza
+   contenuti.
+                                                                                                                                      2                                                                                 Major incident           KRI           RAS Target         RAS Tolerance
+                                                                                                                                                                                <U+F0FC> Per 2 dei 10 major incident, l’apposito Comitato ha ritenuto sussistere i requisiti
+                                                                                                                                                                                     posti dalla Vigilanza per la classificazione quali «Gravi Incidenti di Sicurezza
+                                                                                                                                                                                     informatica» e la segnalazione a Banca d’Italia:
+                                                                                                                                                                                     - 10/10/17 indisponibilità funzionalità Murex (finanzia proprietaria, derivati,
+                                                                                                                                                                                        segnalazioni), causa guasto hw
+                                                                                                                                                                                     - 22/12/17 accessi anomali a Paschi Aziendaonline (visibilità su dati altri clienti),
+                                                                                                                                                                                        causa malfunzionamento del sw che assegna le autorizzazioni agli utenti
+                                                                                                                                                                                     La numerosità supera la soglia di tolleranza fissata nel RAS, pari ad 1.
+1.   I pesi sono attribuiti agli incidenti in funzione del livello di priority assegnato al relativo ticket: «Major» = 60, «Critica» = 20, «Alta» = 10, «Media» = 4, «Bassa» = 1.Sono esclusi gli incidenti relativi all’informatica periferica (pdl, laptop, stampanti, scanner, server, telefonia, …).
+2.   I pesi sono attribuiti agli incidenti in funzione del livello di impatto sulla clientela Widiba: Impatto «Alto» = 20, «Medio» = 10, «Basso» = 4. La valutazione del livello di impatto è effettuata da Widiba sulla base del numero di segnalazioni ricevute, delle funzionalità coinvolte e della
+     durata del disservizio. In caso di riclassificazione di un incidente come Major viene attribuito un peso = 60.
+3.   Allegato al documento normativo 0010D00161_ Processo Incident management.
+                                                                                                                                                                                                                                                                                                                34
+
+35

@@ -1,0 +1,292 @@
+                             Risk Appetite Monitoring
+                             Verifica andamentale RAF al 31-03-2018
+Direzione Chief Risk Officer
+
+Executive Summary - Sconfinamenti al 31-03-2018
+<U+F0A7> In data 22-02-2018 il CdA di Capogruppo ha approvato il Risk Appetite Statement 2018 (RAS 2018) per il Gruppo Montepaschi e la sua declinazione per Legal Entity e Business Unit (c.d. «cascading
+  down»).
+<U+F0A7> Il monitoraggio al 31-03-2018 degli indicatori RAS 2018 evidenzia i seguenti sconfinamenti:
+            SCONFINAMENTO RILEVATO:                                                                ORGANO DA ATTIVARE              ACTION PROPOSTE
+            •  Gruppo MPS: Net Margin (Tolerance                                                     • CdA Capogruppo              • Si propone di autorizzare temporaneamente tutti gli
+            •                                                                                                                        sconfinamenti identificati, in quanto le remedial actions
+               MPBanque: NPE ratio (Tolerance)                                                       • CdA Banque
+                                                                                                                                     sono già state indirizzate da parte delle Funzioni di
+            •  CCO: Regulatory RWA (Tolerance), Average PD (Tolerance), Worsening (Tolerance)        • CdA Capogruppo                Business, o rientrano negli obiettivi di Budget 2018 che
+            •                                                                                                                        le stesse devono perseguire.
+               CLO: Cure Rate on Utop Loans (Tolerance), Reduction of Utop/Bad Loans (Tolerance)     • CdA Capogruppo
+            •  CFO: Operational Losses (Tolerance)                                                   • CdA Capogruppo              • Lo sconfinamento di MPBanque è rimesso nelle
+                                                                                                                                     autonomie della Controllata.
+            •  COO: Internal RWA (Tolerance)                                                         • CdA Capogruppo
+                                                                                                                                                                                                    2
+
+Verifica Andamentale RAF al 31-03-2018: Gruppo
+ GRUPPOMONTEPAS CHI                                                                              KRI Dynamics                                                    Risk Appetite Monitor
+                                                                    U.M.       dec-17     mar-18        jun-18      sep-18       dec-18      Risk Profile vs Appetite Tolerance Capacity         Check
+                        CET1 Ratio (*)                                  %       14,78%     14,37%                                                14,37% >        12,25%     11,44%      9,94%     OK
+ Capital Adequacy
+                        Total Capital Ratio (*)                         %       14,97%     15,75%                                                15,75% >        14,60%     13,94%     13,44%     OK
+                        Net Cash Position 1M / Total Assets             %           13%         14%                                                  14% >         13,3%       8,5%      6,0%     OK
+ Liquidity
+                        LCR                                             %         199%        196%                                                 196% >           197%       125%      100%    Alert
+ Adequacy (°)
+                        NSFR                                            %         110%        106%                                                 106% >           112%       102%      100%    Alert
+ Leverage ratio (°)     Leverage Ratio (*)                              %        5,97%       5,67%                                                5,67% >          5,49%      5,00%     3,00%     OK
+                        NPE Ratio                                       %        37,0%       34,2%                                                34,2% <          36,8%      37,5%     40,0%     OK
+ Asset Quality (°)
+                        Texas Ratio                                     %       111,5%     111,1%                                                111,1% <        111,2%     125,0%     130,0%     OK
+                        RAROC                                           %         -2,5%        2,1%                                                 2,1% >         2,39%      0,50%     0,00%    Alert
+ Performance
+                        Net Margin                                  €/mln        1.483         304                                                   304 >        1.329      1.287           - Tolerance
+                        Internal Controls System Score (^):
+                            Macroprocessi non adeguati (^^)          num              0         n.a.                                                       <                      0
+ Internal Controls
+                            Macroprocessi parz. adeguati             num              5         n.a.                                                       <                      4
+                        IT Risk: High/Very High Risk Resources       num              0            0                                                    0 <                       0               OK
+ (*) Transitional ratios
+ (°) In ragione della prevista cessione degli NPL, programmata entro il primo semestre 2018, è stato previsto uno specifico «phase-in» per i KRI di Liquidity, Leverage Ratio e Asset Quality
+ (^) Monitoraggio semestrale. Soglie definite con riferimento al numero di Macroprocessi oggetto di assessment congiunto di tutte le Funzioni Aziendali di Controllo
+ (^^) Numero di Macroprocessi valutati come "non adeguati" anche disgiuntamente (singolarmente) da ciascuna Funzione Aziendale di Controllo
+  <U+F0A7> Net Margin: il valore a fine trimestre (304 €/mln) è pari al 23% circa dell’Appetite annuo (1329 €/mln) e al 23,6% della Tolerance annua (1287 €/mln). Lo scostamento trimestrale rispetto
+       alla Tolerance è pertanto minimo e pari a 18 €/mln circa.
+          <U+F0D8> Si propone pertanto che il CdA autorizzi lo sconfinamento di Tolerance sul Net Margin al 31-03-2018, raccomandando alle Funzioni di Business di perseguire puntualmente gli obiettivi di
+             Budget annuo assegnati.
+  <U+F0A7> Massima Esposizione verso i Soggetti Collegati: le attività di rischio di credito, controparte e di mercato verso la totalità dei soggetti connessi ammontano a 3,65 €/mld circa ed il loro valore
+       ponderato (1,7 €/mld circa) rapportato al Capitale Ammissibile consolidato è pari al 17,4% a fronte della Risk Tolerance del 30% (assorbita nella misura del 58%) deliberata dal CdA BMPS in
+       sede di RAS 2018.
+                                                                                                                                                                                                         3
+
+Verifica Andamentale RAF al 31-03-2018: MPS Capital Services
+ MPS CAPITAL SERVICES                                                                                   KRI Dynamics                                             Risk Appetite Monitor
+                                                                         U.M.       dec-17        mar-18      jun-18      sep-18       dec-18   Risk Profile vs Appetite Tolerance Capacity     Check
+                        CET1 Ratio (*)                                      %         13,74%       11,73%                                           11,73% >     11,78%     11,38%      9,88%   Alert
+ Capital Adequacy       Total Capital Ratio (*)                             %         18,87%       16,25%                                           16,25% >     16,02%     14,38%     13,38%    OK
+                        Internal RWA - Market Risk                       €/mln            846         835                                              835   <       846        996           -  OK
+ Liquidity Adequacy Gap Ratio 1Y                                            %            110%        106%                                             106% >        103%       100%        70%   OK
+ Leverage ratio         Leverage Ratio (*) (°)                              %           4,74%       3,17%                                            3,17% >       3,41%      3,15%     3,00%   Alert
+ Asset Quality          NPE Ratio (°°)                                      %         42,40%       35,87%                                           35,87% <     42,21%     43,21%     45,21%    OK
+ Performance            RAROC (°°°)                                         %          -3,34%       2,99%                                            2,99% >       4,01%      0,65%     0,00%   Alert
+ Internal Controls      IT Risk: High/Very High Risk Resources            num                0           0                                                 0 <          0          0          -  OK
+ (*): Transitional ratios
+ (°): Valori di Appetite/Tolerance/Capacity pre cessione. Post cessione sarà applicato un Appetite pari a 3,50%, una Tolerance pari a 3,25% e una Capacity pari a 3,00%.
+ (°°): Valori di Appetite/Tolerance/Capacity pre cessione. Post cessione sarà applicato un Appetite pari a 23,00%, una Tolerance pari a 24,00% e una Capacity pari a 26,00%.
+ (°°°): Si segnala che il valore di Appetitele indicato in tabella è stato rettificato rispetto a quanto approvato dal CdA del 22-02-2018 come da comunicazione della Funzione Pianificazione
+      alla Controllata in sede di assegnazione obiettivi di Budget
+                                                                                                                                                                                                      4
+
+Verifica Andamentale RAF al 31-03-2018: MPS Leasing & Factoring
+MPS LEASING & FACTO RING                                                                               KRI Dynamics                                             Risk Appetite Monitor
+                                                                        U.M.       dec-17        mar-18      jun-18      sep-18       dec-18   Risk Profile vs Appetite Tolerance Capacity     Check
+                       CET1 Ratio (*)                                      %         10,85%       19,25%                                           19,25% >      14,37%    11,38%       9,88%   OK
+Capital Adequacy
+                       Total Capital Ratio (*)                             %         11,93%       20,34%                                           20,34% >      15,39%    14,38%      13,38%   OK
+Liquidity Adequacy Gap Ratio 1Y                                            %            118%         104%                                             104% >       103%       100%        70%   OK
+Leverage ratio         Leverage Ratio (*)                                  %           6,25%      12,21%                                           12,21% >      10,63%      8,00%      3,00%   OK
+Asset Quality          NPE Ratio (°°)                                      %         41,30%       38,83%                                           38,83% <      41,03%    42,53%      44,53%   OK
+Performance            RAROC (°°°)                                         %        -13,64%        -7,75%                                           -7,75% >    -12,60%   -14,58%     -16,84%   OK
+Internal Controls      IT Risk: High/Very High Risk Resources            num               0            0                                                 0 <     0,00%      0,00%           -  OK
+(*): Transitional ratios
+(°°): Valori di Appetite/Tolerance/Capacity pre cessione. Post cessione sarà applicato un Appetite pari a 19,50%, una Tolerance pari a 21,00% e una Capacity pari a 23,00%.
+(°°°): Si segnala che il valore di Appetitele indicato in tabella è stato rettificato rispetto a quanto approvato dal CdA del 22-02-2018 come da comunicazione della Funzione Pianificazione
+     alla Controllata in sede di assegnazione obiettivi di Budget
+                                                                                                                                                                                                     5
+
+Verifica Andamentale RAF al 31-03-2018: Widiba
+WIDIBA                                                                                                 KRI Dynamics                                             Risk Appetite Monitor
+                                                                        U.M.       dec-17        mar-18      jun-18      sep-18       dec-18   Risk Profile vs Appetite Tolerance Capacity     Check
+                       CET1 Ratio (*)                                      %          35,24%      33,47%                                           33,47% >     24,87%     11,38%       9,88%   OK
+Capital Adequacy
+                       Total Capital Ratio (*)                             %          35,24%      33,47%                                           33,47% >     24,87%     14,38%      13,38%   OK
+Liquidity Adequacy Gap Ratio 1Y                                            %            205%         243%                                             243% >       130%       100%        70%   OK
+Leverage ratio         Leverage Ratio (*)                                  %          28,00%      24,28%                                           24,28% >       3,39%      3,10%      3,00%   OK
+Asset Quality          NPE Ratio                                           %           5,10%        3,94%                                            3,94% <      4,00%      5,00%      7,00%   OK
+Performance            RAROC (°°°)                                         %         -41,15%        3,35%                                            3,35% >     -0,33%     -6,44%    -13,08%   OK
+                       IT Risk: High/Very High Risk Resources           num                0            0                                                 0 <          0         0           -  OK
+                       IT Risk: High/Very High Risk IT Unit             num                0            0                                                 0 <          0         0           -  OK
+Internal Controls      Major incidents on IT Resources                  num                0            0                                                 0 <          0         4           -  OK
+                       Major security incidents on IT Resources         num                0            0                                                 0 <          0         1           -  OK
+                       Fraud on IB clients                                 %        0,0000%      0,0000%                                          0,0000% <    0,0008% 0,0025%               -  OK
+(*) Transitional ratios
+(°°°): Si segnala che il valore di Appetitele indicato in tabella è stato rettificato rispetto a quanto approvato dal CdA del 22-02-2018 come da comunicazione della Funzione Pianificazione
+     alla Controllata in sede di assegnazione obiettivi di Budget
+                                                                                                                                                                                                     6
+
+Verifica Andamentale RAF al 31-03-2018: Monte Paschi Banque e MPS Belgio
+  MP BANQ UE                                                                                              KRI Dynamics                                              Risk Appetite Monitor
+                                                                          U.M.       dec-17        mar-18        jun-18     sep-18       dec-18   Risk Profile vs Appetite Tolerance Capacity       Check
+                         CET1 Ratio (*)                                      %         13,38%        13,48%                                           13,48% >      13,26%     10,13%       9,13%    OK
+  Capital Adequacy
+                         Total Capital Ratio (*)                             %         13,38%        13,48%                                           13,48% >      13,26%     13,13%     12,63%     OK
+                         LCR                                                 %            562%         352%                                             352% >         145%       125%       100%    OK
+  Liquidity Adequacy
+                         NSFR                                                %            121%         119%                                             119% >         110%       107%       100%    OK
+  Leverage ratio         Leverage Ratio (*)                                  %           7,87%        7,91%                                            7,91% >        7,87%      7,20%      3,00%    OK
+  Asset Quality          NPE Ratio                                           %           11,0%        11,7%                                            11,7% <        10,5%      11,5%      13,5% Tolerance
+  Performance            RAROC (°°°)                                         %           4,59%        0,21%                                            0,21% >       -0,54%     -1,04%     -1,55%    OK
+  (*) Transitional ratios. Preliminary Data.
+  (°°°): Si segnala che il valore di Appetitele indicato in tabella è stato rettificato rispetto a quanto approvato dal CdA del 22-02-2018 come da comunicazione della Funzione Pianificazione
+       alla Controllata in sede di assegnazione obiettivi di Budget
+    <U+F0A7> NPE Ratio: il valore risulta oltre la Tolerance.
+            <U+F0D8> Sono in corso gli approfondimenti con la Controllata. In ogni caso l’escalation per lo sconfinamento della Tolerance è rimesso nelle autonomie della Controllata stessa come da
+               Direttiva RAF di Gruppo.
+ MP BELGIO                                                                                               KRI Dynamics                                              Risk Appetite Monitor
+                                                                          U.M.      dec-17        mar-18        jun-18     sep-18       dec-18   Risk Profile vs Appetite Tolerance Capacity       Check
+                        CET1 Ratio (*)                                      %         12,92%        11,77%                                           11,77% >      12,95%     10,13%      9,13%    Alert
+ Capital Adequacy
+                        Total Capital Ratio (*)                             %         14,55%        13,26%                                           13,26% >      14,58%     13,13%     12,63%    Alert
+                        LCR                                                 %            556%         366%                                             366% >         145%       125%       100%     OK
+ Liquidity Adequacy
+                        NSFR                                                %            117%         124%                                             124% >         110%       107%       100%     OK
+ Leverage ratio         Leverage Ratio (*)                                  %           6,69%        6,61%                                            6,61% >        6,74%      5,46%     3,00%    Alert
+ Asset Quality          NPE Ratio                                           %             7,6%        7,7%                                            7,74% <         7,6%       8,6%     10,6%    Alert
+ Performance            RAROC                                               %           0,88%        0,68%                                            0,68% >        0,22%      0,12%     0,00%      OK
+ (*) Transitional ratios. Preliminary Data.
+                                                                                                                                                                                                            7
+
+Verifica Andamentale RAF al 31-03-2018: CCO
+CHIEF COMMERCIAL OFFICER (CCO)                                                                          KRI Dynamics                                          Risk Appetite Monitor
+                                                                          U.M.      dec-17        mar-18       jun-18     sep-18       dec-18    Risk Profile vs Appetite Tolerance    Check
+                       Total Regulatory RWA                              €/mln         44.247      46.288                                            46.288    <    45.282    45.915 Tolerance
+Capital Adequacy
+                       Total Internal RWA                                €/mln         46.155      47.195                                            47.195    <    46.580    47.264   Alert
+Liquidity Adequacy Loan to Deposit Ratio (Commercial)                       %          130,1%      107,5%                                            107,5% <       108,0%    114,0%    OK
+                       Average PD (AIRB)                                    %            2,14%      2,17%                                             2,17% <        2,05%     2,09% Tolerance
+                       Average LGD (AIRB)                                   %          26,10%      26,54%                                            26,54% <       25,99%    27,12%   Alert
+Asset Quality
+                       Net Default Flow                                  €/mln           2.190         304                                               304 <         404       435    OK
+(Lending) (°)
+                       Cured Exposures (°°)                              €/mln             270         180                                               180 >         146       119    OK
+                       Worsening towards UtoP (*)/Bad Loans (flow)       €/mln           1.442         383                                               383 <         248       262 Tolerance
+                       Operational Losses (A)                            €/mln         114,61           26                                                26 <       82,14    109,53    OK
+Performance
+                       RAROC (°°°)                                          %           -0,15%     11,34%                                            11,34% >       10,43%     9,50%    OK
+Internal Controls      IT Risk: High/Very High Risk Resources             num                0           0                                                  0 <           0         0   OK
+(°) i valori di Appetite e Tolerance sono calcolati secondo un criterio di avvicinamento a quelli previsti per fine 2018
+(°°): Past Due e Utop (Rete)
+(*): Rischio Anomalo e Crediti Ristrutturati
+(A): Dato annualizzato
+(°°°): Si segnala che il valore di Appetitele indicato in tabella è stato rettificato rispetto a quanto approvato dal CdA del 22-02-2018 come da comunicazione della Funzione Pianificazione
+     alla Controllata in sede di assegnazione obiettivi di Budget
+ <U+F0A7> Regulatory RWA: si rileva lo sconfinamento della Tolerance riconducibile alla cessione di MP Belgio e MP Banque non ancora avvenuta, prevista nel Piano di Ristrutturazione.
+        <U+F0D8> Si propone al CdA BMPS di autorizzare temporaneamente lo sconfinamento fino ad avvenuta cessione.
+ <U+F0A7> Average PD: si rileva lo sconfinamento della Tolerance correlato principalmente ai crediti della Dir. Corporate, che sconta il dowgrading in E3 di Cinecittà e Wolt Spa, con un conseguente impatto
+      sulla PD media di circa 9 bps. (al netto del suddetto dowgrading, l’Average PD sarebbe risultata pari a 2,09% e quindi in linea con la Tolerance). La Direzione si impegna a migliorare la qualità del
+      portafoglio e a riportare la PD al di sotto del limite selezionando opportunamente le nuove erogazioni sulla clientela in area sviluppo e facendo leva sulla riqualificazione delle posizioni sulla
+      clientela peggiore.
+        <U+F0D8> Si propone al CdA BMPS di autorizzare lo sconfinamento al 31-03-2018 sulla base delle azioni gestionali individuate.
+ <U+F0A7> Worsening: si rileva lo sconfinamento della Tolerance correlato principalmente a BMPS Corporate, che sconta il trasferimento da IP Rete a Ristrutturati/Rischio Anomalo di un numero limitato di
+      controparti di grande importo unitario (Atac, Grandi Lavori e Trevi Finanziaria). La Direzione ritiene pertanto che il trend osservato nel primo trimestre 2018 non sia significativo dell’andamento
+      del portafoglio complessivo, che pertanto dovrebbe rientrare nei limiti previsti già a giugno/settembre.
+        <U+F0D8> Si propone al CdA BMPS di autorizzare temporaneamente lo sconfinamento fino al 30-09-2018.
+                                                                                                                                                                                                             8
+
+Verifica Andamentale RAF al 31-03-2018: CLO
+ CHIEF LENDING OFFICER (CLO)                                                                        KRI Dynamics                                    Risk Appetite Monitor
+                                                                       U.M.       dec-17     mar-18         jun-18       sep-18 dec-18 Risk Profile vs Appetite Tolerance    Check
+ Capital Adequacy      Total Regulatory RWA                            €/mln        1.117          853                                        853    <     6.460     6.505    OK
+                       Average PD (AIRB) on New Lending                  %          1,24%       1,17%                                       1,17% <        1,64%     1,72%    OK
+                       Cure Rate on UtoP Loans (*)                       %          4,04%       0,62%                                       0,62% >        2,25%     1,82% Tolerance
+ Asset Quality
+                       Danger Rate on UtoP Loans (*)                     %         24,50%       2,20%                                       2,20% <        5,06%     5,20%    OK
+ (Lending) (°)
+                       Reduction (UtoP Loans) (*)                      €/mln        1.706          185                                        185    >       428       271 Tolerance
+                       Reduction (Bad Loans)                           €/mln        1.231           49                                         49    >        91        73 Tolerance
+ Internal Controls     IT Risk: High/Very High Risk Resources           num              0            0                                          0   <          0         0   OK
+ (°) i valori di Appetite e Tolerance sono calcolati secondo un criterio di avvicinamento a quelli previsti per fine 2018
+ (*): Rischio Anomalo e Crediti Ristrutturati
+   <U+F0A7> Cure Rate on Utop Loans: si rileva lo sconfinamento della Tolerance riconducibile sia ad un minor recupero osservato sul Rischio Anomalo che sui Ristrutturati. La Direzione ha posto in
+        essere ad una serie di azioni che dovrebbero portare a un rientro nelle soglie già dal III Q 2018.
+          <U+F0D8> Si propone al CdA BMPS di autorizzare temporaneamente lo sconfinamento fino al 30-09-2018.
+   <U+F0A7> Reduction of Utop Loans: si rileva lo sconfinamento della Tolerance correlato ai tempi tecnici esistenti fra binding offer e incasso del dovuto. Nei prossimi mesi si attende un
+        miglioramento nel trend dell’aggregato, che dovrebbe rientrare nelle soglie nel II/III Q 2018, in considerazione anche delle binding offer ricevute nei mesi di marzo-maggio e che ancora
+        non si sono tradotte in una riduzione del GBV dei crediti.
+          <U+F0D8> Si propone al CdA BMPS di autorizzare temporaneamente lo sconfinamento fino al 30-09-2018.
+   <U+F0A7> Reduction of Bad Loans: si rileva lo sconfinamento della Tolerance. La Reduction dei Bad Loans, risulta pari al 49 €/mln rispetto a 73 €/mln della Tolerance, scontando il ritardo
+        dell’avvio della piattaforma Sirio, che è diventata operativa dal 15 maggio 2018. Si ritiene pertanto che a partire da tale data si osserverà un progressivo miglioramento dell’aggregato
+        e un progressivo rientro nei limite.
+          <U+F0D8> Si propone al CdA BMPS di autorizzare lo sconfinamento al 31-03-2018.
+                                                                                                                                                                                                  9
+
+Verifica Andamentale RAF al 31-03-2018: CFO
+ CHIEF FINANCIAL OFFICER (CFO)                                                                   KRI Dynamics                                             Risk Appetite Monitor
+                                                                    U.M.      dec-17      mar-18        jun-18      sep-18      dec-18     Risk Profile vs Appetite Tolerance      Check
+                        CET1 Capital (Group) (*)                    €/mln         8.951      8.876                                                8.876 >        8.348      7.960   OK
+                        Total Capital (Group) (*)                   €/mln         9.064      9.727                                                9.727 >        9.945      9.496  Alert
+ Capital Adequacy
+                        Total Regulatory RWA                        €/mln         7.815      7.577                                                7.577 <        9.899    10.359    OK
+                        Total Internal RWA                          €/mln        14.075     11.679                                              11.679 <        13.909    14.968    OK
+                        Time to Survival under stress                days           136         174                                                  174 >         140         75   OK
+ Liquidity
+                        Gap Ratio 3Y                                  %            88%         88%                                                  88% >          93%       82%   Alert
+ Adequacy (°)
+                        Asset Encumberance Net Ratio                  %            50%         52%                                                  52% <          48%       60%   Alert
+                        Operational Losses (A)                      €/mln          6,47      23,11                                                23,11 <         8,15     10,87 Tolerance
+ Performance
+                        RAROC (Finance Department)                    %         11,56%       8,13%                                               8,13% >         5,91%     5,50%    OK
+ Internal Controls      IT Risk: High/Very High Risk Resources       num              0           0                                                    0 <            0         0   OK
+ (*) Transitional ratios
+ (°): In ragione della prevista cessione degli NPL, programmata entro il primo semestre 2018, è stato previsto uno specifico «phase-in» per i KRI di Liquidity
+ (A): Dato annualizzato
+ <U+F0A7> Operational Losses: indicatore oltre la soglia massima di Risk Tolerance. Le perdite sono attribuibili ai nuovi accantonamenti per complessivi 5,8 €/mln relativi al contenzioso fiscale IRES
+      (anni 2007/2008).
+         <U+F0D8> Poiché lo sconfinamento della Tolerance deriva dalla annualizzazione del dato trimestrale (5,8 €/mln) contro una soglia annua di 8,15 €/mln, si propone di autorizzare lo sconfinamento
+             richiedendo alle funzioni di business di evidenziare eventuali azioni di mitigazione.
+                                                                                                                                                                                                   10
+
+Verifica Andamentale RAF al 31-03-2018: COO
+ CHIEF OPERATING OFFICER (COO)                                                                 KRI Dynamics                                 Risk Appetite Monitor
+                                                                   U.M.      dec-17     mar-18       jun-18     sep-18 dec-18  Risk Profile vs Appetite Tolerance    Check
+ Capital Adequacy     Total Internal RWA                           €/mln         2.867      2.885                                    2.885 <       2.776     2.838 Tolerance
+ Performance          Operational Losses (A)                       €/mln          3,40       2,55                                     2,55 <        9,26     12,35    OK
+                      IT Risk: High/Very High Risk Resources       num               0          0                                         0 <           0         0   OK
+                      IT Risk: High/Very High Risk IT Unit         num               0          0                                         0 <           0         0  Alert
+ Internal Controls    Major incidents on IT Resources              num              10          1                                         1 <          12        24   OK
+                      Major security incidents on IT Resources     num               2          1                                         1 <           0         2   OK
+                      Fraud on IB clients                            %       0,0003%     0,0000%                                 0,0000% <       0,0008% 0,0025%      OK
+ (A): Dato annualizzato
+   <U+F0A7> Total Internal RWA: lo sconfinamento della Tolerance è causato dalla cessione di immobili per 100 €/mln non ancora avvenuta.
+         <U+F0D8> Si propone al CdA BMPS di autorizzare lo sconfinamento al 31-03-2018, raccomandando alle Funzioni di Business di perseguire puntualmente gli obiettivi di Budget annuo assegnati.
+   <U+F0A7> IT Risk - risorse con Rischi Alti e Molto Alti: nell’ambito del RAS è stato definito che qualora il rischio delle risorse informatiche ecceda il livello “Medio” (come combinazione di probabilità e
+       impatto secondo la policy metodologica adottata), debbano essere prontamente individuati interventi di mitigazione atti a riportare il rischio entro tale limite, da realizzarsi in un orizzonte
+       temporale massimo di 12 mesi.
+       Al 31/03/2018 era presente 1 asset ICT con rischi valutati di livello “Alto” per il quale sono state individuate azioni di mitigazione entro l’orizzonte massimo 12 mesi:
+         Asset ICT                                                                                                            Scadenza azioni di mitigazione
+         Firewall (apparato sicurezza perimetrale di rete)                                                                                30/09/2018 (*)
+        (*) Scadenza anticipata al 30/9/2018 su richiesta del Comitato Rischi (scadenza precedente 31/12/2018).
+                                                                                                                                                                                                          11
+
+Verifica Andamentale RAF al 31-03-2018: CHCO
+ CHIEF HUMAN CAPITAL OFFICER (CHCO)                                                   KRI Dynamics                            Risk Appetite Monitor
+                                                                 U.M.  dec-17   mar-18      jun-18 sep-18 dec-18 Risk Profile vs Appetite Tolerance   Check
+ Performance          Operational Losses (*) (A)                 €/mln     7,93     1,08                                1,08 <        8,52     11,37   OK
+ Internal Controls    IT Risk: High/Very High Risk Resources (A) num          0        0                                    0 <           0         0  OK
+ (*) Mainly Employments Litigations
+ (A): Dato annualizzato
+                                                                                                                                                            12
+
+Verifica Andamentale RAF al 31-03-2018: Monitoraggio impatto OMR
+<U+F0A7> Al 31 marzo 2018 l’impatto del Portafoglio OMR, quantificato in 364,67 €/mln di RWA, è complessivamente pari a 11 bp in termini di Transitional CET1 Ratio e non determina pertanto una
+A
+  incoerenza con gli obiettivi RAF di Gruppo per l’anno in corso.
+<U+F0A7> Se inoltre considerassimo l’effetto potenziale anche delle OMR «pending», ovvero di quelle operazioni per le quali è stato già rilasciato Parere favorevole e che sono già state autorizzate - ma non
+B
+  ancora perfezionate - l’ulteriore impatto potenziale sul CET1 Ratio corrente sarebbe negativo per altri 19 bp, portando la stima finale del Ratio al 14,18% (comunque superiore all’obiettivo di
+  Risk Appetite per l’anno in corso). Tale impatto è dato dalla risultante netta tra:
+  i) un impatto positivo a CET1 Capital (+4,49 €/mln), per contributo stimato a Conto Economico (NOPAT) nel 2018;
+  ii) maggiori RWA per le operazioni da effettuare, stimate complessivamente in circa 826,20 €/mln.
+    CURRENT PORTFOLIO:                                         Reference Date 31.03.2018
+    IMPACT VALUATION
+                                      in €/mln # Current monitored portfolio           Gross EAD                     Net EAD                  Total RWA                          Total DPA
+                OMR Portfolio                                6                                       330,37                       319,64                     364,67                            17,44
+                                                                                                                                                             Impact Analysis
+                                                                                                                                             on OMR evaluated in 2018, currently "Pending"
+                                in €/mln and %                                    OMR Portfolio Impact                                   OMR Portfolio Impact
+                                                  Group Capital Adequacy                                     Group Capital Adequacy                                       Group Capital Adequacy
+                                                (including OMR Portfolio)          Absolute Variation        (without OMR Portfolio)      Absolute Variation             (including OMR Pending)
+              Common Equity Tier 1                                   8.876,24                         -17,44                    8.893,68                         4,49                       8.880,73
+                   Total RWA                                        61.781,42                        364,67                    61.416,75                      826,20                       62.607,62
+                  CET 1 ratio                                          14,37%                        -0,11%                       14,48%                      -0,18%                          14,18%
+                                                                                                     A
+                                                                                                                             B
+                                                                                                                                                                                                        13
+
+14

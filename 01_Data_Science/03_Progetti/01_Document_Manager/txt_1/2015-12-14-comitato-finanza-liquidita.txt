@@ -1,0 +1,1854 @@
+Comitato Finanza e Liquidità
+        Siena, 14 Dicembre 2015 1
+
+<U+F071> Economia e Mercati
+<U+F071> Situazione di mercato e andamento liquidità a breve
+<U+F071> Posizione di tasso e ALM
+<U+F071> Strategie di investimento e aggiornamento sull'operatività
+<U+F071> Varie
+<U+F071> Aggiornamento TIT - Area Pianificazione
+<U+F071> Operatività MPSCS
+<U+F071> Aggiornamento obbligazioni retail – Area Retail
+                                                             2
+
+    Le Economie e i mercati in breve
+<U+F071>I    dati del        terzo   trimestre  hanno evidenziato  una  decelerazione      PIL tendenziale G4
+  nell’andamento ciclico dei principali paesi avanzati. Negli Stati Uniti,
+  pur con la revisione al rialzo, si conferma il rallentamento del ritmo di
+  espansione del Pil rispetto al periodo precedente (+0,5%, dal +1,0%
+  nel Q2).
+<U+F071> Anche in area euro si è registrata una decelerazione nel terzo trimestre
+  (+0,3% la variazione del Pil, dopo il +0,5 e +0,4% in Q1 e Q2). Il
+  deterioramento del contesto internazionale si è riflesso sul clima di
+  fiducia degli imprenditori, sceso in novembre sulla base di una visione
+  più pessimistica delle attese di produzione e sul giudizio per gli
+                                                                                Indici PMI Markit Eurozona
+  ordinativi correnti.
+<U+F071> La modesta dinamica inflazionistica (+0,1% y/y in novembre) e i lenti
+  ma       costanti     miglioramenti   del mercato  del  lavoro (il tasso   di
+  disoccupazione in ottobre si è attestato al 10,7%, 0,1% in meno
+  rispetto al mese precedente) dovrebbero continuare a sostenere redditi
+  e consumi.
+<U+F071> In Italia, nel terzo trimestre il ritmo di espansione dell’attività
+  produttiva avviatasi a inizio anno ha segnato un rallentamento. La
+  crescita del Pil nel Q3 è stata dello 0,2% q/q.
+    Fonte: Bloomberg.                                                                                      3
+
+      Consensus Macro e di Mercato
+                                 ITALY - GDP                 ITALY - INFLATION
+                           2015     2016      2017       2015       2016            2017        Fonte e data
+           Banca d'Italia   0,7      1,5                  0,2        1,1                        Bollettino economico - ottobre 2015
+           Governo          0,9      1,6       1,6        0,3        1,0             1,7        Nota di Aggiornamento del DEF 2015, 18/09/15
+           EU Commission    0,9      1,5       1,4        0,2        1,0             1,9        Autumn 2015 Forecast
+           IMF              0,8      1,3                  0,2        0,7                        WEO - ottobre 2015
+           OECD             0,8      1,4       1,4        0,7        1,0             1,2        Economic Outlook - ottobre 2015
+           Prometeia        0,8      1,2       1,4        0,1        0,9             1,5        Rapporto di Previsione - ottobre 2015
+           BBG Consensus    0,8      1,2       1,2        0,2        1,0             1,4        Bloomberg - 27 novembre 2015
+                               EURO AREA - GDP            EURO AREA - INFLATION
+           BBG Consensus    1,5      1,7       1,7        0,1        1,1             1,5        Bloomberg - 27 novembre 2015
+                                                   ECB Staff macroeconomic projections for the euro area
+                                                                                          December 2015                                 September 2015
+                                                                                   2015             2016          2017           2015        2016        2017
+                                                   HICP                             0,1              1,0            1,6           0,1         1,1         1,7
+Nell’aggiornamento di dicembre la ECB
+                                                   Real GDP                         1,5              1,7            1,9           1,4         1,7         1,8
+ha rivisto marginalmente al rialzo le              World (ex-EA) GDP                3,1              3,6            3,9           3,2         3,8         4,0
+stime per il GDP ed al ribasso quelle per          EA foreign demand*              -0,1              2,7            3,8           1,5         3,3         4,1
+l’inflazione. Driver: Incremento consumi
+pubblici (crisi migranti) che più che
+compensa diminuzione capex.                                                             Bloomberg Consensus; ref. 24/11/15
+                                                                                             Last             Q4 15         Q1 16     Q2 16    Q3 16   Q4 16
+                                                                    ECB refi rate            0,05              0,05          0,05      0,05     0,05    0,05
+                                                                    Euribor 3m              -0,10             -0,08         -0,07     -0,07    -0,06   -0,05
+                                                                    10y Germany              0,50              0,64          0,70      0,82     0,94    1,09
+                                                                    10y Italy                1,48              1,71          1,82      1,95     2,08    2,20
+                                                                    EURUSD                   1,06              1,08          1,06      1,06     1,06    1,07
+                                                                    Tutte le forecast sono per la fine del periodo indicato
+                                                                                                                                                            4
+
+     Performance BMPS vs peers
+<U+F071> L’ultimo mese è stato caratterizzato da una debolezza dei mercati azionari per l’incertezza macroeconomica e il
+  QE della BCE inferiore alle attese.
+<U+F071> L’ Euro Stoxx Banks è sceso del -7%, BMPS del -21%, similmente a Carige -23%:
+       <U+F0A7> Non sono emersi particolari venditori o market rumours a noi non noti. BTG ha limato la quota ma è
+            informazione pubblica.
+       <U+F0A7> Sul titolo BMPS si sono viste vendite da parte di hedge fund macro che vendono basket di titoli esposti alla
+            ripresa macroeconomica, tra cui Carige e BMPS.
+       <U+F0A7> Gli investitori hanno ragionato in ottica di paese / settore e l’interesse sulle banche italiane è molto
+            limitato per l’assenza di catalyst positivi. Inoltre sono attribuite poche probabilità alla bad bank di sistema e
+            all’M&A tra le banche italiane, almeno nel breve.
+       <U+F0A7> Fattori tecnici: stop loss dopo la rottura del supporto in area €1,4.
+                                            Share Price Performance - Summary
+     Fonte: Bloomberg.                                                                                                        5
+
+     Settore Bancario - Newsflow
+                                                            ITALIA
+<U+F071> 22/11/15 - Il governo italiano e la Banca d’Italia hanno dato soluzione alla crisi di 4 banche (Banca Marche, Banca
+  Popolare dell’Etruria e del Lazio, CariChieti e Cassa di Risparmio di Ferrara).
+<U+F071> 24/11/15 - Veneto Banca ha emesso 200 mln di un bond Tier 2 10NC5, yield: 10,5%.
+<U+F071> 26/11/15 - La BCE ha concluso il processo di revisione e valutazione prudenziale (SREP).
+                                                    INTERNAZIONALE
+<U+F071> 09/11/15 - Il Financial Stability Board (FSB) ha comunicato i termini finali del TLAC (Total Loss Absorption Capacity).
+<U+F071> 24/11/15 - La Commissione Europea ha pubblicato una proposta di Regolamento su uno schema di assicurazione dei
+  depositi per l'area euro.
+<U+F071> 30/11/15 - La Bank of England ha annunciato i risultati dello stress test del 2015.         I test hanno coperto le sette
+  maggiori banche e building societies. La valutazione è stata rispetto a due metriche: un CET1 del 4,5% e un leverage
+  ratio addizionale del 3% rispetto alla leverage exposure measure. La PRA (Prudential Regulation Authority) ha
+  commentato che lo stress test non ha rivelato shortfall di capitale per 5 delle 7 banche, con l’esclusione di RBS e
+  Standard Chartered.
+                                                                                                                      6
+
+SREP requisiti di capitale - Novembre 2015
+                                                                                                              Gross NPE/
+                                              SREP                                   CET1                                       NPEs Texas Ratio*
+                                                                                                        Gross Customer Loans
+    Company
+                      new               old          <U+0394> bps            Date        30/09/2015 30/09/2014 30/09/2015 30/09/2014 30/09/2015 30/09/2014
+MPS                  10,75%          10,20%            55         31/12/2016        12,0%       12,8%     34,8%       28,9%     146%        157%
+ISP                   9,50%           9,00%            50         01/01/2016        13,4%       13,3%     17,1%       16,7%     91%          93%
+UBI                   9,25%           9,50%           -25             N.A.          13,0%       13,0%     15,5%       14,7%     113%        113%
+BAPO                  9,55%           9,40%            15         01/01/2016        12,7%       13,7%     24,8%       22,9%     156%        156%
+BPM                   9,00%           9,00%             0             N.A.          11,4%       11,3%     17,0%       16,7%     88%          87%
+BPER                  9,25%           9,00%            25             N.A.          11,6%       11,1%     23,5%       22,3%     121%        126%
+UCI                    N.A.           9,50%                           N.A.          10,5%       10,7%     15,6%       16,2%     94%          94%
+Carige               11,25%          11,50%           -25             N.A.          12,2%                 28,0%       23,8%     130%        150%
+*BMPS calculations. Texas ratio: Gross NPEs / (Tangible equity + Provisions for Impaired Loans)
+                                                                                                                                                    7
+
+Stima dei bond distribuiti dalle banche alla clientela retail
+<U+F071> Le banche italiane collocano parte dei loro bonds alla clientela retail (si stima circa 150 mld per le 5 maggiori
+  banche)
+<U+F071> La tavola riporta una stima dei bonds collocati alla clientela retail (ammontare minimo: € 1,000, ISIN code: IT)
+                           INTESA               UNICREDIT                      UBI                        BP                    MONTE
+                     Nominal amount (bn)    %  Nominal amount (bn)    %  Nominal amount (bn)    %  Nominal amount (bn)    %  Nominal amount (bn)   %
+   Secured                     0,8        2,2%        3,25          7,1%          -           0,0%          -           0,0%         2,6         17,0%
+  Unsecured                   34,0       94,4%        34,3         75,0%        25,9         90,3%       29,43         95,8%        10,1         66,1%
+ Subordinated                  1,2        3,4%         8,2         17,9%         2,8          9,7%         1,3          4,2%         2,6         17,0%
+    Total                     36,0                    45,6                      28,6                      30,7                      15,3
+  Fonte: dati societari, Bloomberg.                                                                                                                   8
+
+ Feedback incontri agenzie di rating (1/3)
+<U+F071> Per tutte le agenzie di rating la viability della banca è il fattore chiave nella definizione del rating mentre il
+   supporto statale diventa un fattore marginale
+<U+F071> Si riportano sotto i driver del rating di FITCH
+                          IDR Drivers: End 1Q15                                           IDR Drivers: 22 May 2015
+                                Viability rating                                                Viability rating
+                                State support
+                                                                                                State support
+                                Pure parental support
+                                                                                                Pure parental support
+                                Support from state supported parents
+                                             7%
+                               12%                                                           22%
+                                                                            50%           7%
+                             31%                                                                                      71%
+ Fonte: Fitch Ratings, European Banks – Key Rating Themes in a BRRD World, Novembre 2015.                                 9
+
+ Feedback incontri agenzie di rating (2/3)
+<U+F071> L’asset quality si conferma chiave per la definizione del rating delle banche italiane
+<U+F071> Il focus è sul rapporto crediti deteriorati (lordi) / totale crediti (lordi) e sul rapporto crediti deteriorati netti /
+  patrimonio netto che vengono monitorati congiuntamente
+                                           Fattori chiave per il rating – Asset Quality (1/2)
+           Crediti deteriorati (Ratio)
+                                                                              1H13       1H14     1H15
+        35
+                                                                                                                                            31.5
+        30                                                                                                                           28.7
+                                                                                                                       25.2  25.7
+        25                                                                                              22.5    23.3
+        20                                                                              17.4
+                                                                 16.6        16.6
+        15                      13.2      13.5        13.6
+        10
+                     5.9
+         5
+         0
+               Credem Desio            UBI      Sondrio        UCI        BPM         ISP      BNL    BPER   Creval  BPV    BP    Carige  MPS
+   a
+    Doubtful unlikely to pay loans (1H15); doubtful, watchlist and restructured loans (1H14 and 1H13)                                            10
+   Fonte: dati societari
+
+ Feedback incontri agenzie di rating (3/3)
+<U+F071> Con riferimento a BMPS Moody’s, Fitch e DBRS hanno evidenziato che, in attesa di fatti straordinari,
+  monitoreranno l’evoluzione di questi indicatori nel IV trimestre 2015 e nel primo / secondo trimestre 2016 per
+  decidere la conferma del rating
+                                             Fattori chiave per il rating – Asset Quality (2/2)
+                   Crediti deteriorati netti / Core Capital
+                   Giugno 2015
+                (%)
+                                                                                                   IG VRs       Sub-IG VRs
+                250
+                200
+                150
+                100
+                  50
+                    0
+                                                                                             UBI   BNL
+                            Credem
+                                                                                       BDB
+                                                                           UniCredit
+                                                                                                                Carige
+                                      BPS                         BPM
+                                                                                                                         Creval
+                                                                                                         BPER                     BPVI              MPS
+                                                                                                                                         Popolare
+                                                         ISP
+                                               ICCREA
+ Fonte: Fitch Ratings, European Banks – Key Rating Themes in a BRRD World, Novembre 2015.                                                                 11
+
+<U+F071> Economia e Mercati
+<U+F071> Situazione di mercato e andamento liquidità a breve
+<U+F071> Posizione di tasso e ALM
+<U+F071> Strategie di investimento e aggiornamento sull'operatività
+<U+F071> Varie
+<U+F071> Aggiornamento TIT - Area Pianificazione
+<U+F071> Operatività MPSCS
+<U+F071> Aggiornamento obbligazioni retail – Area Retail
+                                                             12
+
+Liquidità operativa: saldo ad 1M/counterbalancing /LCR
+Il saldo di liquidità ad 1M risulta in calo a c.ca 20 mld. (rispetto ai c.ca 20,9 mld. del precedente Comitato), per l’ingresso nel
+bucket ad 1M delle principali uscite attese a fine anno (prevalentemente riversamenti fiscali), ma ancora ben superiore rispetto al
+limite operativo (fissato dal 2015 in Eur 12 mld.) e sopra il livello target (fissato in Eur 19 mld.).
+La counterbalancing libera è pari a c.ca 26.4 mld. (rispetto a Eur 26 mld. del precedente Comitato), anch’essa ben sopra il limite
+operativo (fissato dal 2015 in Eur 14 mld.) e al livello target (Eur 21 mld.).
+L’indicatore regolamentare LCR (ultimo dato disponibile al 31/10) risulta pari al 214% (rispetto al 193% rilevato al 30/9), ben
+superiore rispetto al limite del 100% (full phase-in del 2018).
+             1M net position vs. targets and                                 Counterbalancing vs. targets and
+                   operational limits                                               operational limits
+     23                                                               27
+     21                                                               25
+                                                                      23
+     19
+                                                                      21
+     17
+                                                                      19
+     15
+                                                                      17
+     13
+                                                                      15
+     11   4-dic-15                                                    13   4-dic-15
+          20-nov-15
+          6-nov-15
+          23-ott-15                                                        20-nov-15
+                                                                           6-nov-15
+          9-ott-15
+          25-set-15
+          11-set-15
+                                                                           23-ott-15
+                                                                           9-ott-15
+                                                                           25-set-15
+          28-ago-15
+          14-ago-15
+          31-lug-15                                                        11-set-15
+                                                                           28-ago-15
+                                                                           14-ago-15
+          17-lug-15
+          3-lug-15
+          19-giu-15                                                        31-lug-15
+                                                                           17-lug-15
+                                                                           3-lug-15
+          5-giu-15
+          22-mag-15
+          8-mag-15                                                         19-giu-15
+                                                                           5-giu-15
+          24-apr-15
+          10-apr-15                                                        22-mag-15
+                                                                           8-mag-15
+                                                                           24-apr-15
+          27-mar-15
+          13-mar-15
+          27-feb-15                                                        10-apr-15
+                                                                           27-mar-15
+          13-feb-15
+          30-gen-15                                                        13-mar-15
+                                                                           27-feb-15
+                                                                           13-feb-15
+          16-gen-15
+          2-gen-15                                                         30-gen-15
+                                                                           16-gen-15
+                                                                           2-gen-15
+           1M net position    operational limit   target level                       counterbalancing    target level
+                                                                                                                              13
+
+Liquidità infra-giornaliera: riserva ROB / liquidità potenziale
+Si riporta nei grafici seguenti l’andamento della riserva ROB e il confronto con i limiti operativi a partire dall’entrata in vigore del
+nuovo regolamento sulla politica di gestione della liquidità infra-giornaliera (26/6/2015). Si evidenzia che in corrispondenza con
+la partenza di T2S, a scopo prudenziale, sono stati innalzati i limiti operativi tramite i buffer previsti dal nuovo regolamento (la
+prima settimana per un ammontare di Eur 1,5 mld., successivamente ridotti gradualmente fino agli attuali Eur 250 mln.). In
+funzione dell’andamento di T2S, in relazione ai progressi dei sistemi informativi, si procederà a ridurre ulteriormente tale buffer
+fino ad azzerarlo. Come evidenziato dal grafico, il limite giornaliero non è mai stato toccato.
+Si riporta anche l’andamento delle liquidità potenziale (liquidità generabile su base giornaliera tramite repo su BTP / MIC)
+rispetto ai limiti operativi. Anche in questo caso il limite giornaliero non è mai stato toccato.
+                                                  ROB vs. limite operativo                                                                                                                                        Liquidità potenziale vs. limite
+        4,0                                                                                                                                                                           20
+                                                                                                                                                                                      18
+        3,5
+                                                                                                                                                                                      16
+        3,0
+                                                                                                                                                                                      14
+        2,5
+                                                                                                                                                                                      12
+        2,0                                                                                                                                                                           10
+                                                                                                                                                                                      8
+        1,5
+                                                                                                                                                                                      6
+        1,0
+                                                                                                                                                                                      4
+        0,5
+                                                                                                                                                                                      2
+        0,0                                                                                                                                                                            -
+              1-giu-15                                                                              7-set-15                                       2-nov-15                                                                                                                                                                     2-nov-15
+                                                                            10-ago-15   24-ago-15                                                             16-nov-15   30-nov-15
+                                                                                                                                                                                           1-giu-15                                                                              7-set-15
+                                                                                                               21-set-15                                                                                                                                 10-ago-15   24-ago-15                                                             16-nov-15   30-nov-15
+                                                                                                                           5-ott-15
+                         15-giu-15    29-giu-15    13-lug-15    27-lug-15                                                                                                                                                                                                                   21-set-15
+                                                                                                                                                                                                                                                                                                         5-ott-15
+                                                                                                                                      19-ott-15                                                       15-giu-15    29-giu-15     13-lug-15   27-lug-15                                                              19-ott-15
+                                     ROB                               limite ROB                                      limite senza buf f er                                                                                   liquidità potenziale                                                     limite minimo
+        Nota:            il          picco                 di         metà              giugno                  è          stato                  determinato                              Nota: la liquidità potenziale è calcolata dall’entrata in vigore
+        dall’ingresso dell’aumento di capitale                                                                                                                                             del regolamento (26/6/2015)
+                                                                                                                                                                                                                                                                                                                                                                   14
+
+Liquidità strutturale: indicatori GAP1 e GAP2 / NSFR
+L’indicatore GAP1* (attività con scadenza > 1 anno / passività con scadenza > 1 anno) risulta pari al 90,4% al 31/10
+(sostanzialmente invariato rispetto al livello del mese precedente), significativamente inferiore rispetto al limite operativo
+(fissato al 105%) e non lontano dal livello target (85%).
+L’indicatore GAP2* (attività con scadenza > 5 anni / passività con scadenza > 5 anni) risulta pari al 107% al 31/10 (in
+miglioramento rispetto al livello del mese precedente, pari al 112%), significativamente inferiore rispetto sia al limite operativo
+(fissato al 150%) che al livello target (fissato al 130%).
+L’indicatore NSFR (BIS3) risulta pari al 31/10 a 103%, in leggero miglioramento rispetto al 101% registrato al 30/9 (su questo
+indicatore non sono ancora state fissate soglie limite, ma si considera come livello target di riferimento il 100%).
+* gli indicatori GAP1/GAP2 sono attualmente in fase di revisione metodologica da parte di ARM, nell’ambito del RAF, riducendo il
+contributo positivo degli asset eligible retained.
+          Andamento mensile del GAP1 di Liquidità Strutturale del         Andamento mensile del GAP2 di Liquidità Strutturale del
+                           Gruppo Montepaschi                                              Gruppo Montepaschi
+ 125%                                                             200%
+ 120%                                                             190%
+ 115%                                                             180%
+ 110%                                                             170%
+ 105%                                                             160%
+ 100%                                                             150%
+  95%                                                             140%
+  90%                                                             130%
+  85%                                                             120%
+  80%
+                                                                  110%
+  75%
+                                                                  100%
+                     Gap Ratio 1   Limite operativo 1 target
+                                                                                     Gap Ratio 2   Limite operativo 2 target
+                                                                                                                                  15
+
+Aggiornamento funding plan 2015 – 30.11.2015
+Nella tabella seguente si riporta l’aggiornamento sull’andamento del funding plan 2015 al 30/11, con particolare focus su
+quanto realizzato rispetto agli obiettivi. Nella slide successiva, evidenziamo brevemente le principali variazioni. Si segnala
+che tale aggiornamento è in corso di invio anche alla BCE, come da questa richiesto con lettera del 26/02
+(l’aggiornamento viene inviato loro su base mensile, entro il 15° giorno del mese).
+                                                                                                 gen-mar       apr-giu       lug -set       ott-dic         Totale          Realizzato Delta con funding
+                                                         Scadenza/Azione
+                                                                                                   2015         2015           2015          2015            2015            al 30/11    plan gen-nov.
+                      Sca denza      Obbl i ga zi oni s eni or i n s ca denza                       -0,5         -0,1           -0,8             0            -1,4              -1,4           0,0
+                        Azi one      Emi s s i one/vendi ta obbl i ga zi oni s eni or                0,5          0,1            0,8             0             1,4               0,0          -1,4
+                      Sca denza      Obbl i ga zi oni covered i n s ca denza                           0         -0,8              0             0            -0,8              -0,8           0,0
+                        Azi one      Emi s s i one/vendi ta obbl i ga zi oni covered                0,25          1,1              0             0            1,35               2,2           0,9
+                      Sca denza      Fundi ng bi l a tera l e i n s ca denza                        -0,2         -0,3           -0,2          -0,4            -1,1              -1,1           0,0
+                        Azi one      Nuovo fundi ng bi l a tera l e                                  0,2          0,3            0,2           0,4             1,1               1,1           0,0
+                        Azi one      Fi na nzi a mento s ul merca to di BTP /a l tro                0,25         -3,2             -3          -3,7           -9,65              -3,9           5,8
+                      Sca denza      LTRO i n s ca denza                                            -7,7            0              0             0            -7,7              -7,7           0,0
+                        Azi one      Nuove TLTRO                                                       0            4              4           3,7            11,7               1,5         -10,2
+                        Azi one      As te a breve con ECB (MRO)                                       2           -4             -1             0             -3               -3,0           0,0
+                        Azi one      Contri buto da "a s s et di s pos a l "/ca rtol a ri z.         1,2          1,8              0             0              3                2,6          -0,4
+                        Azi one      Contri buto s a l do commerci a l e (budget)                    1,5          1,5              1             0              4                6,7
+                                                                                                                                                                                               2,7
+                        Azi one      Contri buto s a l do commerci a l e (pl a fond)                 2,5         -1,5             -1             0              0                0,0
+                        Azi one      Aumento di ca pi tal e (i mpa tto netto)                          0          1,1              0             0             1,1               1,6           0,5
+                                     Impatto netto di liquidità (cassa)                              0,0          0,0            0,0           0,0             0,0              -1,3          -1,3
+                      Sca denza Sca denza GGBs                                                        -6            0              0             0             -6               -6,2          -0,2
+                        Action       Net counterba l a nci ng from ABACO                             0,7          1,3              1             0              3                1,7          -1,3
+                         Al tro      Fundi ng di a s s et non el i gi bl e *                           0            0              0             0              0                1,2           1,2
+                         Al tro      Al tri effetti                                                    0            0              0             0              0               -0,3          -0,3
+                                     Impatto netto di counterbalancing **                             -1          4,2              1             0             4,2               5,0           0,8
+                                                                                                                                                                            Realizzato
+                                                    Posizione netta di liquidità                  mar-15       giu-15         set-15        dic-15                                           Delta
+                     Last (31/12)                                                                                                                                            al 30/11
+                           15,9      El i gi bl e counterba l a nci ng                              14,9         19,1           20,1          20,1                             25,9            5,8
+                            15       Li qui di ty La dder - s a l do netto 1M                        14          18,2           19,2          19,2                             20,0            0,8
+                                     Attivi                                                         185          185            185            185                              170
+                                     "Li qui di ty La dder - s a l do 1M "/ a tti vi              7,57%         9,84%        10,38%         10,38%                            11,74%         1,36%
+                                                                                                                                                                            Realizzato
+                                                       Esposizione con ECB                        mar-15       giu-15         set-15        dic-15                                           Delta
+                                                                                                                                                                             al 30/11
+                            7,7      Stock LTRO                                                        0            0              0             0                                0             0
+                            6,3      Stock TLTRO                                                     6,3         10,3           14,3            18                               7,8         -10,2
+                             3       Stock MRO*                                                        5            1              0             0                                0             0
+                            17       Totale funding con ECB                                         11,3         11,3           14,3            18                               7,8         -10,2
+                     * prudenzi a l mente non i ncl us i nel fundi ng pl a n.
+                     ** l 'i mpa tto s ul l a counterba l a nci ng è ca l col a to a l netto di Eur 0,9 bn. di boni fi ci di i ni zi o 2015 gi à i ncl us i nel l a l a dder del 31/12/2014.
+                                                                                                                                                                                                         16
+
+ Aggiornamento funding plan 2015 – 30.11.2015
+L’implementazione del funding plan 2015 nei primi dieci mesi (dati al 30/11) appare in linea con i target sui saldi principali (con
+particolare riferimento al saldo ad 1M e al livello di counterbalancing).
+In particolare, si evidenziano i seguenti punti:
+- il saldo netto di liquidità ad 1M al 30/11 ha raggiunto Eur 20 mld., al di sopra del limite operativo (Eur 12 mld.) e del livello
+target a fine 2015 previsto a Funding Plan (Eur 19,2 mld.). La counterbalancing libera al 30/11 ha raggiunto Eur 25.9 mld., al di
+sopra del limite operativo (Eur 14 mld.) e del livello target a fine 2015 (Eur 20,1 mld.);
+- gli Eur -6.2 mld. di GGB in scadenza in febbraio/marzo sono stati totalmente compensati dalle voci positive;
+- il contributo del canale commerciale (sia quello a budget che quello a plafond) è superiore ai target (Eur 6.7 mld., al netto dei
+riversamenti fiscali previsti, rispetto all’obiettivo di Eur 4 mld.);
+- la cartolarizzazione Consumit è stata finalizzata, con impatto di counterbalancing/liquidità di c.ca Eur +1.2 mld.;
+- è stata realizzata un’operazione di cartolarizzazione di mutui corporate, con un impatto di counterbalancing/liquidità di c.ca Eur
++1.3 mld.;
+- l’aumento di capitale è stato realizzato con successo, con un contributo netto di counterbalancing/liquidità di Eur +1.6 mld.;
+- sono stati realizzati significativi deals di funding su carta non eligible (Casaforte, mezzanine classe B/C di ABS retained),
+sfruttando la positiva finestra di mercato di inizio anno, con impatto positivo sulla counterbalancing/liquidità di circa Eur 1.2 mld.
+(prudenzialmente tali operazioni non erano state incluse nel funding plan, poichè la loro realizzazione è fortemente dipendente
+dalle condizioni di mercato).
+Due settori al momento non hanno invece fornito il contributo previsto:
+a) l’emissione di senior unsecured (atteso un contributo di Eur 1.4 mld. entro il 30/9) è stata prima rimandata in attesa del
+     rinnovo del programma e, successivamente, per le avverse condizioni di mercato e i livelli elevati di spread. La banca ri-
+     accederà al mercato non appena le condizioni torneranno ad essere favorevoli;
+b) il canale ABACO (che avrebbe dovuto generare un contributo positivo per Eur 3 mld.) al momento ha dato un contributo
+     inferiore alle attese (Eur 1.7 mld.). Il trend degli ultimi mesi è stato in ogni caso positivo, e proseguono le attività tecniche
+     ed organizzative che dovrebbero consentire a tale canale di fornire un contributo più significativo.
+Inoltre, l’ammontare delle aste TLTRO risulta ancora significativamente inferiore rispetto a quanto indicato a Funding Plan (Eur
+     7,8 mld. rispetto ad una stima di Eur 14,3 mld. al 30/9 e di Eur 18 mld. a fine 2015), per una dinamica del credito al settore
+     privato inferiore rispetto a quanto atteso ad inizio anno.
+                                                                                                                                 17
+
+Prestito titoli – TLTRO
+a) Prestito titoli – interventi di mitigazione del rischio per la clientela.
+Come anticipato in occasione del precedente Comitato, in accordo con Compliance, AFTCM ritiene opportuno
+procedere all’introduzione di mitigazioni ai rischi della clientela del prestito titoli, in recepimento ai timori espressi da
+Consob con lettera del 3/11/2014. In risposta a tale lettera, infatti, la banca si era impegnata ad individuare soluzioni
+per modificare l’impostazione attuale del prestito titoli, in un’ottica più prudenziale per i clienti.
+A tal fine sono state individuate le seguenti due modifiche all’impianto attuale:
+a) l’ applicazione di uno “scarto positivo” tra l’importo versato e quello degli strumenti presi a prestito
+    nel conto a garanzia dei clienti. Tale valore è stato quantificato nel 5%, il livello standard nei contratti
+    GMSLA. Tale modifica non impatta la counterbalancing, poiché il conto a garanzia è detenuto presso MPSCS;
+b) la riduzione della percentuale massima di tiraggio sui dossier dei clienti, dal 70% al 60%. Tale riduzione
+    comporterà una riduzione della counterbalancing (e del saldo ad 1M di liquidità) quantificabile nell’intervallo Eur
+    200-300 mln.
+Le modifiche verranno rese operative nel corso del mese di gennaio 2016.
+b) Aste TLTRO – accesso del mese di dicembre.
+In base ai dati sul credito al settore privato del mese di ottobre, BMPS ha potuto disporre di un ammontare
+aggiuntivo sulle aste TLTRO utilizzabile nelle aste di dicembre. E’ stato quindi deciso di accedere per un importo di
+Eur 1 mld. (valuta 11/12), mentre Eur 0.39 mld. verranno mantenuti come buffer per un eventuale utilizzo nelle aste
+del 2016, in situazione di costanza dei saldi sul credito realizzato al settore privato.
+Si evidenzia che il dato di ottobre ha ridotto il rischio che la Banca possa scendere sotto il cosiddetto
+“benchmark” (la data di confronto col benchmark sarà aprile 2016), che determinerebbe la restituzione anticipata
+dell’intero ammontare delle TLTRO a settembre 2016, con due anni di anticipo rispetto alla scadenza originaria. Ciò
+nondimeno, il livello del credito al settore privato dovrà continuare ad essere monitorato con attenzione
+e, ove possibile, mantenuto almeno sui livelli attuali, al fine di conservare un adeguato margine di
+sicurezza rispetto al benchmark stesso.
+                                                                                                                           18
+
+   BMPS - Curva senior versus curva retail al 10.12.2015
+                                      BMPS Senior Curve - primary market punctual values, fixed rate quotations
+                            A                B             C=A+B            D              E           F=D+E         G=C+F              H            I=F-H
+                                          Market
+                                         liquidity                                 BMPS specific    BMPS senior   Total BMPS                      BMPS - BTP
+                                                                                                                                   BTP spread
+     Time buckets        OIS rate        premium         Swap rate  BMPS CDS rate     liquidity     spread over   senior yield                    spread over
+                                                                                                                                   over swap
+                                      (spread OIS vs.                              premium rate        swap           rate                           swap
+                                           Swap)
+          1.5y            -0.27             0.21            -0.06         2.15           0.66           2.81          2.75            0.12            2.69
+           2y             -0.26             0.21            -0.05         2.23           0.69           2.92          2.87            0.16            2.76
+           3y             -0.21             0.22             0.01         2.41           0.68           3.08          3.09            0.22            2.86
+           4y             -0.11             0.23             0.12         2.52           0.68           3.19          3.31            0.32            2.87
+           5y              0.01             0.24             0.25         2.63           0.65           3.28          3.53            0.44            2.84
+           6y              0.15             0.24             0.39         2.67           0.67           3.35          3.73            0.54            2.81
+           7y              0.29             0.24             0.53         2.72           0.69           3.40          3.93            0.62            2.78
+           8y              0.43             0.24             0.67         2.76           0.69           3.45          4.12            0.69            2.76
+           9y              0.56             0.23             0.80         2.78           0.71           3.49          4.29            0.75            2.74
+          10y              0.68             0.23             0.91         2.80           0.73           3.53          4.44            0.81            2.72
+  Gli spread di BMPS sono stimati da ALM con cadenza giornaliera. OIS (Overnight Indexed Swap), Swap e CDS sono estratti da Bloomberg.
+                                      BMPS Retail Curve - primary market punctual values, fixed rate quotations
+                                    A                    B                C                  D              E=A+D                F               G=F-E
+                                                                    Premium for
+                                                 BTP spread over                                       Customer yield        Implied       Total BMPS retail
+           Time buckets         Swap rate                          customer over      Retail curve
+                                                      swap                                                   rate              Fees         bond yield rate
+                                                                      BTP rate
+               1.5y               -0.06                0.12             1.66               1.78              1.72              0.36               1.36
+                 2y               -0.05                0.16             1.72               1.88              1.83              0.36               1.47
+                 3y               0.01                 0.22             1.79               2.01              2.02              0.44               1.58
+                 4y               0.12                 0.32             1.78               2.10              2.22              0.44               1.78
+                 5y               0.25                 0.44             1.77               2.21              2.46              0.44               2.02
+                 6y               0.39                 0.54             1.76               2.30              2.69              0.44               2.24
+                 7y               0.53                 0.62             1.76               2.38              2.91              0.44               2.46
+                 8y               0.67                 0.69             1.76               2.45              3.12              0.44               2.67
+                 9y               0.80                 0.75             1.76               2.51              3.31              0.44               2.86
+                10y               0.91                 0.81             1.75               2.56              3.47              0.44               3.03
+ I tassi Swap e gli Spread BTP sono estratti da Bloomberg. La Retail Curve corrisponde alla curva TIT marginale.
+                                                                                                                                                              19
+Fonte: Bloomberg, Servizio Gestione Liquidità di Gruppo
+
+   BCE - principali indicatori al 10.12.2015
+                        Central Banks Official Rates                                                                          ECB Monetary Policy Corridor
+  0.6                                                       ECB official rate                            1
+                                                            FED Funds target rate                                                                                             ECB official rate
+                                                            BOE base rate
+  0.5                                                                                                  0.8                                                                    ECB marginal
+                                                                                                                                                                              lending facility
+                                                                                                                                                                              ECB marginal
+                                                                                                       0.6                                                                    borrowing facility
+  0.4                                                                                                                                                                         eonia
+                                                                                                       0.4
+  0.3
+                                                                                                       0.2
+  0.2
+                                                                                                         0
+  0.1
+                                                                                                      -0.2
+    0                                                                                                 -0.4
+    dic-13      mar-14   giu-14   ott-14   gen-15   apr-15          ago-15             nov-15            dic-13    mar-14      giu-14      ott-14     gen-15      apr-15       ago-15        nov-15
+              ECB: Banks ON depos and current accounts (€ mld)                                              Cost of liquidity: Euribor 3m vs Eur Swap (Eonia) 3m
+   600                                                    Bank s ECB depo                         0.4
+                                                          Bank s ECB current account s
+                                                          Bank s ECB depo
+                                                                                                                                                       Euribor 3M        Eur Swap (Eonia) 3M
+                                                          Bank s ECB current account s            0.3
+   500
+                                                                                                  0.2
+   400
+                                                                                                  0.1
+   300                                                                                              0
+                                                                                                 -0.1
+   200
+                                                                                                 -0.2
+   100
+                                                                                                 -0.3
+     -                                                                                           -0.4
+       dic-13    mar-14    giu-14   ott-14   gen-15   apr-15            ago-15            nov-15    dic-13      mar-14    giu-14      ott-14      gen-15     apr-15      ago-15       nov-15
+Fonte: Bloomberg                                                                                                                                                                                    20
+
+  Andamento spreads di mercato al 10.12.2015
+                            BMPS CDS 5Y                                                                               CDS SUB 10Y
+   1200                                                                         1,000.000
+                                                    BMPS CDS 5Y Senior                                                                   BMPS        ISP          UCG
+                                                    BMPS CDS 5Y Subordinated      900.000
+   1000
+                                                                                  800.000
+                                                                                  700.000
+    800
+                                                                                  600.000
+                                                                                  500.000
+    600
+                                                                                  400.000
+    400                                                                           300.000
+                                                                                  200.000
+    200
+                                                                                  100.000
+                                                                                        -
+      0                                                                                   dic-13   mar-14    giu-14    ott-14   gen-15   apr-15   ago-15       nov-15
+      dic-13 mar-14  giu-14   ott-14   gen-15     apr-15     ago-15     nov-15
+                      Yield BTP vs. yield BUND                                                                      GIIPS CDS 5Y
+   4.50                                                                             400
+                                                                                                                                                      Italy
+   4.00                                       BTP       Bund      Spread
+                                                                                    350                                                               Spain
+                                                                                                                                                      Ireland
+   3.50
+                                                                                    300                                                               Portugal
+   3.00
+                                                                                    250
+   2.50
+                                                                                    200
+   2.00
+                                                                                    150
+   1.50
+                                                                                    100
+   1.00
+   0.50                                                                              50
+   0.00                                                                               0
+      dic-13 mar-14  giu-14   ott-14   gen-15     apr-15     ago-15      nov-15        dic-13    mar-14   giu-14    ott-14    gen-15   apr-15   lug-15       nov-15
+                                                                                                                                                                    21
+Fonte: Bloomberg, Servizio Gestione Liquidità di Gruppo
+
+   BMPS - andamento liquidità a breve al 09.12.2015
+  La tabella riporta la situazione della liquidità a breve, come da segnalazione alla Banca d’Italia. Nel grafico sottostante si
+  confrontano i saldi netti di liquidità con i limiti operativi. Si evidenzia che i saldi di liquidità sono sopra il livello
+  target su tutte le scadenze.
+                                                           Liquidity ladder del Gruppo MPS
+                                                               1g      2g     3g      4g    5g         2s        3s        1m      2m      3m
+                   Debiti con banche centrali                   0       0      0       0     0          0         0         0        0       0
+           Debiti secured con controparti di mercato          -119   -1,026 -2,522     23   -93        353      -401        92     -577   -2,043
+                     Mercato Interbancario                     149     -2      19     -40    0          1       -157       -27      -10     -25
+             Obbligazioni istituzionali in scadenza             0       0      0       0     0          0         0         0        0       0
+                       Large corporates                         0      -7     -58      -4   -37       -543      -591      -158    -1,062   -916
+                      Riversamenti fiscali                      0       0      0       0    -42      -1,678     -464        0      -358      0
+                        Attività in titoli                     189    -216     0       14    0          5        86         0      -427    -213
+                              Altro                            96     -250     0     -300    0        -500     -1,050       0        0       0
+        Saldo netto cumulato posizioni in scad.               315   -1,185 -3,745  -4,052 -4,223    -6,586    -9,164     -9,258 -11,692 -14,889
+              Counterbalancing capacity              26,371 25,712 26,948 29,468   29,431 29,523 29,128 29,450 29,340 29,154 31,000
+                 Saldo netto di liquidità                    26,027 25,763 25,722  25,379 25,299 22,542 20,286 20,083 17,462 16,112
+                                                                                             Descrizione      sintetica      del  Sistema     dei  Limiti
+                                                                                             Operativi:
+                                                                                             • Livello Target (LT): rappresenta la prima
+                                                                                             soglia        che        consente        di    evidenziare
+                                                                                             tempestivamente            l’avvicinamento       al   limite
+                                                                                             operativo;
+                                                                                             • Livello         Operativo         Gestionale       (LOG):
+                                                                                             rappresenta la soglia di riferimento per garantire
+                                                                                             il rispetto del Livello di Contingency (LC);
+                                                                                             • Livello di Contingency (LC): rappresenta il
+                                                                                             valore critico in qualità di potenziale soglia di
+                                                                                             attivazione del Contingency Funding Plan.
+                                                                                                                                                     22
+Fonte: Bloomberg, Servizio Gestione Liquidità di Gruppo
+
+Cartolarizzazioni e Covered Bond: aggiornamento
+MPS CB1: nuova emissione covered bond
+   <U+F0FC> Il 19 novembre scorso è stata lanciato il secondo covered bond del 2015. La buona risposta del mercato ha permesso di
+      raccogliere € 1 mld, a fronte di una domanda pari a circa € 1,6 mld. L’obbligazione ha una scadenza 10 anni ed una cedola del 2%
+      (mid swap + 127 bps al lancio)
+Siena LEASE 15-2: aggiornamento
+<U+F071> Stato di avanzamento
+   <U+F0FC> è stata effettuata la cessione del portafoglio con data di riferimento 30 novembre al veicolo Siena Lease 15-2 srl per un debito
+      residuo di €1,622 mld.
+   <U+F0FC> L’implementazione legale dell’operazione ed il processo di ottenimento del rating hanno registrato un lieve ritardo rispetto alla
+      tempistica preventivata
+   <U+F0FC> L’advisor dell’ECB (NN Investment per le cartolarizzazioni Italiane) non ha ancora completato la propria analisi, propedeutica alla
+      sottoscrizione di una quota da parte dell’ECB stessa, nell’ambito del QE
+<U+F071> La strategia di collocamento
+   <U+F0FC> Alla luce di tali ritardi si è reso necessario posticipare il collocamento ad inizio gennaio 2016
+   <U+F0FC> Vista la favorevole posizione di liquidità della Banca, si è ritenuto preferibile procedere anche al rinvio dell’emissione dei titoli, e
+      non del solo del loro collocamento, per garantire una maggiore visibilità ed appetibilità dell’operazione sul mercato.
+   <U+F0FC> Per favorire il collocamento, sarà necessario realizzare un roadshow nelle principali piazze europee, presumibilmente nella
+      seconda settimana di gennaio
+Ristrutturazione Siena Mortgage : aggiornamento
+  <U+F0FC> Nell'ambito della ristrutturazione in corso è emersa la necessità, sulla Siena 09-6 bis, di ricostituire la riserva di cassa
+     dell’operazione. L'impatto negativo sulla liquidità è marginale (circa 50 mln)
+  <U+F0FC> Si prevede di ristrutturare i titoli entro il mese di gennaio 2016, previo consenso delle controparti a cui i titoli sono stati dati in
+     repo
+                                                                                                                                      23
+
+Qualità del dato: impatto su OBG e cartolarizzazioni
+<U+F0FC> La regolamentazione in materia covered bond impone un articolato sistema di controlli (svolti internamente ed esternamente) a
+  verifica della qualità del collaterale posto a garanzia delle OBG emesse e sulla trasparenza nei confronti degli investitori. Analoga
+  esigenza è emersa nell’ambito delle cartolarizzazioni per la reportistica richiesta da ECB (ABS loan level initiative – EDW)
+<U+F0FC> Nell’ambito di tali controlli sono emersi i seguenti ambiti di miglioramento:
+       o Pool audit: 1)difficoltà di reperimento/ indisponibilità delle pratiche cartacee per un’incidenza superiore alla media di
+          mercato; 2) incongruenze tra dati cartacei e dati presenti sui sistemi
+       o Incongruenze e/o mancati aggiornamenti dei dati presenti nei diversi database della banca (Servizio Mutui, DWH,
+          Procedura Beni)
+       o Indisponibilità di alcune informazioni necessarie per la corretta valutazione del rischio
+   A parziale mitigazione di tali criticità sono da tempo in corso alcune attività volte a rafforzare la qualità del dato; si evidenzia in
+       particolare:
+       o L’implementazione della Pratica Elettronica di Fido, ormai terminata
+       o Creazione di un archivio digitalizzato delle pratiche: è prevista la messa a regime della nuova procedura a partire da
+          gennaio 2016 sullo stock 2002-2015, mentre per i mutui di nuova erogazione la digitalizzazione dovrebbe iniziare nel
+          secondo trimestre 2016
+<U+F0FC> Poiché alcune delle carenze individuate potrebbero indebolire la piena aderenza dei programmi OBG ed ABS al disposto
+  normativo, è necessario che le attività previste vengano concluse nei tempi pianificati
+                                                                                                                                    24
+
+<U+F071> Economia e Mercati
+<U+F071> Situazione di mercato e andamento liquidità a breve
+<U+F071> Posizione di tasso e ALM
+<U+F071> Strategie di investimento e aggiornamento sull'operatività
+<U+F071> Varie
+<U+F071> Aggiornamento TIT - Area Pianificazione
+<U+F071> Operatività MPSCS
+<U+F071> Aggiornamento obbligazioni retail – Area Retail
+                                                             25
+
+Gestione del rischio tasso
+A seguito degli interventi annunciati sulla
+implementazione del QE la struttura dei tassi
+si è mossa riassorbendo buona parte del
+movimento       ribassista   verificatosi  ante
+riunione Bce (vedi grafico in alto che
+rappresenta il movimento della curva ante
+Bce con quella last).
+In tale contesto di mercato si è mantenuta la
+politica di copertura sui rischi rivenienti dal
+collocamento delle nostre obbligazioni lineari
+a breve termine, ma condizionando le
+coperture ad un carry minimo (5 bps sul 3y).
+Sono in corso confronti col Servizio Bilancio e
+con il Risk al fine di individuare e modulare
+gli interventi previsti con forward start, che
+consentano di coprire gli attivi a tasso fisso
+della Banca (mutui) da futuri rialzi dei tassi,
+senza pregiudicare il NIM dei prossimi
+tre/cinque anni.
+L’analisi di tali mutui, per cluster, evidenzia
+una riduzione di circa un miliardo nella
+componente con tasso superiore al 5,00%,
+rispetto al dato di sei mesi fa. Tale
+componente è scesa dal 61% al 53% del
+totale mutui a tasso fisso. Contestualmente si
+osserva una crescita dei volumi e delle
+scadenze medie ponderate sui cluster con
+tassi più bassi.
+                                                26
+
+<U+F071> Economia e Mercati
+<U+F071> Situazione di mercato e andamento liquidità a breve
+<U+F071> Posizione di tasso e ALM
+<U+F071> Strategie di investimento e aggiornamento sull'operatività
+<U+F071> Varie
+<U+F071> Aggiornamento TIT - Area Pianificazione
+<U+F071> Operatività MPSCS
+<U+F071> Aggiornamento obbligazioni retail – Area Retail
+                                                             27
+
+Portafoglio Strategico d’investimento Capogruppo al 04/12/15
+ Asset                                                                                                      Liabilities
+                                                    Nominale €                                                                                              Tasso                       Tasso a   Costo
+               Classe di investimento                              Market Value €    Tassi  Riserva AFS         Finanziati BCE   Finanziati Mkt  Tasso BCE          Finanziati al vista
+                                                                                                                                                           Mercato                       vista    medio
+ Titoli di Stato Italiani
+ di cui:
+                    Ptf Benchmark - BTP outright     8.471.942.200   8.811.338.396    0,38%     69.868.362        3.510.000.000    4.961.942.200     0,05%   -0,15%                  -             -0,07%
+                      Ptf Benchmark - BTP in ASW     5.504.225.837   6.486.784.027    1,44%   (102.228.647)          776.000.000   4.728.225.837     0,05%    0,35%                  -              0,31%
+                         New Carry Trade - Anima       700.000.000     760.476.434    0,34%      3.234.312           492.000.000     208.000.000     0,05%   -0,16%                  -             -0,01%
+ Altri Titoli Governativi
+ di cui:
+                    Altri titoli governativi in AFS     60.000.000      68.028.743    0,57%      1.350.072            50.000.000      10.000.000     0,05%    0,89%                  -
+                    Altri titoli governativi in L&R     49.589.309      38.611.382                                                                                         49.589.309
+ Totale Obbligazioni Governative                    14.785.757.347  16.165.238.983             (27.775.902)       4.828.000.000    9.908.168.037                           49.589.309
+ Obbligazioni emittenti finanziari
+ di cui:
+                  Obbligazioni finanziarie in AFS       17.500.000      17.910.826    3,18%          7.451                   -        10.000.000     0,05%    2,99%         7.500.000     0,75%     2,03%
+                 Obbligazioni finanziarie in L&R     1.429.183.434   1.455.162.753    2,92%             -            741.000.434     476.000.000     0,05%    1,45%      212.183.000      0,75%     0,62%
+ Obbligazioni societarie                                20.888.480      23.435.244    0,69%       (880.760)                  -        20.000.000     0,05%    0,89%            888.480    0,75%     0,88%
+ Obbligazioni Enti Terrritoriali                       156.296.213     158.392.543 -                                     150.000      64.099.998     0,05%    0,89%        92.046.215     0,75%     0,81%
+ Filiali Estere                                        174.125.637     193.223.712 -                60.607           109.097.000      61.269.000     0,05%    0,89%         3.759.637     0,75%     0,36%
+ Ptf CDA                                                83.416.323      77.344.046 -                                         -                -      0,05%                 83.416.323     0,75%     0,75%
+                                                    16.667.167.434  18.090.708.106             (28.588.604)       5.678.247.434   10.539.537.035                         449.382.965
+ Azioni                                                                  4.886.625                 401.781
+ Fondi (Immobiliari e Minibond)                                        119.557.974
+ Fondi Hedge                                                            11.491.587                 811.818
+ Fondi Private Equity                                                  113.096.680             (11.162.957)
+ Polizze                                                       -                -
+                                                               -       249.032.867              (9.949.358)
+ TOTALE                                             16.667.167.434  18.339.740.973             (38.537.962)
+ Note
+ * I dati sono al 04_12_15
+                                                                                                                                                                                               28
+
+  Operatività recente
+• Portafoglio Titoli Governativi – Executive Summary
+  Attività dall’ultimo Comitato Finanza (i.e. 16 Novembre 2015) ad oggi
+  Come deciso nell’ultimo Comitato Finanza è proseguita l’attività di extension sulla parte breve della curva, e dopo
+  l’intervento di Draghi, nel recente Counsel Meeting ECB del 3 dicembre u.s., abbiamo approfittato dell’allargamento degli
+  spreads per intervenire sulla componente «di rotazione» del portafoglio estendendo le posizioni dal 3Y a posizioni
+  lievemente più lunghe (5Y e 6Y) senza peraltro alterare significativamente la Duration che si mantiene nell’intorno dei 5
+  anni.
+  E’ significativamente progredita l’attività di dismissione dell’iniziale Hedge di 2,6 BIL preso in carico dopo il closing con
+  Nomura dell’operazione su BTP 08/34, riducendo complessivamente la size al 21% e corrispondentemente il rischio al
+  19%.
+  Sono state unwindate le posizioni in derivati di FVH su BTPi Linker 2023 in modo tale da posizionare il Portafoglio
+  Strategico a favore di un prossimo mutamento sulle aspettative inflazionistiche.
+  Attività dal presente Comitato Finanza (i.e. 14 Dicembre 2015) in poi
+  Proseguirà, con il passo consentito dalla ridotta liquidità di mercato di fine anno, l’attività di extension sulle posizioni di
+  rotazione sul breve termine , come previsto dalle linee di indirizzo esposte nei precedenti comitati.
+  Eventuali situazioni di particolare volatilità sulla Curva saranno utilizzate per acquisti di titoli (al momento la zona di
+  maggior valore è nel segmento 5Y / 7Y) per migliorare il profilo di contribuzione al NIM.
+                                                                                                                                29
+
+  Operatività recente
+• Portafoglio Titoli Governativi – Executive Summary Scheme
+                                                            30
+
+  Operatività recente
+• Portafoglio Titoli Governativi – Attività su PTF (1di2)
+  Da inizio anno sono state vendute posizioni per un nozionale pari a 19,6 BIL realizzando circa 260 Mln di contributo
+  positivo a CE che al netto dell’effetto del closing dell’operazione Nomura (i.e. 130 mln) si riducono a circa 130 mln.
+                                                                                                                         31
+
+  Operatività recente
+• Portafoglio Titoli Governativi – Attività su PTF (2di2)
+  Da inizio anno si è provveduto all’acquisto di 15,1 BIL di nuove posizioni principalmente con duration non superiore a 3
+  anni e solo recentemente su BTP 05/20, BTP 05/21 e BTP 08/21.
+                                                                                                                         32
+
+  Operatività recente
+• Portafoglio Titoli Governativi – VaR & Duration
+  Il VaR del PTF di titoli governativi si è ridotto dai precedenti 116 Mln agli attuali 80 Mln, in conseguenza delle dismissioni
+  operate sull’Hedge derivante dal closing con Nomura. Anche la duration è stata sostanzialmente ridotta dal precedente
+  Comitato ed è di poco superiore ai 5 anni.
+                                                                                                                               33
+
+  La Componente Ex Nomura: Interventi di Riequilibrio
+Sono state liquidate tutte le posizioni eccetto 475 mln del BTP 09/40 e i 31 mln del BTPi 09/41, in tal modo riducendo
+l’esposizione (credit sensitivity) dagli iniziali 5,4 mln agli attuali 1,1 mln.
+                                                                                                                     34
+
+Operatività Portafoglio Corporate Bonds e Credito Strutturato
+  •   La Banca d’Italia, con provvedimento del 21 novembre 2015, approvato dal Ministro dell’Economia e
+      delle Finanze con decreto del 22 novembre 2015, ha disposto, ai sensi dell’art. 32 del D.Lgs. 16
+      novembre 2015, n. 180, l’avvio della risoluzione della Banca delle Marche S.p.a., in amministrazione
+      straordinaria. Tra le misure adottate compare la riduzione integrale delle riserve e del capitale
+      rappresentato da azioni (n. 1.274.532.113 azioni per un valore nominale di euro 662.756.698,76),
+      anche non computate nel capitale regolamentare, nonché del valore nominale degli elementi di
+      classe 2, computabili nei fondi propri (anche per la parte non computata nel capitale
+      regolamentare), con conseguente estinzione dei relativi diritti amministrativi e patrimoniali.
+         Tra i titoli oggetto di riduzione rientra anche il titolo BANMAR 8 06/30/18 IT0004743727
+         subordinato Lower Tier 2 , detenuto nel portafoglio RAF L_R.
+         L’altro titolo subordinato Banca delle Marche in portafoglio BANMAR Float 06/01/17
+         XS0302580880 è stato escluso dalla cessione di attività e passività alla Nuova Banca Marche
+         S.p.a. e rimane in capo alla «Bad Bank».
+  • L’ammontare nominale del portafoglio ammonta a circa 1470 milioni, in leggera diminuzione in
+    seguito al rimborso di 50 milioni di Covered Bonds Intesa nel mese di Novembre;
+  • Il VaR del portafoglio è sceso sotto i 4 milioni, al di sotto della media del 2015.
+                                                                                                         35
+
+  Gestione Fondi Immobiliari: Fondo Etrusco Distribuzione
+ Nel 2009 la Banca Monte dei Paschi di Siena ha sottoscritto nr. 600 quote per impegno pari a € 63 mln.
+ Attualmente il Fondo è detenuto da due sottoscrittori: Unicoop Centro Italia (52%) e BMPS (48%).
+ Il Fondo è una «Partecipazione ad influenza notevole» ma a livello gestionale è sotto l’ombrello
+ dell’Area FinanzaTCM : Market Value pari a € 65,7mln.
+ Dividendi: dal 2010 BMPS ha ricevuto dividendi lordi per ca. € 21.6 mln (IRR 5.90%)
+ Ponderazione: è una partecipazione con un coefficiente di ponderazione del 100% (quindi
+ assorbimento patrimoniale pari all’8% del 100% dell’esposizione).
+ Costo Remunerazione Capitale di Rischio: € 0.6 mln annui.
+ Crediti MPS : è stata recentemente deliberata un’operazione di rimodulazione del debito per totali €
+ 80 mio.
+      In via informale, UBS ci ha prospettato la possibilità di cedere il Fondo sul secondario:
+  Si parla di potenziale cessione ad un prezzo di sconto pari al 15-20% del NAV:
+  •   se accettassimo di vendere al 15% di sconto, realizzeremmo oggi un IRR del 4.6%;
+  •   tenere invece il Fondo fino a scadenza, l’IRR atteso sarebbe pari al 6.37%.
+                                 Valutazioni sulla gestione dell’Asset
+Ad oggi il “mercato secondario” applica su tali transazioni uno sconto tra il 15% e il 20% e quindi la
+proposta UBS non è particolarmente attraente rispetto ai livelli di realizzo possibili. Inoltre, il mercato
+non offre investimenti alternativi a medio alto rischio nel comparto Corporate (termine di paragone
+come consumo di capitale) che possano garantire un IRR pari al 5.90% (6.37% IRR atteso dal
+Revised Budget): un investimento di leveraged finance si attesta intorno a Euribor + 400bps.
+Le recenti analisi prospettiche del mercato immobiliare sul medio periodo mostrano incoraggianti
+segnali di ripresa: cedere le quote in questo momento potrebbe rivelarsi un errore strategico nella
+gestione del portafoglio.
+Riteniamo quindi non interessante la cessione delle quote in questo particolare momento, ancor più
+alle condizioni prospettate da UBS.
+                                                                                                           36
+
+<U+F071> Economia e Mercati
+<U+F071> Situazione di mercato e andamento liquidità a breve
+<U+F071> Posizione di tasso e ALM
+<U+F071> Strategie di investimento e aggiornamento sull'operatività
+<U+F071> Varie
+<U+F071> Aggiornamento TIT - Area Pianificazione
+<U+F071> Operatività MPSCS
+<U+F071> Aggiornamento obbligazioni retail – Area Retail
+                                                             37
+
+Riacquisti subordinato 2018
+In seguito alla risoluzione delle quattro banche italiane (Marche, Ferrara, Etruria e Chieti), e al conseguente
+azzeramento del valore delle relative obbligazioni subordinate, si è registrata una notevole pressione in vendita
+sui titoli subordinati di emittenti bancari italiani. L’effetto contagio ha colpito particolarmente i titoli di banche
+considerate più fragili e, quindi, maggiormente esposte a rischi di bail-in.
+In particolare, si segnala la pressione in vendita sul titolo subordinato BMPS 2018, l’unico sul quale la
+Banca ad oggi ha mantenuto attività di market making, stante gli impegni di quotazione contenuti nel
+prospetto informativo. Dal giorno della risoluzione dei quattro istituti (22 novembre) MPS CS, che svolge
+l’attività di market maker sul titolo, ha acquistato c.ca Eur 33 mln. del titolo (mediamente Eur 2.7 mln. al
+giorno), con una pressione in vendita da parte della clientela via via crescente, nonostante la riduzione del prezzo
+di riacquisto (quotazioni ora in area 80, rispetto a c.ca 93 del 22 novembre - vedi grafici nelle slide successive
+dove si evidenzia l’andamento del prezzo mid quotato).
+Ad oggi lo stock di subordinati Tier 2 riacquistati dal gruppo BMPS si è così portato a c.ca Eur 108
+mln., rispetto al limite massimo di Eur 133.68 mln. fissati dall’ECB (confermati nella loro ultima
+comunicazione ufficiale del 4 dicembre 2015). Se dovessero permanere ritmi di riacquisto elevati
+(Eur 3/4 mln. al giorno), tale limite verrebbe raggiunto in 6/10 gg. lavorativi.
+Al fine di mitigare tale evento, MPS CS sta abbassando ulteriormente il prezzo di riacquisto, in linea con
+l’andamento dei titoli subordinati di analoghe caratteristiche. Tale azione sta cominciando a produrre i primi
+effetti (nella giornata del 10/12 i riacquisti sono risultati inferiori ad Eur 1 mln.), che potranno essere
+meglio valutati nei prossimi giorni. Ciò nondimeno potrebbe non essere sufficiente a contenere il
+rientro di ulteriori quote del titolo e ad evitare il raggiungimento del limite di vigilanza. MPS CS è
+d’altra parte tenuta da prospetto informativo ad effettuare un prezzo alla clientela fino al raggiungimento
+dell’ammontare massimo detenibile dall’emittente.
+Tale impegno deve essere mantenuto ad un prezzo “tendenzialmente” pari allo spread di emissione, livello dal
+quale MPS CS si discosta in caso di forti pressioni in vendita e fasi particolari di mercato, come quella in corso.
+                                                                                                                       38
+
+Riacquisti subordinato 2018
+Si segnala che se venisse raggiunto il limite di vigilanza, MPS CS dovrebbe obbligatoriamente
+sospendere l’acquisto in proprietà del titolo e potrebbe operare solo come intermediario. Tale azione
+potrebbe avere ulteriori impatti significativi sul prezzo del titolo per la clientela, al limite portando anche a
+situazioni di assenza di prezzo (cosiddetto “no bid”), poiché la quotazione del titolo dipenderebbe dall’effettiva
+disponibilità a comprare da parte di operatori esterni al gruppo. Sebbene compliant con la policy di esecuzione
+degli ordini ai fini MIFID, si evidenzia come tale situazione avrebbe conseguenze di tipo reputazionale
+nei confronti dei clienti, che potrebbero o non riuscire più a vendere il titolo sul mercato, o a farlo solo a prezzi
+estremamente penalizzanti.
+I vincoli imposti dal regolatore su questi tipi di strumenti rendono peraltro difficilmente realizzabili soluzioni
+diverse rispetto a quanto contenuto nel prospetto, che possano ridurre anche solo parzialmente l’impatto sulla
+clientela (ad es. ponendo in carico alla Banca parte della perdita realizzata dal cliente).
+Le azioni concretamente realizzabili sul mercato al fine di mitigare tale rischio sono quindi sostanzialmente due:
+a) come attualmente in corso, MPS CS provvederà ad agire sul prezzo del titolo al fine di tenerlo, per
+    quanto possibile, allineato con titoli di analoghe caratteristiche e disincentivare le vendite. Inoltre sono stati
+    avviati contatti con investitori istituzionali potenzialmente acquirenti di questa tipologia di strumento;
+b) MPS CS avvierà la selezione di alcune controparti di mercato, da selezionare tra quelle più attive su questo
+    segmento di mercato e ritenute più affidabili in termini di quotazione, da attivare immediatamente nel
+    caso in cui il limite venga raggiunto.
+Relativamente al punto b), andrebbe valutata con attenzione l’opportunità di informare anticipatamente tali
+controparti dell’esigenza della banca, all’approssimarsi del limite, data la delicatezza del tema (alla luce dei
+possibili forti impatti sulla quotazione del titolo stesso).
+Inoltre si ritiene opportuno esperire un tentativo con l’ECB (evidenziando l’eccezionalità della
+situazione di mercato), ad es. affinché la stessa autorizzi la Banca a cancellare quota parte del
+magazzino, allontanando il rischio di superamento dei limiti e consentendo la prosecuzione dell’attività di
+market making diretta nei confronti della clientela.
+                                                                                                                      39
+
+Riacquisti subordinato 2018
+ Nei grafici sottostanti sono riportati rispettivamente l’andamento dello stock del titolo subordinato riacquistato
+ nell’ultimo semestre, rispetto al limite ECB (grafico 1) e l’andamento del prezzo del titolo.
+ I grafici evidenziano il significativo incremento dei riacquisti delle ultime settimane, con l’avvicinamento del limite
+ ECB, e la forte riduzione del prezzo del titolo realizzata da MPS CS degli ultimi giorni, al fine di mitigare la
+ pressione in vendita da parte della clientela.
+         Monte 2018: riacquisti vs. limite ECB                                 Monte 2018: quotazione secondario
+       160.000.000                                                  100
+       140.000.000                                                   90
+                                                                     80
+       120.000.000
+                                                                     70
+       100.000.000
+                                                                     60
+        80.000.000                                                   50
+        60.000.000                                                   40
+                                                                     30
+        40.000.000
+                                                                     20
+        20.000.000                                Riacquisti
+                                                                     10
+                                                  limite ECB
+                 0                                                    0
+                                                                      1-giu-15  1-lug-15 1-ago-15 1-set-15 1-ott-15 1-nov-15 1-dic-15
+                                                                                                                                      40
+
+<U+F071> Economia e Mercati
+<U+F071> Situazione di mercato e andamento liquidità a breve
+<U+F071> Posizione di tasso e ALM
+<U+F071> Strategie di investimento e aggiornamento sull'operatività
+<U+F071> Varie
+<U+F071> Aggiornamento TIT - Area Pianificazione
+<U+F071> Operatività MPSCS
+<U+F071> Aggiornamento obbligazioni retail – Area Retail
+                                                             41
+
+Agenda
+ <U+F071>   Tassi Interni di Trasferimento (TIT) : ruolo del Comitato Finanza    3
+ <U+F071>   TIT comportamentali poste a vista :
+     <U+F0FC>    Effetti da monitorare                                           4
+     <U+F0FC>    Analisi composizione volumi di Raccolta Diretta                 5
+     <U+F0FC>    Analisi composizione volumi di Raccolta a Vista                 6
+     <U+F0FC>    TIT comportamentali gennaio 2016                                7
+ <U+F071>   Curve Funding Spread gennaio 2016                                    8
+ <U+F071>   Curve Liquidity Adjustment gennaio 2016                              9
+ <U+F071>   WIDIBA: Curva Funding Spread gennaio 2016                          10
+ <U+F071>   Proposte Direzioni Commerciali                                     12
+                                                                       42
+
+Tassi Interni di Trasferimento (TIT) : ruolo del Comitato Finanza
+ Il documento di normativa (D01776) relativo alla gestione dei Tassi Interni di Trasferimento
+ prevede che il Comitato Finanza abbia competenza in relazione a:
+ <U+F0FC> approvazione di modifiche al modello di TIT
+ <U+F0FC> approvazione dei TIT comportamentali e delle curve dei funding spread nonché di
+    eventuali correttivi puntuali da apportare ai valori ottenuti da modello
+ <U+F0FC> approvazione di eventuali add -on commerciali
+ La Funzione Pianificazione e Controllo di Gestione provvederà ad elaborare la curva FS
+ nonchè i valori dei TIT Comportamentali e degli add-on commerciali da trasmettere al
+ Comitato Finanza per l’approvazione
+                                                                                         43
+
+TIT Comportamentali poste a Vista : effetti da monitorare
+ Dal punto di vista comportamentale la raccolta a vista ha una duration differenziata per modello di
+ servizio ( i modelli di servizio Retail sono quelli dove la raccolta a vista presenta di fatto una maggior
+ stabilità e quindi una maggior duration).
+ Il TIT comportamentale associato alle operazioni a vista risulta quindi molto più elevato rispetto al
+ TIT utilizzato nei modelli non comportamentali (eu a 1 m + FS 1 m) e superiore al TIT associato ad
+ operazioni a scadenza.
+ La concreta applicazione del modello può quindi indurre alcuni effetti che è necessario mantenere
+ sotto controllo:
+        <U+F0FC> spostamento delle masse di raccolta da forme tecniche a scadenza verso il vista
+        <U+F0FC> aumento complessivo del costo della raccolta a vista
+                                                                                                       44
+
+TIT comportamentali poste a vista : analisi composizione volumi di Raccolta Diretta al 30/11/15
+                    Raccolta Diretta   31/12/14   mix %   30/09/15   mix %   31/10/15   mix %   30/11/15   mix %
+   AREA RETAIL
+                         Vista          33.834    61%      33.290    60%      33.733    61%      32.902    60%
+                         Breve          5.161      9%      5.842     11%      5.967     11%      5.976     11%
+                         M/L            16.638    30%      16.438    30%      16.022    29%      15.813    29%
+                        totale          55.633    100%     55.570    100%     55.722    100%     54.691    100%
+                                                                                                                   La % di raccolta a vista, rispetto
+                                                                                                                   al totale della raccolta diretta,
+   AREA PRIVATE
+                    Raccolta Diretta   31/12/14   mix %   30/09/15   mix %   31/10/15   mix %   30/11/15   mix %
+                         Vista          3.460     62%      3.120     58%      3.093     58%      2.970     55%     risulta invariata per l’Area
+                         Breve           353       6%       582      11%       601      11%       823      15%     Retail, l’Area Corporate e i
+                                        1.729     31%      1.710     32%      1.658     31%      1.624     30%
+                         M/L                                                                                       Grandi Gruppi.
+                        totale          5.542     100%     5.412     100%     5.352     100%     5.417     100%
+                    Raccolta Diretta   31/12/14   mix %   30/09/15   mix %   31/10/15   mix %   30/11/15   mix %   Per l’Area Private e l’Area
+   AREA                  Vista          9.338     87%      11.904    82%      12.275    82%      11.852    82%     Corporate Top si registra una
+                                         936       9%      2.034     14%      2.127     14%      2.171     15%
+                         Breve                                                                                     diminuzione             piuttosto
+ CORPORATE               M/L             520       5%       510       4%       511       3%       510       4%
+                                                                                                                   significativa (-3/-4%).
+                        totale          10.794    100%     14.448    100%     14.913    100%     14.533    100%
+   AREA CORP. TOP
+                    Raccolta Diretta   31/12/14   mix %   30/09/15   mix %   31/10/15   mix %   30/11/15   mix %
+                         Vista          2.670     80%      3.043     80%      3.200     78%      2.879     74%
+                         Breve           538      16%       614      16%       764      19%       858      22%
+                         M/L             110       3%       170       4%       158       4%       158       4%
+                        totale          3.318     100%     3.827     100%     4.122     100%     3.895     100%
+                    Raccolta Diretta   31/12/14   mix %   30/09/15   mix %   31/10/15   mix %   30/11/15   mix %
+ AREA GRANDI             Vista          2.482     36%      2.553     36%      2.721     37%      2.608     37%
+                         Breve          4.465     64%      4.515     64%      4.611     63%      4.418     63%
+   GRUPPI                M/L             21        0%       30        0%       22        0%       17        0%
+                        totale          6.968     100%     7.098     100%     7.354     100%     7.043     100%
+                                                                                                                                                45
+
+TIT comportamentali poste a Vista : analisi composizione volumi di Raccolta a Vista al 30/11/15
+     Stratificazione Volumi Tassi                                     Dicembre 2014            Giugno 2015         Settembre 2015           Ottobre 2015          Novembre 2015
+       Raccolta a Vista (€/mil)                                          3a decade              3a decade             3a decade              3a decade               3a decade
+             BANCA MPS                     Fascia Tasso             VOLUMI        TASSI  VOLUMI         TASSI   VOLUMI        TASSI   VOLUMI          TASSI   VOLUMI         TASSI
+    Enti                                    Tc > Tit Com             1.146          1,75    604            1,63   165            1,58    155             1,56    168            1,53
+                                      Tit Com > Tc > Tit Tatt.        462           1,16    820            1,13   926            0,98    785             0,95    625            0,94 Rispetto al 31 ottobre u.s. si osserva
+                                            Tc < Tit Tatt.           2.763          0,45   3.087           0,52  3.245           0,48   3.366            0,43   3.322           0,43
+                                        Non Modellizzato              665           2,53   2.070           3,36  2.517           3,40   2.524            3,47   2.795           3,48 un significativo calo dei volumi di
+   PMI                                      Tc > Tit Com
+                                                                     5.036
+                                                                      227
+                                                                                    1,09
+                                                                                    1,79
+                                                                                          6.581
+                                                                                             90
+                                                                                                           1,59
+                                                                                                           1,97
+                                                                                                                 6.855
+                                                                                                                   31
+                                                                                                                                 1,65
+                                                                                                                                 2,45
+                                                                                                                                       6.831
+                                                                                                                                          18
+                                                                                                                                                         1,64
+                                                                                                                                                         1,92
+                                                                                                                                                               6.910
+                                                                                                                                                                  33
+                                                                                                                                                                                1,74
+                                                                                                                                                                                1,64
+                                                                                                                                                                                     raccolta a vista (+ 1,81 MLD) ed una
+                                      Tit Com > Tc > Tit Tatt.        839           1,24    809            1,12   848            0,99    613             0,96    497            0,92 sostanziale stabilità del tasso medio.
+                                            Tc < Tit Tatt.           5.851          0,40   4.038           0,29  4.133           0,29   4.765            0,26   4.376           0,25
+                                        Non Modellizzato               54           0,31     38            0,34    37            0,20     48             0,30     37            0,15
+   TOTALE CORPORATE                         Tc > Tit Com
+                                                                     6.971
+                                                                     1.373
+                                                                                    0,55
+                                                                                    1,75
+                                                                                          4.975
+                                                                                            694
+                                                                                                           0,46
+                                                                                                           1,68
+                                                                                                                 5.049
+                                                                                                                  196
+                                                                                                                                 0,42
+                                                                                                                                 1,71
+                                                                                                                                       5.444
+                                                                                                                                         173
+                                                                                                                                                         0,35
+                                                                                                                                                         1,60
+                                                                                                                                                               4.942
+                                                                                                                                                                 201
+                                                                                                                                                                                0,32
+                                                                                                                                                                                1,55
+                                                                                                                                                                                     La diminuzione dei volumi è comune
+                                      Tit Com > Tc > Tit Tatt.
+                                            Tc < Tit Tatt.
+                                                                     1.300          1,21   1.629           1,12  1.774           0,98   1.398            0,96   1.122           0,93 a tutti i modelli di servizio, con la sola
+                                                                     8.615          0,42   7.125           0,39  7.379           0,37   8.131            0,33   7.698           0,33
+                                        Non Modellizzato              719           2,37   2.108           3,30  2.555           3,36   2.572            3,41   2.831           3,44 eccezione degli Enti, che registrano
+                                                                    12.007          0,77 11.556            1,10 11.904           1,13 12.275             1,07 11.852            1,15
+   Small Business                           Tc > Tit Com              180           2,61     79            2,20    72            2,27     24             2,37     29            2,21
+                                                                                                                                                                                     un aumento nella componente Non
+                                      Tit Com > Tc > Tit Tatt.
+                                            Tc < Tit Tatt.
+                                                                      622
+                                                                     3.819
+                                                                                    1,43
+                                                                                    0,19
+                                                                                            599
+                                                                                           4.200
+                                                                                                           1,28
+                                                                                                           0,13
+                                                                                                                  690
+                                                                                                                 4.302
+                                                                                                                                 1,22
+                                                                                                                                 0,13
+                                                                                                                                         599
+                                                                                                                                        4.824
+                                                                                                                                                         1,23
+                                                                                                                                                         0,11
+                                                                                                                                                                 518
+                                                                                                                                                                4.309
+                                                                                                                                                                                1,17
+                                                                                                                                                                                0,11
+                                                                                                                                                                                     Modellizzata riferibile alla posizione
+                                        Non Modellizzato               27           0,22     32            0,37    41            0,17     38             0,27     33            0,18 C.C.S.E.
+                                                                     4.648          0,45  4.909            0,30  5.105           0,30  5.485             0,24  4.890            0,24
+   Premium & Valore                         Tc > Tit Com              247           2,76    108            2,54    13            2,78     11             2,72     20            2,56
+                                      Tit Com > Tc > Tit Tatt.
+                                            Tc < Tit Tatt.
+                                                                     1.273
+                                                                    27.464
+                                                                                    1,54
+                                                                                    0,07
+                                                                                           1.336
+                                                                                          26.553
+                                                                                                           1,45
+                                                                                                           0,05
+                                                                                                                 1.521
+                                                                                                                 26.418
+                                                                                                                                 1,44
+                                                                                                                                 0,05
+                                                                                                                                        1.221
+                                                                                                                                       26.778
+                                                                                                                                                         1,38
+                                                                                                                                                         0,04
+                                                                                                                                                                1.122
+                                                                                                                                                               26.627
+                                                                                                                                                                                1,32
+                                                                                                                                                                                0,04
+                                                                                                                                                                                     La stabilità del tasso medio deriva da
+                                        Non Modellizzato              202           0,12    241            0,08   233            0,14    238             0,10    243            0,09 un calo generalizzato per tutti i
+                                                                    29.186          0,16 28.238            0,12 28.185           0,12 28.248             0,10 28.012            0,10
+   TOTALE RETAIL                            Tc > Tit Com              427           2,70    187            2,40    84            2,34     35             2,47     49            2,35 modelli di servizio e per tutte le fasce
+                                      Tit Com > Tc > Tit Tatt.       1.895          1,50   1.935           1,40  2.211           1,37   1.820            1,33   1.640           1,28
+                                            Tc < Tit Tatt.          31.283          0,09  30.753           0,06  30.720          0,06  31.602            0,05  30.936           0,05
+                                                                                                                                                                                     di tasso cliente, compensata da un
+                                        Non Modellizzato              229           0,13    273            0,11   274            0,15    276             0,12    276            0,10 aumento del tasso della componente
+                                                                    33.834          0,20 33.147            0,15 33.290           0,15 33.733             0,13 32.902            0,12
+   PRIVATE E PRIVATE TOP                    Tc > Tit Com             1.115          2,04    874            1,76   575            1,76    411             1,73    337            1,66 Non       modellizzata,     riconducibile
+                                      Tit Com > Tc > Tit Tatt.        279           1,20    539            1,11   743            1,12    793             1,09    722            1,05
+                                            Tc < Tit Tatt.           1.942          0,28   1.720           0,25  1.659           0,24   1.736            0,24   1.743           0,25 all’aumento      dell’incidenza      della
+                                        Non Modellizzato              124
+                                                                     3.460
+                                                                                    0,04
+                                                                                    0,92
+                                                                                            232
+                                                                                          3.366
+                                                                                                           0,02
+                                                                                                           0,76
+                                                                                                                  143
+                                                                                                                 3.120
+                                                                                                                                 0,04
+                                                                                                                                 0,72
+                                                                                                                                         153
+                                                                                                                                       3.093
+                                                                                                                                                         0,03
+                                                                                                                                                         0,65
+                                                                                                                                                                 169
+                                                                                                                                                               2.970
+                                                                                                                                                                                0,03
+                                                                                                                                                                                0,59
+                                                                                                                                                                                     raccolta       C.C.S.E.       a      tassi
+   GRANDI GRUPPI                            Tc > Tit Com               75           0,48      4            1,40     1            1,59      0             1,58      0            1,54 particolarmente elevati.
+                                      Tit Com > Tc > Tit Tatt.        127           0,68      0            1,00     0            1,04      0             1,04      0            0,95
+                                            Tc < Tit Tatt.           1.564          0,40   1.590           0,36  1.939           0,34   1.770            0,34   1.643           0,30
+                                        Non Modellizzato              926           0,78    665            0,40   613            0,38    951             0,36    964            0,33
+                                                                     2.692          0,55  2.260            0,37  2.553           0,35  2.721             0,34  2.608            0,31
+   CORPORATE TOP                            Tc > Tit Com                0            -        5            1,66     1            1,69      0             1,68      1            1,98
+                                      Tit Com > Tc > Tit Tatt.          0            -      899            1,18  1.045           1,07    390             1,04    175            0,96
+                                            Tc < Tit Tatt.              0            -     1.736           0,49  1.929           0,48   2.748            0,47   2.692           0,45
+                                        Non Modellizzato                0            -       50            0,74    68            0,58     61             0,52     11            0,30
+                                                                       0             -    2.689            0,73  3.043           0,68  3.200             0,54  2.879            0,48
+   TOTALE                                   Tc > Tit Com             2.990          1,97   1.764           1,80   856            1,81    619             1,74    588            1,68
+                                      Tit Com > Tc > Tit Tatt.       3.601          1,35   5.002           1,24  5.774           1,17   4.401            1,14   3.658           1,11
+                                            Tc < Tit Tatt.          43.404          0,17  42.924           0,15  43.625          0,15  45.987            0,15  44.712           0,14
+                                        Non Modellizzato             1.999          1,23   3.328           2,19  3.654           2,43   4.013            2,29   4.252           2,37
+                                                                    51.993          0,40 53.019            0,44 53.909           0,44 55.021             0,40 53.210            0,40
+   Incidenza % Stock > Tit Comport + Stock Non Modellizzato su Totale 9,6%
+                                                                      Raccolta             9,6%                   8,4%                   8,4%                   9,1%
+   LEGENDA: Tc = Tasso Cliente, Tit Com = Tit Comportamentale, Tit Tatt = Tit Tattico
+                                                                                                                                                                                                                                46
+
+TIT comportamentali poste a vista gennaio 2016
+                                       TIT Comportamentale -            TIT Comportamentale -
+                                            Dicembre 2015                     Gennaio 2016
+                                                 funding                         funding
+                                   tasso base                 totale tasso base            totale
+                                                 spread                          spread
+                                       (%)
+                                                    (%)
+                                                                (%)       (%)
+                                                                                   (%)
+                                                                                            (%)   I TIT comportamentali sono
+      Attivo PMI e Corporate Top      0,15         1,27        1,42     0,15       1,27     1,42  mantenuti uguali a quelli
+             Grandi Gruppi            0,07         1,23        1,31     0,07       1,23     1,31  determinati per novembre
+             Enti                     0,00         1,02        1,02     0,00       1,02     1,02  2015 applicando la curva dei
+             Private e Private Top    -0,08        0,92        0,84     -0,08      0,92     0,84
+             Premium & Valore         0,15         1,24        1,39     0,15       1,24     1,39  funding spread deliberata dal
+             Small Business           0,39         1,51        1,90     0,39       1,51     1,90  Comitato Finanza del 21
+     Passivo PMI e Corporate Top      0,12         1,32        1,43     0,12       1,32     1,43  ottobre u.s.
+             Grandi Gruppi            0,01         1,03        1,04     0,01       1,03     1,04
+             Enti                     0,03         1,20        1,22     0,03       1,20     1,22
+             Private e Private Top    0,08         1,28        1,36     0,08       1,28     1,36
+             Premium & Valore         0,61         1,77        2,38     0,61       1,77     2,38
+             Small Business           0,32         1,47        1,79     0,32       1,47     1,79
+                                                                      Add On
+                                                                      Gennaio
+                                           ADD ON GENNAIO
+                                                                         '16                      Gli Add_on di Gennaio sono
+                                                                         (%)                      ottenuti applicando il nuovo
+                                      Attivo PMI e Corporate Top       -1,10
+                                              Grandi Gruppi            -0,99                      TIT Tattico a vista pari a Eu
+                                              Enti                     -0,70                      1m + 50 bps
+                                              Private e Private Top    -0,52
+                                              Premium & Valore         -1,07
+                                              Small Business           -1,58
+                                     Passivo PMI e Corporate Top       -1,11
+                                              Grandi Gruppi            -0,72
+                                              Enti                     -0,90
+                                              Private e Private Top    -1,04
+                                              Premium & Valore         -2,06
+                                              Small Business           -1,47
+                                                                                                                                47
+
+Curve funding Spread gennaio 2016
+                   FUNDING SPREAD     FUNDING SPREAD
+                    DICEMBRE 2015       GENNAIO 2016
+         Durata    bullet  amortizing bullet  amortizing
+           1m       0,64       0,64    0,64      0,64
+           2m       0,86       0,86    0,86      0,86
+           3m       0,99       0,99    0,99      0,99
+           4m       1,09       1,09    1,09      1,09    In attesa che giunga a compimento il
+           5m       1,16       1,16    1,16      1,16    processo di revisione annuale della
+           6m       1,22       1,22    1,22      1,22
+                                                         metodologia di calcolo della curva FS
+           7m       1,26       1,26    1,26      1,26
+           8m       1,31       1,31    1,31      1,31    blended viene mantenuta la curva di
+           9m       1,35       1,35    1,35      1,35    novembre 2015, approvata dal Comitato
+          10 m      1,38       1,38    1,38      1,38    Finanza del 21 ottobre 2015.
+          11 m      1,63       1,63    1,63      1,63
+          12 m      1,66       1,66    1,66      1,66
+          15 m      1,72       1,72    1,72      1,72
+          18 m      1,78       1,78    1,78      1,78
+            2y      1,88       1,74    1,88      1,74
+            3y      2,01       1,86    2,01      1,86
+            4y      2,10       1,95    2,10      1,95
+            5y      2,21       2,03    2,21      2,03
+            6y      2,30       2,10    2,30      2,10
+            7y      2,38       2,17    2,38      2,17
+            8y      2,45       2,23    2,45      2,23
+            9y      2,51       2,28    2,51      2,28
+           10 y     2,56       2,33    2,56      2,33
+           11 y     2,61       2,38    2,61      2,38
+           12 y     2,66       2,42    2,66      2,42
+           13 y     2,70       2,46    2,70      2,46
+           14 y     2,73       2,50    2,73      2,50
+           15 y     2,77       2,53    2,77      2,53
+        oltre 15 Y  2,77       2,63    2,77      2,63
+                                                                                               48
+
+Curve Liquidity Adjustment gennaio 2016
+                                                                                                                          L. A.TLTRO   L. A.
+                                            Liquidity Adjustment ABACO Gennaio 2016 (*)
+                                                                                                                          Non Stanz. Covered
+                                                                                                                            (C1-C3)   Bond
+              TLTRO TF        TLTRO TF       TLTRO TF TLTRO TF TLTRO TV                TLTRO TV      TLTRO TV TLTRO TV
+   Durata                                                                                                                  Gennaio   Gennaio
+             (AAA-AA3)         (A1-A3)        (B1-B2)        (B3)      (AAA-AA3)        (A1-A3)       (B1-B2)        (B3)
+                                                                                                                              2016     2016
+     1m           0,30           0,22           0,13         0,10         0,35            0,33           0,13        0,10     0,03     0,00  Come per le altre
+     2m           0,38           0,28           0,16         0,13         0,45            0,42           0,16        0,13     0,06     0,00
+     3m           0,43           0,32           0,19         0,14         0,51            0,47           0,19        0,14     0,08     0,00
+                                                                                                                                             componenti vengono
+     4m           0,47           0,35           0,20         0,15         0,56            0,51           0,20        0,15     0,10     0,00  mantenuti i valori del
+     5m           0,50           0,37           0,21         0,16         0,60            0,55           0,21        0,16     0,11     0,00  mese di novembre
+     6m           0,53           0,39           0,23         0,17         0,63            0,58           0,23        0,17     0,12     0,00
+     7m           0,55           0,40           0,23         0,18         0,65            0,60           0,23        0,18     0,13     0,00
+                                                                                                                                             2015.
+     8m           0,57           0,42           0,24         0,19         0,67            0,62           0,24        0,19     0,14     0,00
+     9m           0,58           0,43           0,25         0,19         0,69            0,64           0,25        0,19     0,15     0,00
+    10 m          0,60           0,44           0,26         0,20         0,72            0,66           0,26        0,20     0,16     0,00
+    11 m          0,62           0,45           0,26         0,20         0,73            0,68           0,26        0,20     0,17     0,00
+    12 m          0,63           0,46           0,27         0,21         0,75            0,69           0,27        0,21     0,18     0,00
+    15 m          0,64           0,47           0,27         0,21         0,76            0,70           0,27        0,21     0,17     0,00
+    18 m          0,65           0,48           0,28         0,21         0,77            0,71           0,28        0,21     0,16     0,00
+      2y          0,69           0,50           0,29         0,23         0,82            0,75           0,29        0,23     0,17     0,38
+      3y          0,75           0,55           0,32         0,25         0,89            0,82           0,32        0,25     0,21     0,40
+      4y          0,61           0,46           0,28         0,23         0,71            0,66           0,28        0,23     0,16     0,42
+      5y          0,52           0,40           0,26         0,22         0,61            0,56           0,26        0,22     0,13     0,43
+      6y          0,46           0,36           0,25         0,21         0,54            0,50           0,25        0,21     0,11     0,44
+      7y          0,18           0,18           0,18         0,18         0,18            0,18           0,18        0,18     0,00     0,45
+      8y          0,18           0,18           0,18         0,18         0,18            0,18           0,18        0,18     0,00     0,46
+      9y          0,19           0,19           0,19         0,19         0,19            0,19           0,19        0,19     0,00     0,47
+     10 y         0,19           0,19           0,19         0,19         0,19            0,19           0,19        0,19     0,00     0,47
+     11 y         0,19           0,19           0,19         0,19         0,19            0,19           0,19        0,19     0,00     0,48
+     12 y         0,19           0,19           0,19         0,19         0,19            0,19           0,19        0,19     0,00     0,48
+     13 y         0,20           0,20           0,20         0,20         0,20            0,20           0,20        0,20     0,00     0,49
+     14 y         0,20           0,20           0,20         0,20         0,20            0,20           0,20        0,20     0,00     0,49
+     15 y         0,20           0,20           0,20         0,20         0,20            0,20           0,20        0,20     0,00     0,50
+  oltre 15 Y      0,20           0,20           0,20         0,20         0,20            0,20           0,20        0,20     0,00     0,50
+             (*) L’attribuzione del L.A. Tltro per fasce di rating è puramente indicativa in quanto riflette la PD media.
+                                                                                                                                                                  49
+
+WIDIBA : curva F.S. gennaio
+2016
+14 dicembre 2015
+
+       CURVA F.S. WIDIBA : CALCOLO MESE DI GENNAIO 2016
+                                                         (a)             (b)      (a) + (b)                                                              1
+                                                                                                                                                 differenziale di
+                                                                 funding spread
+                                                                                               rendimento     ADD-ON 1,58% da funding spread     redditività con
+      RACCOLTA DIRETTA                 VOLUMI      tasso base al    curva MPS    TIT MPS
+                                                                                             Tesoreria atteso applicare alla curva curva Widiba     segmento
+   WIDIBA AL 31/10/2015                (€/mln)         09/12         GENNAIO    STANDARD
+                                                                                            (eur 3 m + 2,65%)  FS standard MPS GENNAIO 2016     Premium/Valore
+                                                                   (=dicembre)
+                                                                                                                                                      MPS *
+                 VISTA                   796,9         -0,18%          0,64%       0,46%          2,53%              2,07%            2,22%           -0,02%
+                3 MESI                    18,2         -0,12%          0,99%       0,87%          2,53%              1,66%            2,57%           1,66%
+                6 MESI                   198,4         -0,03%          1,22%       1,18%          2,53%              1,35%            2,79%           1,35%
+                9 MESI                    0,0          0,01%           1,35%       1,36%          2,53%              1,17%            2,92%           1,17%
+                12 MESI                  380,4         0,07%           1,66%       1,72%          2,53%              0,81%            3,23%           0,81%
+                18 MESI                   10,2         0,00%           1,78%       1,78%          2,53%              0,75%            3,36%           0,75%
+                24 MESI                   39,7         -0,05%          1,88%       1,83%          2,53%              0,70%            3,45%           0,70%
+                36 MESI                   1,0          0,02%           2,01%       2,02%          2,53%              0,51%            3,58%           0,51%
+                48 MESI                   0,4          0,13%           2,10%       2,23%          2,53%              0,30%            3,67%           0,30%
+                60 MESI                   10,6         0,26%           2,21%       2,47%          2,53%              0,06%            3,79%           0,06%
+   TOTALE RACCOLTA DIRETTA              1.455,9       -0,09%          1,04%        0,96%          2,53%             1,58%                             0,43%
+* raccolta a vista vs tit comportamentale mds Premium/Valore MPS
+Per il mese di gennaio 2016, il differenziale di redditività rispetto alla remunerazione riconosciuta per il segmento Premium/Valore di MPS è pari a 43 bps;
+ciò si traduce in un differenziale pari a 158 bps da applicare sulle singole durate della curva F.S. standard MPS.
+                                                                                                                                                                  51
+
+ Proposte delle Direzioni
+ Commerciali
+14 dicembre 2015
+
+Plafond Impieghi a TIT agevolato : proposte Direzione Retail e Rete - 1
+<U+F071> Plafond «TIT differenziato Sviluppo» (30 bps) : nuove operazioni a scadenza BT/MLT clientela rating C in «Sviluppo» (SBF,
+  Anticipi e Mutui)
+                                                                       • Importo : 300 mln
+   • Importo : 300 mln
+                                                                       • Scadenza : aprile 2016
+   • Scadenza : dicembre 2015
+                                                                       • Mercati di riferimento : Small Business, PMI
+   • Mercati di riferimento : Small Business, PMI
+                                                                       Il beneficio resta invariato e viene escluda la forma tecnica
+                                                                       SBF
+<U+F071> Plafond «TIT differenziato SBF - 50 bps» : nuove operazioni a scadenza BT (SBF)
+   • Importo : nd                                                       • Importo : nd
+   • Scadenza : dicembre 2015                                           • Scadenza : aprile 2016
+   • Mercati di riferimento : Small Business, PMI, Enti                 • Mercati di riferimento : Small Business, PMI, Enti
+                                                                        Riduzione del beneficio da 50 a 15 bps
+                                                                        Il FS di riferimento per il SBF sarà il FS tattico (50 bps)
+ <U+F071> Plafond «TIT potenziato - 60 bps» : nuove operazioni a scadenza
+   BT/MLT
+    • Importo : 2.400 mln                                                  • Importo : integrazione a 2.900 mln (+100 SB e +400 PMI)
+    • Scadenza : dicembre 2015                                             • Scadenza : aprile 2016
+    • Mercati di riferimento : Small Business, PMI, Enti                   • Mercati di riferimento : Small Business, PMI, Enti
+                                                                                                                                    53
+
+Plafond Impieghi a TIT agevolato : proposte Direzione Retail e Rete - 2
+<U+F071> Plafond «Revolving Credit Facility» : neutralizzazione eventuale marginalità negativa di nuove operazioni di Revolving Credit
+   Facility
+    • Importo : 100 mln                                                       • Importo : 100 mln
+    • Scadenza : dicembre 2015                                                • Scadenza : aprile 2016
+    • Mercati di riferimento : PMI, EntiPU                                    • Mercati di riferimento : PMI, EntiPU
+<U+F071> Plafond «Difesa surroghe passive»: sterilizzazione margine negativo di operazioni MLT rinegoziate con peggioramento
+   della redditività
+     • Importo : 400 mln                                                      • Importo : integrazione a 700 mln
+     • Scadenza : dicembre 2015                                               • Scadenza : marzo 2016
+     • Mercati di riferimento : Privati, comprese Small Business              • Mercati di riferimento : Privati, comprese Small Business
+ Indipendentemente dalla presenza di valori floor per la componente funding spread le funzioni commerciali applicheranno a
+ tutte le operazioni incluse nei plafond di impiego un tasso finito per il cliente minimo di 20 bps.
+                                                                                                                                        54
+
+Plafond Impieghi a TIT agevolato : proposte Direzione Corporate e Investment Banking - 1
+<U+F071> Plafond «TIT differenziato SBF - 50 bps» : nuove operazioni a scadenza BT (SBF)
+  • Importo : nd                                                         • Importo : nd
+  • Scadenza : dicembre 2015                                             • Scadenza : aprile 2016
+  • Mercati di riferimento : Grandi Gruppi, Corporate Top                • Mercati di riferimento : Grandi Gruppi, Corporate Top
+                                                                         Riduzione del beneficio da 50 a 15 bps
+                                                                         Il FS di riferimento per il SBF sarà il FS tattico (50 bps)
+<U+F071> Plafond «TIT potenziato - 60 bps» : nuove operazioni a scadenza
+  BT/MLT                                                                 • Importo : integrazione a 1.600 mln (+100 CTOP BT e +40
+   • Importo : 1.460 mln CTOP e GG, 520 mln MPSLF
+   • Scadenza : dicembre 2015                                                GG MLT), 520 mln MPSLF
+   • Mercati di riferimento : Grandi Gruppi, Corporate Top e             • Scadenza : aprile 2016
+      MPSLF                                                              • Mercati di riferimento : Grandi Gruppi, Corporate Top e
+                                                                             MPSLF
+<U+F071> Plafond «TIT potenziato - 80 bps MLT» : nuove operazioni MLT durata max 36m
+   •   Importo : 200 mln                                                  •  Importo : 200 mln
+   •   Scadenza : dicembre 2015                                           •  Scadenza : aprile 2016
+   •   Mercati di riferimento : Corporate Top                             •  Mercati di riferimento : Corporate Top e Grandi Gruppi
+   •   Floor 40 bps su FS                                                 •  Floor 40 bps su FS
+<U+F071> Plafond «TIT potenziato - 90 bps BT»: nuove operazioni a scadenza BT clientela con bassi livelli di
+   utilizzo
+   • Importo : 650 mln                                                     • Importo : integrazione a 750 mln (+100 CTOP)
+   • Scadenza : dicembre 2015                                              • Scadenza : aprile 2016
+   • Mercati di riferimento : Grandi Gruppi, Corporate Top                 • Mercati di riferimento : Grandi Gruppi, Corporate Top
+   • Floor 10 bps su FS                                                    • Floor 10 bps su FS
+                                                                                                                                     55
+
+Plafond Impieghi a TIT agevolato : proposte Direzione Corporate e Investment Banking - 2
+<U+F071> Plafond «Revolving Credit Facility» : neutralizzazione eventuale marginalità negativa di nuove operazioni di Revolving Credit
+  Facility
+   • Importo : 100 mln                                                  • Importo : 100 mln
+   • Scadenza : dicembre 2015                                           • Scadenza : aprile 2016
+   • Mercati di riferimento : Grandi Gruppi, Corporate Top              • Mercati di riferimento : Grandi Gruppi, Corporate Top
+<U+F071> Plafond dedicato a clientela di adeguato standing (rating>B2), per finanziare operazioni di importo superiore a €mio 20
+    che rispettino i requisiti di stanziabilità, con richiesta di quotazioni ad hoc (a cura di Area Finanza)
+    • Importo : 500 mln                                                  • Importo : 500 mln
+    • Scadenza : dicembre 2015                                           • Scadenza : aprile 2016
+    • Mercati di riferimento : Grandi Gruppi, Corporate Top,             • Mercati di riferimento : Grandi Gruppi, Corporate Top,
+        MPSCS                                                               MPSLF, MPSCS
+ Indipendentemente dalla presenza di valori floor per la componente funding spread le funzioni commerciali applicheranno a
+ tutte le operazioni incluse nei plafond di impiego un tasso finito per il cliente minimo di 20 bps.
+                                                                                                                                  56
+
+   Ulteriori proposte
+   <U+F071> Plafond CID Private Direzione Retail e Rete
+       si richiede di utilizzare il residuo di tutti i plafond precedenti, pari a 100 milioni, per operazioni di acquisizione di nuova clientela
+       o di riacquisizione di clientela persa, con durata max 12 mesi, sia Private (taglio minimo 250.000 euro) che Premium (taglio
+       minimo 50.000 euro), con i tassi di seguito indicati e con obiettivo di conversione in gestito alla scadenza:
+                                                           3 m AT max 1,10% - DRR max 1,50%
+                                                           6 m AT max 1,35% - DRR max 1,75%
+                                                           12m AT max 1,70% - DRR max 2,00%
+<U+F071> Riduzione del Funding Spread tattico utilizzato per regolare le poste a vista da 100 a 50 bps
+                                                                                                                                                 57
+
+Monitoraggio Plafond Impieghi a TIT agevolato
+         Direzione Retail e Rete                                    SMALL BUSINESS                                PMI                              ENTI                             PRIVATI                    Totale
+       (Dati puntuali in €/mln al 31 Ottobre 2015)
+                                                                Utilizzato          Autorizzato        Utilizzato       Autorizzato      Utilizzato       Autorizzato       Utilizzato    Autorizzato Utilizzato Autorizzato
+                                                             Volumi        Tassi       Volumi       Volumi     Tassi      Volumi      Volumi     Tassi       Volumi      Volumi     Tassi   Volumi            Volumi
+  TIT differenziato Sviluppo (30 bps)                              12,93     1,87 aut. Totale         148,51    1,67 aut. Totale                          aut. Totale                                    161,44        300,00
+                                            di cui sbf             10,26     1,89                      70,06    1,97                                                                                       80,32
+                                       di cui anticipi               2,27    1,63                      77,80    1,37                                                                                       80,07
+                                        di cui mutui                 0,40    2,59                       0,65    5,53                                                                                        1,05
+  TIT differenziato SBF - 50 bps                                   18,62     1,78                     592,40    1,78                       2,06    2,31           -                                      613,09           -
+  TIT potenziato - 60 bps                                         254,69     2,11         300,00    1.894,67    1,38       2.100,00       27,57    2,11 tdb (*)                                        2.176,93      2.400,00
+                                       di cui anticipi             18,59     1,71                     912,42    1,10                       1,06    1,02                                                  932,07           -
+                                        di cui mutui              233,81     2,15                     919,43    1,65                      26,51    2,15                                                1.179,75           -
+                   di cui anticipi Area Sviluppo                     1,03    1,29                      56,84    1,53                                                                                       57,87          -
+                    di cui mutui Area Sviluppo                       1,26    2,63                       5,98    1,56                                                                                        7,24          -
+  Revolving Credit Facility                                          0,43    3,07 aut. Totale          12,69    1,68 aut. Totale                          aut. Totale                                      13,13       100,00
+  Difesa Surroghe Passive                                                                                                                                                  258,50 3,09        400,00     258,50        400,00
+  (*) Estensione iniziative DRR sostegno impieghi - C.F. del 21.10.15
+  Direzione Corporate e Investment Banking                                     CORPORATE TOP                          GRANDI GRUPPI                        Totale
+            (Dati puntuali in €/mln al 31 Ottobre 2015)                                                                                                                            Il     monitoraggio                utilizza
+                                                                            Utilizzato       Autorizzato          Utilizzato       Autorizzato    Utilizzato   Autorizzato
+                                                                                                                                                                                   volumi e tassi puntuali del 31
+                                                                         Volumi       Tassi     Volumi        Volumi       Tassi     Volumi               Volumi
+                                                                                                                                                                                   Ottobre dei rapporti che a
+  TIT differenziato SBF - 50 bps                                           256,04       1,40                       4,85      0,41          -           260,89          -
+                                                                                                                                                                                   fine Ottobre risultavano
+  TIT potenziato - 60 bps                                                  742,85       1,27     1.300,00        29,00       2,42       160,00         771,85     1.460,00
+                                                                                                                                                                                   inseriti nei Plafond.
+                                                      di cui anticipi      418,29       1,00                                                           418,29
+                                                       di cui mutui        282,67       1,57                                                           282,67
+                                                          di cui Gof                                             29,00       2,42                       29,00
+                                                                                                                                                                                   I volumi autorizzati sono
+                                     di cui anticipi Area Sviluppo           40,90      1,95                                                            40,90                      aggiornati                               alle
+                                      di cui mutui Area Sviluppo              1,00      1,00                                                             1,00                      determinazioni dell’ultimo
+  TIT potenziato - 80 bps MLT                                                 5,30      1,25       200,00                                                5,30       200,00         Comitato Finanza del 16
+  TIT potenziato - 90 bps BT                                               283,53       0,46       400,00       122,09       0,35       250,00         405,63       650,00         Novembre u.s..
+                                                      di cui anticipi      283,53       0,46                     25,09       0,69                      308,63
+                                                  di cui GOF (G.G.)                                              97,00       0,27                       97,00
+  Revolving Credit Facility                                                    -              aut. Totale           -              aut. Totale            -         100,00
+  Operazioni MLT >20 mln quotate AFTCM                                       45,00      0,78                                                            45,00       500,00
+                                                                                                                                                                                                                                 58
+
+<U+F071> Economia e Mercati
+<U+F071> Situazione di mercato e andamento liquidità a breve
+<U+F071> Posizione di tasso e ALM
+<U+F071> Strategie di investimento e aggiornamento sull'operatività
+<U+F071> Varie
+<U+F071> Aggiornamento TIT - Area Pianificazione
+<U+F071> Operatività MPSCS
+<U+F071> Aggiornamento obbligazioni retail – Area Retail
+                                                             59
+
+Overview sui mercati di riferimento 1/2
+ Governativi:
+ Il mese di novembre appena trascorso ha visto forti oscillazioni nei rendimenti dei titoli di stato europei. In particolare il decennale italiano
+ dopo aver toccato l’1,80% nei primi giorni del mese ha messo a segno un forte movimento di discesa raggiungendo il rendimento dell’1,40%.
+ Tale movimento è sicuramente da ricondurre alle aspettative di modifica del QE in atto peraltro già annunciato da Draghi per la riunione della
+ Ecb in programma per il 3 dicembre. Molti analisti, infatti, hanno modificato nel corso del mese le loro aspettative sul tema incrementando le
+ previsioni sia in merito al taglio tassi che all’ incremento/allungamento del QE. Anche la parte a breve ha risentito di tali aspettative con il 2
+ anni italia sceso in territorio negativo (-0,05%) ed il 2 anni tedesco al – 0,43% scontando così un taglio dei tassi dello 0,20%. La parziale
+ delusione emersa nella riunione della Ecb ha prodotto un forte incremento dei rendimenti nei primi giorni di dicembre.
+ Credit:
+ Mercato delle obbligazioni societarie in calo nel corso delle ultime settimane sulla delusione post annuncio ECB, con gli spread che hanno
+ riallargato di circa 5bp dai minimi sugli indici Main e Senior.
+ Sul comparto dei financial si è registrata una notevole pressione in vendita sui titoli subordinati di emittenti italiani, in seguito alla risoluzione
+ delle quattro banche italiane (Marche, Ferrara, Etruria e Chieti), e al conseguente azzeramento del valore delle obbligazioni subordinate.
+ L’effetto contagio ha colpito particolarmente i titoli di banche considerate più fragili e, quindi, maggiormente esposte a rischi di bail-in.
+ Particolarmente penalizzate le emissioni LT2 di Banche regionali in calo di circa 10punti in poche sedute. Da segnalare, tuttavia la totale
+ assenza di liquidità che contribuito ad ampliare i movimenti di prezzo, anche su flussi retail. Poco variate le emissioni di Intesa ed Unicredito
+ che hanno segnato un incremento di spread sul benchmark di circa 7bp e 12bp, in linea con i nomi core europei.
+ Sul mercato corporates da segnalare il forte rally di Telecom Italia dovuto alla scalata di Vivendi (che detiene il 20%) e del magnate francese
+ Xavier Niel (che detiene il 15%). Di contro il cda di Telecom (ad esclusione solo dell’AD Patuano) ha approvato la conversione delle azioni di
+ risparmio in ordinarie con un rapporto pari a 1 e un conguaglio di 9,5 centesimi. Questa conversione porterà a una diluizione di circa il 30%
+ delle partecipazioni in mano agli attuali soci e la quota di Vivendi potrebbe scendere fino a poco sotto il 14%.
+ Sul comparto auto abbiamo visto diversi compratori su Fiat specialmente nella parte lunga della curva dopo che la società ha fatto registrare
+ un incremento delle vendite in Italia dell’ 11%, meglio del mercato che si attesta a +8%. Da segnalare anche attività di primario con Fca Bank ,
+ joint venture tra gruppo Fiat Chrysler e Credit Agricole, che ha collocato un bond scadenza 2018 da 500mln di €.
+ Per quanto riguarda il segmento HY, da segnalare il downgrade da parte di Moody’s da stabile a negativo su ASTALDI.
+                                                                                                                                                     60
+
+Overview sui mercati di riferimento 2/2
+ FX:
+ Il mese di novembre inizia con l’eurodollaro stabile sopra 1.0850 in attesa dei dati sul lavoro americani del 6 novembre. I NFP, decisamente
+ sopra le aspettative (271k contro gli attesi 185k), portano con decisione il cambio a testare 1.07 e avvalorano l’aspettativa, di parte del
+ mercato, di un incremento dei tassi americani da parte della FED. Da metà novembre, l’eurusd entra in un deciso trend decrescente,
+ rimanendo tra 1.0750 e 1.0550 e chiudendo appena sotto 1.0570. Le volatilità ATM a 6m aumentano dal 10.40% al 11.20% mentre quelle a
+ 1y passano dall’10.15% all’10.95%.
+ Fixed Income:
+ Il mercato dell’inflazione nel mese di Novembre ha continuato il movimento al rialzo già osservato ad Ottobre sulle aspettative di un corposo
+ intervento della ECB nel meeting di inizio Dicembre. Il 10y europeo è salito infatti fino a 1.42% (+8bps m/m), movimento quasi
+ esclusivamente legato al repricing verso l’alto delle aspettative di medio lungo con il 5y5y forward rate in crescita di 8bps fino al massimo di
+ 1.80% (non lontano dal massimo annuale registrato a Luglio).
+ Mercato dei linkers un po’ lagging rispetto al comparto nominale con pick up di rendimento in leggera risalita.
+ Come nei mesi scorsi liquidità estremamente rarefatta eccetto nei giorni prossimi all’asta di fine mese che ha visto interessati il BTPei23 ed il
+ nuovo emesso BTPei32 con esiti più che soddisfacenti.
+ Il mese di novembre è stato caratterizzato dall’attesa delle decisioni delle banche centrali e il movimento è stato guidato dalle aspettative in
+ merito all’incremento delle politiche espansive.
+ In particolare in area EUR si osservano movimenti diversi nei diversi tratti di curva: se nel tratto breve si è assistito ad una continua discesa
+ (per 2Y EUR: -10bps), nel tratto più lungo nei primi giorni del mese c’è stato dapprima un aumento (IRS 10Y: +10bps, IRS 30Y: +15bps) per poi
+ riscendere 5 bps sotto i livelli di fine ottobre (IRS 10Y: -15bps, IRS 30Y: -20bps).
+ Andamento altalenante per gli asset swap spread su Bobl e Bund, che chiudono sostanzialmente invariati.
+ Azionario:
+ Mese di novembre caratterizzato dall’attesa delle dichiarazioni di BCE e FED nel mese di dicembre.
+ Mercati latererali con movimenti molto contenuti: ampiezza del 6% per SX5E, DAX, SPX , NIKKEI.
+ Appiattimento della term structure delle volatilità per tutti gli indici dovuto sia a flussi compratori sulla parte breve della curva fino a 3 mesi
+ (in particolare upside calls) che a interessi venditori a partire dai 9 mesi in avanti.
+ Da notare come il calo del petrolio, -15% sul mese, non si sia riflesso sui relativi indici settoriali, europei e americani, cosi come sulle
+ quotazioni degli indici dei più importanti paesi produttori, Brazile e Russia, pressochè invariati sul mese. Il ribasso dei tassi conseguente alle
+ forti aspettative sulla polita monetaria europea generati da Draghi ha contribuito a consistenti rialzi del settore dell’auto, SXAP +7% e degli
+ industriali SXNE +6%.
+                                                                                                                                                   61
+
+Quadro di sintesi
+                  62
+
+P&L - Client Driven vs. Prop
+                             63
+
+Var e Stop Loss
+                64
+
+Portafoglio Finanziario
+                        65
+
+Fatti Gestionali Rilevanti
+   Struct and Prod Eng. +1 mln di euro di cui:
+           <U+F084> Prodotti finanza innovativa gruppo +1 mln di euro
+                  •  BMPS Tasso Variabile con Cap e Floor in USD Feb 20121 + 1 mln di euro
+   Liquidity Providing +1 mln di euro di cui:
+           <U+F084> POLIZZE +1 mln di euro
+   Customer Desk + 0.8 mln di euro di cui:
+           <U+F084> Coperture Tasso             + 594 mila euro (Empoli Salute +197 mila euro, Multiservizi S.P.A. 166 mila euro)
+           <U+F084> Coperture Cambio            + 117 mila euro (Casillo Comm. +34 mila euro, G.G.G. S.P.A. +15 mila euro)
+           <U+F084> Coperture Commodity         + 133 mila euro (HB Trading +73 mila euro, Spigas +19 mila euro)
+                                                                                                                           66
+
+Fatti Gestionali Rilevanti
+   Rischio Proprietario + 1.3 mln di euro di cui:
+          <U+F084> Portafoglio titoli di stato a breve termine + 0.6 mln di euro
+          <U+F084> Portafoglio titoli di stato a medio lungo termine + 0.3 mln di euro
+          <U+F084> Posizione in long future in CBOT US 6% - 1.8 mln di euro
+          <U+F084> Posizione strategic investment: Nikkey, S&P e Eurostoxx50: + 1.9 mln di euro
+   Asset Management Solutions e Financial Institutions + 0.8 mln euro di cui:
+          <U+F084> Asset Management Solutions + 400 mila euro (aste +142 mila euro, secondario governativi +111 mila euro,
+              secondario credit 73 mila euro)
+          <U+F084> Financial Institutions + 400 mila euro (bondvision +157 mila euro, sec govt +77 mila euro, bet +61 mila euro)
+          <U+F084> Poste Italiane nessuna operazione
+   Risk Warehousing - 2.1 mln di euro
+                                                                                                                          67
+
+<U+F071> Economia e Mercati
+<U+F071> Situazione di mercato e andamento liquidità a breve
+<U+F071> Posizione di tasso e ALM
+<U+F071> Strategie di investimento e aggiornamento sull'operatività
+<U+F071> Varie
+<U+F071> Aggiornamento TIT - Area Pianificazione
+<U+F071> Operatività MPSCS
+<U+F071> Aggiornamento obbligazioni retail – Area Retail
+                                                             68
+
+Comitato Finanza
+Report Raccolta Diretta
+Novembre 2015
+Area Marketing Strategico e Prodotti Retail
+Milano, 10/12/2015
+                                            69
+
+  Obbligazioni Lineari BMPS – Sintesi Collocamenti
+                                                                              Novembre*       Novembre            Totale          Totale
+                                                                                  2015           2014**         YTD 2015         YTD 2014
+       Ammontare Nominale Complessivo dell'Offerta (Mln €)                        € 520            €0            € 5.671         € 10.948
+                             Tasso Fisso                                          € 345             -            € 3.600          € 8.558
+                             Tasso Variabile                                       €0               -            € 1.011           € 150
+                             Tasso Misto                                          € 175             -            € 1.060          € 2.241
+       Ammontare Collocato (Mln €)                                                € 216            €0            € 2.350          € 4.715
+                             Tasso Fisso                                          € 147             -            € 1.465          € 3.842
+                             Tasso Variabile                                       €0               -              € 327            € 70
+                             Tasso Misto                                           € 69             -              € 557           € 803
+       % Ammontare Collocato vs Nominale Complessivo                               41%              -               41%             43%
+       Mark-Down Medio Ponderato su Ammontare Collocato (bps)                       37              -                42              80
+       Cost of Funding Medio Ponderato su Ammontare Collocato                      157              -               159             168
+       Rapporto CoF vs curva MKT/CDS (%)                                           65%              -               71%             67%
+       Durata Media Ponderata vs Ammontare Collocato (anni)                        2,41             -               3,22            3,37
+                                                                              Novembre*       Novembre            Totale          Totale
+                                                                                  2015            2014          YTD 2015         YTD 2014
+                                         Ammontare Collocato (Mln €)                    € 216             €0           € 2.350         € 4.715
+                                                       Secondario (Mln €)               -€ 53          -€ 13            -€ 729          -€ 899
+                                                        Scadenze (Mln €)              -€ 440          -€ 580         -€ 3.490       -€ 11.368
+                                                  Raccolta Netta (Mln €)               -€ 277         -€ 593          -€ 1.869        -€ 7.552
+*  Pricing date: 25 settembre per il Bond Territoriale Sicilia e Calabria in collocamento dal 2 ottobre al 13 novembre, prorogato poi fino al 30
+   novembre 2015; 30 ottobre per le emissioni in collocamento dal 4 novembre 2015; 9 novembre per il Bond Territoriale Toscana Sud, Umbria
+   e Marche in collocamento dal 12 novembre 2015.
+** Nota Bene: nell’attesa che si completasse il quadro informativo conseguente al comprehensive assessment 2014, BMPS aveva ritenuto
+   opportuno non accogliere nuove adesioni sui collocamenti dei prestiti obbligazionari lineari.
+                                                                                                            Dati aggiornati al 30 novembre 2015
+                                                                                                                                                70
+
+      Obbligazioni Lineari BMPS – Novembre 2015: caratteristiche in sintesi e analisi coerenza con
+      policy di pricing vigente
+                                                                                                                                                       Dati aggiornati al 30/11/2015
+                                                                                                                                               Confronto con
+                                                                       Ammontare                                                              policy di pricing
+                                                                                      Ammontare        %      Periodo di              Cost of
+                                    Tasso di               Destinatari Nominale                                            Mark-Down
+Descrizione                                                                            Collocato Ammontare      validità             Funding  Rapporto CoF vs Classe di rischio
+                           Interesse Nominale                Offerta*  dell'Offerta                                          (bps)
+                                                                                         (Mln €)   Collocato  dell'offerta             (bps)  curva CDS/MKT
+                                                                         (Mln €)
+                                                                                                                                                    (%)**
+TF 3ys
+Bond Territoriale                                                                                            dal 02 ott al
+                                      1,80%                 DF/VP/CA        50               32      64%                     35,10    164,70         71%                  F3
+AT Sicilia e                                                                                                   30 nov 15
+Calabria
+                                                                                                             dal 4 nov al
+TF 2ys                                1,50%                     PI         285              137      48%                     33,90    155,00         65%                  F3
+                                                                                                               11 dic 15
+                                 Iy 3,00% poi                                                                dal 4 nov al
+TM 3ys                                                          PI         175               73      42%                     43,00    159,00         63%                  F3
+                                Eur6M+0,85%                                                                    11 dic 15
+TF 3ys Bond
+Territoriale AT                                                                                              dal 12 nov al
+                                      1,70%                 DF/VP/CA        30                8      25%                     37,60    162,20         69%                  F3
+Toscana Sud,                                                                                                   22 dic 15
+Umbria e Marche
+                                                          NOVEMBRE         520              216      41%                       37       157          65%
+                                                            YTD 2015      5.671           2.350      41%                       42       159          71%
+*   PI = pubblico indistinto; CA/VP/DF = conversione amm.to/variazione patrimoniale/denaro fresco.
+**  Nuova policy di pricing (deliberata dal CdA in data 28/01/2015).
+                                                                                                                                                                          71
+
+CID - ANALISI RACCOLTA YTD 2015
+    Raccolta lorda e Cost Of Funding                                                                                 Fonte dati Pianificazione al 30.10.2015
+                                                 Media Ponderata CoF
+        MESI                 CONF LORDO                                                        Media Ponderata CoF mensile
+                                                       mensile
+     GENNAIO                  977.702.420               1,10                         1,80
+                                                                                                          1,44
+     FEBBRAIO                1.331.193.449              1,41                                       1,41
+      MARZO                  1.086.573.667              1,44                         1,20                        1,32           1,31
+                                                                                                                         1,31           1,25 1,16
+       APRILE                 818.686.898               1,32                                1,10                                                               1,09
+                                                                                                                                                    1,05
+     MAGGIO                   853.233.403               1,31                         0,60
+     GIUGNO                   875.971.861               1,31
+      LUGLIO                  858.345.760               1,25
+                                                                                     0,00
+      AGOSTO                  595.481.559               1,16
+    SETTEMBRE                 646.630.392               1,05
+     OTTOBRE                  622.204.868               1,09
+                                                                                                             Media Ponderata CoF mensile
+ Totale complessivo          8.666.024.277                  1,27
+ Raccolta          Genn/Giu 2015 Genn/Giu 2014                               2.000
+   Lorda             5.843.939.552     4.771.320.135
+  Netta              2.229.679.712      1.408.694.080                        1.500
+ Raccolta           Lugl/Nov 2015      Lugl/Nov 2014
+   Lorda             3.368.484.659     3.139.411.724                         1.000
+                                                                   Milioni
+   Netta*             45.438.399        139.203.562
+                                                                              500
+                        YTD 2015             YTD 2014
+   Lorda             9.212.424.211     7.910.731.859
+                                                                                0
+   Netta            2.275.118.111      1.547.897.642
+                                        Legenda Grafico
+                                                                             -500
+                                       Lrd 15      Lrd 14
+  Fonte dati COGNOS al 30.11.2015
+                                       Ntt15       Ntt14
+                                                                                                                                                           72
+
+ CID – ANALISI STOCK
+    Stock su Durata di Prodotto
+                                                                                           CID Stock MD
+  Durata         Stock        %      Mark Down               5,0                                                                                1,00
+                                                 Miliardi
+  3 mesi      126.335.269    1%         0,45                 4,5                                                                                0,90
+  6 mesi      965.679.390    9%         0,34                 4,0                                                                                0,80
+  9 mesi      157.280.556    2%         0,30                 3,5                                                                                0,70
+                                                             3,0                                                                                0,60
+  12 mesi    4.361.377.502   43%        0,36
+                                                             2,5                                                                                0,50
+  18 mesi     336.972.001    3%         0,39
+                                                             2,0                                                                                 0,40
+  24 mesi    2.106.802.854   21%        0,21                                                                                                   Budget
+                                                             1,5                                                                                 0,30
+  36 mesi     505.836.938    5%         0,60                 1,0                                                                                0,20
+  48 mesi      94.661.661    1%         0,68                 0,5                                                                                0,10
+  60 mesi    1.579.887.159   15%        0,95                 0,0                                                                                0,00
+                                                                    3 mesi   6 mesi   9 mesi 12 mesi 18 mesi 24 mesi 36 mesi 48 mesi 60 mesi
+   Totale   10.234.833.330              0,43
+                                                                                              Stock       Mark Down
+                                                                                       DURATA RESIDUA
+      Stock su Durata Residua                                3,00
+                                                  Miliardi
+ DURATA RESIDUA        IMPORTI €        %                    2,50
+Fino 3 M             1.811.081.413     18%
+                                                             2,00
+3-6 M                1.865.157.315     18%
+6-12 M               2.765.633.716     27%                   1,50
+12-24 M              2.125.660.032     21%                   1,00
+Oltre 2 Anni         1.667.300.854     16%
+                                                             0,50
+Totale              10.234.833.330
+                                                             0,00
+                                                                         Fino 3 M         3-6 M          6-12 M        12-24 M      Oltre 2 Anni
+                                                                                                                                           73
+
+Allegati
+         74
+
+       Dettaglio Emissioni Competitors dedicate a clientela Retail in collocamento a
+       Dicembre 2015
+                                                                                                                                    Emittenti Terzi                BMPS
+                                                                                        Ammontare                                            Rapporto              Rapporto CoF
+                                                                                                                                  Cost of                 Cost of
+                                                                Tasso di interesse       Nominale      Data fine   Modalità di              CoF su CDS            netto cliente vs
+                         Emittente           Descrizione                                                                         Funding                 Funding
+                                                                    nominale            dell'Offerta    coll.to    riacquisto               alla pricing               curva
+                                                                                                                                   (bps)                   (bps)
+                                                                                          (Mln €)                                               date               MKT/CDS (%)
+                                                                                                                                                                                       Emissione PI
+                            UBI      TF 2y                            0,50%                 180        16-dic-15       EM         57,20       54,39%      155,00          65%
+                                                                                                                                                                                       TF 2y 1,50%
+                            BPI      TF 3y PI                         0,85%                 150        29-feb-16       EM         79,60       50,16%
+   Pubblico Indistinto
+                                                                                                                                                                                       Emissione PI
+                            UBI      TM 3y                  Iy 0,90% poi Eur6M+0,45%        200        16-dic-15       EM         62,50       44,40%      159,00          63%        TM 3y Iy 3,00% poi
+                                                                                                                                                                                        Eur6M+0,85
+                           BNL       TV 3y Retail/Private         Eur3M+0,50%               15         23-dic-15      MKT         50,00       67,44%
+                                                              Iy 0,50%+IIy 0,70%+IIIy
+                            UBI      TF 4y Step-Up                                          300        16-dic-15       EM         70,50       43,67%
+                                                                 0,90%+IVy 1,20%
+                                                            Iy-IIy 0,75% poi
+                           BNL       TM 5y Retail/Private                                   15         23-dic-15      MKT         81,00       72,85%
+                                                            Eur3M+0,40% con Cap 2,75
+                                     TF 5y Step-Up             Iy+IIy 1,20%+IIIy-IVy
+                            BPI                                                             200        28-dic-15       EM         125,00      65,03%
+                                     Multicallable               1,30%+Vy 1,40%
+PI/Private/ Conv.            -                    -                      -                   -                          -           -            -                                    Emissione Bond
+                                                                                                                                                                                      Territoriale Area
+ Denaro
+                                                                                                                                                                                       Toscana Sud,
+            Amm.to
+                                                                                                                                                          162,20          69%
+                                                                                                                                                                                      Umbria e Marche
+                                                                                                                                                                                         DF/VP/CA
+                            UBI      TF 2y Private DF/WE              1,50%                 20         16-dic-15       EM         156,30     148,63%
+  Fresco
+                                                                                                                                                                                        TF 3y 1,70%
+                            UBI      TF 2,5y Private                  0,60%                 20         16-dic-15       EM         63,70       45,26%
+   Private
+                            UBI      TM 3y Private          Iy 1,00% poi Eur6M+0,60%        20         16-dic-15       EM         75,80       53,85%
+                                  Nota Bene: al momento per alcuni Emittenti i rapporti del cost of funding vs i livelli di CDS risultano poco rappresentativi
+                                  poiché gli stessi indicizzano i pricing in primario sulla base dei prezzi rilevati sulle negoziazioni in secondario.
+                                                                                                                                                                                            75
+
+Confronto Raccolta BMPS 2015 vs Competitors
+                                                                               Confronto su emissioni collocate da inizio anno
+        Rapporto tra cost of funding e CDS su emissioni                                                                   Funding/Durata/Volumi collocati 2015 da BMPS vs
+                   collocate da inizio anno                                                                                                Competitors
+                                                                                                                200
+                                                                                                                180
+                                                                                                                                                                                                      Volumi
+                                                                                Costo della Raccolta (in bps)
+80%                 71%                                                                                         160                          BMPS
+                                                                                                                140
+70%
+          59%                                                57%                                                120
+60%                                                                                                             100
+                                                                                                                                                BPI
+                                                                                                                 80
+50%                       Media Competitors
+                                                                                                                 60
+                                                   38%                                                                       UBI
+                                                                                                                                       BNL                                                        ISP
+40%                                                                                                              40
+                                                                                                                 20
+30%                           25%                                                                                 0
+                                                                                                                   2,50                         3,50                             4,50                            5,50
+20%                                                                                                                                                        Durata (in anni)
+                                                                                                                                          UBI     BNL       ISP     UCI       BPI       BMPS
+10%
+0%                                                                             Confronto su emissioni attualmente in collocamento
+       BANCO     BMPS       INTESA   UNICREDIT   BNL       UBI
+      POPOLARE            SANPAOLO                                                                                         Funding/Durata/Volumi offerta Piano BMPS Dic 2015
+                                                                                                                                 vs Offerta Competitors in collocamento
+                                                                                                                180
+<U+F0FC> Il valore medio YTD del costo della raccolta BMPS è superiore alla
+                                                                                                                160
+  media mercato (159 bps vs 62 bps), ma rispetta i valori minimi di                                                             BMPS
+                                                                                                                                                                                                      Volumi
+                                                                                Costo della Raccolta (in bps)
+  funding spread determinati con la nuova policy di pricing approvata                                           140
+  dal CdA lo scorso 28 gennaio.                                                                                 120
+                                                                                                                100
+<U+F0FC> Sulle emissioni BMPS Retail in collocamento dal 4 novembre il
+                                                                                                                 80
+  rapporto CoF vs CDS è pari mediamente al 64% ca.
+                                                                                                                                                            UBI
+                                                                                                                 60
+<U+F0FC> Allo stato attuale non sono stati rilevati nuovi p.o. di tipo lineare
+                                                                                                                 40
+  emessi da UCI ed ISP.                                                                                                                                                                        BNL
+                                                                                                                                                                                                      BPI
+                                                                                                                 20
+                                                                                                                  0
+                                                                                                                   2,00            2,50                 3,00              3,50                 4,00              4,50
+                                                                                                                                                           Durata (in anni)
+                                                                                                                                          UBI     BNL       ISP     UCI       BPI       BMPS
+                                                                   Nota Bene: per i prestiti obbligazionari attualmente in offerta è stato ipotizzato che i                                                 76
+                                                                   volumi collocati siano pari al 100% del loro ammontare massimo totale.
+
+CDS BMPS vs Competitors
+                        Dati aggiornati al 30 Novembre 2015 77
+
+ Nuova modalità di calcolo del funding minimo delle emissioni obbligazionarie
+ domestiche BMPS
+La nuova policy di pricing per le emissioni obbligazionarie domestiche BMPS, deliberata dal CdA lo scorso 28 gennaio, prevede per le
+obbligazioni con modalità di riacquisto a spread di mercato, che il livello minimo di funding spread delle emissioni nelle varie ipotesi di durata
+venga calcolato applicando un parametro moltiplicativo pari al 60% alla curva basata sulle quotazioni dei titoli senior e/o dei CDS <U+F0E0> Spread minimo =
+60%*min (curva Mercato, curva CDS)
+L’Area Finanza, Tesoreria e Capital Management pubblica settimanalmente i livelli di funding spread minimo da utilizzare nel pricing delle obbligazioni di
+prossima emissione.
+L’Area Marketing Strategico e Prodotti Retail, sulla base dei suddetti livelli pubblicati, può proporre di incrementare il livello di funding spread minimo
+delle emissioni destinate al collocamento (“incremento commerciale” <U+F0E0> 20%*min (curva Mercato, curva CDS)), nell’ambito dell’autonomia predefinita
+per la Direzione Retail e Rete.
+L’“incremento commerciale” rappresenta un “add on” rispetto al valore minimo di funding spread.
+Prendendo, quindi, a riferimento il parametro moltiplicativo pari al 60% e il livello massimo di incremento commerciale pari al 20%, la Funzione
+Commerciale può prezzare in autonomia le emissioni in collocamento fino all’80% dei valori di spread “di mercato” [min(curva Mercato/curva CDS)]. Il
+range del funding spread in autonomia della Funzione Commerciale risulterà pertanto compreso tra il 60% e l’80% di tali valori.
+In particolari contesti di mercato in cui si presenta la necessità di collocare strumenti con livelli di funding spread superiori al livello massimo di
+incremento commerciale in autonomia alla Funzione Commerciale, quest’ultima può presentare al Comitato Finanza una proposta di emissione con livelli
+di funding spread ad hoc che, analizzate le motivazioni sottostanti, deciderà se autorizzare o meno il maggior livello di funding spread.
+                                                                                                                                                     78
+

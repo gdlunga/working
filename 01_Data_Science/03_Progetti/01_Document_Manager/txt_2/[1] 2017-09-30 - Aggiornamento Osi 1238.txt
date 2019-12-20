@@ -1,0 +1,179 @@
+                                                         Update Osi 1238
+Area Lending Risk Officer - Direzione Chief Risk Officer
+
+Executive Summary
+Lo scopo della seguente presentazione è fare il punto sulla contabilizzazione del misstatement emerso dall’Osi 1238 sui libri della banca nel periodo 1/1/2016 -
+30/9/2017.
+Nel corso del secondo trimestre del 2017 la Banca ha inviato alla BCE una serie di informazioni attestate dalle società di revisione E&Y e KPMG nelle quali dimostrava
+di aver recepito fino al 31 marzo 2017 circa 705 mln di provision sulla CFR (richiesti 954 €/mln) e 5.617 mln sui crediti oggetto di projection (considerando nel conteggio
+gli impatti delle projection sul portafoglio oggetto di cessione e le reduction di esposizione sulle Top4 posizioni performing e sulle posizioni non più affidate), a fronte di
+una richiesta di 6.595 €/mln.
+Sui restanti, non recepiti, 249 mln di CFR e 978 mln di Projections, la Banca dimostrava di aver incluso nel piano di ristrutturazione nel periodo 2018-2021 come
+impatto IFRS9, altri 175 di CFR e 793 di Projections.
+Il delta non recepito risultava pari a 74 mln di CFR e 185 mln di Projection.
+Il 19 giugno del 2017 la BCE riconosceva quanto sopra sintetizzato ma richiedeva esplicitamente alla banca di recepire entro fine 2017 i 249 mln di CFR, senza quindi
+scontare 175 mln negli anni successivi, e di inserire comunque nel piano di ristrutturazione i 185 mln di Projection restanti.
+Al 30 settembre 2017 la Banca ha recepito:
+• sul perimetro oggetto di CFR 1.097 €/mln, di cui:
+        • 976 mln sul portafoglio judgmental (top50 e Sofferenze di CR), a fronte di una richiesta di 813 mln
+        • 121 mln sulle 1.284 controparti statistical, a fronte di una richiesta di 140 mln
+• sul perimetro oggetto di proiezione statistica 6.736 mln a fronte di una richiesta di 6.593 mln.
+I valori sopra riportati sono determinati a livello di portafoglio complessivo; aprendo l’analisi sulla CFR per singolo debitore, senza compensare maggiori
+accantonamenti con minori accantonamenti il delta non recepito sul ptf CFR è di 135 mln (determinato sulla base dell’Ead al 30/09/2017 e del coverage atteso da
+BCE), di cui 18 €/mln sul perimetro della Cessione Valentine.
+Sul portafoglio non Valentine pertanto il delta CFR non recepito è pari a 117 mln di cui 80 sul ptf performing e 37 sul ptf non performing.
+                                                                                                                                                                                2
+
+Esiti dell’ispezione – Judgmental portfolio
+Durante l’ispezione sono stati campionati in maniera judgmental circa 250 posizioni, che rappresentavano i top 50, performing e non, dei segmenti Corporate, Sme e
+Retail, e 50 posizioni Corporate segnalate a Sofferenza sulla Centrale Rischi ma in Utop sul Gruppo MPS.
+Il delta provisioning stimato dalla BCE su questi portafogli è pari a circa 813 €/mln
+                                    Population                               EAD                                         Provisions                    Misstatement
+                                                                                                                                                         Projected
+                                                                                                                                                       misstatement
+                                Bucket      Sample                                                    Sample original     Sample       Delta Provision    (bucket
+             Bucket                                   Bucket EAD        Sampled EAD     Unsampled EAD
+                              Population  population                                                    provisions    provisions (OSI) with Cure rate  EAD/sampled
+                                                                                                                                                        EAD * delta
+                                                                                                                                                         provision)
+            RET NPE - top 50           50          50    205.119.380        205.119.380                    83.936.318      139.689.411      32.237.841      32.237.841
+            SME NPE - top 50           50          50    325.276.401        325.276.401            -       87.298.930      175.600.094      66.247.730      66.247.730
+            CORP PE - top 50           50          50  3.378.277.260      3.378.277.260            -       36.181.064      157.856.852      99.082.581      99.082.581
+           CORP NPE - top 50           50          50  4.335.511.540      4.335.511.540            -    1.627.878.221    2.372.447.946     528.635.176     528.635.176
+    CORP - NPE - SOFF-RETT             50          50    690.292.391        690.292.391            -      245.685.037      380.273.335      87.080.639      87.080.639
+             Total (Included)         250         250  8.934.476.972      8.244.184.581            -    2.080.979.570    3.225.867.639     813.283.967     813.283.967
+                                                                                                                                                                       3
+
+Esiti dell’ispezione – Statistical portfolio
+Sono stati campionati inoltre statisticamente 1.284 posizioni per un ammontare in termini di EAD di circa 1,6 €/bn, sulle quali è stato determinato un delta provision di
+circa 140 €/mln.
+La proiezione di questo delta sui complessivi 98 €/bn, effettuata a livello di bucket, porta ad un delta complessivo di 6.734 €/bn.
+                                     Population                             EAD                                             Provisions                       Misstatement
+                                                                                                                                                               Projected
+                                Bucket       Sample                                                      Sample original     Sample       Delta Provision    misstatement
+           Bucket                                      Bucket EAD      Sampled EAD      Unsampled EAD
+                              Population   population                                                      provisions    provisions (OSI) with Cure rate   (bucket EAD/sampled
+                                                                                                                                                           EAD * delta provision)
+         RET PE - statistical     381.651          256 29.386.663.165       19.811.207    29.366.851.958          33.449          267.196          115.406        171.185.125
+        RET NPE - statistical      10.143           50  2.579.827.663       16.881.156     2.562.946.507       6.253.018       10.178.135        2.804.738        428.628.273
+         SME PE - statistical     126.687          302 17.071.607.800       43.441.090    17.028.166.711         551.781        1.844.997        1.040.640        408.953.792
+        SME NPE - statistical      23.319          198  9.082.959.576       76.069.797     9.006.889.778      42.313.119       56.274.128       12.402.535     1.480.899.479
+        CORP PE - statistical      11.265          281 16.975.389.829      967.044.434    16.008.345.395      10.242.621       77.141.861       54.474.933        956.246.882
+       CORP NPE - statistical       7.541          197 23.142.647.703      488.523.763    22.654.123.941     240.782.664      319.231.279       69.400.723     3.287.693.683
+            Total (Included)      560.606        1.284 98.239.095.737    1.611.771.448    96.627.324.289     300.176.652      464.937.594      140.238.975     6.733.607.234
+                                                                                                                                                                                  4
+
+As – is al 31/03/2017
+Le tabelle sotto riportate identificano i passaggi effettuati dalla Banca per dimostrare alla BCE il pressochè totale recepimento dei 7,5 €/Bn di misstatement identificato
+sui dati di fine 2015. In particolare la Banca a giugno 2017 dimostrava alla BCE:
+1.  di aver già recepito a fine marzo 2017 557 €/mln di CFR, 3.284 €/mln di Projections,
+2.  di recepire attraverso la cessione dei 28,5 €/bn di Sofferenze altri 111 €/mln di CFR, 2.133 €/mln di Projections,
+3.  di aver diminuito le esposizioni e conseguentemente il delta provisioning di 37 €/mln di CFR, 200 €/mln di Projections,
+4.  di recepire attraverso la First Time Adoption degli Ifrs9 ulteriori 175 €/mln di CFR, 793 €/mln di Projections.
+                                                            OVERLAP                                       OTHER MINOR EFFECTS
+                                  OSI VIEW                                           NPL DISPOSAL                                           DELTA 31/03/2017
+                                                        LLP 2016 / 1Q2017                                    (REDUCTION EAD)
+                           CFR       PROJECTIONS      CFR       PROJECTIONS       CFR     PROJECTIONS       CFR     PROJECTIONS     CFR       PROJECTIONS     TOTAL
+         TOTAL                  954           6.595       557             3.284       111         2.133          37           200       249              978    1.227
+         BONIS                  155           1.481        20               830         1              0         37           200        96              451      547
+         PAST DUE                40             200        33               203         2            -16          0             0          5              13       17
+         UTOP                   576           1.660       412             1.300        16            -56          0             0       148              416      564
+         SOFFERENZA             183           3.254        91               950        92         2.205           0             0          0              99       99
+                                                              IFRS 9
+                                                                                  SALES / REDUCTION         SALES / REDUCTION
+                             DELTA 31/03/2017         HP EBA EXCERCISE                                                                          DELTA
+                                                                                       NPE 17/19                 NPE 20/21
+                                                          PERFORMING
+                           CFR       PROJECTIONS      CFR       PROJECTIONS       CFR     PROJECTIONS       CFR     PROJECTIONS     CFR       PROJECTIONS     TOTAL
+         TOTAL                  249             978        16               293       138           364          21           136        74              185      259
+         BONIS                   96             451        16               293         6             56          1            43        73               59      132
+         PAST DUE                 5              13          0                0         0              7          0             8          5               -2       3
+         UTOP                   148             416          0                0       132           301          18            75         -2              40       38
+         SOFFERENZA               0              99          0                0         0              0          1            11         -2              88       86
+                                                                                                                                                                            5
+
+SREP letter BCE
+Nella SREP letter del 19 giugno del
+2017, all’interno dei requisiti qualitativi,
+paragrafo 1.1.2.III, la BCE evidenziava
+come la Banca avesse recepito prima
+nel corso del 2016 e poi nel piano di
+Ristrutturazione circa 7,29 €/bn di
+rettifiche delle 7,55 €/bn richieste.
+La BCE esplicitava altresì che:
+• la Banca doveva recepire entro fine
+   2017 le restanti 250 mln di rettifiche
+   sulle posizioni oggetto di CFR;
+• Analogamente doveva recepire nel
+   piano di ristrutturazione le restanti
+   185 mln di rettifiche fino a quel
+   momento non recepite.
+                                             6
+
+Update al 30/9/2017
+Al 30 settembre 2017 la banca ha effettuato sul portafoglio oggetto di CFR 819 €/mln di delta provisioning, a fronte dei 954 €/mln richiesti, ed ha effettuato 6.737 €/mln
+di accantonamenti aggiuntivi sui portafogli oggetto di projections. Il delta non recepito è pertanto di 135 €/mln sulla CFR, di cui 17 €/mln sulla cessione Valentine, e
+aprendo il portafoglio oggetto di projections per stato di 346 €/mln sul portafoglio Performing a fine 2015.
+Se come fatto in risposta alla richiesta della BCE si considerano i maggiori accantonamenti da First Time Adoption IFRS9 sul portafoglio Performing e Non, il delta
+accantonamenti su tutti gli stati del portafoglio oggetto di Projections risultano essere negativi.
+                                                           OVERLAP                                                    of which            DELTA 30/09/2017
+                                OSI VIEW                                                 DELTA 30/09/2017
+                                                       LLP 2016 / 9M2017                                           NPL DISPOSAL           POST DISPOSAL
+                         CFR       PROJECTIONS       CFR       PROJECTIONS       CFR      PROJECTIONS     TOTAL         CFR        CFR      PROJECTIONS      TOTAL
+        TOTAL                 954            6.595        819            6.737       135             -142       -7              18     117             -142       -25
+        BONIS                 155            1.481         69            1.135        86              346      432               0      86              346       432
+        PAST DUE               40              200         28              316        11             -116     -104               0      11             -116      -105
+        UTOP                  576            1.660        555            1.861        21             -201     -180               2      19             -201      -182
+        SOFFERENZA            183            3.254        166            3.425        17             -171     -155              16       1             -171      -170
+                                                                                        IFRS 9
+                                                           OVERLAP                                         SALES / REDUCTION
+                                OSI VIEW                                          HP EBA EXCERCISE                                        DELTA 30/09/2017
+                                                       LLP 2016 / 9M2017                                        NPE 18/22
+                                                                                     PERFORMING
+                         CFR       PROJECTIONS       CFR       PROJECTIONS       CFR      PROJECTIONS      CFR     PROJECTIONS     CFR      PROJECTIONS      TOTAL
+        TOTAL                 954            6.595        819            6.737        16              351      140             548     -22           -1.041    -1.063
+        BONIS                 155            1.481         69            1.135        16              351        7              99      63             -104       -42
+        PAST DUE               40              200         28              316         0                0        0              15      11             -130      -119
+        UTOP                  576            1.660        555            1.861         0                0      132             336    -111             -536      -647
+        SOFFERENZA            183            3.254        166            3.425         0                0        2              99      15             -270      -255
+                                                                                                                                                                           7
+
+Evidenze delta CFR (stimato sull’esposizioni attuali con coverage OSI atteso) al 30/9/2017
+                                                                                                                    EAD         FONDI               COVERAGE   DELTA OSI CON
+                          COUNT     NGR                     NOME                    STATO DIC15     STATO SETT17                           COVERAGE
+                                                                                                                 SETT 2017    SETT 2017                OSI     COVERAGE OSI
+Sulle posizioni oggetto
+                                1 199071712 CINECITTA' CENTRO COMMERCIALE        BONIS           BONIS             99.292.615      711.197   0,7%     30,3%  -     29.395.135
+di CFR (non rientranti          2 124296593 WOLT SPA                             BONIS           BONIS             29.686.388      180.623   0,6%     54,1%  -     15.890.555
+nel perimetro Valentine)        3 139756464 CONSORZIO AGRARIO DEL NORDEST SO     BONIS           BONIS             30.561.177      353.332   1,2%     39,5%  -     11.726.506
+il     delta     residuo,       4 102758501 CARRARO INTERNATIONAL S.A.           UNLIKELY TO PAY BONIS             53.413.876      530.761   1,0%     20,2%  -     10.252.512
+considerato applicando          5    818963 PIACENTINI COSTRUZIONI SPA           BONIS           UNLIKELY TO PAY   14.014.681    3.604.895   25,7%    75,2%  -      6.931.880
+alle esposizioni di oggi        6 199721556 LUJAN S.P.A.                         PAST DUE        UNLIKELY TO PAY   61.211.285   39.778.121   65,0%    70,6%  -      3.454.343
+(EAD sett 2017) il              7   3055556 UNICOOP TIRRENO SOCIETA' COOPERA     BONIS           BONIS             17.230.083      524.062   3,0%     22,5%  -      3.348.409
+coverage       OSI      e       8 297564512 GASDA S.P.A                          UNLIKELY TO PAY SOFFERENZA        60.893.107   42.363.779   69,6%    74,0%  -      2.711.977
+                                9 198910845 RESIDENCE LA SCOGLIERA SRL           PAST DUE        BONIS              6.952.098      146.400   2,1%     39,8%  -      2.618.273
+confrontandolo con il
+                              10  270787921 EOS RE S.R.L                         BONIS           PAST DUE           4.969.181      771.312   15,5%    52,7%  -      1.847.300
+coverage MPS, senza           11  173645205 DESMOS S.P.A.                        UNLIKELY TO PAY UNLIKELY TO PAY    9.176.101    5.127.118   55,9%    75,8%  -      1.831.799
+ammettere                     12   10857839 GUVALIT SRL                          PAST DUE        UNLIKELY TO PAY   11.667.871    3.615.364   31,0%    46,2%  -      1.777.933
+compensazioni fra le          13    3727996 ER.BA MARKET SPA                     BONIS           BONIS              2.007.278       20.991   1,0%     68,0%  -      1.344.155
+diverse controparti, è        14  122869560 CONSORZIO PER LO SVILUPPO INDUST     BONIS           UNLIKELY TO PAY    2.007.039      462.635   23,1%    74,0%  -      1.022.824
+pari a 117 mln, di cui        15   86976793 LAZZI VILLAGGI TURISTICI LAZZI V     UNLIKELY TO PAY UNLIKELY TO PAY   10.560.234    3.204.492   30,3%    40,0%  -      1.015.192
+103 mln sulle top25           16     523126 HOLMO S.P.A.                         UNLIKELY TO PAY UNLIKELY TO PAY   82.848.610   42.564.472   51,4%    52,6%  -        976.643
+                              17  102084792 BELGRAVIA 2 S.R.L.                   UNLIKELY TO PAY UNLIKELY TO PAY    5.962.654    2.049.621   34,4%    50,5%  -        962.410
+posizioni.
+                              18   58923312 MASINI PARTS S.R.L.                  BONIS           BONIS              1.193.680        8.470   0,7%     74,0%  -        875.151
+                              19  300453796 COSTRUZIONI GENERALI DUE SOCIETA     BONIS           BONIS              1.458.907       27.505   1,9%     59,2%  -        835.577
+In particolare sulle top5     20  272616397 IMP S.R.L.                           UNLIKELY TO PAY UNLIKELY TO PAY    7.170.911    3.733.077   52,1%    63,3%  -        808.211
+posizioni, quasi tutte        21    4922437 ALFAZERO S.P.A.                      BONIS           UNLIKELY TO PAY    2.828.430      678.432   24,0%    51,4%  -        776.397
+performing il delta è di      22   98542658 IMMOBILIARE ELSA S.P.A.              UNLIKELY TO PAY UNLIKELY TO PAY    9.773.799    2.752.585   28,2%    36,1%  -        775.558
+74 mln.                       23  275520035 COSMOPOLITAN VILLAGE S.R.L.          BONIS           UNLIKELY TO PAY    3.647.568      969.367   26,6%    47,4%  -        757.784
+                              24  122695527 BACCI MOTORS SRL                     BONIS           BONIS              2.690.963       27.086   1,0%     29,1%  -        755.889
+                              25   15411098 FILCA CASA SOCIETA COOPERATIVA E     UNLIKELY TO PAY UNLIKELY TO PAY    5.071.420    1.847.487   36,4%    50,7%  -        725.472
+                                                                       TOP 25                                     536.289.957  156.053.181                   -    103.417.883
+                                                                       TOTALE                                     707.687.751  211.869.608                   -    116.941.507
+                                                                DI CUI PERFORMING                                 263.712.983    4.082.831                   -     80.080.779
+                                                             DI CUI NON PERFORMING                                443.974.767  207.786.776                   -     36.860.728
+                                                                                                                                                                              8
+
+9

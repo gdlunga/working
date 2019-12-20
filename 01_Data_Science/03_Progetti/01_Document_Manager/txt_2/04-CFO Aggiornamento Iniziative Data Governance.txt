@@ -1,0 +1,448 @@
+        Servizio Data Governance e
+           Reporting Management
+             Comitato Gestione Rischi
+Siena, 15/05/2019
+
+Indice
+       Executive Summary
+       Sezione 1 – Focus su alcune iniziative
+       Sezione 2 – Allegati
+                                              2
+
+   Executive Summary (1 di 3)
+                Sono proseguite le attività di remediation programmate e attivate anche delle nuove                                                                                           Numeri
+                Depositi a Risparmio:                                                                                                                                                           + 2,3 mln €
+                • Avviate con Data Owner e Referenti IT le attività per la sistemazione dei depositi a risparmio attraverso il censimento di tre distinti BR con l’obiettivo di 1) stimare le (+ potenziali
+                  Date di Accensione mancanti, 2) riattivare la c.d. «Procedura Fermi» e 3) implementare la procedura di estinzione massiva.                                                    ulteriori
+                • Richiesto parere legale esterno per verificare il modus operandi da seguire per l’estinzione d’iniziativa ed il corretto trattamento contabile dei saldi residui.             19mln€)
+Iniziative DGOV
+  Remediation   NDC con filiale di seguimento anagrafica su U.O. chiusa o radiata                                                                                                                  - 365.000
+                • La prima wave di Pegaso relativa alla riportafogliazione degli NDC impattati dalla disattivazione del modello «Hub & Spoke» non ha avuto impatti rilevanti sul                        NDC
+                  fenomeno monitorato;
+                • Come comunicato lo scorso Comitato la Data Governance procederà con l’iniziativa, definendo i dettagli (es.: individuazione pozzo) con l’Anagrafe di Gruppo (Area
+                  Servizi Centrali, Cash Management e ATM)
+                Spegnimento / Razionalizzazione Reportistica                                                                                                                                        - 320K €
+                • Confermata la disattivazione di circa 800 report Cognos su 1.155 (73%) con benefici stimati dal COG di circa € 400 a report per esclusione dalla migrazione alla nuova
+                  piattaforma tecnologica;
+                • La disattivazione logica avverrà a partire da Giugno con l’attivazione di una «Sorry Page» che informi gli utenti sulla prossima dismissione del report
+                • Si richiede al Comitato di approvare l’intervento
+                Mutui Ipotecari «senza garanzia»                                                                                                                                                - 130 mln €
+                • Sistemati circa 1.166 mutui ipotecari (-49%) senza garanzia per un’esposizione di 130 mln€ (-59%) rispetto all’aggregato di partenza di 2.399 rapporti per 220                      (-59%)
+                  mln€ di esposizione, con supporto della Rete, con benefici stimati di ca. 3,5 mln€ sugli assorbimenti patrimoniali e benefici su svalutazioni di CE, sovrastima
+                  RWA, e segnalazioni di vigilanza
+                Sistemazione anomalie pregresse dei controlli SISBA (TA0060) sui Servizi Operazionali                                                                                              - 740.000
+                • Rispetto al precedente Comitato sono state sistemate ulteriori 40.000 anomalie, complessivamente sistemate 740.000 anomalie (-55% rispetto al complessivo 1,3 mln               anomalie
+                  di casi anomali)
+                • Ad oggi risultano complessivamente 940.000 anomalie di cui 340.000 dovute a forzature/personalizzazioni. Il nuovo progetto «Evoluzione SISBA» ha tra gli obiettivi
+                  anche di eliminare/razionalizzare le personalizzazioni
+                Iniziativa Swiffer                                                                                                                                                                  - 10 Mln
+                • Nel primo trimestre 2019 sono state sistemate oltre 10 mln di anomalie, (passando da circa 95 mln a 84 mln) grazie soprattutto agli interventi di remediation relativi al       anomalie
+                  controllo sul codice NDC
+                • In corso di UAT i nuovi controlli su Codice ISIN, LEI e Swift. Previsto rilascio in produzione a metà giugno
+                CRM                                                                                                                                                                              - Rischi di
+                • Formalizzata (Sisifo del 09/04/2019) alla funzione CRM l’indicazione/raccomandazione di avviare le azioni di mitigation relative alla limitazione/inibizione dell’export di   conformità
+                  dati da Explora agli Utenti di DG e Rete;
+                • In corso di definizione delle linee guida per la ridefinizione delle regole di individuazione dei Clienti Commercialmente Attivi;
+                                                                                                                                                                                                            3
+
+ Executive Summary (2 di 3)
+              <U+F071> Procedura Beni
+                • Definito il passaggio da Consodata a Geomarketing come provider della procedura di normalizzazione degli indirizzi. In corso gli interventi IT per l’adeguamento della
+                   procedura. Analisi di impatti e passaggio in produzione previsto per il Q2 2019;
+                • Approvato BR (86266) per individuazione Beni Inattivi ed arricchimento set informativo sul DWH (rilascio in produzione luglio 2019);
+Roll-Out OR e   • In corso di definizione requisiti funzionali per la storicizzazione dei beni inattivi e implementazione controlli di Data Quality.
+ BD rilevanti <U+F071> MIFID 2 – Rendicontazione ex post
+                • Avviata fase di assessment per attivazione della base dati rilevante nel Sistema di Gestione Data Governance: disegnata la Macroarchitettura e mappate le BDE sulla base
+                   dei campi del Datamart predisposto all’interno del DWH
+                • Avviato assessment dei Controlli di Data Quality in corso di sviluppo/effettuati dal progetto
+                • Richiesta l’alimentazione dei dati di performance sul DWH Aziendale
+              <U+F071> Recovery Plan
+                • Integrato il capitolo del Management Information System ai fini dell’aggiornamento inviato al JST nel mese di Aprile
+              <U+F071> Quadratura Chiavi Contabili SAP / SISBA e Quadratura SAP / Lybra
+                • In corso sviluppi per creazione/quadratura delle chiavi SAP / SISBA
+                • Collaborazione con il Servizio Bilancio e Contabilità per lo sviluppo di un tool di controllo e verifica a livello di «Chiave SAP / Rapporto Lybra» (BR 52981)
+              <U+F071> Anagrafe Generale
+                • In corso stesura BR di ulteriori interventi di remediation sull’anagrafe generale (ampliamento perimetro servizi per chiusura rapporti su deceduti/cessati, razionalizzazione
+                   codici informativi, disallineamenti Servizi operazionali con Anagrafe)
+              <U+F071> Anacredit
+                • In approvazione BR (65414) per implementazione di ca. 770 controlli di Business. Il rilascio è previsto a fine 2019
+              <U+F071> Modello ISEO (dimensionamenti filiale)
+                • In corso la fase di assessment con il Data Owner Organizzazione (Macroarchitettura, BDE e prima bozza di lista Controlli di Data Quality)
+              <U+F071> Questionario Banca d'Italia su costo cc famiglie consumatrici
+                • In corso BR (75880) per automazione della produzione per l’invio a Banca D’Italia e attivazione di controlli di data quality
+                                                                                                                                                                                                4
+
+Executive Summary (3 di 3)
+               Proseguono le attività di configurazione dei processi e strumenti, anche per indirizzare il finding #15 dell’OSI «IT Risk e Data Quality»:
+               <U+F071>   Finalizzato nuovo perimetro Output Rilevanti (nr. 121 OR di tipo 1 rispetto ai 25 di fine 2018). Gli Output Rilevanti sono principalmente concentrati nelle Direzioni
+                   CFO e CRO
+               <U+F071>   Sono state identificate 13 basi dati rilevanti
+Configurazione <U+F071>   Avviato il collaudo delle regole di Data Discovery per prima applicazione a 24 dati sensibili su GDPR per poi estendere a tutti i dati critici di Gruppo
+    DGOV
+               <U+F071>   Sviluppato applicativo in house per la produzione della Balanced Scorecard Data Driven. Sono necessarie delle implementazioni IT poiché gli strumenti non
+                   saranno in grado di gestire l’aumento della mole di dati
+               <U+F071>   In corso stesura/ integrazioni dello Standard di Data Governance: direttiva Fonti Dati Esterne (cd. Infoprovider) rilevante sia per la circolare 285 che per il         All. 1
+                   recente aggiornamento del Regolamento 38 IVASS e direttiva Reporting Management con particolare attenzione alla diffusione di reportistica accreditata verso la         su Cerved/
+                   Rete                                                                                                                                                                    Experian
+               <U+F071>   Da avviare la definizione di processi organizzativi per la gestione tabelle di dominio, policy sui valori di default su dati mancanti
+               <U+F071>   Allineamento delle metriche trattate principalmente nel «Comitato Servizi Resi e Rischi» del Consorzio, quali condivisione obiettivi di data quality,
+                   efficientamento processi di remediation (es.: autorizzazioni Chief) e monitoraggio cut-off su Flussi inviati all’esterno
+               <U+F071>   In corso attivazione progetto di «Evoluzione SISBA», approvato nel COP del 16 aprile
+               <U+F071>   La Data Governance è «obbligatoriamente» coinvolta direttamente o indirettamente nelle ispezioni degli Organi di Vigilanza
+               <U+F071>   Sono stati mitigati i 2 GAP di Data Governance aperti durante l’ispezione interna del 2018 (IA_2019_00010 e IA_2019_00012)
+               <U+F071>   In corso la mitigazione di un GAP da ispezione interna 2018 in ambito LGD (IA_2018_00096) tramite lo sviluppo di controlli di data quality (BR 86505)
+   Ispezioni   <U+F071>   L’ispezione TRIM Corporate 2019 si è conclusa. La Data Governance ha partecipato a vari incontri sia a supporto delle funzioni specialistiche che incontri specifici su
+                   Data Governance. Dalle prime evidenze, non ufficiali, emergeranno comunque dei gap di data quality (mancanza ctr su CEBI)
+               <U+F071>   In ragione dell’allargamento del perimetro di azione della Data Governance a tutto il Gruppo si prevede un maggior e costante impegno della Funzione in
+                   ispezioni esterne
+                                                                                                                                                                                                    5
+
+Indice
+       Executive Summary
+       Sezione 1 – Focus su alcune iniziative
+       Sezione 2 – Allegati
+                                              6
+
+Progetto evoluzione SISBA
+                                                                   <U+25AA> Il progetto ha l’obiettivo di evolvere l’attuale sistema SISBA (vecchia di 4 versioni) alla
+                                                                      nuova suite SISBA BDG
+                                                                   <U+25AA> Il progetto è stato approvato al COP del 16 aprile e prevede i seguenti principali
+                                                                      interventi:
+                                                                      • Configurazione, installazione e sviluppi per nuova piattaforma (compreso Hardware)
+                                                                      • Rilascio Modulo di Data Quality
+                                                                      • Riparto CR Fidi e Garanzie e completamento degli Engine SISBA BDG
+                                                                      • Certificazione Segnalazioni e Bilancio
+                                                                      • Revisione flussi custom
+                                                                   <U+25AA> Importante da subito, eliminare/ridurre le personalizzazioni introdotte nell’attuale
+                                                                      sistema SISBA, al fine di efficientare la manutenzione dei sistemi e le alimentazione
+                                                                      su/dal DWH
+                                                                   <U+25AA> Previsto contributo nel 2020 da parte del Servizio Normativa Regolamentare e
+                           2019             2020                      Reporting per il cantiere di «Certificazione Segnalazioni e Bilancio» con budget di spesa
+                                                                      stimato in circa 300-600k€
+                     Q1 Q2      Q3 Q4 Q1 Q2       Q3           Q4
+A. Config. &                                                       <U+25AA> Le attività che emergeranno nelle fasi iniziali (cantieri A e B) potrebbero portare impatti e
+Sviluppo                                      Ulteriori interventi
+                                                                      attività prioritarie da inserire sul piano del progetto «Evoluzione Data Governance»
+B. Data Quality
+                                                                    Benefici Attesi
+                                                                    • Aumento frequenza di produzione dei dati, sempre più fondamentale ai fini regolamentari
+C. Certificazione
+                                                                      dei Piani di Recovery e Resolution della Banca
+Segnal. e Bilancio
+                                                                    • Fast Closing e riduzione tempi di elaborazione
+                                                                    • Rafforzamento data quality
+C. Riparti CR Fidi e                                                • Riduzione rischi operativi e gestione finding/gap (OSI IT Risk)
+Garanzie  *                                                         • Abilitazione Data Lineage
+                                                                    • Efficientamento processi per riduzione anomalie di Data Quality e rework ed incremento
+                                                                      sinergie operative tra le diverse figure/ruoli impegnati nei processi di produzione e gestione
+                                                                      dei dati (riduzione videnze di ritorno da Organi di Vigilanza, sostituzione attuali tabulati con
+                                                                      report strutturati/ business intelligence)
+                                                                    • Eliminazione picchi di attività su fine mese
+                                                                    • Conformità normative esterne su certificazione dati
+                                                                                                                                                                       7
+
+Depositi a Risparmio
+    Situazione Depositi a Risparmio (06/05/2019)                                                                                Benefici Conseguiti/Attesi
+                                                                                                                                                                                 • Sulle sopravvenienze derivanti dai depositi
+     Tipo Deposito                #          Saldo Contabile
+                                                                                                                                             2019             2020      2021       nominativi ed al portatore non movimentati
+  Anomalie Impianto               22.433             2.273.264,58                                                                                                                  su iniziativa del cliente da più di 10 anni è
+                                                                                                                                                                                   stato richiesto il parere legale esterno per
+  Nominativi                     578.841       1.107.394.987,95                              Sopravvenienze* (€;+)                                                                 valutare il modus operandi da seguire per
+  Portatore                      848.455            44.143.887,99                                      Anomalie da Impianto                 2.273K             -         -         l’estinzione massiva ed il trattamento dei
+                                                                                                                   Nominativi**             3.496K           133K      143K        saldi residui;
+                   Totale      1.449.729       1.153.812.140,52
+                                                                                                                     Portatore**           15.667K           102K       94K      • L’attività di estinzione massiva è rilevante e
+            Perimetro Interventi* (06/05/2019)                                                                                                                                     urgente anche per gli impatti su altre
+                                                                                                                          Totale            21.436           235k      237K
+                                                                                                                                                                                   iniziative, in particolare:
+     Tipo Deposito                #          Saldo Contabile
+                                                                                             Saving Spese Postali (€;-)                      350K            420K      500K        <U+F071> Progetto Pegaso;
+  Anomalie Impianto               22.433             2.273.264,58
+                                                                                                                                                                                   <U+F071> Rondine
+  Nominativi                     180.800             3.496.191,03                                                                                            8.807
+                                                                                             Blocchi KYC (#;-)                             330.855                     7.478
+                                                                                                                                                                                   <U+F071> Blocchi Massivi AML
+  Portatore                      778.585            15.666.860,86
+                                                                                                                                                                                   <U+F071> Modello dimensionamenti Rete (ISEO)
+                   Totale        981.818            21.436.316,47
+*Depositi senza operazioni di movimentazione su iniziativa del cliente da
+                                                                                ** Da confermare post risultanze del Parere Legale
+almeno 10 anni
+                                                                                                                                           2019                                                                   2020
+                                                                    Mag                    Giu                  Lug                 Ago             Set            Ott       Nov                 Dic         Q1         Q2
+                                                                                                                                                                                                         Procedura
+                                                                     Acquisizione Parere                      Rilascio in produzione e        Estinzione                                                             Estinzione
+                                                                                                                                                                                                           Fermi
+                                                                         Legale (data                     attivazione Procedura Fermi      Massiva Depositi*                                                          Massiva
+                                                                          ipotizzata)                                                                                                                                Depositi**
+                  Calendario 2019
+               Interventi sui Depositi
+                      a Risparmio                                                         Definizione         Alimentazione
+                                                                                         Algoritmo per        Date mancanti
+                                                                                        Date mancanti
+                                                                      * Soggetta a risultanze del Parere Legale
+                                                                      ** Nuovi depositi che maturano i requisiti per essere estinti
+                                                                                                                                                                                                                                  8
+
+Ridefinizione Algoritmo Cliente Commercialmente Attivo in collaborazione con CRM
+ Obiettivo dell’attività è la formalizzazione del concetto di Cliente Commercialmente Attivo anche nell’ottica del contenimento dei rischi associati all’accesso e trattamento dei dati personali della
+ clientela (GDPR) valutando la compliance in termini di Diritti e Consensi
+                                               Attuali Logiche di Calcolo                                                          Nuove Logiche di Calcolo
+                        •  L’individuazione del Cliente Commercialmente Attivo viene
+                           effettuata secondo un algoritmo definito dalla Funzione CRM;                    •  La nuova regola di determinazione di Cliente Commercialmente Attivo dovrà
+                                                                                                              considerare anche:
+                        •  Per Cliente Commercialmente Attivo si intende il «Soggetto»
+                           (Persona Fisica o Società) in possesso di almeno un prodotto di                    <U+F071> Aspetti di Data Quality, escludendo dal perimetro NDC mancanti di dati
+                           Marketing individualmente o tramite collegamento ad una                               essenziali o con dati non corretti (es. SAE);
+                           Cointestazione/Ditta Individuale;                                                  <U+F071> Aspetti di Rischiosità, escludendo gli NDC con specifici blocchi o codici
+                        •  Presupposti principali sono quindi:                                                   informativi che incidono sulla relazione o possibilità di sviluppo
+                                                                                                                 commerciale (blocchi legali, status creditizio, AML);
+                            <U+F071> Presenza di un NDC censito in Anagrafe Generale;
+                                                                                                              <U+F071> Ed eventualmente aspetti di tutela dei Dati Personali, escludendo gli NDC
+                            <U+F071> Possesso di un prodotto tra quelli censiti nel Catalogo MARP                       carenti di consenso in ottica trattamento di dati personali, che in caso di
+                               (salvo alcune esclusione riconducibili principalmente ai prodotti                 prodotti posseduti sono obbligati ad averlo
+                               non finanziari)
+                                                  Schema logico nuova regola
+                                                                                                                                 •  Ad oggi i Clienti Commercialmente Attivi sono circa 4.5 mln (fonte
+                     Anagrafe della Clientela                           CRM                      Fabbriche prodotto                 CRM). L’impatto delle nuove regole di conformità è trascurabile sul
+                                                                                                                                    numero dei clienti. Eventuali iniziative di chiusura/cessione rapporti
+                                                                                                                                    evidentemente avranno un impatto
+                                                                                                                                 Prossimi Passi
+                                                                                                                                 • Redazione di un «consultation paper» da sottoporre alle funzioni
+                                                  NDC Privi di                                                                      commerciali e di controllo per illustrare le linee guida del nuovo algoritmo
+                                                    Diritti e
+                                        NDC
+                                                 Consensi (non
+                                                                                                                                 • Implementazione algoritmo ed arricchimento della base dati
+                                      Blocchi
+       Totale            NDC
+                                       Legali,     profilabili)                     Prodotti
+                                                                                                    Catalogo Marp                   anagrafica con l’informazione.
+        AOG            Anomali                                                     ammissibili
+                                      AML, CZ                                                                                    • Pubblicazione di un documento normativo su iniziativa della Data
+                                                              Cliente Commercialmente                                               Governance
+                                                                      Attivo New                                                 • Iniziative di remediation su clientela con prodotti ma con vincoli di
+                                                                                                                                    conformità non adeguati
+                                                                                                                                                                                                                 9
+
+  GDPR e Data Governance
+     <U+25AA> La Data Governance ha la responsabilità del cantiere di «Data Discovery» del progetto «GDPR»
+     <U+25AA> L’obiettivo del cantiere è quello di attivare la Data Discovery sui dati (145 informazioni sensibili totali di cui selezionate 24 prioritarie) rilevanti ai fini GDPR, al fine di permettere ai clienti
+        l’esercizio dei propri diritti previsti dal regolamento (es.: diritto oblio, …)
+                            Deliverable Cantiere Data Discovery GDPR
+                                                                                                                                        Ampliamento Discovery per obiettivi Data Governance
+       1. Identificate tutte le BDE legate a GDPR e censite sul business glossary (nr. 145
+           campi)                                                                                                             <U+25AA> La Data Discovery, sulla base delle normative esterne e delle recenti ispezioni,
+                                                                                                                                  deve essere applicata a «tutti» i dati della banca o comunque in via prioritaria a dati
+       2. Definiti requisiti funzionali di implementazione delle regole di Data Discovery dei dati
+                                                                                                                                  (chiavi) di raccordo tra tabelle, al fine di abilitare il data lineage e migliorare la
+           GDPR Relevant (24 scelti a livello progettuale)
+                                                                                                                                  qualità dei dati e la loro diffusione tra i vari applicativi
+       3. Effettuata certificazione (UAT) delle regole di Data Discovery con affinamento delle
+                                                                                                                              <U+25AA> Inoltre la Data Governance, facendo leva sui risultati della discovery (% confidenza
+           stesse (24 regole)
+                                                                                                                                  discovery), può potenziare le analisi di qualità dei dati sui singoli campi
+ WIP 4. Validazione dei risultati delle regole di discovery (il piano progettuale è organizzato
+                                                                                                                              <U+25AA> Tali attività, per creare sinergie e perseguire gli obiettivi, devono essere portate
+           per vawe con elapsed di ca. 2-3 mesi su 38 funzioni IT che gestiscono 38 APP e
+           prevede la conclusione delle attività a fine 2019)                                                                     avanti parallelamente al progetto e cantiere GDPR
+ WIP 5. Definizione requisiti funzionali per report di sintesi della Data Discovery
+                                                                                                                                                                       Temi rilevanti
+            2018            Q1 2019               Q2 2019                   Q3 2019                 Q4 2019
+                                                                                                                              <U+25AA> Formalizzazione responsabilità della data discovery su regolamento 1 per la Data
+                                                                                                                                 Governance e valutazione organizzativa sull’effort della nuova attività
+         2 Requisiti regole      3 Certificazione       4 Validazione                    4 Validazione
+            discovery           regole discovery     Discovery (wave 1)               Discovery (wave 3)                      <U+25AA> Ampliamento del set di dati «discoverabili» ai fini GDPR
+                                                                                                                              <U+25AA> Validazione risultati della data discovery: in fase di avvio, con impatti su effort
+1 BDE GDPR                                     5 Report sintesi                                                                  della Data Governance. La Data Governance ha richiesto la disponibilità di
+                                                                   4 Validazione                        4 Validazione
+                                                                Discovery (wave 2)                   Discovery (wave 4)          strumenti evoluti Informatica (Similarity ed Analyst) per velocizzare la validazione e
+                                                                                                                                 fare sinergia con interventi di data quality; sono in corso approfondimenti COG e
+                                                                                                                                 consulenza
+                                                                    La validazione avverrà
+               completata                                         parallelamente per wave e                                   <U+25AA> La nuova versione di Informatica ha delle funzioni evolute di AI (es.: CLAIRE) che
+                                                                 tecnologia su proposta della                                    permetteno l’automazione del popolamento del business glossary a partire dalla
+                                                                DGOV al fine di accelerare la                                    data discovery. Ciò permetterebbe un efficientamento delle attività di Data
+                                                                          validazione
+                                                                                                                                 Governance
+                                                                                                                              <U+25AA> Dopo la conclusione delle attività legate al progetto GDPR, verrà programmata la
+                                                                                                                                 migrazione alla versione più recente dei sistemi a supporto della Data
+                                                                                                                                 Governance
+                                                                                                                                                                                                                          10
+
+Razionalizzazione Report e Scarichi Massivi Dati
+                                                                                                                                                               PER APPROVAZIONE COMITATO
+      Obiettivo dell’attività è quello di mitigare i rischi connessi ad una diffusione/divulgazione di Dati Aziendali non controllata e normata. In tale ottica la Data Governance ha promosso una
+      razionalizzazione dei Report Cognos e richiesto al CRM interventi applicativi per limitare gli scarichi dei dati, al fine di prevenire la creazioni di Basi Dati su tool o strumenti non
+      raggiunti dagli applicativi di Data Discovery utilizzati ai fini GDPR
+                                                          •   Consolidato il perimetro dei report COGNOS non conformi agli attuali standard;
+                                                          •   A partire da Luglio 2019, la previsione di una Sorry Page che informi gli utenti sull’avvenuta disattivazione. Eventuali richieste di
+        Razionalizzazione Report:                             riattivazione saranno concordate con la Data Governance tenendo conto di:
+                                                              <U+F071> presenza di altre reportistiche che rispondono ai requisiti informativi del report disattivato;
+                                                              <U+F071> possibilità di indirizzare l’esigenza verso altri strumenti di reporting/BI.
+                 838 report con                           PROSSIMI PASSI
+                saving di 320k€                           •   In corso pianificazione la migrazione dei report restanti sulla nuova release di Cognos, tuttavia l’attività del costo di circa 150/200K
+                (mancati costi)                               deve ancora essere finanziata (intervento IT x IT);
+                                                          •   Per i report migrati, con un elevato numero di accessi, procederà con l’Accreditamento previa verifica/adeguamento dei requisiti
+                                                              minimi previsti (es. adozione Dimensioni Condivise, Sicurezze/Coni di Visibilità).
+                                                          •   Formalizzata (Sisifo del 09/04/2019) alla funzione CRM la richiesta di avviare le azioni di mitigation relative all’export di dati da Explora
+           Limitazione Scarichi                               agli Utenti di DG e Rete. Tali azioni prevedono:
+                     Massivi                                  <U+F071> disabilitazione totale della funzionalità di export per le strutture territoriali;
+                                                              <U+F071> limitazione a 100.000 righe e 1.000.000 di celle per le strutture di DG. Eventuali eccezioni saranno gestite con la creazione di un
+                                                                  profilo abilitativo ad hoc (da individuare le strutture a cui non applicare la limitazione).
+                                                          PROSSIMI PASSI
+                                                          Previsione all’interno della normativa del Reporting Management, in corso di stesura da parte della Data Governance, delle linee guida
+                                                          sulla limitazione della diffusione e divulgazione non controllata di dati:
+                                                          •   Confermando le regole di limitazione all’export dei dati a tutti gli applicativi di Reporting/Analisi dati richiesti per Explora;
+                                                          •   Richiedendo comportamenti coerenti a tutte le funzioni di business rispetto ai limiti imposti (es. salvataggio di file su teamsite, invio
+                                                              tramite mail, ecc)
+                                                                                                                                                                                                            11
+
+MIFID 2 – Rendicontazione Ex Post
+                          Aspetti di Contesto                                         Coinvolgimento della Data Governance
+     • L’invio    della    Rendicontazione     ex     post      interessa Avviata la fase di assessment di Data Governance con la funzione
+       complessivamente oltre 950.000 clienti titolari di servizi         owner:
+       d’investimento;                                                     <U+F071> Inserito il Data Base di riferimento nel perimetro dei DB
+     • L’originaria scadenza dell’invio era Aprile 2019, posticipata          Rilevanti;
+       dalla CONSOB a Luglio 2019;                                         <U+F071> Disegnata la Macroarchitettura e raccolte              le  BDE   per
+     • La Data Governance è stata coinvolta nel progetto nel mese di          l’alimentazione del Glossary Aziendale;
+       Aprile 2019, in uno stato avanzato rispetto alle scelte             <U+F071> Avviata l’attività di censimento dei controlli nativi nel Diagnostico
+       architetturali ed applicative adottate;                                del Tool di Prometeia selezionato come motore di calcolo dei
+     • Rilevate criticità soprattutto sul tema della certificazione della     rendimenti;
+       qualità dei dati rappresentati nell’informativa da inviare alla     <U+F071> In corso di verifica l’alimentazione dei sistemi di Data Governance
+       clientela.                                                             ai fini di rendicontazione con le reportistiche già disponibili nel
+                                                                              Tool di Prometeia per non impattare, in questa fase, la
+                                                                              pianificazione progettuale;
+                                                                           <U+F071> In corso supporto metodologico per la definizione di KPI e
+                                                                              Cluster di clientela su cui effettuare verifiche a campione su
+                                                                              insiemi rappresentativi.
+                                                                                                                                                   12
+
+Perimetro e Monitoraggio Data Governance
+                                                                                                  Comunicazione Data Owner/Utenti Responsabili
+  <U+25AA> L’introduzione del nuovo approccio Data Driven e l’evoluzione delle                 MODALITÀ:
+      definizioni di Output Rilevanti hanno portato importanti impatti sul              Invio tramite sisifo
+      perimetro e sui modelli di monitoraggio di Data Governance
+  <U+25AA> L’assessment annuale del perimetro di Data Governance si è concluso:
+                                                                                        STRUTTURA DELLA COMUNICAZIONE:
+      • Identificati 121 Output Rilevanti(1) di tipo 1 a livello di Gruppo (rispetto ai
+                                                                                        <U+25AA> Perimetro del Data Owner
+          25 di fine 2018)
+      • Identificate 13 Basi Dati Rilevanti
+                                                                                        <U+25AA> Livello di Maturity                                               26%
+  <U+25AA> È stato introdotto dal 2019 un nuovo indicatore di «Maturity Model» che                                                                              Esemplificativo
+      misura il livello di maturità di un Output Rilevante o Base Dati Rilevante        <U+25AA> Balanced Scorecard (se applicabile)
+      rispetto agli Standard di Data Governance
+                                                                                        <U+25AA> Raccomandazioni per aumentare il livello di maturity
+  <U+25AA> Il monitoraggio e la Balanced Scorecard del Q12019 sono in corso di
+      finalizzazione: visto l’aumento dei Data Owner e degli Output Rilevanti           Le raccomandazioni non si configurano come GAP, ma come azioni da
+      alcune risposte dei Data Owner sono in corso                                      attivare da parte del Data Owner per aumentare il livello di certificazione degli
+                                                                                        OR (es. copertura di tutti gli obiettivi di data quality, adeguamento normative,
+  <U+25AA> Quando finalizzata la rendicontazione e la Balanced Scorecard del Q1, le            ecc.). La Data Governance, come finora agito, sarà di supporto per i Data
+      evidenze saranno inviate tramite sisifo ai Data Owner/ Utenti Responsabili        Owner
+      come richiesto dalla normativa 285
+  (1) Escluse specifiche elaborazione delle altre società
+                                                                                                                                                                          13
+
+Indice
+       Executive Summary
+       Sezione 1 – Focus su alcune iniziative
+       Sezione 2 – Allegati
+                   Allegato 1 – Acquisizione dati da fonti dati esterne
+                   Allegato 2 – Ispezioni
+                   Allegato 3 – Remediation su Mutui ipotecari
+                                                                        14
+
+Allegato 1 - Smart Lending – acquisizione dati da Fonti dati esterne (Cerved/Experian)
+ • Definire modalità di arricchimento dati sistemi informativi della Banca
+ • Valutare impatti GDPR, nei passaggi di informazioni sensibili dei clienti tra MPS e i fornitori esterni
+                                                                                                           1. Ricezione dati (clienti) dal Mercato
+                                                                                                           2. Pulizia dei dati 1
+                                                                                                           3. Invio dei dati puliti a Cerved ed Experian
+                                                                                                           4. Ricezione dei dati arricchiti da Cerved e da
+                                                                                                              Experian
+                                                                                                           5. Acquisizione dei dati CR, IRA e Rating da Aster
+                                                                                                              (che viene alimentato con delle procedure che ogni
+                                                                                                              notte importano i dati aggiornati da Teradata)
+                                                                                                           6. Analisi dati e selezione dei clienti meno rischiosi 2
+                                                                                                           7. Invio dell’elenco di clienti selezionati al Mercato
+  1 Estrazione delle sole info da fornire ai SIC
+  2 Calcolo eligibilità dei clienti in base al rischio di credito e della sostenibilità del prestito
+                                                                                                                                                                    15
+
+Allegato 2 - Ispezioni                                                                                                                                                        Sono inoltre in corso
+                                                                                                                                                                       approfondimenti con Servizio AML-
+Principali ispezioni 2018 - 2019                                                                                                                                        CFT per gli esiti ispezione Bankit
+       4                           <U+25AA> Sviluppati in collaborazione con il Data Owner ca. 150 controlli di data quality per potenziare il presidio dei modelli di rischio di credito e in risposta ai mandatory
+             TRIM Retail             checks richiesti dall’Organo di Vigilanza
+                                   <U+25AA> Sono previsti a piano 2019 ulteriori sviluppi di circa 70 controlli di data quality oltre all’applicazione della Balanced Scorecard Data Driven ai modelli di rischio di credito
+                               1 <U+25AA> Sono in corso gli interventi per la mitigazione del Finding 15 dell’OSI IT Risk di ranking F2, con scadenza dicembre 2019. Illustrato avanzamento attività al Comitato
+       OSI IT Risk e Data             Rischi (cfr. dettaglio in allegato):
+             Quality                  • Interventi di sistemazioni accentrate su Basi Dati (Anagrafe, SISBA, DWH, …)
+                                      • Sviluppato prototipo sistema indicatori di Balanced Scorecard. In corso ampliamento di applicazione agli ambiti informativi
+                                      • In corso sviluppi di Data Discovery sui dati sensibili GDPR, che sarà allargata poi a tutti i dati critical del Gruppo
+                                      • Rafforzamento Standard di Data Governance con pubblicazione normativa su Banche Dati Esterne e reportistica gestionale interna (Reporting Mngmt)
+       3                           <U+25AA> Nel 2018 sono state condotte 2 ispezioni interne (2018_041 e 2018_082) in tale ambito e sono stati rilevati complessivamente 8 gap di cui 3 specifici di data quality.
+           Data Quality LGD          Anche gli altri gap in linea generale riguardano temi legati alla Data Governance quali documentazione tecnica delle procedure di manipolazione dati non esaustiva (3
+2018
+                                     gap) ed integrità e riservatezza dati e gestione abilitazioni non garantita (2 gap). I gap di data quality sono in corso di indirizzamento con BR ad hoc
+       1                       1
+            SSM Liquidity          <U+25AA> Indirizzata la Remedial actions in merito alla definizione del Data Model (Architettura + Business Glossary) per l’SSM Liquidity Exercise
+              Exercise             <U+25AA> Ad oggi non sono stati sviluppati dal Data Owner controlli strutturati compliance con gli standard di Data governance
+                                   <U+25AA> Assegnati alla Data Governance 2 finding sui «processi» con rating complessivo pari a 2 (giallo – medio) . I GAP sono stati mitigati:
+                               2
+                                     1. Requisiti e obiettivi di progetto futura Data Governance non declinati <U+F0E0> in corso formalizzazione strategia da presentare al COP e all’Audit
+           Ispezione interna
+                                     2. «Identificare con chiarezza tutte le implementazioni che hanno impatto sulla Data Governance, in modo che la Funzione possa pienamente svolgere le attività di
+           Data Governance
+                                        coordinamento e limitare lo sviluppo di soluzioni non conformi agli standard definiti» <U+F0E0> in corso sviluppi per rilascio soluzione
+       8                       1 <U+25AA> Chiuso GAP (CV_2017_00015) assegnato alla Data Governance sulla tracciabilità delle change request effettuate nel tempo ai controlli di dq da parte dei Data Owner
+              Convalida            <U+25AA> In corso verifica di integrazione delle evidenze/giudizi dei Rapporti di Convalida all’interno della Balanced Scorecard (esempio correttivi di punteggio su Data Quality
+                                     e Remediation)
+                                   <U+25AA> Effettuati incontri con gli ispettori per illustrazione processi e strumenti di data quality e focus sulla data quality di ambiti specifici per il Large Corporate (es.: CEBI,
+           TRIM Corporate            identificazione Obligor – Anagrafe, …). Fornita in collaborazione con Data Owner e TDS documentazione di dq
+                                   <U+25AA> Come per l’ispezione TRIM Retail nel corso dell’anno saranno effettuate nuove implementazioni per rafforzare il presidio di data quality
+2019         Stress Test –         <U+25AA> Analisi di sensitivity sui rischi di liquidità richiesta da BCE avviata il 6 febbraio con conclusione ad agosto. I filoni di attività sono principalmente 3: Data collection
+               Sensitivity           (compilazione template di BCE), Data Quality e Dialogo con gli Organi di Vigilanza
+             liquidity risk
+                                                                  Numero gap/finding/approfondimenti totali dal 2018 su        Numero gap/finding in ownership         Numero gap/finding in ownership Data
+                                                             #                                                             #                                       #
+                                                                  temi Data Governance/DQ in ownership Data Owner              Data Governance risolti                 Governance, in corso di mitigazione
+                                                                                                                                                                                                                    16
+
+Allegato 3 - Iniziative di Data Governance – Remediation su mutui ipotecari (anche cartolarizzati) senza garanzia
+              Progetto Rete – remediation mutui ipo senza garanzia
+                                                                        Utilizzo - k€
+                                                                                      • Il Progetto di remediation con la Rete sta avanzando: sono stati sistemati
+                                                                        (# rapporti)
+                                                                                        1.166 rapporti (-49%) per un utilizzo di ca. 130.938 mln € (-59%) rispetto
+                  220.315        48.344
+                                                                                        al dato di agosto
+                                  (416)
+                                                 130.938                              • Le attività portano benefici su svalutazioni di CE, sovrastima RWA,
+                  (2.399)                                                               segnalazioni di vigilanza e assorbimenti patrimoniali: per questi ultimi
+                                                                   137.721              dalla stima iniziale di impatto di 6 mln€, la remediation porta ad una
+                                                  (1.166)                               riduzione di circa 3,6 mln€
+                                                                   (1.649)
+                                                                                      • Anche se la remediation sta procedendo, è necessario comunque
+                 Ago 2018         Nuovi           Rapporti        Mar 2019              intervenire sui processi organizzativi poiché sorgono costantemente
+                                 Rapporti         Sistemati                             nuovi casi (nell’ultimo mese + 416 rapporti)
+                   Estensione Monitoraggio: Progetto Rete + Mutui
+                       cartolarizzati segnalati da agenzie Rating
+                                                                                      • In collaborazione con il Data Owner «Area Finanza, Tesoreria e Capital
+                                                                                        management» sono stati individuati ulteriori 2.159 (di cui 162 in comune
+                           2.148                                                        con il Progetto Rete) mutui ipotecari senza censimento/raccordo delle
+                                    1.868 2.143 2.177 2.337 2.159                       garanzie ipotecarie aventi la caratteristica della cartolarizzazione
+                            208      169     182              189
+                                                      188             162     1.649   • I mutui cartolarizzati sono anche oggetto di segnalazione alle principali
+             2.399 2.350 2.014 1.856 1.960
+                                                    1.606 1.748 1.487 (Prog.            agenzie di rating (DBRS, Fitch e Moodys) e inviati all’European DWH della
+                                                                              Rete)     BCE
+              ago    set    ott      nov     dic     gen      feb     mar
+                                                                                      • Le attività di remediation sono in corso e saranno poi implementati dei
+                          Nuove posizioni da sanare (cartolarizzazione)                 controlli per monitorare il fenomeno nell’ambito della Procedura Beni
+                          Posizioni comuni
+                          Stock pratiche Progetto Rete
+                                                                                                                                                                   17
+

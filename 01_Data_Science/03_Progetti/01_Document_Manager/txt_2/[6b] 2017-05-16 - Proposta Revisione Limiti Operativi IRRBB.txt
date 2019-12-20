@@ -1,0 +1,106 @@
+Comitato Gestione Rischi del 16-05-2017
+ Proposta di revisione annuale dei limiti operativi:
+                               IRRBB Limits 2017
+                            Direzione Chief Risk Officer
+                                 GRUPPOMONTEPASCHI
+
+ Agenda
+      <U+F071> IRRBB Limits 2017
+            <U+F071> Risk Appetite Statement 2017: IRRBB
+            <U+F071> IRRBB Limits 2017: proposta di limiti operativi
+                    <U+F071>       Limiti operativi per il Gruppo MPS
+                    <U+F071>       Limiti operativi per le Controllate Italiane
+GRUPPOMONTEPASCHI| Direzione Chief Risk Officer       Proposta di revisione annuale dei limiti operativi: IRRBB Limits 2017 2
+
+Risk Appetite Statement 2017: IRRBB
+Linee Guida
+  <U+F071> La rideterminazione dei limiti operativi viene effettuata nell’ambito del Risk Appetite Statement 2017 (“Group Risk Appetite Statement
+    2017: linee guida e indicatori di Gruppo”), e dal relativo cascading down per Legal Entities e Business Unit (“Group Risk Appetite
+    Statement 2017: cascading down per LE/BU”), approvato dal Consiglio di Amministrazione della Capogruppo.
+  <U+F071> Il perimetro di applicazione dei limiti operativi attiene a tutte le Legal Entiites di Gruppo monitorate nell’ambito dell’IRRBB Framework,
+    evidenziate in rosso.
+                                                        <U+F071> I valori di Risk Tolerance del RAS 2017 per gli indicatori di adeguatezza patrimoniale sono
+                                                          stati espressi in termini di ratio patrimoniali (CET1 ratio, TC ratio ed IC ratio). Questi sono
+    GMPS
+                                                          stati tradotti in termini di impatti a P&L (numeratore) e variazioni di RWA
+                                             Fiduciaria
+                          Wealth                          (denominatore). Con riferimento a quest’ultimo, si riporta l’allocazione di RWA per il
+                                               MPSCS
+                                                          IRRBB:
+              CCO          Retail
+                                              MPSL&F
+                        Corporate
+                                            MPBanque
+                          Widiba             MPSBelgio
+                         PE Dept
+              CLO
+                        NPE Dept
+                         Finance
+              CFO
+                           M&A
+                       IT & Corp.S
+              COO
+                       Real Estate
+             CHCO
+                     <U+F0A7> Audit
+                     <U+F0A7> Risk
+            Control  <U+F0A7> Compliance
+           Functions <U+F0A7> AML
+                     <U+F0A7> Validation
+                     <U+F0A7> CEO/GM Secretariat
+            HO Staff <U+F0A7> Group General Counsel
+                     <U+F0A7> Regulatory Relationship
+ GRUPPOMONTEPASCHI| Direzione Chief Risk Officer                Proposta di revisione annuale dei limiti operativi: IRRBB Limits 2017                     3
+
+IRRBB Limits 2017: proposta di limiti operativi
+Dal RAS 2017 all’IRRBB Limits 2017: capitale interno e limiti di sensitivity di Gruppo
+  <U+F071> Le soglie di tolleranza all’IRRBB per il 2017 sono state quindi fissate dal CdA in termini di Risk Weighted Asset (RWA). Il capitale interno a
+    fronte del rischio di tasso IRRBB è ricavabile dal RWA considerando il fattore di conversione di 12,5:
+                                                                    RWAIRRBB = CIIRRBB x 12,5
+  <U+F071> Le soglie di Risk Tolerance di Gruppo sono pertanto essere «tradotte» in termini di Capitale Interno IRRBB. Il Capitale Interno IRRBB è
+    determinato, a sua volta, dalla seguente formula:
+                                                                 CIIRRBB = max (ULNII , ULEVE)
+    dove le misure di perdita inattesa (Unexpected Loss, ULNII,EVE) relative sia alle sensitivity del margine di interesse sia alle sensitivity di
+    valore economico sono determinate come massima perdita (in valore assoluto) a fronte del j-esimo scenario, come indicato nelle
+    equazioni sotto riportate:
+      <U+F0FC> ULNII = |minj (0, <U+2206>NII1y (scenj,NII))|
+      <U+F0FC> ULEVE = |minj (0, <U+2206>EVE(scenj,EVE))|
+  <U+F071> Analizzando al variabilità storica del capitale interno IRRBB si evidenzia che la media delle differenze mensili sia di circa 15 €/mln che può
+    essere considerata come soglia di allerta (Risk Limits) per la Risk Tolerance.
+  <U+F071> La tabella che segue riassume i limiti di Risk Tolerance ed i livelli di Risk Appetite con la soglia proposta di Risk Limit per il 2017 per il
+    Gruppo.
+        Proposta di limite
+ GRUPPOMONTEPASCHI| Direzione Chief Risk Officer             Proposta di revisione annuale dei limiti operativi: IRRBB Limits 2017                 4
+
+IRRBB Limits 2017: proposta di limiti operativi
+Dal RAS 2017 all’IRRBB Limits 2017: limiti di sensitivity del NII di Gruppo
+  <U+F071> Analizzando i vincoli di natura «normativa» (BCBS, Interest rate risk in the bankink book, pag.2 ed EBA/GL 2018/08), si evidenzia che è
+    presente l’Outlier Test, che impone una soglia di tolleranza massima della sensitivity dell’EVE pari al 15% del Tier 1 Capital a fronte di
+    scenari di shock estremi (+/- 200 bps). Pertanto si propone tale limite aggiuntivo per il Gruppo, da assegnare alla struttura del CFO–
+    Finance Department.
+  <U+F071> La tabella seguente riporta la rilevazione dell’Outlier Test al 31/03/2017:
+                               Proposta di limite
+  <U+F071> Le metriche utilizzate per il calcolo della soglia sono allineate alla metodologia interna utilizzata per le rilevazioni gestionali, pertanto il
+    test non può essere definito in senso stretto lo «Standard Outlier Test (S.O.T.)». In particolare, rispetto a EBA/GL 2018/08, la principale
+    differenza che emerge è l’applicazione del floor sui market rates, mentre non si presentano particolari disallineamenti rispetto ai restanti
+    punti:
+ GRUPPOMONTEPASCHI| Direzione Chief Risk Officer             Proposta di revisione annuale dei limiti operativi: IRRBB Limits 2017                   5
+
+IRRBB Limits 2017: proposta di limiti operativi
+Dal RAS 2017 all’IRRBB Limits 2017: limiti di sensitivity del NII di Gruppo e limiti pe le Controllate Italiane
+ <U+F071> Nell’ambito del RAS cascading down LE/BU, sono stati allocati anche assorbimenti massimi di P&L (numeratore) dell’Internal Capital Ratio;
+   si riporta di seguito l’allocazione per il IRRBB in termini di Net Interest Income (NII):
+                                                                                 Proposta di limite
+                                                                                      <U+F071> Si propone, pertanto, un limite aggiuntivo di 50
+                                                                                        €/mln sulla sensitivity del NII a fronte di scenari di
+                                                                                        +/- 25 bps.
+ <U+F071> I limiti proposti sono riferiti al Gruppo e sono assegnati al CFO–Finance Department in qualità di struttura operativa di gestione accentrata
+   dell’ALM in base ai limiti di P&L, di RWA e di normativa (BCBS e EBA).
+ <U+F071> Le Controllate, in regime di ALM accentrato, hanno l’obbligo di «trasferire» il rischio IRRBB alla Capogruppo. Si propone l’adozione di un
+   unico limite (al posto dei 2 limiti correntemente in vigore) che consenta di delegare alle Controllate una soglia «minima» per la gestione
+   del rischio IRRBB.
+ <U+F071> Poiché il Capitale Interno delle controllate è determinato come la perdita massima di EVE in funzione degli scenari di shift parallelo a +/-
+   100 bps, si propone una soglia limite pari al 2,5% del Tier 1 capital delle Controllate.
+                           Proposta di limite
+ GRUPPOMONTEPASCHI| Direzione Chief Risk Officer          Proposta di revisione annuale dei limiti operativi: IRRBB Limits 2017                    6
+

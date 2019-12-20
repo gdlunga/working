@@ -1,0 +1,54 @@
+                             Recovery Plan Monitoring
+                                  Analisi al 31-12-2017
+Direzione Chief Risk Officer
+
+Recovery Plan Monitoring: Recovery Plan Indicators (RPI) & Early Warning Signals (EWS)
+ GRUPPOMONTEPASCHI                                                          Recovery Plan Indicator (RPI)                             Triggers        Al 31-12-2017 si evidenzia:
+                                                                      U.M.       jun-17*       sep-17       dec-17             Amber          Red     <U+F0A7> peggioramento del ROE riconducibile alle rettifiche su crediti
+                       1. CET1 Ratio                                     %       15,38%       15,17%       14,78% >             10,94%          9,44%   effettuate nel trimestre.
+ Capital               2. Total Capital Ratio                            %       15,59%       15,38%       14,97% >             13,94%        12,94%  <U+F0A7> incremento dell’indicatore Operational Losses/Total Revenues,
+                       3. Leverage Ratio                                 %         6,15%        5,53%        5,97% >              4,00%         3,00%   che si attesta in prossimità dell’Amber zone. L’incremento è
+                       4. LCR                                            %          278%         234%         199% >               130%          100%   principalmente dovuto ag li accantonamenti effettuati in relazione
+ Liquidity             5. NSFR                                           %          107%         107%         110% >                 95%          90%   all’attività di segnalazione di clientela per operatività in diamanti
+                       6. Unsecured wholesale deposit rate 1Y            %         1,70%        0,48%        0,77% <              3,10%         3,80%   e all’incremento del Fondo Rischi e Oneri per contestazioni
+                       7. Return on Equity                               %        -39,3%       -35,4%       -41,6% >                -45%         -47%   relative agli aumenti di capitale passati.
+ Profitability
+                       8. Oper. Losses / Total Revenues                  %           2,4%        2,6%          5,9% <             6,00%         8,50%
+                       9. Gross NPE Ratio                                %       36,29%       35,63%       36,99% <             39,00%        41,00%
+ Asset Quality
+                       10. Texas Ratio                                   %         97,5%      111,1%       111,5% <                115%          120%
+ *dati proformati post aucap
+ GRUPPOMONTEPASCHI                                                           Early Warning Signals (EWS)                       Triggers
+                                                                      U.M.     jun-17       sep-17       dec-17       Green    Amber          Red
+                       1. BTP/BUND Index                                bp            169         165           159 <     177        190          256
+                       2 BMPS Rating (2nd best) variazione            Qual.   inalterato   inalterato   inalterato >          Downgrade
+                       3. BMPS stock performance - Italian Banks         %         0,00%       -0,21%        0,82% >   -3,01%    -9,89%      -15,87%
+ EWS                   4. BMPS stock price / Book value                  %         0,07%        7,32%      40,77% >     7,71%     5,71%         5,27%
+                       5a. CDS MPS 5y - Itraxx Euro Financial Sector    bp            n.a.        n.a.       91,48 <      429        533          568
+                       5b. Net Cash Position 1 Month                 €/mln        17.739      19.616       18.362 >   16.100    12.000        10.500
+                       6. Italian GDP (Q/Q variation)                    %         0,44%        0,44%        0,34% >    0,30%     0,10%        -0,18%
+                                                                                                                                                                                                                              2
+
+Glossary
+D escription of RPI
+•   C ET1 Ratio (transitional): ratio between Common Equity Tier 1 capital and total Pillar 1 RWA;
+•   To tal Capital Ratio (transitional): ratio between total capital (Own Funds) and total Pillar 1 RWA;
+•   L e verage Ratio (transitional): ratio between Tier 1 capital and the total exposure relevant for the purpose;
+•   L C R (Liquidity Coverage Ratio): ratio between HQLA (High Quality Liquidity Assets) and net cash outflows expected in the following 30 days, according to the rules set out by the Commission Delegated Regulation;
+•   N SFR (Net Stable Funding Ratio): ratio between the amount of available stable funding and the amount of required stable funding, as established within the Basel 3 framework;
+•   Unsecured wholesale deposits rate 1 Y: spread above the prevailing EURIBOR rate paid by BMPS on new unsecured wholesale deposits with maturity of one year. It is used as a measure of the cost of wholesale funding
+    of the Bank;
+•   R OE (Return On Equity = Net income for the year / Average Equity): this ratio relates the net profitability (net income for the current year = NIt0) to the average equity, net of [(Eqt0 – Eqt-1)/2];
+•   Op e rational Losses / Total Revenues: the ratio between operational losses (YTD) and total revenues (YTD);
+•   Gross NPE Ratio: ratio between non-performing loans on total loans (gross book values);
+•   Te xas Ratio: calculated by dividing the gross NPE by the sum of tangible equity and loan loss reserves.
+D escription of EWS
+•   BTP/BUND Index: Spread between German and Italian Government Bonds, whose rise imply a degrade of Italian Solvency ;
+•   BMPS Rating (2nd best) variazione: BMPS Long Term Rating Index variations, calculated as second best of Moody’s, Fitch and DBRS evaluations of BMPS;
+•   BMPS stock performance - Italian Banks: Index that compares the movements of BMPS and the Italian Banking System Index;
+•   BMPS stock price / Book value: Current BMPS quotation and book value ratio;
+•   C D S MPS 5y - Itraxx Euro Financial Sector: Index that compares BMPS 5yr senior loan to the senior loan curve of major financial companies;
+•   N e t Cash Position 1 Month: Liquidity net balance for a one-month horizon;
+•   Ita lian GDP (Gross domestic product): measures the Quarterly variation of the monetary value of final goods and services .
+                                                                                                                                                                                                                         3
+

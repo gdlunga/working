@@ -1,0 +1,1147 @@
+GRUPPOMONTEPASCHI
+Area Lending Risk Officer
+Servizio Credit Risk Models
+                  Il sistema di rating interno Gruppo Montepaschi
+                      Calibrazione modelli PD Retail erogazione
+          Segmenti                Retail erogazione
+          Data                    Giugno 2018
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                  1
+
+Sommario
+1.   Introduzione ................................................................................................................................. 4
+2.   Metodologia di calibrazione ......................................................................................................... 5
+3.   Definizione di default per la calibrazione..................................................................................... 5
+4.   Orizzonte temporale di stima ...................................................................................................... 7
+5.   Perimetro di applicazione .......................................................................................................... 12
+   5.1      Schema di applicazione dei modelli Retail di erogazione ................................................ 13
+6.   Popolazione di calibrazione ...................................................................................................... 13
+7.   Dati di input ............................................................................................................................... 14
+   7.1      Preparazione dei dati ........................................................................................................ 14
+8.   Forborne .................................................................................................................................... 17
+9.   Determinazione Anchor Point ................................................................................................... 19
+10.      Stima della funzione di calibrazione ..................................................................................... 22
+11.      Risultati ed evidenze ............................................................................................................ 24
+   11.1     Matrici di migrazione ......................................................................................................... 24
+   11.2     Test Binomiali ................................................................................................................... 24
+   11.3     Applicazione PD ............................................................................................................... 25
+A.       Appendice ............................................................................................................................. 26
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                                                      2
+
+                                Informazioni sul documento
+                                 Il sistema di rating interno Gruppo Montepaschi
+  Titolo del documento
+                                 Calibrazione modelli PD Retail prima erogazione
+                                 Documento metodologico calibrazione modelli di erogazione
+  Tipo di documento
+                                 Retail
+                                 Sara Crosti
+  Autore                         Area Lending Risk Officer – Servizio Credit Risk Models –
+                                 Settore Modelli di PD
+                                 Cristina Amore
+  Revisore                       Area Lending Risk Officer – Servizio Credit Risk Models –
+                                 Settore Modelli di PD
+  Unità responsabile             Area Lending Risk Officer – Servizio Credit Risk Models
+                                 Lorenzo Boetti
+  Responsabile
+                                 Petraglia Giancosimo
+  dell’approvazione
+                                 Area Lending Risk Officer – Servizio Credit Risk Models
+  Data di redazione              giugno 2018
+  Data di approvazione           2018
+  Versione                       V1
+                        Cronologia dei cambiamenti al documento
+  Versione           Data                     Modificato da                 Commenti
+  1.0                giugno 2018              Settore Modelli di PD         Versione Originale
+                                    Normativa di riferimento
+                     Regolamento (UE) n. 575/2013 del Parlamento Europeo e del Consiglio
+  CRR
+                     (CRR01)
+  CRD IV             Direttiva 2013/36/UE del Parlamento Europeo e del Consiglio
+                     Guidelines on PD estimation, LGD estimation and the treatment of
+  EBA/GL/2017/16
+                     defaulted exposures
+                     Final Draft Regulatory Technical Standards on the specification of the
+                     assessment        methodology     for   competent  authorities  regarding
+  EBA/RTS/2016/03    compliance of an institution with the requirements to use the IRB
+                     Approach in accordance with Articles 144(2), 173(3) and 180(3)(b) of
+                     Regulation (EU) No 575/2013
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                               3
+
+            1.         Introduzione
+Il Gruppo Monte dei Paschi di Siena (GMPS), in qualità di Gruppo bancario autorizzato all’utilizzo
+dei modelli IRB per il calcolo del requisito patrimoniale a fronte del rischio di credito, è tenuto ad
+adottare in fase di stima ed applicazioni dei suddetti modelli quanto previsto dalla normativa
+regolamentare di riferimento (cd. “Basilea 3”). In particolare, i contenuti di Basilea 3 sono stati
+recepiti in ambito comunitario mediante due atti normativi:
+          <U+F0B7>    CRR - Regolamento (UE) n. 575/2013 del Parlamento Europeo e del Consiglio (CRR01);
+          <U+F0B7>    CRD IV - Direttiva 2013/36/UE del Parlamento Europeo e del Consiglio.
+Questi si sono ampliati nel corso del tempo con numerose misure di esecuzione, contenute in
+norme tecniche di regolamentazione o di attuazione (Regulatory Technical Standard – RTS e
+Implementing Technical Standard – ITS), adottate dalla Commissione Europea su proposta delle
+Autorità europee di vigilanza.
+Il nuovo framework regolamentare ha l’obiettivo di rafforzare la capacità delle banche di assorbire
+shock economici e finanziari, migliorare la gestione del rischio e fornire maggiori precisazioni in
+relazione alle pratiche di stima dei parametri del rischio, al fine di ridurre la variabilità negli attivi
+ponderati per il rischio di credito per i portafogli per i quali gli approcci IRB rimangono applicabili.
+In sostanza, la normativa, pur rimanendo nel complesso ‘principles based’, definisce in modo
+sempre più puntuale le regole che le banche devono seguire per essere realmente compliant,
+introducendo di fatto, su specifici temi, norme e standard basati su regole (rules based), eliminando
+molte specificità nazionali.
+Il GMPS, per allinearsi all’evoluzione normativa, ha iniziato le attività propedeutiche alla revisione
+della definizione di default, modifica sostanziale che richiederà autorizzazione formale da parte
+                                                                                                                     1
+dell’Autorità Competente, in base a quanto previsto dal Regolamento delegato 529/2014 , mentre
+nell’attualità, relativamente ai modelli di erogazione Retail, in conformità con il complesso
+normativo regolamentare (in particolare, il regolamento CRR n.575/2013 art. 179), in base al quale
+‘gli enti rivedono le proprie stime ogni qualvolta emergano nuove informazioni e in ogni caso
+almeno con cadenza annuale’, il GMPS ha proseguito l’attività di aggiornamento e revisione del
+suo sistema di rating interno allo scopo di recepire gli eventi che hanno caratterizzato gli anni 2016
+e 2017. A tale scopo ha eseguito un’attività di ricalibrazione utilizzando la definizione di default
+attualmente in uso presso il GMPS. Di seguito i riferimenti normativi:
+          <U+F0B7>    EBA01: EBA/GL/2017/16 (20/11/2017) Guidelines on PD estimation, LGD estimation
+               and the treatment of defaulted exposures;
+          <U+F0B7>    EBA02: EBA/RTS/2016/03 (21/07/2016) Final Draft Regulatory Technical Standards
+               on the specification of the assessment methodology for competent authorities regarding
+               compliance of an institution with the requirements to use the IRB Approach in
+               accordance with Articles 144(2), 173(3) and 180(3)(b) of Regulation (EU) No 575/2013.
+L’attività di ricalibrazione per i modelli di erogazione Retail ha riguardato:
+          <U+F0B7>    l’aggiornamento degli Anchor Point (AP);
+          <U+F0B7>    l’aggiornamento della serie storica utilizzata i fini della calibrazione;
+          <U+F0B7>    l’allineamento della definizione di default con gli altri modelli del GMPS, ossia past due a
+               90 gg;
+1
+  Regolamento Delegato (UE) N. 529/2014 della Commissione del 12 marzo 2014 che integra il regolamento (UE) n.
+   575/2013 del Parlamento europeo e del Consiglio per quanto riguarda le norme tecniche di regolamentazione in materia
+   di valutazione della rilevanza delle estensioni e delle modifiche al metodo basato sui rating interni e al metodo avanzato di
+   misurazione.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                                 4
+
+        <U+F0B7>   la soluzione del finding specifico per i modelli di erogazione Retail da parte dell’autorità
+            di vigilanza: finding n. 7 TRIM IMI (2017-2018), relativo alla presenza di una definizione
+            di default non uniforme tra i modelli, in particolare nei modelli di erogazione Retail è
+            presente il past due a 180 gg, in luogo di quello a 90 gg presente negli altri modelli;
+        <U+F0B7>   la soluzione del gap di Convalida di aggiornamento della calibrazione ‘CV_2018_00004-
+            Aggiornamento serie storica utilizzata per la calibrazione dei modelli di PD’.
+Il presente documento ha l’obiettivo di evidenziare i passaggi seguiti nell’attività di ricalibrazione
+modelli di prima erogazione Retail utilizzati ai fini del calcolo del requisito patrimoniale.
+Il modello di erogazione Retail utilizzato da Banca MPS ai fini regolamentari è stato autorizzato da
+Bankit con lettera del 12 giugno 2008; la prima data di implementazione nei sistemi della banca è il
+30 giugno 2008. Il modello prevedeva un unico modulo con variabili di tipo sostanzialmente
+‘sociologico’, una serie storica che comprendeva gli anni 2005-2006, due segmenti COI
+(Cointestazioni) e SPF (Singole Persone Fisiche) e una definizione di default comprendente
+sofferenze, incagli, ristrutturati, past due a 180 giorni (con inclusione della sola componente
+tecnica). Nel 2011 il modello è stato ristimato ed è entrato in produzione a giugno 2013; il modello
+attuale prevede sempre due segmenti COI e SPF e un’analoga definizione di default,
+comprendente sofferenze, incagli, ristrutturati, past due a 180 giorni (con inclusione della sola
+componente tecnica).
+Il presente documento è strutturato come segue: nel capitolo 2 si introduce la metodologia di
+calibrazione, nel capitolo 3 si descrive la definizione di default adottata, nel capitolo 4 si definisce la
+lunghezza della serie storica utilizzata, nel capitolo 5 si individua il perimetro di applicazione, nel
+capitolo 6 si focalizzano i requisiti della popolazione di calibrazione, nel capitolo 7 si descrivono le
+modalità di acquisizione dei dati, nel capitolo 8 si descrive il trattamento applicato ai forborne, nel
+capitolo 9 si dettagliano i passaggi per definire l’anchor point, nel capitolo 10 si definisce la
+funzione di calibrazione, nel capitolo 11 si riportano i test di verifica della calibrazione.
+          2.       Metodologia di calibrazione
+La calibrazione è il processo attraverso il quale si trasforma lo score del modello di rating in
+probabilità di default da applicare alla popolazione in produzione, ovvero si tara il modello statistico
+sulla rischiosità media effettiva del portafoglio di riferimento. L’approccio utilizzato dal Gruppo MPS
+a tal fine si basa sui seguenti step:
+        <U+F0B7>   definizione di default per la calibrazione;
+        <U+F0B7>   scelta dell’orizzonte temporale di stima;
+        <U+F0B7>   definizione del perimetro di applicazione;
+        <U+F0B7>   individuazione della popolazione di calibrazione;
+        <U+F0B7>   preparazione dei dati e data quality;
+        <U+F0B7>   determinazione dell’Anchor Point;
+        <U+F0B7>   stima della funzione di calibrazione.
+          3.       Definizione di default per la calibrazione
+In fase di calibrazione dei modelli PD è stata adottata la seguente definizione di default,
+congruente con la normativa regolamentare (CRR01 art. 178 e CIRC. 263 tit2. Cap.1 parte
+seconda sez.1, par. 3.2): le controparti a default corrispondono al sottoinsieme di clienti con
+esposizione non nulla (accordato o utilizzo) che, in stato ordinario in un determinato mese
+dell’anno, presentano entro i 12 mesi successivi almeno un’anomalia. La presenza di anomalia è
+indicata dai seguenti stati amministrativi in vigore nella serie storica:
+        <U+F0B7>   Sofferenza;
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                            5
+
+        <U+F0B7>    Incaglio e incaglio oggettivo (dal 2010 gli incagli oggettivi sono stati determinati in base
+             alla diversa definizione introdotta nella circolare Banca d’Italia n. 272, 1° aggiornamento,
+             10/12/2009);
+        <U+F0B7>    Crediti Ristrutturati;
+        <U+F0B7>    Crediti scaduti e/o sconfinanti (Past-Due >90 gg).
+A partire dal gennaio 2015 il default è definito in base alla nuova classificazione regolamentare
+introdotta nella circolare Banca d’Italia n. 272, 7° aggiornamento 20/01/2015, e recepita dal
+documento normativo interno del GMPS ‘Policy di Gruppo in materia di classificazione e
+valutazione del credito – n. 1991’ che prevede i seguenti stati di default:
+        <U+F0B7>    Sofferenza;
+        <U+F0B7>    Inadempienze probabili (ex incaglio);
+        <U+F0B7>    Crediti scaduti e/o sconfinanti (Past-Due >90 gg).
+Si precisa tuttavia che, come riportato anche nella succitata policy, ai fini delle stime dei parametri
+di rischio (e nella presente calibrazione) è stata mantenuta la più dettagliata classificazione in
+essere al 31 dicembre 2014 (Bonis, Past Due, Incaglio oggettivo, Incaglio, Ristrutturati,
+Sofferenze).
+I default sono individuati secondo i seguenti principi:
+        1. il default è definito a livello di Gruppo Bancario;
+        2. si seleziona come default la prima anomalia riscontrata a livello di Gruppo nel periodo 1°
+             giugno 2013 – 30 aprile 2018;
+        3. in caso di segnalazione contestuale tra più banche del Gruppo su clientela condivisa,
+             prevale la segnalazione di gravità maggiore.
+Il default è stato determinato a livello di Gruppo, considerando le informazioni interne disponibili su
+                                             2
+BMPS, MPS CS, MPS LF e WIDIBA come segue:
+        <U+F0B7>    Sofferenza: se la controparte è classificata a Sofferenza in almeno una società;
+        <U+F0B7>    Incaglio e incaglio oggettivo: se la controparte non è classificata a Sofferenza sulle
+             società ed è classificata ad Incaglio in almeno una delle entità legali;
+        <U+F0B7>    Crediti Ristrutturati: se la controparte non è classificata in una definizione precedente e
+             presenta crediti ristrutturati in almeno un’entità legale;
+        <U+F0B7>    Past due: se la controparte non è classificata in una definizione precedente e presenta
+             un credito scaduto e/o sconfinante superiore a 90 gg.
+Per lo sviluppo dei sistemi avanzati IRB autorizzati dall’Autorità di Vigilanza, come previsto dalla
+normativa regolamentare vigente (Circ. 263 valida fino alla pubblicazione del CRR01, e la Circ. n.
+285, Parte seconda, Cap. 4, Sez. IV, par. 6, che recepisce in Italia il cosiddetto pacchetto CRDIV),
+il GMPS ha adottato una metodologia interna per l’individuazione dei cosiddetti past due tecnici
+(sempre a 90 gg), i quali vengono esclusi dal perimetro del default. La metodologia interna in uso è
+soggetta a verifiche periodiche di stabilità ed efficacia nella capacità di individuazione dei past due
+tecnici.
+L’algoritmo prodotto dal GMPS per l’individuazione del Past Due Tecnico è costituito da 6 differenti
+regole che sono esaminate singolarmente in maniera sequenziale (se la condizione prevista da
+una di queste regole viene soddisfatta allora il cliente viene definito come past due tecnico,
+altrimenti se nessuna delle regole è verificata il cliente è classificato come past due atecnico):
+2
+   Widiba alla data del presente documento è in roll-out, pertanto è presente solo per l’individuazione del default, dal
+   momento che i sistemi della banca sono aggregati a livello di Gruppo per l’individuazione del default.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                         6
+
+        1. se l’esposizione al momento dell’ingresso in default è inferiore a 4000 euro la posizione
+            è classificata Past Due Tecnico;
+        2. se la posizione al momento di ingresso in Past Due ha accordato nullo e nel terzo o nel
+            sesto mese successivo al passaggio a default presenta un accordato che copre lo
+            sconfinamento è da considerarsi Past Due Tecnico;
+        3. se la posizione al momento di ingresso in Past Due ha accordato nullo e la media
+            dell’utilizzo nei tre mesi successivi al default è inferiore all’utilizzo rilevato al momento del
+            default la posizione è classificata Past Due Tecnico;
+        4. se il grado di utilizzo medio nei sei mesi successivi all’ingresso in default è inferiore al
+            grado di utilizzo al momento del default, con una soglia di tolleranza del 2%, allora la
+            posizione è classificata Past Due Tecnico;
+        5. quando sia l’utilizzo sia l’accordato nel mese successivo all’ingresso in default sono
+            missing la posizione è classificata Past Due Tecnico;
+        6. si considera una posizione in Past Due Tecnico se la somma degli sconfini calcolati sulla
+            clientela condivisa è inferiore al 5% dell’utilizzo complessivo, sia come dato puntuale sia
+            come media dei tre mesi precedenti l’ingresso in default; oppure se al momento del
+            default l’importo sconfinato risulta inferiore al saldo avere del cliente.
+Sono sicuramente Past Due Atecnici quelli che nei 6 mesi successivi al default migrano in Incaglio,
+Ristrutturato o Sofferenza.
+          4.       Orizzonte temporale di stima
+Il CRR art. 180 stabilisce che per la stima della PD è necessario far riferimento alla ‘long run
+average default rates’.
+A queste specifiche si aggiunge l’art. 49 dell’EBA02 che introduce l’importante chiarimento di
+considerare il ‘likely range of variability of default rates in that type of exposures’ per definire il
+periodo di riferimento. A tale scopo come ulteriormente specificato dall’EBA01 (art dall’82 all’86)
+l’orizzonte temporale di stima deve contenere un adeguato mix di anni positivi e negativi. La scelta
+dell’orizzonte temporale deve pertanto basarsi sulla valutazione dei seguenti fattori: significativi
+cambiamenti nel contesto economico, legale e di business presenti nel periodo storico considerato;
+l’esistenza, assenza o prevalenza di tassi di default a un anno relativi a anni ‘negativi’ riflessi
+nell’andamento degli indicatori macroeconomici; la variabilità di tutti i tassi di default osservati ad
+un anno.
+Allo scopo di selezionare una serie storica di stima che rispecchi i suddetti requisiti, il GMPS ha
+effettuato alcune valutazioni su diversi aspetti. In particolare, sono stati presi in considerazione gli
+andamenti di due importanti indicatori macroeconomici, previsti tra l’altro nell’elenco fornito
+dall’EBA nella versione consultation draft del documento EBA01, ossia il tasso di crescita del PIL e
+il tasso di disoccupazione.
+Nei grafici seguenti si osserva che, dopo il picco del 2007, si ha una fase recessiva dalla fine del
+2008 fino alla metà del 2009; si osserva una leggera ripresa tra la seconda metà del 2009 e la
+metà del 2011; nella seconda metà del 2011 inizia una fase recessiva che dura fino al 2014; dal
+2015 si registra una dinamica leggermente crescente fino al 2017.
+Le evidenze riscontrate sono confermate anche dall’andamento del tasso di disoccupazione che
+presenta una crescita netta nei periodi fortemente recessivi e lievi cali nei periodi moderatamente
+espansivi.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                              7
+
+                          - Andamento del PIL e variazione percentuale -
+                          - Andamento del PIL e del tasso di disoccupazione –
+Per i modelli di erogazione Retail la base dati è disponibile a partire da giugno 2013 fino ad aprile
+2017, con performance osservata fino ad aprile 2018. In questo orizzonte temporale il 2013
+presenta un periodo recessivo, a cui segue un periodo espansivo.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                      8
+
+La presenza di una base dati più ridotta per le erogazioni Retail non si presenta critica in quanto è
+compreso un anno recessivo. Inoltre, data la particolarità del segmento, in cui le erogazioni
+avvengono su base giornaliera, i tassi di default sono stati costruiti andando ad osservare la
+performance delle erogazioni avvenute mensilmente un anno dopo.
+In sostanza, disponiamo di una serie storica formata da un totale di 47 mesi, dove, a partire dalle
+erogazioni di ciascun mese, siamo andati ad osservare il tasso di default ad un anno.
+Inoltre, a scopo di analisi, abbiamo inserito un anno di default prospettico. A conclusione
+dell’analisi, i cui dettagli sono riportati in appendice, è emerso che la rischiosità del portafoglio
+sostanzialmente non cambia, a fronte dell’aggravio di una maggiore laboriosità nella definizione
+della serie storica di stima e dell’anchor point di riferimento, inserendo un anno di default
+prospettico. Ne deriva che nella calibrazione si è preferito mantenere la serie storica osservata
+senza ulteriori elaborazioni. Come richiesto dalla normativa, si è indagata la presenza di variabilità
+dei tassi di default osservati. Come si può osservare dai grafici seguenti, il periodo che va dal 2013
+al 2017 presenta variabilità dei tassi osservati sui modelli PD oggetto della presente calibrazione.
+Di seguito riportiamo un’analisi della variabilità dei tassi di default osservati:
+                       - Andamento dei tassi di default modello COI prima erogazione–
+                                  MODELLO ANNOMESE                 TD
+                                  COI                 201306       0.00%
+                                  COI                 201307       1.01%
+                                  COI                 201308       1.15%
+                                  COI                 201309       1.27%
+                                  COI                 201310       0.88%
+                                  COI                 201311       1.39%
+                                  COI                 201312       1.75%
+                                  COI                 201401       1.85%
+                                  COI                 201402       1.63%
+                                  COI                 201403       2.56%
+                                  COI                 201404       1.17%
+                                  COI                 201405       3.01%
+                                  COI                 201406       1.54%
+                                  COI                 201407       2.08%
+                                  COI                 201408       1.12%
+                                  COI                 201409       2.33%
+                                  COI                 201410       2.29%
+                                  COI                 201411       1.94%
+                                  COI                 201412       1.86%
+                                  COI                 201501       2.03%
+                                  COI                 201502       1.98%
+                                  COI                 201503       3.62%
+                                  COI                 201504       2.40%
+                                  COI                 201505       2.37%
+                                  COI                 201506       1.69%
+                                  COI                 201507       1.39%
+                                  COI                 201508       1.41%
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                       9
+
+                           MODELLO ANNOMESE                 TD
+                           COI                 201509       1.05%
+                           COI                 201510       1.21%
+                           COI                 201511       1.38%
+                           COI                 201512       0.95%
+                           COI                 201601       1.08%
+                           COI                 201602       1.10%
+                           COI                 201603       1.01%
+                           COI                 201604       1.20%
+                           COI                 201605       1.22%
+                           COI                 201606       1.25%
+                           COI                 201607       1.82%
+                           COI                 201608       1.14%
+                           COI                 201609       0.61%
+                           COI                 201610       1.35%
+                           COI                 201611       1.10%
+                           COI                 201612       0.71%
+                           COI                 201701       0.81%
+                           COI                 201702       0.96%
+                           COI                 201703       0.75%
+                           COI                 201704       0.41%
+                - Andamento dei tassi di default modello SPF prima erogazione–
+                           MODELLO ANNOMESE                 TD
+                           SPF                 201306       0.00%
+                           SPF                 201307       1.48%
+                           SPF                 201308       1.71%
+                           SPF                 201309       2.02%
+                           SPF                 201310       1.83%
+                           SPF                 201311       1.78%
+                           SPF                 201312       3.16%
+                           SPF                 201401       2.62%
+                           SPF                 201402       2.61%
+                           SPF                 201403       2.82%
+                           SPF                 201404       2.49%
+                           SPF                 201405       2.94%
+                           SPF                 201406       3.21%
+                           SPF                 201407       3.48%
+                           SPF                 201408       3.08%
+                           SPF                 201409       3.80%
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                               10
+
+                        MODELLO ANNOMESE             TD
+                        SPF              201410      3.74%
+                        SPF              201411      4.47%
+                        SPF              201412      3.52%
+                        SPF              201501      3.87%
+                        SPF              201502      4.34%
+                        SPF              201503      5.51%
+                        SPF              201504      5.92%
+                        SPF              201505      4.69%
+                        SPF              201506      4.16%
+                        SPF              201507      3.37%
+                        SPF              201508      2.48%
+                        SPF              201509      2.51%
+                        SPF              201510      3.11%
+                        SPF              201511      2.69%
+                        SPF              201512      2.33%
+                        SPF              201601      1.71%
+                        SPF              201602      2.24%
+                        SPF              201603      2.74%
+                        SPF              201604      3.07%
+                        SPF              201605      2.19%
+                        SPF              201606      2.55%
+                        SPF              201607      2.68%
+                        SPF              201608      2.13%
+                        SPF              201609      2.26%
+                        SPF              201610      2.36%
+                        SPF              201611      2.04%
+                        SPF              201612      1.67%
+                        SPF              201701      1.84%
+                        SPF              201702      1.51%
+                        SPF              201703      1.67%
+                        SPF              201704      1.28%
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                           11
+
+                      - Andamento grafico dei tassi di default modelli Retail erogazione–
+                    - Sintesi della variabilità dei tassi di default modelli Retail erogazione –
+                                                                                 Dev St TD /
+                        Modello         Media dei TD           Dev St TD
+                                                                                  Media TD
+                           COI               1.46%               0.68%              46.40%
+                          SPF                2.76%               1.12%              40.46%
+Allo scopo di tener conto dei significativi cambiamenti nel contesto economico, legale e di business
+presenti nel periodo storico considerato, il GMPS ritiene che l’ingresso in produzione del nuovo
+processo di erogazione Retail nel 2013 segni il punto di partenza a partire dal quale è possibile
+definire la base dati di calibrazione per le erogazioni Retail.
+In considerazione delle suddette analisi, la popolazione di calibrazione è stata definita sulla
+massima finestra temporale disponibile, ossia sulla seguente serie storica:
+       <U+F0B7>    Erogazione Retail a partire da giugno 2013 fino ad aprile 2017 (con performance
+            osservata fino a aprile 2018).
+         5.       Perimetro di applicazione
+I segmenti inclusi nella popolazione che sono interessati dall’attività di calibrazione sono dettagliati
+di seguito, con indicazione dei principali driver di definizione (fatturato e anzianità di affidamento):
+                 - Segmenti interessati dalla calibrazione - modelli di erogazione Retail 2018 -
+                                                                      Anzianità di            EAD (mln €)
+          Segmento            Descrizione         Fatturato
+                                                                      affidamento             giugno 2018
+                                                      Non          Prime erogazioni e
+        Cointestazioni       Cointestazioni                                                      396.32
+                                                   rilevante     successive erogazioni
+       Singole Persone      Singole Persone           Non          Prime erogazioni e
+                                                                                                 458.77
+            Fisiche             Fisiche            rilevante     successive erogazioni
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                          12
+
+           5.1 Schema di applicazione dei modelli Retail di erogazione
+Riportiamo di seguito lo schema di applicazione dei modelli Retail di erogazione, e la loro
+intersezione con i modelli andamentali.
+Per la selezione della clientela in prima accettazione, e per le erogazioni successive alla prima, la
+banca MPS nel maggio 2011 ha ristimato i modelli di erogazione Retail (COI e SPF), messi in
+produzione nel 2013.
+All’atto dell’erogazione, per qualsiasi tipo di richiesta e indipendentemente dal momento in cui la
+richiesta viene effettuata (nuova clientela o clientela già affidata con qualsiasi anzianità di
+affidamento), la PD di controparte e il rating ufficiale di prima erogazione sono ottenuti con i modelli
+di rating di erogazione (cosiddetto Modulo Misuratore). Il passaggio al rating andamentale (rating
+ottenuto con i modelli statistici andamentali) avviene a partire dal 7° mese; per graduare il
+passaggio da rating di erogazione a rating andamentale è stata stimata una funzione di
+integrazione tra PD di erogazione e PD andamentale (cosiddetta funzione di smoothing), la quale
+viene attivata dal 3° al 6° mese. Il rating ufficiale viene quindi attribuito secondo le regole di seguito
+rappresentate:
+        <U+F0B7>    Fase 1: la classe di rating attribuita in erogazione rimane fissa per 2 mesi;
+        <U+F0B7>    Fase 2: dal 3° mese fino al 6° la funzione di smoothing permette il passaggio graduale
+             all’andamentale e determina la sostituzione in caso di scostamenti dalla classe di rating
+             di partenza;
+        <U+F0B7>    Fase 3: dal 7° mese la PD statistica sarà solamente andamentale.
+La funzione di smoothing della fase 2 è stata costruita seguendo una logica time varying: il peso
+della PD andamentale deve crescere al crescere dell’anzianità dell’application fino a determinare
+pienamente la PD della controparte dal 7° mese in poi.
+Quindi, per i soggetti Retail con più di 6 mesi di affidamento (e attraverso una funzione di
+                                                                              3
+smoothing dal 2° al 6° mese) sono applicati i seguenti modelli :
+        <U+F0B7>    MODELLO SPF relativo a controparti Singole Persone Fisiche (SPF);
+        <U+F0B7>    MODELLO COI (Cointestazioni).
+        <U+F0B7>    Pool 1: non utilizzatori;
+        <U+F0B7>    Pool 2: utilizzatori in assenza di fido;
+        <U+F0B7>    Pool 3: posizioni con sconfinamento e accordato>0 (anzianità di esposizione >=3 mesi) e
+             durata sconfinamento>30 giorni.
+           6.       Popolazione di calibrazione
+La popolazione di riferimento per l’attività di calibrazione dei modelli di erogazione Retail è
+rappresentata da ogni tipologia di erogazione Retail, a prescindere dal momento in cui la richiesta
+viene effettuata. Pertanto in essa sono comprese:
+        <U+F0B7>    erogazioni a nuova clientela;
+        <U+F0B7>    erogazioni a clientela già affidata a livello di Gruppo (in caso di clientela già affidata, i
+             modelli tengono conto della rischiosità della controparte utilizzando come variabile la PD
+             dei modelli andamentali);
+        <U+F0B7>    le posizione a cui è stata concessa una forbearance non sono state considerate nella
+             popolazione di calibrazione dal momento che allo scopo di trattare in modo prudenziale
+3
+  Per la stima e la calibrazione dei modelli Retail andamentali si può far riferimento al documento ‘20180530 Documento
+  calibrazione modelli PD corporate e retail_v2’.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                        13
+
+             queste posizioni, che esprimono una più alta specifica rischiosità, verrà loro attribuito un
+             floor sulla PD post calibrazione (MOC forborne).
+La popolazione di calibrazione è stata costruita in modo da essere allineata alla popolazione di
+applicazione dei modelli applicando i seguenti criteri di selezione:
+        1. sono state considerate le istruttorie processate e archiviate attraverso la PEF (pratica
+             elettronica di fido) – Retail di Banca MPS nel periodo giugno 2013 – aprile 2017;
+        2. al fine di considerare le sole controparti significative da un punto di vista del rischio, sono
+             state selezionate le sole istruttorie deliberate;
+        3. sono state selezionate le posizioni appartenenti ai modelli Cointestazioni e Singole
+             Persone Fisiche.
+In considerazione del numero di pratiche processate e archiviate attraverso la PEF Retail è stato
+possibile costruire un campione sufficientemente ampio per ricalibrare il modello stesso.
+In sintesi, la popolazione di riferimento del modello di prima erogazione Retail è rappresentata da
+tutte le istruttorie Retail (Cointestazioni e Singole Persone Fisiche), processate e deliberate nei
+sistemi interni del Credito, ovvero attraverso la PEF – Retail. In particolare:
+        <U+F0B7>    la popolazione relativa ad un periodo di riferimento t0 è data da tutte le istruttorie in bonis
+             e deliberate al tempo t0;
+        <U+F0B7>    la popolazione complessiva è data dall’unione delle popolazioni relative ai periodi di
+             riferimento della serie storica considerata.
+          7.        Dati di input
+          7.1 Preparazione dei dati
+I dati utilizzati per la costruzione della popolazione di calibrazione sono forniti dalla funzione IT del
+GMPS (COG Consorzio Operativo di Gruppo) e sono storicizzati nel DWHC, negli schema di
+produzione CRRMG (di Gruppo) e di singola banca: CRRMG_1030, CRRMG_10643,
+                                                            4
+CRRMG_3210, CRRMG_3442, CRRMG_5040 . Tali ambienti hanno elevati standard di sicurezza:
+soltanto le applicazioni IT possono scrivere e modificare le tabelle presenti nei suddetti schema, gli
+altri utenti possono avere solo accesso in lettura.
+In particolare, per l’attività di calibrazione sono state utilizzate le seguenti tabelle dello schema
+CRRMG:
+        <U+F0B7>    RY3790E_H_OUT che raccoglie le informazioni di input/output relative al motore di
+             calcolo del rating. In questa tabella sono presenti le variabili passate in input e i valori
+             delle stesse in output dopo l’applicazione della griglia;
+        <U+F0B7>    GA9340V_IND_DEFAULT_EAD in cui troviamo lo stato mensile (bonis/default) delle
+             controparti;
+        <U+F0B7>    GA9521V_ACC_UTI_EAD che contiene le esposizioni mensili delle controparti;
+        <U+F0B7>    GA9615E_RATING_MENS e FY5905E_RATING_MENS che contengono il rating
+             mensile di ciascuna controparte (rispettivamente fino a ottobre 2017 e a partire da
+             novembre 2017).
+Dallo schema CRRMG_1030 si prendono le tabelle:
+4
+  I numeri presenti negli schema rappresentano i codici ABI delle Banche appartenenti al GMPS: 1030 per Banca MPS,
+  10643 per Banca CS, 3210 per Banca LF, 3442 per Widiba, 5040 per Banca Antonveneta (incorporata nel GMPS nel
+  2013). Le informazioni ivi contenute sono specifiche della clientela afferente alla relativa Banca del Gruppo.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                   14
+
+       <U+F0B7>   GA2074E_ISTRUTTORIA_PEF che contiene le informazioni sulle istruttorie processate
+           in PEF, nello specifico la tipologia di PEF e lo stato di avanzamento/fase di lavorazione
+           (es. verifica preliminare, in lavorazione, deliberata/ chiusa/ interrotta ecc.);
+       <U+F0B7>   GA2075E_PROPOSTA_PROP in cui troviamo le informazioni relative alla proposta,
+           quali ad esempio la data di delibera e l’importo deliberato;
+       <U+F0B7>   GA2076E_FIDI che contiene le informazioni sul fido deliberato in base al numero
+           istruttoria;
+       <U+F0B7>   GA0350E_PERDITE_NOKZ e GA0350E_PERDITE_DAY che raccolgono le informazioni
+           sugli stralci effettuati su posizioni non in Sofferenza;
+       <U+F0B7>   FY2001E_KZ_CLIENTI che contiene informazioni di carattere anagrafico della clientela
+           in Sofferenza;
+       <U+F0B7>   FY3008E_KZ_CAPITALE che contiene informazioni sul capitale associato alle pratiche
+           in Sofferenza.
+Dallo schema CRRMG_10643 si prendono le tabelle:
+       <U+F0B7>   FY2001E_KZ_CLIENTI che contiene informazioni di carattere anagrafico della clientela
+           in Sofferenza;
+       <U+F0B7>   FY3008E_KZ_CAPITALE che contiene informazioni sul capitale associato alle pratiche
+           in Sofferenza.
+Dallo schema CRRMG_3210 si prendono le tabelle:
+       <U+F0B7>   FY2001E_KZ_CLIENTI che contiene informazioni di carattere anagrafico della clientela
+           in Sofferenza;
+       <U+F0B7>   FY3008E_KZ_CAPITALE che contiene informazioni sul capitale associato alle pratiche
+           in Sofferenza.
+Dallo schema CRRMG_3442 si prendono le tabelle:
+       <U+F0B7>   FY2001E_KZ_CLIENTI che contiene informazioni di carattere anagrafico della clientela
+           in Sofferenza;
+       <U+F0B7>   FY3008E_KZ_CAPITALE che contiene informazioni sul capitale associato alle pratiche
+           in Sofferenza.
+Dallo schema CRRMG_5040 si prendono le tabelle:
+       <U+F0B7>   GA0350E_PERDITE_NOKZ e GA0350E_PERDITE_DAY che raccolgono le informazioni
+           sugli stralci effettuati su posizioni non in Sofferenza.
+Di seguito riportiamo lo schema logico di accesso alle tabelle:
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                     15
+
+In maggior dettaglio:
+      Step     Descrizione
+      1        Si individuano le istruttorie Retail (campo CD_TIPO_PEF = 8, percorso
+               Retail) e si definiscono le date di inizio e fine istruttoria.
+      2        Alle istruttorie si agganciano le informazioni sulle chiamate al motore di
+               erogazione avvenute tra la data inizio e la data fine istruttoria. Tali chiamate
+               successive sono contrassegnate da numeri progressivi diversi (campo
+               PG_CH_PROC_RAT). Si recuperano inoltre le informazioni sulle variabili di
+               input/output relative al motore di calcolo del rating.
+      3        Definita la popolazione di partenza, si agganciano le informazioni
+               sull’eventuale delibera e sulla presenza di operazioni di ristrutturazione
+               (moratorie e/o piani di rientro). Si crea quindi il flag FG_DELIBERA, il quale
+               esprime        la      presenza        della      posizione    nella      tabella
+               GA2075E_PROPOSTA_PROP e non necessariamente indica che la
+               posizione è deliberata. Viene inoltre creato il flag FG_FIDO_RADIATO, il
+               quale intercetta i fidi radiati, ossia operazioni che non si sono concretizzate
+               in una vera delibera; il flag è valorizzato con 1 se l’importo deliberato risulta
+               missing o uguale a 0, 0 altrimenti.
+      4        Per ciascuna istruttoria si recuperano varie informazioni: il modello di score,
+               la verifica di un tempo di osservazione sufficiente (>= 12 mesi) per la
+               definizione della performance ad un anno, lo stato di bonis/default al tempo
+               0 e l’eventuale ingresso a default nei 12 mesi di osservazione. Si
+               recuperano inoltre le informazioni sul rating andamentale un mese
+               precedente alla data di erogazione, alla data di erogazione e dopo 6 e 12
+               mesi. Infine, si agganciano l’accordato e l’utilizzo sia al mese precedente
+               l’erogazione, sia 6 mesi dopo l’erogazione.
+               Si precisa che le informazioni sullo stato di bonis/default alle varie date
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                 16
+
+          Step    Descrizione
+                  vengono prese dalla tabella GA9340V_IND_DEFAULT_EAD, dopo essere
+                  stata trattata, attraverso l’utilizzo delle tabelle FY2001E_KZ_CLIENTI,
+                  FY3008E_KZ_CAPITALE,                           GA0350E_PERDITE_NOKZ                            e
+                  GA0350E_PERDITE_DAY, per correggere il disallineamento tra lo stato
+                  amministrativo e lo stato di default di mutui cartolarizzati.
+          5       Vengono filtrate le istruttorie che soddisfano le seguenti condizioni:
+                      - aventi modello COI oppure SPF;
+                      - non riguardanti operazioni di forborne;
+                      - deliberate, ossia con FG_DELIBERA = 1 e FG_FIDO_RADIATO = 0;
+                      - in bonis alla data di erogazione;
+                      - aventi un tempo sufficiente di osservazione della performance (>= 12
+                         mesi);
+                      - tra tutte le chiamate al motore decisionale avvenute all’interno della
+                         stessa istruttoria, eseguite in generale per perfezionare l’istruttoria,
+                         viene selezionata la chiamata con numero progressivo massimo tra
+                         quelle aventi score di erogazione valorizzato, la quale rappresenta
+                         l’istruttoria finale.
+                  Per le istruttorie che fanno riferimento ad uno stesso NGR, si calcola la
+          6
+                  differenza in mesi tra le date di inizio istruttoria tra una istruttoria e la
+                  successiva e, in caso di istruttorie distanti meno di 12 mesi, si prende
+                  l’ultima.
+Le suddette elaborazioni sono eseguite in un ambiente di lavoro (schema RM_WORK) e,
+successivamente alla condivisione con le funzioni di controllo della Banca (funzione di Convalida e
+Internal Audit), le tabelle vengono cristallizzate in uno schema di produzione (schema ISPBK) al
+quale gli utenti possono avere solo accesso in lettura.
+           8.       Forborne
+Nella presente calibrazione, in analogia a quanto fatto per la calibrazione dei modelli andamentali
+Corporate e Retail, è stato deciso a scopi prudenziali di inserire un MOC (margin of conservatism)
+specifico, per il trattamento delle posizioni forborne. Le motivazioni a supporto di tale scelta sono
+essenzialmente le seguenti:
+        1. La necessità di tener conto della maggiore rischiosità delle posizioni attuali e
+             prospettiche a forborne attraverso l’introduzione di un MOC esplicito, così come previsto
+             dalla normativa. A questo ultimo proposito evidenziamo, infatti, che l’EBA01, nel
+             disciplinare i MOC, fa esplicito riferimento alle variazioni dei processi interni come MOC
+             ascrivibile alla categoria B.
+        2. La variazione nel contesto normativo interno del GMPS. Nel I semestre 2015 è stato
+             pubblicato il documento normativo interno “1030D01991 Policy di Gruppo in materia di
+                                                                   5
+             classificazione e valutazione del credito” , che prevede una maggior severità nella
+             detection del default stesso e nella classificazione delle esposizioni forborne.
+L’approccio, in sostanza, prevede di intercettare la maggiore rischiosità delle posizioni a forborne,
+tenendo conto anche del nuovo processo di classificazione dei crediti a forborne, implementato nel
+GMPS a novembre 2015, che consente una più puntuale classificazione delle posizioni con crediti
+a forborne. La metodologia prevede l’introduzione di un MOC (MOC_FORBORNE), attraverso la
+definizione di un floor da applicare post calibrazione alla PD sulle posizioni che presentano un
+credito a forborne, pari al tasso di default storico osservato su queste posizioni.
+5
+  Conformemente alle attuali disposizioni di Vigilanza:’7° aggiornamento della Circolare 272’ di Banca d’Italia sulla qualità
+del credito.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                              17
+
+Per quanto sopra, con il nuovo approccio, si risolve la criticità sulla rappresentatività della
+popolazione di calibrazione segnalata nell’‘Obligation n.5’ segnalata dalla BCE nell’ispezione IMI40
+2015.
+In maggior dettaglio, partendo dall’intera popolazione di calibrazione dei modelli andamentali
+Retail:
+         <U+F0B7>    Si individuano le posizioni classificate come forborne nel DWH del GMPS, nei segmenti
+              COI ed SPF, sulle sole coorti 2016 e 2017 (da quando in sostanza è operativa la nuova
+              classificazione a forborne);
+         <U+F0B7>    Per ciascun segmento si determinano i tassi di default annuali dei soli forborne;
+         <U+F0B7>    Si calcola la media semplice dei tassi di default sulle due corti considerate e si mappa
+              tale valore sulla Master scale del gruppo MPS;
+         <U+F0B7>    Il valore ottenuto è il floor che deve essere applicato in produzione ai soggetti classificati
+              come forborne, i quali non potranno dunque avere, post calibrazione, una PD migliore
+              rispetto al valore soglia così individuato. Tale floor si applica prudenzialmente anche alle
+              erogazioni Retail.
+Si riportano di seguito i tassi di default per segmento dei forborne e il floor individuato.
+                                    - Processo individuazione MOC_FORBORNE -
+    Segmento               Data             Bonis          Default             TD            Media TD            Floor
+                           2016             4 669           1 001            17.65%
+        COI                                                                                   15.09%           16.03%
+                           2017             4 048            580             12.53%
+                           2016             3 372            769             18.57%
+        SPF                                                                                   16.36%           16.03%
+                           2017             3 749            618             14.15%
+                             - Processo individuazione MOC_FORBORNE - Pool Retail -
+     Segmento                    Data                 Bonis          Default          TD        Media TD          Floor
+  RE_POOL1 acc                   2016                   0               0           0.00%
+                                                                                                 0.00%           0.13%
+     no uti 24m                  2017                   0               0           0.00%
+RE_POOL2 <=30                    2016                  102              9           8.11%
+                                                                                                 6.59%           6.31%
+       <=500                     2017                  356              19          5.07%
+RE_POOL2 <=30                    2016                   81              8           8.99%
+                                                                                                 12.21%         16.03%
+        >500                     2017                  115              21         15.44%
+RE_POOL2 <=60                    2016                   6               2          25.00%
+                                                                                                 17.05%         16.03%
+       <=500                     2017                   10              1           9.09%
+RE_POOL2 <=60                    2016                   12              3          20.00%                                 6
+                                                                                                 17.14%         22.12%
+        >500                     2017                   12              2          14.29%
+  RE_POOL2 >60                   2016                   20              12         37.50%
+                                                                                                 37.83%         31.63%
+       <=500                     2017                   47              29         38.16%
+  RE_POOL2 >60                   2016                   31              36         53.73%
+                                                                                                 51.43%         45.00%
+        >500                     2017                   29              28         49.12%
+  RE_POOL3 >60                   2016                   67              72         51.80%
+                                                                                                 43.51%         45.00%
+       <=102                     2017                   57              31         35.23%
+  RE_POOL3 >60                   2016                  141             387         73.30%
+                                                                                                 68.75%         45.00%
+        >102                     2017                   68             122         64.21%
+6
+  Nel caso del pool RE_POOL2 <=60 >500 la PD forborne è inferiore rispetto alla PD attribuita al pool totale, quindi tutte le
+   posizioni appartenenti a questo pool prenderanno la peggiore fra le due PD pari a 22.12%.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                              18
+
+        9.       Determinazione Anchor Point
+Per i modelli di erogazione Retail, la base dati è disponibile a partire da giugno 2013 fino ad aprile
+2017 con performance osservata fino ad aprile 2018.
+La determinazione degli Anchor Point (AP) è stata effettuata a partire dai TD rilevati sulla
+popolazione di calibrazione. Gli AP sono stati costruiti andando ad osservare la performance delle
+erogazioni avvenute mensilmente su un orizzonte di un anno e prendendo la media semplice di tali
+TD annuali.
+Di seguito riportiamo la numerosità e il dettaglio del numero di bonis e default per ciascun mese
+della base dati di calibrazione:
+                     - Tassi di default annuali rilevati su base mensile – modello COI –
+                                                             numero     numero
+                 MODELLO ANNOMESE                totale                               TD
+                                                              good         bad
+                 COI                201306              44         44           0     0.00%
+                 COI                201307            793         785           8     1.01%
+                 COI                201308            873         863          10     1.15%
+                 COI                201309            629         621           8     1.27%
+                 COI                201310            904         896           8     0.88%
+                 COI                201311          1155         1139          16     1.39%
+                 COI                201312            971         954          17     1.75%
+                 COI                201401            867         851          16     1.85%
+                 COI                201402            984         968          16     1.63%
+                 COI                201403          1014          988          26     2.56%
+                 COI                201404            942         931          11     1.17%
+                 COI                201405            996         966          30     3.01%
+                 COI                201406          1101         1084          17     1.54%
+                 COI                201407          1010          989          21     2.08%
+                 COI                201408          1157         1144          13     1.12%
+                 COI                201409            688         672          16     2.33%
+                 COI                201410          1137         1111          26     2.29%
+                 COI                201411          1389         1362          27     1.94%
+                 COI                201412          1127         1106          21     1.86%
+                 COI                201501          1135         1112          23     2.03%
+                 COI                201502          1265         1240          25     1.98%
+                 COI                201503          1573         1516          57     3.62%
+                 COI                201504          1669         1629          40     2.40%
+                 COI                201505          1479         1444          35     2.37%
+                 COI                201506          1599         1572          27     1.69%
+                 COI                201507          1584         1562          22     1.39%
+                 COI                201508          1707         1683          24     1.41%
+                 COI                201509          1145         1133          12     1.05%
+                 COI                201510          1737         1716          21     1.21%
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                       19
+
+                                                       numero     numero
+           MODELLO ANNOMESE                totale                               TD
+                                                         good        bad
+           COI                201511           1878        1852          26     1.38%
+           COI                201512           1686        1670          16     0.95%
+           COI                201601           1581        1564          17     1.08%
+           COI                201602           1728        1709          19     1.10%
+           COI                201603           1879        1860          19     1.01%
+           COI                201604           2086        2061          25     1.20%
+           COI                201605           1969        1945          24     1.22%
+           COI                201606           2391        2361          30     1.25%
+           COI                201607           2524        2478          46     1.82%
+           COI                201608           2191        2166          25     1.14%
+           COI                201609           1799        1788          11     0.61%
+           COI                201610           2441        2408          33     1.35%
+           COI                201611           2363        2337          26     1.10%
+           COI                201612           2254        2238          16     0.71%
+           COI                201701           1987        1971          16     0.81%
+           COI                201702           2391        2368          23     0.96%
+           COI                201703           2389        2371          18     0.75%
+           COI                201704           2699        2688          11     0.41%
+           totale                            70910        69916        994      1.40%
+               - Tassi di default annuali rilevati su base mensile – modello SPF –
+                                                       numero     numero
+           MODELLO ANNOMESE                totale                               TD
+                                                         good        bad
+           SPF                201306              66         66           0     0.00%
+           SPF                201307           1893        1865          28     1.48%
+           SPF                201308           2044        2009          35     1.71%
+           SPF                201309           1784        1748          36     2.02%
+           SPF                201310           2183        2143          40     1.83%
+           SPF                201311           2924        2872          52     1.78%
+           SPF                201312           2692        2607          85     3.16%
+           SPF                201401           2443        2379          64     2.62%
+           SPF                201402           2717        2646          71     2.61%
+           SPF                201403           2730        2653          77     2.82%
+           SPF                201404           3053        2977          76     2.49%
+           SPF                201405           2754        2673          81     2.94%
+           SPF                201406           2961        2866          95     3.21%
+           SPF                201407           2698        2604          94     3.48%
+           SPF                201408           3088        2993          95     3.08%
+           SPF                201409           2077        1998          79     3.80%
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                      20
+
+                                                        numero      numero
+                 MODELLO ANNOMESE            totale                              TD
+                                                         good         bad
+                 SPF              201410        3206       3086         120      3.74%
+                 SPF              201411        3803       3633         170      4.47%
+                 SPF              201412        3071       2963         108      3.52%
+                 SPF              201501        2865       2754         111      3.87%
+                 SPF              201502        3042       2910         132      4.34%
+                 SPF              201503        4010       3789         221      5.51%
+                 SPF              201504        3938       3705         233      5.92%
+                 SPF              201505        3368       3210         158      4.69%
+                 SPF              201506        3607       3457         150      4.16%
+                 SPF              201507        3385       3271         114      3.37%
+                 SPF              201508        3514       3427           87     2.48%
+                 SPF              201509        2390       2330           60     2.51%
+                 SPF              201510        3441       3334         107      3.11%
+                 SPF              201511        3643       3545           98     2.69%
+                 SPF              201512        3392       3313           79     2.33%
+                 SPF              201601        3044       2992           52     1.71%
+                 SPF              201602        3129       3059           70     2.24%
+                 SPF              201603        3685       3584         101      2.74%
+                 SPF              201604        4173       4045         128      3.07%
+                 SPF              201605        3840       3756           84     2.19%
+                 SPF              201606        4431       4318         113      2.55%
+                 SPF              201607        4808       4679         129      2.68%
+                 SPF              201608        3850       3768           82     2.13%
+                 SPF              201609        3412       3335           77     2.26%
+                 SPF              201610        4788       4675         113      2.36%
+                 SPF              201611        4405       4315           90     2.04%
+                 SPF              201612        4850       4769           81     1.67%
+                 SPF              201701        3745       3676           69     1.84%
+                 SPF              201702        4494       4426           68     1.51%
+                 SPF              201703        4616       4539           77     1.67%
+                 SPF              201704        5614       5542           72     1.28%
+                 totale                      155666      151304        4362      2.80%
+Si evidenzia che il TD rilevato per il primo mese della base dati, giugno 2013, è stato escluso dal
+calcolo degli AP per scarsa numerosità di istruttorie e per assenza di default (scelta prudenziale).
+Alla determinazione degli AP, pertanto, concorrono tutte le posizioni contenute nella popolazione di
+calibrazione, tranne quelle relative al primo mese della serie storica, giugno 2013, dove non sono
+presenti default.
+Nella tabella successiva si riporta il confronto tra i valori degli AP calcolati considerando il primo
+mese della serie storica (giugno 2013) e gli stessi calcolati escludendo tale primo mese:
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                       21
+
+         - Raffronto tra AP calcolati considerando oppure escludendo il primo mese della serie storica -
+                                            AP calcolato               AP calcolato
+                         Modello       considerando il primo        escludendo il primo
+                                        mese (giugno 2013)           mese (giugno 2013)
+                          COI                  1.46%                       1.50%
+                          SPF                  2.76%                       2.82%
+Come si può osservare, la scelta di escludere il primo mese dal calcolo degli AP risulta prudenziale
+per entrambi i modelli di erogazione Retail.
+Nella tabella seguente si raffrontano gli AP attualmente in produzione e i nuovi AP su cui tarare i
+modelli di erogazione Retail:
+                                               - Anchor Point 2018 -
+                                 Modello          AP attuale      Nuovo AP 2018
+                                    COI             0.60%              1.50%
+                                    SPF             1.16%              2.82%
+L’utilizzo del past due 90 gg nella calibrazione dei modelli erogazioni retail risolve di fatto il finding
+n. 7 TRIM IMI (2017-2018), comunicato al GMPS da parte dell’autorità di vigilanza (cfr. Par. 1).
+          10.      Stima della funzione di calibrazione
+L’attività di calibrazione di fatto prevede un nuovo tasso di default (AP) che rappresenta la nuova
+PD media che dovrà essere prevista dal modello. L’attività di calibrazione pertanto non può
+prescindere “dall’aggiustare” i parametri alfa e beta della funzione di calibrazione attualmente
+presente in produzione, così da consentire il calcolo di tale ultimo valore di AP in luogo del
+precedente. Il TD presente nella popolazione di calibrazione deve essere cioè aggiustato per
+tenere conto del tasso di default obiettivo prefissato (AP).
+A tale scopo, il Gruppo MPS ha individuato una metodologia per realizzare quanto sopra
+osservato, basata sostanzialmente sull’utilizzo di una funzione “di calibrazione”, il cui output finale
+consiste in un valore di intercetta e di slope da applicare all’algoritmo di scoring. Gli step operativi
+possono essere rappresentati nel modo seguente:
+        1. recupero dello score per le posizioni presenti nella popolazione di calibrazione;
+        2. costruzione dei pesi da utilizzare per riponderare la rischiosità dei singoli modelli a quella
+            espressa dall’AP. I pesi W sono stati calcolati, per ciascuna controparte, nel modo
+            seguente:
+              <U+F0B7>   per i clienti a default (Bad), il peso è posto pari al rapporto tra l’AP e il
+                  TD osservato sulla popolazione di riferimento:
+                                                        W bad=AP/tDEF
+              <U+F0B7>   per i clienti in bonis (Good), il peso è pari al rapporto tra il complemento
+                  a 1 dell’AP e il complemento a 1 del TD osservato sulla popolazione di
+                  riferimento:
+                                                        W good=(1-AP)/(1-tDEF)
+            dove AP è l’Anchor Point del modello e tDEF (il tasso di default osservato sulla
+            popolazione di calibrazione).
+            L’AP non necessariamente coincide con il tasso di default osservato nella popolazione di
+            calibrazione, infatti il tasso di default osservato sulla popolazione di calibrazione
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                           22
+
+              considera solo le posizioni su cui è effettivamente presente lo score, la variabile
+              indipendente. Inoltre, il tasso di default osservato sull’intera popolazione di calibrazione è
+              definito a livello complessivo, considerando la totalità delle posizioni in bonis e default
+              presenti nella serie storica considerata. A questo va aggiunta la considerazione che nella
+              definizione dell’AP si possono tener conto, per motivi prudenziali, di specifici ulteriori
+              elementi nella definizione/dimensione del tasso di default di riferimento, allo scopo di
+              garantire che le condizioni economiche e di mercato su cui si basano i dati siano
+              coerenti con la situazione economica attuale e prospettica (ad esempio, inserimento di
+              tassi di default prospettici, introduzione di una maggiore rischiosità delle posizioni che
+              presentano particolari profili di rischio, ecc).
+              L’attività di calibrazione di fatto prevede un nuovo tasso di default (AP) che rappresenta
+              la nuova PD media che dovrà essere prevista dal modello.
+         3. impiego della regressione logistica ponderata (con peso W), utilizzando come variabile
+              dipendente il flag bonis/default e come variabile indipendente lo score, definito al passo
+              1, ottenendo come output i parametri di ricalibrazione. La regressione logistica
+              ponderata, mediante l’impiego dei pesi W, assicura che la PD media eguagli il tasso
+              obiettivo della calibrazione (Anchor Point). Di seguito la formula della funzione logistica:
+                                        PD=1/(1+exp(-a-ß*Score_integrato)).
+              In continuità con la metodologia adottata in sede di stima dei modelli di erogazione Retail
+              (2013), la funzione di calibrazione è stata determinata intervenendo solo sull’intercetta,
+              ossia traslando la funzione logistica in modo da ottenere una PD media stimata pari al
+              tasso obiettivo. Pertanto, nel caso dei modelli oggetto di calibrazione si avrà ß = 1.
+Applicando la metodologia descritta:
+         -    si determinano i pesi sulla base dell’AP e del TD implicito nella popolazione di
+              calibrazione:
+                                                  - Costruzione dei pesi -
+                                                                  7
+                 Segmento         Anchor Point                TD                 W_bad             W_good
+                     COI               1.50%                 1.40%            0.99904448         1.06720905
+                     SPF               2.82%                 2.80%            0.99982569         1.00604630
+         -    si ottengono i nuovi coefficienti a e ß (quest’ultimo sempre pari a 1) che riportiamo di
+              seguito: - Parametri di calibrazione -
+                            Segmento            Anchor Point                  a              ß
+                                COI                 1.50%               -5.33686253           1
+                                SPF                 2.82%               -3.79049619           1
+I parametri di calibrazione sono risultati tutti significativi. La tabella seguente riporta i p-value
+dell’alfa per ciascun modello:
+                                           - P-value coefficienti di calibrazione-
+                                                 Segmento                a
+                                                    COI              <0.001%
+                                                    SPF              <0.001%
+7
+  Il TD osservato sulla popolazione di calibrazione differisce dall’anchor point dal momento che l’AP è calcolato come media
+   semplice dei tassi di default osservati mentre il TD corrisponde al tasso di default osservato sull’intera popolazione
+   (bad/totale).
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                             23
+
+I parametri di calibrazione sono pertanto risultati tutti significativi.
+          11.       Risultati ed evidenze
+Nei successivi paragrafi vengono riportate le analisi effettuate per testare la bontà delle calibrazioni
+dei modelli COI e SPF.
+          11.1 Matrici di migrazione
+Per testare la stabilità dei modelli di erogazione Retail sono state costruite le matrici di migrazione
+tra le PD attualmente in produzione e le PD derivanti dalla nuova calibrazione, applicate all’intera
+popolazione di calibrazione.
+I risultati di sintesi sulle matrici di migrazione PD di produzione vs. PD ricalibrata riportati di seguito
+mostrano come la ricalibrazione non abbia rappresentato una variazione significativa al sistema di
+rating, infatti tutte le migrazioni rimangono entro le 2 classi:
+                                      - Sintesi risultati matrici di migrazione –
+                                                                 PD Statistica per teste
+                                                                     COI           SPF
+                                   Migliore oltre 2                  0%            0%
+                                      Migliore + 2                   0%            0%
+                                      Migliore + 1                   60%           0%
+                                        Invariato                    40%           0%
+                                     Peggiore - 1                    0%            47%
+                                     Peggiore - 2                    0%            53%
+                                   Peggiore oltre 2                  0%            0%
+                             Migrazione entro 1 classe              100%           47%
+                              Migrazione entro 2 classi             100%          100%
+In particolare. si osserva un miglioramento delle PD delle COI, sebbene gli AP siano peggiorati.
+Tale miglioramento è ascrivibile a un avvicinamento delle pd al tasso di default di lungo periodo
+osservato (AP). In sostanza, la nuova calibrazione ha ricondotto il livello della PD media, sia sulle
+COI sia sulle SPF, ad un livello più congruente rispetto ai tassi di default di lungo periodo osservati.
+La pd attualmente in produzione sul segmento COI era in sostanza troppo elevata rispetto alla
+rischiosità effettiva osservata.
+          11.2 Test Binomiali
+Di seguito si riportano gli esiti dei test binomiali eseguiti utilizzando le nuove PD ricalibrate: PD up
+è il limite superiore dell’intervallo di confidenza e PD down è il limite inferiore; in rosso sono
+evidenziati gli esiti negativi del test (tasso di default superiore o inferiore ai limiti), in giallo i casi in
+cui il tasso di default risulta anche al di fuori dei limiti di classe previsti dalla Master Scale del
+GMPS.
+I risultati dei test mostrano per entrambi i modelli di erogazione Retail un numero esiguo di esiti
+negativi, concentrati nelle classi di rating della fascia C, in cui il TD osservato è superiore rispetto al
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                24
+
+limite di classe (cfr. colonna PD up), e allo stesso tempo una diminuzione dei tassi di default per le
+restanti classi delle fasce A, B, D ed E, in cui il binomiale fallisce per via di tassi di default al di
+sotto dell’intervallo di confidenza (cfr. colonna PD down).
+Dal punto di vista prudenziale si osserva comunque che il livello di scostamento tra PD e TD per le
+classi in cui la PD è inferiore al TD è molto ridotto (quasi sempre inferiore al 10%).
+                         - Risultati dei test binomiali sulla popolazione di calibrazione –
+                                                        COI                                    SPF
+ Ratin                                           Def                    PD                Def                 PD
+            PD     Min       Max        N                  PD up                  N               PD up
+   g                                             Rate                 down                Rate              down
+   A1     0.13% 0.11%      0.16%        11      0.10%      0.21%      0.05%
+   A2     0.20% 0.16%      0.24%      8472
+                                        784     0.22%      0.31%      0.09%      459     0.00%    0.69%     0.00%
+   A3     0.30% 0.24%      0.37%      9 604     0.28%      0.43%      0.17%     3 648    0.08%    0.51%     0.09%
+   B1     0.46% 0.37%      0.56%      8 280     0.37%      0.63%      0.29%     9 817    0.17%    0.62%     0.30%
+   B2     0.69% 0.56%      0.85%      7 094     0.76%      0.92%      0.46%     19 387   0.40%    0.83%     0.55%
+   B3     1.05% 0.85%      1.29%      5 327     0.99%      1.37%      0.73%     24 001   0.70%    1.20%     0.90%
+   C1     1.59% 1.29%      1.96%      5 718     2.50%      1.97%      1.21%     27 254   2.07%    1.77%     1.41%
+   C2     2.42% 1.96%      2.98%      5 160     2.60%      2.92%      1.92%     26 828   3.93%    2.64%     2.20%
+   C3     3.99% 2.98%      4.53%      3 768     4.35%      4.73%      3.25%     20 612   4.46%    4.31%     3.67%
+   D1     6.31% 4.53%      6.87%      3 061     4.54%      7.33%      5.29%     11 909   5.31%    6.83%     5.79%
+   D2     9.95% 6.87%       10.43     1 547     7.95%      11.72      8.18%     6 206    6.30%     10.83    9.07%
+   D3     16.03 10.43         %
+                            17.74      735      7.48%        %
+                                                           19.18     12.88%     3 978    8.55%      %
+                                                                                                   17.38   14.68%
+   E1       %
+          22.12     %
+                  17.74       %
+                            27.32      280     11.07%        %
+                                                           27.89     16.35%     1 184   12.25%      %
+                                                                                                   24.93   19.31%
+   E2       %
+          31.63     %
+                  27.32       %
+                            42.07       72     12.50%        %
+                                                           44.38     18.88%      350    12.86%      %
+                                                                                                   37.41   25.85%
+   E3       %
+          45.00     %
+                  42.07       %
+                            100%         8      0.00%        %
+                                                           85.92      4.08%       33    12.12%      %
+                                                                                                   65.15   24.85%
+            % Totale%                   70      1.40%        %1          6       155     2.80%      %3        10
+                                       910                                       666
+          11.3 Applicazione PD
+Per verificare l’impatto della calibrazione, i nuovi parametri sono stati applicati a giugno 2018 e
+sono state determinate le nuove PD regolamentari calcolate a partire dalla nuova PD statistica. La
+tabella seguente riporta gli impatti in termini di RWA prodotti dalla sola calibrazione della PD.
+                                       - Impatti della calibrazione sull’RWA –
+                                                                                             Dati osservati sulla
+                                            Dati al 30 giugno 2018
+                                                                                             pop di calibrazione
+                     RWA (mln                                   DELTA                        Anchor
+     MODELLO                         RWA_NEW (mln €)                         PD    PDNEW                    TD
+                         €)                                      RWA                          Point
+         COI           64.80                 56.29               -8.52     2.40%    1.75%     1.50%       1.40%
+         SPF           73.25                104.02               30.77     1.40%    2.73%     2.82%       2.80%
+La tabella mostra come l’applicazione delle nuove PD ricalibrate determini per il modello
+‘Cointestazioni’ una riduzione, contenuta, dell’RWA di circa 9 mln €; tale effetto è congruente con la
+riduzione della PD media post calibrazione. Per il modello ‘Singole Persone Fisiche’, al contrario,
+l’effetto è un aumento dell’RWA di circa 31 mln €. La nuova calibrazione ha ricondotto il livello della
+PD media sia sulle COI sia sulle SPF, in erogazione, ad un livello più congruente rispetto ai tassi di
+default di lungo periodo osservati sulla stessa popolazione (AP).
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                                  25
+
+         A. Appendice
+Nell’ambito della determinazione degli AP per i modelli di erogazione Retail, è stato condotto un
+approfondimento avente l’obiettivo di valutare l’impatto di TD prospettici da aggiungere ai TD
+registrati sulla popolazione di calibrazione.
+In particolare, sono state condotte tre differenti simulazioni per la determinazione di TD prospettici
+e messi a confronto tra loro i risultati. I TD prospettici sono stati calcolati sulle posizioni con data di
+erogazione successiva a aprile 2017 (si tratta delle erogazioni di 11 mesi, da maggio 2017 a marzo
+2018), per le quali non sono disponibili i 12 mesi di osservazione necessari per individuare
+l’eventuale evento di default (ricordiamo infatti che le performance sono disponibili fino a aprile
+2018). Tali TD sono stati aggiunti ai TD determinati sulle coorti annuali della popolazione di
+calibrazione con l’obiettivo di valutare l’impatto sull’AP, come descritto dal seguente schema:
+                                         - Prospetto delle coorti annuali -
+                   Coorte (erogato dei mesi)         Descrizione
+                   Giugno 2013 – Maggio 2014         1° coorte annuale della    popolazione di
+                                                     calibrazione
+                   Giugno 2014 – Maggio 2015         2° coorte annuale della    popolazione di
+                                                     calibrazione
+                   Giugno 2015 – Maggio 2016         3° coorte annuale della    popolazione di
+                                                     calibrazione
+                   Giugno 2016 – Aprile 2017         4° coorte annuale della    popolazione di
+                                                     calibrazione
+                   Maggio 2017 – Marzo 2018          5° coorte annuale su        cui  vengono
+                                                     calcolati i TD prospettici
+La metodologia di calcolo dei TD prospettici prevede come primo step quello di considerare, per
+ciascun modello, le posizioni in bonis con data di erogazione compresa tra maggio 2017 e marzo
+2018 e determinare il TD osservato: tale TD sarà a 11 mesi per l’erogato di maggio 2017, 10 mesi
+per giugno 2017, e così via.
+      - Mesi per i quali è stato calcolato il TD prospettico e (massimo) numero di mesi di osservazione -
+                                 Annomese         Numero mesi di osservazione
+                                   201705                         11
+                                   201706                         10
+                                   201707                          9
+                                   201708                          8
+                                   201709                          7
+                                   201710                          6
+                                   201711                          5
+                                   201712                          4
+                                   201801                          3
+                                   201802                          2
+                                   201803                          1
+Le tre diverse simulazioni per il calcolo del TD prospettico si differenziano per l’uso dei
+moltiplicatori necessari per passare al TD a 12 mesi:
+       1. la prima metodologia determina i moltiplicatori a partire dalla popolazione di calibrazione,
+            in uno scenario “in media”;
+       2. anche la seconda metodologia determina i moltiplicatori a partire dalla popolazione di
+            calibrazione, stavolta in uno scenario “worst”;
+       3. la terza ed ultima metodologia calcola i moltiplicatori senza il ricorso alla popolazione di
+            calibrazione, determinandoli in una logica di crescita lineare.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                            26
+
+In dettaglio:
+        1. nella prima metodologia si prendono le posizioni della popolazione di calibrazione e si
+            calcola, per ciascuno dei 47 mesi della serie storica, il TD registrato dopo 1, 2, 3, …, 12
+            mesi. Inoltre si calcola il moltiplicatore che consente di passare dal TD a 1, 2, 3, …, 11
+            mesi al TD a 12 mesi. Infine si determina la media semplice dei moltiplicatori a 1, 2, 3,
+            …, 11 mesi calcolata sui 47 mesi della serie storica e tale risultato viene utilizzato come
+            moltiplicatore da applicare ai singoli mesi da aprile 2017 in poi;
+        2. la seconda metodologia è analoga alla prima, con la sola differenza che si utilizza il
+            peggior moltiplicatore a 1, 2, 3, …, 11 mesi, anziché la media semplice, come
+            moltiplicatore da applicare ai singoli mesi da aprile 2017 in poi;
+        3. la terza metodologia prevede il calcolo di un TD prospettico lineare: partendo dalle
+            erogazioni dei singoli mesi da maggio 2017 a marzo 2018, si considera il TD osservato
+            (all’11-esimo mese per l’erogato di maggio 2017, al 10° mese per l’erogato di giugno
+            2017 e così via) e si determina il TD a 12 mesi in maniera proporzionale, ossia: se per
+            un certo mese sono M < 12 i mesi di osservazione, il TDM registrato dopo M mesi verrà
+            moltiplicato per M/12 per ottenere il TD prospettico a 12 mesi:
+                                        TD12 mesi prospettico = TDi * i / 12
+In accordo alle diverse metodologie, viene calcolato un numero di default prospettico per le
+posizioni erogate a ciascun mese da maggio 2017 a marzo 2018. A questo punto viene
+determinato il TD prospettico su tale coorte annuale come rapporto tra il numero di default
+prospettici e il totale delle posizioni. I TD così calcolati sono riportati nella seguente tabella:
+                                                           TD prospettico
+                         Modello       Scenario “in            Scenario
+                                                                                   Lineare
+                                          media”               “worst”
+                           COI              0.47%               1.18%               0.46%
+                          SPF               1.25%               2.93%               1.07%
+Il raffronto tra AP determinati come media semplice sulle sole coorti annuali della popolazione di
+calibrazione e AP determinati includendo i TD prospettici è illustrato nella tabella seguente:
+                                                    AP con                AP con
+                            AP calcolato                                                      AP con
+                                               l’aggiunta di TD     l’aggiunta di TD
+                            sulle 4 coorti                                               l’aggiunta di TD
+             Modello                             prospettico –        prospettico –
+                            annuali della                                                  prospettico –
+                                                 Scenario “in            Scenario
+                               pop cal                                                        Lineare
+                                                    media”                “worst”
+                COI             1.21%               1.06%                  1.21%               1.06%
+                SPF             2.31%               2.10%                  2.44%               2.07%
+Di seguito i delta rispetto all’AP di partenza:
+                                                                 Delta
+                                         AP con                 AP con
+                                                                                    AP con
+                                    l’aggiunta di TD      l’aggiunta di TD
+                       Modello                                                 l’aggiunta di TD
+                                      prospettico –         prospettico –
+                                                                                 prospettico –
+                                      Scenario “in             Scenario
+                                                                                    Lineare
+                                         media”                “worst”
+                         COI               -12%                  -1%                  -12%
+                         SPF                -9%                   5%                  -11%
+L’analisi effettuata mostra che la rischiosità del portafoglio sostanzialmente non cambia a fronte
+dell’inserimento di TD prospettici, pertanto, vista anche la complessità nel calcolo dei TD
+prospettici, si è preferito mantenere la serie storica osservata senza ulteriori elaborazioni.
+AREA LENDING RISK OFFICER | Servizio Credit Risk Models
+                                                                                                          27
+

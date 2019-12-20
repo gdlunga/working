@@ -1,0 +1,192 @@
+CGR - Sessione Financial
+   Pareri di Convalida su
+ proposta di Model Change
+                    Direzione Chief Risk Officer
+           Servizio Validazione Sistemi di Rischio
+                              19 Dicembre, 2018
+
+Executive Summary
+<U+F071> La Funzione di Convalida ha analizzato la proposta di Model Change formulata da Area Financial Risk Officer che ricomprende:
+      <U+F0D8> Componenti modellistiche:
+            <U+F0A7>   Definizione della quota stabile dei volumi in termini di percentuale dei volumi actual mensili;
+            <U+F0A7>   Introduzione di un approccio deterministico da applicare laddove non siano soddisfatte le ipotesi sottostanti il modello volumi.
+            <U+F0A7>   Modellizzazione degli impieghi in Default, diversi dalla Sofferenza, e scorporo dalle serie storiche di stima.
+      <U+F0D8> Modello volumi – Raccolta:
+            <U+F0A7>   Destagionalizzazione delle serie storiche dei cluster KC, PMI e SB;
+            <U+F0A7>   Applicazione dell’approccio deterministico per il cluster PRIVATE.
+      <U+F0D8> Modello volumi – Impieghi:
+            <U+F0A7>   Stima del modello volumi solo sulla quota parte di NMDs relativi a clienti in Bonis
+            <U+F0A7>   Integrazione dei volumi considerati bonis e sofferenza pro quota degli NMDs impieghi Non Performing;
+            <U+F0A7>   Destagionalizzazione delle serie storiche dei volumi in bonis per i cluster ENTI e PRIVATE.
+      <U+F0D8> Modello tassi – Impieghi:
+            <U+F0A7>   Sospensione nell’adozione del modello ECM e conseguente adozione di una stima contrattuale dell’elasticità di lungo periodo del tasso banca
+                rispetto al tasso di mercato.
+<U+F071> AFRO ha classificato il Model Change come Material, tenendo conto anche degli impatti connessi all’allungamento della serie storica a
+  ricomprendere i dati fino a Luglio 2018. Rispetto a tale classificazione NULLA OSTA da parte della Funzione di Convalida.
+<U+F071> Rispetto alla proposta di Model Change, la Funzione Convalida Interna, avendo effettuato le analisi i cui esiti sono riportati nelle slide seguenti,
+  esprime NULLA OSTA a procedere con l’approvazione.
+                                                                                                                                                            2
+
+Proposta evolutiva sui NMDs
+Componenti modellistiche
+<U+F071> Le linee guida EBA (EBA/GL/2018/02) specificano che le Istituzioni devono includere gli strumenti Non Performing nelle analisi di Rischio Tasso e
+  che la modellizzazione di questi strumenti deve riflettere i cash flows attesi e il piano di rientro tipico di questi prodotti (impieghi). Inoltre, le ipotesi
+  sottostanti il modello attuale non sono puntualmente soddisfatte rendendo così necessario un Model Change;
+<U+F071> La serie storica di stima del modello (lato Impieghi) è stata nettata dei volumi degli NMDs relativi a clienti Non Performing che, coerentemente alle
+  previsioni normative, sono state modellizzate a parte. In particolare, tali NMDs ai fini del Rischio Tasso sono modellizzate come una componente
+  attesa Bonis ed una componente con cash flow attesi derivanti da modello Sofferenza;
+<U+F071> Con tale assunzione, oltre all’estensione della destagionalizzazione dei volumi per alcuni cluster della Raccolta che degli Impieghi, le ipotesi alla
+  base del modello sono soddisfatte ad eccezione del cluster Private-Raccolta che è non rilevante sui volumi complessivi. Per tale cluster è stato
+  introdotto un modello alternativo, di natura esponenziale, che non prevede le limitazioni connesse ai test statistici previsti per il modello principale.
+<U+F071> La verifica delle assunzioni sottostanti il modello volumi è soddisfatta dal superamento dei seguenti test statistici:
+       <U+F0FC> Test di Dickey Fuller: la serie storica dei logaritmi dei volumi deve essere differenza – stazionaria;
+       <U+F0FC> Test di Box - Pierce e Ljung – Box: i residui non devono essere autocorrelati;
+       <U+F0FC> Test di normalità: per la verifica dell’ipotesi di normalità dei residui (Shapiro – Wilk, Jarque – Bera, Anderson Darling, Kolmogorov
+           Smirnov).
+                                                                                                                                                                 3
+
+Proposta evolutiva sui NMDs
+Modello volumi – Raccolta – Destagionalizzazione KC, PMI, SB
+<U+F071> Si riportano di seguito le analisi che mostrano la necessità di destagionalizzare le serie storiche di KC, PMI, SB ai fini del rispetto delle assunzioni
+   alla base del modello volumi.
+                                 KC                       PMI                         SB
+                                                                                                                     KEY CLIENT   PMI    SMALL BUSINESS
+                                                                                                          Box Pierce     0%       0%            0%
+                                                                                                           Ljung Box     0%       0%            0%
+Serie
+di partenza
+                                 KC                       PMI                         SB
+                                                                                                                     KEY CLIENT   PMI    SMALL BUSINESS
+                                                                                                          Box Pierce    46%       19%          52%
+Serie                                                                                                      Ljung Box    35%       11%          36%
+destagionalizzata
+                                                                                                                                                           4
+
+Proposta evolutiva sui NMDs
+Modello volumi – Raccolta – Modellizzazione del cluster PRIVATE
+<U+F071> L’analisi dell’ACF per il cluster Private evidenzia autocorrelazione nei residui, che porta anche al fallimento dei test di Box - Pierce e Ljung – Box.
+                                          Serie di partenza                                                 Serie destagionalizzata
+                                                      Box Pierce 1%                                                      Box Pierce         1%
+                                                      Ljung Box  1%                                                      Ljung Box          0%
+<U+F071> Il Risk ha preferito non adottare il modello stocastico per tale cluster, dato il fallimento delle assunzioni sottostanti, privilegiando un approccio
+  deterministico basato sulla stima storica della percentuale di variazione mensile dei volumi. Di seguito il confronto tra i due modelli.
+                                                                                                                 Volume Actual    Mean Life        Core       % Run-Off 1Y
+                                                                                        Modello stocastico                          113      1.507.715.309,00     33%
+                                                                                                                2.239.461.082,00
+                                                                                     Modello deterministico                          52      1.775.744.709,00     21%
+                                                                                                                                                                           5
+
+Proposta evolutiva sui NMDs
+Modello volumi – Raccolta
+<U+F071> Si riportano di seguito i risultati dei test statistici per la verifica delle assunzioni del modello volumi e gli output del modello proposto in termini di
+  quota Core e Mean Life al 31/07/2018 (serie storica 31/03/2009 – 31/07/2018)
+<U+F071> Tutti i cluster, ad esclusione del Private, soddisfano le assunzioni del modello.
+                          Il Test non rigetta l’ipotesi di drift nullo. In
+                       applicazione è previsto un drift solo negativo per
+                        garantire una media non crescente dei volumi                                                                    Analisi dei residui
+                                                                                                     Stazionarietà (DF)                   Indipendenza                   test di normalità
+                                                                                                                                                                                              Kolmogor
+                                                                                                               Residui -   Residui -                          Shapiro-   Jarque-   Anderson
+           Analisi dei residui                                           Descrizione       stat.1     stat.2
+                                                                                                                stat.1      stat.2
+                                                                                                                                       Box-Pierce Ljung-Box
+                                                                                                                                                                Wilk       Bera     Darling
+                                                                                                                                                                                                 ov
+                                                                                                                                                                                               Smirnov
+                                                                             ENTI
+                                                                              KC
+                                                          Raccolta
+                                                                              PF
+                                                                             PMI
+                                                                           PRIVATE
+                                                                              SB
+                                                                              DR
+                                                                     Descrizione     Volume Actual       Volume Actual %               Mean Life                  Core              % Run-Off 1Y
+           Output del modello                                          ENTI             2,544,780,465           6%                         37                   1,251,068,432           51%
+                                                                         KC             1,721,111,100           4%                         14                     467,027,116           73%
+                                                      Raccolta
+                                                                         PF            26,039,898,633           58%                        338                 22,575,461,057           13%
+                                                                        PMI             6,268,121,283           14%                        92                   3,624,722,895           42%
+                                                                      PRIVATE           2,239,461,082           5%                         52                   1,775,744,709           41%
+                                                                         SB             4,891,899,005           11%                        421                  3,575,553,087           27%
+                                                                         DR               986,478,951           2%                         68                     777,602,203           21%
+                                                                                                                                                                                                         6
+
+Proposta evolutiva sui NMDs
+Modello volumi – Impieghi
+<U+F071> L’analisi delle serie storiche degli impieghi a vista evidenzia, per alcuni cluster, un andamento strettamente decrescente, non legato a dinamiche di
+  tipo commerciale, ma connessa al passaggio a sofferenza di un considerevole numero di posizioni che ne determina l’esclusione dal campione
+  degli impieghi a vista.
+<U+F071> Le linee guida EBA (EBA/GL/2018/02) specificano che le Istituzioni devono includere gli strumenti Non Performing nelle analisi di Rischio Tasso e
+  che la modellizzazione di questi strumenti deve riflettere i cash flows attesi e il piano di rientro tipico di questi prodotti.
+<U+F071> La Struttura di Sviluppo, in conformità con le prescrizioni normative, ha pertanto deciso di applicare modelli distinti per i volumi relativi ai clienti in
+  Bonis rispetto alla quota parte di NMDs impieghi che rientra nel perimetro dello scaduto e dell’UTOP.
+<U+F071> La quota parte di volumi in Bonis mostra un perfetto adattamento al modello volumi di tipo moto browniano geometrico.
+<U+F071> Per la componente Non Performing viene adottato un approccio di stima basato sui principali parametri del rischio di credito: Danger Rate / Cure
+  Rate e LGD.
+                                                                                                                                                              7
+
+Proposta evolutiva sui NMDs
+Modello volumi – Impieghi – Destagionalizzazione ENTI e PRIVATE
+<U+F071> Si riportano di seguito le analisi che evidenziano come la destagionalizzazione delle serie storiche di ENTI e PRIVATE conduca ad evidenze
+   statistiche migliori.
+                                    ENTI                                  PRIVATE
+                                                                                                                       ENTI PRIVATE
+                                                                                                            Box Pierce 57%    44%
+Serie                                                                                                       Ljung Box  47%    31%
+di partenza
+                                    ENTI                                  PRIVATE
+                                                                                                                       ENTI PRIVATE
+Serie                                                                                                       Box Pierce 96%    57%
+destagionalizzata                                                                                           Ljung Box  94%    45%
+                                                                                                                                             8
+
+Proposta evolutiva sui NMDs
+Modello volumi – Impieghi
+<U+F071> Si riportano di seguito i risultati dei test statistici per la verifica delle assunzioni del modello volumi e gli output del modello proposto in termini di
+  quota Core e Mean Life al 31/07/2018 (serie storica 31/03/2009 – 31/07/2018)
+                            Il Test non rigetta l’ipotesi di drift nullo. In
+                           applicazione è previsto un drift solo negativo
+                            per garantire una media non crescente dei                                                              Analisi dei residui
+                                               volumi                                              Stazionarietà (DF)                Indipendenza                    test di normalità
+                                                                                                                                                                                          Kolmogor
+           Analisi dei residui                                          Descrizione       stat.1    stat.2
+                                                                                                             Residui -   Residui -
+                                                                                                                                   Box-Pierce Ljung-Box
+                                                                                                                                                          Shapiro-   Jarque-   Anderson
+                                                                                                                                                                                             ov
+                                                                                                              stat.1      stat.2                            Wilk       Bera     Darling
+                                                                                                                                                                                           Smirnov
+                                                                            ENTI
+                                                                             KC
+                                                         Impieghi
+                                                                             PF
+                                                                            PMI
+                                                                          PRIVATE
+                                                                             SB
+                                                                    Descrizione     Volume Actual       Volume Actual %            Mean Life                  Core              % Run-Off 1Y
+           Output del modello                                          ENTI              119,378,016         3%                      12                        31,339,269           74%
+                                                                        KC               184,473,457         5%                      21                        76,287,639           59%
+                                                      Impieghi
+                                                                        PF               588,759,117         15%                     85                       444,206,396           25%
+                                                                       PMI             1,258,705,072         33%                     45                       822,448,899           35%
+                                                                     PRIVATE             226,362,976         6%                      171                      159,069,292           30%
+                                                                        SB             1,486,558,158         38%                     81                     1,163,749,622           22%
+                                                                                                                                                                                                     9
+
+Proposta evolutiva sui NMDs
+Modello tassi - Impieghi
+<U+F071> Il modello ECM non è più in grado di spiegare la dinamica dei tassi delle poste a vista di impiego, legate negli ultimi anni a dinamiche di natura
+  creditizia piuttosto che a variazioni dei tassi di mercato. Sulla base dei dati estesi al 31/7/2018 per tutti i cluster degli impieghi, ad esclusione del
+  KC, i coefficienti Beta sono maggiori di 1 che non è un valore accettabile:
+                                              IMPIEGHI  ENTI      KC        PF        PMI   PRIVATE       SB
+             Il Beta esprime l’elasticità del Beta      1.02     0.58      1.24       1.23     1.52      1.18
+          tasso Banca vs il tasso di mercato  Theta     -0.29    -0.39     -0.15     -0.28     -0.70    -0.11
+<U+F071> AFRO, in fase di ricalibrazione del modello, ha ritenuto opportuno adottare una stima contrattuale dell’elasticità (parametro beta) che diviene il
+  rapporto tra gli impieghi a vista a tasso variabile rispetto al totale degli impieghi a vista (dati forniti dalla Direzione CCO). Il parametro Theta, che
+  indica il tempo di repricing della quota a tasso variabile, viene fissato pari al tenor del tasso di riferimento EUR 1M.
+                                               IMPIEGHI  ENTI      KC        PF        PMI   PRIVATE       SB
+                                               Beta      0.80     0.80      0.43       0.51     0.77      0.69
+                                               Theta     -1.00    -1.00     -1.00     -1.00     -1.00     -1.00
+                                                                                                                                                            10
+

@@ -1,0 +1,469 @@
+                                        Behavioural Models of
+                                      IRRBB and Liquidity Risk
+                                   Proposta di affinamento dell’approccio
+                             comportamentale sui NMDs e adozione del framework
+                                                 di back-testing
+                                    Comitato Gestione Rischi del 19 Dicembre 2018
+Direzione Chief Risk Officer
+
+Executive Summary
+Ambito ed obiettivi del documento
+<U+F071>Nell’ambito del Rischio di Liquidità e di IRRBB gli approcci comportamentali rappresentano una componente fondamentale e strategica
+ della misurazione dell’esposizione a rischio. I prodotti bancari che presentano caratteristiche differenti rispetto alle quelle contrattuali sono
+ principalmente i seguenti:
+      1)   Non-maturity Deposits (NMDs): ovvero poste a vista che manifestano storicamente una notevole persistenza in termini di volumi
+           e i cui tassi di interesse evidenziano una certa elasticità alle variazioni dei tassi di mercato;
+      2)   Mutui e Obbligazioni/Depositi a tempo: ovvero prodotti che inglobano l’opzione, esercitabile dal cliente, di rimborso anticipato
+           rispetto alla naturale scadenza contrattuale in presenza o assenza di penale.
+<U+F071>Il presente documento è relativo ad una proposta di affinamento dell’attuale approccio NMDs, punto 1), che non determina impatti
+ rilevanti nella misura di rischio. Si riporta inoltre anche la ricalibrazione annuale dei parametri del modello che presenta invece impatti
+ rilevanti sul risk profile. Poiché la casistica rappresenta un Material Model Change perché riferita a modelli critici/strategici di gestione del
+ rischio, è richiesto, come previsto dalla Direttiva di Gruppo in materia di Gestione del Rischio Modello (1030D02357), l’approvazione da
+ parte del Consiglio di Amministrazione, previo rilascio di parere favorevole da parte del Comitato Gestione Rischi, acquisito anche il
+ parere della Funzione di Convalida.
+<U+F071>In riferimento al punto 2) Mutui sono in corso di finalizzazione le attività di ridefinizione dell’approccio di prepayment risk; le prime stime
+ evidenziano un impatto che mitiga parzialmente gli effetti della ricalibrazione sui NMDs. Si richiede che l’entrata in vigore delle modifiche
+ sui NMDs avvenga in concomitanza con l’approvazione delle variazioni sul prepayment e comunque nell’ambito del RAS 2019.
+                                                                                                                                                   2
+
+ Executive Summary
+ Sintesi dell’attuale approccio di stima dei NMDs e primo affinamento approccio volumi
+<U+F071>Il Gruppo Montepaschi, in linea con la quasi totalità del sistema bancario italiano, già a partire dal 2005 ha adottato l’approccio di stima
+   comportamentale dei NMDs (approccio Prometeia) basato su due modelli calibrati indipendentemente:
+       1.   approccio volumi con la finalità di quantificare la stabilità dei NMDs in termini di liquidità;
+       2.   approccio tassi con l’obiettivo di determinare una stima dell’elasticità dei tassi dei NDMs, identificando la loro variabilità alla
+            variazione dei tassi di interesse di mercato di breve termine (Euribor 1 mese).
+<U+F071>L’approccio volumi viene impiegato nella determinazione delle misure gestionali (*) del Rischio di Liquidità sia per il breve termine, con lo
+   stress test gestionale del sight deposit run-off, sia per il medio-lungo termine nelle misure di gap ratios.
+<U+F071>La combinazione dei due approcci invece conduce alla stima della vischiosità dei NMDs al fine di determinare l’esposizione
+   dell’aggregato a vista in termini di IRRBB contribuendo alla sensitivity del Net Interest Income (NII) e dell’Economic Value of Equity
+   (EVE).
+<U+F071>Nel corso del 2017, il Gruppo ha profondamente rivisto l’approccio volumi in quanto gli aggregati NMDs sia di raccolta sia di impiego
+   presentavano dinamiche, soprattutto negli ultimi anni, non più coerenti con le assunzioni sottostanti il modello.
+<U+F071>L’approccio rivisto è entrato poi in vigore a partire dalle rilevazioni di rischio a consuntivo di Marzo 2018 nell’ambito del RAS 2018.
+(*) Le misure regolamentari di LCR e NSFR non accettano approcci gestionali sui depositi ma richiedono l’applicazione di percentuali prestabilite.
+                                                                                                                                                   3
+
+Executive Summary
+Audit fundings sul modello NMDs
+<U+F071>L’attività di Revisione, svolta dalla Funzione Audit nel secondo trimestre del 2018, ha evidenziato il puntuale rispetto delle assunzioni per
+ l’applicazione del modello rivisto nel 2017 nella maggior parte dei segmenti del passivo, ovvero dove si concentra la sensitivity EVE e NII
+ dell’IRRBB e la contribuzione allo stress test di liquidità ed all’equilibrio strutturale per i gap ratios.
+<U+F071>L’attività di Revisione, però, ha rilevato il mancato rispetto delle assunzioni per una parte rilevante dei cluster dei impieghi ed ha, di
+ conseguenza, definiti i seguenti findings :
+     <U+F0A7>    NMDs passivi: trattamento ulteriore di alcune serie per la verifica rigorosa delle assunzioni di base:
+            1. modello Volumi raccolta (Rilevanza Media, scadenza 31/12/2018). L’assunzione alla base del modello statistico non è
+                rigorosamente rispettata per il 25% dei volumi complessivi (KC, PMI, Private e SB). Nel caso del cluster Private
+                l’approssimazione può essere comunque ritenuta accettabile.
+     <U+F0A7>    NMDs attivi: individuazione di metodologie statistiche maggiormente consistenti e robuste.
+            1.   modello Volumi impieghi (Rilevanza Alta, scadenza 31/12/2018). L’assunzione alla base del modello statistico non è
+                 rispettata per i cluster KC, PMI, Private e SB che rappresentano il 95% dei volumi complessivi degli impieghi (di cui SB
+                 incide per circa il 43%).
+            2.   modello Tassi Impieghi (Rilevanza Bassa, scadenza 31/12/2018). Il modello ECM utilizzato per il cluster KC-Impieghi non si
+                 adatta adeguatamente al fenomeno osservato, dal momento che include un parametro non significativo (intercetta).
+                                                                                                                                               4
+
+Executive Summary
+Sintesi delle proposte di affinamento dell’approccio comportamentale sui NMDs
+<U+F071>Le proposte di affinamento dell’attuale approccio contenute nel presente documento sono le seguenti:
+      1.  Affinamento Stress Test (Liquidity risk):
+            <U+F0A7>   variazione dello scenario di sight deposit run-off (1.P.1. - short-term liquidity stress test) considerando costanti i volumi dei
+                NMDs attivi nell’orizzonte temporale dell’esercizio (1 anno).
+      2.  Affinamento NMDs:
+            <U+F0A7>   Approccio volume (Liquidity risk e IRRBB):
+                  •    per i NMDs passivi – cluster KC, PMI e SB – si propone la destagionalizzazione delle serie storiche mentre per il
+                       cluster Private si propone un approccio semplificato di letteratura;
+                  •    per i NMDs attivi – tutti cluster – si propone la calibrazione dell’attuale approccio sulla serie storica solo performing
+                       mentre per la modellizzazione della quota parte scaduta/UTOP, si propone un approccio di stima di tipo credi risk
+                       basato su Danger Rate/Cure Rate e Loss Given Default (LGD);
+            <U+F0A7>   Approccio tasso (IRRBB): sospensione dell’approccio tasso sugli impieghi con l’adozione di una stima contrattuale
+                dell’elasticità per mutate condizioni di mercato (tassi decrescenti e livelli molto bassi).
+<U+F071>L’entrata in vigore dell’approccio proposto, prevista dal 2019, comprende anche l’introduzione del framework di backtesting per la verifica
+ dalle perfomance.
+                                                                                                                                                  5
+
+Executive Summary
+Analisi degli impatti degli affinamenti proposti su Rischio di Liquidità e IRRBB
+<U+F071> La tabella seguente riporta gli impatti (differenze rispetto all’attuale risk profile) sulle misure di Rischio di Liquidità e IRRBB.
+<U+F071> Per il Rischio di Liquidità è evidente che gli impatti da Affinamento NMDs sono contenuti a differenza di quelli relativi all’Affinamento stress test
+  (per il breve termine) e alla Ricalibrazione NMDs (dinamiche di volumi più stabili rispetto alla precedente calibrazione).
+<U+F071> Gli impatti osservati sulle misure di IRRBB sono concentrati sulla Ricalibrazione NMDs dell’EVE e sono determinati da un doppio effetto:
+  maggiore stabilità dei volumi da un lato e dall’incremento degli stock dall’altro. Quest’ultimo è presente in quanto per l’approccio di
+  determinazione delle quote stabili e del conseguente decalage nelle precedenti ricalibrazioni era stato adottato il valore assoluto e non il dato
+  in percentuale. Si propone l’adozione del decalage in percentuale anche per l’IRRBB al fine di ridurre cliff effect per le future ricalibrazioni.
+<U+F071> Le variazioni metodologiche in corso di finalizzazione sul prepayment risk evidenziano impatti che possono avere l’effetto di mitigare la
+  ricalibrazione NMDs. Per evitare distorsioni nella gestione del rischio si propone l’adozione contestuale dei due approcci.
+                                                                                                                                                        6
+
+                   Affinamento dell’approccio di stima dei NMDs
+Proposta di affinamento dell’attuale approccio volumi e adozione di un approccio contrattuale per la stima
+                                       dell’elasticità sugli impieghi
+                                                                                                           7
+
+Percorso di evoluzione dell’approccio di stima della stabilità dei volumi
+Approccio «storico» di stima: overview
+<U+F071>Dal 2005 il Gruppo MPS ha adottato un approccio di stima comportamentale sui NMDs per il Rischio di Liquidiità e di IRRBB, proposto da
+  Prometeia e adottato dalla quasi totalità del sistema bancario italiano, basato da un lato dall’approccio Bond Portfolio Replication (Bond
+  Replica) per la stabilità dei volumi e dall’altro un modello tassi (Error Correction Model, ECM) per la stima dell’elasticità.
+<U+F071>L’approccio volumi, in particolare, ipotizzava la stazionarietà dei log-volumi dei NMDs attorno ad un trend stimato in modo deterministico.
+  Il trend veniva individuato sulla base della serie storica attraverso l’applicazione del filtro statistico di Hodrick-Prescott (HP). Il parametro <U+03BB>
+  del filtro, noto come penality, era stato fissato arbitrariamente a 14.400.
+<U+F071>La proiezione dei volumi avveniva poi seguendo l’approccio di Minimum Probable Amount fino ad un cut-off stabilito in maniera
+  qualitativa.
+                    Trend deterministico                      35,000
+                                                                                                Ammortamento
+                                                                                                               6,000
+                     individuato con HP                       32,500
+                                                              30,000                            Volumi
+                                                                                                               5,500
+                                                                                                               5,000
+                                                              27,500
+                                                                                                                       Ammortamento €/mln
+                                                                                                Trend
+                                                                                                               4,500
+                                                              25,000
+                                                                                                mpa 99,00% *   4,000
+                                               Volumi €/mln
+                    Logaritmo dei
+                                                              22,500
+                                                              20,000                            mpa 99,00%     3,500
+                                                                                                                                            Piano di ammortamento
+                    volumi unitari                            17,500                                           3,000                            statistico (mpa)
+                                                              15,000                                           2,500
+                                                              12,500
+                                                                                                               2,000
+                                                              10,000
+                                                                                                               1,500
+                                                                                                                                              Piano di ammortamento
+                                                               7,500
+                 Decalage secondo mpa                          5,000
+                                                                                                               1,000
+                   con cut-off imposto                         2,500                                           500                            secondo mps con cut-off
+                                                                  0                                            0
+                                                                                                                                                      imposto
+                                                                                                                                                                        8
+
+Percorso di evoluzione dell’approccio di stima della stabilità dei volumi
+Approccio «storico» di stima: principali criticità e sintesi del approccio Random Walk
+<U+F071>L’approccio volumi nel corso degli ultimi anni ha manifestato diversi problemi di robustezza: gli strumenti di diagnosi hanno fatto
+ emergere una generalizzata inadeguatezza dell’approccio ad ottenere un fitting appropriato della serie storica.
+<U+F071>L’instabilità da un lato ma anche la soggettività nella scelta dei parametri (penalty e cut-off) che condizionavano fortemente il profilo di
+ persistenza, ha portato prima alla sostituzione con un approccio per percentuali di LCR-NSFR per il Rischio di Liquidità (2015) e poi ad
+ un’attività di revisione complessiva nel 2017 (cfr. Comitato di Basilea del 26/10/2017):
+     1.   L’analisi di concentrazione dei cluster ha imposto l’adozione del logaritmo dei volumi complessivi al posto del logaritmo dei volumi
+          unitari.
+     2.   L’analisi dei break strutturali nella serie dei log-volumi complessivi ha suggerito l’utilizzo della serie storica successivamente
+          all’integrazione di BAV e di BT ovvero da Marzo 2009.
+     3.   Eliminazione del trend deterministico con l’adozione dii un processo stocastico di tipo random walk imponendo un vincolo al drift
+          per evitare la crescita dei volumi.
+     4.   Adozione del tempo medio di sopravvivenza (mean-life) secondo un approccio statistico (survival analysis).
+                                                                                                                                               9
+
+Percorso di evoluzione dell’approccio di stima della stabilità dei volumi
+Approccio di stima Random Walk: analisi di fitting del modello volumi
+<U+F071>Gli interventi appena descritti sono stati rilasciati in produzione a partire da Marzo 2018, in corrispondenza dell’entrata in vigore del RAS
+ 2018, sia per il Rischio di Liquidità sia per l’IRRBB.
+<U+F071>I test statistici di verifica delle ipotesi di Random Walk sono stati i seguenti:
+      1.   Analisi di stazionarietà delle differenze prime secondo Dickey-Fuller al fine di verificare che la serie dei log-volumi sia I(1).
+      2.   Test di Box-Pierce e Ljung-Box per verificare l’assenza di correlazione dei residui.
+      3.   Test di Shapiro-Wilk, Jarque-Bera, Anderson-Darling e Kolmogorov-Smirnov per la verifica della normalità dei residui.
+<U+F071>Gli strumenti di diagnosi sopra elencati hanno evidenziato, in generale, una buona capacità di rappresentazione delle serie storiche
+ soprattutto per la raccolta, pur manifestando alcune imperfezioni su alcuni cluster, principalmente sugli impieghi.
+<U+F071>I cluster interessati da tali criticità rappresentavano, però, una parte meno rilevante in termini di contribuzione all’equilibrio strutturale e di
+ sensitivity per l’IRRBB.
+<U+F071>La First Time Adoption del nuovo approccio, vista la necessità dell’evoluzione metodologica rispetto all’approccio Prometeia, ha
+ privilegiato l’uniformità e la semplicità di adozione comune per tutti i cluster sia di raccolta sia di impiego anche se, come detto, era
+ evidente la necessità di effettuare ulteriori approfondimenti.
+<U+F071>Le analisi ulteriori sono state anche richieste a seguito dell’attività di revisione sul modello NMDs condotto dalla Funzione di Audit Interno.
+                                                                                                                                                     10
+
+Proposta di affinamento dell’approccio di stima della stabilità dei volumi
+Revisione IRRBB: audit findings su modello volumi
+<U+F071>La Revisione Interna, nell’exit meeting del 6/7/2018 della revisione IRRBB 2018, ha evidenziato alcune criticità presenti nel modello in
+ vigore con la conseguente apertura di 2 gap relativi al modello dei volumi:
+                                                                                     <U+F071>Per i cluster Key Client, PMI e Small Business si
+  1.   NMDs raccolta: per i cluster della raccolta (KC, PMI e SB) per i quali           propone la sola destagionalizzione delle serie storiche
+       le assunzioni alla base del modello non sono rispettate si richiede              che consente di ottenere la significatività statistica.
+       un trattamento della serie che consenta di accettare tali ipotesi.
+  2.   Per    il cluster  Private   si   richiede    un attento monitoraggio
+       dell’assunzione di Random Walk (rilevanza media, scadenza                     <U+F071>Il cluster Private presenta peculiarità tali da richiede un
+       31/12/2018).                                                                     approccio semplificato di letteratura, adottato anche
+                                                                                        dalla ECB per la calibrazione delle percentuale di
+  3.   NMDs impiego: per i cluster per i quali le assunzioni alla base del
+                                                                                        deflusso dei depositi nell’ambito dell’esercizio di stress
+       modello non sono rispettate si richiede di individuare metodologie
+                                                                                        sulla liquidità (LiST 2019).
+       statistiche   consistenti  e    robuste    (rilevanza  alta, scadenza                                                                       A
+       31/12/2018).
+B
+     Le analisi condotte sulle serie storiche dei volumi hanno evidenziato gli effetti distorsivi delle dinamiche creditizie (passaggio da bonis a
+     default non bad loans) nella fase di calibrazione e di applicazione dell’approccio. Viene proposta la scomposizione delle serie storiche
+     considerando il solo performing e adottando un approccio dedicato per la parte in Default.
+                                                                                                                                                     11
+
+Proposta di affinamento dell’approccio di stima della stabilità dei volumi                                                                                       A
+Sintesi dell’approccio semplificato proposto per la raccolta Private
+<U+F071> Il cluster della raccolta Private ha un andamento storico, come evidenziato dal grafico
+  riportato di fianco, caratterizzato da fasi di forti variabilità alternate da fasi di maggiore
+  stabilità.
+<U+F071> Il pannello di controllo sui residui ha evidenziato il non rigoroso rispetto delle ipotesi
+  mettendo in dubbio la capacità adattativa e previsiva dell’approccio random walk per
+  tale cluster, confermando la specificità della natura di tale clientela.
+                                                                                                    <U+F071> L’approccio proposto si basa su un modello semplificato di
+                                             Approccio semplificato
+                                                  senza cut-off                                       letteratura, adottato anche dalle ECB in ambito LiST 2019, che
+                                                                                                      consente di stimare il decalage a partire dalle variazioni
+                                                    Approccio semplificato
+                                                      con mean-life (50M)                             percentuali della serie storica senza effettuare assunzioni
+                                                                            Approccio interno senza
+                                                                                                      statistiche sulla stessa.
+                                                                                    cut-off
+                                                                                                    <U+F071> Viene proposto, inoltre, il limite prudenziale sul mean-life in
+                                                                                                      analogia all’approccio Random Walk.
+ Approccio interno con
+    mean-life(109M)
+                                                                                                    <U+F071> Dal punto di vista degli impatti di sensitivity la differenza tra
+                                                                                                      l’approccio    random     walk  e  l’approccio   semplificato   è
+                                                                                                      immateriale (circa -0,5 €/mln per shock a +25bps).
+                                                                                                                                                                      12
+
+Proposta di affinamento dell’approccio di stima della stabilità dei volumi                                                                                        B
+NMDs impieghi: Bonis
+<U+F071> La serie storica dei volumi sulla quale erano state effettuate le analisi di calibrazione del Random Walk per i NMDs di impiego comprendeva tutti gli
+  stati creditizi ad eccezione delle sofferenze (Default - Bad Loans).
+<U+F071> Le linee guida dell’EBA (EBA/GL/2018/02) richiedono un trattamento specifico per gli NPE (Non-Performing Exposure) con una modellizzazione
+  dedicata che rifletta i cash-flow attesi ed il proprio timing oltre ad essere trattati al netto (art.115, punto g). In base a tale requirement la calibrazione
+  e la relativa applicazione del modello volumi viene ristretta alla sola parte bonis mentre la componente NPE, costituita da scaduto - UTOP -
+  sofferenze, segue un trattamento dedicato.
+                                                                                                  <U+F071> Il grafico riporta l’andamento storico della serie sulla
+                                                                                                    quale erano state effettate le precedenti calibrazioni e la
+                                                                                                    serie depurata dagli stati creditizi di scaduto e UTOP.
+                                                                                                  <U+F071> Si evidenzia che i passaggi di stato hanno alterato la
+                                                                                                    serie determinando una distorsione che si manifestata
+                                                                                                    con perdita di capacità di adattamento.
+                                                                                                  <U+F071> La slide seguente riporta i test di verifica delle ipotesi di
+                                                                                                    Random Walk sul sola componente di bonis.
+                                                                                                                                                                    13
+
+                    Proposta di affinamento dell’approccio di stima della stabilità dei volumi                                                                                     B
+                    NMDs impieghi: Bonis
+                 <U+F071> La calibrazione del corrente approccio di Random Walk sul bonis conduce al rispetto delle assunzioni di base, superando le criticità evidenziate. Si
+                        riportano le analisi di ACF (Correlogrammi) dell’approccio precedente (calibrato su tutta la serie storica) e quelle relative alla sola serie performing
+                        del nuovo approccio con la percentuale che esprime la rilevanza del cluster.
+                               SB (43%)                  PMI (31%)           Persone Fisiche (17%)         PRIVATE (6%)             Key Client (3%)             Enti (1%)
+Calibrazione su tutta
+  la serie storica
+Calibrazione sul
+  performing
+                                                                                                                                                                                       14
+
+Proposta di affinamento dell’approccio di stima della stabilità dei volumi                                                                                 B
+NMDs impieghi: Default
+<U+F071> La modellizzazione della quota parte dei NMDs impieghi che rientra nel perimetro dello scaduto e dell’UTOP (defaulted) segue invece un approccio
+  di stima basato sui principali parametri del rischio di Credito: Danger Rate / Cure Rate e Loss Given Default (LGD). A titolo esemplificativo si riporta
+  l’approccio per un generico conto corrente attivo di un cliente in Past Due/UTOP, ipotizzando un DR del 75% ed un LGD del 60%:
+         Contractual view                                 Credit Risk view                                                IRRBB view
+                                        1-DR
+                100 €                            25 €                                                            10                    NMDs model (bonis)
+                Gross                         Expected                                                      5         6
+                                                                                                                           2,5         <U+F0A7> Non-stable: 5
+               Exposure                   Performing Loans                                                                      1,5
+                                                                   1-LGD                                                               <U+F0A7> Stable: 20
+                                                                               30 €                        O/N   1Y   2Y    3Y  4Y     <U+F0A7> Model time bucket
+           100                                                        Expected Recoveries
+                                        DR                               from Bad Loans
+                                                  75 €
+                                            Expected Bad                                                     15                     Bad loans approach
+                                                                                        LGD
+                                                                                                                  7,5
+                                                 Loans                         45 €                                     5   2,5     <U+F0A7> Provision: 45 €
+           O/N                                                          Credit Writedown                                            <U+F0A7> Recovery : 30 €
+                                                                                                             1Y   2Y   3Y    4Y     <U+F0A7> BL model time bucket
+<U+F071> La percentuale di Cure Rate (1-DR) del defaulted amount (gross value) viene ipotizzata recuperata e modellizzata secondo il random walk bonis.
+  La percentuale di DR del gross value, per la quota parte di LGD, viene considera accantonamento mentre il complemento (net value) viene
+  modellizzata secondo il corrente approccio per le sofferenze (ovvero per tempi medi di recupero sul dato net of provisions).
+                                                                                                                                                             15
+
+Proposta di modifica dell’approccio di stima dell’elasticità
+Proposta di adozione di approccio contrattuale per l’elasticità dei cluster degli impieghi
+<U+F071> La nuova calibrazione del modello tassi sul lato degli impieghi alla data di
+   luglio 2018 ha evidenziato una complessiva instabilità dei parametri del
+   modello ECM, sia effettuando la stima sull’intero portafoglio modellizzato, sia
+   limitando l’analisi alla sola componente «performing».
+<U+F071> Rappresentativi della capacità non predittiva del modello sono i livelli di beta
+   superiori ad 1 e le percentuali di R quadro significativamente basse.
+                                                                                 <U+F071> Per tali considerazioni si propone di utilizzare un approccio
+                                                                                    “contrattuale” basato sulle evidenze effettive delle direzione
+                                                                                    commerciale relativamente alle quote del portafoglio che
+                                                                                    risultano indicizzate per singolo segmento di business.
+                                                                                 <U+F071> Tali percentuali vengono adottate in sostituzione dei beta
+                                                                                    precedentemente stimati con il modello ECM, il nuovo livello
+                                                                                    di theta viene assunto pari al tenor del tasso Euribor 1M.
+                                                                                                                                                   16
+
+ Proposta di affinamento dell’approccio di stima dei NMDs
+ Approccio di stima dello scenario di sight deposit run-off (1.P.1)
+<U+F071>La stima dello scenario 1.P.1. Sight deposit run-off - riduzione della raccolta a vista (conti correnti e depositi a risparmio) si basa
+   sull’approccio comportamentale dei NMDs (decalage di liquidità) entro l’orizzonte temporale di 1 anno.
+<U+F071>Il corrente approccio ipotizza una contribuzione,
+ seppur marginale, alla riduzione del deflusso di
+ liquidità computando gli inflows derivanti dalla
+ modellizzazione degli NMDs attivi.
+<U+F071>Tale contribuzione è pari a circa 0,6 €/mld ad 1
+ mese, arrivando fino a 2,6 €/mld ad un anno.
+<U+F071>Si propone l’adozione di uno scenario di stress
+ che non consideri la contribuzione degli inflow
+ rivenienti   dalla  stima   del   modello   NMDs,
+ considerando anche l’approccio adottato dalla
+ ECB in ambito LiST 2019.
+<U+F071>L’impatto stimato in termini di riduzione del tts è
+ pari a circa 16 giorni di calendario (09/2018).
+                                                                                                                                         17
+
+Proposta di affinamento dell’approccio di stima dei NMDs
+Impatto sulle misure di rischio di liquidità
+<U+F071>Si riporta il profilo di liquidità dei NMDs, in termini di flussi cumulati, seguendo l’approccio proposto ed il confronto con l’approccio
+  precedente, dopo aver effettuato la ricalibrazione annuale (dati al 30/09/2018).
+                                                                                                     <U+F071>Per gli indicatori strutturali gap ratios si
+                                                                                                       considera il profilo netto oltre 1 anno (bucket 2Y
+                                                                            NMDs attivi                fino all’oltre 5Y) e si evidenzia un miglioramento
+                                                                                                       nel caso dell’approccio proposto ricalibrato.
+                  NMDs passivi
+ <U+F071> Per lo scenario di stress sight deposit run-off, considerando i deflussi dei NMDs passivi senza la contribuzione dei NMDs attivi (vedi slide
+   precedente), l’approccio proposto risulta essere più severo del precedente. Il time-to-survival con l’introduzione di tale modifica e con la ricalibrazione
+   annuale del modello presenta una riduzione complessiva di circa 21 giorni.
+                                                                                                                                                               18
+
+Proposta di affinamento dell’approccio di stima dei NMDs
+Impatto sulle misure di rischio di tasso
+ <U+F071> Si evidenziano gli impatti su IRRBB negli scenari paralleli +/-100 bps per la metrica di sensitivity EVE con l’apertura sulle singole componenti.
+                             Per la componente lineare a Tasso Fisso
+                             si riporta il profilo per time bucket nello
+                             scenario parallelo a +25 bps.
+                                                                                                                                                     19
+
+Behavioural models backtesting Framework
+    Proposta di adozione framework di back-testing
+     dei modelli comportamentali e focus su NMDs
+                                                   20
+
+Behavioural models back-testing Framework
+Normativa regolamentare in materia e attuale approccio
+<U+F071>Le linee guida dell’EBA (EBA/GL/2018/02, art. 107 punto d.) pongono particolare attenzione alla dimostrazione dell’accuratezza del
+ modello mediante le analisi di back-testing «against experience» per il Prepayment Risk mentre per i NMDs richiedono analisi di
+ sensitivity delle misure di rischio alla variazione dei parametri di percentuale e scadenze dei depositi stabili.
+<U+F071>Gli standard di Basilea su IRRBB di Aprile 2016 richiedono espressamente il back-testing dei parametri chiave quali la stabilità dei
+ depositi ed il prepayment (art 59, terzo punto).
+<U+F071>L’attuale approccio di backtesting sui NMDs si basa sull’analisi a posteriori delle quote stabili attraverso un sistema di trigger che, in caso
+ di sforamento della quota stabile rispetto allo stock complessivo per ogni cluster, prevede la ricalibrazione del modello per la
+ determinazione di una nuova quota stabile.
+<U+F071>Le slide seguenti presentano un framework generale di back-testing valido sia per il modello dei NMDs sia per il Prepayment Risk. Al
+ momento si richiede l’adozione del framework di back-testing per i soli NMDs.
+                                                                                                                                                 21
+
+ Behavioural models backtesting Framework
+ Proposta di adozione di framework per i modelli comportamentali
+<U+F071> Si propone l’adozione del seguente approccio di backtesting per i modelli comportamentali al fine di misurare da un lato l’accuratezza della
+  stabilità dei depositi e, dall’altro, la capacità previsiva dell’approccio di Prepayment.
+Approccio out-sample
+<U+F071> Per ogni data soglia ti per i = 0, …, k si seguono i passi:                                     tinitial           Time             t0      t1      t2      tk            tfinal
+      •    i dati storici vengono troncati alla soglia (in-sample, intervallo da tinitial a ti);
+                                                                                                                       in-sample         out-sample
+      •    il modello comportamentale viene calibrato sui dati in-sample e viene
+           proiettato, a perimetro costante, sui dati out-sample (per il periodo di                                    in-sample                  out-sample
+           ampiezza h, intervallo da ti a ti+h);
+                                                                                                                       in-sample                         out-sample
+      •    le previsioni out-sample così ottenute sono messe a confronto con i dati
+           storici;                                                                                                    in-sample                                 out-sample
+                                                                                                                                                                      h
+      •    Infine, viene stabilito un errore di previsione per ogni soglia.                                           Range of available historical data
+<U+F071> L’errore medio per tutte le soglie è una stima della performance del modello e
+  misura l’accuratezza dell’approccio adottato.
+<U+F071> L’obiettivo di questa tecnica è duplice:
+      1)     Analizzare i parametri ottenuti dalla calibrazione in diversi periodi storici per valutarne la stabilità dell’approccio nel tempo.
+      2)     Valutare l’accuratezza della previsione, definendo una soglia critica di accettazione dell’errore, superata la quale è opportuna una
+             ridefinizione dell’approccio.
+                                                                                                                                                                                   22
+
+ Behavioural models backtesting Framework
+ Proposta di adozione di framework per i modelli comportamentali
+Approccio in-sample
+<U+F071> Si seguono i passi:
+                                                                                            tinitial        Time            t0             t1      t2 tk tfinal
+      •    il modello comportamentale viene calibrato una sola volta sull’intero range
+                                                                                                                                in-sample
+           di dati storici disponibili;
+      •    per ogni data soglia ti per i = 0, …, k si costruisce il sotto-campione                                                  in-sample
+           storico al tempo t0 che viene osservato nei diversi archi temporali (dati in-
+           sample);                                                                                                                     in-sample
+      •    i risultati storici in-sample sono messi a confronto con i dati del modello;                                                     in-sample
+      •    Infine, viene stabilito un errore di previsione per ogni soglia.
+                                                                                                            Range of available historical data
+<U+F071> L’errore medio per tutte le soglie è una stima della performance del modello e
+  misura l’accuratezza dell’approccio adottato.
+ <U+F071> L’obiettivo di questa tecnica è:
+        1)    Valutare l’approccio su un orizzonte temporale più ampio a parità di composizione del campione di partenza;
+        2)    Valutare l’accuratezza della previsione definendo una soglia critica di accettazione dell’errore, superata la quale è opportuna una
+              ridefinizione dell’approccio.
+                                                                                                                                                                23
+
+Behavioural models backtesting Framework
+Proposta di adozione di framework per i modelli comportamentali: NMDs
+<U+F071> Le linee guida dell’EBA (EBA/GL/2018/02, art. 107 punto d.) pongono particolare attenzione alla dimostrazione dell’accuratezza del modello
+  mediante le analisi di backtesting «against experience» per il Prepayment Risk mentre per i NMDs richiedono analisi di sensitivity delle misure di
+  rischio alla variazione dei parametri di percentuale e scadenze dei depositi stabili.
+<U+F071> Nell’ambito del backtesting framework definito nelle precedenti slide (vedi schema a
+  destra), si indica con cci(tj) lo stock di depositi a vista riferiti alla soglia ti valutati all’istante
+  ti (valutazione a portafoglio costante) e con qs(ti) la quota stabile calibrata al tempo ti.
+<U+F071> L’errore di previsione della quota stabile viene definito dalla seguente equazione:
+                                        ei= max[0, (qs(ti) – cci(ti +h))/ qs(ti) ]
+  dove h è l’ampiezza del out-sample posta pari ad 1 anno (frequenza minima di
+  ricalibrazione del modello).
+       1.   Stabilità dei parametri. I parametri del modello di cui si analizza la stabilità nel
+            tempo sono: mean-life aggiustato e volatilità.
+       2.   Accuratezza del modello. L’approccio può definirsi accurato se l’errore per ogni cluster è inferiore al 5%. L’approccio necessita
+            approfondimenti se l’errore è maggiore del 5% (soglia proposta da approvare).
+<U+F071> L’analisi backtesting appena descritta viene effettuata ad ogni ricalibrazione del modello (almeno su base annuale) mentre l’attuale approccio per
+  trigger, che confronta la quota stabile con l’ammontare dello stock, a portafoglio non costante, viene eseguito mensilmente.
+                                                                                                                                                     24
+
+Behavioural models backtesting Framework
+Proposta di adozione di framework per i modelli comportamentali: NMDs
+<U+F071>Nell’ambito del backtesting framework viene proposto un esercizio di
+ back-testing     «in-sample»      per    validare   l’utilizzo    del    modello
+ comportamentale per i NMDs ai fini del calcolo dei Gap Ratios di
+ Liquidità.
+<U+F071>Viene implementata un’analisi di back-testing che confronta i risultati di
+ run off a 1y, 2y, 3y, 4y e 5y desumibili dal modello comportamentale
+ NMDs della Liquidità con quanto osservato empiricamente all’interno
+ dello stesso campione utilizzato per la calibrazione. Il back-testing viene
+ effettuato a livello aggregato sui diversi cluster di clientela distinguendo
+ lato Raccolta da lato Impieghi.
+<U+F071>Fissato l’anno di analisi t l’errore di previsione della percentuale di Run-off in t viene definito dalla distanza se positiva tra la massima
+  percentuale empirica registrata per il tempo t e il livello di run off da modello comportamentale in t.
+<U+F071>Accuratezza del modello. L’approccio può definirsi accurato se l’errore per ogni anno è inferiore al 5% (soglia da approvare).
+  L’approccio necessita approfondimenti se l’errore è maggiore del 5%.
+<U+F071> L’analisi backtesting in-sample viene effettuata ad ogni ricalibrazione del modello (almeno su base annuale).
+                                                                                                                                               25
+
+Behavioural models backtesting Framework
+Analisi dei risultati dell’applicazione del backtesting all’attuale approccio: out-sample
+<U+F071> Nei grafici riportati in basso sono rappresentati i test di verifica della stabilità dei depositi sia di Raccolta sia di Impiego nel periodo
+  2016-2017 (calibrazione del 07/2016 e confronto con il saldo di 07/2017) e quelli del periodo 2017-2018 (calibrazione del 07/2017 e
+  confronto con il saldo di 07/2018).
+<U+F071> L’applicazione del back-testing a livello di singolo cluster evidenzia il pieno superamento di tutti i check per la raccolta. Per quanto
+  riguarda gli impieghi i cluster Small Business (nel 2017) e Persone Fisiche nei due anni presentano un errore inferiore alla soglia critica
+  del 5%.
+                                                                                                                                               26
+
+Behavioural models backtesting Framework
+Analisi dei risultati dell’applicazione del backtesting all’attuale approccio: in-sample
+<U+F071> Le tabelle in basso riportano i test di verifica sulle percentuali di Run-off sia di Raccolta che di Impiego nel periodo 2013-2018.
+<U+F071> Il run-off sul 3Y presenta un 53% rispetto al 55% empirico: poiché il mancato rispetto non supera la soglia del 5%, il test si considera
+  valido.
+<U+F071> Per quanto riguarda il perimetro del default, l’esecuzione dei backtesting avverrà nel contesto più ampio dell’applicazione dell’approccio
+  LGD/DR a tutti gli attivi non-performing. Al momento l’approccio ristretto ai NMDs è molto marginale sia in termini assoluti sia in termini di
+  rischio di liquidità/IRRBB.
+                                                                                                                                                 27
+
+28

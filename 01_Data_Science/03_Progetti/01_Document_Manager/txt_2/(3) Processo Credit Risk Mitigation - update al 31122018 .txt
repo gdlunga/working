@@ -1,0 +1,159 @@
+   Processo CRM
+(Update al 31/12/2018)
+                Direzione Chief Risk Officer
+                  Area Lending Risk Officer
+                            Febbraio, 2019
+
+Processo CRM – Funzione Valutazioni Immobiliari
+Nell’ambito del Processo CRM, così come definito nella Direttiva (D01534) e nel Documento di Processo (D0162), la Funzione Valutazioni Immobiliari (“Servizio Gestione del
+Collaterale, Doc.le e Crediti Speciali”) è tenuta a svolgere, tra le altre, le seguenti attività:
+         1. attivare il processo di riperizia, a livello di Gruppo e su tutto il portafoglio crediti, sulla base dei criteri definiti nella Direttiva (cfr. paragrafo 4.4 e Allegato 2);
+         2. predisporre e fornire alla Funzione Presidio CRM (ALRO – Servizio Credit Risk Models), con cadenza semestrale, adeguata reportistica sull’attività di monitoraggio
+             (inclusiva del processo di riperizia) (cfr. Direttiva paragrafo 3.2.16 e Doc. Processo paragrafo 5).
+Al 31/12/2018 si osserva che:
+1. è stato attivato il processo di riperizia sul perimetro dei beni estratti nel 2018, circa 3K posizioni, sia in base al criterio del “parametro della soglia di svalutazione Nomisma”
+    sia in base al criterio dei ”crediti assistiti da garanzie immobiliari con esposizione superiore a 3 €/mln e vetustà della perizia superiore a 3 anni”; il perimetro è stato esteso
+    a tutte le banche del Gruppo e a tutti gli stati amministrativi, con l’eccezione del criterio del “parametro della soglia di svalutazione Nomisma” per la parte a sofferenza
+    gestita a contenzioso, in quanto il dato statistico non è attualmente utilizzabile;
+2. in termini di reporting è stato fornito:
+         I.     l’elenco delle posizioni su cui è stato attivato il processo di riperizia con le informazioni relative all’esito dell’attività: su circa il 18% delle posizioni (principalmente
+                riconducibili a esposizioni superiori a 3 €/mln) sono stati rilevati dei problemi di inserimento e propagazione della nuova perizia nei sistemi della Banca; per
+                tale tematica è stata avviata un’attività di remediation da parte della Funzione Valutazioni Immobiliari con il COG;
+         II.    Il flusso previsto dal documento di processo CRM, alla data del 30/06/2018, ad eccezione dei dati di stock relativi al perimetro delle posizioni a Contenzioso di
+                tutto il Gruppo e dei crediti MPS non riconducibili al servizio mutui.
+Sulla base di tali evidenze nel corso del 2018 sono stati chiusi i due GAP (RM_2017_00005 - Reporting e RM_2017_00006 - Processo) in carico alla Funzione Valutazioni
+Immobiliari, con il riserbo di valutare nel primo trimestre del 2019 il completamento del flusso di reportistica atteso, pena l’apertura di un nuovo GAP specifico sul perimetro
+mancante entro il 31/03.
+                                                                                                                                                                                                2
+
+Processo CRM – Funzione Valutazioni Immobiliari
+       Riguardo al criterio del “parametro della soglia di svalutazione Nomisma” è stata condotta una analisi sulle 933 posizioni che, nel corso del 2018 sono state oggetto di riperizia
+       (**); le posizioni analizzate, alla data di estrazione, presentavano una % di scostamento dei valori “rivalutati a indici” (data provider NOMISMA), rispetto ai valori delle perizie
+       tecniche presenti nei sistemi, compresa tra -25% e -40% (il dato medio è -26,1 %)
+       Il grafico seguente rappresenta la distribuzione della % di scostamento della “rivalutazione a indici” (“Riv_Indici”), sopra descritta, e la distribuzione della % di scostamento tra i
+       valori delle nuove perizie rispetto a quelle iniziali (“VAR_RIP”), della quale il dato medio risulta essere pari a -22,7%.
+         225                                                                                                                                1000
+                                                        931                                                                                        Si evidenzia che:
+                                                                                                                                            900
+         200
+                                                              185                                                                                  •   circa il 99,8% dei beni (931 beni) presentava uno
+                                                        179
+                                                                                                                      Riv_Indici (dx)       800        scostamento compreso tra -25% e -35%;
+         175
+                                                                                                                      VAR_RIP (sx)          700
+                                                                                                                                                   •   nel medesimo range, post riperizia si posizionano solo 179
+         150                                      137               136                                                                                beni per un’incidenza del 19,2%;
+                                                                                                                                            600
+                                                                                                                                                   •   su 284 beni la riperizia ha avuto una svalutazione più severa
+y = Nr_Beni
+         125
+                                                                                                                                            500        di quella prevista da nomisma
+         100                                 86                            84                                                                      •   su 468 beni la riperiza è stata meno severa della
+                                                                                                                                            400
+                                                                                                                                                       svalutazione nomisma e addirittura in 63 casi la riperizia ha
+              75
+                                                                                                                                            300        portato ad un miglioramento del valore del bene.
+              50
+                                                                                                                                            200
+                                        29
+                                                                                  23
+              25         11   11   11                                                  11                                                   100
+                                                                                            8   7   4                                   5
+                    1                                                                                    3        1       0      1
+                                                   2
+               0                                                                                                                            0
+                   -100% -90% -80% -70% -60% -50% -40% -30% -20% -10%     0%      10% 20% 30% 40% 50% 60% 70% 80% 90% >100%
+                                                                          x (*)
+       (*) Riv_Indici -> [(Val_Nomisma/Val_perizia)-1] % ; VAR_RIP -> [(Val_Perizia_New/Val_perizia)-1] % ;
+       i valori percentuali sono arrotondati alla decina intera ( es. +10% identifica il range +5% = x < +15%).                                               (**) l’analisi ha riguardati solo i beni che non hanno avuto una
+                                                                                                                                                              ricodifica a livello di identificativo del bene
+                                                                                                                                                                                                                                 3
+
+         Processo CRM – Funzione Valutazioni Immobiliari
+         Sulla base dei risultati presentati nella precedente slide l’ALRO ha effettuato una analisi volta a verificare la bontà del monitoraggio statistico operato
+         tramite la “rivalutazione a indici” e una prima analisi sulla “rivalutazione a valori unitari” (data provider NOMISMA).
+         L’analisi della metodologia della “rivalutazione a indici” consiste nel verificare il disallineamento fra la riperizia effettuata dal tecnico e la riperizia
+         simulata tramite l’applicazione degli indici forniti da NOMISMA, che ricordiamo è usata per individuare gli immobili da riperiziare: in caso di
+         convergenza dei due valori l’analisi rileverebbe la bontà del processo di monitoraggio impostato, in caso contrario risulterebbe necessario indagare i
+         perché dei principali disallineamenti al fine di indirizzare interventi correttivi.
+         Il grafico seguente riporta la distribuzione della % di scostamento tra i valori rivalutati a indici e i valori di riperizia delle 933 posizioni oggetto di analisi,
+         con una percentuale media pari a -4,4%.
+              180
+                                                                                                                                           Si evidenzia che:
+                                                                         163
+              160                                                                                                                          •   circa il 44% dei beni (412 beni) presenta uno scostamento
+                                                                   139         136                                                             entro il ±15%; tale % sale al 67% (625 beni) se si estende
+              140                                                                                                                              il range a ±25%;
+                                                                                     113
+              120                                                                                                                          •   308 beni presentano uno scostamento superiore, in valore
+y = Nr_Beni
+              100                                                                                                                              assoluto, al 25% con una incidenza del 33% sul perimetro
+                                                            69                             74                                                  totale; data una incidenza così elevata occorrerebbe
+              80
+                                                                               44%                                                             analizzare i perché di tali scostamenti:
+                                                                                                52
+              60                                                                                                                      42
+                                                                                                       40                                         a)    la   perizia    originaria   è   stata    troppo
+              40                                                                                             26                                         ottimistica/pessimistica?
+                                                16    21                       67%
+                                                                                                                    13   12   8
+              20                     4
+                    0   0     1            2                                                                                      2               b)    la metodologia della “rivalutazione a indici” -
+               0                                                                                                                                        NOMISMA non è sufficientemente affidabile?
+                                                                 x (*)
+         (*) x = [(Val_Nomisma/Val_Perizia_New)-1]%;
+         i valori percentuali sono arrotondati alla decina intera ( es. +10% identifica il range +5% = x < +15%).
+                                                                                                                                                                                                            4
+
+    Processo CRM – Funzione Valutazioni Immobiliari
+    Al fine di capire meglio l’interrogativo di cui al punto b) è stata effettuata, ove il dato era disponibile, la stessa analisi utilizzando, al posto dei valori
+    rivalutati ad indici, i valori rivalutati secondo i valori unitari, forniti sempre da NOMISMA.
+    Il grafico seguente contiene sia la distribuzione delle variazioni percentuali delle 698 posizioni per cui era disponibile il dato delle rivalutazioni a valori
+    unitari sia la distribuzione, sul medesimo perimetro dei beni, dei valori rivalutati a indici.
+              140
+                                                                                                                                                                                      x (*)   Riv_Indici Riv_Unitari
+              120                                                                                                                                                                    -100%        0           0
+                                                                                                                                                              Riv_Indici              -90%        0           2
+              100                                                                                                                                                                     -80%        0           1
+                                                                                                                                                              Riv_Unitari
+                                                                                                                                                                                      -70%        3           3
+y = Nr_Beni
+               80                                                                                                                                                                     -60%        1           7
+                                                                                                                                                                                      -50%       11          26
+               60
+                                                                                                                                                                                      -40%       15          35
+               40                                                                                                                                                                     -30%       49          73
+                                                                                                                                                                                      -20%       99          89
+               20                                                                                                                                                                     -10%       123         95
+                                                                                                                                                                                       0%        115         84
+                0                                                                                                                                                                      10%       91          81
+                     -100% -90%      -80%    -70%    -60%    -50%    -40%
+                                                                      -30% -20% -10%           0%      10%       20%   30%        40%    50%     60%    70%   80%      90%   >100%     20%       55          61
+                                                                         x (*)                                                                                                         30%       32          38
+    (*) x = [(Val_Nomisma/Val_Perizia_New)-1]%; i valori percentuali sono arrotondati alla cifra intera ( es. +10% identifica il range +5% = x < +15%).
+                                                                                                                                                                                       40%       27          22
+                                                                                                                                                                                       50%       20          17
+              Si evidenzia che:                                                                                                                                                        60%       11          12
+              • per la distribuzione relativa alla rivalutazione a valori unitari si registra un’incidenza delle posizioni con elevato scostamento, superiore al 25% in valore         70%        8          10
+                assoluto, del 42%;                                                                                                                                                     80%        6          11
+                                                                                                                                                                                       90%        1           7
+              • per la distribuzione relativa alla rivalutazione a indici, tale incidenza risulta addirittura inferiore e pari a circa il 31%;
+                                                                                                                                                                                     >100%       31          24
+              • pertanto anche la metodologia di rivalutazione a valori unitari non presenta risultati migliorativi rispetto al metodo fino ad oggi utilizzato.                        TOT       698         698
+                                                                                                                                                                                                                       5
+
+Punti aperti
+   Funzione Valutazioni Immobiliari
+   •   in fase di valutazione la necessità o meno di aprire un nuovo GAP relativo al perimetro delle posizioni a Contenzioso di tutto il Gruppo e dei crediti
+       MPS non riconducibili al servizio mutui a oggi non ancora incluso nel reporting
+   •   Sulla base del processo di monitoraggio e dei limiti informatici ad oggi riscontrati sugli applicativi le garanzie ancora scartate risultano essere pari a:
+                <U+F0D8> 30/06          <U+F0E0>        104 garanzie per circa 550 €/mln di esposizione garantita
+                <U+F0D8> 30/09          <U+F0E0>        259 garanzie per circa 850 €/mln di esposizione garantita
+                <U+F0D8> 31/12          <U+F0E0>        180 garanzie per circa 800 €/mln di esposizione garantita
+   Funzione Crediti (Servizio Gestione Portafoglio Creditizio)
+   •   sono ancora presenti i seguenti due gap al processo CRM recentemente riscadenzati al 31/12/2019:
+          1.   monitoraggio delle garanzie e predisposizione di adeguata reportistica da fornire alla Funzione Presidio CRM (codice id RM_2015_00011);
+          2.   monitoraggio dei tempi di realizzo e di escussione delle garanzie con predisposizione di adeguata reportistica da fornire alla Funzione
+               Presidio CRM (codice id RM_2015_00013).
+                                                                                                                                                                   6
+

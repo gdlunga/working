@@ -1,0 +1,297 @@
+                                        LiST 2019
+                              Evidenze dello Stress Test di Liquidità
+                                e impatti modellistici conseguenti
+                             Comitato Gestione Rischi: 28 Giugno 2019
+Direzione Chief Risk Officer
+
+LiST 2019
+Principali evidenze
+<U+F071> Si presentano i risultati finali dell’esercizio LiST 2019 per il Gruppo MPS al 31/12/2018, con la timeline sintetica dell’interlocuzione con
+  l’ECB durante la fase di Quality Assurance, le principali criticità emerse ed il confronto degli esiti finali rispetto alla prima submission.
+<U+F071> La fase di Quality Assurance è durata più di 2 mesi dal 20/03/2019 (first submission) al 29/05/2019 (final submission).
+<U+F071> L’ECB ha formulato 120 richieste di cui 68 prevedevano il potenziale ricalcolo e re-invio del template (request for resubmission) e 52 non
+  ipotizzavano rielaborazioni (request for clarification), ma solo l’invio di risposte qualitative. La timeline delle richieste di
+  resubmission/clarification è stata la seguente:
+                                                                            <U+F071> Le criticità emerse dal confronto con l’ECB sul template inviato
+                                                                              e più in generale sulla segnalazione di liquidità LCR, hanno
+           Submission template                                                riguardato:
+           Clarification
+                                                                                   <U+2713> Criteri per l’individuazione dei depositi operational
+                   10    38 1  1  15 9    22     4   3 12    2 3      1               wholesale;
+                                                                                   <U+2713> Approccio       di     stima     dell’excess     dei  depositi
+                                                                                      operational wholesale.
+         20.03                                                  29.05
+                                                                            <U+F071>   Nell’ultima richiesta di resubmission del 27/5 da evadere per il
+                                                                                29/5, l’ECB ha imposto l’approccio più conservativo sui
+  first submission                                        final submission      depositi wholesale, richiedendo il ricalcolo del template LiST e
+                                                                                del LCR al 31-12-2018 (ai fini dell’esercizio di stress).
+                                                                                                                                                    2
+
+LiST 2019
+Invio finale post Quality Assurance
+<U+F071> La tabella di fianco riporta i risultati finali dell’ultima
+  submission del 29/5 (Final submission).
+<U+F071> Il ricalcolo del template ha previsto la ristima pro-
+  formata del LCR al 31/12/2018 con un valore pari a
+  169,2% (vs. invio segnaletico dell’LCR pari a 232%)
+  per il trattamento di 13,8 €/bn di depositi wholesale
+  da operational a non-operational, con un impatto in
+  termini di deflussi aggiuntivi pari a 3,3 €/bn.
+<U+F071> I risultati finali dello stress, in termini di survival
+  period e di LCR, evidenziano un posizionamento
+  sul primo quartile del benchmark di Bankit relativo
+  alla prima submission.
+<U+F071> Non è previsto il ricalcolo del benchmark da parte di
+  Bankit con la final submission.
+                                                              3
+
+LiST 2019
+Richiesta di ECB di submission delle segnalazioni di vigilanza su ALMM (C66) e su LCR (C73)
+<U+F071> In data 19 giugno, l’ECB (LiST Team), atttraverso una mail destinata ai punti di contatto delle singole banche, ha annunciato la chiusura
+  della fase di Quality Assurance, l’avvio della fase di Supervisory Dialogue per la presentazione e discussione dei risultati dell’esercizio ma
+  ha anche richiesto quanto segue:
+   All banks are requested to re-evaluate their submitted ITS data against the background of lessons learned during the LiST 2019 exercise. We are
+   aware that the QA interactions may have already triggered resubmissions for the December 2018 remittance date in relation to the Maturity ladder
+   (Additional Liquidity Monitoring Metrics C.66) but also in relation to the Liquidity Coverage Ratio (LCR C.73). Please be sure to review also
+   the preceding and following remittance dates and, in case that quality issues are detected, correct and resubmit all affected ITS data without
+   undue delay. Notwithstanding any measures taken in that respect we would like to remind you that non-compliance with the supervisory reporting
+   requirements might result in supervisory action including enforcement measures or sanctions in accordance with the applicable legal framework.
+<U+F071> Da un confronto informale con le altre banche italiane, coinvolte nel LiST, è emerso che la richiesta è stata estesa a tutto il sistema.
+<U+F071> Nel caso MPS, in ambito LiST 2019, la mancanza di adozione di un approccio di excess ha condotto alla stima conservativa sul LCR e
+  poco rappresentativa della reale rischiosità del portafoglio di raccolta wholesale, come prima rappresentato. A tal fine si propone di
+  adottare l’approccio riportato nelle slide successive (Modello di Excess) che evidenzia una riduzione di LCR di circa 22 p.p su
+  Dicembre (da 232% a 210%). Il posizionamento di rischio di breve termine rimane comunque ampiamente adeguato, anche con
+  il nuovo Modello di Excess, dal momento che il valore dell’indicatore è molto al di sopra delle soglie regolamentari/interne RAS.
+<U+F071> Come previsto dai processi interni, il Comitato è chiamato (acquisito il Parere della Funzione di Convalida Interna) ad esprimere
+  un parere preventivo al fine di sottoporre il Modello di Excess agli Organi Aziendali e ad esprimere eventuali
+  considerazioni/valutazioni in tema di comunicazione all’esterno (Autorità e Mercato).
+                                                                                                                                                    4
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: approccio regolamentare
+<U+F071> Il seguente schema riporta la rappresentazione dell’art. 27 LCR dell’atto delegato in riferimento al trattamento dei wholesale deposits:
+<U+F071> Il trattamento differente conduce a stime di potenziale deflusso che spazia dal 25% per i depositi trattati come «operativi» al range
+  40%-100% in base alla natura della controparte (caso peggiore se finanziaria).
+                                                                                                                                           5
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: implementazione MPS
+<U+F071> L’identificazione della clientela operational viene calcolata a livello di singolo rapporto e prevede un processo logico articolato su più
+  livelli di priorità nell’identificazione dei depositi con caratteristiche di operatività, in particolare:
+      1.    Specifiche categorie conto
+            Espressive di tipologie di rapporto
+            contrattualmente utilizzate a fini di
+            gestione di tesoreria.
+       2.    Movimentazione di specifiche causali
+           Se un rapporto presenta, negli ultimi 3 mesi, almeno un movimento con una causale compresa tra quelle identificate (es.
+           disposizione per emolumenti, bonifici, ecc.) viene classificato in funzione delle possibili categorie previste dalla normativa: clearing
+           (compensazione), custody (custodia); cash management (gestione liquidità): other comparable services; institutional protection
+           scheme or cooperative network; other established operational relationship; cash clearing and central credit institution services
+           within a network.
+<U+F071> Per il Gruppo MPS l’operatività operational è quasi interamente collocata nella categoria “Cash management” (percentuale superiore al
+  95%).
+                                                                                                                                                    6
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: mancanza dell’approccio di stima dell’excess operational deposits
+<U+F071> La principale criticità emersa in ambito di LiST 2019 è relativa alla mancata ottemperanza della normativa in materia di stima dell’excess
+  operational deposits ovvero nell’approccio per la ripartizione delle componenti operational/non operational del singolo rapporto.
+<U+F071> La ripartizione richiesta nell’articolo 27 comma 6 afferma che:
+       “Only that part of the deposit which is necessary to make use of the service of which the deposit is a by-product shall be treated as an
+       operational deposit. The excess shall be treated as non-operational”
+<U+F071> A febbraio 2019, l’EBA ha convocato a Londra una riunione di «Discussion on issues identified in the implementation of the LCR by
+  EU banks” alla quale è stato invitato anche il Gruppo MPS, per affrontare la mancata armonizzazione sull’implementazione LCR dovuta
+  principalmente alla mancanza di chiarezza da parte della normativa.
+<U+F071> Il primo punto discusso all’ordine del giorno è stato proprio il trattamento dei depositi wholesale, con particolare riferimento all’approccio
+  di excess operational deposits. L’EBA, in tale sede, ha chiesto alle banche una valutazione di due approcci sul tema.
+<U+F071> Il Gruppo MPS fino alla rilevazione di maggio 2019 non ha effettuato tale distinzione in quanto le evidenze gestionali, in termini di
+  deflussi potenziali di liquidità secondo approccio NMDs, confermavano la prudenza della stima anche senza adozione dell’approccio.
+<U+F071> Al 31 dicembre, ad esempio, l’ammontare di deflusso LCR sul totale dei depositi wholesale (17,6 €/bn) era pari a circa 5,4 €/bn mentre il
+  totale dei deflussi, seguendo il modello NMDs (incluso retail), era pari a 5,9 €/bn. Il ricalcolo imposto dall’ECB con l’azzeramento della
+  quota operational porta ad un deflusso potenziale di 8,7 €/bn, ovvero ipotizza un run-off del 52% dei depositi in un mese.
+                                                                                                                                                 7
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: approccio EBA per l’excess operational deposits
+<U+F071> Gli approcci proposti nella draft dell’EBA guidance sono 2:
+                                                                    <U+27A2> Sintesi     dell’approccio:       Calcolo     dell’excess
+                                                                      operational deposits in base al saldo minimo dei
+                                                                      depositi del cliente su più «trade cycle».
+                                                                    <U+27A2> Pro: intensivo dal punto di vista computazionale ma
+                                                                      tecnicamente implementabile.
+                                                                    <U+27A2> Contro: approccio semplificato.
+                                                                    <U+27A2> Sintesi    dell’approccio:       Identificazione     delle
+                                                                      transazioni definite come «operative» in un
+                                                                      determinato orizzonte temporale che copra il ciclo
+                                                                      «economico» del cliente.
+                                                                    <U+27A2> Pro: approccio più accurato.
+                                                                    <U+27A2> Contro: tecnicamente molto intensivo.
+                                                                                                                                 8
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: proposta sull’approccio excess operational deposits
+<U+F071> L’approccio proposto consiste nell’effettuare un’analisi dei «cicli» presenti saldi dei rapporti della clientela operational ipotizzando che il
+  conto presenti flussi periodici come, ad esempio, pagamento degli stipendi/fornitori, pagamenti di natura fiscale, incasso dai clienti etc.
+<U+F071> Le analisi condotte sulla serie dei conti correnti ha potuto evidenziare due distinti cicli:
+       <U+2713>  ciclo di lungo termine noto come growth cycles o trend;
+       <U+2713>  ciclo di breve periodo definito business cycles o trade cycles.
+<U+F071> La metodologia utilizzata per isolare la componente ciclica di breve periodo (trade cycle) si basa sulla possibilità di decomporre la serie
+  storica originale nella somma di due componenti:
+                                                                      <U+0001D466><U+0001D461> = <U+0001D460><U+0001D461> + <U+0001D450><U+0001D461>
+  l’una relativa al trend ed ai cicli di bassa frequenza e l’altra relativa alle fluttuazioni di breve periodo.
+<U+F071> L’approccio proposto utilizza l’analisi spettrale per identificare i cicli basata sul teoria di
+  Fourier per cui qualunque funzione periodica può essere rappresentata mediante una
+  somma di funzioni sinusoidali pure, pesate da opportuni coefficienti, nei cui argomenti
+  compaiono tutte le frequenze (le armoniche) multiple di una frequenza fondamentale
+  (<U+0001D453>0 ).
+                                                                                                                                                  9
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: proposta sull’approccio excess operational deposits
+<U+F071> L’approccio consiste quindi nell’applicare una Fast Fourier Transform alla serie giornaliera dei conti correnti per stimare la densità
+  spettrale mediante spettrogramma (detto anche periodogramma), una rappresentazione grafica dell’intensità dei cicli alle varie frequenze
+  che lo costituiscono.
+<U+F071> Al fine di indentificare il business cycle, l’approccio proposto si basa sul periodogramma determinato per ogni rapporto di conto e, avendo
+  opportunamente isolato la componente di ciclicità a bassa frequenza (il trend <U+0001D460><U+0001D461> ), definisce il trade cycle pari all’inverso della frequenza
+  corrispondente all’intensità massima (freccia rossa).
+<U+F071> A titolo esemplificativo
+  si   consideri    la   serie
+  storica giornaliera dai
+  saldi dell’ultimo anno di
+  un deposito operational
+  a partire dal quale si
+  determina      il   relativo
+  periodogramma.
+<U+F071> La frequenza corrispondente al picco massimo del periodogramma è a
+  pari a 0,008 ed il reciproco è di 128 giorni (stima del trade cycle).
+                                                                                                                                                10
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: proposta sull’approccio excess operational deposits
+<U+F071>  Nell’esempio riportato nella slide precedente non è stato necessario isolare la
+   componente di trend in quanto non presente. In caso di presenza di frequenze
+                                                     basse     con     intensità  alta   è
+                                                     possibile applicare un filtro di
+                                                     tipo   passa-alto      (Hodrick     e
+                                                     Prescott).     Il    periodogramma
+                                                     riportato a fianco evidenzia lo
+                                                     spettro per la serie di partenza
+                                                     (linea rossa) e per la serie filtrata
+                                                     (linea blue).
+ <U+F071> Nel caso in cui il periodo di ciclo (inverso della frequenza) sia inferiore all’orizzonte temporale di analisi, l’excess viene determinato come il
+   minimo del saldo giornaliero nell’ultimo trade cycle della serie originaria.
+ <U+F071> Nel caso in cui non si identifichi un ciclo nell’ambito dell’orizzonte, l’excess viene posto uguale all’intero ammontare, ovvero totalmente
+   non-operational, ad eccezione dei conti intestati al cliente Cassa per i Servizi Energetici e Ambientali (CSEA). Per tale cliente, data la
+   natura contrattuale operativa, avendo stipulato un contratto mediante bando di concorso pubblico, viene definito come trade cycle un anno.
+   La differenza tra il saldo puntuale alla data di riferimento e l’excess rappresenta la quota effettivamente operational.
+                                                                                                                                                      11
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: proposta sull’approccio excess operational deposits
+<U+F071> Si evidenzia che l’applicazione del modello è stata effettuata su 1 anno di serie storica dei saldi giornalieri di tutti i conti correnti che
+  presentano le caratteristiche «anagrafiche» della slide 6 puntualmente sulla data del 31/05/2019 ed è stata effettuata una stima al
+  31/12/2018.
+<U+F071> Il totale dei depositi wholesale al 31/05/2019 (ultima data elaborata) è pari a 20,1 €/bn e la clientela operational, seguendo la prima
+  classificazione, è pari a 14,8 €/bn (circa il 74%)
+<U+F071> In base all’approccio di excess proposto, la quota operational rispetto al totale della raccolta wholesale è pari a circa il 44% con un
+  impatto complessivo sull’indicatore di LCR di riduzione di circa 39 punti percentuali sul dato di LCR ufficiale al 31 maggio 2019,
+  passando da 273% a 234% (in parte legato anche ad un effetto base).
+<U+F071> La rielaborazione del LCR ufficiale al 31 dicembre 2018 con l’approccio proposto presenta invece un impatto di 22 punti percentuali per
+  diversa composizione dei depositi e per minore ammontare. Il LCR di dicembre 2018 ufficiale, pari a 232% e ristimato in ambito LiST in
+  circa 169,2% con la completa esclusione della quota operational (come chiesto da ECB), passerebbe dunque con l’approccio proposto a
+  circa 210%. Anziché avere un deflusso aggiuntivo di 3,3 €/bn, come nelle ipotesi iniziali di ECB, il nuovo modello stima un deflusso pari a
+  circa 1 €/bn.
+<U+F071> Gli impatti in termini di NSFR al 31/12/2018 sono stimati in circa 0,9%, con un indicatore che si attesterebbe a dicembre pari a 111,4%
+  (dato ufficiale 112,3%) ed a maggio in circa 0,8%, ovvero 110,1% (dato finale di 110,9%).
+                                                                                                                                                12
+
+                  ALLEGATO A
+Overview dell’esercizio, risultati prima submission e
+              analisi di benchmarking
+                                                      13
+
+LiST 2019
+Overview dell’esercizio
+<U+F071> In data 6 Dicembre 2018 la Banca Centrale Europea ha lanciato l’esercizio di Stress Test per il Rischio di Liquidità denominato LiST 2019
+  (Sensitivity Analysis of Liquidity Risk - Stress Test 2019).
+<U+F071> L’esercizio ha avuto l’obiettivo di valutare la resilienza delle
+  banche a fronte di uno shock di liquidità idiosincratico di breve e
+  non strutturale.
+<U+F071> LiST 2019 è stato condotto a livello accentrato da un team
+  dedicato della ECB e ha coinvolto circa 100 banche europee.
+<U+F071> Le banche italiane selezionate nell’esercizio, oltre a Banca MPS,
+  sono: Banco BPM, Banca Carige, Credito Emiliano, Intesa
+  Sanpaolo, Mediobanca, BPER, UBI e Unicredit.
+<U+F071> I risultati dell’esercizio LiST 2019, svolto tra Febbraio e Maggio
+  2019, saranno oggetto di supervisory dialogue nell’ambito della
+  SREP 2019.
+<U+F071> Inoltre, non è prevista disclosure individuale dei risultati, ma solo
+  a livello aggregato (if any).
+                                                                                                                                            14
+
+LiST 2019
+Key features
+<U+F071> L’esercizio è di tipo sensitivity analysis ed è basato su shock idiosincratici di breve dove non sono previsti scenari macro-economici o
+  shock di mercato: escluso quindi il downgrade della Repubblica Italiana.
+<U+F071> Gli shock istantanei previsti sono di tipo adverse ed extreme la cui severità è stata calibrata dalla ECB in base alla supervisory
+  experience. Le maggiori caratteristiche di LiST sono la simulazione della fuga di depositi a vista senza compensazione dal lato della
+  riduzione delle attività di credito. Gli scenari di stress sono neutrali rispetto alla politica monetaria e prevedono un downgrade del proprio
+  rating di un notch nello scenario avverso e di tre nello scenario estremo.
+<U+F071> Il template per la compilazione dell’esercizio si basa sull’attuale reporting ALMM (Additional Liquidity Monitoring Metrics, Template C66
+  della Contractual Maturity), con lievi differenze in termini di bucket delle scadenze (maggiore granularità) e con qualche informazione
+  aggiuntiva (ad esempio sulla parte dei Forex Swap).
+<U+F071> L’esercizio è su base consolidata e prevede i seguenti deep-dive per:
+       <U+27A2> la divisa solo se rilevante, ovvero se l’esposizione in divisa supera il 5% dell’attivo consolidato;
+       <U+27A2> i flussi infragruppo aggregati per European Area entities e non-European Area entities;
+       <U+27A2> la gestione del collateral in termini di capacità di smobilizzo e generazione di liquidità in condizione di stress.
+<U+F071> L’esercizio ha previsto una fase di Quality Assurance basata da un lato su controlli di tipo Data Quality (completezza, plausibilità dei
+  valori, verifiche formali, controlli di consistenza interna al template e con altre fonti – LCR, COREP C66, etc) e dall’altro su benchmarking.
+                                                                                                                                                 15
+
+LiST 2019
+Punti rilevanti e impatti in termini di SREP decision 2019
+<U+F071> L’esercizio ha riguardato la capacità di mobilizzare il collaterale, escludendo però potenziali operazioni di Emergency Liquidity
+  Facility (ELA), che sarebbero eventualmente gestite, pur previa autorizzazione della BCE, dalle banche nazionali in condizioni di
+  estrema riservatezza.
+<U+F071> Rispetto allo ST 2018, LiST 2019 ha un orizzonte temporale più lungo (sei mesi anziché tre), una maggiore granularità (reporting
+  giornalieri per le prime tre settimane, settimanali per i primi due mesi) e informazioni più precise (survival period, date in cui l’LCR
+  scende sotto il 100%).
+<U+F071> Riguardo all’LCR giornaliero e settimanale, la BCE ha consentito il calcolo best effort.
+<U+F071> I risultati dell’esercizio saranno integrati nella SREP 2019 (Element 4: Risks to liquidity) attraverso:
+       <U+27A2> uno score nell’ambito della valutazione dell’adeguatezza di liquidità per la parte di Informazioni qualitative come valutazioni di
+           disponibilità dei dati, tempestività e qualità;
+       <U+27A2> una valutazione che coinvolga tutti i 3 differenti blocchi (Supervisory, Bank’s e forward-looking perspective) mediante indicatori
+           addizionali, come ad esempio il cliff effect su LCR, o per effettuare challenge dell’ILAAP oppure da considerare nel blocco 3.
+<U+F071> Quindi i risultati dell’Element 4 influenzeranno i Requisiti di Pillar 2 (P2R) relativi alla liquidità, pertanto non i requisiti di capitale né la
+  Guidance (P2G).
+                                                                                                                                                     16
+
+                  ALLEGATO B
+Applicazione del filtro di Hodrick-Prescott e stabilità
+         della struttura di periodogramma
+                                                        17
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: proposta sull’approccio excess operational deposits
+<U+F071>  La verifica della presenza della periodicità viene effettuata tramite periodogramma e l’applicazione del filtro di HP non genera distorsioni
+   nella struttura del periodogramma nei casi identificati ma rappresenta un selettore di frequenze di tipo passa alto.
+ 1° caso: assenza di un ciclo infra-annuale (6 mesi) nella serie di partenza e confermata anche post applicazione del filtro HP.
+                                                                    Periodogramma applicato alla serie            Periodogramma applicato alla serie
+                                                                             senza filtro HP                                con filtro HP
+                                                                                                                                                     18
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: proposta sull’approccio excess operational deposits
+ 2° caso: presenza di un ciclo infra-annuale (6 mesi) nella serie di partenza e confermata anche post applicazione del filtro HP.
+                                                                 Periodogramma applicato alla serie           Periodogramma applicato alla serie
+                                                                          senza filtro HP                               con filtro HP
+                                                                                                                                                 19
+
+Impatti modellistici del LiST 2019
+Wholesale deposits: proposta sull’approccio excess operational deposits
+ 3° caso: assenza di un ciclo infra-annuale nella serie di partenza mentre il filtro consente di filtrare le frequenze più basse (6 mesi)
+                                                                 Periodogramma applicato alla serie                 Periodogramma applicato alla serie
+                                                                          senza filtro HP                                     con filtro HP
+                                                                                                                                                       20
+
+21

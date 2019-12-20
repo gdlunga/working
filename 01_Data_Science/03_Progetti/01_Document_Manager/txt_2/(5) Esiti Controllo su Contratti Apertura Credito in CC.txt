@@ -1,0 +1,370 @@
+Contratti di Apertura di Credito
+           in Conto Corrente
+Evidenze emerse nel corso dei controlli di secondo livello
+                                    Area Lending Risk Officer
+                     Servizio Controlli Esposizioni Creditizie
+                                             Siena, giugno 2019
+
+Highlights
+    Verifica della produzione 2018..                            …e andamento gen-apr 2019
+                                                        I primi mesi del 2019 evidenziano che il
+        Circa 23.000 i nuovi affidamenti in Conto          fenomeno di mancata produzione
+    Corrente erogati nel 2018 ancora operativi nel            contrattuale interessa circa:
+                            2019
+                                                              •  il 5% di nuove concessioni
+         In oltre il 10% dei casi è stata fornita in
+     istruttoria un’errata indicazione sulla modalità     • il 18% delle modifiche di importo o
+                  di contrattualizzazione.                  scadenza delle concessioni in essere
+    La maggior parte degli errori è stata corretta in I processi e gli strumenti sono stati valutati
+      fase di mitigazione, ma permane un 3% di                          Adeguati.
+              affidamenti privi di contratto
+                                                          L’origine del fenomeno è di natura
+        La sistemazione ex-post di tali omissioni           comportamentale, probabilmente
+               presenta limiti di attuazione          condizionata dalla scarsa conoscenza delle
+                                                        connessioni tecniche tra le applicazioni
+                                                                                                     2
+
+Executive Summary
+<U+F071> Il controllo di secondo livello sulla corretta esecuzione degli adempimenti di delibera ed erogazione dei finanziamenti nella forma di Apertura
+  di Credito in Conto Corrente ha evidenziato delle non conformità operative ritenute significative ai fini della gestione dei rischi di credito.
+<U+F071> Le non conformità operative osservate sono legate a due specifici momenti:
+      <U+F071> Disponibilità delle concessioni, che coincide con la sottoscrizione del Contratto (contenente le condizioni giuridico economiche del
+         finanziamento)
+      <U+F071> Digitalizzazione e registrazione del contratto (dal 2016 il servizio postale è stato sostituito da procedura elettronica utilizzata solo
+         parzialmente)
+<U+F071> Le non conformità operative sono riconducibili prevalentemente alla errata selezione, in fase di concessione e messa a disposizione del
+  finanziamento, delle opzioni che consentono di generare un contratto attraverso la specifica procedura (Gestione Contratti). Seppure i
+  controlli di linea hanno mostrato una capacità correttiva significativa, in particolare sulle nuove concessioni, questi non sono in grado di
+  risolvere buona parte delle non conformità (ad esempio nelle modifiche in incremento di importo o durata di concessioni già operative).
+<U+F071> Il principale ambito di miglioramento è quindi legato alla Formazione del personale addetto alla commercializzazione dei prodotti di
+  finanziamento, non sempre consapevole delle implicazioni delle dichiarazioni di istruttoria sulla successiva produzione del contratto.
+<U+F071> Il processo di contrattualizzazione, nel quale sono presenti controlli automatici e manuali, è stato valutato adeguato alla gestione dei rischi.
+  Sono invece emersi ambiti di miglioramento nelle norme relative alla digitalizzazione e registrazione dei contratti (Dossier Digitale). Altri
+  ambiti di miglioramento possono essere ottenuti attraverso lo sviluppo di Prodotti Commerciali per particolari esigenze di finanziamento (es.
+  prefinanziamento mutui) in presenza delle quali è stato osservato un maggior rischio di mancata contrattualizzazione.
+<U+F071> Nessuno degli ambiti di miglioramento osservati è stato ancora attivato formalmente come GAP
+<U+F071> La Funzione di Controllo dei Rischi monitorerà il fenomeno della mancata contrattualizzazione con una frequenza superiore a quella annuale
+  attraverso lo sviluppo di due indicatori (produzione contratti su nuove concessioni e modifiche contrattuali).
+                                                                                                                                                  3
+
+Produzione del Contratto – Implicazioni dell’Iniziativa nella disponibilità della Gestione Contratti
+                                                                                                                                                                      Attivazione della
+                                                                                                                                             Iniziativa Cliente
+                                                                                                                                                                   produzione automatica
+                                                                                                                                          valorizzata nella trx in
+                           Richiesta                                                                                                                                  del contratto in
+                                                                              Collegamento del fido al/ai                                       Credit Hub
+                           Presentata dal                                                                                                                            Gestione Contratti
+                           Cliente                                                rapporto/i utilizzatore/i
+                           Valorizzare in                                         (tramite funzionalità in
+                           PEF «C»                                                       Credit Hub)                                                                  NON Attivazione
+                                                                                                                                             Iniziativa Banca
+                                                                                                                                                                       automatica del
+                                                                                                                                          valorizzata nella trx in
+                                                                                                                                                                    contratto in Gestione
+                          Casi in cui è prevista l’indicazione di Iniziativa Banca                                                              Credit Hub
+                                                                                                                                                                           Contratti
+                               Rinnovo dei fidi continuativi alla pari (anche automatici)
+                               Variazione garanzie senza modifica dell’importo e/o la scadenza e/o altre caratteristiche dell’affidamento
+Richiesta di                   Delibere post impianto per modifiche puramente tecniche (no modifiche di importo/durata/condizioni)
+Affidamento                    Operazioni Straordinarie in accentrato (es. spin off)
+                               radiazioni/riduzioni dell’affidamento di iniziativa Banca
+                                                                                                                                                                      Attivazione della
+                                                                                                                                             Iniziativa Cliente
+                                                                                                                                                                   produzione automatica
+                                                                                                                                          valorizzata nella trx in
+                                                                                                                                                                       del contratto in
+                                                                                                                                                Credit Hub
+                                                                                                                                                                     Gestione Contratti
+                           Derivante da                                       Collegamento del fido al/ai
+                           Iniziativa Banca                                       rapporto/i utilizzatore/i
+                           Valorizzare in                                         (tramite funzionalità in
+                           PEF «B»                                                        Credit Hub)                                                                 NON Attivazione
+                                                                                                                                             Iniziativa Banca
+                                                                                                                                                                       automatica del
+                                                                                                                                          valorizzata nella trx in
+                                                                                                                                                                    contratto in Gestione
+                                                                                                                                                Credit Hub
+                                                                                                                                                                           Contratti
+ Al fine di minimizzare il rischio di mancata produzione del contratto sulle nuove concessioni è necessario verificare ex-ante che l’ Iniziativa (Cliente o
+ Banca) sia valorizzata nel modo corretto in quanto da tale scelta dipende la possibilità di attivare la formalizzazione dei contratti in Gestione Contratti. Lo
+ stesso controllo di linea deve essere attivato in caso di modifiche in aumento di importo e scadenza sui fidi già operativi in proposta.
+                                                                                                                                                                                          4
+
+Ambiti di miglioramento osservati (1/5)
+                                                                     SOLUZIONE CORRETTIVA
+  Nr.       TITOLO                  DESCRIZIONE                                                     RILEVANZA          RISCHIO      FATTORE SCADENZA
+                                                                             SUGGERITA
+       Necessità   di La frequenza delle non conformità           Prevedere attività formative                     Negligenza
+       attività       evidenzia        una     non       chiara   sulle funzioni che svolgono un                   nella gestione
+       formative   ad conoscenza del vincolo esistente tra        ruolo attivo nel processo                        della
+       hoc            la        selezione        dell’iniziativa  analizzato ponendo particolare                   documentazion
+                      (Banca/Cliente) in fase di proposta         attenzione sui rischi che la                     e Mancata o
+                      degli affidamenti e le successive           Banca sta assumendo a causa                      errata
+                      attività    di    perfezionamento        (i della non integrale esecuzione                   archiviazione
+                      contratti non possono essere                degli adempimenti e dei controlli                dei documenti,
+                      generati in caso di errata indicazione      descritti nel 1030D01591 –                       mancata
+                      dell’iniziativa).                           Concessione e Revisione del                      finalizzazione
+                                                                  Credito (Fidi Banca)            e                dei
+                      La formazione appare necessaria             1030D01628        –      Gestione                contratti/conven
+ 1                    anche in relazione alla registrazione       affidamenti utilizzabili in conto                zioni
+                                                                                                       Alta                            Risorse 31/12/2019
+                      del contratto. Infatti, l’acquisizione      corrente.
+                      della Data Certa e l’archiviazione
+                      non viene sempre                eseguita    Rafforzare la conoscenza del
+                      correttamente.                              processo di «Concessione e
+                                                                                                                In data 21/05/2019 lo Staff
+                                                                  revisione del credito: Regole in          Direzione Rete ha inviato ai ruoli
+                                                                  materia di imposta di registro,
+                                                                  registrazione dei contratti di
+                                                                                                               di responsabilità di AT, fino al
+                                                                  finanziamento e certificazione               District Manager, una nota di
+                                                                  della data» (D01488).
+                                                                                                            richiamo alla corretta operatività.
+                                                                                                                                                          5
+
+Ambiti di miglioramento osservati (2/5)
+                                                                     SOLUZIONE CORRETTIVA
+  Nr        TITOLO                   DESCRIZIONE                                                      RILEVANZA     RISCHIO      FATTORE SCADENZA
+                                                                             SUGGERITA
+       Non        chiara Non      chiara     definizione    delle Aggiornamento dei documenti                   Negligenza
+       descrizione       modalità di creazione/registrazione      normativi. In particolare, per la             nella gestione
+       delle regole di   (acquisizione         data       certa)/ Registrazione dei Contratti:                  della
+       funzionamento     digitalizzazione e conservazione         • Manuale                operativo            documentazion
+       del processo di   della documentazione contrattuale           acquisizione      data     certa           e Mancata o
+       contrattualizzaz  prevista dal processo:                      digitale (M00189);                         errata
+       ione e delle      - Lettera «Contratto di Credito»         • Acquisizione data certa (in                 archiviazione
+       modalità       di    (Comunicazione degli affidamenti         sostituzione della data certa              dei documenti,
+       digitalizzazione/    deliberati), prodotta in automatico      postale (D02099).                          mancata
+       acquisizione         da PEF;                                                                             finalizzazione
+       data certa sui                                             Inoltre, modificare/integrare la              dei
+       documenti         - Contratto specifico di «Apertura di    tabella               Tassonomia              contratti/conven
+       contrattuali         Credito in Conto Corrente», o         Documentale – Documenti che                   zioni
+ 2                                                                                                      Media                     Processo 31/12/2019
+                            Moduli se sigla di fido non inclusa   prevedono l’acquisizione della
+                            in specifico elenco.                  Datacerta (agg. al 20/04/2018)
+                                                                  al fine di assicurare una più
+                         Le normative dovrebbero esplicitare      chiara     comprensione       della
+                         i comportamenti attesi in casistiche     necessità       di       codificare
+                         particolari, quali: Rapporti delle Ditte correttamente      i    documenti
+                         Individuali, Rapporti Utilizzatori su    digitalizzati.
+                         Filiali differenti da seguimento,
+                         Rapporti di clientela con seguimento
+                         Direzione Crediti Non Performing.
+                                                                                                                                                      6
+
+Ambiti di miglioramento osservati (3/5)
+                                                                SOLUZIONE CORRETTIVA
+  Nr      TITOLO                   DESCRIZIONE                                                    RILEVANZA     RISCHIO     FATTORE SCADENZA
+                                                                         SUGGERITA
+       Mancata         Si rileva che in caso di modifica di  Garantire la generazione del                   Rischio di non
+       generazione del importanti elementi del contratto di  contratto        in       «Gestione            corretta
+       Contratto       Apertura di Credito in Conto          Contratto» in caso di modifica                 definizione
+                       Corrente (variazione di importo o di  delle caratteristiche di importo o             della normativa
+                       durata/scadenza – cfr D1628           durata/scadenza. Se necessario                 interna per la
+                       par.4.2.1) non viene generato un      prevedendo causali sospensive                  mitigazione dei
+                       documento integrativo/sostitutivo in  in fase di delibera di modifica ai             rischi
+                       «Gestione Contratto» se il rapporto   finanziamenti già collegati a
+                       utilizzatore risulta già collegato al rapporti        utilizzatori,     in
+                       fido.                                 particolare se la modifica
+                                                             riguarda       una     concessione
+                       Unica deroga presente in normativa    inizialmente       identificata   di
+ 3                     (D1591 par. 9) nel caso di riduzione  iniziativa cliente.
+                                                                                                    Media                   Processo/ 31/12/2019
+                       dell'importo di affidamento di
+                       Iniziativa    banca     che     viene                                                                   IT
+                       comunicato con il mod. 20770.
+                       Nel periodo da marzo all’inizio di
+                       maggio 2019, sono state rilevate
+                       circa 200 variazioni di importo o
+                       scadenza che non hanno avuto una
+                       chiamata a gestione contratti.
+                                                                                                                                                 7
+
+Ambiti di miglioramento osservati (4/5)
+                                                                    SOLUZIONE CORRETTIVA
+  Nr       TITOLO                   DESCRIZIONE                                                     RILEVANZA     RISCHIO      FATTORE SCADENZA
+                                                                            SUGGERITA
+       Integrazione di  E’ attualmente consentito rendere        Incrementare l’attenzione della              Negligenza
+       controlli        operativi dei fidi attraverso il         funzione commerciale in caso di              nella gestione
+       automatici negli collegamento         del        rapporto concessione      dichiarata     di           della
+       strumenti        utilizzatore senza interessare la        «Iniziativa Banca», ricordando               documentazion
+       operativi e/o    Gestione      Contratti      (indicando  la necessità di produrre il                  e Mancata o
+       monitoraggi ex-  iniziativa Banca sia in PEF che          contratto da Gestione Stampa                 errata
+       post             nella funzionalità prevista in Credit    Moduli in caso di mancato                    archiviazione
+                        Hub).                                    utilizzo,   giustificato,    della           dei documenti,
+                                                                 Gestione Contratti.                          mancata
+                        Non è previsto alcun controllo                                                        finalizzazione
+                        automatico ex-ante per segnalare le      Adottare strumenti di indagine               dei
+                        dichiarazioni non coerenti con la        (KRI) per la rilevazione e                   contratti/conven
+ 4                      fattispecie creditizia (fidi in elenco   sistemazione                 delle           zioni
+                                                                                                       Media                    Processo 31/12/2019
+                        Gestione Contratti).                     incongruenze rilevate ex-post
+                                                                 sulla formalizzazione di fidi resi                                / IT
+                        Non è previsto un controllo manuale      operativi.
+                        ex-post per assicurare che a fronte
+                        di indicazione Iniziativa Banca sia
+                        stato                    effettivamente
+                        contrattualizzato il rapporto di
+                        credito attraverso uno dei Moduli
+                        previsti.
+                                                                                                                                                    8
+
+Ambiti di miglioramento osservati (5/5)
+                                                                   SOLUZIONE CORRETTIVA
+  Nr        TITOLO                  DESCRIZIONE                                                          RILEVANZA     RISCHIO        FATTORE SCADENZA
+                                                                           SUGGERITA
+       Assenza        di Le      analisi   condotte      hanno  Verificare       l’opportunità       di            Rischio         di
+       prodotti          evidenziato una frequenza di           applicare     il      processo       di            violazione del
+       dedicati        a mancato utilizzo della gestione        formalizzazione         dei contratti              principio       di
+       particolari       contratti per alcune forme tecniche    descritto dal D01628 per tutte le                  completezza
+       tipologie      di legate a specifiche operatività        forme tecniche di fabbisogno                       dei
+       fabbisogno        commerciali.                           finanziario definite nell’allegato                 prodotti/servizi
+       finanziario                                              (in particolare:                                   che     rientrano
+       finanziate,    in In questi casi le prassi osservate     • Prefinanziamento mutui;                          negli obblighi di
+       alternativa, con  evidenziano una gestione differente    • Anticipi di Tesoreria).                          trasparenza; il
+       apertura       di rispetto a quella delle altre aperture                                                    rischio         di
+       credito in conto  di credito in conto corrente, in       Avviare iter di definizione di                     perdita per la
+       corrente          particolare per le seguenti forme      prodotti     specifici        per      i           banca            è
+                         tecniche:                              finanziamenti        previsti     dalle            connesso alle
+ 5                                                                                                         Media                       Processo 31/12/2019
+                                                                prassi operative. Come ad                          sanzioni      per
+                         • Prefinanziamento mutui;              esempio il prefinanziamento di                     mancato
+                         • Anticipi di Tesoreria.               mutui attraverso aperture di                       rispetto     delle
+                                                                credito in cc (cfr. nel paragrafo                  disposizioni
+                         Per tali fabbisogni finanziari non è   27.9.1 del Documento U00612                        legislative ed ai
+                         previsto un prodotto specifico nel     Integrazione        Urgente        alla            potenziali
+     GAP                 catalogo di Banca MPS.                 normativa D00496 versione 7.7                      reclami/cause
+ Compliance                                                     - Processi del Credito -                           dei clienti su
+                                                                Istruttoria e Gestione Mutui                       tale tema
+                                                                Fondiari).
+                                                                                                                                                           9
+
+Approfondimento
+                10
+
+ La corretta formalizzazione dei contratti di Apertura di Credito in Conto Corrente
+I finanziamenti utilizzabili mediante Apertura di Credito in Conto Corrente prevedono un processo di formalizzazione (1030D01628) supportato da
+strumenti IT (Gestione Contratti e Dossier Digitale) che vincolano la disponibilità del fido alla rimozione delle causali sospensive ed all’espletamento delle
+attività di stampa e sottoscrizione dei documenti contrattuali e digitalizzazione e registrazione del contratto.
+                                             DOCUMENTAZIONE CONTRATTUALE DA PRODURRE (FORMALIZZAZIONE)
+     I.   Lettera «Contratto di Credito» (Comunicazione degli affidamenti deliberati)
+     II. Contratto specifico di «Apertura di Credito in Conto Corrente» (Contenente le condizioni giuridico economiche)
+   I PRINCIPALI RISCHI OPERATIVI CON RILEVANZA                               ADEMPIMENTI MITIGANTI I RISCHI DI CREDITO PREVISTI DAI PROCESSI AZIENDALI
+         CREDITO ASSOCIATI ALL’OPERATIVITÁ
+                                                                       Stampa e Sottoscrizione (D1591-D1628)                                Registrazione del contratto
+ <U+F0A7> Rischio di erogazione delle linee di credito senza il
+     perfezionamento dei contratti e delle eventuali            <U+F0A7> Verificare ed eliminare le causali sospensive dei fidi       <U+F0A7>    Verificare la correttezza e la completezza dei
+     garanzie previste in delibera (fidi provvisori)              ed effettuare gli adempimenti per rimuoverle                      documenti e attestare la legittimità della firma
+ <U+F0A7> Rischi collegati alla mancata               o     incompleta                                                                <U+F0A7>    Registrare il contratto. Per contratti redatti nella
+     compilazione della documentazione                          <U+F0A7> Predisporre contratto specifico in Gestione Contratti             forma dello scambio di corrispondenza, ove è
+                                                                                                                                    prevista la datacertazione elettronica, archiviare
+ <U+F0A7> Negligenza nella gestione della documentazione.                                                                                  nel Dossier Digitale i contratti sottoscritti dal
+     Mancata o errata archiviazione dei documenti,              <U+F0A7> Far sottoscrivere al cliente la copia del contratto,              cliente entro il giorno successivo alla
+     mancata finalizzazione dei contratti/convenzioni             verificando i poteri di firma e la correttezza della              sottoscrizione
+                                                                  documentazione
+                                                                                                  Controlli di linea già formalizzati, focus del controllo di secondo livello
+                                                                                                                                                                                        11
+                                                                                                  Controlli di linea da formalizzare nei processi aziendali
+
+   Analisi della produzione 2018
+                                                                                                          Fidi utilizzabili in CC Deliberati nel 2018
+Il perimetro di indagine iniziale è stato determinato nello stock di 123.629 Fidi                 Senza modif. Rapp. Util. 2018
+                                                                                                                                              22.577
+di apertura di credito in conto corrente (a cui si applica il processo previsto
+dal documento normativo 1030D01628) deliberati nel periodo 01/01/2018 al                          Con Gestione Contratti 2018                                                 46.657
+                                                                                                  esclusi Controllo (rinnovi, ecc)    9.829
+31/12/2018.
+                                                                                                  Scaduti/Estinti al 04/2019                          44.566
+Oltre 46.500 delibere (circa il 38% della produzione 2018) sono risultate non
+influenti sul controllo in quanto non prevedevano la contrattualizzazione (ad                     Perimetro Controllo
+esempio revisioni interne). Un numero simile di concessioni è stato oggetto di
+attività modificative ma non presenta caratteristiche di «nuova» concessione, di                  Controllo Automatico                             Rapp.                            Esito
+queste fattispecie la necessità di modifica contrattuale riguarda in prevalenza le                    Esiti (31/12/2018)                             Util.            %              (Rif
+autorizzazioni di incremento di importo o proroga della scadenza.                                                                                 04/2019                        Slide 4)
+                                                                                              Perimetro del Controllo                       =      22.676         100%
+Dal perimetro di controllo sono state escluse dalla verifica circa 10.000
+                                                                                                 di cui con Iniziativa Cliente in
+concessioni 2018 (circa 8%) scadute/estinte al momento del controllo.                                     PEF su rapporto 2018                     19.313         85,2%
+                                                                                              (Conformità Gestione Contratti)
+Il perimetro finale di controllo analitivo è risultato quindi di 22.676 rapporti
+                                                                                                  di cui con Iniziativa Banca in
+utilizzatori (di 22.577 nuove concessioni 2018) pari al 18,2% delle delibere
+                                                                                                     PEF e Iniziativa Cliente su
+sulle forme di apertura di credito in conto corrente del 2018.                                                                                      1.827          8,1%
+                                                                                                                           Rapporto
+                                                                                                   (Presunzione di correzione)
+Seguendo lo schema logico di slide 4 sono stati elaborati degli esiti
+                                                                                                       di cui Operativi 2018 con
+automatici sul perimetro del controllo. In fase di concessione la non                           Iniziativa Banca sia in PEF sia                      650           2,9%
+conformità è di oltre il 10% delle casistiche esaminate, valore che viene                                              su Rapporto
+notevolmente ridotto a seguito del controllo in fase di collegamento al                          di cui Operativi 2019* (Senza
+rapporto utilizzatore.                                                                                                                               886           3,9%
+                                                                                                                        Esito 2018)
+                                                                            * I tempi medi di contrattualizzazione sono influenzati da fattori estranei alla concessione
+                                                                            (autorizzazione condizioni, disponibilità del cliente); alla data di chiusura del controllo il 3,9% delle     12
+                                                                            concessioni 2018 risultava comunque operativa (se proporzionato all’anno produzione di 14 giorni)
+
+     Indicatore 1 - Nuovi Fidi deliberati da gennaio ad aprile 2019, prime evidenze
+Le Aree che presentano NON conformità superiori alla media sono: AT Nord Ovest e AT Nord Est.
+Distribuzione per Area Territoriale e Conformità a Gestione Contratti
+                              Gestione Contratto           Tot. Fidi*     Gestione Contratto
+                                                             Delib.
+ Area Territoriale     Num. Contratto Num. Contratto                      % Non         %
+                                                                                                             I nuovi fidi deliberati dal 01/01/2019 al 30/04/2019 e resi
+                                                            gen-apr
+                        NON Generato         Generato         2019      Conformità  Conformità               operativi entro tale data sono stati 11.314.
+NORD OVEST                    171               1.695         1.866       9,16%      90,84%
+NORD EST                      231               2.345         2.576       8,97%      91,03%                  La produzione del contratto specifico in Gestione Contratti
+TOSCANA                       129               2.652         2.781       4,64%      95,36%                  NON è stata generata in 669 casi. L’origine dell’anomalie è
+CENTRO-SARD                    82               1.855         1.937       4,23%      95,77%                  l’omessa dichiarazione di iniziativa Cliente.
+SUD-SIC                        56               2.098         2.154       2,60%      97,40%
+Totale Banca MPS              669              10.645        11.314       5,91%      94,09%                  La media di non conformità a livello Banca è del 5,91%.
+Distribuzione per Area Territoriale esclusa la Forma Tecnica «Prefinanz. Mutui»
+                                                           Tot. Fidi*
+                                                                                                             Escludendo                  dall’analisi            la        forma             tecnica
+                              Gestione Contratto                          Gestione Contratto
+                                                           Deliberati                                        Prefinanziamento su Mutui, la non conformità delle AT
+ Area Territoriale     Num. Contratto Num. Contratto gen-apr              % Non         %                    Nord Ovest e AT Nord Est si riduce notevolmente e si
+                        NON Generato         Generato         2019      Conformità  Conformità
+                                                                                                             avvicina             alla       media           delle         non         conformità
+NORD OVEST                     92               1.469         1.561       5,89%      94,11%
+                                                                                                             (rispettivamente da 9,16% a 5,89%, e dal 8,97% a
+NORD EST                      119               2.190         2.309       5,15%      94,85%
+                                                                                                             5,15%).
+TOSCANA                       120               2.614         2.734       4,39%      95,61%
+CENTRO-SARD                    77               1.826         1.903       4,05%      95,95%
+SUD-SIC                        55               2.090         2.145       2,56%      97,44%
+                                                                                                             La media di non conformità a livello Banca si riduce
+Totale Banca MPS              463              10.189        10.652       4,35%      95,65%                  passando dal 5,91% al 4,35% dei contratti attesi.
+                                                                                            *Fidi deliberati dalla filiera Rete e High Rish esclusa la forma tecnica «Anticipi di Tesoreria e/o cassa»
+                                                                                                                                                                                                       13
+
+      Indicatore 2 – Modifiche contrattuali deliberate da gennaio ad aprile 2019, prime evidenze
+ Le Aree che presentano NON conformità superiori alla media sono: AT Centro e Sardegna, AT Toscana e AT Nord Est.
+ Distribuzione per Area Territoriale e Conformità a Gestione Contratti
+                               Gestione Contratto           Tot. Fidi*   Gestione Contratto                 Le modifiche con incremento (importo o scadenza) di fidi già
+                                                              Delib.                                        operativi al 01/01/2019 e rese operative entro il 30 aprile
+  Area Territoriale     Num. Contratto Num. Contratto                   % Non          %
+                                                             gen-apr
+                         NON Generato        Generato         2019     Conformità  Conformità               2019 sono state 1.076.
+AT CENTRO-SARD                  34              110            144      23,61%      76,39%
+AT TOSC                         66              270            336      19,64%      80,36%                  La produzione del contratto specifico in Gestione Contratti
+AT NORD EST                     45              190            235      19,15%      80,85%                  NON è stata generata in 194 casi. L’origine dell’anomalie è
+AT SUD-SIC                      26              160            186      13,98%      86,02%                  l’omessa dichiarazione di iniziativa Cliente.
+AT NORD OVEST                   23              152            175      13,14%      86,86%
+Totale Banca MPS               194              882           1.076     18,03%      81,97%                  La media di non conformità a livello Banca è del 18%.
+ Distribuzione per Area Territoriale e Forma Tecnica «CC» e «CCN»
+                               Gestione Contratto           Tot. Fidi*   Gestione Contratto
+                                                            Deliberati
+  Area Territoriale     Num. Contratto Num. Contratto gen-apr           % Non          %                    Le non conformità si concentrano sulle forme di
+                         NON Generato        Generato         2019     Conformità  Conformità               finanziamento con tipologie CC e CCN. Non si
+AT CENTRO-SARD                  32               94            126      25,40%      74,60%                  apprezzano variazioni significative degli errori per Area
+AT TOSC                         59              211            270      21,85%      78,15%                  Territoriale.
+AT NORD EST                     32              135            167      19,16%      80,84%
+AT SUD-SIC                      25              139            164      15,24%      84,76%                  La media di non conformità a livello Banca è del 19,2%
+AT NORD OVEST                   16              111            127      12,60%      87,40%                  dei contratti attesi.
+Totale Banca MPS               164              690            854      19,20%      80,80%
+                                                                                           *Fidi deliberati dalla filiera Rete e High Rish esclusa la forma tecnica «Anticipi di Tesoreria e/o cassa» 14
+
+
